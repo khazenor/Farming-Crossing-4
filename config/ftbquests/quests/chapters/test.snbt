@@ -1,0 +1,26 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "test"
+	group: ""
+	id: "1FCF9D3D64DBFC40"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "1EE875C0B7DCEA4A"
+		rewards: [{
+			auto: "enabled"
+			id: "7FF11222B6CF334C"
+			item: "minecraft:oak_log"
+			type: "item"
+		}]
+		tasks: [{
+			id: "4969E52D81608875"
+			item: "minecraft:oak_fence_gate"
+			type: "item"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "test"
+}
