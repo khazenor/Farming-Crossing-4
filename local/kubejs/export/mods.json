@@ -18,6 +18,15 @@
 		"license": "MIT (https://github.com/hammertater/treechop/blob/main/LICENSE)"
 	},
 	{
+		"id": "kubejs",
+		"name": "KubeJS",
+		"version": "2001.6.3-build.52",
+		"description": "Customize your modpack or server with JavaScript!",
+		"authors": "LatvianModder",
+		"issue_tracker": "https://kubejs.com/support?source=kubejs&mc=1902&loader=forge",
+		"license": "GNU LGPLv3"
+	},
+	{
 		"id": "betterdungeons",
 		"name": "YUNG's Better Dungeons",
 		"version": "1.20-Forge-4.0.3",
@@ -26,15 +35,6 @@
 		"homepage": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons",
 		"issue_tracker": "https://github.com/yungnickyoung/YUNGs-Better-Dungeons/issues",
 		"license": "LGPLv3"
-	},
-	{
-		"id": "kubejs",
-		"name": "KubeJS",
-		"version": "2001.6.3-build.52",
-		"description": "Customize your modpack or server with JavaScript!",
-		"authors": "LatvianModder",
-		"issue_tracker": "https://kubejs.com/support?source=kubejs&mc=1902&loader=forge",
-		"license": "GNU LGPLv3"
 	},
 	{
 		"id": "ftbessentials",
@@ -92,14 +92,6 @@
 		"homepage": "https://www.curseforge.com/minecraft/mc-mods/simple-magnets",
 		"issue_tracker": "https://github.com/SuperMartijn642/SimpleMagnets/issues",
 		"license": "All rights reserved"
-	},
-	{
-		"id": "tellmemyitems",
-		"name": "Tell Me My Items",
-		"version": "1.0",
-		"description": "Client helper to inspect and export details of Minecraft.\nUsed for VSCode IntelliSense based on what items are loaded in the game.",
-		"authors": "TeamDman",
-		"license": "Mozilla Public Licence, v. 2.0"
 	},
 	{
 		"id": "morejs",
