@@ -5,7 +5,11 @@
 /backups/*
 /crash-reports/*
 /ESM/*
-/local/*
+/local/ftbchunks/*
+/local/kubejs/cache*
+/local/kubejs/exported_packs*
+/local/kubejs/export/loot_tables*
+/local/kubejs/dev.properties
 /logs/*
 /natives/*
 /patchouli_books/*
@@ -97,3 +101,6 @@ kubejs/config/client.properties
 config/reforgium-renderer.properties
 *modernfix/structureCacheV1*
 rhino.local.properties
+local/kubejs/export/errors.log
+local/kubejs/export/warnings.log
+local/kubejs/export/index.json

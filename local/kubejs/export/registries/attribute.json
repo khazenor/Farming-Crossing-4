@@ -1,0 +1,21 @@
+{
+	"minecraft:generic.max_health": "net.minecraft.world.entity.ai.attributes.RangedAttribute",
+	"minecraft:generic.follow_range": "net.minecraft.world.entity.ai.attributes.RangedAttribute",
+	"minecraft:generic.knockback_resistance": "net.minecraft.world.entity.ai.attributes.RangedAttribute",
+	"minecraft:generic.movement_speed": "net.minecraft.world.entity.ai.attributes.RangedAttribute",
+	"minecraft:generic.flying_speed": "net.minecraft.world.entity.ai.attributes.RangedAttribute",
+	"minecraft:generic.attack_damage": "net.minecraft.world.entity.ai.attributes.RangedAttribute",
+	"minecraft:generic.attack_knockback": "net.minecraft.world.entity.ai.attributes.RangedAttribute",
+	"minecraft:generic.attack_speed": "net.minecraft.world.entity.ai.attributes.RangedAttribute",
+	"minecraft:generic.armor": "net.minecraft.world.entity.ai.attributes.RangedAttribute",
+	"minecraft:generic.armor_toughness": "net.minecraft.world.entity.ai.attributes.RangedAttribute",
+	"minecraft:generic.luck": "net.minecraft.world.entity.ai.attributes.RangedAttribute",
+	"minecraft:zombie.spawn_reinforcements": "net.minecraft.world.entity.ai.attributes.RangedAttribute",
+	"minecraft:horse.jump_strength": "net.minecraft.world.entity.ai.attributes.RangedAttribute",
+	"forge:swim_speed": "net.minecraft.world.entity.ai.attributes.RangedAttribute",
+	"forge:nametag_distance": "net.minecraft.world.entity.ai.attributes.RangedAttribute",
+	"forge:entity_gravity": "net.minecraft.world.entity.ai.attributes.RangedAttribute",
+	"forge:block_reach": "net.minecraft.world.entity.ai.attributes.RangedAttribute",
+	"forge:entity_reach": "net.minecraft.world.entity.ai.attributes.RangedAttribute",
+	"forge:step_height_addition": "net.minecraft.world.entity.ai.attributes.RangedAttribute"
+}

@@ -1,0 +1,6 @@
+{
+	"crafttweaker:transform_damage": "com.blamejared.crafttweaker.api.ingredient.transform.serializer.TransformDamageSerializer",
+	"crafttweaker:transform_replace": "com.blamejared.crafttweaker.api.ingredient.transform.serializer.TransformReplaceSerializer",
+	"crafttweaker:transform_custom": "com.blamejared.crafttweaker.api.ingredient.transform.serializer.TransformCustomSerializer",
+	"crafttweaker:transform_reuse": "com.blamejared.crafttweaker.api.ingredient.transform.serializer.TransformerReuseSerializer"
+}

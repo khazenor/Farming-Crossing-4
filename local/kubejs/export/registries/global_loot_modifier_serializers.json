@@ -1,0 +1,19 @@
+{
+	"alexsmobs:banana_drop": "com.mojang.serialization.MapCodec$MapCodecCodec",
+	"alexsmobs:blossom_drop": "com.mojang.serialization.MapCodec$MapCodecCodec",
+	"alexsmobs:ancient_dart": "com.mojang.serialization.MapCodec$MapCodecCodec",
+	"alexsmobs:pigshoes": "com.mojang.serialization.MapCodec$MapCodecCodec",
+	"sophisticatedbackpacks:inject_loot": "com.mojang.serialization.MapCodec$MapCodecCodec",
+	"paraglider:paraglider": "com.mojang.serialization.MapCodec$MapCodecCodec",
+	"paraglider:spirit_orb": "com.mojang.serialization.MapCodec$MapCodecCodec",
+	"paraglider:vessel": "com.mojang.serialization.MapCodec$MapCodecCodec",
+	"paraglider:spawner_spirit_orb": "com.mojang.serialization.MapCodec$MapCodecCodec",
+	"simplehats:hat_lootinject_chest": "com.mojang.serialization.MapCodec$MapCodecCodec",
+	"simplehats:hat_lootinject_entity": "com.mojang.serialization.MapCodec$MapCodecCodec",
+	"artifacts:roll_loot_table": "com.mojang.serialization.MapCodec$MapCodecCodec",
+	"libx:addition": "com.mojang.serialization.MapCodec$MapCodecCodec",
+	"libx:removal": "com.mojang.serialization.MapCodec$MapCodecCodec",
+	"moonlight:add_item": "com.mojang.serialization.MapCodec$MapCodecCodec",
+	"moonlight:replace_item": "com.mojang.serialization.MapCodec$MapCodecCodec",
+	"moonlight:add_loot_table": "com.mojang.serialization.MapCodec$MapCodecCodec"
+}

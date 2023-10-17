@@ -1,0 +1,13 @@
+{
+	"biomesoplenty:blood": "biomesoplenty.common.block.BloodFluid$Source",
+	"biomesoplenty:flowing_blood": "biomesoplenty.common.block.BloodFluid$Flowing",
+	"minecraft:empty": "net.minecraft.world.level.material.EmptyFluid",
+	"minecraft:flowing_lava": "net.minecraft.world.level.material.LavaFluid$Flowing",
+	"minecraft:flowing_milk": "net.minecraftforge.fluids.ForgeFlowingFluid$Flowing",
+	"minecraft:flowing_water": "net.minecraft.world.level.material.WaterFluid$Flowing",
+	"minecraft:lava": "net.minecraft.world.level.material.LavaFluid$Source",
+	"minecraft:milk": "net.minecraftforge.fluids.ForgeFlowingFluid$Source",
+	"minecraft:water": "net.minecraft.world.level.material.WaterFluid$Source",
+	"sophisticatedcore:xp_flowing": "net.minecraftforge.fluids.ForgeFlowingFluid$Flowing",
+	"sophisticatedcore:xp_still": "net.minecraftforge.fluids.ForgeFlowingFluid$Source"
+}
