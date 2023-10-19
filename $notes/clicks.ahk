@@ -10,7 +10,7 @@ f12::
   ExitApp
 
 createManyQuests(){
-  Loop, 333
+  Loop, 247
   {
     customItemCollectionQuest()
   }
