@@ -11,13 +11,14 @@
 		{
 			id: "0D13A5CD7FB3E821"
 			rewards: [{
+				auto: "enabled"
 				id: "67CB19B890705331"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "16C1E274EE41BF13"
-				item: "minecraft:obsidian"
+				item: "simplehats:acornhat"
 				type: "item"
 			}]
 			x: 0.0d
@@ -26,3692 +27,3938 @@
 		{
 			id: "693D86928A437BC0"
 			rewards: [{
+				auto: "enabled"
 				id: "2F1C9554FAC47BF5"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "2B92BD4FEF60211F"
-				item: "minecraft:obsidian"
+				item: "simplehats:aegishat"
 				type: "item"
 			}]
-			x: 0.5d
-			y: 0.5d
+			x: 1.0d
+			y: 0.0d
 		}
 		{
 			id: "43C8996D95EC651A"
 			rewards: [{
+				auto: "enabled"
 				id: "581011B1C15BEFB9"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "761B77BAB7F6FB64"
-				item: "minecraft:obsidian"
+				item: "simplehats:alienphil"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			id: "271B303FA1543EF2"
+			rewards: [{
+				auto: "enabled"
+				id: "4825B578C61A59EA"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4E24068EBAC351E9"
+				item: "simplehats:amalgalichhat"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			id: "067FDC7420621D72"
+			rewards: [{
+				auto: "enabled"
+				id: "1C73AC86E3DCAA04"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "198C08F55F0F85FE"
+				item: "simplehats:angrymask"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			id: "620E3116655D1248"
+			rewards: [{
+				auto: "enabled"
+				id: "2D905F3950B584BB"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "30BC0D42499F1FDA"
+				item: "simplehats:antlers"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			id: "4982D1DD743B48E1"
+			rewards: [{
+				auto: "enabled"
+				id: "32DC4AF902CCFBC5"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "53CEF3FD4471AC40"
+				item: "simplehats:apple"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			id: "4927606D8274E75B"
+			rewards: [{
+				auto: "enabled"
+				id: "49F109EC7BC05DA2"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4D17A85EB25EF9F9"
+				item: "simplehats:artsy"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 0.0d
+		}
+		{
+			id: "3CF5CD4CE098596D"
+			rewards: [{
+				auto: "enabled"
+				id: "561D945BAA3EF029"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2496EB5FD654E442"
+				item: "simplehats:artsy_doll"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			id: "23CAF13DACCA6F7D"
+			rewards: [{
+				auto: "enabled"
+				id: "7E5FB532B9473AF4"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2BB170E0C90D0058"
+				item: "simplehats:azumanga_hat"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			id: "185117F590477F9D"
+			rewards: [{
+				auto: "enabled"
+				id: "6440526E77712A91"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "55F524DB33DCCC41"
+				item: "simplehats:babydolphin"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			id: "2C4C69229CA8AB52"
+			rewards: [{
+				auto: "enabled"
+				id: "5105F6BB6831E363"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7D58C4009C9E2FD3"
+				item: "simplehats:babyturtle"
 				type: "item"
 			}]
 			x: 1.0d
 			y: 1.0d
 		}
 		{
-			id: "271B303FA1543EF2"
+			id: "7698A406A677BC27"
 			rewards: [{
-				id: "4825B578C61A59EA"
-				item: "kubejs:miles_ticket"
+				auto: "enabled"
+				id: "4F07A8475B6C2BE1"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
-				id: "4E24068EBAC351E9"
-				item: "minecraft:obsidian"
+				id: "7C377D892B254CBC"
+				item: "simplehats:bandana"
 				type: "item"
 			}]
-			x: 1.5d
-			y: 1.5d
+			x: 2.0d
+			y: 1.0d
 		}
 		{
-			id: "067FDC7420621D72"
+			id: "13D7F353C5780D4D"
 			rewards: [{
-				id: "1C73AC86E3DCAA04"
-				item: "kubejs:miles_ticket"
+				auto: "enabled"
+				id: "1ECF67664BE9E87E"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
-				id: "198C08F55F0F85FE"
-				item: "minecraft:obsidian"
+				id: "5CDBBE6403DD8B9B"
+				item: "simplehats:bandanargb"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			id: "5283AA1842459E69"
+			rewards: [{
+				auto: "enabled"
+				id: "44E58F136CEDA190"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "47C85826F2CD9EA6"
+				item: "simplehats:baseballeaster"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			id: "624E062718989329"
+			rewards: [{
+				auto: "enabled"
+				id: "7D4C20DBB0951065"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7E85AE226A6D02B6"
+				item: "simplehats:baseballhat"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			id: "281FDF5209E3D064"
+			rewards: [{
+				auto: "enabled"
+				id: "6285B635F208699A"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "54C6C8C01C11336E"
+				item: "simplehats:baseballhatfestive"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.0d
+		}
+		{
+			id: "19C24780B9D02FD0"
+			rewards: [{
+				auto: "enabled"
+				id: "33037CB3A0C08486"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5B206FE37247CD70"
+				item: "simplehats:baseballhatjuly"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 1.0d
+		}
+		{
+			id: "44C550D67EF1BABF"
+			rewards: [{
+				auto: "enabled"
+				id: "5DEB99756FE54B98"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7D4C1DB1E5C1BA08"
+				item: "simplehats:baseballhatrgb"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 1.0d
+		}
+		{
+			id: "27FA6276BD88AEE8"
+			rewards: [{
+				auto: "enabled"
+				id: "5B44167FBB04905A"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "37993E2BAF0D69BD"
+				item: "simplehats:batwinghat"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 1.0d
+		}
+		{
+			id: "5B2F9058C55FDA93"
+			rewards: [{
+				auto: "enabled"
+				id: "22652971F5D8F95F"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "128B112F70FBEC49"
+				item: "simplehats:beanie"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			id: "17B7F3D90C9BDFD3"
+			rewards: [{
+				auto: "enabled"
+				id: "139742D86830E85D"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "68614AFA0E05D293"
+				item: "simplehats:beanieeaster"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			id: "4C113608D399D010"
+			rewards: [{
+				auto: "enabled"
+				id: "07137494E38FB107"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "335BFCE256830DD2"
+				item: "simplehats:beaniefestive"
 				type: "item"
 			}]
 			x: 2.0d
 			y: 2.0d
 		}
 		{
-			id: "620E3116655D1248"
+			id: "7546D4A69C616B12"
 			rewards: [{
-				id: "2D905F3950B584BB"
-				item: "kubejs:miles_ticket"
+				auto: "enabled"
+				id: "0973609811360D99"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
-				id: "30BC0D42499F1FDA"
-				item: "minecraft:obsidian"
+				id: "0857CD39CE2E7D46"
+				item: "simplehats:beaniejuly"
 				type: "item"
 			}]
-			x: 2.5d
-			y: 2.5d
+			x: 3.0d
+			y: 2.0d
 		}
 		{
-			id: "4982D1DD743B48E1"
+			id: "3EE046BAD3458D6E"
 			rewards: [{
-				id: "32DC4AF902CCFBC5"
-				item: "kubejs:miles_ticket"
+				auto: "enabled"
+				id: "4C99B82005459710"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
-				id: "53CEF3FD4471AC40"
-				item: "minecraft:obsidian"
+				id: "2EB82382C6062D6A"
+				item: "simplehats:beaniergb"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			id: "1087766C6AACA954"
+			rewards: [{
+				auto: "enabled"
+				id: "56304192B506A3FC"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1F161507A5A0A9E8"
+				item: "simplehats:beaniespooky"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			id: "7EAE46A06160964E"
+			rewards: [{
+				auto: "enabled"
+				id: "36797FB5711A9CF3"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "092E2BE29AC43231"
+				item: "simplehats:beehat"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			id: "47EA005EC2456BF5"
+			rewards: [{
+				auto: "enabled"
+				id: "6473325B3EA797A6"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4A31EAFF1FBFAD88"
+				item: "simplehats:beret_ribbon"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 2.0d
+		}
+		{
+			id: "11D51C247046BC54"
+			rewards: [{
+				auto: "enabled"
+				id: "7BA2B4712FF2C016"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "19E947E714C01749"
+				item: "simplehats:bicorne"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 2.0d
+		}
+		{
+			id: "71741EAD179FCC42"
+			rewards: [{
+				auto: "enabled"
+				id: "104534F5BF2DE735"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5A944414F59783BD"
+				item: "simplehats:bigbrain"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 2.0d
+		}
+		{
+			id: "4372E37E3D69FF47"
+			rewards: [{
+				auto: "enabled"
+				id: "18C69AF8C1839387"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5F7A032B1C1A5AE0"
+				item: "simplehats:bigcrown"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			id: "60E9B963EE29F416"
+			rewards: [{
+				auto: "enabled"
+				id: "1D81DB3DA3D23459"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1792A962FF8945C5"
+				item: "simplehats:bigeyes"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			id: "71AD4B991609DCA3"
+			rewards: [{
+				auto: "enabled"
+				id: "1DABEF598FC02C47"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "49811D5538C4F0F5"
+				item: "simplehats:bigribbon"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			id: "2E2C1E0274FABEA0"
+			rewards: [{
+				auto: "enabled"
+				id: "7F7015C3DE26F1CD"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "022E7498FE0318BF"
+				item: "simplehats:bigstevehead"
 				type: "item"
 			}]
 			x: 3.0d
 			y: 3.0d
 		}
 		{
-			id: "4927606D8274E75B"
+			id: "39F5B4AAEB6E9A66"
 			rewards: [{
-				id: "49F109EC7BC05DA2"
-				item: "kubejs:miles_ticket"
+				auto: "enabled"
+				id: "691300EC3A976D80"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
-				id: "4D17A85EB25EF9F9"
-				item: "minecraft:obsidian"
+				id: "0BFB42480A75D68F"
+				item: "simplehats:bluefireeye"
 				type: "item"
 			}]
-			x: 3.5d
-			y: 3.5d
+			x: 4.0d
+			y: 3.0d
 		}
 		{
-			id: "3CF5CD4CE098596D"
+			id: "3584A1D7237F3A93"
 			rewards: [{
-				id: "561D945BAA3EF029"
-				item: "kubejs:miles_ticket"
+				auto: "enabled"
+				id: "2121250CC8B0376A"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
-				id: "2496EB5FD654E442"
-				item: "minecraft:obsidian"
+				id: "15C6EFCB199D0F4C"
+				item: "simplehats:bowler"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 3.0d
+		}
+		{
+			id: "298E4064355FE649"
+			rewards: [{
+				auto: "enabled"
+				id: "5AED9F0C2505944F"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4EC7138FB61969BA"
+				item: "simplehats:breadhat"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			id: "688741C279CA5BA4"
+			rewards: [{
+				auto: "enabled"
+				id: "5A717855F0D3538F"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5393EC2510601914"
+				item: "simplehats:brownbrick"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 3.0d
+		}
+		{
+			id: "01D04A7F6C4FCABB"
+			rewards: [{
+				auto: "enabled"
+				id: "3A0FD004A20C3C4F"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3267DD2F1C853B7C"
+				item: "simplehats:bucket"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 3.0d
+		}
+		{
+			id: "2CC5985EABEA86AC"
+			rewards: [{
+				auto: "enabled"
+				id: "7229E53D30224833"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "75DB5C70B612D9B9"
+				item: "simplehats:bunnyhat"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 3.0d
+		}
+		{
+			id: "19C2252CA5CB8DBC"
+			rewards: [{
+				auto: "enabled"
+				id: "75118F6DFF7E37FB"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "79820E5D1FAFB9E6"
+				item: "simplehats:burgerhat"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			id: "6085C20188F95B72"
+			rewards: [{
+				auto: "enabled"
+				id: "5C6FDFB8E61BF715"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3DBDE0BFFC028A3B"
+				item: "simplehats:burning_m_bison"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			id: "56E39C7581285A73"
+			rewards: [{
+				auto: "enabled"
+				id: "54301C0912F7D581"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "52025C1E8D1FE879"
+				item: "simplehats:caddycap"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			id: "24AC66588D27FFD9"
+			rewards: [{
+				auto: "enabled"
+				id: "3C120999D606AA39"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3C87481492F54267"
+				item: "simplehats:camera"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			id: "5D6B5BACB225716F"
+			rewards: [{
+				auto: "enabled"
+				id: "0F82964AF0EB9C5B"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3B72595EB9224C53"
+				item: "simplehats:camerabeard"
 				type: "item"
 			}]
 			x: 4.0d
 			y: 4.0d
 		}
 		{
-			id: "23CAF13DACCA6F7D"
+			id: "637CAFFC692D0ED4"
 			rewards: [{
-				id: "7E5FB532B9473AF4"
-				item: "kubejs:miles_ticket"
+				auto: "enabled"
+				id: "324E4023B95C7AB9"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
-				id: "2BB170E0C90D0058"
-				item: "minecraft:obsidian"
+				id: "2970E0D107822870"
+				item: "simplehats:candleonhead"
 				type: "item"
 			}]
-			x: 4.5d
-			y: 4.5d
+			x: 5.0d
+			y: 4.0d
 		}
 		{
-			id: "185117F590477F9D"
+			id: "1905A2A6B2EA41A3"
 			rewards: [{
-				id: "6440526E77712A91"
-				item: "kubejs:miles_ticket"
+				auto: "enabled"
+				id: "773E1F94C2553D63"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
-				id: "55F524DB33DCCC41"
-				item: "minecraft:obsidian"
+				id: "2548B0D18DC8EA1F"
+				item: "simplehats:candycane"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			id: "242CD9A323311E5D"
+			rewards: [{
+				auto: "enabled"
+				id: "3624E62CCBC1F827"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6AE4AF61EC93568E"
+				item: "simplehats:carrotonstick"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 4.0d
+		}
+		{
+			id: "4D247CE446345806"
+			rewards: [{
+				auto: "enabled"
+				id: "2656F2EF72DCD9A4"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1930E2E5A3034F7C"
+				item: "simplehats:cartoonegg"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 4.0d
+		}
+		{
+			id: "5E9A50DCA354D057"
+			rewards: [{
+				auto: "enabled"
+				id: "1F2F9CBCDAB76EDA"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1EE1CBA87E061EC8"
+				item: "simplehats:chalk_stick"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 4.0d
+		}
+		{
+			id: "50B174939069BE97"
+			rewards: [{
+				auto: "enabled"
+				id: "5C5BBA10AA988594"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "20E70C4C02A3E498"
+				item: "simplehats:cheeseslice"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			id: "6E2A4F12E1C5A3C6"
+			rewards: [{
+				auto: "enabled"
+				id: "7F65CC450C4ABA9A"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "42B611A7938B1B39"
+				item: "simplehats:chefshat"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 5.0d
+		}
+		{
+			id: "585ACD6BC4CA0C8C"
+			rewards: [{
+				auto: "enabled"
+				id: "3656E3A755521978"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1AC5593A062CB4F4"
+				item: "simplehats:chi_ears"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 5.0d
+		}
+		{
+			id: "68DE37CFB7D39874"
+			rewards: [{
+				auto: "enabled"
+				id: "60C0B45B1E49F036"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0963440B128509EF"
+				item: "simplehats:chickenhead"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 5.0d
+		}
+		{
+			id: "1B3898959A34C35A"
+			rewards: [{
+				auto: "enabled"
+				id: "658B44031C4BEDBC"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "26DB3031CD5845FA"
+				item: "simplehats:chickenonhead"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 5.0d
+		}
+		{
+			id: "16B5ACFE7CDE4371"
+			rewards: [{
+				auto: "enabled"
+				id: "277CE7F3CA04B7A7"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4BCE4DA554D28F37"
+				item: "simplehats:christmascakehat"
 				type: "item"
 			}]
 			x: 5.0d
 			y: 5.0d
 		}
 		{
-			id: "2C4C69229CA8AB52"
+			id: "344E6134E6D8A6A1"
 			rewards: [{
-				id: "5105F6BB6831E363"
-				item: "kubejs:miles_ticket"
+				auto: "enabled"
+				id: "0CA94D085B229B83"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
-				id: "7D58C4009C9E2FD3"
-				item: "minecraft:obsidian"
+				id: "4FDDE3D78E11E765"
+				item: "simplehats:christmastree"
 				type: "item"
 			}]
-			x: 5.5d
-			y: 5.5d
+			x: 6.0d
+			y: 5.0d
 		}
 		{
-			id: "7698A406A677BC27"
+			id: "7AFA0CDD0392A7F5"
 			rewards: [{
-				id: "4F07A8475B6C2BE1"
-				item: "kubejs:miles_ticket"
+				auto: "enabled"
+				id: "5E69643ABC8448F8"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
-				id: "7C377D892B254CBC"
-				item: "minecraft:obsidian"
+				id: "400F58CD5CA286A6"
+				item: "simplehats:circular_glasses"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 5.0d
+		}
+		{
+			id: "294E0BE1C5AC7C4A"
+			rewards: [{
+				auto: "enabled"
+				id: "3E6D35CE8D8352F7"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1D83F1F11554FED0"
+				item: "simplehats:clockface"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 5.0d
+		}
+		{
+			id: "5F67CDB1A4DAFB04"
+			rewards: [{
+				auto: "enabled"
+				id: "4ECF526EF92A6DAB"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "04C2EA917B06C672"
+				item: "simplehats:cowboy"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 5.0d
+		}
+		{
+			id: "5F2BB0949BFDB729"
+			rewards: [{
+				auto: "enabled"
+				id: "0C7B9A5FBEFA199A"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0D131E887132FAE5"
+				item: "simplehats:cowboyrgb"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			id: "00FB4B41D29855D5"
+			rewards: [{
+				auto: "enabled"
+				id: "36911EE551514371"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "68BA52563BEEC08A"
+				item: "simplehats:crabonhead"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 6.0d
+		}
+		{
+			id: "331A3300CD059023"
+			rewards: [{
+				auto: "enabled"
+				id: "5B9395BF5A83231C"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5EAEF7CAABB3FE66"
+				item: "simplehats:crown"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 6.0d
+		}
+		{
+			id: "248DA6030C00E50E"
+			rewards: [{
+				auto: "enabled"
+				id: "5E31D735D1C0BA1D"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6B978A85FEAA9DBA"
+				item: "simplehats:cucumbereyemask"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			id: "33EE0B5F456186AB"
+			rewards: [{
+				auto: "enabled"
+				id: "08ABFE6884923DD3"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1F5C450728DC2478"
+				item: "simplehats:cuphead"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			id: "7813B3F8A553921E"
+			rewards: [{
+				auto: "enabled"
+				id: "0E05F1664ACE0C26"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "30CE2C174D05AE7F"
+				item: "simplehats:cyclopseye"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 6.0d
+		}
+		{
+			id: "0A391C3AE2B78DDB"
+			rewards: [{
+				auto: "enabled"
+				id: "6BA2CA5754CE2B53"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4676978F4756EDB5"
+				item: "simplehats:dairyqueen"
 				type: "item"
 			}]
 			x: 6.0d
 			y: 6.0d
 		}
 		{
-			id: "13D7F353C5780D4D"
+			id: "3FC113A4238CFEFA"
 			rewards: [{
-				id: "1ECF67664BE9E87E"
-				item: "kubejs:miles_ticket"
+				auto: "enabled"
+				id: "4BC00DBEBF675591"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
-				id: "5CDBBE6403DD8B9B"
-				item: "minecraft:obsidian"
+				id: "770F4B19D81FDDFF"
+				item: "simplehats:dangereqsue"
 				type: "item"
 			}]
-			x: 6.5d
-			y: 6.5d
+			x: 7.0d
+			y: 6.0d
 		}
 		{
-			id: "5283AA1842459E69"
+			id: "6C01FC4B55E82D53"
 			rewards: [{
-				id: "44E58F136CEDA190"
-				item: "kubejs:miles_ticket"
+				auto: "enabled"
+				id: "70CD77332D3B1B3E"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
-				id: "47C85826F2CD9EA6"
-				item: "minecraft:obsidian"
+				id: "1732F7684C361CF7"
+				item: "simplehats:dangeresquejuly"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 6.0d
+		}
+		{
+			id: "627F6FC7C32DC999"
+			rewards: [{
+				auto: "enabled"
+				id: "32F398CD9BCF5950"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "43C753B4023C54A3"
+				item: "simplehats:dejiko"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 6.0d
+		}
+		{
+			id: "5FB4B25B0E59E79B"
+			rewards: [{
+				auto: "enabled"
+				id: "6F13A47B5C8602E0"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0DAE345BB411E5C8"
+				item: "simplehats:demoneyes"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 7.0d
+		}
+		{
+			id: "30BA7012E06C8957"
+			rewards: [{
+				auto: "enabled"
+				id: "5C13832A906C85D2"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "439CB0B005740810"
+				item: "simplehats:demonhorns"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 7.0d
+		}
+		{
+			id: "53A27A42FF87A4A0"
+			rewards: [{
+				auto: "enabled"
+				id: "685180DC49F9FE01"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "658E657B0FF0DB35"
+				item: "simplehats:digger"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 7.0d
+		}
+		{
+			id: "7C9163F025FA064E"
+			rewards: [{
+				auto: "enabled"
+				id: "7BCBD84F40171DA5"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4079A878399FC4B5"
+				item: "simplehats:dimmahat"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 7.0d
+		}
+		{
+			id: "69F6DB3E1532FF4A"
+			rewards: [{
+				auto: "enabled"
+				id: "636579C557F81876"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5EBFC88FF0C26E92"
+				item: "simplehats:discoball"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 7.0d
+		}
+		{
+			id: "78B89DEAE6C1222D"
+			rewards: [{
+				auto: "enabled"
+				id: "098293587BD0BB31"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "66E44A32340526F0"
+				item: "simplehats:disguise"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 7.0d
+		}
+		{
+			id: "6EC21445AB36151E"
+			rewards: [{
+				auto: "enabled"
+				id: "6F90513749909052"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3E287136B252D7A8"
+				item: "simplehats:doctorhat"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 7.0d
+		}
+		{
+			id: "5888104E7AF66003"
+			rewards: [{
+				auto: "enabled"
+				id: "4EA03BA858A5276A"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "52785B891254C63A"
+				item: "simplehats:dorkglassesandteeth"
 				type: "item"
 			}]
 			x: 7.0d
 			y: 7.0d
 		}
 		{
-			id: "624E062718989329"
+			id: "7591DC31A36D02F0"
 			rewards: [{
-				id: "7D4C20DBB0951065"
-				item: "kubejs:miles_ticket"
+				auto: "enabled"
+				id: "16BFA5B16ABC2357"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
-				id: "7E85AE226A6D02B6"
-				item: "minecraft:obsidian"
+				id: "04120B95284EB576"
+				item: "simplehats:doubletake"
 				type: "item"
 			}]
-			x: 7.5d
-			y: 7.5d
+			x: 8.0d
+			y: 7.0d
 		}
 		{
-			id: "281FDF5209E3D064"
+			id: "74AD4A25B7C01AE2"
 			rewards: [{
-				id: "6285B635F208699A"
-				item: "kubejs:miles_ticket"
+				auto: "enabled"
+				id: "1726D20C6EE1563E"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
-				id: "54C6C8C01C11336E"
-				item: "minecraft:obsidian"
+				id: "53D6C59E619E50C7"
+				item: "simplehats:dragonhead"
+				type: "item"
+			}]
+			x: 9.0d
+			y: 7.0d
+		}
+		{
+			id: "6E5DC48A5F86D9BD"
+			rewards: [{
+				auto: "enabled"
+				id: "7E3D786BA48C96BD"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0EAB88A5A12071B7"
+				item: "simplehats:dragonskull"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			id: "013399C2B9336343"
+			rewards: [{
+				auto: "enabled"
+				id: "0644C2CF6ADB88CF"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1988D034BF4C36E3"
+				item: "simplehats:dragonskullender"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 8.0d
+		}
+		{
+			id: "5A6FECB8FB33E547"
+			rewards: [{
+				auto: "enabled"
+				id: "657D53FA74D5CD2C"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "238FBD3010CF8A20"
+				item: "simplehats:drinkinhat"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 8.0d
+		}
+		{
+			id: "2BE0A60D5B65F589"
+			rewards: [{
+				auto: "enabled"
+				id: "3AEA11E8417353E0"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "22B8E779393A7C15"
+				item: "simplehats:dumhat"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 8.0d
+		}
+		{
+			id: "23E475D833B43C98"
+			rewards: [{
+				auto: "enabled"
+				id: "5342BD406FF33589"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5AEDB60F0E4EA034"
+				item: "simplehats:dwarfminerbeard"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 8.0d
+		}
+		{
+			id: "45AD28E233C92143"
+			rewards: [{
+				auto: "enabled"
+				id: "4DA45146FA52AE95"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "180C56FB8B2E4C10"
+				item: "simplehats:easterhead"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 8.0d
+		}
+		{
+			id: "1507C4FA7F0B03AD"
+			rewards: [{
+				auto: "enabled"
+				id: "22D005597D3CD3D5"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "249B7C64EFEE0727"
+				item: "simplehats:egghead"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 8.0d
+		}
+		{
+			id: "2F75C56D7D143E65"
+			rewards: [{
+				auto: "enabled"
+				id: "32598408A766DE01"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0317D7A6BE5678A4"
+				item: "simplehats:eggonhead"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 8.0d
+		}
+		{
+			id: "6078B7D4A50D953B"
+			rewards: [{
+				auto: "enabled"
+				id: "2F4DE363F06AAFF6"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0E668C02B002102F"
+				item: "simplehats:elfhat"
 				type: "item"
 			}]
 			x: 8.0d
 			y: 8.0d
 		}
 		{
-			id: "19C24780B9D02FD0"
+			id: "5BA8801EF2371E64"
 			rewards: [{
-				id: "33037CB3A0C08486"
-				item: "kubejs:miles_ticket"
+				auto: "enabled"
+				id: "5E95F94B8EE2C008"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
-				id: "5B206FE37247CD70"
-				item: "minecraft:obsidian"
+				id: "7FA0FCE5896F8018"
+				item: "simplehats:explorerhat"
 				type: "item"
 			}]
-			x: 8.5d
-			y: 8.5d
+			x: 9.0d
+			y: 8.0d
 		}
 		{
-			id: "44C550D67EF1BABF"
+			id: "7E9774E0AE593AEC"
 			rewards: [{
-				id: "5DEB99756FE54B98"
-				item: "kubejs:miles_ticket"
+				auto: "enabled"
+				id: "0432301215CDCF06"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
-				id: "7D4C1DB1E5C1BA08"
-				item: "minecraft:obsidian"
+				id: "6A94C54B8432CF77"
+				item: "simplehats:eyepatch"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			id: "7B7B4BE9A6024C8F"
+			rewards: [{
+				auto: "enabled"
+				id: "49F674063B088405"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "463D07257DC548BB"
+				item: "simplehats:fakeblight"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 9.0d
+		}
+		{
+			id: "517D3244A71ACEA2"
+			rewards: [{
+				auto: "enabled"
+				id: "5D0D221D142A5DAC"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "75236C152A312F3E"
+				item: "simplehats:fakefire"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 9.0d
+		}
+		{
+			id: "12F5DB111195017F"
+			rewards: [{
+				auto: "enabled"
+				id: "44CBFC4218A11516"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "001B230F7BFC1C5A"
+				item: "simplehats:farmerbrim"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 9.0d
+		}
+		{
+			id: "0713931866A2619D"
+			rewards: [{
+				auto: "enabled"
+				id: "40CA51E3094DE9FD"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "320EA48CE83F6226"
+				item: "simplehats:festiveantlers"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 9.0d
+		}
+		{
+			id: "6551E4A3094B4428"
+			rewards: [{
+				auto: "enabled"
+				id: "4A581B7FC04C2CB3"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3130CAB3B211017F"
+				item: "simplehats:festiveribbon"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 9.0d
+		}
+		{
+			id: "796CD53B72DB91C8"
+			rewards: [{
+				auto: "enabled"
+				id: "67284A4FA5E04EDB"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "346A315BED51CEF1"
+				item: "simplehats:fez"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 9.0d
+		}
+		{
+			id: "7B34BD6E24C86B04"
+			rewards: [{
+				auto: "enabled"
+				id: "525B6F91FF67BB8E"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6276189DB086971B"
+				item: "simplehats:finnhood"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 9.0d
+		}
+		{
+			id: "17A9629FD872DC47"
+			rewards: [{
+				auto: "enabled"
+				id: "3F940CB23D2840F1"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "46C4B48074726670"
+				item: "simplehats:fireworks"
+				type: "item"
+			}]
+			x: 8.0d
+			y: 9.0d
+		}
+		{
+			id: "533188676075D085"
+			rewards: [{
+				auto: "enabled"
+				id: "5F545AE2BADC58E5"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			tasks: [{
+				id: "22BCD61CB63EEDF2"
+				item: "simplehats:fishing_hat"
 				type: "item"
 			}]
 			x: 9.0d
 			y: 9.0d
 		}
 		{
-			id: "27FA6276BD88AEE8"
-			rewards: [{
-				id: "5B44167FBB04905A"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "37993E2BAF0D69BD"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 9.5d
-			y: 9.5d
-		}
-		{
-			id: "5B2F9058C55FDA93"
-			rewards: [{
-				id: "22652971F5D8F95F"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "128B112F70FBEC49"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 10.0d
-			y: 10.0d
-		}
-		{
-			id: "17B7F3D90C9BDFD3"
-			rewards: [{
-				id: "139742D86830E85D"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "68614AFA0E05D293"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 10.5d
-			y: 10.5d
-		}
-		{
-			id: "4C113608D399D010"
-			rewards: [{
-				id: "07137494E38FB107"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "335BFCE256830DD2"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 11.0d
-			y: 11.0d
-		}
-		{
-			id: "7546D4A69C616B12"
-			rewards: [{
-				id: "0973609811360D99"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "0857CD39CE2E7D46"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 11.5d
-			y: 11.5d
-		}
-		{
-			id: "3EE046BAD3458D6E"
-			rewards: [{
-				id: "4C99B82005459710"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "2EB82382C6062D6A"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 12.0d
-			y: 12.0d
-		}
-		{
-			id: "1087766C6AACA954"
-			rewards: [{
-				id: "56304192B506A3FC"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "1F161507A5A0A9E8"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 12.5d
-			y: 12.5d
-		}
-		{
-			id: "7EAE46A06160964E"
-			rewards: [{
-				id: "36797FB5711A9CF3"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "092E2BE29AC43231"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 13.0d
-			y: 13.0d
-		}
-		{
-			id: "47EA005EC2456BF5"
-			rewards: [{
-				id: "6473325B3EA797A6"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "4A31EAFF1FBFAD88"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 13.5d
-			y: 13.5d
-		}
-		{
-			id: "11D51C247046BC54"
-			rewards: [{
-				id: "7BA2B4712FF2C016"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "19E947E714C01749"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 14.0d
-			y: 14.0d
-		}
-		{
-			id: "71741EAD179FCC42"
-			rewards: [{
-				id: "104534F5BF2DE735"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "5A944414F59783BD"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 14.5d
-			y: 14.5d
-		}
-		{
-			id: "4372E37E3D69FF47"
-			rewards: [{
-				id: "18C69AF8C1839387"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "5F7A032B1C1A5AE0"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 15.0d
-			y: 15.0d
-		}
-		{
-			id: "60E9B963EE29F416"
-			rewards: [{
-				id: "1D81DB3DA3D23459"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "1792A962FF8945C5"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 15.5d
-			y: 15.5d
-		}
-		{
-			id: "71AD4B991609DCA3"
-			rewards: [{
-				id: "1DABEF598FC02C47"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "49811D5538C4F0F5"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 16.0d
-			y: 16.0d
-		}
-		{
-			id: "2E2C1E0274FABEA0"
-			rewards: [{
-				id: "7F7015C3DE26F1CD"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "022E7498FE0318BF"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 16.5d
-			y: 16.5d
-		}
-		{
-			id: "39F5B4AAEB6E9A66"
-			rewards: [{
-				id: "691300EC3A976D80"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "0BFB42480A75D68F"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 17.0d
-			y: 17.0d
-		}
-		{
-			id: "3584A1D7237F3A93"
-			rewards: [{
-				id: "2121250CC8B0376A"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "15C6EFCB199D0F4C"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 17.5d
-			y: 17.5d
-		}
-		{
-			id: "298E4064355FE649"
-			rewards: [{
-				id: "5AED9F0C2505944F"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "4EC7138FB61969BA"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 18.0d
-			y: 18.0d
-		}
-		{
-			id: "688741C279CA5BA4"
-			rewards: [{
-				id: "5A717855F0D3538F"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "5393EC2510601914"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 18.5d
-			y: 18.5d
-		}
-		{
-			id: "01D04A7F6C4FCABB"
-			rewards: [{
-				id: "3A0FD004A20C3C4F"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "3267DD2F1C853B7C"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 19.0d
-			y: 19.0d
-		}
-		{
-			id: "2CC5985EABEA86AC"
-			rewards: [{
-				id: "7229E53D30224833"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "75DB5C70B612D9B9"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 19.5d
-			y: 19.5d
-		}
-		{
-			id: "19C2252CA5CB8DBC"
-			rewards: [{
-				id: "75118F6DFF7E37FB"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "79820E5D1FAFB9E6"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 20.0d
-			y: 20.0d
-		}
-		{
-			id: "6085C20188F95B72"
-			rewards: [{
-				id: "5C6FDFB8E61BF715"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "3DBDE0BFFC028A3B"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 20.5d
-			y: 20.5d
-		}
-		{
-			id: "56E39C7581285A73"
-			rewards: [{
-				id: "54301C0912F7D581"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "52025C1E8D1FE879"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 21.0d
-			y: 21.0d
-		}
-		{
-			id: "24AC66588D27FFD9"
-			rewards: [{
-				id: "3C120999D606AA39"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "3C87481492F54267"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 21.5d
-			y: 21.5d
-		}
-		{
-			id: "5D6B5BACB225716F"
-			rewards: [{
-				id: "0F82964AF0EB9C5B"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "3B72595EB9224C53"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 22.0d
-			y: 22.0d
-		}
-		{
-			id: "637CAFFC692D0ED4"
-			rewards: [{
-				id: "324E4023B95C7AB9"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "2970E0D107822870"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 22.5d
-			y: 22.5d
-		}
-		{
-			id: "1905A2A6B2EA41A3"
-			rewards: [{
-				id: "773E1F94C2553D63"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "2548B0D18DC8EA1F"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 23.0d
-			y: 23.0d
-		}
-		{
-			id: "242CD9A323311E5D"
-			rewards: [{
-				id: "3624E62CCBC1F827"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "6AE4AF61EC93568E"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 23.5d
-			y: 23.5d
-		}
-		{
-			id: "4D247CE446345806"
-			rewards: [{
-				id: "2656F2EF72DCD9A4"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "1930E2E5A3034F7C"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 24.0d
-			y: 24.0d
-		}
-		{
-			id: "5E9A50DCA354D057"
-			rewards: [{
-				id: "1F2F9CBCDAB76EDA"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "1EE1CBA87E061EC8"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 24.5d
-			y: 24.5d
-		}
-		{
-			id: "50B174939069BE97"
-			rewards: [{
-				id: "5C5BBA10AA988594"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "20E70C4C02A3E498"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 25.0d
-			y: 25.0d
-		}
-		{
-			id: "6E2A4F12E1C5A3C6"
-			rewards: [{
-				id: "7F65CC450C4ABA9A"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "42B611A7938B1B39"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 25.5d
-			y: 25.5d
-		}
-		{
-			id: "585ACD6BC4CA0C8C"
-			rewards: [{
-				id: "3656E3A755521978"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "1AC5593A062CB4F4"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 26.0d
-			y: 26.0d
-		}
-		{
-			id: "68DE37CFB7D39874"
-			rewards: [{
-				id: "60C0B45B1E49F036"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "0963440B128509EF"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 26.5d
-			y: 26.5d
-		}
-		{
-			id: "1B3898959A34C35A"
-			rewards: [{
-				id: "658B44031C4BEDBC"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "26DB3031CD5845FA"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 27.0d
-			y: 27.0d
-		}
-		{
-			id: "16B5ACFE7CDE4371"
-			rewards: [{
-				id: "277CE7F3CA04B7A7"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "4BCE4DA554D28F37"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 27.5d
-			y: 27.5d
-		}
-		{
-			id: "344E6134E6D8A6A1"
-			rewards: [{
-				id: "0CA94D085B229B83"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "4FDDE3D78E11E765"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 28.0d
-			y: 28.0d
-		}
-		{
-			id: "7AFA0CDD0392A7F5"
-			rewards: [{
-				id: "5E69643ABC8448F8"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "400F58CD5CA286A6"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 28.5d
-			y: 28.5d
-		}
-		{
-			id: "294E0BE1C5AC7C4A"
-			rewards: [{
-				id: "3E6D35CE8D8352F7"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "1D83F1F11554FED0"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 29.0d
-			y: 29.0d
-		}
-		{
-			id: "5F67CDB1A4DAFB04"
-			rewards: [{
-				id: "4ECF526EF92A6DAB"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "04C2EA917B06C672"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 29.5d
-			y: 29.5d
-		}
-		{
-			id: "5F2BB0949BFDB729"
-			rewards: [{
-				id: "0C7B9A5FBEFA199A"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "0D131E887132FAE5"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 30.0d
-			y: 30.0d
-		}
-		{
-			id: "00FB4B41D29855D5"
-			rewards: [{
-				id: "36911EE551514371"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "68BA52563BEEC08A"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 30.5d
-			y: 30.5d
-		}
-		{
-			id: "331A3300CD059023"
-			rewards: [{
-				id: "5B9395BF5A83231C"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "5EAEF7CAABB3FE66"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 31.0d
-			y: 31.0d
-		}
-		{
-			id: "248DA6030C00E50E"
-			rewards: [{
-				id: "5E31D735D1C0BA1D"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "6B978A85FEAA9DBA"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 31.5d
-			y: 31.5d
-		}
-		{
-			id: "33EE0B5F456186AB"
-			rewards: [{
-				id: "08ABFE6884923DD3"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "1F5C450728DC2478"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 32.0d
-			y: 32.0d
-		}
-		{
-			id: "7813B3F8A553921E"
-			rewards: [{
-				id: "0E05F1664ACE0C26"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "30CE2C174D05AE7F"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 32.5d
-			y: 32.5d
-		}
-		{
-			id: "0A391C3AE2B78DDB"
-			rewards: [{
-				id: "6BA2CA5754CE2B53"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "4676978F4756EDB5"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 33.0d
-			y: 33.0d
-		}
-		{
-			id: "3FC113A4238CFEFA"
-			rewards: [{
-				id: "4BC00DBEBF675591"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "770F4B19D81FDDFF"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 33.5d
-			y: 33.5d
-		}
-		{
-			id: "6C01FC4B55E82D53"
-			rewards: [{
-				id: "70CD77332D3B1B3E"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "1732F7684C361CF7"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 34.0d
-			y: 34.0d
-		}
-		{
-			id: "627F6FC7C32DC999"
-			rewards: [{
-				id: "32F398CD9BCF5950"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "43C753B4023C54A3"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 34.5d
-			y: 34.5d
-		}
-		{
-			id: "5FB4B25B0E59E79B"
-			rewards: [{
-				id: "6F13A47B5C8602E0"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "0DAE345BB411E5C8"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 35.0d
-			y: 35.0d
-		}
-		{
-			id: "30BA7012E06C8957"
-			rewards: [{
-				id: "5C13832A906C85D2"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "439CB0B005740810"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 35.5d
-			y: 35.5d
-		}
-		{
-			id: "53A27A42FF87A4A0"
-			rewards: [{
-				id: "685180DC49F9FE01"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "658E657B0FF0DB35"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 36.0d
-			y: 36.0d
-		}
-		{
-			id: "7C9163F025FA064E"
-			rewards: [{
-				id: "7BCBD84F40171DA5"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "4079A878399FC4B5"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 36.5d
-			y: 36.5d
-		}
-		{
-			id: "69F6DB3E1532FF4A"
-			rewards: [{
-				id: "636579C557F81876"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "5EBFC88FF0C26E92"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 37.0d
-			y: 37.0d
-		}
-		{
-			id: "78B89DEAE6C1222D"
-			rewards: [{
-				id: "098293587BD0BB31"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "66E44A32340526F0"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 37.5d
-			y: 37.5d
-		}
-		{
-			id: "6EC21445AB36151E"
-			rewards: [{
-				id: "6F90513749909052"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "3E287136B252D7A8"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 38.0d
-			y: 38.0d
-		}
-		{
-			id: "5888104E7AF66003"
-			rewards: [{
-				id: "4EA03BA858A5276A"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "52785B891254C63A"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 38.5d
-			y: 38.5d
-		}
-		{
-			id: "7591DC31A36D02F0"
-			rewards: [{
-				id: "16BFA5B16ABC2357"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "04120B95284EB576"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 39.0d
-			y: 39.0d
-		}
-		{
-			id: "74AD4A25B7C01AE2"
-			rewards: [{
-				id: "1726D20C6EE1563E"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "53D6C59E619E50C7"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 39.5d
-			y: 39.5d
-		}
-		{
-			id: "6E5DC48A5F86D9BD"
-			rewards: [{
-				id: "7E3D786BA48C96BD"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "0EAB88A5A12071B7"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 40.0d
-			y: 40.0d
-		}
-		{
-			id: "013399C2B9336343"
-			rewards: [{
-				id: "0644C2CF6ADB88CF"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "1988D034BF4C36E3"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 40.5d
-			y: 40.5d
-		}
-		{
-			id: "5A6FECB8FB33E547"
-			rewards: [{
-				id: "657D53FA74D5CD2C"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "238FBD3010CF8A20"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 41.0d
-			y: 41.0d
-		}
-		{
-			id: "2BE0A60D5B65F589"
-			rewards: [{
-				id: "3AEA11E8417353E0"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "22B8E779393A7C15"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 41.5d
-			y: 41.5d
-		}
-		{
-			id: "23E475D833B43C98"
-			rewards: [{
-				id: "5342BD406FF33589"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "5AEDB60F0E4EA034"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 42.0d
-			y: 42.0d
-		}
-		{
-			id: "45AD28E233C92143"
-			rewards: [{
-				id: "4DA45146FA52AE95"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "180C56FB8B2E4C10"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 42.5d
-			y: 42.5d
-		}
-		{
-			id: "1507C4FA7F0B03AD"
-			rewards: [{
-				id: "22D005597D3CD3D5"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "249B7C64EFEE0727"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 43.0d
-			y: 43.0d
-		}
-		{
-			id: "2F75C56D7D143E65"
-			rewards: [{
-				id: "32598408A766DE01"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "0317D7A6BE5678A4"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 43.5d
-			y: 43.5d
-		}
-		{
-			id: "6078B7D4A50D953B"
-			rewards: [{
-				id: "2F4DE363F06AAFF6"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "0E668C02B002102F"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 44.0d
-			y: 44.0d
-		}
-		{
-			id: "5BA8801EF2371E64"
-			rewards: [{
-				id: "5E95F94B8EE2C008"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "7FA0FCE5896F8018"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 44.5d
-			y: 44.5d
-		}
-		{
-			id: "7E9774E0AE593AEC"
-			rewards: [{
-				id: "0432301215CDCF06"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "6A94C54B8432CF77"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 45.0d
-			y: 45.0d
-		}
-		{
-			id: "7B7B4BE9A6024C8F"
-			rewards: [{
-				id: "49F674063B088405"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "463D07257DC548BB"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 45.5d
-			y: 45.5d
-		}
-		{
-			id: "517D3244A71ACEA2"
-			rewards: [{
-				id: "5D0D221D142A5DAC"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "75236C152A312F3E"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 46.0d
-			y: 46.0d
-		}
-		{
-			id: "12F5DB111195017F"
-			rewards: [{
-				id: "44CBFC4218A11516"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "001B230F7BFC1C5A"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 46.5d
-			y: 46.5d
-		}
-		{
-			id: "0713931866A2619D"
-			rewards: [{
-				id: "40CA51E3094DE9FD"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "320EA48CE83F6226"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 47.0d
-			y: 47.0d
-		}
-		{
-			id: "6551E4A3094B4428"
-			rewards: [{
-				id: "4A581B7FC04C2CB3"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "3130CAB3B211017F"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 47.5d
-			y: 47.5d
-		}
-		{
-			id: "796CD53B72DB91C8"
-			rewards: [{
-				id: "67284A4FA5E04EDB"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "346A315BED51CEF1"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 48.0d
-			y: 48.0d
-		}
-		{
-			id: "7B34BD6E24C86B04"
-			rewards: [{
-				id: "525B6F91FF67BB8E"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "6276189DB086971B"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 48.5d
-			y: 48.5d
-		}
-		{
-			id: "17A9629FD872DC47"
-			rewards: [{
-				id: "3F940CB23D2840F1"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "46C4B48074726670"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 49.0d
-			y: 49.0d
-		}
-		{
-			id: "533188676075D085"
-			rewards: [{
-				id: "5F545AE2BADC58E5"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			tasks: [{
-				id: "22BCD61CB63EEDF2"
-				item: "minecraft:obsidian"
-				type: "item"
-			}]
-			x: 49.5d
-			y: 49.5d
-		}
-		{
 			id: "176339151659BDAF"
 			rewards: [{
+				auto: "enabled"
 				id: "0BF0CC8A5713271D"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "524F175181A7C97A"
-				item: "minecraft:obsidian"
+				item: "simplehats:fishonhead"
 				type: "item"
 			}]
-			x: 50.0d
-			y: 50.0d
+			x: 11.0d
+			y: 0.0d
 		}
 		{
 			id: "3F981BB71A0DD0D0"
 			rewards: [{
+				auto: "enabled"
 				id: "4DE00D5EA153C3BE"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "766C01F408E91EC2"
-				item: "minecraft:obsidian"
+				item: "simplehats:flagjuly"
 				type: "item"
 			}]
-			x: 50.5d
-			y: 50.5d
+			x: 12.0d
+			y: 0.0d
 		}
 		{
 			id: "5D7C29EF812B8A62"
 			rewards: [{
+				auto: "enabled"
 				id: "4E924BA96081982D"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "6BB3669B4464FEB2"
-				item: "minecraft:obsidian"
+				item: "simplehats:flies"
 				type: "item"
 			}]
-			x: 51.0d
-			y: 51.0d
+			x: 13.0d
+			y: 0.0d
 		}
 		{
 			id: "6249225809559190"
 			rewards: [{
+				auto: "enabled"
 				id: "141C8172C0D2B552"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "3ABC13B9ABFD505E"
-				item: "minecraft:obsidian"
+				item: "simplehats:floatinghearts"
 				type: "item"
 			}]
-			x: 51.5d
-			y: 51.5d
+			x: 14.0d
+			y: 0.0d
 		}
 		{
 			id: "167CF03C90CFCA98"
 			rewards: [{
+				auto: "enabled"
 				id: "7135100679A9BA24"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "1F124A291BA585D2"
-				item: "minecraft:obsidian"
+				item: "simplehats:floatingstar"
 				type: "item"
 			}]
-			x: 52.0d
-			y: 52.0d
+			x: 15.0d
+			y: 0.0d
 		}
 		{
 			id: "4CD0A5AD6008A503"
 			rewards: [{
+				auto: "enabled"
 				id: "41229E248F62ED79"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "6366BE7733D7E3C7"
-				item: "minecraft:obsidian"
+				item: "simplehats:flowercrown"
 				type: "item"
 			}]
-			x: 52.5d
-			y: 52.5d
+			x: 16.0d
+			y: 0.0d
 		}
 		{
 			id: "563F6721DDC1DAA8"
 			rewards: [{
+				auto: "enabled"
 				id: "1BD83CE011F58BB0"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "1C0A32292E911FA5"
-				item: "minecraft:obsidian"
+				item: "simplehats:floweronhead"
 				type: "item"
 			}]
-			x: 53.0d
-			y: 53.0d
+			x: 17.0d
+			y: 0.0d
 		}
 		{
 			id: "10EEAF96F5D93780"
 			rewards: [{
+				auto: "enabled"
 				id: "728C4CB463FF4009"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "3EB7201435CA4817"
-				item: "minecraft:obsidian"
+				item: "simplehats:foxhat"
 				type: "item"
 			}]
-			x: 53.5d
-			y: 53.5d
+			x: 18.0d
+			y: 0.0d
 		}
 		{
 			id: "28F83AA205C3EF8F"
 			rewards: [{
+				auto: "enabled"
 				id: "54B36C0D38C4D628"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "0AF8588A0EA4B2EE"
-				item: "minecraft:obsidian"
+				item: "simplehats:fro"
 				type: "item"
 			}]
-			x: 54.0d
-			y: 54.0d
+			x: 19.0d
+			y: 0.0d
 		}
 		{
 			id: "4A64DC8E3A2047F0"
 			rewards: [{
+				auto: "enabled"
 				id: "172F68BE5D4DFBA9"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "66D9EB4BFE038028"
-				item: "minecraft:obsidian"
+				item: "simplehats:frozenhead"
 				type: "item"
 			}]
-			x: 54.5d
-			y: 54.5d
+			x: 20.0d
+			y: 0.0d
 		}
 		{
 			id: "797077C8296F11BD"
 			rewards: [{
+				auto: "enabled"
 				id: "1C22B601D19A8F23"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "0D73744DBFEC265A"
-				item: "minecraft:obsidian"
+				item: "simplehats:fullironhelm"
 				type: "item"
 			}]
-			x: 55.0d
-			y: 55.0d
+			x: 11.0d
+			y: 1.0d
 		}
 		{
 			id: "2B2959BEE4A6CB5A"
 			rewards: [{
+				auto: "enabled"
 				id: "1866470F0266490A"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "4708EA623137ACF5"
-				item: "minecraft:obsidian"
+				item: "simplehats:ghostmask"
 				type: "item"
 			}]
-			x: 55.5d
-			y: 55.5d
+			x: 12.0d
+			y: 1.0d
 		}
 		{
 			id: "24E056382FC27D25"
 			rewards: [{
+				auto: "enabled"
 				id: "6022016CFBF7A4A6"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "22FAC6BFB75687DE"
-				item: "minecraft:obsidian"
+				item: "simplehats:goggles"
 				type: "item"
 			}]
-			x: 56.0d
-			y: 56.0d
+			x: 13.0d
+			y: 1.0d
 		}
 		{
 			id: "34EC2020E76FD45E"
 			rewards: [{
+				auto: "enabled"
 				id: "042CDA4431C1AF1A"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "55D72449FF5E9581"
-				item: "minecraft:obsidian"
+				item: "simplehats:grandmadisguise"
 				type: "item"
 			}]
-			x: 56.5d
-			y: 56.5d
+			x: 14.0d
+			y: 1.0d
 		}
 		{
 			id: "395C25D321DBEC9D"
 			rewards: [{
+				auto: "enabled"
 				id: "59417DAAFDE30468"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "4C31F69A009A7B92"
-				item: "minecraft:obsidian"
+				item: "simplehats:greenbirb"
 				type: "item"
 			}]
-			x: 57.0d
-			y: 57.0d
+			x: 15.0d
+			y: 1.0d
 		}
 		{
 			id: "5C04016817AFA76B"
 			rewards: [{
+				auto: "enabled"
 				id: "18C417B9EE9E3DF7"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "47D155A23FFBFFF1"
-				item: "minecraft:obsidian"
+				item: "simplehats:grinchhat"
 				type: "item"
 			}]
-			x: 57.5d
-			y: 57.5d
+			x: 16.0d
+			y: 1.0d
 		}
 		{
 			id: "74BA9FA4677DA589"
 			rewards: [{
+				auto: "enabled"
 				id: "2C8ECC8331DEDE2D"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "05682C3663373E7F"
-				item: "minecraft:obsidian"
+				item: "simplehats:halo"
 				type: "item"
 			}]
-			x: 58.0d
-			y: 58.0d
+			x: 17.0d
+			y: 1.0d
 		}
 		{
 			id: "5354BE9EE0EA48D7"
 			rewards: [{
+				auto: "enabled"
 				id: "219D00AE75212082"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "3F586AF3D3888ECA"
-				item: "minecraft:obsidian"
+				item: "simplehats:hatbag_common"
 				type: "item"
 			}]
-			x: 58.5d
-			y: 58.5d
+			x: 18.0d
+			y: 1.0d
 		}
 		{
 			id: "37ED381AE5C75EBC"
 			rewards: [{
+				auto: "enabled"
 				id: "54C240A86F5E3CEF"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "0D606076404D1F75"
-				item: "minecraft:obsidian"
+				item: "simplehats:hatbag_easter"
 				type: "item"
 			}]
-			x: 59.0d
-			y: 59.0d
+			x: 19.0d
+			y: 1.0d
 		}
 		{
 			id: "10C238A498CE1FCF"
 			rewards: [{
+				auto: "enabled"
 				id: "6966129FE63251A1"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "4958101F9098CF6A"
-				item: "minecraft:obsidian"
+				item: "simplehats:hatbag_epic"
 				type: "item"
 			}]
-			x: 59.5d
-			y: 59.5d
+			x: 20.0d
+			y: 1.0d
 		}
 		{
 			id: "6093241B534329E0"
 			rewards: [{
+				auto: "enabled"
 				id: "4E5F3A0B54F4D7D7"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "2138A9ABC184A99A"
-				item: "minecraft:obsidian"
+				item: "simplehats:hatbag_festive"
 				type: "item"
 			}]
-			x: 60.0d
-			y: 60.0d
+			x: 11.0d
+			y: 2.0d
 		}
 		{
 			id: "21B8588CC502CD1E"
 			rewards: [{
+				auto: "enabled"
 				id: "5D4F1DBF6A0A3EBE"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "13BBDF615BFFEE62"
-				item: "minecraft:obsidian"
+				item: "simplehats:hatbag_halloween"
 				type: "item"
 			}]
-			x: 60.5d
-			y: 60.5d
+			x: 12.0d
+			y: 2.0d
 		}
 		{
 			id: "1E059BA57F3D220A"
 			rewards: [{
+				auto: "enabled"
 				id: "3DBDDFAB00B43086"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "5F5C79119E9CE6E5"
-				item: "minecraft:obsidian"
+				item: "simplehats:hatbag_rare"
 				type: "item"
 			}]
-			x: 61.0d
-			y: 61.0d
+			x: 13.0d
+			y: 2.0d
 		}
 		{
 			id: "6ED1AD86053EDAEE"
 			rewards: [{
+				auto: "enabled"
 				id: "232B5E78A2C73676"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "30C21A82E89A62ED"
-				item: "minecraft:obsidian"
+				item: "simplehats:hatbag_summer"
 				type: "item"
 			}]
-			x: 61.5d
-			y: 61.5d
+			x: 14.0d
+			y: 2.0d
 		}
 		{
 			id: "3A79022CEEE64A58"
 			rewards: [{
+				auto: "enabled"
 				id: "6995035A8F295E56"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "3803FBFEE468E001"
-				item: "minecraft:obsidian"
+				item: "simplehats:hatbag_uncommon"
 				type: "item"
 			}]
-			x: 62.0d
-			y: 62.0d
+			x: 15.0d
+			y: 2.0d
 		}
 		{
 			id: "4E3D62A603D87281"
 			rewards: [{
+				auto: "enabled"
 				id: "5FF96041580F7B60"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "17E6DCFB26DD6DD7"
-				item: "minecraft:obsidian"
+				item: "simplehats:headbolts"
 				type: "item"
 			}]
-			x: 62.5d
-			y: 62.5d
+			x: 16.0d
+			y: 2.0d
 		}
 		{
 			id: "094B517B85DD5888"
 			rewards: [{
+				auto: "enabled"
 				id: "53BA7AD41A4A1BFE"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "248160F2F9C13642"
-				item: "minecraft:obsidian"
+				item: "simplehats:headphonesblue"
 				type: "item"
 			}]
-			x: 63.0d
-			y: 63.0d
+			x: 17.0d
+			y: 2.0d
 		}
 		{
 			id: "59120496C987D9F9"
 			rewards: [{
+				auto: "enabled"
 				id: "5FD0D29FBE76B70B"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "56EC99AD9350C84E"
-				item: "minecraft:obsidian"
+				item: "simplehats:headshot"
 				type: "item"
 			}]
-			x: 63.5d
-			y: 63.5d
+			x: 18.0d
+			y: 2.0d
 		}
 		{
 			id: "228504F499055476"
 			rewards: [{
+				auto: "enabled"
 				id: "14DECF1B7400AA94"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "484CD46A85B79C37"
-				item: "minecraft:obsidian"
+				item: "simplehats:hockeymask"
 				type: "item"
 			}]
-			x: 64.0d
-			y: 64.0d
+			x: 19.0d
+			y: 2.0d
 		}
 		{
 			id: "062F6EF442C7E288"
 			rewards: [{
+				auto: "enabled"
 				id: "5BBA968052025DD5"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "15288A3B837A8153"
-				item: "minecraft:obsidian"
+				item: "simplehats:holyhead"
 				type: "item"
 			}]
-			x: 64.5d
-			y: 64.5d
+			x: 20.0d
+			y: 2.0d
 		}
 		{
 			id: "69DFC557E4D0003F"
 			rewards: [{
+				auto: "enabled"
 				id: "142E59433D38F9E6"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "0AD97C358E958E1E"
-				item: "minecraft:obsidian"
+				item: "simplehats:horsemask"
 				type: "item"
 			}]
-			x: 65.0d
-			y: 65.0d
+			x: 11.0d
+			y: 3.0d
 		}
 		{
 			id: "1B32DCA14FE0CE8E"
 			rewards: [{
+				auto: "enabled"
 				id: "271FB84C4B182373"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "40119B9429C152E4"
-				item: "minecraft:obsidian"
+				item: "simplehats:hosthat"
 				type: "item"
 			}]
-			x: 65.5d
-			y: 65.5d
+			x: 12.0d
+			y: 3.0d
 		}
 		{
 			id: "2A4168FCB7D94AFE"
 			rewards: [{
+				auto: "enabled"
 				id: "4CE6F2FD5F61D8E2"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "6AE4D7F25B4D1AFF"
-				item: "minecraft:obsidian"
+				item: "simplehats:icedragonskull"
 				type: "item"
 			}]
-			x: 66.0d
-			y: 66.0d
+			x: 13.0d
+			y: 3.0d
 		}
 		{
 			id: "34BFA37FFA3F1920"
 			rewards: [{
+				auto: "enabled"
 				id: "113062CAE2160099"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "088DFBDBCEF73B02"
-				item: "minecraft:obsidian"
+				item: "simplehats:jackohat"
 				type: "item"
 			}]
-			x: 66.5d
-			y: 66.5d
+			x: 14.0d
+			y: 3.0d
 		}
 		{
 			id: "63541E7F7C8E6626"
 			rewards: [{
+				auto: "enabled"
 				id: "7B409ECE372EFC77"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "3340EAAD56DCA0D5"
-				item: "minecraft:obsidian"
+				item: "simplehats:jesterhat"
 				type: "item"
 			}]
-			x: 67.0d
-			y: 67.0d
+			x: 15.0d
+			y: 3.0d
 		}
 		{
 			id: "2A79EAE1A5E371A1"
 			rewards: [{
+				auto: "enabled"
 				id: "2C261C296E3A04A1"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "10BB838DECE0E13D"
-				item: "minecraft:obsidian"
+				item: "simplehats:julydouble"
 				type: "item"
 			}]
-			x: 67.5d
-			y: 67.5d
+			x: 16.0d
+			y: 3.0d
 		}
 		{
 			id: "3560DA1460965C5B"
 			rewards: [{
+				auto: "enabled"
 				id: "633928AC65329355"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "149362ECCF81E832"
-				item: "minecraft:obsidian"
+				item: "simplehats:kirbymouthful"
 				type: "item"
 			}]
-			x: 68.0d
-			y: 68.0d
+			x: 17.0d
+			y: 3.0d
 		}
 		{
 			id: "2BEED8685E8228DB"
 			rewards: [{
+				auto: "enabled"
 				id: "0EDB5D07BB5522A9"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "53FCBECC969A13F1"
-				item: "minecraft:obsidian"
+				item: "simplehats:largehorns"
 				type: "item"
 			}]
-			x: 68.5d
-			y: 68.5d
+			x: 18.0d
+			y: 3.0d
 		}
 		{
 			id: "1189BD1D2AEC67B3"
 			rewards: [{
+				auto: "enabled"
 				id: "1E39F69A9C0A876E"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "35DF3FEBADE238FF"
-				item: "minecraft:obsidian"
+				item: "simplehats:lightning_eyes"
 				type: "item"
 			}]
-			x: 69.0d
-			y: 69.0d
+			x: 19.0d
+			y: 3.0d
 		}
 		{
 			id: "1223621EA037BF20"
 			rewards: [{
+				auto: "enabled"
 				id: "29782E6DD820A283"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "6D5D612DCF2642B1"
-				item: "minecraft:obsidian"
+				item: "simplehats:lilbow"
 				type: "item"
 			}]
-			x: 69.5d
-			y: 69.5d
+			x: 20.0d
+			y: 3.0d
 		}
 		{
 			id: "12DC9E25C10EFDA2"
 			rewards: [{
+				auto: "enabled"
 				id: "6DE7877602701967"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "3ED597DB331FFFBF"
-				item: "minecraft:obsidian"
+				item: "simplehats:longfoxears"
 				type: "item"
 			}]
-			x: 70.0d
-			y: 70.0d
+			x: 11.0d
+			y: 4.0d
 		}
 		{
 			id: "321538AFFFC51794"
 			rewards: [{
+				auto: "enabled"
 				id: "048D1C20BF33C03A"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "542F5411E52A1354"
-				item: "minecraft:obsidian"
+				item: "simplehats:madscientist"
 				type: "item"
 			}]
-			x: 70.5d
-			y: 70.5d
+			x: 12.0d
+			y: 4.0d
 		}
 		{
 			id: "63895554907065B4"
 			rewards: [{
+				auto: "enabled"
 				id: "14F9E96C365BA48F"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "6962E09784130ECD"
-				item: "minecraft:obsidian"
+				item: "simplehats:magikarp"
 				type: "item"
 			}]
-			x: 71.0d
-			y: 71.0d
+			x: 13.0d
+			y: 4.0d
 		}
 		{
 			id: "68F1AF6E5EAA64B0"
 			rewards: [{
+				auto: "enabled"
 				id: "038387E55A38F183"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "407FA3D5FD86CDC4"
-				item: "minecraft:obsidian"
+				item: "simplehats:megamanhat"
 				type: "item"
 			}]
-			x: 71.5d
-			y: 71.5d
+			x: 14.0d
+			y: 4.0d
 		}
 		{
 			id: "5889969AAB15F58F"
 			rewards: [{
+				auto: "enabled"
 				id: "6C88774CA4A4B8E3"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "5D52E9F534DEBFB4"
-				item: "minecraft:obsidian"
+				item: "simplehats:milady_doll"
 				type: "item"
 			}]
-			x: 72.0d
-			y: 72.0d
+			x: 15.0d
+			y: 4.0d
 		}
 		{
 			id: "6F7C650180D93345"
 			rewards: [{
+				auto: "enabled"
 				id: "25EEF8243A0CF886"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "167CAEA6E572FA63"
-				item: "minecraft:obsidian"
+				item: "simplehats:mistletoe"
 				type: "item"
 			}]
-			x: 72.5d
-			y: 72.5d
+			x: 16.0d
+			y: 4.0d
 		}
 		{
 			id: "169D3687DAB7ACD6"
 			rewards: [{
+				auto: "enabled"
 				id: "25DA30401BFD0292"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "198AD86AD7FFB76D"
-				item: "minecraft:obsidian"
+				item: "simplehats:mohawk"
 				type: "item"
 			}]
-			x: 73.0d
-			y: 73.0d
+			x: 17.0d
+			y: 4.0d
 		}
 		{
 			id: "01F748B2F0265CE1"
 			rewards: [{
+				auto: "enabled"
 				id: "14D3AE15E2945621"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "2C3E8516C6FD5AE9"
-				item: "minecraft:obsidian"
+				item: "simplehats:monkeyking"
 				type: "item"
 			}]
-			x: 73.5d
-			y: 73.5d
+			x: 18.0d
+			y: 4.0d
 		}
 		{
 			id: "6BF4A3B7B65995E9"
 			rewards: [{
+				auto: "enabled"
 				id: "58777C62C7548D6A"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "370B2B48F4A03B4D"
-				item: "minecraft:obsidian"
+				item: "simplehats:monocle"
 				type: "item"
 			}]
-			x: 74.0d
-			y: 74.0d
+			x: 19.0d
+			y: 4.0d
 		}
 		{
 			id: "439767BB2FDAA28D"
 			rewards: [{
+				auto: "enabled"
 				id: "21C46F4ECCD853BC"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "0A06308470D2EE60"
-				item: "minecraft:obsidian"
+				item: "simplehats:moreeyes"
 				type: "item"
 			}]
-			x: 74.5d
-			y: 74.5d
+			x: 20.0d
+			y: 4.0d
 		}
 		{
 			id: "225EEA93CB960E53"
 			rewards: [{
+				auto: "enabled"
 				id: "773EB8BDD04B5B31"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "10066ADA821C475B"
-				item: "minecraft:obsidian"
+				item: "simplehats:murdered"
 				type: "item"
 			}]
-			x: 75.0d
-			y: 75.0d
+			x: 11.0d
+			y: 5.0d
 		}
 		{
 			id: "3AFCDD8A4649A7B2"
 			rewards: [{
+				auto: "enabled"
 				id: "629D4CEF6F83FE89"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "58CE123A0A7D8BA1"
-				item: "minecraft:obsidian"
+				item: "simplehats:nekoears"
 				type: "item"
 			}]
-			x: 75.5d
-			y: 75.5d
+			x: 12.0d
+			y: 5.0d
 		}
 		{
 			id: "0D70D3DA643CBEF0"
 			rewards: [{
+				auto: "enabled"
 				id: "73757F794FBE97DA"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "1B661E5AD557ED7F"
-				item: "minecraft:obsidian"
+				item: "simplehats:nyan_doll"
 				type: "item"
 			}]
-			x: 76.0d
-			y: 76.0d
+			x: 13.0d
+			y: 5.0d
 		}
 		{
 			id: "1657E5E684673451"
 			rewards: [{
+				auto: "enabled"
 				id: "171DDE1D18E73B0A"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "05B7D7E428D6B47A"
-				item: "minecraft:obsidian"
+				item: "simplehats:orange_hat"
 				type: "item"
 			}]
-			x: 76.5d
-			y: 76.5d
+			x: 14.0d
+			y: 5.0d
 		}
 		{
 			id: "215702EDEA854ED9"
 			rewards: [{
+				auto: "enabled"
 				id: "666377D7B83B0C93"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "5418975EAEA44A46"
-				item: "minecraft:obsidian"
+				item: "simplehats:palmtree"
 				type: "item"
 			}]
-			x: 77.0d
-			y: 77.0d
+			x: 15.0d
+			y: 5.0d
 		}
 		{
 			id: "07C41A3684EC47A1"
 			rewards: [{
+				auto: "enabled"
 				id: "77AA85AA7697B368"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "056EBFA75C9138C6"
-				item: "minecraft:obsidian"
+				item: "simplehats:paperbag"
 				type: "item"
 			}]
-			x: 77.5d
-			y: 77.5d
+			x: 16.0d
+			y: 5.0d
 		}
 		{
 			id: "1F4A798D6004AA8A"
 			rewards: [{
+				auto: "enabled"
 				id: "1A9E47F9C9866E1F"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "62071678CBAAD890"
-				item: "minecraft:obsidian"
+				item: "simplehats:partyhat"
 				type: "item"
 			}]
-			x: 78.0d
-			y: 78.0d
+			x: 17.0d
+			y: 5.0d
 		}
 		{
 			id: "5F04215C603A7817"
 			rewards: [{
+				auto: "enabled"
 				id: "29130ED081092D6D"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "11FA6C4AE56858A3"
-				item: "minecraft:obsidian"
+				item: "simplehats:paypay"
 				type: "item"
 			}]
-			x: 78.5d
-			y: 78.5d
+			x: 18.0d
+			y: 5.0d
 		}
 		{
 			id: "462D700405D5D571"
 			rewards: [{
+				auto: "enabled"
 				id: "016DD2A3498624CD"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "577C062859ED77B0"
-				item: "minecraft:obsidian"
+				item: "simplehats:penguinbaby"
 				type: "item"
 			}]
-			x: 79.0d
-			y: 79.0d
+			x: 19.0d
+			y: 5.0d
 		}
 		{
 			id: "0ECBDAE73CD4F95B"
 			rewards: [{
+				auto: "enabled"
 				id: "0562D29684BA8CD7"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "4155C594154DD91D"
-				item: "minecraft:obsidian"
+				item: "simplehats:penguinhat"
 				type: "item"
 			}]
-			x: 79.5d
-			y: 79.5d
+			x: 20.0d
+			y: 5.0d
 		}
 		{
 			id: "1D42728FBA5CE91F"
 			rewards: [{
+				auto: "enabled"
 				id: "20CFA78A930734BB"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "2E789AF555545A0B"
-				item: "minecraft:obsidian"
+				item: "simplehats:peppino"
 				type: "item"
 			}]
-			x: 80.0d
-			y: 80.0d
+			x: 11.0d
+			y: 6.0d
 		}
 		{
 			id: "58F2D9572FB8BE2E"
 			rewards: [{
+				auto: "enabled"
 				id: "72EEDC0FE6C57A42"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "66F67A331A0B0D67"
-				item: "minecraft:obsidian"
+				item: "simplehats:pighead"
 				type: "item"
 			}]
-			x: 80.5d
-			y: 80.5d
+			x: 12.0d
+			y: 6.0d
 		}
 		{
 			id: "7173E1646EBB87AE"
 			rewards: [{
+				auto: "enabled"
 				id: "3F1CB7384885128E"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "75F734ADB485AE4A"
-				item: "minecraft:obsidian"
+				item: "simplehats:pinhead"
 				type: "item"
 			}]
-			x: 81.0d
-			y: 81.0d
+			x: 13.0d
+			y: 6.0d
 		}
 		{
 			id: "142AC7CD14F36401"
 			rewards: [{
+				auto: "enabled"
 				id: "3A89E17374170F26"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "42B619C0C9849F6B"
-				item: "minecraft:obsidian"
+				item: "simplehats:plaguedoctor"
 				type: "item"
 			}]
-			x: 81.5d
-			y: 81.5d
+			x: 14.0d
+			y: 6.0d
 		}
 		{
 			id: "7E25A35322975526"
 			rewards: [{
+				auto: "enabled"
 				id: "4561D30697770F79"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "7DBF1E5D133F254E"
-				item: "minecraft:obsidian"
+				item: "simplehats:pog"
 				type: "item"
 			}]
-			x: 82.0d
-			y: 82.0d
+			x: 15.0d
+			y: 6.0d
 		}
 		{
 			id: "2883592CD86F4268"
 			rewards: [{
+				auto: "enabled"
 				id: "50CE65D0E796BDA2"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "62E4E8C3E19E07DD"
-				item: "minecraft:obsidian"
+				item: "simplehats:pohatoe"
 				type: "item"
 			}]
-			x: 82.5d
-			y: 82.5d
+			x: 16.0d
+			y: 6.0d
 		}
 		{
 			id: "485F5E4D809B5243"
 			rewards: [{
+				auto: "enabled"
 				id: "509AC8D49AB31002"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "310D00F284DC8E1D"
-				item: "minecraft:obsidian"
+				item: "simplehats:policebucket"
 				type: "item"
 			}]
-			x: 83.0d
-			y: 83.0d
+			x: 17.0d
+			y: 6.0d
 		}
 		{
 			id: "3736BB370D038EE2"
 			rewards: [{
+				auto: "enabled"
 				id: "3340D4C0C33A8E15"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "316D9C34CAEEDEE0"
-				item: "minecraft:obsidian"
+				item: "simplehats:policesiren"
 				type: "item"
 			}]
-			x: 83.5d
-			y: 83.5d
+			x: 18.0d
+			y: 6.0d
 		}
 		{
 			id: "74B357F3B47B9139"
 			rewards: [{
+				auto: "enabled"
 				id: "5B94D5B373D81A2F"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "22E4CCF97A819B6B"
-				item: "minecraft:obsidian"
+				item: "simplehats:pom_moog"
 				type: "item"
 			}]
-			x: 84.0d
-			y: 84.0d
+			x: 19.0d
+			y: 6.0d
 		}
 		{
 			id: "3AD9AA91D57149D9"
 			rewards: [{
+				auto: "enabled"
 				id: "020B3FC76AC7D88D"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "24983E33C269E3F9"
-				item: "minecraft:obsidian"
+				item: "simplehats:poofballhat"
 				type: "item"
 			}]
-			x: 84.5d
-			y: 84.5d
+			x: 20.0d
+			y: 6.0d
 		}
 		{
 			id: "38894EBF9C83DC06"
 			rewards: [{
+				auto: "enabled"
 				id: "7135F8351F2823F1"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "05B51118F51488DF"
-				item: "minecraft:obsidian"
+				item: "simplehats:poofballrgb"
 				type: "item"
 			}]
-			x: 85.0d
-			y: 85.0d
+			x: 11.0d
+			y: 7.0d
 		}
 		{
 			id: "70564CEC662FE6F2"
 			rewards: [{
+				auto: "enabled"
 				id: "0463714614A28C5E"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "1E2DEBAB4035E2D8"
-				item: "minecraft:obsidian"
+				item: "simplehats:popehat"
 				type: "item"
 			}]
-			x: 85.5d
-			y: 85.5d
+			x: 12.0d
+			y: 7.0d
 		}
 		{
 			id: "6AA3059196B35F19"
 			rewards: [{
+				auto: "enabled"
 				id: "0604CF4C519401B2"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "373FD5960281C7A5"
-				item: "minecraft:obsidian"
+				item: "simplehats:potionhead"
 				type: "item"
 			}]
-			x: 86.0d
-			y: 86.0d
+			x: 13.0d
+			y: 7.0d
 		}
 		{
 			id: "65CD40B886AAA331"
 			rewards: [{
+				auto: "enabled"
 				id: "1F1E89C8D0097180"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "639A4277A148B4F4"
-				item: "minecraft:obsidian"
+				item: "simplehats:presentsstack"
 				type: "item"
 			}]
-			x: 86.5d
-			y: 86.5d
+			x: 14.0d
+			y: 7.0d
 		}
 		{
 			id: "6B3F6A18232088DB"
 			rewards: [{
+				auto: "enabled"
 				id: "1578EB4F7F6AACAF"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "36FC984AA9682AF2"
-				item: "minecraft:obsidian"
+				item: "simplehats:propelhat"
 				type: "item"
 			}]
-			x: 87.0d
-			y: 87.0d
+			x: 15.0d
+			y: 7.0d
 		}
 		{
 			id: "56F6E592A258DF41"
 			rewards: [{
+				auto: "enabled"
 				id: "7F5FDB8F17D96B2A"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "4DC97835F3EE14DC"
-				item: "minecraft:obsidian"
+				item: "simplehats:puchiko"
 				type: "item"
 			}]
-			x: 87.5d
-			y: 87.5d
+			x: 16.0d
+			y: 7.0d
 		}
 		{
 			id: "6D0CEF53399FB9E2"
 			rewards: [{
+				auto: "enabled"
 				id: "0DFB48FC101201E4"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "3D187F03EEFD86F6"
-				item: "minecraft:obsidian"
+				item: "simplehats:questbook"
 				type: "item"
 			}]
-			x: 88.0d
-			y: 88.0d
+			x: 17.0d
+			y: 7.0d
 		}
 		{
 			id: "4AE2A3192B9DD619"
 			rewards: [{
+				auto: "enabled"
 				id: "00ED4FAABDD40851"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "3ED7960D10706547"
-				item: "minecraft:obsidian"
+				item: "simplehats:rabbitears"
 				type: "item"
 			}]
-			x: 88.5d
-			y: 88.5d
+			x: 18.0d
+			y: 7.0d
 		}
 		{
 			id: "5D25AA6A80B854AF"
 			rewards: [{
+				auto: "enabled"
 				id: "5D588503BA18F590"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "2315D901E2A52B31"
-				item: "minecraft:obsidian"
+				item: "simplehats:rabbitonhead"
 				type: "item"
 			}]
-			x: 89.0d
-			y: 89.0d
+			x: 19.0d
+			y: 7.0d
 		}
 		{
 			id: "22A80CEC3C3D32E6"
 			rewards: [{
+				auto: "enabled"
 				id: "358EE567BDB06998"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "02961D9AA5D67F9E"
-				item: "minecraft:obsidian"
+				item: "simplehats:rabi_en_rose"
 				type: "item"
 			}]
-			x: 89.5d
-			y: 89.5d
+			x: 20.0d
+			y: 7.0d
 		}
 		{
 			id: "33D86954691FA151"
 			rewards: [{
+				auto: "enabled"
 				id: "71CCAAE0D30C7C12"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "10B73269484B0075"
-				item: "minecraft:obsidian"
+				item: "simplehats:rainboworbiters"
 				type: "item"
 			}]
-			x: 90.0d
-			y: 90.0d
+			x: 11.0d
+			y: 8.0d
 		}
 		{
 			id: "514FEAEB120E92AA"
 			rewards: [{
+				auto: "enabled"
 				id: "288489E9EC469603"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "0081978BAEB2858F"
-				item: "minecraft:obsidian"
+				item: "simplehats:raincloud"
 				type: "item"
 			}]
-			x: 90.5d
-			y: 90.5d
+			x: 12.0d
+			y: 8.0d
 		}
 		{
 			id: "2AFEED30B8086EDA"
 			rewards: [{
+				auto: "enabled"
 				id: "2BF487B360A4840C"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "72B4ECCD93C0C38B"
-				item: "minecraft:obsidian"
+				item: "simplehats:ranahat"
 				type: "item"
 			}]
-			x: 91.0d
-			y: 91.0d
+			x: 13.0d
+			y: 8.0d
 		}
 		{
 			id: "7C25CCBBFDFDDAA8"
 			rewards: [{
+				auto: "enabled"
 				id: "25AD149C139B0BC4"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "587804172CF05FBF"
-				item: "minecraft:obsidian"
+				item: "simplehats:redeyes"
 				type: "item"
 			}]
-			x: 91.5d
-			y: 91.5d
+			x: 14.0d
+			y: 8.0d
 		}
 		{
 			id: "239A4756DA36EDCC"
 			rewards: [{
+				auto: "enabled"
 				id: "5BE6254DB0332D35"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "34844757FE9A97BC"
-				item: "minecraft:obsidian"
+				item: "simplehats:rednose"
 				type: "item"
 			}]
-			x: 92.0d
-			y: 92.0d
+			x: 15.0d
+			y: 8.0d
 		}
 		{
 			id: "04F62F50074E8F0B"
 			rewards: [{
+				auto: "enabled"
 				id: "5E7C4372D68C9566"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "3A2D2FAE1D9A829E"
-				item: "minecraft:obsidian"
+				item: "simplehats:redstache"
 				type: "item"
 			}]
-			x: 92.5d
-			y: 92.5d
+			x: 16.0d
+			y: 8.0d
 		}
 		{
 			id: "6C57A1C57E07403F"
 			rewards: [{
+				auto: "enabled"
 				id: "53F667D9E3CFFE90"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "5CA26CC53D3595CB"
-				item: "minecraft:obsidian"
+				item: "simplehats:rgbbigribbon"
 				type: "item"
 			}]
-			x: 93.0d
-			y: 93.0d
+			x: 17.0d
+			y: 8.0d
 		}
 		{
 			id: "141AA7F11CB8B723"
 			rewards: [{
+				auto: "enabled"
 				id: "13834259B3BF449C"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "458D127A67C50AF1"
-				item: "minecraft:obsidian"
+				item: "simplehats:rgbbowler"
 				type: "item"
 			}]
-			x: 93.5d
-			y: 93.5d
+			x: 18.0d
+			y: 8.0d
 		}
 		{
 			id: "6C2EB1A4BC292F7A"
 			rewards: [{
+				auto: "enabled"
 				id: "09C669260E854135"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "18F1F0135B022037"
-				item: "minecraft:obsidian"
+				item: "simplehats:rgbdragonskull"
 				type: "item"
 			}]
-			x: 94.0d
-			y: 94.0d
+			x: 19.0d
+			y: 8.0d
 		}
 		{
 			id: "30E0B658A650FF85"
 			rewards: [{
+				auto: "enabled"
 				id: "111AB34744440E44"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "30EFFDA14A8A6788"
-				item: "minecraft:obsidian"
+				item: "simplehats:rgbdrinkinhat"
 				type: "item"
 			}]
-			x: 94.5d
-			y: 94.5d
+			x: 20.0d
+			y: 8.0d
 		}
 		{
 			id: "1348025844389F4A"
 			rewards: [{
+				auto: "enabled"
 				id: "6199CC49D262602E"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "0F6A6315B3109FD1"
-				item: "minecraft:obsidian"
+				item: "simplehats:rgbeasterhead"
 				type: "item"
 			}]
-			x: 95.0d
-			y: 95.0d
+			x: 11.0d
+			y: 9.0d
 		}
 		{
 			id: "1E8E8E97C8184B94"
 			rewards: [{
+				auto: "enabled"
 				id: "0FEA34E4447850B3"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "249B25B973757A01"
-				item: "minecraft:obsidian"
+				item: "simplehats:rgbfullhelm"
 				type: "item"
 			}]
-			x: 95.5d
-			y: 95.5d
+			x: 12.0d
+			y: 9.0d
 		}
 		{
 			id: "45ECB3355333487D"
 			rewards: [{
+				auto: "enabled"
 				id: "0EA52E5F49051112"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "460DCE46D6A5E9D4"
-				item: "minecraft:obsidian"
+				item: "simplehats:rgbpartyhat"
 				type: "item"
 			}]
-			x: 96.0d
-			y: 96.0d
+			x: 13.0d
+			y: 9.0d
 		}
 		{
 			id: "23E9B558BC0827B4"
 			rewards: [{
+				auto: "enabled"
 				id: "5F6423A307DC6C05"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "771D5E3EF42F6467"
-				item: "minecraft:obsidian"
+				item: "simplehats:rgbsmallbowler"
 				type: "item"
 			}]
-			x: 96.5d
-			y: 96.5d
+			x: 14.0d
+			y: 9.0d
 		}
 		{
 			id: "2600013C52DA21BA"
 			rewards: [{
+				auto: "enabled"
 				id: "4F33631D0949C1F3"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "310A4993B5FC8616"
-				item: "minecraft:obsidian"
+				item: "simplehats:rgbsunglasses"
 				type: "item"
 			}]
-			x: 97.0d
-			y: 97.0d
+			x: 15.0d
+			y: 9.0d
 		}
 		{
 			id: "033EE70F29DE958C"
 			rewards: [{
+				auto: "enabled"
 				id: "24246F20568AF590"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "7C5C40DEFC0EAAC6"
-				item: "minecraft:obsidian"
+				item: "simplehats:rgbtoptophathat"
 				type: "item"
 			}]
-			x: 97.5d
-			y: 97.5d
+			x: 16.0d
+			y: 9.0d
 		}
 		{
 			id: "79AE629B2D87327D"
 			rewards: [{
+				auto: "enabled"
 				id: "4ECAB0D547D430E9"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "7A4B2EFE5A978021"
-				item: "minecraft:obsidian"
+				item: "simplehats:rgbushanka"
 				type: "item"
 			}]
-			x: 98.0d
-			y: 98.0d
+			x: 17.0d
+			y: 9.0d
 		}
 		{
 			id: "7BD79B100E29D38B"
 			rewards: [{
+				auto: "enabled"
 				id: "2D5423323BE1E898"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "705D576BE8D6CD13"
-				item: "minecraft:obsidian"
+				item: "simplehats:rock"
 				type: "item"
 			}]
-			x: 98.5d
-			y: 98.5d
+			x: 18.0d
+			y: 9.0d
 		}
 		{
 			id: "34E7E5973A7AAFDD"
 			rewards: [{
+				auto: "enabled"
 				id: "2BE792002E970CFE"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "53A6F4F7FA9FD2E6"
-				item: "minecraft:obsidian"
+				item: "simplehats:rubbernipple"
 				type: "item"
 			}]
-			x: 99.0d
-			y: 99.0d
+			x: 19.0d
+			y: 9.0d
 		}
 		{
 			id: "43B04B4E1FACAA45"
 			rewards: [{
+				auto: "enabled"
 				id: "6429C4F174A4EF35"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "667AC5C5366F4C74"
-				item: "minecraft:obsidian"
+				item: "simplehats:sandcastle"
 				type: "item"
 			}]
-			x: 99.5d
-			y: 99.5d
+			x: 20.0d
+			y: 9.0d
 		}
 		{
 			id: "2A57B7DB7945743E"
 			rewards: [{
+				auto: "enabled"
 				id: "744F1E327502B1D9"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "3672FDB65DB81D3B"
-				item: "minecraft:obsidian"
+				item: "simplehats:santaclaus"
 				type: "item"
 			}]
-			x: 100.0d
-			y: 100.0d
+			x: 0.0d
+			y: 11.0d
 		}
 		{
 			id: "182808A698C20922"
 			rewards: [{
+				auto: "enabled"
 				id: "019ACD07F3ACD9E8"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "35770F4E1545F3B7"
-				item: "minecraft:obsidian"
+				item: "simplehats:sausage"
 				type: "item"
 			}]
-			x: 100.5d
-			y: 100.5d
+			x: 1.0d
+			y: 11.0d
 		}
 		{
 			id: "6301CB063ADB5692"
 			rewards: [{
+				auto: "enabled"
 				id: "6F4EAD106FA9C687"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "1BB584EF538F9D86"
-				item: "minecraft:obsidian"
+				item: "simplehats:scouter"
 				type: "item"
 			}]
-			x: 101.0d
-			y: 101.0d
+			x: 2.0d
+			y: 11.0d
 		}
 		{
 			id: "672803402E6BE137"
 			rewards: [{
+				auto: "enabled"
 				id: "67FF8DFD3C91E75A"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "2C0A141E825C2B0E"
-				item: "minecraft:obsidian"
+				item: "simplehats:seaweedhat"
 				type: "item"
 			}]
-			x: 101.5d
-			y: 101.5d
+			x: 3.0d
+			y: 11.0d
 		}
 		{
 			id: "4C328859EFE18C4C"
 			rewards: [{
+				auto: "enabled"
 				id: "6C354AFB2F1316E2"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "1C1FCB76E2259701"
-				item: "minecraft:obsidian"
+				item: "simplehats:shakehat"
 				type: "item"
 			}]
-			x: 102.0d
-			y: 102.0d
+			x: 4.0d
+			y: 11.0d
 		}
 		{
 			id: "0553E6779FF82600"
 			rewards: [{
+				auto: "enabled"
 				id: "6446773E606A4E97"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "2F31466E26FCBF0F"
-				item: "minecraft:obsidian"
+				item: "simplehats:sheep"
 				type: "item"
 			}]
-			x: 102.5d
-			y: 102.5d
+			x: 5.0d
+			y: 11.0d
 		}
 		{
 			id: "659494ADD9997656"
 			rewards: [{
+				auto: "enabled"
 				id: "6B4F0D9630B388BE"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "7EAC1F1CB3A060A1"
-				item: "minecraft:obsidian"
+				item: "simplehats:shrekears"
 				type: "item"
 			}]
-			x: 103.0d
-			y: 103.0d
+			x: 6.0d
+			y: 11.0d
 		}
 		{
 			id: "60B02400A719E16D"
 			rewards: [{
+				auto: "enabled"
 				id: "426434AEEAEF75AA"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "0291A43A8353B6EC"
-				item: "minecraft:obsidian"
+				item: "simplehats:shroomcap"
 				type: "item"
 			}]
-			x: 103.5d
-			y: 103.5d
+			x: 7.0d
+			y: 11.0d
 		}
 		{
 			id: "41AA993FA6FC83B8"
 			rewards: [{
+				auto: "enabled"
 				id: "6F8B42F5EFAC6745"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "58A052AD58C28B66"
-				item: "minecraft:obsidian"
+				item: "simplehats:simsgem"
 				type: "item"
 			}]
-			x: 104.0d
-			y: 104.0d
+			x: 8.0d
+			y: 11.0d
 		}
 		{
 			id: "48A611327F59BA38"
 			rewards: [{
+				auto: "enabled"
 				id: "570B7870951C2579"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "044BBEC48F50EA11"
-				item: "minecraft:obsidian"
+				item: "simplehats:sleepeyemask"
 				type: "item"
 			}]
-			x: 104.5d
-			y: 104.5d
+			x: 9.0d
+			y: 11.0d
 		}
 		{
 			id: "5158DB691EB06CEB"
 			rewards: [{
+				auto: "enabled"
 				id: "2BD1FD38967E65A3"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "2095D6E11A48E762"
-				item: "minecraft:obsidian"
+				item: "simplehats:smokingpipe"
 				type: "item"
 			}]
-			x: 105.0d
-			y: 105.0d
+			x: 0.0d
+			y: 12.0d
 		}
 		{
 			id: "520483CA812E5A56"
 			rewards: [{
+				auto: "enabled"
 				id: "74705AF477B736E3"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "4C4C6D062038A43A"
-				item: "minecraft:obsidian"
+				item: "simplehats:snowmanbaby"
 				type: "item"
 			}]
-			x: 105.5d
-			y: 105.5d
+			x: 1.0d
+			y: 12.0d
 		}
 		{
 			id: "3391CFF7D3FE6488"
 			rewards: [{
+				auto: "enabled"
 				id: "615F6688F5A95286"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "5DDFECD74952F838"
-				item: "minecraft:obsidian"
+				item: "simplehats:sombrero"
 				type: "item"
 			}]
-			x: 106.0d
-			y: 106.0d
+			x: 2.0d
+			y: 12.0d
 		}
 		{
 			id: "3799ABB1F971B941"
 			rewards: [{
+				auto: "enabled"
 				id: "5BA882BF9D5A8AE8"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "3248C183D8BE1ABD"
-				item: "minecraft:obsidian"
+				item: "simplehats:sonichood"
 				type: "item"
 			}]
-			x: 106.5d
-			y: 106.5d
+			x: 3.0d
+			y: 12.0d
 		}
 		{
 			id: "2FA91AB1D1432410"
 			rewards: [{
+				auto: "enabled"
 				id: "13953B3C7BFABAE6"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "7CF2ECA37933AB58"
-				item: "minecraft:obsidian"
+				item: "simplehats:spadesoldier"
 				type: "item"
 			}]
-			x: 107.0d
-			y: 107.0d
+			x: 4.0d
+			y: 12.0d
 		}
 		{
 			id: "75FC66507F7C012D"
 			rewards: [{
+				auto: "enabled"
 				id: "3179597FBFA0B138"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "31915A6B5321B189"
-				item: "minecraft:obsidian"
+				item: "simplehats:special"
 				type: "item"
 			}]
-			x: 107.5d
-			y: 107.5d
+			x: 5.0d
+			y: 12.0d
 		}
 		{
 			id: "255F0C384C273413"
 			rewards: [{
+				auto: "enabled"
 				id: "6F15E25ED6CAECBB"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "1E3D0B76517528A5"
-				item: "minecraft:obsidian"
+				item: "simplehats:spiderweb"
 				type: "item"
 			}]
-			x: 108.0d
-			y: 108.0d
+			x: 6.0d
+			y: 12.0d
 		}
 		{
 			id: "030601A63CCC1CCA"
 			rewards: [{
+				auto: "enabled"
 				id: "63966DD021514330"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "3815F0005E10C910"
-				item: "minecraft:obsidian"
+				item: "simplehats:sport_sunglasses"
 				type: "item"
 			}]
-			x: 108.5d
-			y: 108.5d
+			x: 7.0d
+			y: 12.0d
 		}
 		{
 			id: "73FCF5350AA456FF"
 			rewards: [{
+				auto: "enabled"
 				id: "5334E19CB875DDB2"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "0E3AB81E4C6CF298"
-				item: "minecraft:obsidian"
+				item: "simplehats:springer"
 				type: "item"
 			}]
-			x: 109.0d
-			y: 109.0d
+			x: 8.0d
+			y: 12.0d
 		}
 		{
 			id: "626198C17BA59687"
 			rewards: [{
+				auto: "enabled"
 				id: "2146D2B84FFD8C2F"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "532E69626D961409"
-				item: "minecraft:obsidian"
+				item: "simplehats:sprout"
 				type: "item"
 			}]
-			x: 109.5d
-			y: 109.5d
+			x: 9.0d
+			y: 12.0d
 		}
 		{
 			id: "744B7C4C7FAA269A"
 			rewards: [{
+				auto: "enabled"
 				id: "03DE43F7ED863092"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "2BA8F59057C85CB3"
-				item: "minecraft:obsidian"
+				item: "simplehats:spyzombie"
 				type: "item"
 			}]
-			x: 110.0d
-			y: 110.0d
+			x: 0.0d
+			y: 13.0d
 		}
 		{
 			id: "50BD94717A38DDF6"
 			rewards: [{
+				auto: "enabled"
 				id: "32B11CB71B7E73CE"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "569EEA381C210967"
-				item: "minecraft:obsidian"
+				item: "simplehats:stackofeggs"
 				type: "item"
 			}]
-			x: 110.5d
-			y: 110.5d
+			x: 1.0d
+			y: 13.0d
 		}
 		{
 			id: "6228D04099B4F8C2"
 			rewards: [{
+				auto: "enabled"
 				id: "28B9417729A3C21D"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "16E96DFA8DC16980"
-				item: "minecraft:obsidian"
+				item: "simplehats:strawberry_hat"
 				type: "item"
 			}]
-			x: 111.0d
-			y: 111.0d
+			x: 2.0d
+			y: 13.0d
 		}
 		{
 			id: "50052B3A63127273"
 			rewards: [{
+				auto: "enabled"
 				id: "7FC70AF8FA9579B9"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "7E2484024C596E9D"
-				item: "minecraft:obsidian"
+				item: "simplehats:stress"
 				type: "item"
 			}]
-			x: 111.5d
-			y: 111.5d
+			x: 3.0d
+			y: 13.0d
 		}
 		{
 			id: "4B53FD99EF57989D"
 			rewards: [{
+				auto: "enabled"
 				id: "6C8C01A8A4375CA9"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "7C0E8576F0A61E5B"
-				item: "minecraft:obsidian"
+				item: "simplehats:summerhat"
 				type: "item"
 			}]
-			x: 112.0d
-			y: 112.0d
+			x: 4.0d
+			y: 13.0d
 		}
 		{
 			id: "7D6D04467EBD7724"
 			rewards: [{
+				auto: "enabled"
 				id: "0DFC2D5834749AC3"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "09DE85D8C5EDB3D9"
-				item: "minecraft:obsidian"
+				item: "simplehats:sunglasses"
 				type: "item"
 			}]
-			x: 112.5d
-			y: 112.5d
+			x: 5.0d
+			y: 13.0d
 		}
 		{
 			id: "1E011548BA4017B9"
 			rewards: [{
+				auto: "enabled"
 				id: "7E710980D3185FA8"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "6484B843A85BF300"
-				item: "minecraft:obsidian"
+				item: "simplehats:sunglassesbig"
 				type: "item"
 			}]
-			x: 113.0d
-			y: 113.0d
+			x: 6.0d
+			y: 13.0d
 		}
 		{
 			id: "38D985F5A822F8F7"
 			rewards: [{
+				auto: "enabled"
 				id: "6D03FEBC557C282B"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "404689CD7C55FACB"
-				item: "minecraft:obsidian"
+				item: "simplehats:supersandhat"
 				type: "item"
 			}]
-			x: 113.5d
-			y: 113.5d
+			x: 7.0d
+			y: 13.0d
 		}
 		{
 			id: "26138B9C0AA69CC8"
 			rewards: [{
+				auto: "enabled"
 				id: "3CEA29A7512BB172"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "3088314F68D5D4C8"
-				item: "minecraft:obsidian"
+				item: "simplehats:swimmer"
 				type: "item"
 			}]
-			x: 114.0d
-			y: 114.0d
+			x: 8.0d
+			y: 13.0d
 		}
 		{
 			id: "19D022E8ED346C06"
 			rewards: [{
+				auto: "enabled"
 				id: "32CBE7AC014EAF3B"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "18B5E96BFB5BED9B"
-				item: "minecraft:obsidian"
+				item: "simplehats:teddy_bear"
 				type: "item"
 			}]
-			x: 114.5d
-			y: 114.5d
+			x: 9.0d
+			y: 13.0d
 		}
 		{
 			id: "3CF38363F47B9119"
 			rewards: [{
+				auto: "enabled"
 				id: "277BA37315E0BA3E"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "2B391F7A76EAB8F1"
-				item: "minecraft:obsidian"
+				item: "simplehats:the_noise"
 				type: "item"
 			}]
-			x: 115.0d
-			y: 115.0d
+			x: 0.0d
+			y: 14.0d
 		}
 		{
 			id: "2F90264F437308A9"
 			rewards: [{
+				auto: "enabled"
 				id: "5CE965280FE0E07E"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "09BE741FC9979CC1"
-				item: "minecraft:obsidian"
+				item: "simplehats:tinkerhat"
 				type: "item"
 			}]
-			x: 115.5d
-			y: 115.5d
+			x: 1.0d
+			y: 14.0d
 		}
 		{
 			id: "081C569A7FF8BC49"
 			rewards: [{
+				auto: "enabled"
 				id: "71FA77BD7C85E2FF"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "499C39C4C94F0B9D"
-				item: "minecraft:obsidian"
+				item: "simplehats:topcathat"
 				type: "item"
 			}]
-			x: 116.0d
-			y: 116.0d
+			x: 2.0d
+			y: 14.0d
 		}
 		{
 			id: "017E16AEBA4E17F4"
 			rewards: [{
+				auto: "enabled"
 				id: "705AE083EE2A08D7"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "5FBCCB3FF6CD4B07"
-				item: "minecraft:obsidian"
+				item: "simplehats:tophat"
 				type: "item"
 			}]
-			x: 116.5d
-			y: 116.5d
+			x: 3.0d
+			y: 14.0d
 		}
 		{
 			id: "09936F3150346B97"
 			rewards: [{
+				auto: "enabled"
 				id: "3D0AD80A6EF36045"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "2BFE3AAF6603C533"
-				item: "minecraft:obsidian"
+				item: "simplehats:toptophathat"
 				type: "item"
 			}]
-			x: 117.0d
-			y: 117.0d
+			x: 4.0d
+			y: 14.0d
 		}
 		{
 			id: "09A8D85900AAA02F"
 			rewards: [{
+				auto: "enabled"
 				id: "0DADC2AE72A522C8"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "60ED44B263EB6FDC"
-				item: "minecraft:obsidian"
+				item: "simplehats:toy_story_alien"
 				type: "item"
 			}]
-			x: 117.5d
-			y: 117.5d
+			x: 5.0d
+			y: 14.0d
 		}
 		{
 			id: "3FEC3B23404EDB31"
 			rewards: [{
+				auto: "enabled"
 				id: "227FDE570B3E01E9"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "65FC09BEC396EA0D"
-				item: "minecraft:obsidian"
+				item: "simplehats:triangleshades"
 				type: "item"
 			}]
-			x: 118.0d
-			y: 118.0d
+			x: 6.0d
+			y: 14.0d
 		}
 		{
 			id: "6CC3627CEDF22E97"
 			rewards: [{
+				auto: "enabled"
 				id: "1A1F08FDB78ED4CC"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "5A23B27AD33AB8E2"
-				item: "minecraft:obsidian"
+				item: "simplehats:tricorne"
 				type: "item"
 			}]
-			x: 118.5d
-			y: 118.5d
+			x: 7.0d
+			y: 14.0d
 		}
 		{
 			id: "261EDC67FD26F705"
 			rewards: [{
+				auto: "enabled"
 				id: "77D1757E58E71409"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "4F911C9CF65FAC02"
-				item: "minecraft:obsidian"
+				item: "simplehats:tvhead"
 				type: "item"
 			}]
-			x: 119.0d
-			y: 119.0d
+			x: 8.0d
+			y: 14.0d
 		}
 		{
 			id: "511ED71DEA9EAC14"
 			rewards: [{
+				auto: "enabled"
 				id: "4AF254052746A2C3"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "5036E417E6948325"
-				item: "minecraft:obsidian"
+				item: "simplehats:twilight_doll"
 				type: "item"
 			}]
-			x: 119.5d
-			y: 119.5d
+			x: 9.0d
+			y: 14.0d
 		}
 		{
 			id: "4A5027945D2FDFCD"
 			rewards: [{
+				auto: "enabled"
 				id: "7C8A6062870AF0A0"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "3BEF71AFDAC8BAC3"
-				item: "minecraft:obsidian"
+				item: "simplehats:unicornhorn"
 				type: "item"
 			}]
-			x: 120.0d
-			y: 120.0d
+			x: 0.0d
+			y: 15.0d
 		}
 		{
 			id: "26DEFE0907DE82D8"
 			rewards: [{
+				auto: "enabled"
 				id: "294D44EF11267699"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "53F2A90F1E4773E5"
-				item: "minecraft:obsidian"
+				item: "simplehats:ushanka"
 				type: "item"
 			}]
-			x: 120.5d
-			y: 120.5d
+			x: 1.0d
+			y: 15.0d
 		}
 		{
 			id: "0182AF33CEBA579D"
 			rewards: [{
+				auto: "enabled"
 				id: "4BA5DA1D475B9B0B"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "0024C67D35F6FE8B"
-				item: "minecraft:obsidian"
+				item: "simplehats:vikinghatbeard"
 				type: "item"
 			}]
-			x: 121.0d
-			y: 121.0d
+			x: 2.0d
+			y: 15.0d
 		}
 		{
 			id: "019B3E16A83726D5"
 			rewards: [{
+				auto: "enabled"
 				id: "1DA684B152E5F481"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "685C0FBBC8483A31"
-				item: "minecraft:obsidian"
+				item: "simplehats:villagernose"
 				type: "item"
 			}]
-			x: 121.5d
-			y: 121.5d
+			x: 3.0d
+			y: 15.0d
 		}
 		{
 			id: "4425265D219C9734"
 			rewards: [{
+				auto: "enabled"
 				id: "327FCC2B37EE35CD"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "480F3A2CD42FB32A"
-				item: "minecraft:obsidian"
+				item: "simplehats:winghat"
 				type: "item"
 			}]
-			x: 122.0d
-			y: 122.0d
+			x: 4.0d
+			y: 15.0d
 		}
 		{
 			id: "457A35318A4477EF"
 			rewards: [{
+				auto: "enabled"
 				id: "297849F064A64146"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "00B32A74CBD3F704"
-				item: "minecraft:obsidian"
+				item: "simplehats:worms_mine"
 				type: "item"
 			}]
-			x: 122.5d
-			y: 122.5d
+			x: 5.0d
+			y: 15.0d
 		}
 		{
 			id: "57DC7227C457EE4A"
 			rewards: [{
+				auto: "enabled"
 				id: "1171A4E3A14D1663"
-				item: "kubejs:miles_ticket"
+				item: "kubejs:voucher_hat"
 				type: "item"
 			}]
 			tasks: [{
 				id: "4973F1990B691505"
-				item: "minecraft:obsidian"
+				item: "simplehats:zigzagwitchhat"
 				type: "item"
 			}]
-			x: 123.0d
-			y: 123.0d
+			x: 6.0d
+			y: 15.0d
 		}
 	]
 	title: "Hats"

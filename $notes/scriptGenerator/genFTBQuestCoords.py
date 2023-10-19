@@ -1,7 +1,7 @@
 import math
 import os
 if __name__ == "__main__":
-	numQuests = 333
+	numQuests = 247
 	outputFileDir = os.path.join("output", "ftbQuestCoords.txt")
 	numHundredsInRow = math.ceil(math.sqrt(numQuests/100))
 
