@@ -136,15 +136,5 @@
 	"supplementaries:ash": "net.minecraft.core.particles.SimpleParticleType",
 	"supplementaries:bubble_block": "net.minecraft.core.particles.SimpleParticleType",
 	"supplementaries:sugar": "net.minecraft.core.particles.SimpleParticleType",
-	"chimes:leaf": "net.minecraft.core.particles.SimpleParticleType",
-	"biomesoplenty:dripping_blood": "net.minecraft.core.particles.SimpleParticleType",
-	"biomesoplenty:falling_blood": "net.minecraft.core.particles.SimpleParticleType",
-	"biomesoplenty:landing_blood": "net.minecraft.core.particles.SimpleParticleType",
-	"biomesoplenty:pus": "net.minecraft.core.particles.SimpleParticleType",
-	"biomesoplenty:glowworm": "net.minecraft.core.particles.SimpleParticleType",
-	"biomesoplenty:jacaranda_leaves": "net.minecraft.core.particles.SimpleParticleType",
-	"biomesoplenty:snowblossom_leaves": "net.minecraft.core.particles.SimpleParticleType",
-	"biomesoplenty:yellow_autumn_leaves": "net.minecraft.core.particles.SimpleParticleType",
-	"biomesoplenty:orange_autumn_leaves": "net.minecraft.core.particles.SimpleParticleType",
-	"biomesoplenty:maple_leaves": "net.minecraft.core.particles.SimpleParticleType"
+	"chimes:leaf": "net.minecraft.core.particles.SimpleParticleType"
 }

@@ -20,7 +20,7 @@
 	{
 		"id": "kubejs",
 		"name": "KubeJS",
-		"version": "2001.6.3-build.52",
+		"version": "2001.6.3-build.68",
 		"description": "Customize your modpack or server with JavaScript!",
 		"authors": "LatvianModder",
 		"issue_tracker": "https://kubejs.com/support?source=kubejs&mc=1902&loader=forge",
@@ -336,6 +336,14 @@
 		"license": "GNU LGPLv3"
 	},
 	{
+		"id": "biggerstacks",
+		"name": "Bigger Stacks",
+		"version": "1.20.1-0.0.3",
+		"description": "Allows increasing stack sizes past 64 up to MAXINT/2 (about 1 billion)",
+		"authors": "PORTB",
+		"license": "GNU LGPLv3"
+	},
+	{
 		"id": "betterfortresses",
 		"name": "YUNG's Better Nether Fortresses",
 		"version": "1.20-Forge-2.0.5",
@@ -429,15 +437,6 @@
 		"homepage": "http://minecraft.curseforge.com/projects/get-it-together-drops",
 		"issue_tracker": "http://github.com/bl4ckscor3/GetItTogetherDrops/issues",
 		"license": "MIT License http://github.com/bl4ckscor3/GetItTogetherDrops/blob/1.20/LICENSE"
-	},
-	{
-		"id": "biomesoplenty",
-		"name": "Biomes O' Plenty",
-		"version": "18.0.0.592",
-		"description": "Adds over 50 new biomes, blocks, and more!",
-		"authors": "Forstride, Adubbz",
-		"issue_tracker": "https://github.com/Glitchfiend/BiomesOPlenty/issues",
-		"license": "All Rights Reserved"
 	},
 	{
 		"id": "supermartijn642corelib",
@@ -769,7 +768,7 @@
 	{
 		"id": "rhino",
 		"name": "Rhino",
-		"version": "2001.2.2-build.6",
+		"version": "2001.2.2-build.11",
 		"description": "A fork of Mozilla's Rhino library, modified for use in mods",
 		"authors": "LatvianModder, Mozilla",
 		"issue_tracker": "https://github.com/KubeJS-Mods/Rhino/issues",
@@ -871,7 +870,7 @@
 	{
 		"id": "comforts",
 		"name": "Comforts",
-		"version": "6.3.3+1.20.1",
+		"version": "6.3.4+1.20.1",
 		"description": "Adds sleeping bags and hammocks for, respectively, portability and turning day to night, without setting new spawns.\nComes in 16 different colors!",
 		"authors": "Illusive Soulworks",
 		"issue_tracker": "https://github.com/illusivesoulworks/comforts/issues",
@@ -1095,7 +1094,7 @@
 	{
 		"id": "moonlight",
 		"name": "Moonlight Library",
-		"version": "1.20-2.8.50",
+		"version": "1.20-2.8.51",
 		"description": "A small library with many cool unique features, from dynamic asset generation to dynamic villager schedules and simple multi loader utilities",
 		"authors": "MehVahdJukaar",
 		"issue_tracker": "https://github.com/MehVahdJukaar/Moonlight/issues",
@@ -1150,7 +1149,7 @@
 	{
 		"id": "spectrelib",
 		"name": "SpectreLib",
-		"version": "0.13.12+1.20.1",
+		"version": "0.13.14+1.20.1",
 		"description": "Cross-platform library for Illusive Soulworks mods.",
 		"authors": "Illusive Soulworks",
 		"license": "LGPL-2.1-only"

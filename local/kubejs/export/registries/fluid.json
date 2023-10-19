@@ -1,6 +1,4 @@
 {
-	"biomesoplenty:blood": "biomesoplenty.common.block.BloodFluid$Source",
-	"biomesoplenty:flowing_blood": "biomesoplenty.common.block.BloodFluid$Flowing",
 	"minecraft:empty": "net.minecraft.world.level.material.EmptyFluid",
 	"minecraft:flowing_lava": "net.minecraft.world.level.material.LavaFluid$Flowing",
 	"minecraft:flowing_milk": "net.minecraftforge.fluids.ForgeFlowingFluid$Flowing",
