@@ -2,9 +2,8 @@
 StartupEvents.registry('item', event => {
   // The texture for this item has to be placed in kubejs/assets/kubejs/textures/item/test_item.png
   // If you want a custom item model, you can create one in Blockbench and put it in kubejs/assets/kubejs/models/item/test_item.json
-  event.create('kubejs:miles_ticket').displayName('Miles Ticket')
-  event.create('kubejs:miles_booklet').displayName('Miles Booklet')
-  event.create('kubejs:miles_bundle').displayName('Miles Bundle')
+  event.create('kubejs:miles_ticket').displayName('Miles Ticket').maxStackSize(10000)
+	event.create('kubejs:voucher_decoration_common').displayName("Common Decoration Voucher").maxStackSize(10000)
 	event.create('kubejs:cooking_certificate').displayName('Chef Certificate')
 	event.create('kubejs:animal_certificate').displayName('Animal Certificate')
 	event.create('kubejs:fishing_certificate').displayName('Aquarium Certificate')
