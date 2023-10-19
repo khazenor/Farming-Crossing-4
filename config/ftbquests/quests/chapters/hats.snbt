@@ -1881,134 +1881,6 @@
 			y: 1.0d
 		}
 		{
-			id: "5354BE9EE0EA48D7"
-			rewards: [{
-				auto: "enabled"
-				id: "219D00AE75212082"
-				item: "kubejs:voucher_hat"
-				type: "item"
-			}]
-			tasks: [{
-				id: "3F586AF3D3888ECA"
-				item: "simplehats:hatbag_common"
-				type: "item"
-			}]
-			x: 18.0d
-			y: 1.0d
-		}
-		{
-			id: "37ED381AE5C75EBC"
-			rewards: [{
-				auto: "enabled"
-				id: "54C240A86F5E3CEF"
-				item: "kubejs:voucher_hat"
-				type: "item"
-			}]
-			tasks: [{
-				id: "0D606076404D1F75"
-				item: "simplehats:hatbag_easter"
-				type: "item"
-			}]
-			x: 19.0d
-			y: 1.0d
-		}
-		{
-			id: "10C238A498CE1FCF"
-			rewards: [{
-				auto: "enabled"
-				id: "6966129FE63251A1"
-				item: "kubejs:voucher_hat"
-				type: "item"
-			}]
-			tasks: [{
-				id: "4958101F9098CF6A"
-				item: "simplehats:hatbag_epic"
-				type: "item"
-			}]
-			x: 20.0d
-			y: 1.0d
-		}
-		{
-			id: "6093241B534329E0"
-			rewards: [{
-				auto: "enabled"
-				id: "4E5F3A0B54F4D7D7"
-				item: "kubejs:voucher_hat"
-				type: "item"
-			}]
-			tasks: [{
-				id: "2138A9ABC184A99A"
-				item: "simplehats:hatbag_festive"
-				type: "item"
-			}]
-			x: 11.0d
-			y: 2.0d
-		}
-		{
-			id: "21B8588CC502CD1E"
-			rewards: [{
-				auto: "enabled"
-				id: "5D4F1DBF6A0A3EBE"
-				item: "kubejs:voucher_hat"
-				type: "item"
-			}]
-			tasks: [{
-				id: "13BBDF615BFFEE62"
-				item: "simplehats:hatbag_halloween"
-				type: "item"
-			}]
-			x: 12.0d
-			y: 2.0d
-		}
-		{
-			id: "1E059BA57F3D220A"
-			rewards: [{
-				auto: "enabled"
-				id: "3DBDDFAB00B43086"
-				item: "kubejs:voucher_hat"
-				type: "item"
-			}]
-			tasks: [{
-				id: "5F5C79119E9CE6E5"
-				item: "simplehats:hatbag_rare"
-				type: "item"
-			}]
-			x: 13.0d
-			y: 2.0d
-		}
-		{
-			id: "6ED1AD86053EDAEE"
-			rewards: [{
-				auto: "enabled"
-				id: "232B5E78A2C73676"
-				item: "kubejs:voucher_hat"
-				type: "item"
-			}]
-			tasks: [{
-				id: "30C21A82E89A62ED"
-				item: "simplehats:hatbag_summer"
-				type: "item"
-			}]
-			x: 14.0d
-			y: 2.0d
-		}
-		{
-			id: "3A79022CEEE64A58"
-			rewards: [{
-				auto: "enabled"
-				id: "6995035A8F295E56"
-				item: "kubejs:voucher_hat"
-				type: "item"
-			}]
-			tasks: [{
-				id: "3803FBFEE468E001"
-				item: "simplehats:hatbag_uncommon"
-				type: "item"
-			}]
-			x: 15.0d
-			y: 2.0d
-		}
-		{
 			id: "4E3D62A603D87281"
 			rewards: [{
 				auto: "enabled"
@@ -2021,8 +1893,8 @@
 				item: "simplehats:headbolts"
 				type: "item"
 			}]
-			x: 16.0d
-			y: 2.0d
+			x: 18.0d
+			y: 1.0d
 		}
 		{
 			id: "094B517B85DD5888"
@@ -2037,8 +1909,8 @@
 				item: "simplehats:headphonesblue"
 				type: "item"
 			}]
-			x: 17.0d
-			y: 2.0d
+			x: 19.0d
+			y: 1.0d
 		}
 		{
 			id: "59120496C987D9F9"
@@ -2053,8 +1925,8 @@
 				item: "simplehats:headshot"
 				type: "item"
 			}]
-			x: 18.0d
-			y: 2.0d
+			x: 20.0d
+			y: 1.0d
 		}
 		{
 			id: "228504F499055476"
@@ -2069,7 +1941,7 @@
 				item: "simplehats:hockeymask"
 				type: "item"
 			}]
-			x: 19.0d
+			x: 11.0d
 			y: 2.0d
 		}
 		{
@@ -2085,7 +1957,7 @@
 				item: "simplehats:holyhead"
 				type: "item"
 			}]
-			x: 20.0d
+			x: 12.0d
 			y: 2.0d
 		}
 		{
@@ -2101,8 +1973,8 @@
 				item: "simplehats:horsemask"
 				type: "item"
 			}]
-			x: 11.0d
-			y: 3.0d
+			x: 13.0d
+			y: 2.0d
 		}
 		{
 			id: "1B32DCA14FE0CE8E"
@@ -2117,8 +1989,8 @@
 				item: "simplehats:hosthat"
 				type: "item"
 			}]
-			x: 12.0d
-			y: 3.0d
+			x: 14.0d
+			y: 2.0d
 		}
 		{
 			id: "2A4168FCB7D94AFE"
@@ -2133,8 +2005,8 @@
 				item: "simplehats:icedragonskull"
 				type: "item"
 			}]
-			x: 13.0d
-			y: 3.0d
+			x: 15.0d
+			y: 2.0d
 		}
 		{
 			id: "34BFA37FFA3F1920"
@@ -2149,8 +2021,8 @@
 				item: "simplehats:jackohat"
 				type: "item"
 			}]
-			x: 14.0d
-			y: 3.0d
+			x: 16.0d
+			y: 2.0d
 		}
 		{
 			id: "63541E7F7C8E6626"
@@ -2165,8 +2037,8 @@
 				item: "simplehats:jesterhat"
 				type: "item"
 			}]
-			x: 15.0d
-			y: 3.0d
+			x: 17.0d
+			y: 2.0d
 		}
 		{
 			id: "2A79EAE1A5E371A1"
@@ -2181,8 +2053,8 @@
 				item: "simplehats:julydouble"
 				type: "item"
 			}]
-			x: 16.0d
-			y: 3.0d
+			x: 18.0d
+			y: 2.0d
 		}
 		{
 			id: "3560DA1460965C5B"
@@ -2197,8 +2069,8 @@
 				item: "simplehats:kirbymouthful"
 				type: "item"
 			}]
-			x: 17.0d
-			y: 3.0d
+			x: 19.0d
+			y: 2.0d
 		}
 		{
 			id: "2BEED8685E8228DB"
@@ -2213,8 +2085,8 @@
 				item: "simplehats:largehorns"
 				type: "item"
 			}]
-			x: 18.0d
-			y: 3.0d
+			x: 20.0d
+			y: 2.0d
 		}
 		{
 			id: "1189BD1D2AEC67B3"
@@ -2229,7 +2101,7 @@
 				item: "simplehats:lightning_eyes"
 				type: "item"
 			}]
-			x: 19.0d
+			x: 11.0d
 			y: 3.0d
 		}
 		{
@@ -2245,7 +2117,7 @@
 				item: "simplehats:lilbow"
 				type: "item"
 			}]
-			x: 20.0d
+			x: 12.0d
 			y: 3.0d
 		}
 		{
@@ -2261,8 +2133,8 @@
 				item: "simplehats:longfoxears"
 				type: "item"
 			}]
-			x: 11.0d
-			y: 4.0d
+			x: 13.0d
+			y: 3.0d
 		}
 		{
 			id: "321538AFFFC51794"
@@ -2277,8 +2149,8 @@
 				item: "simplehats:madscientist"
 				type: "item"
 			}]
-			x: 12.0d
-			y: 4.0d
+			x: 14.0d
+			y: 3.0d
 		}
 		{
 			id: "63895554907065B4"
@@ -2293,8 +2165,8 @@
 				item: "simplehats:magikarp"
 				type: "item"
 			}]
-			x: 13.0d
-			y: 4.0d
+			x: 15.0d
+			y: 3.0d
 		}
 		{
 			id: "68F1AF6E5EAA64B0"
@@ -2309,8 +2181,8 @@
 				item: "simplehats:megamanhat"
 				type: "item"
 			}]
-			x: 14.0d
-			y: 4.0d
+			x: 16.0d
+			y: 3.0d
 		}
 		{
 			id: "5889969AAB15F58F"
@@ -2325,8 +2197,8 @@
 				item: "simplehats:milady_doll"
 				type: "item"
 			}]
-			x: 15.0d
-			y: 4.0d
+			x: 17.0d
+			y: 3.0d
 		}
 		{
 			id: "6F7C650180D93345"
@@ -2341,8 +2213,8 @@
 				item: "simplehats:mistletoe"
 				type: "item"
 			}]
-			x: 16.0d
-			y: 4.0d
+			x: 18.0d
+			y: 3.0d
 		}
 		{
 			id: "169D3687DAB7ACD6"
@@ -2357,8 +2229,8 @@
 				item: "simplehats:mohawk"
 				type: "item"
 			}]
-			x: 17.0d
-			y: 4.0d
+			x: 19.0d
+			y: 3.0d
 		}
 		{
 			id: "01F748B2F0265CE1"
@@ -2373,8 +2245,8 @@
 				item: "simplehats:monkeyking"
 				type: "item"
 			}]
-			x: 18.0d
-			y: 4.0d
+			x: 20.0d
+			y: 3.0d
 		}
 		{
 			id: "6BF4A3B7B65995E9"
@@ -2389,7 +2261,7 @@
 				item: "simplehats:monocle"
 				type: "item"
 			}]
-			x: 19.0d
+			x: 11.0d
 			y: 4.0d
 		}
 		{
@@ -2405,7 +2277,7 @@
 				item: "simplehats:moreeyes"
 				type: "item"
 			}]
-			x: 20.0d
+			x: 12.0d
 			y: 4.0d
 		}
 		{
@@ -2421,8 +2293,8 @@
 				item: "simplehats:murdered"
 				type: "item"
 			}]
-			x: 11.0d
-			y: 5.0d
+			x: 13.0d
+			y: 4.0d
 		}
 		{
 			id: "3AFCDD8A4649A7B2"
@@ -2437,8 +2309,8 @@
 				item: "simplehats:nekoears"
 				type: "item"
 			}]
-			x: 12.0d
-			y: 5.0d
+			x: 14.0d
+			y: 4.0d
 		}
 		{
 			id: "0D70D3DA643CBEF0"
@@ -2453,8 +2325,8 @@
 				item: "simplehats:nyan_doll"
 				type: "item"
 			}]
-			x: 13.0d
-			y: 5.0d
+			x: 15.0d
+			y: 4.0d
 		}
 		{
 			id: "1657E5E684673451"
@@ -2469,8 +2341,8 @@
 				item: "simplehats:orange_hat"
 				type: "item"
 			}]
-			x: 14.0d
-			y: 5.0d
+			x: 16.0d
+			y: 4.0d
 		}
 		{
 			id: "215702EDEA854ED9"
@@ -2485,8 +2357,8 @@
 				item: "simplehats:palmtree"
 				type: "item"
 			}]
-			x: 15.0d
-			y: 5.0d
+			x: 17.0d
+			y: 4.0d
 		}
 		{
 			id: "07C41A3684EC47A1"
@@ -2501,8 +2373,8 @@
 				item: "simplehats:paperbag"
 				type: "item"
 			}]
-			x: 16.0d
-			y: 5.0d
+			x: 18.0d
+			y: 4.0d
 		}
 		{
 			id: "1F4A798D6004AA8A"
@@ -2517,8 +2389,8 @@
 				item: "simplehats:partyhat"
 				type: "item"
 			}]
-			x: 17.0d
-			y: 5.0d
+			x: 19.0d
+			y: 4.0d
 		}
 		{
 			id: "5F04215C603A7817"
@@ -2533,8 +2405,8 @@
 				item: "simplehats:paypay"
 				type: "item"
 			}]
-			x: 18.0d
-			y: 5.0d
+			x: 20.0d
+			y: 4.0d
 		}
 		{
 			id: "462D700405D5D571"
@@ -2549,7 +2421,7 @@
 				item: "simplehats:penguinbaby"
 				type: "item"
 			}]
-			x: 19.0d
+			x: 11.0d
 			y: 5.0d
 		}
 		{
@@ -2565,7 +2437,7 @@
 				item: "simplehats:penguinhat"
 				type: "item"
 			}]
-			x: 20.0d
+			x: 12.0d
 			y: 5.0d
 		}
 		{
@@ -2581,8 +2453,8 @@
 				item: "simplehats:peppino"
 				type: "item"
 			}]
-			x: 11.0d
-			y: 6.0d
+			x: 13.0d
+			y: 5.0d
 		}
 		{
 			id: "58F2D9572FB8BE2E"
@@ -2597,8 +2469,8 @@
 				item: "simplehats:pighead"
 				type: "item"
 			}]
-			x: 12.0d
-			y: 6.0d
+			x: 14.0d
+			y: 5.0d
 		}
 		{
 			id: "7173E1646EBB87AE"
@@ -2613,8 +2485,8 @@
 				item: "simplehats:pinhead"
 				type: "item"
 			}]
-			x: 13.0d
-			y: 6.0d
+			x: 15.0d
+			y: 5.0d
 		}
 		{
 			id: "142AC7CD14F36401"
@@ -2629,8 +2501,8 @@
 				item: "simplehats:plaguedoctor"
 				type: "item"
 			}]
-			x: 14.0d
-			y: 6.0d
+			x: 16.0d
+			y: 5.0d
 		}
 		{
 			id: "7E25A35322975526"
@@ -2645,8 +2517,8 @@
 				item: "simplehats:pog"
 				type: "item"
 			}]
-			x: 15.0d
-			y: 6.0d
+			x: 17.0d
+			y: 5.0d
 		}
 		{
 			id: "2883592CD86F4268"
@@ -2661,8 +2533,8 @@
 				item: "simplehats:pohatoe"
 				type: "item"
 			}]
-			x: 16.0d
-			y: 6.0d
+			x: 18.0d
+			y: 5.0d
 		}
 		{
 			id: "485F5E4D809B5243"
@@ -2677,8 +2549,8 @@
 				item: "simplehats:policebucket"
 				type: "item"
 			}]
-			x: 17.0d
-			y: 6.0d
+			x: 19.0d
+			y: 5.0d
 		}
 		{
 			id: "3736BB370D038EE2"
@@ -2693,8 +2565,8 @@
 				item: "simplehats:policesiren"
 				type: "item"
 			}]
-			x: 18.0d
-			y: 6.0d
+			x: 20.0d
+			y: 5.0d
 		}
 		{
 			id: "74B357F3B47B9139"
@@ -2709,7 +2581,7 @@
 				item: "simplehats:pom_moog"
 				type: "item"
 			}]
-			x: 19.0d
+			x: 11.0d
 			y: 6.0d
 		}
 		{
@@ -2725,7 +2597,7 @@
 				item: "simplehats:poofballhat"
 				type: "item"
 			}]
-			x: 20.0d
+			x: 12.0d
 			y: 6.0d
 		}
 		{
@@ -2741,8 +2613,8 @@
 				item: "simplehats:poofballrgb"
 				type: "item"
 			}]
-			x: 11.0d
-			y: 7.0d
+			x: 13.0d
+			y: 6.0d
 		}
 		{
 			id: "70564CEC662FE6F2"
@@ -2757,8 +2629,8 @@
 				item: "simplehats:popehat"
 				type: "item"
 			}]
-			x: 12.0d
-			y: 7.0d
+			x: 14.0d
+			y: 6.0d
 		}
 		{
 			id: "6AA3059196B35F19"
@@ -2773,8 +2645,8 @@
 				item: "simplehats:potionhead"
 				type: "item"
 			}]
-			x: 13.0d
-			y: 7.0d
+			x: 15.0d
+			y: 6.0d
 		}
 		{
 			id: "65CD40B886AAA331"
@@ -2789,8 +2661,8 @@
 				item: "simplehats:presentsstack"
 				type: "item"
 			}]
-			x: 14.0d
-			y: 7.0d
+			x: 16.0d
+			y: 6.0d
 		}
 		{
 			id: "6B3F6A18232088DB"
@@ -2805,8 +2677,8 @@
 				item: "simplehats:propelhat"
 				type: "item"
 			}]
-			x: 15.0d
-			y: 7.0d
+			x: 17.0d
+			y: 6.0d
 		}
 		{
 			id: "56F6E592A258DF41"
@@ -2821,8 +2693,8 @@
 				item: "simplehats:puchiko"
 				type: "item"
 			}]
-			x: 16.0d
-			y: 7.0d
+			x: 18.0d
+			y: 6.0d
 		}
 		{
 			id: "6D0CEF53399FB9E2"
@@ -2837,8 +2709,8 @@
 				item: "simplehats:questbook"
 				type: "item"
 			}]
-			x: 17.0d
-			y: 7.0d
+			x: 19.0d
+			y: 6.0d
 		}
 		{
 			id: "4AE2A3192B9DD619"
@@ -2853,8 +2725,8 @@
 				item: "simplehats:rabbitears"
 				type: "item"
 			}]
-			x: 18.0d
-			y: 7.0d
+			x: 20.0d
+			y: 6.0d
 		}
 		{
 			id: "5D25AA6A80B854AF"
@@ -2869,7 +2741,7 @@
 				item: "simplehats:rabbitonhead"
 				type: "item"
 			}]
-			x: 19.0d
+			x: 11.0d
 			y: 7.0d
 		}
 		{
@@ -2885,7 +2757,7 @@
 				item: "simplehats:rabi_en_rose"
 				type: "item"
 			}]
-			x: 20.0d
+			x: 12.0d
 			y: 7.0d
 		}
 		{
@@ -2901,8 +2773,8 @@
 				item: "simplehats:rainboworbiters"
 				type: "item"
 			}]
-			x: 11.0d
-			y: 8.0d
+			x: 13.0d
+			y: 7.0d
 		}
 		{
 			id: "514FEAEB120E92AA"
@@ -2917,8 +2789,8 @@
 				item: "simplehats:raincloud"
 				type: "item"
 			}]
-			x: 12.0d
-			y: 8.0d
+			x: 14.0d
+			y: 7.0d
 		}
 		{
 			id: "2AFEED30B8086EDA"
@@ -2933,8 +2805,8 @@
 				item: "simplehats:ranahat"
 				type: "item"
 			}]
-			x: 13.0d
-			y: 8.0d
+			x: 15.0d
+			y: 7.0d
 		}
 		{
 			id: "7C25CCBBFDFDDAA8"
@@ -2949,8 +2821,8 @@
 				item: "simplehats:redeyes"
 				type: "item"
 			}]
-			x: 14.0d
-			y: 8.0d
+			x: 16.0d
+			y: 7.0d
 		}
 		{
 			id: "239A4756DA36EDCC"
@@ -2965,8 +2837,8 @@
 				item: "simplehats:rednose"
 				type: "item"
 			}]
-			x: 15.0d
-			y: 8.0d
+			x: 17.0d
+			y: 7.0d
 		}
 		{
 			id: "04F62F50074E8F0B"
@@ -2981,8 +2853,8 @@
 				item: "simplehats:redstache"
 				type: "item"
 			}]
-			x: 16.0d
-			y: 8.0d
+			x: 18.0d
+			y: 7.0d
 		}
 		{
 			id: "6C57A1C57E07403F"
@@ -2997,8 +2869,8 @@
 				item: "simplehats:rgbbigribbon"
 				type: "item"
 			}]
-			x: 17.0d
-			y: 8.0d
+			x: 19.0d
+			y: 7.0d
 		}
 		{
 			id: "141AA7F11CB8B723"
@@ -3013,8 +2885,8 @@
 				item: "simplehats:rgbbowler"
 				type: "item"
 			}]
-			x: 18.0d
-			y: 8.0d
+			x: 20.0d
+			y: 7.0d
 		}
 		{
 			id: "6C2EB1A4BC292F7A"
@@ -3029,7 +2901,7 @@
 				item: "simplehats:rgbdragonskull"
 				type: "item"
 			}]
-			x: 19.0d
+			x: 11.0d
 			y: 8.0d
 		}
 		{
@@ -3045,7 +2917,7 @@
 				item: "simplehats:rgbdrinkinhat"
 				type: "item"
 			}]
-			x: 20.0d
+			x: 12.0d
 			y: 8.0d
 		}
 		{
@@ -3061,8 +2933,8 @@
 				item: "simplehats:rgbeasterhead"
 				type: "item"
 			}]
-			x: 11.0d
-			y: 9.0d
+			x: 13.0d
+			y: 8.0d
 		}
 		{
 			id: "1E8E8E97C8184B94"
@@ -3077,8 +2949,8 @@
 				item: "simplehats:rgbfullhelm"
 				type: "item"
 			}]
-			x: 12.0d
-			y: 9.0d
+			x: 14.0d
+			y: 8.0d
 		}
 		{
 			id: "45ECB3355333487D"
@@ -3093,8 +2965,8 @@
 				item: "simplehats:rgbpartyhat"
 				type: "item"
 			}]
-			x: 13.0d
-			y: 9.0d
+			x: 15.0d
+			y: 8.0d
 		}
 		{
 			id: "23E9B558BC0827B4"
@@ -3109,8 +2981,8 @@
 				item: "simplehats:rgbsmallbowler"
 				type: "item"
 			}]
-			x: 14.0d
-			y: 9.0d
+			x: 16.0d
+			y: 8.0d
 		}
 		{
 			id: "2600013C52DA21BA"
@@ -3125,8 +2997,8 @@
 				item: "simplehats:rgbsunglasses"
 				type: "item"
 			}]
-			x: 15.0d
-			y: 9.0d
+			x: 17.0d
+			y: 8.0d
 		}
 		{
 			id: "033EE70F29DE958C"
@@ -3141,8 +3013,8 @@
 				item: "simplehats:rgbtoptophathat"
 				type: "item"
 			}]
-			x: 16.0d
-			y: 9.0d
+			x: 18.0d
+			y: 8.0d
 		}
 		{
 			id: "79AE629B2D87327D"
@@ -3157,8 +3029,8 @@
 				item: "simplehats:rgbushanka"
 				type: "item"
 			}]
-			x: 17.0d
-			y: 9.0d
+			x: 19.0d
+			y: 8.0d
 		}
 		{
 			id: "7BD79B100E29D38B"
@@ -3173,8 +3045,8 @@
 				item: "simplehats:rock"
 				type: "item"
 			}]
-			x: 18.0d
-			y: 9.0d
+			x: 20.0d
+			y: 8.0d
 		}
 		{
 			id: "34E7E5973A7AAFDD"
@@ -3189,7 +3061,7 @@
 				item: "simplehats:rubbernipple"
 				type: "item"
 			}]
-			x: 19.0d
+			x: 11.0d
 			y: 9.0d
 		}
 		{
@@ -3205,7 +3077,7 @@
 				item: "simplehats:sandcastle"
 				type: "item"
 			}]
-			x: 20.0d
+			x: 12.0d
 			y: 9.0d
 		}
 		{
@@ -3221,8 +3093,8 @@
 				item: "simplehats:santaclaus"
 				type: "item"
 			}]
-			x: 0.0d
-			y: 11.0d
+			x: 13.0d
+			y: 9.0d
 		}
 		{
 			id: "182808A698C20922"
@@ -3237,8 +3109,8 @@
 				item: "simplehats:sausage"
 				type: "item"
 			}]
-			x: 1.0d
-			y: 11.0d
+			x: 14.0d
+			y: 9.0d
 		}
 		{
 			id: "6301CB063ADB5692"
@@ -3253,8 +3125,8 @@
 				item: "simplehats:scouter"
 				type: "item"
 			}]
-			x: 2.0d
-			y: 11.0d
+			x: 15.0d
+			y: 9.0d
 		}
 		{
 			id: "672803402E6BE137"
@@ -3269,8 +3141,8 @@
 				item: "simplehats:seaweedhat"
 				type: "item"
 			}]
-			x: 3.0d
-			y: 11.0d
+			x: 16.0d
+			y: 9.0d
 		}
 		{
 			id: "4C328859EFE18C4C"
@@ -3285,8 +3157,8 @@
 				item: "simplehats:shakehat"
 				type: "item"
 			}]
-			x: 4.0d
-			y: 11.0d
+			x: 17.0d
+			y: 9.0d
 		}
 		{
 			id: "0553E6779FF82600"
@@ -3301,8 +3173,8 @@
 				item: "simplehats:sheep"
 				type: "item"
 			}]
-			x: 5.0d
-			y: 11.0d
+			x: 18.0d
+			y: 9.0d
 		}
 		{
 			id: "659494ADD9997656"
@@ -3317,8 +3189,8 @@
 				item: "simplehats:shrekears"
 				type: "item"
 			}]
-			x: 6.0d
-			y: 11.0d
+			x: 19.0d
+			y: 9.0d
 		}
 		{
 			id: "60B02400A719E16D"
@@ -3333,8 +3205,8 @@
 				item: "simplehats:shroomcap"
 				type: "item"
 			}]
-			x: 7.0d
-			y: 11.0d
+			x: 20.0d
+			y: 9.0d
 		}
 		{
 			id: "41AA993FA6FC83B8"
@@ -3349,7 +3221,7 @@
 				item: "simplehats:simsgem"
 				type: "item"
 			}]
-			x: 8.0d
+			x: 0.0d
 			y: 11.0d
 		}
 		{
@@ -3365,7 +3237,7 @@
 				item: "simplehats:sleepeyemask"
 				type: "item"
 			}]
-			x: 9.0d
+			x: 1.0d
 			y: 11.0d
 		}
 		{
@@ -3381,8 +3253,8 @@
 				item: "simplehats:smokingpipe"
 				type: "item"
 			}]
-			x: 0.0d
-			y: 12.0d
+			x: 2.0d
+			y: 11.0d
 		}
 		{
 			id: "520483CA812E5A56"
@@ -3397,8 +3269,8 @@
 				item: "simplehats:snowmanbaby"
 				type: "item"
 			}]
-			x: 1.0d
-			y: 12.0d
+			x: 3.0d
+			y: 11.0d
 		}
 		{
 			id: "3391CFF7D3FE6488"
@@ -3413,8 +3285,8 @@
 				item: "simplehats:sombrero"
 				type: "item"
 			}]
-			x: 2.0d
-			y: 12.0d
+			x: 4.0d
+			y: 11.0d
 		}
 		{
 			id: "3799ABB1F971B941"
@@ -3429,8 +3301,8 @@
 				item: "simplehats:sonichood"
 				type: "item"
 			}]
-			x: 3.0d
-			y: 12.0d
+			x: 5.0d
+			y: 11.0d
 		}
 		{
 			id: "2FA91AB1D1432410"
@@ -3445,8 +3317,8 @@
 				item: "simplehats:spadesoldier"
 				type: "item"
 			}]
-			x: 4.0d
-			y: 12.0d
+			x: 6.0d
+			y: 11.0d
 		}
 		{
 			id: "75FC66507F7C012D"
@@ -3461,8 +3333,8 @@
 				item: "simplehats:special"
 				type: "item"
 			}]
-			x: 5.0d
-			y: 12.0d
+			x: 7.0d
+			y: 11.0d
 		}
 		{
 			id: "255F0C384C273413"
@@ -3477,8 +3349,8 @@
 				item: "simplehats:spiderweb"
 				type: "item"
 			}]
-			x: 6.0d
-			y: 12.0d
+			x: 8.0d
+			y: 11.0d
 		}
 		{
 			id: "030601A63CCC1CCA"
@@ -3493,8 +3365,8 @@
 				item: "simplehats:sport_sunglasses"
 				type: "item"
 			}]
-			x: 7.0d
-			y: 12.0d
+			x: 9.0d
+			y: 11.0d
 		}
 		{
 			id: "73FCF5350AA456FF"
@@ -3509,7 +3381,7 @@
 				item: "simplehats:springer"
 				type: "item"
 			}]
-			x: 8.0d
+			x: 0.0d
 			y: 12.0d
 		}
 		{
@@ -3525,7 +3397,7 @@
 				item: "simplehats:sprout"
 				type: "item"
 			}]
-			x: 9.0d
+			x: 1.0d
 			y: 12.0d
 		}
 		{
@@ -3541,8 +3413,8 @@
 				item: "simplehats:spyzombie"
 				type: "item"
 			}]
-			x: 0.0d
-			y: 13.0d
+			x: 2.0d
+			y: 12.0d
 		}
 		{
 			id: "50BD94717A38DDF6"
@@ -3557,8 +3429,8 @@
 				item: "simplehats:stackofeggs"
 				type: "item"
 			}]
-			x: 1.0d
-			y: 13.0d
+			x: 3.0d
+			y: 12.0d
 		}
 		{
 			id: "6228D04099B4F8C2"
@@ -3573,8 +3445,8 @@
 				item: "simplehats:strawberry_hat"
 				type: "item"
 			}]
-			x: 2.0d
-			y: 13.0d
+			x: 4.0d
+			y: 12.0d
 		}
 		{
 			id: "50052B3A63127273"
@@ -3589,8 +3461,8 @@
 				item: "simplehats:stress"
 				type: "item"
 			}]
-			x: 3.0d
-			y: 13.0d
+			x: 5.0d
+			y: 12.0d
 		}
 		{
 			id: "4B53FD99EF57989D"
@@ -3605,8 +3477,8 @@
 				item: "simplehats:summerhat"
 				type: "item"
 			}]
-			x: 4.0d
-			y: 13.0d
+			x: 6.0d
+			y: 12.0d
 		}
 		{
 			id: "7D6D04467EBD7724"
@@ -3621,8 +3493,8 @@
 				item: "simplehats:sunglasses"
 				type: "item"
 			}]
-			x: 5.0d
-			y: 13.0d
+			x: 7.0d
+			y: 12.0d
 		}
 		{
 			id: "1E011548BA4017B9"
@@ -3637,8 +3509,8 @@
 				item: "simplehats:sunglassesbig"
 				type: "item"
 			}]
-			x: 6.0d
-			y: 13.0d
+			x: 8.0d
+			y: 12.0d
 		}
 		{
 			id: "38D985F5A822F8F7"
@@ -3653,8 +3525,8 @@
 				item: "simplehats:supersandhat"
 				type: "item"
 			}]
-			x: 7.0d
-			y: 13.0d
+			x: 9.0d
+			y: 12.0d
 		}
 		{
 			id: "26138B9C0AA69CC8"
@@ -3669,7 +3541,7 @@
 				item: "simplehats:swimmer"
 				type: "item"
 			}]
-			x: 8.0d
+			x: 0.0d
 			y: 13.0d
 		}
 		{
@@ -3685,7 +3557,7 @@
 				item: "simplehats:teddy_bear"
 				type: "item"
 			}]
-			x: 9.0d
+			x: 1.0d
 			y: 13.0d
 		}
 		{
@@ -3701,8 +3573,8 @@
 				item: "simplehats:the_noise"
 				type: "item"
 			}]
-			x: 0.0d
-			y: 14.0d
+			x: 2.0d
+			y: 13.0d
 		}
 		{
 			id: "2F90264F437308A9"
@@ -3717,8 +3589,8 @@
 				item: "simplehats:tinkerhat"
 				type: "item"
 			}]
-			x: 1.0d
-			y: 14.0d
+			x: 3.0d
+			y: 13.0d
 		}
 		{
 			id: "081C569A7FF8BC49"
@@ -3733,8 +3605,8 @@
 				item: "simplehats:topcathat"
 				type: "item"
 			}]
-			x: 2.0d
-			y: 14.0d
+			x: 4.0d
+			y: 13.0d
 		}
 		{
 			id: "017E16AEBA4E17F4"
@@ -3749,8 +3621,8 @@
 				item: "simplehats:tophat"
 				type: "item"
 			}]
-			x: 3.0d
-			y: 14.0d
+			x: 5.0d
+			y: 13.0d
 		}
 		{
 			id: "09936F3150346B97"
@@ -3765,8 +3637,8 @@
 				item: "simplehats:toptophathat"
 				type: "item"
 			}]
-			x: 4.0d
-			y: 14.0d
+			x: 6.0d
+			y: 13.0d
 		}
 		{
 			id: "09A8D85900AAA02F"
@@ -3781,8 +3653,8 @@
 				item: "simplehats:toy_story_alien"
 				type: "item"
 			}]
-			x: 5.0d
-			y: 14.0d
+			x: 7.0d
+			y: 13.0d
 		}
 		{
 			id: "3FEC3B23404EDB31"
@@ -3797,8 +3669,8 @@
 				item: "simplehats:triangleshades"
 				type: "item"
 			}]
-			x: 6.0d
-			y: 14.0d
+			x: 8.0d
+			y: 13.0d
 		}
 		{
 			id: "6CC3627CEDF22E97"
@@ -3813,8 +3685,8 @@
 				item: "simplehats:tricorne"
 				type: "item"
 			}]
-			x: 7.0d
-			y: 14.0d
+			x: 9.0d
+			y: 13.0d
 		}
 		{
 			id: "261EDC67FD26F705"
@@ -3829,7 +3701,7 @@
 				item: "simplehats:tvhead"
 				type: "item"
 			}]
-			x: 8.0d
+			x: 0.0d
 			y: 14.0d
 		}
 		{
@@ -3845,7 +3717,7 @@
 				item: "simplehats:twilight_doll"
 				type: "item"
 			}]
-			x: 9.0d
+			x: 1.0d
 			y: 14.0d
 		}
 		{
@@ -3861,8 +3733,8 @@
 				item: "simplehats:unicornhorn"
 				type: "item"
 			}]
-			x: 0.0d
-			y: 15.0d
+			x: 2.0d
+			y: 14.0d
 		}
 		{
 			id: "26DEFE0907DE82D8"
@@ -3877,8 +3749,8 @@
 				item: "simplehats:ushanka"
 				type: "item"
 			}]
-			x: 1.0d
-			y: 15.0d
+			x: 3.0d
+			y: 14.0d
 		}
 		{
 			id: "0182AF33CEBA579D"
@@ -3893,8 +3765,8 @@
 				item: "simplehats:vikinghatbeard"
 				type: "item"
 			}]
-			x: 2.0d
-			y: 15.0d
+			x: 4.0d
+			y: 14.0d
 		}
 		{
 			id: "019B3E16A83726D5"
@@ -3909,8 +3781,8 @@
 				item: "simplehats:villagernose"
 				type: "item"
 			}]
-			x: 3.0d
-			y: 15.0d
+			x: 5.0d
+			y: 14.0d
 		}
 		{
 			id: "4425265D219C9734"
@@ -3925,8 +3797,8 @@
 				item: "simplehats:winghat"
 				type: "item"
 			}]
-			x: 4.0d
-			y: 15.0d
+			x: 6.0d
+			y: 14.0d
 		}
 		{
 			id: "457A35318A4477EF"
@@ -3941,8 +3813,8 @@
 				item: "simplehats:worms_mine"
 				type: "item"
 			}]
-			x: 5.0d
-			y: 15.0d
+			x: 7.0d
+			y: 14.0d
 		}
 		{
 			id: "57DC7227C457EE4A"
@@ -3957,8 +3829,8 @@
 				item: "simplehats:zigzagwitchhat"
 				type: "item"
 			}]
-			x: 6.0d
-			y: 15.0d
+			x: 8.0d
+			y: 14.0d
 		}
 	]
 	title: "Hats"
