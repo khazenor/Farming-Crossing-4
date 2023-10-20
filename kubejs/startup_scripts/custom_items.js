@@ -6,6 +6,8 @@ StartupEvents.registry('item', event => {
 	event.create('kubejs:voucher_decoration_common').displayName("Common Decoration Collection Voucher").maxStackSize(10000)
 	event.create('kubejs:voucher_decoration_rare').displayName("Rare Decoration Collection Voucher").maxStackSize(10000)
 	event.create('kubejs:voucher_hat').displayName("Hat Collection Voucher").maxStackSize(10000)
+	event.create('kubejs:voucher_animal').displayName("Animal Watching Voucher").maxStackSize(10000)
+	event.create('kubejs:voucher_fish').displayName("Fishing Collection Voucher").maxStackSize(10000)
 	event.create('kubejs:cooking_certificate').displayName('Chef Certificate')
 	event.create('kubejs:animal_certificate').displayName('Animal Certificate')
 	event.create('kubejs:fishing_certificate').displayName('Aquarium Certificate')
