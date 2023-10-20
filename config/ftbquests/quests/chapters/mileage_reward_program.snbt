@@ -9,10 +9,9 @@
 	quest_links: [ ]
 	quests: [
 		{
-			id: "79C7500CAA3A99A3"
 			hide: true
-			title: "Wooden Common Deco Collection Certificate"
 			icon: "kubejs:cert_decocom_wood"
+			id: "79C7500CAA3A99A3"
 			rewards: [
 				{
 					id: "283FC0808A52B1D2"
@@ -20,27 +19,28 @@
 					type: "item"
 				}
 				{
+					count: 10
 					id: "0C2E1AF9E8267A01"
 					item: "kubejs:miles_ticket"
-					count: 10
 					type: "item"
 				}
 			]
 			tasks: [{
 				consume_items: true
+				count: 10L
 				id: "029A38F6275CB9D8"
 				item: "kubejs:voucher_decoration_common"
-				count: 10
 				type: "item"
 			}]
+			title: "Wooden Common Deco Collection Certificate"
 			x: 0.0d
 			y: 0.0d
 		}
 		{
-			id: "6762FFD6458747DE"
+			dependencies: ["79C7500CAA3A99A3"]
 			hide: true
-			title: "Stone Common Deco Collection Certificate"
 			icon: "kubejs:cert_decocom_stone"
+			id: "6762FFD6458747DE"
 			rewards: [
 				{
 					id: "6700A2B75D3A78EF"
@@ -48,27 +48,28 @@
 					type: "item"
 				}
 				{
+					count: 30
 					id: "7F3181C632D44D83"
 					item: "kubejs:miles_ticket"
-					count: 30
 					type: "item"
 				}
 			]
 			tasks: [{
 				consume_items: true
+				count: 30L
 				id: "6B47BB5B28F52401"
 				item: "kubejs:voucher_decoration_common"
-				count: 30
 				type: "item"
 			}]
+			title: "Stone Common Deco Collection Certificate"
 			x: 0.0d
 			y: 1.0d
 		}
 		{
-			id: "1F961B590FBF4532"
+			dependencies: ["6762FFD6458747DE"]
 			hide: true
-			title: "Iron Common Deco Collection Certificate"
 			icon: "kubejs:cert_decocom_iron"
+			id: "1F961B590FBF4532"
 			rewards: [
 				{
 					id: "6943CB15106C6827"
@@ -76,27 +77,28 @@
 					type: "item"
 				}
 				{
+					count: 110
 					id: "48476306C52AB842"
 					item: "kubejs:miles_ticket"
-					count: 110
 					type: "item"
 				}
 			]
 			tasks: [{
 				consume_items: true
+				count: 55L
 				id: "180B71A6A033E70B"
 				item: "kubejs:voucher_decoration_common"
-				count: 55
 				type: "item"
 			}]
+			title: "Iron Common Deco Collection Certificate"
 			x: 0.0d
 			y: 2.0d
 		}
 		{
-			id: "2CA1DF422552D48B"
+			dependencies: ["1F961B590FBF4532"]
 			hide: true
-			title: "Golden Common Deco Collection Certificate"
 			icon: "kubejs:cert_decocom_gold"
+			id: "2CA1DF422552D48B"
 			rewards: [
 				{
 					id: "28352BAD39C55D29"
@@ -104,27 +106,28 @@
 					type: "item"
 				}
 				{
+					count: 190
 					id: "3F26EED86CAE3C35"
 					item: "kubejs:miles_ticket"
-					count: 190
 					type: "item"
 				}
 			]
 			tasks: [{
 				consume_items: true
+				count: 95L
 				id: "3BB411529015B013"
 				item: "kubejs:voucher_decoration_common"
-				count: 95
 				type: "item"
 			}]
+			title: "Golden Common Deco Collection Certificate"
 			x: 0.0d
 			y: 3.0d
 		}
 		{
-			id: "6045E2A7925B12D6"
+			dependencies: ["2CA1DF422552D48B"]
 			hide: true
-			title: "Diamond Common Deco Collection Certificate"
 			icon: "kubejs:cert_decocom_diamond"
+			id: "6045E2A7925B12D6"
 			rewards: [
 				{
 					id: "200674B267478BAD"
@@ -132,27 +135,27 @@
 					type: "item"
 				}
 				{
+					count: 432
 					id: "204E92AFBB00EB36"
 					item: "kubejs:miles_ticket"
-					count: 432
 					type: "item"
 				}
 			]
 			tasks: [{
 				consume_items: true
+				count: 144L
 				id: "7B60E2B64D4DD0E2"
 				item: "kubejs:voucher_decoration_common"
-				count: 144
 				type: "item"
 			}]
+			title: "Diamond Common Deco Collection Certificate"
 			x: 0.0d
 			y: 4.0d
 		}
 		{
-			id: "293263143F2388DC"
 			hide: true
-			title: "Wooden Rare Deco Collection Certificate"
 			icon: "kubejs:cert_decorare_wood"
+			id: "293263143F2388DC"
 			rewards: [
 				{
 					id: "161A11774C5E5D3E"
@@ -160,9 +163,9 @@
 					type: "item"
 				}
 				{
+					count: 4
 					id: "525B9A2E23009080"
 					item: "kubejs:miles_ticket"
-					count: 4
 					type: "item"
 				}
 			]
@@ -170,17 +173,17 @@
 				consume_items: true
 				id: "37BAE077CD29D5E0"
 				item: "kubejs:voucher_decoration_rare"
-				count: 1
 				type: "item"
 			}]
+			title: "Wooden Rare Deco Collection Certificate"
 			x: 1.0d
 			y: 0.0d
 		}
 		{
-			id: "1DECA2763F595B8C"
+			dependencies: ["293263143F2388DC"]
 			hide: true
-			title: "Stone Rare Deco Collection Certificate"
 			icon: "kubejs:cert_decorare_stone"
+			id: "1DECA2763F595B8C"
 			rewards: [
 				{
 					id: "5BD8C15565A88A61"
@@ -188,27 +191,28 @@
 					type: "item"
 				}
 				{
+					count: 15
 					id: "17A3D6F8CA222661"
 					item: "kubejs:miles_ticket"
-					count: 15
 					type: "item"
 				}
 			]
 			tasks: [{
 				consume_items: true
+				count: 3L
 				id: "536DEA4E4C10DA46"
 				item: "kubejs:voucher_decoration_rare"
-				count: 3
 				type: "item"
 			}]
+			title: "Stone Rare Deco Collection Certificate"
 			x: 1.0d
 			y: 1.0d
 		}
 		{
-			id: "13A0B3991E1D7B30"
+			dependencies: ["1DECA2763F595B8C"]
 			hide: true
-			title: "Iron Rare Deco Collection Certificate"
 			icon: "kubejs:cert_decorare_iron"
+			id: "13A0B3991E1D7B30"
 			rewards: [
 				{
 					id: "07469EFBC5080C3B"
@@ -216,27 +220,28 @@
 					type: "item"
 				}
 				{
+					count: 30
 					id: "77C3621F39E74587"
 					item: "kubejs:miles_ticket"
-					count: 30
 					type: "item"
 				}
 			]
 			tasks: [{
 				consume_items: true
+				count: 5L
 				id: "54419B40C04808ED"
 				item: "kubejs:voucher_decoration_rare"
-				count: 5
 				type: "item"
 			}]
+			title: "Iron Rare Deco Collection Certificate"
 			x: 1.0d
 			y: 2.0d
 		}
 		{
-			id: "20A4454D7B82DAAE"
+			dependencies: ["13A0B3991E1D7B30"]
 			hide: true
-			title: "Golden Rare Deco Collection Certificate"
 			icon: "kubejs:cert_decorare_gold"
+			id: "20A4454D7B82DAAE"
 			rewards: [
 				{
 					id: "6D7345EC51FA0438"
@@ -244,27 +249,28 @@
 					type: "item"
 				}
 				{
+					count: 56
 					id: "20B966D7D553C094"
 					item: "kubejs:miles_ticket"
-					count: 56
 					type: "item"
 				}
 			]
 			tasks: [{
 				consume_items: true
+				count: 8L
 				id: "4AA1C14A8E2D67A8"
 				item: "kubejs:voucher_decoration_rare"
-				count: 8
 				type: "item"
 			}]
+			title: "Golden Rare Deco Collection Certificate"
 			x: 1.0d
 			y: 3.0d
 		}
 		{
-			id: "6504E88965D8ED4F"
+			dependencies: ["20A4454D7B82DAAE"]
 			hide: true
-			title: "Diamond Rare Deco Collection Certificate"
 			icon: "kubejs:cert_decorare_diamond"
+			id: "6504E88965D8ED4F"
 			rewards: [
 				{
 					id: "0D5C3D8D6D36700F"
@@ -272,27 +278,27 @@
 					type: "item"
 				}
 				{
+					count: 104
 					id: "490A0E76289A5837"
 					item: "kubejs:miles_ticket"
-					count: 104
 					type: "item"
 				}
 			]
 			tasks: [{
 				consume_items: true
+				count: 13L
 				id: "36BCBB974BB15803"
 				item: "kubejs:voucher_decoration_rare"
-				count: 13
 				type: "item"
 			}]
+			title: "Diamond Rare Deco Collection Certificate"
 			x: 1.0d
 			y: 4.0d
 		}
 		{
-			id: "644B450087A604E7"
 			hide: true
-			title: "Wooden Hat Collection Certificate"
 			icon: "kubejs:cert_hat_wood"
+			id: "644B450087A604E7"
 			rewards: [
 				{
 					id: "6151B4145E0B1D8B"
@@ -300,27 +306,28 @@
 					type: "item"
 				}
 				{
+					count: 5
 					id: "4138478491EBAFAC"
 					item: "kubejs:miles_ticket"
-					count: 5
 					type: "item"
 				}
 			]
 			tasks: [{
 				consume_items: true
+				count: 5L
 				id: "2BFC1CE4B5F89657"
 				item: "kubejs:voucher_hat"
-				count: 5
 				type: "item"
 			}]
+			title: "Wooden Hat Collection Certificate"
 			x: 2.0d
 			y: 0.0d
 		}
 		{
-			id: "21EE2673C216F66B"
+			dependencies: ["644B450087A604E7"]
 			hide: true
-			title: "Stone Hat Collection Certificate"
 			icon: "kubejs:cert_hat_stone"
+			id: "21EE2673C216F66B"
 			rewards: [
 				{
 					id: "460FDC5BDF1F2C4C"
@@ -328,27 +335,28 @@
 					type: "item"
 				}
 				{
+					count: 20
 					id: "4A354EB21CDC6DC6"
 					item: "kubejs:miles_ticket"
-					count: 20
 					type: "item"
 				}
 			]
 			tasks: [{
 				consume_items: true
+				count: 20L
 				id: "5F54FEE639B54D18"
 				item: "kubejs:voucher_hat"
-				count: 20
 				type: "item"
 			}]
+			title: "Stone Hat Collection Certificate"
 			x: 2.0d
 			y: 1.0d
 		}
 		{
-			id: "2DD8168BA32AEEBE"
+			dependencies: ["21EE2673C216F66B"]
 			hide: true
-			title: "Iron Hat Collection Certificate"
 			icon: "kubejs:cert_hat_iron"
+			id: "2DD8168BA32AEEBE"
 			rewards: [
 				{
 					id: "192AA19E7CEC0BBA"
@@ -356,27 +364,28 @@
 					type: "item"
 				}
 				{
+					count: 70
 					id: "364D88A99D36974B"
 					item: "kubejs:miles_ticket"
-					count: 70
 					type: "item"
 				}
 			]
 			tasks: [{
 				consume_items: true
+				count: 35L
 				id: "208378D4C56BD5ED"
 				item: "kubejs:voucher_hat"
-				count: 35
 				type: "item"
 			}]
+			title: "Iron Hat Collection Certificate"
 			x: 2.0d
 			y: 2.0d
 		}
 		{
-			id: "0B1567BF81B96A20"
+			dependencies: ["2DD8168BA32AEEBE"]
 			hide: true
-			title: "Golden Hat Collection Certificate"
 			icon: "kubejs:cert_hat_gold"
+			id: "0B1567BF81B96A20"
 			rewards: [
 				{
 					id: "2158A8359313C3C1"
@@ -384,27 +393,28 @@
 					type: "item"
 				}
 				{
+					count: 130
 					id: "669DE3224E662105"
 					item: "kubejs:miles_ticket"
-					count: 130
 					type: "item"
 				}
 			]
 			tasks: [{
 				consume_items: true
+				count: 65L
 				id: "676E9DF398521D80"
 				item: "kubejs:voucher_hat"
-				count: 65
 				type: "item"
 			}]
+			title: "Golden Hat Collection Certificate"
 			x: 2.0d
 			y: 3.0d
 		}
 		{
-			id: "7BDD6ECB0A37435D"
+			dependencies: ["0B1567BF81B96A20"]
 			hide: true
-			title: "Diamond Hat Collection Certificate"
 			icon: "kubejs:cert_hat_diamond"
+			id: "7BDD6ECB0A37435D"
 			rewards: [
 				{
 					id: "50E4EC5890B3C054"
@@ -412,27 +422,27 @@
 					type: "item"
 				}
 				{
+					count: 342
 					id: "32A238624A8FB979"
 					item: "kubejs:miles_ticket"
-					count: 342
 					type: "item"
 				}
 			]
 			tasks: [{
 				consume_items: true
+				count: 114L
 				id: "7A8023D38214555B"
 				item: "kubejs:voucher_hat"
-				count: 114
 				type: "item"
 			}]
+			title: "Diamond Hat Collection Certificate"
 			x: 2.0d
 			y: 4.0d
 		}
 		{
-			id: "394A6E4A27A64754"
 			hide: true
-			title: "Wooden Fishing Collection Certificate"
 			icon: "kubejs:cert_fish_wood"
+			id: "394A6E4A27A64754"
 			rewards: [
 				{
 					id: "1D8C667806210874"
@@ -440,27 +450,28 @@
 					type: "item"
 				}
 				{
+					count: 5
 					id: "40F21F1CDC21DAA6"
 					item: "kubejs:miles_ticket"
-					count: 5
 					type: "item"
 				}
 			]
 			tasks: [{
 				consume_items: true
+				count: 4L
 				id: "75F7350B7D1319BD"
 				item: "kubejs:voucher_animal"
-				count: 4
 				type: "item"
 			}]
+			title: "Wooden Fishing Collection Certificate"
 			x: 3.0d
 			y: 0.0d
 		}
 		{
-			id: "57C45C9423BEC2AB"
+			dependencies: ["394A6E4A27A64754"]
 			hide: true
-			title: "Stone Fishing Collection Certificate"
 			icon: "kubejs:cert_fish_stone"
+			id: "57C45C9423BEC2AB"
 			rewards: [
 				{
 					id: "402C18484BD4711D"
@@ -468,27 +479,28 @@
 					type: "item"
 				}
 				{
+					count: 10
 					id: "65FD7F7F65D3877B"
 					item: "kubejs:miles_ticket"
-					count: 10
 					type: "item"
 				}
 			]
 			tasks: [{
 				consume_items: true
+				count: 5L
 				id: "0027724FB4C56BE9"
 				item: "kubejs:voucher_animal"
-				count: 5
 				type: "item"
 			}]
+			title: "Stone Fishing Collection Certificate"
 			x: 3.0d
 			y: 1.0d
 		}
 		{
-			id: "6536E3C16A4477CA"
+			dependencies: ["57C45C9423BEC2AB"]
 			hide: true
-			title: "Iron Fishing Collection Certificate"
 			icon: "kubejs:cert_fish_iron"
+			id: "6536E3C16A4477CA"
 			rewards: [
 				{
 					id: "280856B83E2FC947"
@@ -496,27 +508,28 @@
 					type: "item"
 				}
 				{
+					count: 34
 					id: "7997F1C1E0BB8225"
 					item: "kubejs:miles_ticket"
-					count: 34
 					type: "item"
 				}
 			]
 			tasks: [{
 				consume_items: true
+				count: 7L
 				id: "3A15A7E2C8AB6D91"
 				item: "kubejs:voucher_animal"
-				count: 7
 				type: "item"
 			}]
+			title: "Iron Fishing Collection Certificate"
 			x: 3.0d
 			y: 2.0d
 		}
 		{
-			id: "1D14E2615748F241"
+			dependencies: ["6536E3C16A4477CA"]
 			hide: true
-			title: "Golden Fishing Collection Certificate"
 			icon: "kubejs:cert_fish_gold"
+			id: "1D14E2615748F241"
 			rewards: [
 				{
 					id: "24A0337F3A81ED9F"
@@ -524,27 +537,28 @@
 					type: "item"
 				}
 				{
+					count: 48
 					id: "681C96B5EF53CADE"
 					item: "kubejs:miles_ticket"
-					count: 48
 					type: "item"
 				}
 			]
 			tasks: [{
 				consume_items: true
+				count: 9L
 				id: "3CBCF8430E9F9186"
 				item: "kubejs:voucher_animal"
-				count: 9
 				type: "item"
 			}]
+			title: "Golden Fishing Collection Certificate"
 			x: 3.0d
 			y: 3.0d
 		}
 		{
-			id: "3CEA5D939800DB04"
+			dependencies: ["1D14E2615748F241"]
 			hide: true
-			title: "Diamond Fishing Collection Certificate"
 			icon: "kubejs:cert_fish_diamond"
+			id: "3CEA5D939800DB04"
 			rewards: [
 				{
 					id: "178044A55E1A85E6"
@@ -552,27 +566,27 @@
 					type: "item"
 				}
 				{
+					count: 96
 					id: "591EAA4377DBE323"
 					item: "kubejs:miles_ticket"
-					count: 96
 					type: "item"
 				}
 			]
 			tasks: [{
 				consume_items: true
+				count: 12L
 				id: "0A453A75A434C003"
 				item: "kubejs:voucher_animal"
-				count: 12
 				type: "item"
 			}]
+			title: "Diamond Fishing Collection Certificate"
 			x: 3.0d
 			y: 4.0d
 		}
 		{
-			id: "42A6B7DAE4A318FF"
 			hide: true
-			title: "Wooden Animal Collection Certificate"
 			icon: "kubejs:cert_ani_wood"
+			id: "42A6B7DAE4A318FF"
 			rewards: [
 				{
 					id: "461118F55C237279"
@@ -580,27 +594,28 @@
 					type: "item"
 				}
 				{
+					count: 4
 					id: "20FAA0135759E75C"
 					item: "kubejs:miles_ticket"
-					count: 4
 					type: "item"
 				}
 			]
 			tasks: [{
 				consume_items: true
+				count: 5L
 				id: "6045CDA54606F04C"
 				item: "kubejs:voucher_fish"
-				count: 5
 				type: "item"
 			}]
+			title: "Wooden Animal Collection Certificate"
 			x: 4.0d
 			y: 0.0d
 		}
 		{
-			id: "644E5A71CE6B9B86"
+			dependencies: ["42A6B7DAE4A318FF"]
 			hide: true
-			title: "Stone Animal Collection Certificate"
 			icon: "kubejs:cert_ani_stone"
+			id: "644E5A71CE6B9B86"
 			rewards: [
 				{
 					id: "5873BDEF037C9D1B"
@@ -608,27 +623,28 @@
 					type: "item"
 				}
 				{
+					count: 10
 					id: "582DA9D8B2D2CC0C"
 					item: "kubejs:miles_ticket"
-					count: 10
 					type: "item"
 				}
 			]
 			tasks: [{
 				consume_items: true
+				count: 10L
 				id: "00D1DF02BF3B7CA8"
 				item: "kubejs:voucher_fish"
-				count: 10
 				type: "item"
 			}]
+			title: "Stone Animal Collection Certificate"
 			x: 4.0d
 			y: 1.0d
 		}
 		{
-			id: "0E21E1B6579C2654"
+			dependencies: ["644E5A71CE6B9B86"]
 			hide: true
-			title: "Iron Animal Collection Certificate"
 			icon: "kubejs:cert_ani_iron"
+			id: "0E21E1B6579C2654"
 			rewards: [
 				{
 					id: "14FFA26B47AEE3E6"
@@ -636,27 +652,28 @@
 					type: "item"
 				}
 				{
+					count: 21
 					id: "11D02A0C7AD56002"
 					item: "kubejs:miles_ticket"
-					count: 21
 					type: "item"
 				}
 			]
 			tasks: [{
 				consume_items: true
+				count: 17L
 				id: "03CE302EF6264650"
 				item: "kubejs:voucher_fish"
-				count: 17
 				type: "item"
 			}]
+			title: "Iron Animal Collection Certificate"
 			x: 4.0d
 			y: 2.0d
 		}
 		{
-			id: "53F562C912D08A93"
+			dependencies: ["0E21E1B6579C2654"]
 			hide: true
-			title: "Golden Animal Collection Certificate"
 			icon: "kubejs:cert_ani_gold"
+			id: "53F562C912D08A93"
 			rewards: [
 				{
 					id: "595302F4C78AD159"
@@ -664,27 +681,28 @@
 					type: "item"
 				}
 				{
+					count: 40
 					id: "14F30D7A3EFC7C0A"
 					item: "kubejs:miles_ticket"
-					count: 40
 					type: "item"
 				}
 			]
 			tasks: [{
 				consume_items: true
+				count: 24L
 				id: "4A3DF010190ABAEC"
 				item: "kubejs:voucher_fish"
-				count: 24
 				type: "item"
 			}]
+			title: "Golden Animal Collection Certificate"
 			x: 4.0d
 			y: 3.0d
 		}
 		{
-			id: "0BF0719FFEE2625B"
+			dependencies: ["53F562C912D08A93"]
 			hide: true
-			title: "Diamond Animal Collection Certificate"
 			icon: "kubejs:cert_ani_diamond"
+			id: "0BF0719FFEE2625B"
 			rewards: [
 				{
 					id: "7900B2DF322A6E90"
@@ -692,19 +710,20 @@
 					type: "item"
 				}
 				{
+					count: 60
 					id: "5FDAD03CEB8AC76D"
 					item: "kubejs:miles_ticket"
-					count: 60
 					type: "item"
 				}
 			]
 			tasks: [{
 				consume_items: true
+				count: 32L
 				id: "41ED758677F7934B"
 				item: "kubejs:voucher_fish"
-				count: 32
 				type: "item"
 			}]
+			title: "Diamond Animal Collection Certificate"
 			x: 4.0d
 			y: 4.0d
 		}
