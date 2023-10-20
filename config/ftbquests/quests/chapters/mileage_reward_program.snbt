@@ -27,8 +27,8 @@
 				item: "minecraft:oak_log"
 				type: "item"
 			}]
-			x: 1.5d
-			y: 2.5d
+			x: 0.0d
+			y: 0.0d
 		}
 		{
 			id: "6762FFD6458747DE"
@@ -49,8 +49,8 @@
 				item: "minecraft:oak_log"
 				type: "item"
 			}]
-			x: 2.0d
-			y: 3.0d
+			x: 0.0d
+			y: 1.0d
 		}
 		{
 			id: "1F961B590FBF4532"
@@ -71,8 +71,8 @@
 				item: "minecraft:oak_log"
 				type: "item"
 			}]
-			x: 2.5d
-			y: 3.5d
+			x: 0.0d
+			y: 2.0d
 		}
 		{
 			id: "2CA1DF422552D48B"
@@ -93,8 +93,8 @@
 				item: "minecraft:oak_log"
 				type: "item"
 			}]
-			x: 3.0d
-			y: 4.0d
+			x: 0.0d
+			y: 3.0d
 		}
 		{
 			id: "6045E2A7925B12D6"
@@ -115,8 +115,8 @@
 				item: "minecraft:oak_log"
 				type: "item"
 			}]
-			x: 3.5d
-			y: 4.5d
+			x: 0.0d
+			y: 4.0d
 		}
 		{
 			id: "293263143F2388DC"
@@ -137,8 +137,8 @@
 				item: "minecraft:oak_log"
 				type: "item"
 			}]
-			x: 4.0d
-			y: 5.0d
+			x: 1.0d
+			y: 0.0d
 		}
 		{
 			id: "1DECA2763F595B8C"
@@ -159,8 +159,8 @@
 				item: "minecraft:oak_log"
 				type: "item"
 			}]
-			x: 4.5d
-			y: 5.5d
+			x: 1.0d
+			y: 1.0d
 		}
 		{
 			id: "13A0B3991E1D7B30"
@@ -181,8 +181,8 @@
 				item: "minecraft:oak_log"
 				type: "item"
 			}]
-			x: 5.0d
-			y: 6.0d
+			x: 1.0d
+			y: 2.0d
 		}
 		{
 			id: "20A4454D7B82DAAE"
@@ -203,8 +203,8 @@
 				item: "minecraft:oak_log"
 				type: "item"
 			}]
-			x: 5.5d
-			y: 6.5d
+			x: 1.0d
+			y: 3.0d
 		}
 		{
 			id: "6504E88965D8ED4F"
@@ -225,8 +225,8 @@
 				item: "minecraft:oak_log"
 				type: "item"
 			}]
-			x: 6.0d
-			y: 7.0d
+			x: 1.0d
+			y: 4.0d
 		}
 		{
 			id: "644B450087A604E7"
@@ -247,8 +247,8 @@
 				item: "minecraft:oak_log"
 				type: "item"
 			}]
-			x: 6.5d
-			y: 7.5d
+			x: 2.0d
+			y: 0.0d
 		}
 		{
 			id: "21EE2673C216F66B"
@@ -269,8 +269,8 @@
 				item: "minecraft:oak_log"
 				type: "item"
 			}]
-			x: 7.0d
-			y: 8.0d
+			x: 2.0d
+			y: 1.0d
 		}
 		{
 			id: "2DD8168BA32AEEBE"
@@ -291,8 +291,8 @@
 				item: "minecraft:oak_log"
 				type: "item"
 			}]
-			x: 7.5d
-			y: 8.5d
+			x: 2.0d
+			y: 2.0d
 		}
 		{
 			id: "0B1567BF81B96A20"
@@ -313,8 +313,8 @@
 				item: "minecraft:oak_log"
 				type: "item"
 			}]
-			x: 8.0d
-			y: 9.0d
+			x: 2.0d
+			y: 3.0d
 		}
 		{
 			id: "7BDD6ECB0A37435D"
@@ -335,8 +335,8 @@
 				item: "minecraft:oak_log"
 				type: "item"
 			}]
-			x: 8.5d
-			y: 9.5d
+			x: 2.0d
+			y: 4.0d
 		}
 		{
 			id: "394A6E4A27A64754"
@@ -357,8 +357,8 @@
 				item: "minecraft:oak_log"
 				type: "item"
 			}]
-			x: 9.0d
-			y: 10.0d
+			x: 3.0d
+			y: 0.0d
 		}
 		{
 			id: "57C45C9423BEC2AB"
@@ -379,8 +379,8 @@
 				item: "minecraft:oak_log"
 				type: "item"
 			}]
-			x: 9.5d
-			y: 10.5d
+			x: 3.0d
+			y: 1.0d
 		}
 		{
 			id: "6536E3C16A4477CA"
@@ -401,8 +401,8 @@
 				item: "minecraft:oak_log"
 				type: "item"
 			}]
-			x: 10.0d
-			y: 11.0d
+			x: 3.0d
+			y: 2.0d
 		}
 		{
 			id: "1D14E2615748F241"
@@ -423,8 +423,8 @@
 				item: "minecraft:oak_log"
 				type: "item"
 			}]
-			x: 10.5d
-			y: 11.5d
+			x: 3.0d
+			y: 3.0d
 		}
 		{
 			id: "3CEA5D939800DB04"
@@ -445,8 +445,118 @@
 				item: "minecraft:oak_log"
 				type: "item"
 			}]
-			x: 11.0d
-			y: 12.0d
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			id: "42A6B7DAE4A318FF"
+			rewards: [
+				{
+					id: "461118F55C237279"
+					item: "minecraft:diamond_block"
+					type: "item"
+				}
+				{
+					id: "20FAA0135759E75C"
+					item: "minecraft:sandstone"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6045CDA54606F04C"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			id: "644E5A71CE6B9B86"
+			rewards: [
+				{
+					id: "5873BDEF037C9D1B"
+					item: "minecraft:diamond_block"
+					type: "item"
+				}
+				{
+					id: "582DA9D8B2D2CC0C"
+					item: "minecraft:sandstone"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "00D1DF02BF3B7CA8"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			id: "0E21E1B6579C2654"
+			rewards: [
+				{
+					id: "14FFA26B47AEE3E6"
+					item: "minecraft:diamond_block"
+					type: "item"
+				}
+				{
+					id: "11D02A0C7AD56002"
+					item: "minecraft:sandstone"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "03CE302EF6264650"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			id: "53F562C912D08A93"
+			rewards: [
+				{
+					id: "595302F4C78AD159"
+					item: "minecraft:diamond_block"
+					type: "item"
+				}
+				{
+					id: "14F30D7A3EFC7C0A"
+					item: "minecraft:sandstone"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4A3DF010190ABAEC"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			id: "0BF0719FFEE2625B"
+			rewards: [
+				{
+					id: "7900B2DF322A6E90"
+					item: "minecraft:diamond_block"
+					type: "item"
+				}
+				{
+					id: "5FDAD03CEB8AC76D"
+					item: "minecraft:sandstone"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "41ED758677F7934B"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.0d
 		}
 	]
 	title: "Mileage Reward Program"
