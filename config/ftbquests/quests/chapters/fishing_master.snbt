@@ -687,10 +687,9 @@
 				type: "item"
 			}]
 			tasks: [{
-				icon: "aquaculture:neptunium_ingot"
 				id: "00000000000001C5"
 				title: "Freshwater Completion"
-				type: "checkmark"
+				type: "item"
 			}]
 			x: -4.5d
 			y: 6.5d
@@ -712,10 +711,8 @@
 				type: "item"
 			}]
 			tasks: [{
-				icon: { Count: 42b, id: "aquaculture:neptunium_ingot" }
-				id: "00000000000001C8"
-				title: "Arid Completion"
-				type: "checkmark"
+				id: "2729132904B76972"
+				type: "item"
 			}]
 			x: -3.5d
 			y: 1.5d
@@ -741,10 +738,9 @@
 				type: "item"
 			}]
 			tasks: [{
-				icon: { Count: 42b, id: "aquaculture:neptunium_ingot" }
 				id: "00000000000001CA"
 				title: "Artic Completion"
-				type: "checkmark"
+				type: "item"
 			}]
 			x: -2.5d
 			y: 5.5d
@@ -765,10 +761,9 @@
 				type: "item"
 			}]
 			tasks: [{
-				icon: { Count: 42b, id: "aquaculture:neptunium_ingot" }
 				id: "00000000000001CC"
 				title: "Sea Completion"
-				type: "checkmark"
+				type: "item"
 			}]
 			title: "Saltwater Completion"
 			x: -1.5d
@@ -790,10 +785,9 @@
 				type: "item"
 			}]
 			tasks: [{
-				icon: { Count: 42b, id: "aquaculture:neptunium_ingot" }
 				id: "00000000000001CE"
 				title: "Swamp Completion"
-				type: "checkmark"
+				type: "item"
 			}]
 			x: -0.5d
 			y: 0.5d
@@ -813,10 +807,9 @@
 				type: "item"
 			}]
 			tasks: [{
-				icon: { Count: 42b, id: "aquaculture:neptunium_ingot" }
 				id: "00000000000001D0"
 				title: "Mushroom Completion"
-				type: "checkmark"
+				type: "item"
 			}]
 			x: 0.5d
 			y: -0.5d
@@ -838,10 +831,9 @@
 				type: "item"
 			}]
 			tasks: [{
-				icon: { Count: 42b, id: "aquaculture:neptunium_ingot" }
 				id: "00000000000001D2"
 				title: "Jungle Completion"
-				type: "checkmark"
+				type: "item"
 			}]
 			x: 1.5d
 			y: 1.5d
@@ -1364,7 +1356,7 @@
 			tasks: [{
 				id: "4581537F9CDF64A3"
 				title: "Vanilla Completion"
-				type: "checkmark"
+				type: "item"
 			}]
 			x: -5.5d
 			y: 1.5d

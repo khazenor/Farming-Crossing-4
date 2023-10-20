@@ -1927,7 +1927,7 @@
 			tasks: [{
 				id: "0DBE7E2DD3BA04EA"
 				title: "General Water Completion"
-				type: "checkmark"
+				type: "item"
 			}]
 			x: 1.0d
 			y: -0.5d
@@ -1948,7 +1948,7 @@
 			tasks: [{
 				id: "3DCF0C199D800B77"
 				title: "Deepest Ocean Completion"
-				type: "checkmark"
+				type: "item"
 			}]
 			x: -1.5d
 			y: -0.5d
@@ -1970,7 +1970,7 @@
 			tasks: [{
 				id: "1170071311675F7A"
 				title: "Warm Oceans Completion"
-				type: "checkmark"
+				type: "item"
 			}]
 			x: -3.5d
 			y: -0.5d
@@ -1991,7 +1991,7 @@
 			tasks: [{
 				id: "507280282BAC9B94"
 				title: "Frozen Ocean Completion"
-				type: "checkmark"
+				type: "item"
 			}]
 			x: -5.5d
 			y: -0.5d
@@ -2014,7 +2014,7 @@
 			tasks: [{
 				id: "2B47B4D3CBAAF762"
 				title: "Beaches Completion"
-				type: "checkmark"
+				type: "item"
 			}]
 			x: -8.0d
 			y: -0.5d
@@ -2035,7 +2035,7 @@
 			tasks: [{
 				id: "1BACB2ABA06663FE"
 				title: "River Completion"
-				type: "checkmark"
+				type: "item"
 			}]
 			x: -10.5d
 			y: -0.5d
@@ -2065,7 +2065,7 @@
 			tasks: [{
 				id: "66B3C0DB68116893"
 				title: "Jungle Completion"
-				type: "checkmark"
+				type: "item"
 			}]
 			x: 0.0d
 			y: 2.5d
@@ -2093,7 +2093,7 @@
 			tasks: [{
 				id: "2192354EE5621D3B"
 				title: "Forest Completion"
-				type: "checkmark"
+				type: "item"
 			}]
 			x: -5.5d
 			y: 2.5d
@@ -2118,7 +2118,7 @@
 			tasks: [{
 				id: "14C71EC62F43AAF4"
 				title: "Plains Completion"
-				type: "checkmark"
+				type: "item"
 			}]
 			x: 1.0d
 			y: 5.5d
@@ -2144,7 +2144,7 @@
 			tasks: [{
 				id: "33B8253D60B6CBE5"
 				title: "Savanna Completion"
-				type: "checkmark"
+				type: "item"
 			}]
 			x: -3.0d
 			y: 5.5d
@@ -2167,7 +2167,7 @@
 			tasks: [{
 				id: "5159432FBBC809B7"
 				title: "Desert Completion"
-				type: "checkmark"
+				type: "item"
 			}]
 			x: -9.5d
 			y: 2.5d
@@ -2194,7 +2194,7 @@
 			tasks: [{
 				id: "5AC6F51AA63DB189"
 				title: "Swamp Completion"
-				type: "checkmark"
+				type: "item"
 			}]
 			x: 0.5d
 			y: 8.5d
@@ -2216,7 +2216,7 @@
 			tasks: [{
 				id: "6FE138D0159B3F29"
 				title: "Mushroom Completion"
-				type: "checkmark"
+				type: "item"
 			}]
 			x: -3.0d
 			y: 8.5d
@@ -2241,7 +2241,7 @@
 			tasks: [{
 				id: "12EBABFA6AD917F9"
 				title: "Grass Completion"
-				type: "checkmark"
+				type: "item"
 			}]
 			x: -7.0d
 			y: 5.5d
@@ -2258,7 +2258,7 @@
 			tasks: [{
 				id: "3BE2FBD95A28CAA0"
 				title: "Mountain Completion"
-				type: "checkmark"
+				type: "item"
 			}]
 			x: -9.5d
 			y: 5.5d
@@ -2281,7 +2281,7 @@
 			tasks: [{
 				id: "2B551D3CB3C83F17"
 				title: "Snowy Completion"
-				type: "checkmark"
+				type: "item"
 			}]
 			x: -6.0d
 			y: 8.5d
@@ -2305,7 +2305,7 @@
 			tasks: [{
 				id: "2EEF9246674F22DB"
 				title: "Caves Completion"
-				type: "checkmark"
+				type: "item"
 			}]
 			x: -10.0d
 			y: 8.5d
@@ -2330,7 +2330,7 @@
 			tasks: [{
 				id: "60108BEECB5FCD9A"
 				title: "Special Completion"
-				type: "checkmark"
+				type: "item"
 			}]
 			x: -12.0d
 			y: 5.5d
@@ -2395,7 +2395,7 @@
 			tasks: [{
 				id: "302EB68820CDB8DF"
 				title: "Part 4 Animal Spotting Completion"
-				type: "checkmark"
+				type: "item"
 			}]
 			x: 4.0d
 			y: 8.5d
@@ -2419,7 +2419,7 @@
 			tasks: [{
 				id: "0D6B6F87DDE59844"
 				title: "Part 3 Animal Spotting Completion"
-				type: "checkmark"
+				type: "item"
 			}]
 			x: 4.0d
 			y: 5.5d
@@ -2441,7 +2441,7 @@
 			tasks: [{
 				id: "5683915965A496BE"
 				title: "Part 2 Animal Spotting Completion"
-				type: "checkmark"
+				type: "item"
 			}]
 			x: 4.0d
 			y: 2.5d
@@ -2466,7 +2466,7 @@
 			tasks: [{
 				id: "75C623612BAEA27F"
 				title: "Part 1 Animal Spotting Completion"
-				type: "checkmark"
+				type: "item"
 			}]
 			x: 4.0d
 			y: -0.5d
