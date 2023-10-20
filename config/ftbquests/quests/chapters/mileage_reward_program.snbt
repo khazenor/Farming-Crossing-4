@@ -27,6 +27,7 @@
 				}
 			]
 			tasks: [{
+				consume_items: true
 				id: "029A38F6275CB9D8"
 				item: "kubejs:voucher_decoration_common"
 				count: 10
@@ -54,6 +55,7 @@
 				}
 			]
 			tasks: [{
+				consume_items: true
 				id: "6B47BB5B28F52401"
 				item: "kubejs:voucher_decoration_common"
 				count: 30
@@ -81,6 +83,7 @@
 				}
 			]
 			tasks: [{
+				consume_items: true
 				id: "180B71A6A033E70B"
 				item: "kubejs:voucher_decoration_common"
 				count: 55
@@ -108,6 +111,7 @@
 				}
 			]
 			tasks: [{
+				consume_items: true
 				id: "3BB411529015B013"
 				item: "kubejs:voucher_decoration_common"
 				count: 95
@@ -135,6 +139,7 @@
 				}
 			]
 			tasks: [{
+				consume_items: true
 				id: "7B60E2B64D4DD0E2"
 				item: "kubejs:voucher_decoration_common"
 				count: 144
@@ -162,6 +167,7 @@
 				}
 			]
 			tasks: [{
+				consume_items: true
 				id: "37BAE077CD29D5E0"
 				item: "kubejs:voucher_decoration_rare"
 				count: 1
@@ -189,6 +195,7 @@
 				}
 			]
 			tasks: [{
+				consume_items: true
 				id: "536DEA4E4C10DA46"
 				item: "kubejs:voucher_decoration_rare"
 				count: 3
@@ -216,6 +223,7 @@
 				}
 			]
 			tasks: [{
+				consume_items: true
 				id: "54419B40C04808ED"
 				item: "kubejs:voucher_decoration_rare"
 				count: 5
@@ -243,6 +251,7 @@
 				}
 			]
 			tasks: [{
+				consume_items: true
 				id: "4AA1C14A8E2D67A8"
 				item: "kubejs:voucher_decoration_rare"
 				count: 8
@@ -270,6 +279,7 @@
 				}
 			]
 			tasks: [{
+				consume_items: true
 				id: "36BCBB974BB15803"
 				item: "kubejs:voucher_decoration_rare"
 				count: 13
@@ -297,6 +307,7 @@
 				}
 			]
 			tasks: [{
+				consume_items: true
 				id: "2BFC1CE4B5F89657"
 				item: "kubejs:voucher_hat"
 				count: 5
@@ -324,6 +335,7 @@
 				}
 			]
 			tasks: [{
+				consume_items: true
 				id: "5F54FEE639B54D18"
 				item: "kubejs:voucher_hat"
 				count: 20
@@ -351,6 +363,7 @@
 				}
 			]
 			tasks: [{
+				consume_items: true
 				id: "208378D4C56BD5ED"
 				item: "kubejs:voucher_hat"
 				count: 35
@@ -378,6 +391,7 @@
 				}
 			]
 			tasks: [{
+				consume_items: true
 				id: "676E9DF398521D80"
 				item: "kubejs:voucher_hat"
 				count: 65
@@ -405,6 +419,7 @@
 				}
 			]
 			tasks: [{
+				consume_items: true
 				id: "7A8023D38214555B"
 				item: "kubejs:voucher_hat"
 				count: 114
@@ -432,6 +447,7 @@
 				}
 			]
 			tasks: [{
+				consume_items: true
 				id: "75F7350B7D1319BD"
 				item: "kubejs:voucher_animal"
 				count: 4
@@ -459,6 +475,7 @@
 				}
 			]
 			tasks: [{
+				consume_items: true
 				id: "0027724FB4C56BE9"
 				item: "kubejs:voucher_animal"
 				count: 5
@@ -486,6 +503,7 @@
 				}
 			]
 			tasks: [{
+				consume_items: true
 				id: "3A15A7E2C8AB6D91"
 				item: "kubejs:voucher_animal"
 				count: 7
@@ -513,6 +531,7 @@
 				}
 			]
 			tasks: [{
+				consume_items: true
 				id: "3CBCF8430E9F9186"
 				item: "kubejs:voucher_animal"
 				count: 9
@@ -540,6 +559,7 @@
 				}
 			]
 			tasks: [{
+				consume_items: true
 				id: "0A453A75A434C003"
 				item: "kubejs:voucher_animal"
 				count: 12
@@ -567,6 +587,7 @@
 				}
 			]
 			tasks: [{
+				consume_items: true
 				id: "6045CDA54606F04C"
 				item: "kubejs:voucher_fish"
 				count: 5
@@ -594,6 +615,7 @@
 				}
 			]
 			tasks: [{
+				consume_items: true
 				id: "00D1DF02BF3B7CA8"
 				item: "kubejs:voucher_fish"
 				count: 10
@@ -621,6 +643,7 @@
 				}
 			]
 			tasks: [{
+				consume_items: true
 				id: "03CE302EF6264650"
 				item: "kubejs:voucher_fish"
 				count: 17
@@ -648,6 +671,7 @@
 				}
 			]
 			tasks: [{
+				consume_items: true
 				id: "4A3DF010190ABAEC"
 				item: "kubejs:voucher_fish"
 				count: 24
@@ -675,6 +699,7 @@
 				}
 			]
 			tasks: [{
+				consume_items: true
 				id: "41ED758677F7934B"
 				item: "kubejs:voucher_fish"
 				count: 32
