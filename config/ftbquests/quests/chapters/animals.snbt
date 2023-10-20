@@ -1,0 +1,2389 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "animals"
+	group: "5326E5A8132593FA"
+	icon: "moa_decor_toys:ranatemplada"
+	id: "6409730857F43D9B"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["Alligator Snapping Turtle: Big turtles from swamps that defend themselves with their sharp beak."]
+			hide: true
+			id: "05B0531282B9BB66"
+			rewards: [{
+				id: "5226443DD86FCF4C"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_alligator_snapping_turtle"
+				id: "512D02E53922F711"
+				observe_type: 5
+				timer: 0L
+				title: "Spot an alligator snapping turtle"
+				to_observe: "alexsmobs:alligator_snapping_turtle"
+				type: "observation"
+			}]
+			x: 1.0d
+			y: 10.5d
+		}
+		{
+			description: ["Anaconda: Large freshwater snakes that slither around in Swamps to find prey to strangle and swallow whole."]
+			hide: true
+			id: "73209B110C8E9FC0"
+			rewards: [{
+				id: "1BE6B051B1348DE6"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_anaconda"
+				id: "2F36213B3E685DF4"
+				observe_type: 5
+				timer: 0L
+				title: "Spot an anaconda"
+				to_observe: "alexsmobs:anaconda"
+				type: "observation"
+			}]
+			x: 2.0d
+			y: 10.5d
+		}
+		{
+			description: ["Anteater: Big insectivorous mammals that roam Jungles to feed on Leafcutter Ants with their really long tongues."]
+			hide: true
+			id: "125BCAAB6813FEA3"
+			rewards: [{
+				id: "3940F68ADC0D599D"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_anteater"
+				id: "370BB1A2B2EDD0FD"
+				observe_type: 5
+				timer: 0L
+				title: "Spot an anteater"
+				to_observe: "alexsmobs:anteater"
+				type: "observation"
+			}]
+			x: 1.0d
+			y: 4.5d
+		}
+		{
+			description: ["Bald Eagle: Effective predatory Birds that soar in Windswept Forests and Groves in search of small prey and fish. They can be tamed for Falconry."]
+			hide: true
+			id: "764BDE4A85A0212C"
+			rewards: [{
+				id: "1E950C8AFFC3D039"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_bald_eagle"
+				id: "4C671087C322B251"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a bald eagle"
+				to_observe: "alexsmobs:bald_eagle"
+				type: "observation"
+			}]
+			x: -4.5d
+			y: 4.5d
+		}
+		{
+			description: ["Yellow Slugs native to Old Growth Taigas."]
+			hide: true
+			id: "1C308A4B365AB2AC"
+			rewards: [{
+				id: "1BD354C15DC355AE"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_banana_slug"
+				id: "0C2AD1E2A2A2A7FB"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a banana slug"
+				to_observe: "alexsmobs:banana_slug"
+				type: "observation"
+			}]
+			x: -7.5d
+			y: 4.5d
+		}
+		{
+			description: ["Bison: Large but territorial herbivorous mammals that graze in flat Plains and can be sheared for their fur."]
+			hide: true
+			id: "2ED02BBA44D59614"
+			rewards: [{
+				id: "4020D88A772E5EB6"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_bison"
+				id: "4D3FEA92BE6853C4"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a bison"
+				to_observe: "alexsmobs:bison"
+				type: "observation"
+			}]
+			x: 2.0d
+			y: 6.5d
+		}
+		{
+			description: ["Fish that live deep down in the ocean and become distorted when brought to the surface."]
+			hide: true
+			id: "2580E07174B15B7C"
+			rewards: [{
+				id: "308337A56B4CA2A7"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_blobfish"
+				id: "303B8238E6DF7FCC"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a blobfish"
+				to_observe: "alexsmobs:blobfish"
+				type: "observation"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			description: ["Blue Jay: Birds native to Forests which love shiny things and can even become your partner if fed Glow Berries."]
+			hide: true
+			id: "5A1AA1ED07AA7484"
+			rewards: [{
+				id: "4F1753F7FD18F953"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_blue_jay"
+				id: "408BE0603B097474"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a blue jay"
+				to_observe: "alexsmobs:blue_jay"
+				type: "observation"
+			}]
+			x: -3.5d
+			y: 4.5d
+		}
+		{
+			description: ["Bunfungus: Mutated fungal rabbits that can be seen hopping around in Mushroom Fields on very rare occasions."]
+			hide: true
+			id: "45E88C194728946F"
+			rewards: [{
+				id: "3EB9E96CD196468A"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_bunfungus"
+				id: "1533AD44FB99E897"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a bunfungus"
+				to_observe: "alexsmobs:bunfungus"
+				type: "observation"
+			}]
+			x: -3.0d
+			y: 10.5d
+		}
+		{
+			description: ["Cachalot Whale: Enormous cetaceans found swimming in most Oceans which use their echolocation to hunt Squid."]
+			hide: true
+			id: "668AED9CC2ECC7B7"
+			rewards: [{
+				id: "312F22A2F86E7B50"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_cachalot_whale"
+				id: "177A7C38BAC6ABD9"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a cachalot whale"
+				to_observe: "alexsmobs:cachalot_whale"
+				type: "observation"
+			}]
+			x: 2.0d
+			y: 0.5d
+		}
+		{
+			description: ["Capuchin Monkey: Small tamable monkeys that live in groups in the jungle and can defend themselves by throwing rocks."]
+			hide: true
+			id: "5535151D93FCD623"
+			rewards: [{
+				id: "31AC2EDA8342D269"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_capuchin_monkey"
+				id: "6487FC90F6065094"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a capuchin monkey"
+				to_observe: "alexsmobs:capuchin_monkey"
+				type: "observation"
+			}]
+			x: 1.5d
+			y: 3.5d
+		}
+		{
+			description: ["Catfish: Freshwater fish of various shapes and sizes that swim in Rivers and Swamps."]
+			hide: true
+			id: "7F90C6FB89CD568C"
+			rewards: [{
+				id: "186F748A50B5227E"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_catfish"
+				id: "17A8E720A914C28B"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a catfish"
+				to_observe: "alexsmobs:catfish"
+				type: "observation"
+			}]
+			x: 0.0d
+			y: 10.5d
+		}
+		{
+			description: ["Comb Jelly: Strange colorful Jellyfish-like creatures that slowly drift around in Frozen Oceans during night."]
+			hide: true
+			id: "4D92FA7401F8A0D0"
+			rewards: [{
+				id: "0931E483343C6C4E"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_comb_jelly"
+				id: "04661A5A04B62183"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a comb jelly"
+				to_observe: "alexsmobs:comb_jelly"
+				type: "observation"
+			}]
+			x: -5.5d
+			y: 1.5d
+		}
+		{
+			description: ["Crocodile: Big semi-aquatic reptiles from Rivers and Swamps that hunt prey using a death roll attack."]
+			hide: true
+			id: "4E315EFEC06649DE"
+			rewards: [{
+				id: "627C28D5333DFB97"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_crocodile"
+				id: "0D804410EDDD2C09"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a crocodile"
+				to_observe: "alexsmobs:crocodile"
+				type: "observation"
+			}]
+			x: 0.0d
+			y: 9.5d
+		}
+		{
+			description: ["Found in forests and plains, but intelligent birds that can be seen trampling crops. They can be tamed to be used as an item sorter."]
+			hide: true
+			id: "04DF7D7AB883119F"
+			rewards: [{
+				id: "627D7BD6B6B15BDF"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_crow"
+				id: "1AD84C8AD5C956FD"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a crow"
+				to_observe: "alexsmobs:crow"
+				type: "observation"
+			}]
+			x: 1.0d
+			y: 6.5d
+		}
+		{
+			description: [
+				"Devil's Hole Pupfish: Extremely rare fish that can only be found in one chunk per world."
+				""
+				"Craft a strange fish finder to find it."
+				""
+				"You can find fish bones for sale in the market."
+			]
+			hide: true
+			id: "53286AD551CABD14"
+			rewards: [{
+				count: 10
+				id: "0ABE46C8F4CBC10A"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_devils_hole_pupfish"
+				id: "14C887B354240A9B"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a devils hole pupfish"
+				to_observe: "alexsmobs:devils_hole_pupfish"
+				type: "observation"
+			}]
+			x: -12.0d
+			y: 7.5d
+		}
+		{
+			description: ["Elephant: Gigantic mammals that majestically roam Savannas in search of Acacia Blossoms."]
+			hide: true
+			id: "4E3594E422D3D48B"
+			rewards: [{
+				id: "64BDCF4289153E0D"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_elephant"
+				id: "58EAB77B818189C4"
+				observe_type: 5
+				timer: 0L
+				title: "Spot an elephant"
+				to_observe: "alexsmobs:elephant"
+				type: "observation"
+			}]
+			x: -3.0d
+			y: 7.5d
+		}
+		{
+			description: ["Emu: Big, flightless birds that roam Savannas and Badlands. They are super good at dodging ranged attacks."]
+			hide: true
+			id: "01996FAFC6B37819"
+			rewards: [{
+				id: "3C1C975E6B29228B"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_emu"
+				id: "0B2F0C068F81837B"
+				observe_type: 5
+				timer: 0L
+				title: "Spot an emu"
+				to_observe: "alexsmobs:emu"
+				type: "observation"
+			}]
+			x: -4.5d
+			y: 6.5d
+		}
+		{
+			description: ["Flutter: Small flower like creatures that inhabit Lush Caves and can be tamed by feeding them different types of flowers."]
+			hide: true
+			id: "057B7EFF4B937A8B"
+			rewards: [{
+				id: "32FC1BE9F415C6A6"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_flutter"
+				id: "4C727376873C69DC"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a flutter"
+				to_observe: "alexsmobs:flutter"
+				type: "observation"
+			}]
+			x: -9.0d
+			y: 9.5d
+		}
+		{
+			description: ["Flying Fish: Subtropical fish that can leap out of the water and glide if attacked."]
+			hide: true
+			id: "1A5DDE08129D2B74"
+			rewards: [{
+				id: "52F282202AE84850"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_flying_fish"
+				id: "22830030941150A8"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a flying fish"
+				to_observe: "alexsmobs:flying_fish"
+				type: "observation"
+			}]
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			description: ["Frilled Shark: Small sharks that have mouths filled with incredibly jagged but shiny teeth to hunt prey in the Deepest Oceans."]
+			hide: true
+			id: "3FF2353A1C8EC062"
+			rewards: [{
+				id: "2F8778AD9FE9C697"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_frilled_shark"
+				id: "4FF1ACEA5564DC09"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a frilled shark"
+				to_observe: "alexsmobs:frilled_shark"
+				type: "observation"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			description: ["Gazelle: Small timid antelopes that wander around in Savannas."]
+			hide: true
+			id: "17996CD0F358ED85"
+			rewards: [{
+				id: "14F82BEE5D82CBF4"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_gazelle"
+				id: "2C828329A664D1C2"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a gazelle"
+				to_observe: "alexsmobs:gazelle"
+				type: "observation"
+			}]
+			x: -1.5d
+			y: 6.5d
+		}
+		{
+			description: ["Gelada Monkey: Territorial primates that roam Meadows in groups and feed exclusively on Grass."]
+			hide: true
+			id: "0FEEE61D79ABBEC0"
+			rewards: [{
+				id: "1115999EB14115F2"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_gelada_monkey"
+				id: "1E92D25034F40EDA"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a gelada monkey"
+				to_observe: "alexsmobs:gelada_monkey"
+				type: "observation"
+			}]
+			x: 2.0d
+			y: 7.5d
+		}
+		{
+			description: ["Giant Squid: Enormous squid that lurk in the Deepest Oceans and sometimes battle with Cachalot Whales."]
+			hide: true
+			id: "0A466B2AA078D778"
+			rewards: [{
+				id: "4CFC11D69CD4F72C"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_giant_squid"
+				id: "2010DA754E33E3BD"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a giant squid"
+				to_observe: "alexsmobs:giant_squid"
+				type: "observation"
+			}]
+			x: -1.5d
+			y: 0.5d
+		}
+		{
+			description: ["Gorilla: Big, strong apes that live in groups commanded by silverbacks in Jungles."]
+			hide: true
+			id: "0B3BE91809B12E7D"
+			rewards: [{
+				id: "026B8A0DAC18BD70"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_gorilla"
+				id: "6C7F3C6AA14D46B6"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a gorilla"
+				to_observe: "alexsmobs:gorilla"
+				type: "observation"
+			}]
+			x: 0.5d
+			y: 3.5d
+		}
+		{
+			description: ["Grizzly Bear: Big, defensive, furry mammals that roam Forests with their cubs and love to eat Honey."]
+			hide: true
+			id: "4C1664B11F7EEEB2"
+			rewards: [{
+				id: "7742E1B02F32DC01"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_grizzly_bear"
+				id: "27E3B690796B9B57"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a grizzly bear"
+				to_observe: "alexsmobs:grizzly_bear"
+				type: "observation"
+			}]
+			x: -5.5d
+			y: 4.5d
+		}
+		{
+			description: ["Hammerhead Shark: Strange sharks that swim in Warm Oceans to hunt for Fish, Squid or any damaged Mob/Player."]
+			hide: true
+			id: "281C2F19E5F4253E"
+			rewards: [{
+				id: "7DCCE13077924722"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_hammerhead_shark"
+				id: "1394A4E07E4740C8"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a hammerhead shark"
+				to_observe: "alexsmobs:hammerhead_shark"
+				type: "observation"
+			}]
+			x: -3.5d
+			y: 1.5d
+		}
+		{
+			description: ["Hummingbird: Tiny birds native to Flowery Biomes and Jungles that love to pollinate."]
+			hide: true
+			id: "4F6BFC64FA3A844E"
+			rewards: [{
+				id: "2DB2659B754415E2"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_hummingbird"
+				id: "6AC6DDBE7B2860A3"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a hummingbird"
+				to_observe: "alexsmobs:hummingbird"
+				type: "observation"
+			}]
+			x: 2.5d
+			y: 3.5d
+		}
+		{
+			description: ["Jerboa: Small nocturnal mammals that hop around Deserts at night in search of Seeds."]
+			hide: true
+			id: "6FCDFEF7D7C65984"
+			rewards: [{
+				id: "3DB20FD0A953C8F4"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_jerboa"
+				id: "6D7AA64F24BBCADA"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a jerboa"
+				to_observe: "alexsmobs:jerboa"
+				type: "observation"
+			}]
+			x: -9.0d
+			y: 3.5d
+		}
+		{
+			description: ["Kangaroo: Big marsupials from Savannas and Badlands that have super powerful legs used for movement and defence."]
+			hide: true
+			id: "4121A3C97363CC0E"
+			rewards: [{
+				id: "77014BF7F5BF2DA8"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_kangaroo"
+				id: "6F4F5433E096EF37"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a kangaroo"
+				to_observe: "alexsmobs:kangaroo"
+				type: "observation"
+			}]
+			x: -2.5d
+			y: 6.5d
+		}
+		{
+			description: ["Komodo Dragon: Cannibalistic reptiles that inhabit Sparse Jungles in search of prey."]
+			hide: true
+			id: "72F9A1C4D9A81D24"
+			rewards: [{
+				id: "4ABE656F3C483082"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_komodo_dragon"
+				id: "4F927201495C3A59"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a komodo dragon"
+				to_observe: "alexsmobs:komodo_dragon"
+				type: "observation"
+			}]
+			x: -0.5d
+			y: 3.5d
+		}
+		{
+			description: ["Leafcutter Ant: Hard working ants from the jungle that live in huge colonies to collect leaves and create Gongylidia."]
+			hide: true
+			id: "24FBB0FB0702F09A"
+			rewards: [{
+				id: "654CD6B58E8A0BEA"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_leafcutter_ant"
+				id: "262C912F71CD1D3B"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a leafcutter ant"
+				to_observe: "alexsmobs:leafcutter_ant"
+				type: "observation"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			description: ["Lobster: Common crustaceans that live in coastal waters near Beaches and they pinch attackers as a defence."]
+			hide: true
+			id: "2244C20BF7B5972B"
+			rewards: [{
+				id: "3C340FBE8D86269A"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_lobster"
+				id: "19AB7026C39B21C5"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a lobster"
+				to_observe: "alexsmobs:lobster"
+				type: "observation"
+			}]
+			x: -8.5d
+			y: 0.5d
+		}
+		{
+			description: ["Maned Wolf: Rare canines that inhabit Savannas and love to eat Fruit."]
+			hide: true
+			id: "508094B0F0FCC2F9"
+			rewards: [{
+				id: "05E8CEB00CEE181A"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_maned_wolf"
+				id: "7D0BBB1DACF9B8A5"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a maned wolf"
+				to_observe: "alexsmobs:maned_wolf"
+				type: "observation"
+			}]
+			x: -2.0d
+			y: 7.5d
+		}
+		{
+			description: ["Mantis Shrimp: Big colorful crustaceans from Warm Oceans and Mangrove Swamps that hunt prey using their extremely powerful fists which can break rock."]
+			hide: true
+			id: "604399AD91C02263"
+			rewards: [{
+				id: "7361A7010CDA9942"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_mantis_shrimp"
+				id: "7B27F651C51AB2DA"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a mantis shrimp"
+				to_observe: "alexsmobs:mantis_shrimp"
+				type: "observation"
+			}]
+			x: -3.0d
+			y: 0.5d
+		}
+		{
+			description: ["Mimic Octopus: A clever mollusc that lives in warm oceans. It can camouflage itself and mimic other mobs."]
+			hide: true
+			id: "12AD5909D23D777B"
+			rewards: [{
+				id: "28531FCDE600B5DA"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_mimic_octopus"
+				id: "2AFE0D101EFE08FA"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a mimic octopus"
+				to_observe: "alexsmobs:mimic_octopus"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 0.5d
+		}
+		{
+			description: ["Moose: Massive creatures that are often seen fighting each other in Snowy Biomes."]
+			hide: true
+			id: "2A58E0EEF8C6BBFE"
+			rewards: [{
+				id: "6E6BFBC4F976EDBC"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_moose"
+				id: "7E8B142DA71C1E14"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a moose"
+				to_observe: "alexsmobs:moose"
+				type: "observation"
+			}]
+			x: -5.5d
+			y: 9.5d
+		}
+		{
+			description: ["Mudskipper: Strange amphibious fish that walk around in the Mud of Mangrove Swamps."]
+			hide: true
+			id: "66CD5B0F435E1196"
+			rewards: [{
+				id: "4F89B032BD564A0C"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_mudskipper"
+				id: "0D84974456331899"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a mudskipper"
+				to_observe: "alexsmobs:mudskipper"
+				type: "observation"
+			}]
+			x: -1.0d
+			y: 10.5d
+		}
+		{
+			description: ["Mungus: Odd looking creatures that can be seen with mushrooms growing on them and will also tend to small mushrooms."]
+			hide: true
+			id: "0C2220C0FF56CFD2"
+			rewards: [{
+				id: "648783D6B44AD3C8"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_mungus"
+				id: "17C3FFC3B2510568"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a mungus"
+				to_observe: "alexsmobs:mungus"
+				type: "observation"
+			}]
+			x: -3.5d
+			y: 9.5d
+		}
+		{
+			description: ["Orca: Large, predatory cetaceans that hunt in groups in Cold and Frozen Oceans."]
+			hide: true
+			id: "3586AE3E69F91237"
+			rewards: [{
+				id: "724F79399B2439CA"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_orca"
+				id: "2972F30E1044D784"
+				observe_type: 5
+				timer: 0L
+				title: "Spot an orca"
+				to_observe: "alexsmobs:orca"
+				type: "observation"
+			}]
+			x: -5.5d
+			y: 0.5d
+		}
+		{
+			description: ["Platypus: Strange monotremes from Rivers that have poisonous spurs on their feet to use for defence."]
+			hide: true
+			id: "52F7D8A164A70333"
+			rewards: [{
+				id: "38162BD081E383C6"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_platypus"
+				id: "057C981C670E1391"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a platypus"
+				to_observe: "alexsmobs:platypus"
+				type: "observation"
+			}]
+			x: -10.5d
+			y: 0.5d
+		}
+		{
+			description: ["Potoo: Bizarre, stationary birds that fly around Dark Forests."]
+			hide: true
+			id: "603B2F12CB7D34C4"
+			rewards: [{
+				id: "3ED5F13805FCDCE8"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_potoo"
+				id: "4C841C560525CA84"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a potoo"
+				to_observe: "alexsmobs:potoo"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 3.5d
+		}
+		{
+			description: ["Raccoon: Adorable, but annoying, mammals that frequently live in Forest and Plains biomes."]
+			hide: true
+			id: "1F6589A98EE82573"
+			rewards: [{
+				id: "6FB0AFE89D44A214"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_raccoon"
+				id: "54005D872B460F25"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a raccoon"
+				to_observe: "alexsmobs:raccoon"
+				type: "observation"
+			}]
+			x: 1.0d
+			y: 7.5d
+		}
+		{
+			description: ["Rattlesnake: Small reptiles from Deserts and Badlands that warn potential attackers by rattling their tail. If that doesn't work, they inflict a venomous bite."]
+			hide: true
+			id: "1FCD7A98F5CCBB65"
+			rewards: [{
+				id: "0D75FE1040204593"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_rattlesnake"
+				id: "339DD2B9E5794A52"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a rattlesnake"
+				to_observe: "alexsmobs:rattlesnake"
+				type: "observation"
+			}]
+			x: -10.0d
+			y: 4.5d
+		}
+		{
+			description: ["Rhinoceros: Strong and tough herbivores that can be found grazing in Savannas."]
+			hide: true
+			id: "79B4FA3973F0AAD8"
+			rewards: [{
+				id: "762F0AA9BCFC563E"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_rhinoceros"
+				id: "5094B188DE00FED3"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a rhinoceros"
+				to_observe: "alexsmobs:rhinoceros"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 7.5d
+		}
+		{
+			description: ["Roadrunner: Speedy birds that live in Deserts and Badlands in search of prey."]
+			hide: true
+			id: "3D675F46E2C5907F"
+			rewards: [{
+				id: "7F27F2F3FBDD274D"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_roadrunner"
+				id: "3057DC2B97678460"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a roadrunner"
+				to_observe: "alexsmobs:roadrunner"
+				type: "observation"
+			}]
+			x: -9.0d
+			y: 4.5d
+		}
+		{
+			description: ["Seagull: Annoying birds that inhabit Beaches and often steal food from Players."]
+			hide: true
+			id: "145AF3E4DF07D9E7"
+			rewards: [{
+				id: "1C8D38B3631E3A7D"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_seagull"
+				id: "3EFDCE6B4EF5E97F"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a seagull"
+				to_observe: "alexsmobs:seagull"
+				type: "observation"
+			}]
+			x: -8.5d
+			y: 1.5d
+		}
+		{
+			description: ["Seal: Semi-aquatic mammals that rest on Beaches and Icebergs. They can be bartered with Fish."]
+			hide: true
+			id: "032DFF5ADA2C3F57"
+			rewards: [{
+				id: "0712DE7BF0D16E73"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_seal"
+				id: "6489AEE2E4C51FB8"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a seal"
+				to_observe: "alexsmobs:seal"
+				type: "observation"
+			}]
+			x: -7.5d
+			y: 0.5d
+		}
+		{
+			description: ["Shoebill: Strange birds that inhabit Swamps in search of fish and baby Reptiles."]
+			hide: true
+			id: "1199D8DF298F1203"
+			rewards: [{
+				id: "592DAA1A56E608DF"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_shoebill"
+				id: "7958AC0576ACBE3E"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a shoebill"
+				to_observe: "alexsmobs:shoebill"
+				type: "observation"
+			}]
+			x: -1.0d
+			y: 9.5d
+		}
+		{
+			description: ["Skunk: Forest creatures that release a foul smell if threatened."]
+			hide: true
+			id: "720471F733468821"
+			rewards: [{
+				id: "5440455D9509FEE0"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_skunk"
+				id: "5F738DCBC30E069A"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a skunk"
+				to_observe: "alexsmobs:skunk"
+				type: "observation"
+			}]
+			x: -6.0d
+			y: 3.5d
+		}
+		{
+			description: ["Snow Leopard: A skilled hunter that wanders Snowy Mountains and Peaks in search of a meal."]
+			hide: true
+			id: "54049D2BC37F3B6A"
+			rewards: [{
+				id: "7615C3490DE16DEE"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_snow_leopard"
+				id: "36F0238A02F03B23"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a snow leopard"
+				to_observe: "alexsmobs:snow_leopard"
+				type: "observation"
+			}]
+			x: -5.5d
+			y: 10.5d
+		}
+		{
+			description: ["Sunbird: Holy birds that soar above the Tallest Mountains and can give a player a blessing, if they get close, or a curse if they attacked it."]
+			hide: true
+			id: "3138CE479C03E1F4"
+			rewards: [{
+				count: 5
+				id: "46BD5E3DCE209C24"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_sunbird"
+				id: "5FEAB5381887FFEB"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a sunbird"
+				to_observe: "alexsmobs:sunbird"
+				type: "observation"
+			}]
+			x: -11.0d
+			y: 6.5d
+		}
+		{
+			description: ["Tasmanian Devil: Devilish marsupials that live in Temperate Forests and hunt small prey using super strong teeth."]
+			hide: true
+			id: "60C528BF27E580DD"
+			rewards: [{
+				id: "6881E5842C157A38"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_tasmanian_devil"
+				id: "7DEE26829780C8B7"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a tasmanian devil"
+				to_observe: "alexsmobs:tasmanian_devil"
+				type: "observation"
+			}]
+			x: -5.0d
+			y: 3.5d
+		}
+		{
+			description: ["Terrapin: Small freshwater turtles that can be seen swimming in Rivers."]
+			hide: true
+			id: "3D49FA9AF957FF25"
+			rewards: [{
+				id: "56E93C0F6E34AA56"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_terrapin"
+				id: "1F4EAA335C3BE10B"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a terrapin"
+				to_observe: "alexsmobs:terrapin"
+				type: "observation"
+			}]
+			x: -10.5d
+			y: 1.5d
+		}
+		{
+			description: ["Tiger: Extremely powerful predators from the Bamboo Jungles that hunt by turning almost invisible and striking at the best possible moment."]
+			hide: true
+			id: "4059516E969CDCEA"
+			rewards: [{
+				id: "2D21A478F22EB9BB"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_tiger"
+				id: "0217EA63D6A90C32"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a tiger"
+				to_observe: "alexsmobs:tiger"
+				type: "observation"
+			}]
+			x: -1.0d
+			y: 4.5d
+		}
+		{
+			description: ["Toucan: Birds with massive beaks which eat fruit of the trees in Jungles."]
+			hide: true
+			id: "2BCCC2A2BC46770B"
+			rewards: [{
+				id: "12C38ADAF4C1864B"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_toucan"
+				id: "6F340AC5AFD200B3"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a toucan"
+				to_observe: "alexsmobs:toucan"
+				type: "observation"
+			}]
+			x: 2.0d
+			y: 4.5d
+		}
+		{
+			description: ["Allays can be found surrounding pillager outposts"]
+			hide: true
+			icon: "minecraft:allay_spawn_egg"
+			id: "562048B05A37936C"
+			rewards: [{
+				id: "062CEA9071E31C8F"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:allay_spawn_egg"
+				id: "76DB590F45FE073C"
+				observe_type: 5
+				timer: 0L
+				title: "Spot an allay"
+				to_observe: "minecraft:allay"
+				type: "observation"
+			}]
+			x: -13.0d
+			y: 6.5d
+		}
+		{
+			description: ["An axolotl is a passive aquatic mob endemic to the lush caves biome that hunts most other aquatic mobs. "]
+			hide: true
+			icon: "minecraft:axolotl_spawn_egg"
+			id: "2397D20B696DBB02"
+			rewards: [{
+				id: "1FAC19391D7B87AD"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:axolotl_spawn_egg"
+				id: "528DC18C19DE9BE8"
+				observe_type: 5
+				timer: 0L
+				title: "Spot an axolotl"
+				to_observe: "minecraft:axolotl"
+				type: "observation"
+			}]
+			x: -9.5d
+			y: 10.5d
+		}
+		{
+			description: ["A bat is a flying ambient passive mob that spawns in dark areas underground."]
+			hide: true
+			id: "777F22C1CD2721B8"
+			rewards: [{
+				id: "3F5937BEE57EEE83"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:bat_spawn_egg"
+				id: "1DD60BC6719F4D0D"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a bat"
+				to_observe: "minecraft:bat"
+				type: "observation"
+			}]
+			x: -11.0d
+			y: 9.5d
+		}
+		{
+			description: ["Naturally-generated birch or oak trees have equal chances to generate with a bee nest, depending on the biome"]
+			hide: true
+			id: "6EFB02CAFF70011F"
+			rewards: [{
+				id: "78E8869D7A4BA75F"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:bee_spawn_egg"
+				id: "5F93C177B1551857"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a bee"
+				to_observe: "minecraft:bee"
+				type: "observation"
+			}]
+			x: -11.0d
+			y: 7.5d
+		}
+		{
+			description: ["Cats can spawn every 1200 ticks (1 minute). A random player is selected (including spectators) and a random location is chosen 8-32 blocks away from the player horizontally in both directions and at the same height. A cat can spawn if that block is less than 2 chunks from a village with fewer than 5 cats, or inside a swamp hut. "]
+			hide: true
+			id: "30F27E64B61D345B"
+			rewards: [{
+				id: "1AE27BD0AAD092CB"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:cat_spawn_egg"
+				id: "0119BB3DAD4E1313"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a cat"
+				to_observe: "minecraft:cat"
+				type: "observation"
+			}]
+			x: -13.0d
+			y: 7.5d
+		}
+		{
+			description: ["A chicken is a passive mob found in grass biomes and the main source of chicken, feathers and eggs. "]
+			hide: true
+			id: "769470FC271516B9"
+			rewards: [{
+				id: "478F8532E34BAD6C"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:chicken_spawn_egg"
+				id: "0580D8639E498A48"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a chicken"
+				to_observe: "minecraft:chicken"
+				type: "observation"
+			}]
+			x: -6.0d
+			y: 6.5d
+		}
+		{
+			description: ["A cow is a passive mob found in most grassy biomes and a source of leather, beef and milk. "]
+			hide: true
+			id: "5EF20D2F3215C7E3"
+			rewards: [{
+				id: "7EB9ADC0413AA952"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:cow_spawn_egg"
+				id: "6F33C3BEACB1A1F4"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a cow"
+				to_observe: "minecraft:cow"
+				type: "observation"
+			}]
+			x: -6.0d
+			y: 7.5d
+		}
+		{
+			description: ["Dolphins are neutral mobs that live in non-frozen oceans, which grant a speed boost to players that swim near them. "]
+			hide: true
+			id: "566886594591243B"
+			rewards: [{
+				id: "1CDAF2726FCB2976"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:dolphin_spawn_egg"
+				id: "04C754955E45F97E"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a dolphin"
+				to_observe: "minecraft:dolphin"
+				type: "observation"
+			}]
+			x: 0.5d
+			y: 1.5d
+		}
+		{
+			description: ["A fox is a passive mob that spawns in taigas, old growth taigas, snowy taigas and mountain groves. "]
+			hide: true
+			id: "7ECFFDB36946A838"
+			rewards: [{
+				id: "1B27CE31F34DF2C9"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:fox_spawn_egg"
+				id: "427971A84614721A"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a fox"
+				to_observe: "minecraft:fox"
+				type: "observation"
+			}]
+			x: -6.5d
+			y: 10.5d
+		}
+		{
+			description: [
+				"A frog is a passive mob found in swamps. "
+				""
+				"Frogs eat small slimes and magma cubes. A frog can produce one of three kinds of Froglights from eating magma cubes, depending on the type of frog. "
+			]
+			hide: true
+			id: "416837A4EF7B3745"
+			rewards: [{
+				id: "4471B47CC23B8BEF"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:frog_spawn_egg"
+				id: "3587C34DC3BD37B2"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a frog"
+				to_observe: "minecraft:frog"
+				type: "observation"
+			}]
+			x: 1.0d
+			y: 9.5d
+		}
+		{
+			description: ["The glow squid is an aquatic passive mob found in dark underwater areas, typically in ocean depths, ravines and underground lakes."]
+			hide: true
+			id: "19FD14BFEF79CDF6"
+			rewards: [{
+				id: "33E105C1E65F5AC4"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glow_squid_spawn_egg"
+				id: "5180B07D40B41D4D"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a glow squid"
+				to_observe: "minecraft:glow_squid"
+				type: "observation"
+			}]
+			x: -10.0d
+			y: 9.5d
+		}
+		{
+			description: ["Horses spawn in plains and savannas in herds of 2–6."]
+			hide: true
+			id: "34B25C82132101BC"
+			rewards: [{
+				id: "7AF6E186AA24E78D"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:horse_spawn_egg"
+				id: "5B1478488C17F222"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a horse"
+				to_observe: "minecraft:horse"
+				type: "observation"
+			}]
+			x: 0.0d
+			y: 6.5d
+		}
+		{
+			description: ["A llama spawns at a light level 7 or above on grass blocks in savanna plateau,"]
+			hide: true
+			id: "139D2D32232D1426"
+			rewards: [{
+				id: "5C8B5D98B58C7A48"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:llama_spawn_egg"
+				id: "2F53D8EF2A58C407"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a llama"
+				to_observe: "minecraft:llama"
+				type: "observation"
+			}]
+			x: -3.5d
+			y: 6.5d
+		}
+		{
+			description: ["Ocelots are rare passive mobs found in jungles. "]
+			hide: true
+			id: "49FBCB3B84118D7B"
+			rewards: [{
+				id: "7409E13D8799B598"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:ocelot_spawn_egg"
+				id: "25D577B7CD98660A"
+				observe_type: 5
+				timer: 0L
+				title: "Spot an ocelot"
+				to_observe: "minecraft:ocelot"
+				type: "observation"
+			}]
+			x: -1.5d
+			y: 3.5d
+		}
+		{
+			description: ["Parrots are rare tameable mobs found in jungles"]
+			hide: true
+			id: "5EA7074530B590D3"
+			rewards: [{
+				id: "0BC565570CBACB6E"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:parrot_spawn_egg"
+				id: "426816CE25BA5780"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a parrot"
+				to_observe: "minecraft:parrot"
+				type: "observation"
+			}]
+			x: -2.0d
+			y: 4.5d
+		}
+		{
+			description: ["A pig is a common passive mob found in most grass biomes. Pigs are a source of porkchops and can be equipped with a saddle to be driven. "]
+			hide: true
+			id: "01B36E02D4569273"
+			rewards: [{
+				id: "130DDD51F1ED90CC"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:pig_spawn_egg"
+				id: "25C2CF83F0DBE8DE"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a pig"
+				to_observe: "minecraft:pig"
+				type: "observation"
+			}]
+			x: -7.0d
+			y: 6.5d
+		}
+		{
+			description: ["Polar bears are neutral mobs that live in icy biomes. "]
+			hide: true
+			id: "62794BBB18A1308B"
+			rewards: [{
+				id: "39DB15FB606B906A"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:polar_bear_spawn_egg"
+				id: "5D4E321354CA9C45"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a polar bear"
+				to_observe: "minecraft:polar_bear"
+				type: "observation"
+			}]
+			x: -6.5d
+			y: 9.5d
+		}
+		{
+			description: ["Rabbits spawn above grass, snow blocks or sand."]
+			hide: true
+			id: "02722D071C611EAE"
+			rewards: [{
+				id: "40717C22909698B8"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:rabbit_spawn_egg"
+				id: "1ADC6B354FD23C7E"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a rabbit"
+				to_observe: "minecraft:rabbit"
+				type: "observation"
+			}]
+			x: -7.0d
+			y: 7.5d
+		}
+		{
+			description: ["Sheep are common passive mobs that supply wool and mutton and are found in many of the grassy biomes. "]
+			hide: true
+			id: "266727D9017FD47E"
+			rewards: [{
+				id: "2CB8CA50C980DFD1"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:sheep_spawn_egg"
+				id: "55546F566154C0B5"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a sheep"
+				to_observe: "minecraft:sheep"
+				type: "observation"
+			}]
+			x: -8.0d
+			y: 7.5d
+		}
+		{
+			description: ["A squid is a common passive aquatic mob that spawns in rivers and oceans. "]
+			hide: true
+			id: "0FB3CF416F4D0C5A"
+			rewards: [{
+				id: "1FB1D38F5CC8B426"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:squid_spawn_egg"
+				id: "41836487B8325A70"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a squid"
+				to_observe: "minecraft:squid"
+				type: "observation"
+			}]
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			description: ["A tadpole is the larval form of the frog. They mature into one of the three frog variants, depending on the biome in which they mature. "]
+			hide: true
+			id: "40DAFF983E2966F3"
+			rewards: [{
+				id: "5D8A2C10730711E5"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:tadpole_spawn_egg"
+				id: "15ABFFA98776BC7D"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a tadpole"
+				to_observe: "minecraft:tadpole"
+				type: "observation"
+			}]
+			x: 2.0d
+			y: 9.5d
+		}
+		{
+			description: ["A trader llama is a special variant that follows wandering traders. "]
+			hide: true
+			id: "4D144D666EFF0D47"
+			rewards: [{
+				id: "6675C0E8BB935C51"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:trader_llama_spawn_egg"
+				id: "4AED443401B5499E"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a trader llama"
+				to_observe: "minecraft:trader_llama"
+				type: "observation"
+			}]
+			x: -12.0d
+			y: 6.5d
+		}
+		{
+			description: ["A turtle is a common passive mob found in beach biomes."]
+			hide: true
+			id: "5E7E5E340910884F"
+			rewards: [{
+				id: "4F89F9497A6C9306"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:turtle_spawn_egg"
+				id: "038C04756CB02A37"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a turtle"
+				to_observe: "minecraft:turtle"
+				type: "observation"
+			}]
+			x: -7.5d
+			y: 1.5d
+		}
+		{
+			description: ["Wolves spawn naturally above grass blocks, dirt, coarse dirt, snow blocks or podzol in forests, taigas, groves, old growth taigas, and snowy taigas, along with all variants of these biomes (with the exception of flower forests)"]
+			hide: true
+			id: "2C34377B3662FC73"
+			rewards: [{
+				id: "378D6AEE5D0BC309"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:wolf_spawn_egg"
+				id: "2832CB9502CEA155"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a wolf"
+				to_observe: "minecraft:wolf"
+				type: "observation"
+			}]
+			x: -7.0d
+			y: 3.5d
+		}
+		{
+			description: ["1-3 donkeys spawn in plains and only 1 in savannas. Donkeys also spawn in meadows."]
+			hide: true
+			id: "3A0E38A640553F2C"
+			rewards: [{
+				id: "4F67E0DDE2BC43D3"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:donkey_spawn_egg"
+				id: "3EEC5CEFA99240A8"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a donkey"
+				to_observe: "minecraft:donkey"
+				type: "observation"
+			}]
+			x: 0.0d
+			y: 7.5d
+		}
+		{
+			description: ["A panda is a rare neutral mob that resides in jungles"]
+			hide: true
+			id: "5862996BFE43ECB7"
+			tasks: [{
+				icon: "minecraft:panda_spawn_egg"
+				id: "19145A1350DAC8C1"
+				observe_type: 5
+				timer: 0L
+				to_observe: "minecraft:panda"
+				type: "observation"
+			}]
+			title: "Spot a panda"
+			x: -2.5d
+			y: 3.5d
+		}
+		{
+			description: ["Mooshrooms are mushroom-covered variants of cows exclusive to the rare mushroom fields biome. "]
+			hide: true
+			id: "438C575EB46A1080"
+			rewards: [{
+				id: "6BB6B245114CC095"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:mooshroom_spawn_egg"
+				id: "6CA25135AE60DDBF"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a mooshroom"
+				to_observe: "minecraft:mooshroom"
+				type: "observation"
+			}]
+			x: -2.5d
+			y: 9.5d
+		}
+		{
+			description: ["Rain Frog: Small frogs native to Deserts that can change the weather."]
+			hide: true
+			id: "35C05B2043DDFE56"
+			rewards: [{
+				id: "73A36D8256D02C08"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_rain_frog"
+				id: "05CB5472AC810A42"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a rain frog"
+				to_observe: "alexsmobs:rain_frog"
+				type: "observation"
+			}]
+			x: -10.0d
+			y: 3.5d
+		}
+		{
+			description: ["Sugar Glider: Small marsupials found in birch forests that can glide mid-air."]
+			hide: true
+			id: "5B020AB8D14CDE98"
+			rewards: [{
+				id: "7C90FC18EE2133D7"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_sugar_glider"
+				id: "0344ACB16D1C42A0"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a sugar glider"
+				to_observe: "alexsmobs:sugar_glider"
+				type: "observation"
+			}]
+			x: -6.5d
+			y: 4.5d
+		}
+		{
+			description: ["A goat is a neutral mob found in certain mountainous biomes. Goats can jump especially high and ram mobs. They are a source of goat horns and milk. "]
+			hide: true
+			id: "4846ABCBD585104D"
+			rewards: [{
+				id: "20AB37D153431B71"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:goat_spawn_egg"
+				id: "54C992A54230CE88"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a Goat"
+				to_observe: "minecraft:goat"
+				type: "observation"
+			}]
+			x: -9.5d
+			y: 6.5d
+		}
+		{
+			dependencies: [
+				"0FB3CF416F4D0C5A"
+				"566886594591243B"
+				"1A5DDE08129D2B74"
+				"2580E07174B15B7C"
+				"668AED9CC2ECC7B7"
+			]
+			icon: "kubejs:miles_ticket"
+			id: "0BE3BD12A7A478B4"
+			rewards: [{
+				count: 5
+				id: "324753030FD58E2F"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0DBE7E2DD3BA04EA"
+				title: "General Water Completion"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"3FF2353A1C8EC062"
+				"0A466B2AA078D778"
+			]
+			icon: "kubejs:miles_ticket"
+			id: "2E789173A9E88EC4"
+			rewards: [{
+				count: 2
+				id: "6E4C2BA92C58025D"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3DCF0C199D800B77"
+				title: "Deepest Ocean Completion"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"12AD5909D23D777B"
+				"604399AD91C02263"
+				"281C2F19E5F4253E"
+			]
+			icon: "kubejs:miles_ticket"
+			id: "672B59FE210C34E0"
+			rewards: [{
+				count: 3
+				id: "4DDBEDE18B1E68FE"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1170071311675F7A"
+				title: "Warm Oceans Completion"
+				type: "checkmark"
+			}]
+			x: -3.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"3586AE3E69F91237"
+				"4D92FA7401F8A0D0"
+			]
+			icon: "kubejs:miles_ticket"
+			id: "1EB6E6361E6A3EB3"
+			rewards: [{
+				count: 2
+				id: "6B89A7A22C016837"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "507280282BAC9B94"
+				title: "Frozen Ocean Completion"
+				type: "checkmark"
+			}]
+			x: -5.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"2244C20BF7B5972B"
+				"5E7E5E340910884F"
+				"032DFF5ADA2C3F57"
+				"145AF3E4DF07D9E7"
+			]
+			icon: "kubejs:miles_ticket"
+			id: "2C09B9081B10DCAF"
+			rewards: [{
+				count: 4
+				id: "17DD881C1B5FFB65"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2B47B4D3CBAAF762"
+				title: "Beaches Completion"
+				type: "checkmark"
+			}]
+			x: -8.0d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"3D49FA9AF957FF25"
+				"52F7D8A164A70333"
+			]
+			icon: "kubejs:miles_ticket"
+			id: "7E0B3F70751A49FD"
+			rewards: [{
+				count: 2
+				id: "57935D3D94AFA487"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1BACB2ABA06663FE"
+				title: "River Completion"
+				type: "checkmark"
+			}]
+			x: -10.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"125BCAAB6813FEA3"
+				"72F9A1C4D9A81D24"
+				"4059516E969CDCEA"
+				"2BCCC2A2BC46770B"
+				"5EA7074530B590D3"
+				"5535151D93FCD623"
+				"24FBB0FB0702F09A"
+				"49FBCB3B84118D7B"
+				"4F6BFC64FA3A844E"
+				"5862996BFE43ECB7"
+				"0B3BE91809B12E7D"
+			]
+			icon: "kubejs:miles_ticket"
+			id: "3B60D3D3BCF6D923"
+			rewards: [{
+				count: 16
+				id: "0141854F1DDF328D"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "66B3C0DB68116893"
+				title: "Jungle Completion"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"603B2F12CB7D34C4"
+				"60C528BF27E580DD"
+				"720471F733468821"
+				"5A1AA1ED07AA7484"
+				"4C1664B11F7EEEB2"
+				"764BDE4A85A0212C"
+				"1C308A4B365AB2AC"
+				"5B020AB8D14CDE98"
+				"2C34377B3662FC73"
+			]
+			icon: "kubejs:miles_ticket"
+			id: "47939A18C7A40741"
+			rewards: [{
+				count: 13
+				id: "0906F63480081F47"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2192354EE5621D3B"
+				title: "Forest Completion"
+				type: "checkmark"
+			}]
+			x: -5.5d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"3A0E38A640553F2C"
+				"1F6589A98EE82573"
+				"0FEEE61D79ABBEC0"
+				"04DF7D7AB883119F"
+				"2ED02BBA44D59614"
+				"34B25C82132101BC"
+			]
+			icon: "kubejs:miles_ticket"
+			id: "1B4004A2743574E5"
+			rewards: [{
+				count: 6
+				id: "7BC5E6FB596D768B"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "14C71EC62F43AAF4"
+				title: "Plains Completion"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 5.5d
+		}
+		{
+			dependencies: [
+				"139D2D32232D1426"
+				"17996CD0F358ED85"
+				"79B4FA3973F0AAD8"
+				"4121A3C97363CC0E"
+				"508094B0F0FCC2F9"
+				"4E3594E422D3D48B"
+				"01996FAFC6B37819"
+			]
+			icon: "kubejs:miles_ticket"
+			id: "603551E830248F96"
+			rewards: [{
+				count: 10
+				id: "6F02D9DE3681B6EE"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "33B8253D60B6CBE5"
+				title: "Savanna Completion"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: 5.5d
+		}
+		{
+			dependencies: [
+				"6FCDFEF7D7C65984"
+				"35C05B2043DDFE56"
+				"3D675F46E2C5907F"
+				"1FCD7A98F5CCBB65"
+			]
+			icon: "kubejs:miles_ticket"
+			id: "665D530988C31652"
+			rewards: [{
+				count: 4
+				id: "15C97F66A9865837"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5159432FBBC809B7"
+				title: "Desert Completion"
+				type: "checkmark"
+			}]
+			x: -9.5d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"416837A4EF7B3745"
+				"4E315EFEC06649DE"
+				"40DAFF983E2966F3"
+				"1199D8DF298F1203"
+				"7F90C6FB89CD568C"
+				"66CD5B0F435E1196"
+				"05B0531282B9BB66"
+				"73209B110C8E9FC0"
+			]
+			icon: "kubejs:miles_ticket"
+			id: "565907B63A5E8A04"
+			rewards: [{
+				count: 12
+				id: "2164C9FB359B8D91"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5AC6F51AA63DB189"
+				title: "Swamp Completion"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: 8.5d
+		}
+		{
+			dependencies: [
+				"0C2220C0FF56CFD2"
+				"45E88C194728946F"
+				"438C575EB46A1080"
+			]
+			icon: "kubejs:miles_ticket"
+			id: "64A411CF8F007610"
+			rewards: [{
+				count: 3
+				id: "5F19400972B09F37"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6FE138D0159B3F29"
+				title: "Mushroom Completion"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: 8.5d
+		}
+		{
+			dependencies: [
+				"769470FC271516B9"
+				"01B36E02D4569273"
+				"02722D071C611EAE"
+				"5EF20D2F3215C7E3"
+				"266727D9017FD47E"
+				"0FD54BFF05600C64"
+			]
+			icon: "kubejs:miles_ticket"
+			id: "28DD0C62F42775DC"
+			rewards: [{
+				count: 5
+				id: "13D76F42DB09564C"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "12EBABFA6AD917F9"
+				title: "Grass Completion"
+				type: "checkmark"
+			}]
+			x: -7.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["4846ABCBD585104D"]
+			icon: "kubejs:miles_ticket"
+			id: "2240F452BFC09731"
+			rewards: [{
+				id: "038CFAC1841213B2"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3BE2FBD95A28CAA0"
+				title: "Mountain Completion"
+				type: "checkmark"
+			}]
+			x: -9.5d
+			y: 5.5d
+		}
+		{
+			dependencies: [
+				"7ECFFDB36946A838"
+				"62794BBB18A1308B"
+				"54049D2BC37F3B6A"
+				"2A58E0EEF8C6BBFE"
+			]
+			icon: "kubejs:miles_ticket"
+			id: "6C9E626F178FCD48"
+			rewards: [{
+				count: 4
+				id: "6D0E3A89FCFF992F"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2B551D3CB3C83F17"
+				title: "Snowy Completion"
+				type: "checkmark"
+			}]
+			x: -6.0d
+			y: 8.5d
+		}
+		{
+			dependencies: [
+				"777F22C1CD2721B8"
+				"2397D20B696DBB02"
+				"057B7EFF4B937A8B"
+				"19FD14BFEF79CDF6"
+				"1C98DA42FEF17D24"
+			]
+			icon: "kubejs:miles_ticket"
+			id: "6D5B0610586728B3"
+			rewards: [{
+				count: 7
+				id: "39AE1EEEA8858C62"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2EEF9246674F22DB"
+				title: "Caves Completion"
+				type: "checkmark"
+			}]
+			x: -10.0d
+			y: 8.5d
+		}
+		{
+			dependencies: [
+				"30F27E64B61D345B"
+				"53286AD551CABD14"
+				"3138CE479C03E1F4"
+				"4D144D666EFF0D47"
+				"562048B05A37936C"
+				"6EFB02CAFF70011F"
+			]
+			icon: "kubejs:miles_ticket"
+			id: "3AA8317DDF4FF43E"
+			rewards: [{
+				count: 20
+				id: "0078E7F96490D1DC"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "60108BEECB5FCD9A"
+				title: "Special Completion"
+				type: "checkmark"
+			}]
+			x: -12.0d
+			y: 5.5d
+		}
+		{
+			hide: true
+			id: "0FD54BFF05600C64"
+			rewards: [{
+				id: "18F36892D8FACDE5"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_fly"
+				id: "5BF3A18DC4C9ED6F"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a fly"
+				to_observe: "alexsmobs:fly"
+				type: "observation"
+			}]
+			x: -8.0d
+			y: 6.5d
+		}
+		{
+			hide: true
+			id: "1C98DA42FEF17D24"
+			rewards: [{
+				id: "3924DC92968C5EAF"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_cockroach"
+				id: "6EEF2FFA133C32D3"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a cockroach"
+				to_observe: "alexsmobs:cockroach"
+				type: "observation"
+			}]
+			x: -10.5d
+			y: 10.5d
+		}
+		{
+			dependencies: [
+				"565907B63A5E8A04"
+				"6C9E626F178FCD48"
+				"64A411CF8F007610"
+				"6D5B0610586728B3"
+			]
+			icon: "kubejs:miles_ticket"
+			id: "2A44D20099036F9C"
+			rewards: [{
+				count: 50
+				id: "4B53627A493B61E4"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "302EB68820CDB8DF"
+				title: "Part 4 Animal Spotting Completion"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 8.5d
+		}
+		{
+			dependencies: [
+				"1B4004A2743574E5"
+				"2240F452BFC09731"
+				"3AA8317DDF4FF43E"
+				"28DD0C62F42775DC"
+				"603551E830248F96"
+			]
+			icon: "kubejs:miles_ticket"
+			id: "0B40D27CDEA8567F"
+			rewards: [{
+				count: 64
+				id: "6BD52FEBC0B69992"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0D6B6F87DDE59844"
+				title: "Part 3 Animal Spotting Completion"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 5.5d
+		}
+		{
+			dependencies: [
+				"665D530988C31652"
+				"3B60D3D3BCF6D923"
+				"47939A18C7A40741"
+			]
+			icon: "kubejs:miles_ticket"
+			id: "3B9227C52CDDC730"
+			rewards: [{
+				count: 55
+				id: "06C6D00683C3981E"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5683915965A496BE"
+				title: "Part 2 Animal Spotting Completion"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"0BE3BD12A7A478B4"
+				"2E789173A9E88EC4"
+				"1EB6E6361E6A3EB3"
+				"672B59FE210C34E0"
+				"7E0B3F70751A49FD"
+				"2C09B9081B10DCAF"
+			]
+			icon: "kubejs:miles_ticket"
+			id: "20AB77C4E7D5E24F"
+			rewards: [{
+				count: 50
+				id: "6DD0C3CA65C28526"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "75C623612BAEA27F"
+				title: "Part 1 Animal Spotting Completion"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: -0.5d
+		}
+	]
+	title: "Animal Watching"
+}
