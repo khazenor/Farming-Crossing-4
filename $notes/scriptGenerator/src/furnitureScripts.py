@@ -36,13 +36,18 @@ def exportTrades():
 	for output in wandererTrade2NoRemove.items:
 		tradeStrs += kubejs.tradeStr(output, const.priceItem, paymentNum, level=2)
 
-	tradeableItems = wandererTrade1.items + wandererTrade2.items + wandererTrade1NoRemove.items\
-		+ wandererTrade1RemoveNoDuplicate.items + wandererTrade2NoRemove.items
+	tradeableItemsCommon = wandererTrade1.items + wandererTrade1NoRemove.items\
+		+ wandererTrade1RemoveNoDuplicate.items
+
+	tradeableItemsRare = wandererTrade2.items + wandererTrade2NoRemove.items
 
 	with open(os.path.join(const.clientScripts(), 'furniture_duplication_tooltips.js'), 'w') as f:
 		f.write(kubejs.tooltipFileContent(
-			kubejs.eventAdd(tradeableItems, [
-				"Available at the wandering trader shop"
+			kubejs.eventAdd(tradeableItemsCommon, [
+				"Available at the wandering trader shop (common section)"
+			]) +
+			kubejs.eventAdd(tradeableItemsRare, [
+				"Available at the wandering trader shop (rare section)"
 			]) +
 			kubejs.eventAdd(wandererTrade1.items, [
 				"",
