@@ -1,6 +1,7 @@
 import math
 import os
-if __name__ == "__main__":
+
+def hundredsOfItems():
 	numQuests = 239
 	outputFileDir = os.path.join("output", "ftbQuestCoords.txt")
 	numHundredsInRow = math.ceil(math.sqrt(numQuests/100))
@@ -19,3 +20,19 @@ if __name__ == "__main__":
 
 			f.write(f'x: {finalX}.0d\n')
 			f.write(f'y: {finalY}.0d\n')
+
+def verticalColumns():
+	numQuests = 25
+	columnHeight = 5
+	outputFileDir = os.path.join("output", "ftbQuestCoords.txt")
+
+	with open(outputFileDir, "w") as f:
+		for i in range(numQuests):
+			indX = math.floor(i / columnHeight)
+			indY = i % columnHeight
+
+			f.write(f'x: {indX}.0d\n')
+			f.write(f'y: {indY}.0d\n')
+
+if __name__ == "__main__":
+	verticalColumns()

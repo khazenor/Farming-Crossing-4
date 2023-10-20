@@ -10,7 +10,7 @@ f12::
   ExitApp
 
 createManyQuests(){
-  Loop, 20
+  Loop, 5
   {
     itemQuestWithTwoRewards()
   }

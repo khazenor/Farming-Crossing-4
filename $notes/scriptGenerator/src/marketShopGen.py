@@ -53,7 +53,7 @@ def generateMarketShops():
 		flowerPrice,
 		'flowers',
 		"Flower Shop",
-		"byg:rose",
+		"minecraft:poppy",
 		os.path.join(const.farmingForBlockheads(), 'flowers.json')
 	)
 
