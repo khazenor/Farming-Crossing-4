@@ -10,10 +10,12 @@
 	quests: [
 		{
 			id: "79C7500CAA3A99A3"
+			hide: true
+			icon: "kubejs:cert_decocom_wood"
 			rewards: [
 				{
 					id: "283FC0808A52B1D2"
-					item: "minecraft:diamond_block"
+					item: "kubejs:cert_decocom_wood"
 					type: "item"
 				}
 				{
@@ -32,10 +34,12 @@
 		}
 		{
 			id: "6762FFD6458747DE"
+			hide: true
+			icon: "kubejs:cert_decocom_stone"
 			rewards: [
 				{
 					id: "6700A2B75D3A78EF"
-					item: "minecraft:diamond_block"
+					item: "kubejs:cert_decocom_stone"
 					type: "item"
 				}
 				{
@@ -54,10 +58,12 @@
 		}
 		{
 			id: "1F961B590FBF4532"
+			hide: true
+			icon: "kubejs:cert_decocom_iron"
 			rewards: [
 				{
 					id: "6943CB15106C6827"
-					item: "minecraft:diamond_block"
+					item: "kubejs:cert_decocom_iron"
 					type: "item"
 				}
 				{
@@ -76,10 +82,12 @@
 		}
 		{
 			id: "2CA1DF422552D48B"
+			hide: true
+			icon: "kubejs:cert_decocom_gold"
 			rewards: [
 				{
 					id: "28352BAD39C55D29"
-					item: "minecraft:diamond_block"
+					item: "kubejs:cert_decocom_gold"
 					type: "item"
 				}
 				{
@@ -98,10 +106,12 @@
 		}
 		{
 			id: "6045E2A7925B12D6"
+			hide: true
+			icon: "kubejs:cert_decocom_diamond"
 			rewards: [
 				{
 					id: "200674B267478BAD"
-					item: "minecraft:diamond_block"
+					item: "kubejs:cert_decocom_diamond"
 					type: "item"
 				}
 				{
@@ -120,10 +130,12 @@
 		}
 		{
 			id: "293263143F2388DC"
+			hide: true
+			icon: "kubejs:cert_decorare_wood"
 			rewards: [
 				{
 					id: "161A11774C5E5D3E"
-					item: "minecraft:diamond_block"
+					item: "kubejs:cert_decorare_wood"
 					type: "item"
 				}
 				{
@@ -142,10 +154,12 @@
 		}
 		{
 			id: "1DECA2763F595B8C"
+			hide: true
+			icon: "kubejs:cert_decorare_stone"
 			rewards: [
 				{
 					id: "5BD8C15565A88A61"
-					item: "minecraft:diamond_block"
+					item: "kubejs:cert_decorare_stone"
 					type: "item"
 				}
 				{
@@ -164,10 +178,12 @@
 		}
 		{
 			id: "13A0B3991E1D7B30"
+			hide: true
+			icon: "kubejs:cert_decorare_iron"
 			rewards: [
 				{
 					id: "07469EFBC5080C3B"
-					item: "minecraft:diamond_block"
+					item: "kubejs:cert_decorare_iron"
 					type: "item"
 				}
 				{
@@ -186,10 +202,12 @@
 		}
 		{
 			id: "20A4454D7B82DAAE"
+			hide: true
+			icon: "kubejs:cert_decorare_gold"
 			rewards: [
 				{
 					id: "6D7345EC51FA0438"
-					item: "minecraft:diamond_block"
+					item: "kubejs:cert_decorare_gold"
 					type: "item"
 				}
 				{
@@ -208,10 +226,12 @@
 		}
 		{
 			id: "6504E88965D8ED4F"
+			hide: true
+			icon: "kubejs:cert_decorare_diamond"
 			rewards: [
 				{
 					id: "0D5C3D8D6D36700F"
-					item: "minecraft:diamond_block"
+					item: "kubejs:cert_decorare_diamond"
 					type: "item"
 				}
 				{
@@ -230,10 +250,12 @@
 		}
 		{
 			id: "644B450087A604E7"
+			hide: true
+			icon: "kubejs:cert_hat_wood"
 			rewards: [
 				{
 					id: "6151B4145E0B1D8B"
-					item: "minecraft:diamond_block"
+					item: "kubejs:cert_hat_wood"
 					type: "item"
 				}
 				{
@@ -252,10 +274,12 @@
 		}
 		{
 			id: "21EE2673C216F66B"
+			hide: true
+			icon: "kubejs:cert_hat_stone"
 			rewards: [
 				{
 					id: "460FDC5BDF1F2C4C"
-					item: "minecraft:diamond_block"
+					item: "kubejs:cert_hat_stone"
 					type: "item"
 				}
 				{
@@ -274,10 +298,12 @@
 		}
 		{
 			id: "2DD8168BA32AEEBE"
+			hide: true
+			icon: "kubejs:cert_hat_iron"
 			rewards: [
 				{
 					id: "192AA19E7CEC0BBA"
-					item: "minecraft:diamond_block"
+					item: "kubejs:cert_hat_iron"
 					type: "item"
 				}
 				{
@@ -296,10 +322,12 @@
 		}
 		{
 			id: "0B1567BF81B96A20"
+			hide: true
+			icon: "kubejs:cert_hat_gold"
 			rewards: [
 				{
 					id: "2158A8359313C3C1"
-					item: "minecraft:diamond_block"
+					item: "kubejs:cert_hat_gold"
 					type: "item"
 				}
 				{
@@ -318,10 +346,12 @@
 		}
 		{
 			id: "7BDD6ECB0A37435D"
+			hide: true
+			icon: "kubejs:cert_hat_diamond"
 			rewards: [
 				{
 					id: "50E4EC5890B3C054"
-					item: "minecraft:diamond_block"
+					item: "kubejs:cert_hat_diamond"
 					type: "item"
 				}
 				{
@@ -340,10 +370,12 @@
 		}
 		{
 			id: "394A6E4A27A64754"
+			hide: true
+			icon: "kubejs:cert_fish_wood"
 			rewards: [
 				{
 					id: "1D8C667806210874"
-					item: "minecraft:diamond_block"
+					item: "kubejs:cert_fish_wood"
 					type: "item"
 				}
 				{
@@ -362,10 +394,12 @@
 		}
 		{
 			id: "57C45C9423BEC2AB"
+			hide: true
+			icon: "kubejs:cert_fish_stone"
 			rewards: [
 				{
 					id: "402C18484BD4711D"
-					item: "minecraft:diamond_block"
+					item: "kubejs:cert_fish_stone"
 					type: "item"
 				}
 				{
@@ -384,10 +418,12 @@
 		}
 		{
 			id: "6536E3C16A4477CA"
+			hide: true
+			icon: "kubejs:cert_fish_iron"
 			rewards: [
 				{
 					id: "280856B83E2FC947"
-					item: "minecraft:diamond_block"
+					item: "kubejs:cert_fish_iron"
 					type: "item"
 				}
 				{
@@ -406,10 +442,12 @@
 		}
 		{
 			id: "1D14E2615748F241"
+			hide: true
+			icon: "kubejs:cert_fish_gold"
 			rewards: [
 				{
 					id: "24A0337F3A81ED9F"
-					item: "minecraft:diamond_block"
+					item: "kubejs:cert_fish_gold"
 					type: "item"
 				}
 				{
@@ -428,10 +466,12 @@
 		}
 		{
 			id: "3CEA5D939800DB04"
+			hide: true
+			icon: "kubejs:cert_fish_diamond"
 			rewards: [
 				{
 					id: "178044A55E1A85E6"
-					item: "minecraft:diamond_block"
+					item: "kubejs:cert_fish_diamond"
 					type: "item"
 				}
 				{
@@ -450,10 +490,12 @@
 		}
 		{
 			id: "42A6B7DAE4A318FF"
+			hide: true
+			icon: "kubejs:cert_ani_wood"
 			rewards: [
 				{
 					id: "461118F55C237279"
-					item: "minecraft:diamond_block"
+					item: "kubejs:cert_ani_wood"
 					type: "item"
 				}
 				{
@@ -472,10 +514,12 @@
 		}
 		{
 			id: "644E5A71CE6B9B86"
+			hide: true
+			icon: "kubejs:cert_ani_stone"
 			rewards: [
 				{
 					id: "5873BDEF037C9D1B"
-					item: "minecraft:diamond_block"
+					item: "kubejs:cert_ani_stone"
 					type: "item"
 				}
 				{
@@ -494,10 +538,12 @@
 		}
 		{
 			id: "0E21E1B6579C2654"
+			hide: true
+			icon: "kubejs:cert_ani_iron"
 			rewards: [
 				{
 					id: "14FFA26B47AEE3E6"
-					item: "minecraft:diamond_block"
+					item: "kubejs:cert_ani_iron"
 					type: "item"
 				}
 				{
@@ -516,10 +562,12 @@
 		}
 		{
 			id: "53F562C912D08A93"
+			hide: true
+			icon: "kubejs:cert_ani_gold"
 			rewards: [
 				{
 					id: "595302F4C78AD159"
-					item: "minecraft:diamond_block"
+					item: "kubejs:cert_ani_gold"
 					type: "item"
 				}
 				{
@@ -538,10 +586,12 @@
 		}
 		{
 			id: "0BF0719FFEE2625B"
+			hide: true
+			icon: "kubejs:cert_ani_diamond"
 			rewards: [
 				{
 					id: "7900B2DF322A6E90"
-					item: "minecraft:diamond_block"
+					item: "kubejs:cert_ani_diamond"
 					type: "item"
 				}
 				{
