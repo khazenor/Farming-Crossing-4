@@ -1,0 +1,237 @@
+ServerEvents.recipes(event => {
+  event.shapeless(
+    Item.of('minecraft:cobblestone', 32),
+    ['minecraft:cobblestone', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:cobbled_deepslate', 32),
+    ['minecraft:cobbled_deepslate', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:diorite', 32),
+    ['minecraft:diorite', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:granite', 32),
+    ['minecraft:granite', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:andesite', 32),
+    ['minecraft:andesite', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:gravel', 32),
+    ['minecraft:gravel', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:sand', 32),
+    ['minecraft:sand', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:sandstone', 32),
+    ['minecraft:sandstone', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:red_sand', 32),
+    ['minecraft:red_sand', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:red_sandstone', 32),
+    ['minecraft:red_sandstone', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:magma_block', 32),
+    ['minecraft:magma_block', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:soul_sand', 32),
+    ['minecraft:soul_sand', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:soul_soil', 32),
+    ['minecraft:soul_soil', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:netherrack', 32),
+    ['minecraft:netherrack', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:moss_block', 32),
+    ['minecraft:moss_block', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:ice', 32),
+    ['minecraft:ice', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:clay', 32),
+    ['minecraft:clay', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:calcite', 32),
+    ['minecraft:calcite', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:dripstone_block', 32),
+    ['minecraft:dripstone_block', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:blackstone', 32),
+    ['minecraft:blackstone', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('create:crimsite', 32),
+    ['create:crimsite', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('create:asurine', 32),
+    ['create:asurine', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('create:veridium', 32),
+    ['create:veridium', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:smooth_basalt', 32),
+    ['minecraft:smooth_basalt', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('create:ochrum', 32),
+    ['create:ochrum', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('create:scoria', 32),
+    ['create:scoria', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('create:limestone', 32),
+    ['create:limestone', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('create:scorchia', 32),
+    ['create:scorchia', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:black_terracotta', 32),
+    ['minecraft:black_terracotta', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:blue_terracotta', 32),
+    ['minecraft:blue_terracotta', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:brown_terracotta', 32),
+    ['minecraft:brown_terracotta', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:cyan_terracotta', 32),
+    ['minecraft:cyan_terracotta', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:gray_terracotta', 32),
+    ['minecraft:gray_terracotta', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:green_terracotta', 32),
+    ['minecraft:green_terracotta', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:light_blue_terracotta', 32),
+    ['minecraft:light_blue_terracotta', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:light_gray_terracotta', 32),
+    ['minecraft:light_gray_terracotta', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:lime_terracotta', 32),
+    ['minecraft:lime_terracotta', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:magenta_terracotta', 32),
+    ['minecraft:magenta_terracotta', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:orange_terracotta', 32),
+    ['minecraft:orange_terracotta', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:pink_terracotta', 32),
+    ['minecraft:pink_terracotta', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:purple_terracotta', 32),
+    ['minecraft:purple_terracotta', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:red_terracotta', 32),
+    ['minecraft:red_terracotta', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:terracotta', 32),
+    ['minecraft:terracotta', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:white_terracotta', 32),
+    ['minecraft:white_terracotta', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:yellow_terracotta', 32),
+    ['minecraft:yellow_terracotta', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:black_concrete', 32),
+    ['minecraft:black_concrete', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:black_concrete_powder', 32),
+    ['minecraft:black_concrete_powder', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:blue_concrete', 32),
+    ['minecraft:blue_concrete', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:blue_concrete_powder', 32),
+    ['minecraft:blue_concrete_powder', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:brown_concrete', 32),
+    ['minecraft:brown_concrete', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:brown_concrete_powder', 32),
+    ['minecraft:brown_concrete_powder', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:cyan_concrete', 32),
+    ['minecraft:cyan_concrete', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:cyan_concrete_powder', 32),
+    ['minecraft:cyan_concrete_powder', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:gray_concrete', 32),
+    ['minecraft:gray_concrete', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:gray_concrete_powder', 32),
+    ['minecraft:gray_concrete_powder', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:green_concrete', 32),
+    ['minecraft:green_concrete', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:green_concrete_powder', 32),
+    ['minecraft:green_concrete_powder', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:light_blue_concrete', 32),
+    ['minecraft:light_blue_concrete', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:light_blue_concrete_powder', 32),
+    ['minecraft:light_blue_concrete_powder', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:light_gray_concrete', 32),
+    ['minecraft:light_gray_concrete', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:light_gray_concrete_powder', 32),
+    ['minecraft:light_gray_concrete_powder', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:lime_concrete', 32),
+    ['minecraft:lime_concrete', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:lime_concrete_powder', 32),
+    ['minecraft:lime_concrete_powder', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:magenta_concrete', 32),
+    ['minecraft:magenta_concrete', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:magenta_concrete_powder', 32),
+    ['minecraft:magenta_concrete_powder', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:orange_concrete', 32),
+    ['minecraft:orange_concrete', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:orange_concrete_powder', 32),
+    ['minecraft:orange_concrete_powder', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:pink_concrete', 32),
+    ['minecraft:pink_concrete', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:pink_concrete_powder', 32),
+    ['minecraft:pink_concrete_powder', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:purple_concrete', 32),
+    ['minecraft:purple_concrete', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:purple_concrete_powder', 32),
+    ['minecraft:purple_concrete_powder', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:red_concrete', 32),
+    ['minecraft:red_concrete', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:red_concrete_powder', 32),
+    ['minecraft:red_concrete_powder', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:white_concrete', 32),
+    ['minecraft:white_concrete', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:white_concrete_powder', 32),
+    ['minecraft:white_concrete_powder', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:yellow_concrete', 32),
+    ['minecraft:yellow_concrete', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:yellow_concrete_powder', 32),
+    ['minecraft:yellow_concrete_powder', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:snow_block', 32),
+    ['minecraft:snow_block', 'kubejs:miles_ticket'])
+
+})

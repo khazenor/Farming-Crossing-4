@@ -1,0 +1,155 @@
+{
+  "customCategories": {
+    "meats": {
+      "name": "Ethically Sourced Meats",
+      "icon": {
+        "item": "minecraft:rabbit"
+      }
+    }
+  },
+  "customEntries": [
+    {
+      "output": {
+        "item": "minecraft:beef",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "meats"
+    },
+    {
+      "output": {
+        "item": "minecraft:chicken",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "meats"
+    },
+    {
+      "output": {
+        "item": "minecraft:cod",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "meats"
+    },
+    {
+      "output": {
+        "item": "minecraft:mutton",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "meats"
+    },
+    {
+      "output": {
+        "item": "minecraft:porkchop",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "meats"
+    },
+    {
+      "output": {
+        "item": "minecraft:rabbit",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "meats"
+    },
+    {
+      "output": {
+        "item": "minecraft:salmon",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "meats"
+    },
+    {
+      "output": {
+        "item": "alexsmobs:kangaroo_meat",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "meats"
+    },
+    {
+      "output": {
+        "item": "alexsmobs:moose_ribs",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "meats"
+    },
+    {
+      "output": {
+        "item": "alexsmobs:raw_catfish",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "meats"
+    },
+    {
+      "output": {
+        "item": "alexsmobs:lobster_tail",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "meats"
+    },
+    {
+      "output": {
+        "item": "alexsmobs:maggot",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "meats"
+    },
+    {
+      "output": {
+        "item": "alexsmobs:centipede_leg",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "meats"
+    }
+  ]
+}

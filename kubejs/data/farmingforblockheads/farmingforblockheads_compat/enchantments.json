@@ -1,0 +1,2956 @@
+{
+  "customCategories": {
+    "enchantments": {
+      "name": "Enchantment Book Store",
+      "icon": {
+        "item": "minecraft:enchanted_book"
+      }
+    }
+  },
+  "customEntries": [
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "alexsmobs:board_return",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Board Return\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "alexsmobs:lavawax",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Lavawax\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "alexsmobs:serpentfriend",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Serpentfriend\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "alexsmobs:straddle_jump",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Straddle Jump 1\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "alexsmobs:straddle_jump",
+              "lvl": 2
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Straddle Jump 2\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 16
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "alexsmobs:straddle_jump",
+              "lvl": 3
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Straddle Jump 3\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "create:capacity",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Capacity 1\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "create:capacity",
+              "lvl": 2
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Capacity 2\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 16
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "create:capacity",
+              "lvl": 3
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Capacity 3\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "create:potato_recovery",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Potato Recovery 1\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "create:potato_recovery",
+              "lvl": 2
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Potato Recovery 2\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 16
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "create:potato_recovery",
+              "lvl": 3
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Potato Recovery 3\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:aqua_affinity",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Aqua Affinity\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:bane_of_arthropods",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Bane Of Arthropods 1\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:bane_of_arthropods",
+              "lvl": 2
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Bane Of Arthropods 2\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:bane_of_arthropods",
+              "lvl": 3
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Bane Of Arthropods 3\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:bane_of_arthropods",
+              "lvl": 4
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Bane Of Arthropods 4\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 16
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:bane_of_arthropods",
+              "lvl": 5
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Bane Of Arthropods 5\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:binding_curse",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Binding Curse\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:blast_protection",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Blast Protection 1\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:blast_protection",
+              "lvl": 2
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Blast Protection 2\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:blast_protection",
+              "lvl": 3
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Blast Protection 3\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 16
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:blast_protection",
+              "lvl": 4
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Blast Protection 4\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:channeling",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Channeling\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:depth_strider",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Depth Strider 1\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:depth_strider",
+              "lvl": 2
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Depth Strider 2\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 16
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:depth_strider",
+              "lvl": 3
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Depth Strider 3\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:efficiency",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Efficiency 1\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:efficiency",
+              "lvl": 2
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Efficiency 2\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:efficiency",
+              "lvl": 3
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Efficiency 3\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:efficiency",
+              "lvl": 4
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Efficiency 4\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 16
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:efficiency",
+              "lvl": 5
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Efficiency 5\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:feather_falling",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Feather Falling 1\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:feather_falling",
+              "lvl": 2
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Feather Falling 2\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:feather_falling",
+              "lvl": 3
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Feather Falling 3\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 16
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:feather_falling",
+              "lvl": 4
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Feather Falling 4\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:fire_aspect",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Fire Aspect 1\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 16
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:fire_aspect",
+              "lvl": 2
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Fire Aspect 2\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:fire_protection",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Fire Protection 1\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:fire_protection",
+              "lvl": 2
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Fire Protection 2\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:fire_protection",
+              "lvl": 3
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Fire Protection 3\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 16
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:fire_protection",
+              "lvl": 4
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Fire Protection 4\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:flame",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Flame\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:fortune",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Fortune 1\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:fortune",
+              "lvl": 2
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Fortune 2\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 16
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:fortune",
+              "lvl": 3
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Fortune 3\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:frost_walker",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Frost Walker 1\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 16
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:frost_walker",
+              "lvl": 2
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Frost Walker 2\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:impaling",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Impaling 1\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:impaling",
+              "lvl": 2
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Impaling 2\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:impaling",
+              "lvl": 3
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Impaling 3\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:impaling",
+              "lvl": 4
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Impaling 4\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 16
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:impaling",
+              "lvl": 5
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Impaling 5\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:infinity",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Infinity\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:knockback",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Knockback 1\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 16
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:knockback",
+              "lvl": 2
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Knockback 2\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:looting",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Looting 1\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:looting",
+              "lvl": 2
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Looting 2\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 16
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:looting",
+              "lvl": 3
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Looting 3\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:loyalty",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Loyalty 1\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:loyalty",
+              "lvl": 2
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Loyalty 2\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 16
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:loyalty",
+              "lvl": 3
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Loyalty 3\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:luck_of_the_sea",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Luck Of The Sea 1\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 16
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:luck_of_the_sea",
+              "lvl": 2
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Luck Of The Sea 2\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:lure",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Lure 1\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:lure",
+              "lvl": 2
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Lure 2\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 16
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:lure",
+              "lvl": 3
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Lure 3\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:mending",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Mending\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:multishot",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Multishot\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:piercing",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Piercing 1\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:piercing",
+              "lvl": 2
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Piercing 2\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:piercing",
+              "lvl": 3
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Piercing 3\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 16
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:piercing",
+              "lvl": 4
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Piercing 4\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:power",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Power 1\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:power",
+              "lvl": 2
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Power 2\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:power",
+              "lvl": 3
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Power 3\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:power",
+              "lvl": 4
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Power 4\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 16
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:power",
+              "lvl": 5
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Power 5\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:projectile_protection",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Projectile Protection 1\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:projectile_protection",
+              "lvl": 2
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Projectile Protection 2\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:projectile_protection",
+              "lvl": 3
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Projectile Protection 3\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 16
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:projectile_protection",
+              "lvl": 4
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Projectile Protection 4\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:protection",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Protection 1\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:protection",
+              "lvl": 2
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Protection 2\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:protection",
+              "lvl": 3
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Protection 3\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 16
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:protection",
+              "lvl": 4
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Protection 4\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:punch",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Punch 1\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 16
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:punch",
+              "lvl": 2
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Punch 2\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:quick_charge",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Quick Charge 1\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:quick_charge",
+              "lvl": 2
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Quick Charge 2\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 16
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:quick_charge",
+              "lvl": 3
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Quick Charge 3\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:respiration",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Respiration 1\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:respiration",
+              "lvl": 2
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Respiration 2\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 16
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:respiration",
+              "lvl": 3
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Respiration 3\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:riptide",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Riptide 1\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:riptide",
+              "lvl": 2
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Riptide 2\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 16
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:riptide",
+              "lvl": 3
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Riptide 3\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:sharpness",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Sharpness 1\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:sharpness",
+              "lvl": 2
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Sharpness 2\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:sharpness",
+              "lvl": 3
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Sharpness 3\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:sharpness",
+              "lvl": 4
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Sharpness 4\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 16
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:sharpness",
+              "lvl": 5
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Sharpness 5\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:silk_touch",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Silk Touch\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:smite",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Smite 1\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:smite",
+              "lvl": 2
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Smite 2\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:smite",
+              "lvl": 3
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Smite 3\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:smite",
+              "lvl": 4
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Smite 4\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 16
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:smite",
+              "lvl": 5
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Smite 5\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:soul_speed",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Soul Speed 1\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:soul_speed",
+              "lvl": 2
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Soul Speed 2\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 16
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:soul_speed",
+              "lvl": 3
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Soul Speed 3\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:sweeping",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Sweeping 1\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:sweeping",
+              "lvl": 2
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Sweeping 2\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 16
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:sweeping",
+              "lvl": 3
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Sweeping 3\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:swift_sneak",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Swift Sneak 1\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:swift_sneak",
+              "lvl": 2
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Swift Sneak 2\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 16
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:swift_sneak",
+              "lvl": 3
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Swift Sneak 3\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:thorns",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Thorns 1\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:thorns",
+              "lvl": 2
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Thorns 2\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 16
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:thorns",
+              "lvl": 3
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Thorns 3\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:unbreaking",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Unbreaking 1\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:unbreaking",
+              "lvl": 2
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Unbreaking 2\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 16
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:unbreaking",
+              "lvl": 3
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Unbreaking 3\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "minecraft:vanishing_curse",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Vanishing Curse\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "supplementaries:stasis",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Stasis\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "utilitix:bell_range",
+              "lvl": 1
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Bell Range 1\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "utilitix:bell_range",
+              "lvl": 2
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Bell Range 2\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 16
+      },
+      "category": "enchantments"
+    },
+    {
+      "output": {
+        "item": "minecraft:enchanted_book",
+        "count": 1,
+        "nbt": {
+          "StoredEnchantments": [
+            {
+              "id": "utilitix:bell_range",
+              "lvl": 3
+            }
+          ],
+          "RepairCost": 0,
+          "display": {
+            "Name": "{\"text\": \"Bell Range 3\"}"
+          }
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "enchantments"
+    }
+  ]
+}

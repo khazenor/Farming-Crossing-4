@@ -2,18 +2,24 @@
 - Cooking Questline
   - Cooking economy
 - Features
-  - building material duplication
+  - 
   - furniture cutting
-  - Farming for blockheads store
 - QOL
-  - export hot keys
+  - Customize Start Screen modpack name
 
 Tutorials:
 
 Backlog:
+  - export hot keys
   - Find and implement a biome mod
   - Find and implement a tent mod
   - Implement storage disk questline
+  - Customize Start Screen Image
+  - Reskin:
+    - all vouchers
+    - wandering traders
+    - market npc
+    - villagers
 
 ==============
 ==== Done ====
@@ -22,6 +28,11 @@ Dev Ops:
 - set up minecraft folders
 - set up development workspace
 - set up deploy script
+
+Features:
+  - Building material duplication
+  - Farming for blockheads store
+  - Selling Fishes
 
 Scripts:
 - wandering trader trades

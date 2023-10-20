@@ -1,0 +1,254 @@
+{
+  "customCategories": {
+    "flowers": {
+      "name": "Flower Shop",
+      "icon": {
+        "item": "byg:rose"
+      }
+    }
+  },
+  "customEntries": [
+    {
+      "output": {
+        "item": "minecraft:allium",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "minecraft:azure_bluet",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "minecraft:blue_orchid",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "minecraft:cornflower",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "minecraft:dandelion",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "minecraft:flowering_azalea",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "minecraft:flowering_azalea_leaves",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "minecraft:lilac",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "minecraft:lily_of_the_valley",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "minecraft:mangrove_propagule",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "minecraft:orange_tulip",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "minecraft:oxeye_daisy",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "minecraft:peony",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "minecraft:pink_tulip",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "minecraft:poppy",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "minecraft:red_tulip",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "minecraft:rose_bush",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "minecraft:sunflower",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "minecraft:white_tulip",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "minecraft:wither_rose",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "supplementaries:wild_flax",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "alexsmobs:acacia_blossom",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    }
+  ]
+}

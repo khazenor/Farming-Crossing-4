@@ -1,0 +1,188 @@
+{
+  "customCategories": {
+    "seed": {
+      "name": "Seed Bank",
+      "icon": {
+        "item": "minecraft:wheat_seeds"
+      }
+    }
+  },
+  "customEntries": [
+    {
+      "output": {
+        "item": "minecraft:beetroot_seeds",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "seed"
+    },
+    {
+      "output": {
+        "item": "minecraft:melon_seeds",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "seed"
+    },
+    {
+      "output": {
+        "item": "minecraft:pumpkin_seeds",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "seed"
+    },
+    {
+      "output": {
+        "item": "minecraft:wheat_seeds",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "seed"
+    },
+    {
+      "output": {
+        "item": "minecraft:carrot",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "seed"
+    },
+    {
+      "output": {
+        "item": "minecraft:potato",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "seed"
+    },
+    {
+      "output": {
+        "item": "minecraft:sugar_cane",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "seed"
+    },
+    {
+      "output": {
+        "item": "minecraft:sweet_berries",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "seed"
+    },
+    {
+      "output": {
+        "item": "minecraft:brown_mushroom",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "seed"
+    },
+    {
+      "output": {
+        "item": "minecraft:red_mushroom",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "seed"
+    },
+    {
+      "output": {
+        "item": "minecraft:crimson_fungus",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "seed"
+    },
+    {
+      "output": {
+        "item": "minecraft:warped_fungus",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "seed"
+    },
+    {
+      "output": {
+        "item": "minecraft:cactus",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "seed"
+    },
+    {
+      "output": {
+        "item": "minecraft:kelp",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "seed"
+    },
+    {
+      "output": {
+        "item": "minecraft:glow_berries",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "seed"
+    },
+    {
+      "output": {
+        "item": "supplementaries:flax_seeds",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "seed"
+    }
+  ]
+}
