@@ -1,5 +1,5 @@
 {
-	"crafttweaker:any_damage": "com.blamejared.crafttweaker.api.ingredient.condition.serializer.ConditionAnyDamagedSerializer",
 	"crafttweaker:condition_custom": "com.blamejared.crafttweaker.api.ingredient.condition.serializer.ConditionCustomSerializer",
-	"crafttweaker:only_damaged": "com.blamejared.crafttweaker.api.ingredient.condition.serializer.ConditionDamagedSerializer"
+	"crafttweaker:only_damaged": "com.blamejared.crafttweaker.api.ingredient.condition.serializer.ConditionDamagedSerializer",
+	"crafttweaker:any_damage": "com.blamejared.crafttweaker.api.ingredient.condition.serializer.ConditionAnyDamagedSerializer"
 }

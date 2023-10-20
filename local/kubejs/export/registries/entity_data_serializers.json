@@ -1,4 +1,5 @@
 {
 	"utilitix:piston_cart_mode": "org.moddingx.libx.network.EnumDataSerializer",
-	"utilitix:stonecutter_cart_mode": "org.moddingx.libx.network.EnumDataSerializer"
+	"utilitix:stonecutter_cart_mode": "org.moddingx.libx.network.EnumDataSerializer",
+	"create:carriage_data": "com.simibubi.create.content.trains.entity.CarriageSyncDataSerializer"
 }

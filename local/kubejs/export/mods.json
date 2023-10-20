@@ -841,6 +841,16 @@
 		"license": "MIT"
 	},
 	{
+		"id": "create",
+		"name": "Create",
+		"version": "0.5.1.e",
+		"description": "Technology that empowers the player.",
+		"authors": "simibubi",
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/create",
+		"issue_tracker": "https://github.com/Creators-of-Create/Create/issues",
+		"license": "MIT"
+	},
+	{
 		"id": "waystones",
 		"name": "Waystones",
 		"version": "14.0.2",
@@ -1173,6 +1183,16 @@
 		"license": "ARR"
 	},
 	{
+		"id": "flywheel",
+		"name": "Flywheel",
+		"version": "0.6.10-7",
+		"description": "A modern engine for modded minecraft.",
+		"authors": "Jozufozu, PepperCode1",
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/flywheel",
+		"issue_tracker": "https://github.com/Jozufozu/Flywheel/issues",
+		"license": "MIT"
+	},
+	{
 		"id": "gravestone",
 		"name": "Gravestone Mod",
 		"version": "1.20.1-1.0.5",
@@ -1349,6 +1369,16 @@
 		"version": "1.4.145",
 		"authors": "OrionDevelopment",
 		"license": "GLGPLv3"
+	},
+	{
+		"id": "createaddition",
+		"name": "Create Crafts & Additions",
+		"version": "1.20.1-1.1.1",
+		"description": "Create Crafts & Additions extends Create and acts as a bridge between electric and kinetic energy from Create.\r\nJoin the Discord: https://discord.gg/mRbNnyKTEu\r\nSpecial thanks to:\r\nthe Create team, the Forge team, and all contributors on the CC&A discord including:\r\nAlphaMode, BobDole, legoatoom, StockiesLad, THEREDSTONEBRO, and Uraxys.",
+		"authors": "MRH0",
+		"homepage": "https://github.com/mrh0/createaddition",
+		"issue_tracker": "https://github.com/mrh0/createaddition/issues",
+		"license": "MIT License, Copyright 2022 MRH0"
 	},
 	{
 		"id": "defaultoptions",

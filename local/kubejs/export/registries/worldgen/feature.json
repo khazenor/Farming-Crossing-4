@@ -81,5 +81,6 @@
 	"waystones:mossy_waystone": "net.blay09.mods.waystones.worldgen.WaystoneFeature",
 	"waystones:sandy_waystone": "net.blay09.mods.waystones.worldgen.WaystoneFeature",
 	"artifacts:campsite": "artifacts.world.CampsiteFeature",
-	"meadow:cobbled_limestone_rock": "net.satisfyu.meadow.world.feature.CobbledLimestoneRock"
+	"meadow:cobbled_limestone_rock": "net.satisfyu.meadow.world.feature.CobbledLimestoneRock",
+	"create:layered_ore": "com.simibubi.create.infrastructure.worldgen.LayeredOreFeature"
 }

@@ -43,5 +43,7 @@
 	"minecraft:unbreaking": "net.minecraft.world.item.enchantment.DigDurabilityEnchantment",
 	"minecraft:vanishing_curse": "net.minecraft.world.item.enchantment.VanishingCurseEnchantment",
 	"supplementaries:stasis": "net.mehvahdjukaar.supplementaries.common.misc.StasisEnchantment",
-	"utilitix:bell_range": "de.melanx.utilitix.enchantment.BellRange"
+	"utilitix:bell_range": "de.melanx.utilitix.enchantment.BellRange",
+	"create:potato_recovery": "com.simibubi.create.content.equipment.potatoCannon.PotatoRecoveryEnchantment",
+	"create:capacity": "com.simibubi.create.content.equipment.armor.CapacityEnchantment"
 }

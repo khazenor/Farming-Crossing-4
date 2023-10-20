@@ -136,5 +136,17 @@
 	"supplementaries:ash": "net.minecraft.core.particles.SimpleParticleType",
 	"supplementaries:bubble_block": "net.minecraft.core.particles.SimpleParticleType",
 	"supplementaries:sugar": "net.minecraft.core.particles.SimpleParticleType",
-	"chimes:leaf": "net.minecraft.core.particles.SimpleParticleType"
+	"chimes:leaf": "net.minecraft.core.particles.SimpleParticleType",
+	"create:rotation_indicator": "com.simibubi.create.foundation.particle.ICustomParticleDataWithSprite$1",
+	"create:air_flow": "com.simibubi.create.foundation.particle.ICustomParticleDataWithSprite$1",
+	"create:air": "com.simibubi.create.foundation.particle.ICustomParticleDataWithSprite$1",
+	"create:steam_jet": "com.simibubi.create.foundation.particle.ICustomParticleDataWithSprite$1",
+	"create:cube": "com.simibubi.create.foundation.particle.ICustomParticleData$1",
+	"create:fluid_particle": "com.simibubi.create.foundation.particle.ICustomParticleData$1",
+	"create:basin_fluid": "com.simibubi.create.foundation.particle.ICustomParticleData$1",
+	"create:fluid_drip": "com.simibubi.create.foundation.particle.ICustomParticleData$1",
+	"create:soul": "com.simibubi.create.foundation.particle.ICustomParticleDataWithSprite$1",
+	"create:soul_base": "com.simibubi.create.foundation.particle.ICustomParticleDataWithSprite$1",
+	"create:soul_perimeter": "com.simibubi.create.foundation.particle.ICustomParticleDataWithSprite$1",
+	"create:soul_expanding_perimeter": "com.simibubi.create.foundation.particle.ICustomParticleDataWithSprite$1"
 }

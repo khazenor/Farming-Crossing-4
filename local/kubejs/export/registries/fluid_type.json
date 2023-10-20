@@ -3,5 +3,11 @@
 	"minecraft:milk": "net.minecraftforge.common.ForgeMod$4",
 	"minecraft:empty": "net.minecraftforge.common.ForgeMod$1",
 	"minecraft:water": "net.minecraftforge.common.ForgeMod$2",
-	"minecraft:lava": "net.minecraftforge.common.ForgeMod$3"
+	"minecraft:lava": "net.minecraftforge.common.ForgeMod$3",
+	"create:potion": "com.simibubi.create.content.fluids.potion.PotionFluid$PotionFluidType",
+	"create:tea": "com.simibubi.create.foundation.data.CreateRegistrate$1",
+	"create:honey": "com.simibubi.create.AllFluids$SolidRenderedPlaceableFluidType",
+	"create:chocolate": "com.simibubi.create.AllFluids$SolidRenderedPlaceableFluidType",
+	"createaddition:seed_oil": "com.mrh0.createaddition.index.CAFluids$NoColorFluidAttributes",
+	"createaddition:bioethanol": "com.mrh0.createaddition.index.CAFluids$NoColorFluidAttributes"
 }

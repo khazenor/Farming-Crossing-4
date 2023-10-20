@@ -66,5 +66,6 @@
 	"forge:enum": "net.minecraftforge.server.command.EnumArgument$Info",
 	"forge:modid": "net.minecraft.commands.synchronization.SingletonArgumentInfo",
 	"ftbteams:change_progress": "net.minecraft.commands.synchronization.SingletonArgumentInfo",
-	"ftbteams:quest_object": "net.minecraft.commands.synchronization.SingletonArgumentInfo"
+	"ftbteams:quest_object": "net.minecraft.commands.synchronization.SingletonArgumentInfo",
+	"flywheel:engine": "net.minecraft.commands.synchronization.SingletonArgumentInfo"
 }
