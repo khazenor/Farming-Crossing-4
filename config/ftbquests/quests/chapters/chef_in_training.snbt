@@ -1,0 +1,58 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "chef_in_training"
+	group: ""
+	icon: "bakery:toast"
+	id: "4362A64FA38E4BCF"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "13B67DDBCF1019AB"
+			rewards: [{
+				count: 4
+				id: "4078B5EDD65D0ADC"
+				item: "bakery:strawberry_seeds"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7665EF8315464D09"
+				item: "bakery:bread"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			id: "57BAA8B414FF1F4F"
+			rewards: [
+				{
+					id: "77801FAC91F7EEE9"
+					item: "bakery:kitchen_sink"
+					type: "item"
+				}
+				{
+					id: "2CE73FEA7A081DBA"
+					item: "bakery:brick_stove"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3BE140032757C3C5"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "forge:seeds"
+					}
+				}
+				title: "Any #forge:seeds"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.5d
+		}
+	]
+	title: "Chef in Training"
+}

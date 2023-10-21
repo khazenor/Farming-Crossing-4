@@ -3,6 +3,8 @@
 	"alexsmobs:lavawax": "com.github.alexthe666.alexsmobs.enchantment.StraddleEnchantment",
 	"alexsmobs:serpentfriend": "com.github.alexthe666.alexsmobs.enchantment.StraddleEnchantment",
 	"alexsmobs:straddle_jump": "com.github.alexthe666.alexsmobs.enchantment.StraddleJumpEnchantment",
+	"create:capacity": "com.simibubi.create.content.equipment.armor.CapacityEnchantment",
+	"create:potato_recovery": "com.simibubi.create.content.equipment.potatoCannon.PotatoRecoveryEnchantment",
 	"minecraft:aqua_affinity": "net.minecraft.world.item.enchantment.WaterWorkerEnchantment",
 	"minecraft:bane_of_arthropods": "net.minecraft.world.item.enchantment.DamageEnchantment",
 	"minecraft:binding_curse": "net.minecraft.world.item.enchantment.BindingCurseEnchantment",
@@ -43,7 +45,5 @@
 	"minecraft:unbreaking": "net.minecraft.world.item.enchantment.DigDurabilityEnchantment",
 	"minecraft:vanishing_curse": "net.minecraft.world.item.enchantment.VanishingCurseEnchantment",
 	"supplementaries:stasis": "net.mehvahdjukaar.supplementaries.common.misc.StasisEnchantment",
-	"utilitix:bell_range": "de.melanx.utilitix.enchantment.BellRange",
-	"create:potato_recovery": "com.simibubi.create.content.equipment.potatoCannon.PotatoRecoveryEnchantment",
-	"create:capacity": "com.simibubi.create.content.equipment.armor.CapacityEnchantment"
+	"utilitix:bell_range": "de.melanx.utilitix.enchantment.BellRange"
 }

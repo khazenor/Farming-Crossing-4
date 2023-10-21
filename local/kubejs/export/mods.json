@@ -20,7 +20,7 @@
 	{
 		"id": "kubejs",
 		"name": "KubeJS",
-		"version": "2001.6.3-build.68",
+		"version": "2001.6.3-build.73",
 		"description": "Customize your modpack or server with JavaScript!",
 		"authors": "LatvianModder",
 		"issue_tracker": "https://kubejs.com/support?source=kubejs&mc=1902&loader=forge",
@@ -96,7 +96,7 @@
 	{
 		"id": "morejs",
 		"name": "MoreJS",
-		"version": "0.3.0",
+		"version": "0.4.0",
 		"description": "More KubeJS stuff.",
 		"authors": "AlmostReliable",
 		"issue_tracker": "https://github.com/AlmostReliable/morejs/issues",
@@ -159,7 +159,7 @@
 	{
 		"id": "sophisticatedcore",
 		"name": "Sophisticated Core",
-		"version": "0.5.89.425",
+		"version": "0.5.100.457",
 		"description": "Base mod of Sophisticated mods.",
 		"issue_tracker": "https://github.com/P3pp3rF1y/SophisticatedCore/issues",
 		"license": "GNU General Public License v3.0"
@@ -209,14 +209,11 @@
 		"license": "MIT"
 	},
 	{
-		"id": "citadel",
-		"name": "Citadel",
-		"version": "2.4.5",
-		"description": "A shared code library for many of Alexthe666's mods. Code used from LLibrary with permission.",
-		"authors": "Alexthe666",
-		"homepage": "https://github.com/Alex-the-666/Citadel",
-		"issue_tracker": "https://github.com/Alex-the-666/Citadel/issues",
-		"license": "GNU LESSER GENERAL PUBLIC LICENSE"
+		"id": "placebo",
+		"name": "Placebo",
+		"version": "8.3.7",
+		"description": "1 (one) library boi",
+		"license": "MIT License"
 	},
 	{
 		"id": "modernfix",
@@ -229,11 +226,14 @@
 		"license": "GNU LGPL 3.0"
 	},
 	{
-		"id": "placebo",
-		"name": "Placebo",
-		"version": "8.3.7",
-		"description": "1 (one) library boi",
-		"license": "MIT License"
+		"id": "citadel",
+		"name": "Citadel",
+		"version": "2.4.5",
+		"description": "A shared code library for many of Alexthe666's mods. Code used from LLibrary with permission.",
+		"authors": "Alexthe666",
+		"homepage": "https://github.com/Alex-the-666/Citadel",
+		"issue_tracker": "https://github.com/Alex-the-666/Citadel/issues",
+		"license": "GNU LESSER GENERAL PUBLIC LICENSE"
 	},
 	{
 		"id": "yungsapi",
@@ -265,12 +265,21 @@
 	{
 		"id": "bookshelf",
 		"name": "Bookshelf",
-		"version": "20.0.5",
+		"version": "20.1.6",
 		"description": "A library for building other mods.",
 		"authors": "Darkhax",
 		"homepage": "https://www.curseforge.com/minecraft/mc-mods/bookshelf",
 		"issue_tracker": "https://github.com/Darkhax-Minecraft/Bookshelf/issues",
 		"license": "LGPL V2.1"
+	},
+	{
+		"id": "kambrik",
+		"name": "Kambrik",
+		"version": "6.1.1+1.20.1",
+		"description": "A Light-weight Kotlin Library Mod!",
+		"authors": "Me!",
+		"issue_tracker": "https://github.com/ejektaflex/Kambrik/issues",
+		"license": "GPL 3.0"
 	},
 	{
 		"id": "vinery",
@@ -283,7 +292,7 @@
 	{
 		"id": "sophisticatedbackpacks",
 		"name": "Sophisticated Backpacks",
-		"version": "3.18.59.909",
+		"version": "3.18.65.935",
 		"description": "Fancy and functional backpacks.",
 		"issue_tracker": "https://github.com/P3pp3rF1y/SophisticatedBackpacks/issues",
 		"license": "GNU General Public License v3.0"
@@ -402,7 +411,7 @@
 	{
 		"id": "supplementaries",
 		"name": "Supplementaries",
-		"version": "1.20-2.6.13",
+		"version": "1.20-2.6.15",
 		"description": "Many functional and useful Vanilla+ blocks",
 		"authors": "MehVahdJukaar, Plantkillable",
 		"issue_tracker": "https://github.com/MehVahdJukaar/Supplementaries/issues",
@@ -466,6 +475,14 @@
 		"authors": "MOA666Creator, MCreator",
 		"homepage": "https://mcreator.net",
 		"license": "Academic Free License v3.0"
+	},
+	{
+		"id": "bountiful",
+		"name": "Bountiful",
+		"version": "6.0.3+1.20.1",
+		"description": "Bountiful adds bounty boards to the world.",
+		"authors": "Ejektaflex",
+		"license": "GPL 3.0"
 	},
 	{
 		"id": "moa_decor_cookery",
@@ -1149,6 +1166,14 @@
 		"license": "CC BY-NC-SA 4.0"
 	},
 	{
+		"id": "wands",
+		"name": "Building Wands",
+		"version": "2.6.8-release",
+		"description": "Building Wands!",
+		"authors": "nicguzzo",
+		"license": "Insert License Here"
+	},
+	{
 		"id": "cleanswing",
 		"name": "Clean Swing Through Grass",
 		"version": "1.20-1.3",
@@ -1181,6 +1206,14 @@
 		"description": "betterfpsdist mod",
 		"authors": "Someaddon",
 		"license": "ARR"
+	},
+	{
+		"id": "kotlinforforge",
+		"name": "Kotlin For Forge",
+		"version": "4.5.0",
+		"description": "Makes Kotlin forge-friendly",
+		"authors": "thedarkcolour",
+		"license": "LGPL"
 	},
 	{
 		"id": "flywheel",
