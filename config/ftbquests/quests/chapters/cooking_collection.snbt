@@ -189,6 +189,12 @@
 			]
 			icon: "bakery:brick_stove"
 			id: "06A5C96E80EE6D38"
+			rewards: [{
+				count: 32
+				id: "15CF7E168F8E62D8"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
 			tasks: [{
 				id: "43646011C3B77533"
 				type: "item"
@@ -418,6 +424,12 @@
 			]
 			icon: "bakery:small_cooking_pot"
 			id: "5AE654772ABF40A4"
+			rewards: [{
+				count: 16
+				id: "67D052A5D89E5FD0"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
 			tasks: [{
 				id: "6B7A80C02D5E0B37"
 				type: "item"
@@ -600,6 +612,12 @@
 			]
 			icon: "bakery:baker_station"
 			id: "56282EC6BB5F7D19"
+			rewards: [{
+				count: 18
+				id: "46800EF4CEC40502"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
 			tasks: [{
 				id: "262F5984E1612365"
 				type: "item"
@@ -749,12 +767,675 @@
 			]
 			icon: "vinery:grapevine_pot"
 			id: "7C5A10E83ECD41CA"
+			rewards: [{
+				count: 16
+				id: "5821ACCA60FB44B8"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
 			tasks: [{
 				id: "32E641008810AF9A"
 				type: "item"
 			}]
 			title: "Grapevine Pot Recipes Completion"
 			x: 9.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["45CAACDFDC15E734"]
+			id: "3AD7742AD6B35D7D"
+			rewards: [{
+				id: "145752C8683C0A9B"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1D97BB8A7EF59750"
+				item: "vinery:apple_juice"
+				type: "item"
+			}]
+			x: 11.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["45CAACDFDC15E734"]
+			id: "072BF31F8378CC3F"
+			rewards: [{
+				id: "4512C27BC6965A14"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "66640A01E5BDC2CE"
+				item: {
+					Count: 1b
+					id: "vinery:apple_wine"
+					tag: {
+						Year: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 12.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["45CAACDFDC15E734"]
+			id: "54E53E2FC19EA68F"
+			rewards: [{
+				id: "20E573200EAF985F"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2B13F7B7D4C63E5D"
+				item: {
+					Count: 1b
+					id: "vinery:cherry_wine"
+					tag: {
+						Year: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 13.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["45CAACDFDC15E734"]
+			id: "0F88ED12F7777BE8"
+			rewards: [{
+				id: "1250789A40738DD1"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "22883AAF8450DBAF"
+				item: {
+					Count: 1b
+					id: "vinery:magnetic_wine"
+					tag: {
+						Year: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 14.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["45CAACDFDC15E734"]
+			id: "372D290A3848B02D"
+			rewards: [{
+				id: "324678379989BC85"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "09116C0D29B2349F"
+				item: {
+					Count: 1b
+					id: "vinery:noir_wine"
+					tag: {
+						Year: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 15.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["45CAACDFDC15E734"]
+			id: "0BA4596C66C6168B"
+			rewards: [{
+				id: "6E68F69088B2CDF3"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2F5EE443C9D6A275"
+				item: {
+					Count: 1b
+					id: "vinery:king_danis_wine"
+					tag: {
+						Year: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 11.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["45CAACDFDC15E734"]
+			id: "294E90B9506D7F2D"
+			rewards: [{
+				id: "1CF024B5DC229904"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "31DA036D56311BAF"
+				item: {
+					Count: 1b
+					id: "vinery:mellohi_wine"
+					tag: {
+						Year: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["45CAACDFDC15E734"]
+			id: "2B68C641669F6BDE"
+			rewards: [{
+				id: "191FBCED68260279"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7F3169EFA4254ECA"
+				item: {
+					Count: 1b
+					id: "vinery:stal_wine"
+					tag: {
+						Year: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 13.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["45CAACDFDC15E734"]
+			id: "655AFA6EEB68190D"
+			rewards: [{
+				id: "7F5EDBA57E330E0D"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2A05520DD8F30F4E"
+				item: {
+					Count: 1b
+					id: "vinery:strad_wine"
+					tag: {
+						Year: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 14.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["45CAACDFDC15E734"]
+			id: "79AB687C2F5BF98F"
+			rewards: [{
+				id: "3056268BFBF32B88"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5B905973BF292F59"
+				item: {
+					Count: 1b
+					id: "vinery:solaris_wine"
+					tag: {
+						Year: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 15.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["45CAACDFDC15E734"]
+			id: "7C5C14475709AD8C"
+			rewards: [{
+				id: "07891647B5A7B68F"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "70EEA9E0C3C6DC4C"
+				item: {
+					Count: 1b
+					id: "vinery:chorus_wine"
+					tag: {
+						Year: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 11.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["45CAACDFDC15E734"]
+			id: "1FA315D0D8319E60"
+			rewards: [{
+				id: "6159AD487860C468"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "465B25B1B23EF188"
+				item: {
+					Count: 1b
+					id: "vinery:aegis_wine"
+					tag: {
+						Year: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 12.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["45CAACDFDC15E734"]
+			id: "34401A01579B08B8"
+			rewards: [{
+				id: "20877AB1D772472A"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "63CF69EEC5DD69FA"
+				item: {
+					Count: 1b
+					id: "vinery:clark_wine"
+					tag: {
+						Year: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 13.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["45CAACDFDC15E734"]
+			id: "2CD295002CAB4E8F"
+			rewards: [{
+				id: "3910BBB55C36293C"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "15B34C7A11B8631E"
+				item: {
+					Count: 1b
+					id: "vinery:bolvar_wine"
+					tag: {
+						Year: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 14.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["45CAACDFDC15E734"]
+			id: "3F370A0E427E0B57"
+			rewards: [{
+				id: "1F2FAB094A7F180F"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "123BB9774EE6A41E"
+				item: {
+					Count: 1b
+					id: "vinery:kelp_cider"
+					tag: {
+						Year: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 15.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["45CAACDFDC15E734"]
+			id: "210BD7CC87B7547C"
+			rewards: [{
+				id: "29E1F57E8B5127EE"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "08F2347BD19417E6"
+				item: {
+					Count: 1b
+					id: "vinery:chenet_wine"
+					tag: {
+						Year: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 11.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["45CAACDFDC15E734"]
+			id: "2FB11F7F8CCFB57F"
+			rewards: [{
+				id: "448B5A35CB888DF3"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3B52EB6CDF344ED3"
+				item: {
+					Count: 1b
+					id: "vinery:apple_cider"
+					tag: {
+						Year: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 12.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["45CAACDFDC15E734"]
+			id: "305BD3A6BEF27E0F"
+			rewards: [{
+				id: "5584449D8844648C"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "23A83F4BDF9C10AA"
+				item: {
+					Count: 1b
+					id: "vinery:jellie_wine"
+					tag: {
+						Year: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 13.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["45CAACDFDC15E734"]
+			id: "03B5E3A97A89C878"
+			rewards: [{
+				id: "15D8448784FA7E44"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0107009D6364B6D9"
+				item: {
+					Count: 1b
+					id: "vinery:red_wine"
+					tag: {
+						Year: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 14.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["45CAACDFDC15E734"]
+			id: "49212F592DB347B1"
+			rewards: [{
+				id: "2F7444A74EB3A9F2"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2499660976EDA600"
+				item: {
+					Count: 1b
+					id: "vinery:praetorian_wine"
+					tag: {
+						Year: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 15.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["45CAACDFDC15E734"]
+			id: "1B9BEF93CF756F8A"
+			rewards: [{
+				id: "1EE38F5BACDC8F92"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "35EB89379B055880"
+				item: {
+					Count: 1b
+					id: "vinery:jo_special_mixture"
+					tag: {
+						Year: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 11.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["45CAACDFDC15E734"]
+			id: "633BA2E04E371752"
+			rewards: [{
+				id: "3BF63B284FF50D64"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4326B088618239C7"
+				item: {
+					Count: 1b
+					id: "vinery:cristel_wine"
+					tag: {
+						Year: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 12.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["45CAACDFDC15E734"]
+			id: "67E7470BD114C886"
+			rewards: [{
+				id: "663CE7FABE212CA5"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1458C4EB185F05A2"
+				item: {
+					Count: 1b
+					id: "vinery:creepers_crush"
+					tag: {
+						Year: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 13.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["45CAACDFDC15E734"]
+			id: "1205C30E8990B536"
+			rewards: [{
+				id: "1B80733788BCB232"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "15DC918802798CAF"
+				item: {
+					Count: 1b
+					id: "vinery:villagers_fright"
+					tag: {
+						Year: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 14.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["45CAACDFDC15E734"]
+			id: "69D8AFFE51158A90"
+			rewards: [{
+				id: "465174A544FC1FC3"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "10DE65B73A0BE569"
+				item: {
+					Count: 1b
+					id: "vinery:glowing_wine"
+					tag: {
+						Year: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 15.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["45CAACDFDC15E734"]
+			id: "34CEFADA595D005A"
+			rewards: [{
+				id: "6A57C4C98187E94F"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1F5DBE8918FFAC50"
+				item: {
+					Count: 1b
+					id: "vinery:mead"
+					tag: {
+						Year: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 12.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["45CAACDFDC15E734"]
+			id: "78FCCC042BDE6E61"
+			rewards: [{
+				id: "28B2DD0A0D825DDF"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7C9FFB5A6FA02BA5"
+				item: {
+					Count: 1b
+					id: "vinery:bottle_mojang_noir"
+					tag: {
+						Year: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 13.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["45CAACDFDC15E734"]
+			id: "09947FF7AAD7C7CE"
+			rewards: [{
+				id: "092B9B968DA0F03C"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "135601A9159B8E71"
+				item: {
+					Count: 1b
+					id: "vinery:eiswein"
+					tag: {
+						Year: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 14.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"305BD3A6BEF27E0F"
+				"372D290A3848B02D"
+				"79AB687C2F5BF98F"
+				"0F88ED12F7777BE8"
+				"0BA4596C66C6168B"
+				"78FCCC042BDE6E61"
+				"210BD7CC87B7547C"
+				"3F370A0E427E0B57"
+				"655AFA6EEB68190D"
+				"34CEFADA595D005A"
+				"54E53E2FC19EA68F"
+				"7C5C14475709AD8C"
+				"34401A01579B08B8"
+				"1FA315D0D8319E60"
+				"69D8AFFE51158A90"
+				"2B68C641669F6BDE"
+				"03B5E3A97A89C878"
+				"1205C30E8990B536"
+				"3AD7742AD6B35D7D"
+				"072BF31F8378CC3F"
+				"2CD295002CAB4E8F"
+				"294E90B9506D7F2D"
+				"1B9BEF93CF756F8A"
+				"49212F592DB347B1"
+				"09947FF7AAD7C7CE"
+				"2FB11F7F8CCFB57F"
+				"67E7470BD114C886"
+				"633BA2E04E371752"
+			]
+			icon: "vinery:fermentation_barrel"
+			id: "565C1C84E8B9D262"
+			rewards: [{
+				count: 56
+				id: "2A90093966D15652"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "001D2228832D0319"
+				type: "item"
+			}]
+			title: "Aging Barrel Recipes Completion"
+			x: 13.0d
 			y: -2.0d
 		}
 	]

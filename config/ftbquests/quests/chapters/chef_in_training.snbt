@@ -105,6 +105,24 @@
 			dependencies: ["45CAACDFDC15E734"]
 			description: ["You can put grapes into a Pot and crush them by jumping and walking around in it. Then you can extract Grapejuice by using Empty Winebottles. "]
 			id: "17FA2E4902522B36"
+			rewards: [
+				{
+					id: "15D58709E458F96D"
+					item: "vinery:wine_press"
+					type: "item"
+				}
+				{
+					id: "32F5FC1BC372308E"
+					item: "vinery:fermentation_barrel"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "2F61AC55C156BC7E"
+					item: "vinery:cherry_sapling"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "5EE4218974AEFC22"
 				item: "vinery:red_grapejuice_wine_bottle"
