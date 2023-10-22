@@ -5,17 +5,25 @@
 	group: ""
 	icon: "bakery:toast"
 	id: "4362A64FA38E4BCF"
-	order_index: 2
+	order_index: 1
 	quest_links: [ ]
 	quests: [
 		{
+			dependencies: ["57BAA8B414FF1F4F"]
 			id: "13B67DDBCF1019AB"
-			rewards: [{
-				count: 4
-				id: "4078B5EDD65D0ADC"
-				item: "bakery:strawberry_seeds"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 4
+					id: "4078B5EDD65D0ADC"
+					item: "bakery:strawberry_seeds"
+					type: "item"
+				}
+				{
+					id: "1A0D9D85B3BA6BA8"
+					item: "bakery:small_cooking_pot"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "7665EF8315464D09"
 				item: "bakery:bread"
@@ -51,6 +59,58 @@
 				type: "item"
 			}]
 			x: -0.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["13B67DDBCF1019AB"]
+			id: "5E93B9E15372F454"
+			rewards: [{
+				id: "03A3DEA08A4CCE81"
+				item: "bakery:baker_station"
+				type: "item"
+			}]
+			tasks: [{
+				id: "00BB4FE6308A4E0A"
+				item: "bakery:strawberry_jam"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["5E93B9E15372F454"]
+			id: "45CAACDFDC15E734"
+			rewards: [
+				{
+					count: 4
+					id: "5CD0C8EBB0F754F2"
+					item: "vinery:red_grape_seeds"
+					type: "item"
+				}
+				{
+					id: "5B86CA2C66DB8CC6"
+					item: "vinery:grapevine_pot"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3AB93F30CDA1780F"
+				item: "bakery:strawberry_cake"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["45CAACDFDC15E734"]
+			description: ["You can put grapes into a Pot and crush them by jumping and walking around in it. Then you can extract Grapejuice by using Empty Winebottles. "]
+			id: "17FA2E4902522B36"
+			tasks: [{
+				id: "5EE4218974AEFC22"
+				item: "vinery:red_grapejuice_wine_bottle"
+				type: "item"
+			}]
+			x: 0.5d
 			y: -1.5d
 		}
 	]

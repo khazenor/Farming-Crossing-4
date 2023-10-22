@@ -1,0 +1,762 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "cooking_collection"
+	group: "5326E5A8132593FA"
+	icon: "bakery:strawberry_cupcake"
+	id: "5ED7CD0084ECAAED"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["57BAA8B414FF1F4F"]
+			id: "6EF22AC33B4F8CB3"
+			rewards: [{
+				id: "0B242BE906043A5D"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "48453900008587EC"
+				item: "bakery:croissant"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["57BAA8B414FF1F4F"]
+			id: "6D26D42BE37F844D"
+			rewards: [{
+				id: "06D7668A1104E825"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "678565E5DB5D6925"
+				item: "bakery:crusty_bread"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["57BAA8B414FF1F4F"]
+			id: "5F04C7419ED8096B"
+			rewards: [{
+				id: "7D06E19017F19922"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2D5E37C5E393631B"
+				item: "bakery:bread"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["57BAA8B414FF1F4F"]
+			id: "3D32EB221432B581"
+			rewards: [{
+				id: "784240DC5164FA04"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "190C8202E21EB04A"
+				item: "bakery:baguette"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["57BAA8B414FF1F4F"]
+			id: "0D2F4B4BD794FD92"
+			rewards: [{
+				id: "442D62F1B84ADAD1"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "523FEF9C05CA400C"
+				item: "bakery:toast"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["57BAA8B414FF1F4F"]
+			id: "4CB92665F2121732"
+			rewards: [{
+				id: "53EF3A6DE01A7DBE"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "52991951E00F5809"
+				item: "bakery:braided_bread"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["57BAA8B414FF1F4F"]
+			id: "038D2C1CF1F5538F"
+			rewards: [{
+				id: "0E50EFF23549F4DF"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2656323CF9158452"
+				item: "bakery:bun"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["57BAA8B414FF1F4F"]
+			id: "2F0C9CF6CE06112F"
+			rewards: [{
+				id: "35A2EFCD90D4DE00"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "78E4FBCCA630143C"
+				item: "bakery:vegetable_sandwich"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["57BAA8B414FF1F4F"]
+			id: "412B56D3034D5859"
+			rewards: [{
+				id: "6F8B3D24C17104DE"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "60A36C57CDC415B2"
+				item: "bakery:sandwich"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["57BAA8B414FF1F4F"]
+			id: "1BEF0646DA6B24A6"
+			rewards: [{
+				id: "5E4E1170A73A6C34"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "04BD249D1CEBC886"
+				item: "bakery:bread_crate"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"0D2F4B4BD794FD92"
+				"3D32EB221432B581"
+				"2F0C9CF6CE06112F"
+				"1BEF0646DA6B24A6"
+				"5F04C7419ED8096B"
+				"038D2C1CF1F5538F"
+				"4CB92665F2121732"
+				"412B56D3034D5859"
+				"6EF22AC33B4F8CB3"
+				"6D26D42BE37F844D"
+				"4E63C512C8B257F3"
+				"4D1E12F8392A91ED"
+				"4C62746A531C5122"
+				"50C0E676269B8A95"
+				"5ADEC65A7C0C5063"
+				"45407544C413300B"
+			]
+			icon: "bakery:brick_stove"
+			id: "06A5C96E80EE6D38"
+			tasks: [{
+				id: "43646011C3B77533"
+				type: "item"
+			}]
+			title: "Oven Recipes Completion"
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["57BAA8B414FF1F4F"]
+			id: "5ADEC65A7C0C5063"
+			rewards: [{
+				id: "0E0203999A04F2F9"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "05E05F73F3B8C59A"
+				item: "bakery:linzer_tart"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["57BAA8B414FF1F4F"]
+			id: "4C62746A531C5122"
+			rewards: [{
+				id: "4BB06221403FD9F7"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1E3E489C0F727A4D"
+				item: "bakery:apple_pie"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["57BAA8B414FF1F4F"]
+			id: "4E63C512C8B257F3"
+			rewards: [{
+				id: "2D512E202B3D474D"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6576A9A94B501828"
+				item: "bakery:glowberry_tart"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["57BAA8B414FF1F4F"]
+			id: "45407544C413300B"
+			rewards: [{
+				id: "6790C441C7CB6FA8"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "05A97EC2C3237095"
+				item: "bakery:chocolate_tart"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["57BAA8B414FF1F4F"]
+			id: "4D1E12F8392A91ED"
+			rewards: [{
+				id: "4CEF179764A596AC"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6FE431F09DAF0886"
+				item: "bakery:bundt_cake"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["57BAA8B414FF1F4F"]
+			id: "50C0E676269B8A95"
+			rewards: [{
+				id: "58A0CD22513ABA12"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "39A8213A626F5D9C"
+				item: "bakery:waffle"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["13B67DDBCF1019AB"]
+			id: "59271559596EF79B"
+			rewards: [{
+				id: "3A26BBC216CBA882"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "228BED4334A2139E"
+				item: "bakery:strawberry_jam"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["13B67DDBCF1019AB"]
+			id: "1909FF9F6E6FDDF7"
+			rewards: [{
+				id: "3E9EC20FF5C7B008"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "68D89790DFC1DAE9"
+				item: "bakery:sweetberry_jam"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["13B67DDBCF1019AB"]
+			id: "383F3884F961C075"
+			rewards: [{
+				id: "0C0C586F92041FDE"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6065CE1F0C1DCF28"
+				item: "bakery:glowberry_jam"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["13B67DDBCF1019AB"]
+			id: "160DC0AF49FFCBAA"
+			rewards: [{
+				id: "65BD22E739802B3A"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "392F3782720ACC70"
+				item: "bakery:apple_jam"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["13B67DDBCF1019AB"]
+			id: "41810EB5D9E58B3D"
+			rewards: [{
+				id: "3E8EDA092A7A4C77"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1024433376FEAFA4"
+				item: "bakery:chocolate_jam"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["13B67DDBCF1019AB"]
+			id: "6D8CFACE00226E00"
+			rewards: [{
+				id: "5AFB062567DC93B6"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "72256201D07C1964"
+				item: "bakery:chocolate_truffle"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["13B67DDBCF1019AB"]
+			id: "6ED2C4ECAECA201E"
+			rewards: [{
+				id: "3BA69CCC4F34AEB7"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "174AC02B287D9512"
+				item: "bakery:pudding"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"6D8CFACE00226E00"
+				"160DC0AF49FFCBAA"
+				"6ED2C4ECAECA201E"
+				"59271559596EF79B"
+				"41810EB5D9E58B3D"
+				"1909FF9F6E6FDDF7"
+				"383F3884F961C075"
+				"72EA49B5A728C70F"
+			]
+			icon: "bakery:small_cooking_pot"
+			id: "5AE654772ABF40A4"
+			tasks: [{
+				id: "6B7A80C02D5E0B37"
+				type: "item"
+			}]
+			title: "Cooking Pot Recipes Completion"
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["13B67DDBCF1019AB"]
+			id: "72EA49B5A728C70F"
+			rewards: [{
+				id: "16379CF96C1ACFCB"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "20536B9FC41DA5A6"
+				item: "bakery:jam_roll"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["5E93B9E15372F454"]
+			id: "5F6A62C50E65F788"
+			rewards: [{
+				id: "3B7FBEBA32D03799"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2283F5701405E860"
+				item: "bakery:strawberry_glazed_cookie"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["5E93B9E15372F454"]
+			id: "5F4A14AC398665A6"
+			rewards: [{
+				id: "5F6A628D83EAEE30"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "79F35D8AE9889430"
+				item: "bakery:sweetberry_glazed_cookie"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["5E93B9E15372F454"]
+			id: "5182746F9669B51F"
+			rewards: [{
+				id: "44FED46E955C9800"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2A435D82E2B8B61D"
+				item: "bakery:chocolate_glazed_cookie"
+				type: "item"
+			}]
+			x: 7.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["5E93B9E15372F454"]
+			id: "1EF957C82621629F"
+			rewards: [{
+				id: "29D26986266C44CE"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "586CCA4578AC5716"
+				item: "bakery:strawberry_cupcake"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5E93B9E15372F454"]
+			id: "762F745D0D062226"
+			rewards: [{
+				id: "6A0E58A1FDC3C41C"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "47AB4710B3A4DD1B"
+				item: "bakery:sweetberry_cupcake"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5E93B9E15372F454"]
+			id: "42FC64AB84D57C0E"
+			rewards: [{
+				id: "3446C54B70168DBC"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0B726D8E8F998D3D"
+				item: "bakery:apple_cupcake"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5E93B9E15372F454"]
+			id: "54CCF04016BC1198"
+			rewards: [{
+				id: "48F5C2CE6F3BEE2E"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7EDF92FDC5BC76DE"
+				item: "bakery:strawberry_cake"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["5E93B9E15372F454"]
+			id: "701D756D567DC7AC"
+			rewards: [{
+				id: "1F321B9ACE4BCD6F"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2ED11FAC8916C1CE"
+				item: "bakery:sweetberry_cake"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["5E93B9E15372F454"]
+			id: "230E192BFBE34E63"
+			rewards: [{
+				id: "377E6FC3116C1408"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "52BD8520494EBCD1"
+				item: "bakery:chocolate_cake"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 1.0d
+		}
+		{
+			dependencies: [
+				"701D756D567DC7AC"
+				"5F6A62C50E65F788"
+				"762F745D0D062226"
+				"230E192BFBE34E63"
+				"5F4A14AC398665A6"
+				"54CCF04016BC1198"
+				"5182746F9669B51F"
+				"42FC64AB84D57C0E"
+				"1EF957C82621629F"
+			]
+			icon: "bakery:baker_station"
+			id: "56282EC6BB5F7D19"
+			tasks: [{
+				id: "262F5984E1612365"
+				type: "item"
+			}]
+			title: "Baking Station Recipes Completion"
+			x: 6.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["45CAACDFDC15E734"]
+			id: "609F0352BB4889C5"
+			rewards: [{
+				id: "6859F87557796247"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "67CEB77D7F4B8C14"
+				item: "vinery:red_grapejuice_wine_bottle"
+				type: "item"
+			}]
+			x: 8.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["45CAACDFDC15E734"]
+			id: "496D0A429EBADAF6"
+			rewards: [{
+				id: "6DD073C6F4D9473F"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "20DDB6DDACD5DADE"
+				item: "vinery:white_grapejuice_wine_bottle"
+				type: "item"
+			}]
+			x: 9.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["45CAACDFDC15E734"]
+			id: "403A3B5469B40843"
+			rewards: [{
+				id: "7EF09D6B7AA6E2B3"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1CFF6864EDFE65AE"
+				item: "vinery:taiga_red_grapejuice_bottle"
+				type: "item"
+			}]
+			x: 8.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["45CAACDFDC15E734"]
+			id: "0187FF7593539454"
+			rewards: [{
+				id: "0B90908C23CD7871"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "269184BAF79B5FA0"
+				item: "vinery:taiga_white_grapejuice_bottle"
+				type: "item"
+			}]
+			x: 9.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["45CAACDFDC15E734"]
+			id: "69699353A6A26647"
+			rewards: [{
+				id: "59B918985CE0AA82"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "326B62E852406867"
+				item: "vinery:jungle_red_grapejuice_bottle"
+				type: "item"
+			}]
+			x: 8.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["45CAACDFDC15E734"]
+			id: "11C65D59C2553F3C"
+			rewards: [{
+				id: "3606968FED559F3E"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "251AEA2CCBF96752"
+				item: "vinery:jungle_white_grapejuice_bottle"
+				type: "item"
+			}]
+			x: 9.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["45CAACDFDC15E734"]
+			id: "6A0D708CAFB62BCA"
+			rewards: [{
+				id: "0D00208CC0BBB90C"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "019AA542CFA8FFB7"
+				item: "vinery:savanna_red_grapejuice_bottle"
+				type: "item"
+			}]
+			x: 8.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["45CAACDFDC15E734"]
+			id: "7F438B14366D0C5F"
+			rewards: [{
+				id: "41ABD1AB5459A62E"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4655B05C4781598F"
+				item: "vinery:savanna_white_grapejuice_bottle"
+				type: "item"
+			}]
+			x: 9.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"609F0352BB4889C5"
+				"496D0A429EBADAF6"
+				"0187FF7593539454"
+				"7F438B14366D0C5F"
+				"11C65D59C2553F3C"
+				"403A3B5469B40843"
+				"6A0D708CAFB62BCA"
+				"69699353A6A26647"
+			]
+			icon: "vinery:grapevine_pot"
+			id: "7C5A10E83ECD41CA"
+			tasks: [{
+				id: "32E641008810AF9A"
+				type: "item"
+			}]
+			title: "Grapevine Pot Recipes Completion"
+			x: 9.0d
+			y: -2.0d
+		}
+	]
+	title: "Cooking Collection"
+}
