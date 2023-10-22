@@ -456,12 +456,12 @@
 		}
 		{
 			hide: true
-			icon: "kubejs:cert_fish_wood"
+			icon: "kubejs:cert_ani_wood"
 			id: "394A6E4A27A64754"
 			rewards: [
 				{
 					id: "1D8C667806210874"
-					item: "kubejs:cert_fish_wood"
+					item: "kubejs:cert_ani_wood"
 					type: "item"
 				}
 				{
@@ -483,19 +483,19 @@
 				item: "kubejs:voucher_animal"
 				type: "item"
 			}]
-			title: "Wooden Fishing Collection Certificate"
-			x: -2.0d
+			title: "Wooden Animal Collection Certificate"
+			x: -3.0d
 			y: 0.0d
 		}
 		{
 			dependencies: ["394A6E4A27A64754"]
 			hide: true
-			icon: "kubejs:cert_fish_stone"
+			icon: "kubejs:cert_ani_stone"
 			id: "57C45C9423BEC2AB"
 			rewards: [
 				{
 					id: "402C18484BD4711D"
-					item: "kubejs:cert_fish_stone"
+					item: "kubejs:cert_ani_stone"
 					type: "item"
 				}
 				{
@@ -512,19 +512,19 @@
 				item: "kubejs:voucher_animal"
 				type: "item"
 			}]
-			title: "Stone Fishing Collection Certificate"
-			x: -2.0d
+			title: "Stone Animal Collection Certificate"
+			x: -3.0d
 			y: 1.0d
 		}
 		{
 			dependencies: ["57C45C9423BEC2AB"]
 			hide: true
-			icon: "kubejs:cert_fish_iron"
+			icon: "kubejs:cert_ani_iron"
 			id: "6536E3C16A4477CA"
 			rewards: [
 				{
 					id: "280856B83E2FC947"
-					item: "kubejs:cert_fish_iron"
+					item: "kubejs:cert_ani_iron"
 					type: "item"
 				}
 				{
@@ -541,19 +541,19 @@
 				item: "kubejs:voucher_animal"
 				type: "item"
 			}]
-			title: "Iron Fishing Collection Certificate"
-			x: -2.0d
+			title: "Iron Animal Collection Certificate"
+			x: -3.0d
 			y: 2.0d
 		}
 		{
 			dependencies: ["6536E3C16A4477CA"]
 			hide: true
-			icon: "kubejs:cert_fish_gold"
+			icon: "kubejs:cert_ani_gold"
 			id: "1D14E2615748F241"
 			rewards: [
 				{
 					id: "24A0337F3A81ED9F"
-					item: "kubejs:cert_fish_gold"
+					item: "kubejs:cert_ani_gold"
 					type: "item"
 				}
 				{
@@ -570,19 +570,19 @@
 				item: "kubejs:voucher_animal"
 				type: "item"
 			}]
-			title: "Golden Fishing Collection Certificate"
-			x: -2.0d
+			title: "Golden Animal Collection Certificate"
+			x: -3.0d
 			y: 3.0d
 		}
 		{
 			dependencies: ["1D14E2615748F241"]
 			hide: true
-			icon: "kubejs:cert_fish_diamond"
+			icon: "kubejs:cert_ani_diamond"
 			id: "3CEA5D939800DB04"
 			rewards: [
 				{
 					id: "178044A55E1A85E6"
-					item: "kubejs:cert_fish_diamond"
+					item: "kubejs:cert_ani_diamond"
 					type: "item"
 				}
 				{
@@ -599,18 +599,18 @@
 				item: "kubejs:voucher_animal"
 				type: "item"
 			}]
-			title: "Diamond Fishing Collection Certificate"
-			x: -2.0d
+			title: "Diamond Animal Collection Certificate"
+			x: -3.0d
 			y: 4.0d
 		}
 		{
 			hide: true
-			icon: "kubejs:cert_ani_wood"
+			icon: "kubejs:cert_fish_wood"
 			id: "42A6B7DAE4A318FF"
 			rewards: [
 				{
 					id: "461118F55C237279"
-					item: "kubejs:cert_ani_wood"
+					item: "kubejs:cert_fish_wood"
 					type: "item"
 				}
 				{
@@ -632,19 +632,19 @@
 				item: "kubejs:voucher_fish"
 				type: "item"
 			}]
-			title: "Wooden Animal Collection Certificate"
-			x: -1.0d
+			title: "Wooden Fishing Collection Certificate"
+			x: -2.0d
 			y: 0.0d
 		}
 		{
 			dependencies: ["42A6B7DAE4A318FF"]
 			hide: true
-			icon: "kubejs:cert_ani_stone"
+			icon: "kubejs:cert_fish_stone"
 			id: "644E5A71CE6B9B86"
 			rewards: [
 				{
 					id: "5873BDEF037C9D1B"
-					item: "kubejs:cert_ani_stone"
+					item: "kubejs:cert_fish_stone"
 					type: "item"
 				}
 				{
@@ -661,19 +661,19 @@
 				item: "kubejs:voucher_fish"
 				type: "item"
 			}]
-			title: "Stone Animal Collection Certificate"
-			x: -1.0d
+			title: "Stone Fishing Collection Certificate"
+			x: -2.0d
 			y: 1.0d
 		}
 		{
 			dependencies: ["644E5A71CE6B9B86"]
 			hide: true
-			icon: "kubejs:cert_ani_iron"
+			icon: "kubejs:cert_fish_iron"
 			id: "0E21E1B6579C2654"
 			rewards: [
 				{
 					id: "14FFA26B47AEE3E6"
-					item: "kubejs:cert_ani_iron"
+					item: "kubejs:cert_fish_iron"
 					type: "item"
 				}
 				{
@@ -690,19 +690,19 @@
 				item: "kubejs:voucher_fish"
 				type: "item"
 			}]
-			title: "Iron Animal Collection Certificate"
-			x: -1.0d
+			title: "Iron Fishing Collection Certificate"
+			x: -2.0d
 			y: 2.0d
 		}
 		{
 			dependencies: ["0E21E1B6579C2654"]
 			hide: true
-			icon: "kubejs:cert_ani_gold"
+			icon: "kubejs:cert_fish_gold"
 			id: "53F562C912D08A93"
 			rewards: [
 				{
 					id: "595302F4C78AD159"
-					item: "kubejs:cert_ani_gold"
+					item: "kubejs:cert_fish_gold"
 					type: "item"
 				}
 				{
@@ -719,19 +719,19 @@
 				item: "kubejs:voucher_fish"
 				type: "item"
 			}]
-			title: "Golden Animal Collection Certificate"
-			x: -1.0d
+			title: "Golden Fishing Collection Certificate"
+			x: -2.0d
 			y: 3.0d
 		}
 		{
 			dependencies: ["53F562C912D08A93"]
 			hide: true
-			icon: "kubejs:cert_ani_diamond"
+			icon: "kubejs:cert_fish_diamond"
 			id: "0BF0719FFEE2625B"
 			rewards: [
 				{
 					id: "7900B2DF322A6E90"
-					item: "kubejs:cert_ani_diamond"
+					item: "kubejs:cert_fish_diamond"
 					type: "item"
 				}
 				{
@@ -748,8 +748,8 @@
 				item: "kubejs:voucher_fish"
 				type: "item"
 			}]
-			title: "Diamond Animal Collection Certificate"
-			x: -1.0d
+			title: "Diamond Fishing Collection Certificate"
+			x: -2.0d
 			y: 4.0d
 		}
 		{
@@ -782,7 +782,7 @@
 				type: "item"
 			}]
 			title: "Wooden Chef Certificate"
-			x: -3.0d
+			x: -1.0d
 			y: 0.0d
 		}
 		{
@@ -811,7 +811,7 @@
 				type: "item"
 			}]
 			title: "Stone Chef Certificate"
-			x: -3.0d
+			x: -1.0d
 			y: 1.0d
 		}
 		{
@@ -840,7 +840,7 @@
 				type: "item"
 			}]
 			title: "Iron Chef Certificate"
-			x: -3.0d
+			x: -1.0d
 			y: 2.0d
 		}
 		{
@@ -869,7 +869,7 @@
 				type: "item"
 			}]
 			title: "Golden Chef Certificate"
-			x: -3.0d
+			x: -1.0d
 			y: 3.0d
 		}
 		{
@@ -898,7 +898,7 @@
 				type: "item"
 			}]
 			title: "Diamond Chef Certificate"
-			x: -3.0d
+			x: -1.0d
 			y: 4.0d
 		}
 	]
