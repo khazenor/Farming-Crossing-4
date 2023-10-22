@@ -281,6 +281,12 @@
 		{
 			dependencies: ["2D0063702FDE9B52"]
 			id: "19DDD6BE0B345083"
+			rewards: [{
+				count: 24
+				id: "678A6A2DF29E682E"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
 			tasks: [{
 				id: "29A7F283F3D55A42"
 				item: "beachparty:coconut_cocktail"
