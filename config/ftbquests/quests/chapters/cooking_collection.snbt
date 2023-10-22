@@ -1732,7 +1732,7 @@
 				item: "candlelight:tomato_soup"
 				type: "item"
 			}]
-			x: 19.0d
+			x: 20.5d
 			y: -1.0d
 		}
 		{
@@ -1748,7 +1748,7 @@
 				item: "candlelight:mushroom_soup"
 				type: "item"
 			}]
-			x: 19.0d
+			x: 20.5d
 			y: 0.0d
 		}
 		{
@@ -1764,7 +1764,7 @@
 				item: "candlelight:pasta"
 				type: "item"
 			}]
-			x: 19.0d
+			x: 20.5d
 			y: 1.0d
 		}
 		{
@@ -1780,7 +1780,7 @@
 				item: "candlelight:chicken_teriyaki"
 				type: "item"
 			}]
-			x: 19.0d
+			x: 20.5d
 			y: 2.0d
 		}
 		{
@@ -1796,7 +1796,7 @@
 				item: "candlelight:chocolate"
 				type: "item"
 			}]
-			x: 19.5d
+			x: 21.0d
 			y: 3.0d
 		}
 		{
@@ -1812,7 +1812,7 @@
 				item: "candlelight:lasagne"
 				type: "item"
 			}]
-			x: 20.0d
+			x: 21.5d
 			y: -1.0d
 		}
 		{
@@ -1828,7 +1828,7 @@
 				item: "candlelight:chicken"
 				type: "item"
 			}]
-			x: 20.0d
+			x: 21.5d
 			y: 0.0d
 		}
 		{
@@ -1844,7 +1844,7 @@
 				item: "candlelight:pork_ribs"
 				type: "item"
 			}]
-			x: 20.0d
+			x: 21.5d
 			y: 1.0d
 		}
 		{
@@ -1860,7 +1860,7 @@
 				item: "candlelight:salmon_wine"
 				type: "item"
 			}]
-			x: 20.0d
+			x: 21.5d
 			y: 2.0d
 		}
 		{
@@ -1888,7 +1888,723 @@
 				type: "item"
 			}]
 			title: "Cooking Pot Recipes Completion"
-			x: 19.5d
+			x: 21.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["48C7E0AF4C9A3C3E"]
+			id: "2C79F76050BE12B3"
+			rewards: [{
+				id: "631B4E4AEAC9C36E"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2D974E81EA9884C9"
+				item: "candlelight:pancake"
+				type: "item"
+			}]
+			x: 23.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["48C7E0AF4C9A3C3E"]
+			id: "57EEA22032D2ECDE"
+			rewards: [{
+				id: "5582F95FC9442823"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "71F9A1A5D2A5F7D9"
+				item: "candlelight:fricasse"
+				type: "item"
+			}]
+			x: 23.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["48C7E0AF4C9A3C3E"]
+			id: "363C12A34FA2A827"
+			rewards: [{
+				id: "05BB04EDC4C3AA8B"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5CA95158E5911C6D"
+				item: "candlelight:roastbeef_carrots"
+				type: "item"
+			}]
+			x: 23.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["48C7E0AF4C9A3C3E"]
+			id: "780D2EBE592A33AF"
+			rewards: [{
+				id: "568A524901F6AB02"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "26FF8CDAD51ACEEC"
+				item: "candlelight:beef_wellington"
+				type: "item"
+			}]
+			x: 23.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["48C7E0AF4C9A3C3E"]
+			id: "02546AA94DA96AC7"
+			rewards: [{
+				id: "3737FA6BFD5755BB"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0EA7D0CDF6CF86A9"
+				item: "candlelight:pizza"
+				type: "item"
+			}]
+			x: 23.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["48C7E0AF4C9A3C3E"]
+			id: "3BF44EC37DD17751"
+			rewards: [{
+				id: "62F3EC000BBC3302"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2926C9B7A7124FE9"
+				item: "candlelight:cooked_beef"
+				type: "item"
+			}]
+			x: 23.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["48C7E0AF4C9A3C3E"]
+			id: "54A879BF20233A85"
+			rewards: [{
+				id: "669F6D3E96551E49"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "36456684C39C5646"
+				item: "candlelight:bolognese"
+				type: "item"
+			}]
+			x: 24.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["48C7E0AF4C9A3C3E"]
+			id: "5365C1E3AFE9EDBD"
+			rewards: [{
+				id: "1BD0235FF400E7ED"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "13F67CFDEAD95806"
+				item: "candlelight:chicken_alfredo"
+				type: "item"
+			}]
+			x: 24.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["48C7E0AF4C9A3C3E"]
+			id: "4343917600B3B4EB"
+			rewards: [{
+				id: "6947D38CFBAE7A75"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0FBDCDBD1F496CA2"
+				item: "candlelight:broccoli_beef"
+				type: "item"
+			}]
+			x: 24.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["48C7E0AF4C9A3C3E"]
+			id: "497065214D97C800"
+			rewards: [{
+				id: "05468DFFC15BD50C"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4522C10C55F3837B"
+				item: "candlelight:pasta_bolognese"
+				type: "item"
+			}]
+			x: 24.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["48C7E0AF4C9A3C3E"]
+			id: "65E2079D254B9DC8"
+			rewards: [{
+				id: "48B7B0541FF453E9"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "155F058D8ADA6E1F"
+				item: "candlelight:pasta_broccoli"
+				type: "item"
+			}]
+			x: 24.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"54A879BF20233A85"
+				"5365C1E3AFE9EDBD"
+				"57EEA22032D2ECDE"
+				"02546AA94DA96AC7"
+				"2C79F76050BE12B3"
+				"497065214D97C800"
+				"780D2EBE592A33AF"
+				"3BF44EC37DD17751"
+				"363C12A34FA2A827"
+				"65E2079D254B9DC8"
+				"4343917600B3B4EB"
+			]
+			icon: "candlelight:cooking_pan"
+			id: "4CDC2BE683F42737"
+			rewards: [
+				{
+					count: 33
+					id: "3F585495C8F6E416"
+					item: "kubejs:miles_ticket"
+					type: "item"
+				}
+				{
+					id: "30A963AFE5E0CD2D"
+					item: {
+						Count: 1b
+						id: "candlelight:cooking_hat"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7EDDD17FA9C6E6E3"
+					item: {
+						Count: 1b
+						id: "candlelight:chefs_jacket"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "639447EC4032156E"
+					item: {
+						Count: 1b
+						id: "candlelight:chefs_pants"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0F04745057363702"
+					item: {
+						Count: 1b
+						id: "candlelight:chefs_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3AA77901DC44FDA9"
+				type: "item"
+			}]
+			title: "Cooking Pan Recipes Completion"
+			x: 23.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["57889789985B323E"]
+			id: "0EB57E58F62E4875"
+			tasks: [{
+				id: "135DE03795C4B35F"
+				item: "candlelight:tomato_mozzarella_salad"
+				type: "item"
+			}]
+			x: 19.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["57889789985B323E"]
+			id: "5B7E31FD92662F5B"
+			tasks: [{
+				id: "212AE80150E178CB"
+				item: "candlelight:veggie_plate"
+				type: "item"
+			}]
+			x: 19.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["57889789985B323E"]
+			id: "45FAAAC3AB5E9B84"
+			tasks: [{
+				id: "39C747D880BEA18B"
+				item: "candlelight:broccoli_tomato"
+				type: "item"
+			}]
+			x: 19.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["57889789985B323E"]
+			id: "25E333F978AAAE60"
+			tasks: [{
+				id: "785E17F846FC7048"
+				item: "candlelight:broccoli_salad"
+				type: "item"
+			}]
+			x: 19.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["57889789985B323E"]
+			id: "1BF2447701DB48BC"
+			tasks: [{
+				id: "3C41B30492D100D4"
+				item: "candlelight:beef_tartare"
+				type: "item"
+			}]
+			x: 19.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["57889789985B323E"]
+			id: "104D7AFABADA64AC"
+			tasks: [{
+				id: "68CCD37E86F92599"
+				item: "candlelight:beetroot_salad"
+				type: "item"
+			}]
+			x: 19.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"25E333F978AAAE60"
+				"104D7AFABADA64AC"
+				"1BF2447701DB48BC"
+				"45FAAAC3AB5E9B84"
+				"0EB57E58F62E4875"
+				"5B7E31FD92662F5B"
+			]
+			icon: "minecraft:crafting_table"
+			id: "2C43A703C2765354"
+			rewards: [{
+				count: 12
+				id: "044F32D2DC8517E1"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "15C614A64D086463"
+				type: "item"
+			}]
+			title: "Regular Crafting Recipes Completion"
+			x: 19.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["56C6F1D87FA09C24"]
+			id: "5631B45EC70A3FAC"
+			rewards: [{
+				id: "750EEC5E0DCF5C3E"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6790E963A1A91FD5"
+				item: "beachparty:sweetberry_icecream"
+				type: "item"
+			}]
+			x: 25.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["56C6F1D87FA09C24"]
+			id: "24C8221E67CF01C0"
+			rewards: [{
+				id: "25AB6858CE7AC8DE"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "40048DA877AC6E45"
+				item: "beachparty:coconut_icecream"
+				type: "item"
+			}]
+			x: 25.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["56C6F1D87FA09C24"]
+			id: "4DC070D9D8168117"
+			rewards: [{
+				id: "7D36C7B6C902CED4"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2687D3CF678C9E45"
+				item: "beachparty:chocolate_icecream"
+				type: "item"
+			}]
+			x: 25.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["56C6F1D87FA09C24"]
+			id: "02FB0586865762B9"
+			rewards: [{
+				id: "3F912BA50181E57C"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6FDC26AADA8ED8CA"
+				item: "beachparty:icecream_chocolate"
+				type: "item"
+			}]
+			x: 25.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["56C6F1D87FA09C24"]
+			id: "2DB2A8F9EDEA5455"
+			rewards: [{
+				id: "37167544E2141F6D"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "41A4A541E39FE1E8"
+				item: "beachparty:icecream_coconut"
+				type: "item"
+			}]
+			x: 26.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["56C6F1D87FA09C24"]
+			id: "2F57B0A7A3C2095A"
+			rewards: [{
+				id: "272A85F403074CA5"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4952806E368556D5"
+				item: "beachparty:icecream_cactus"
+				type: "item"
+			}]
+			x: 26.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["56C6F1D87FA09C24"]
+			id: "0A1A0981AEE47F2D"
+			rewards: [{
+				id: "22881DE4AA60487D"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "002075FCC4DF3719"
+				item: "beachparty:icecream_melon"
+				type: "item"
+			}]
+			x: 26.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["56C6F1D87FA09C24"]
+			id: "58E3410CF08989B4"
+			rewards: [{
+				id: "1AD268512A2A765C"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0CA81C3BCED67405"
+				item: "beachparty:icecream_sweetberries"
+				type: "item"
+			}]
+			x: 26.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"0A1A0981AEE47F2D"
+				"58E3410CF08989B4"
+				"02FB0586865762B9"
+				"2DB2A8F9EDEA5455"
+				"2F57B0A7A3C2095A"
+				"4DC070D9D8168117"
+				"5631B45EC70A3FAC"
+				"24C8221E67CF01C0"
+			]
+			icon: "beachparty:mini_fridge"
+			id: "5CED5BE04A4E5E52"
+			rewards: [{
+				count: 16
+				id: "227DA8B8E95F31C7"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2332A612C4003E14"
+				type: "item"
+			}]
+			title: "Mini Fridge Recipes Completion"
+			x: 26.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2D0063702FDE9B52"]
+			id: "31F62AD3C002B2E9"
+			rewards: [{
+				id: "47525F546640C27D"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "02E8580D00F3A261"
+				item: "beachparty:chocolate_milkshake"
+				type: "item"
+			}]
+			x: 28.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2D0063702FDE9B52"]
+			id: "0E3AFD19B50E2B2B"
+			rewards: [{
+				id: "282A786649810BA6"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6B9C33C35C595885"
+				item: "beachparty:coconut_milkshake"
+				type: "item"
+			}]
+			x: 28.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2D0063702FDE9B52"]
+			id: "4D8D762756063401"
+			rewards: [{
+				id: "1AC58375C6768454"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "159D8121F86B84D6"
+				item: "beachparty:sweetberry_milkshake"
+				type: "item"
+			}]
+			x: 28.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["2D0063702FDE9B52"]
+			id: "12A34203C264C09B"
+			rewards: [{
+				id: "0ADF47727354B54B"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2E389EE0C297DFA1"
+				item: "beachparty:honey_cocktail"
+				type: "item"
+			}]
+			x: 28.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2D0063702FDE9B52"]
+			id: "7887A51AC41CCBDD"
+			rewards: [{
+				id: "5E026C541C62952D"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "27673811C6E80DD9"
+				item: "beachparty:melon_cocktail"
+				type: "item"
+			}]
+			x: 28.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2D0063702FDE9B52"]
+			id: "304820216BC161AB"
+			rewards: [{
+				id: "07D6D57E3B063BA5"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3279647A0D35CFB4"
+				item: "beachparty:pumpkin_cocktail"
+				type: "item"
+			}]
+			x: 29.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2D0063702FDE9B52"]
+			id: "3A41E2C7A6B95D28"
+			rewards: [{
+				id: "60676EA99E4EF3EF"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "462EDA8C5051ED1A"
+				item: "beachparty:cocoa_cocktail"
+				type: "item"
+			}]
+			x: 29.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2D0063702FDE9B52"]
+			id: "0DF4E7173E95E42F"
+			rewards: [{
+				id: "7FA29FDC6032B534"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "486913061845658A"
+				item: "beachparty:sweetberries_cocktail"
+				type: "item"
+			}]
+			x: 29.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["2D0063702FDE9B52"]
+			id: "530D390E2F102182"
+			rewards: [{
+				id: "4BDDD90F984E075B"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "508019DAD8F4D7C7"
+				item: "beachparty:coconut_cocktail"
+				type: "item"
+			}]
+			x: 29.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"530D390E2F102182"
+				"304820216BC161AB"
+				"0E3AFD19B50E2B2B"
+				"3A41E2C7A6B95D28"
+				"0DF4E7173E95E42F"
+				"7887A51AC41CCBDD"
+				"4D8D762756063401"
+				"31F62AD3C002B2E9"
+				"12A34203C264C09B"
+			]
+			icon: "beachparty:tiki_bar"
+			id: "253361C5673BC183"
+			rewards: [
+				{
+					count: 18
+					id: "1F15F82F0426DD32"
+					item: "kubejs:miles_ticket"
+					type: "item"
+				}
+				{
+					id: "67BE325FE695D4DC"
+					item: {
+						Count: 1b
+						id: "beachparty:beach_hat"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6E275D756F82B0ED"
+					item: {
+						Count: 1b
+						id: "beachparty:swim_wings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7229007807EC4538"
+					item: {
+						Count: 1b
+						id: "beachparty:trunks"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5385F895B1627DAF"
+					item: {
+						Count: 1b
+						id: "beachparty:crocs"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3AEE3E4C709EAD29"
+				type: "item"
+			}]
+			title: "Tiki Bar Recipes Completion"
+			x: 28.5d
 			y: -2.0d
 		}
 	]

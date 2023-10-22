@@ -238,6 +238,57 @@
 			x: 1.5d
 			y: -1.5d
 		}
+		{
+			dependencies: ["48C7E0AF4C9A3C3E"]
+			id: "56C6F1D87FA09C24"
+			rewards: [
+				{
+					id: "054EAA79164DFA6B"
+					item: "beachparty:mini_fridge"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "44BFC6BBF6768C86"
+					item: "beachparty:palm_sapling"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "65F6A37A21F9D8A9"
+				item: "candlelight:pizza"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["56C6F1D87FA09C24"]
+			id: "2D0063702FDE9B52"
+			rewards: [{
+				id: "6EAADEDCC13004B0"
+				item: "beachparty:tiki_bar"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7121AFF9C5B7FE5D"
+				item: "beachparty:icecream_coconut"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["2D0063702FDE9B52"]
+			id: "19DDD6BE0B345083"
+			tasks: [{
+				id: "29A7F283F3D55A42"
+				item: "beachparty:coconut_cocktail"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
 	]
 	title: "Chef in Training"
 }
