@@ -12,12 +12,12 @@
 			dependencies: ["57BAA8B414FF1F4F"]
 			id: "6EF22AC33B4F8CB3"
 			rewards: [{
+				auto: "enabled"
 				id: "0B242BE906043A5D"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "48453900008587EC"
 				item: "bakery:croissant"
 				type: "item"
@@ -29,12 +29,12 @@
 			dependencies: ["57BAA8B414FF1F4F"]
 			id: "6D26D42BE37F844D"
 			rewards: [{
+				auto: "enabled"
 				id: "06D7668A1104E825"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "678565E5DB5D6925"
 				item: "bakery:crusty_bread"
 				type: "item"
@@ -46,12 +46,12 @@
 			dependencies: ["57BAA8B414FF1F4F"]
 			id: "5F04C7419ED8096B"
 			rewards: [{
+				auto: "enabled"
 				id: "7D06E19017F19922"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "2D5E37C5E393631B"
 				item: "bakery:bread"
 				type: "item"
@@ -63,12 +63,12 @@
 			dependencies: ["57BAA8B414FF1F4F"]
 			id: "3D32EB221432B581"
 			rewards: [{
+				auto: "enabled"
 				id: "784240DC5164FA04"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "190C8202E21EB04A"
 				item: "bakery:baguette"
 				type: "item"
@@ -80,12 +80,12 @@
 			dependencies: ["57BAA8B414FF1F4F"]
 			id: "0D2F4B4BD794FD92"
 			rewards: [{
+				auto: "enabled"
 				id: "442D62F1B84ADAD1"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "523FEF9C05CA400C"
 				item: "bakery:toast"
 				type: "item"
@@ -97,12 +97,12 @@
 			dependencies: ["57BAA8B414FF1F4F"]
 			id: "4CB92665F2121732"
 			rewards: [{
+				auto: "enabled"
 				id: "53EF3A6DE01A7DBE"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "52991951E00F5809"
 				item: "bakery:braided_bread"
 				type: "item"
@@ -114,12 +114,12 @@
 			dependencies: ["57BAA8B414FF1F4F"]
 			id: "038D2C1CF1F5538F"
 			rewards: [{
+				auto: "enabled"
 				id: "0E50EFF23549F4DF"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "2656323CF9158452"
 				item: "bakery:bun"
 				type: "item"
@@ -131,12 +131,12 @@
 			dependencies: ["57BAA8B414FF1F4F"]
 			id: "2F0C9CF6CE06112F"
 			rewards: [{
+				auto: "enabled"
 				id: "35A2EFCD90D4DE00"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "78E4FBCCA630143C"
 				item: "bakery:vegetable_sandwich"
 				type: "item"
@@ -148,12 +148,12 @@
 			dependencies: ["57BAA8B414FF1F4F"]
 			id: "412B56D3034D5859"
 			rewards: [{
+				auto: "enabled"
 				id: "6F8B3D24C17104DE"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "60A36C57CDC415B2"
 				item: "bakery:sandwich"
 				type: "item"
@@ -165,12 +165,12 @@
 			dependencies: ["57BAA8B414FF1F4F"]
 			id: "1BEF0646DA6B24A6"
 			rewards: [{
+				auto: "enabled"
 				id: "5E4E1170A73A6C34"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "04BD249D1CEBC886"
 				item: "bakery:bread_crate"
 				type: "item"
@@ -217,12 +217,12 @@
 			dependencies: ["57BAA8B414FF1F4F"]
 			id: "5ADEC65A7C0C5063"
 			rewards: [{
+				auto: "enabled"
 				id: "0E0203999A04F2F9"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "05E05F73F3B8C59A"
 				item: "bakery:linzer_tart"
 				type: "item"
@@ -234,12 +234,12 @@
 			dependencies: ["57BAA8B414FF1F4F"]
 			id: "4C62746A531C5122"
 			rewards: [{
+				auto: "enabled"
 				id: "4BB06221403FD9F7"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "1E3E489C0F727A4D"
 				item: "bakery:apple_pie"
 				type: "item"
@@ -251,12 +251,12 @@
 			dependencies: ["57BAA8B414FF1F4F"]
 			id: "4E63C512C8B257F3"
 			rewards: [{
+				auto: "enabled"
 				id: "2D512E202B3D474D"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "6576A9A94B501828"
 				item: "bakery:glowberry_tart"
 				type: "item"
@@ -268,12 +268,12 @@
 			dependencies: ["57BAA8B414FF1F4F"]
 			id: "45407544C413300B"
 			rewards: [{
+				auto: "enabled"
 				id: "6790C441C7CB6FA8"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "05A97EC2C3237095"
 				item: "bakery:chocolate_tart"
 				type: "item"
@@ -285,12 +285,12 @@
 			dependencies: ["57BAA8B414FF1F4F"]
 			id: "4D1E12F8392A91ED"
 			rewards: [{
+				auto: "enabled"
 				id: "4CEF179764A596AC"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "6FE431F09DAF0886"
 				item: "bakery:bundt_cake"
 				type: "item"
@@ -302,12 +302,12 @@
 			dependencies: ["57BAA8B414FF1F4F"]
 			id: "50C0E676269B8A95"
 			rewards: [{
+				auto: "enabled"
 				id: "58A0CD22513ABA12"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "39A8213A626F5D9C"
 				item: "bakery:waffle"
 				type: "item"
@@ -319,12 +319,12 @@
 			dependencies: ["13B67DDBCF1019AB"]
 			id: "59271559596EF79B"
 			rewards: [{
+				auto: "enabled"
 				id: "3A26BBC216CBA882"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "228BED4334A2139E"
 				item: "bakery:strawberry_jam"
 				type: "item"
@@ -336,12 +336,12 @@
 			dependencies: ["13B67DDBCF1019AB"]
 			id: "1909FF9F6E6FDDF7"
 			rewards: [{
+				auto: "enabled"
 				id: "3E9EC20FF5C7B008"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "68D89790DFC1DAE9"
 				item: "bakery:sweetberry_jam"
 				type: "item"
@@ -353,12 +353,12 @@
 			dependencies: ["13B67DDBCF1019AB"]
 			id: "383F3884F961C075"
 			rewards: [{
+				auto: "enabled"
 				id: "0C0C586F92041FDE"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "6065CE1F0C1DCF28"
 				item: "bakery:glowberry_jam"
 				type: "item"
@@ -370,12 +370,12 @@
 			dependencies: ["13B67DDBCF1019AB"]
 			id: "160DC0AF49FFCBAA"
 			rewards: [{
+				auto: "enabled"
 				id: "65BD22E739802B3A"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "392F3782720ACC70"
 				item: "bakery:apple_jam"
 				type: "item"
@@ -387,12 +387,12 @@
 			dependencies: ["13B67DDBCF1019AB"]
 			id: "41810EB5D9E58B3D"
 			rewards: [{
+				auto: "enabled"
 				id: "3E8EDA092A7A4C77"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "1024433376FEAFA4"
 				item: "bakery:chocolate_jam"
 				type: "item"
@@ -404,12 +404,12 @@
 			dependencies: ["13B67DDBCF1019AB"]
 			id: "6D8CFACE00226E00"
 			rewards: [{
+				auto: "enabled"
 				id: "5AFB062567DC93B6"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "72256201D07C1964"
 				item: "bakery:chocolate_truffle"
 				type: "item"
@@ -421,12 +421,12 @@
 			dependencies: ["13B67DDBCF1019AB"]
 			id: "6ED2C4ECAECA201E"
 			rewards: [{
+				auto: "enabled"
 				id: "3BA69CCC4F34AEB7"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "174AC02B287D9512"
 				item: "bakery:pudding"
 				type: "item"
@@ -465,12 +465,12 @@
 			dependencies: ["13B67DDBCF1019AB"]
 			id: "72EA49B5A728C70F"
 			rewards: [{
+				auto: "enabled"
 				id: "16379CF96C1ACFCB"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "20536B9FC41DA5A6"
 				item: "bakery:jam_roll"
 				type: "item"
@@ -482,12 +482,12 @@
 			dependencies: ["5E93B9E15372F454"]
 			id: "5F6A62C50E65F788"
 			rewards: [{
+				auto: "enabled"
 				id: "3B7FBEBA32D03799"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "2283F5701405E860"
 				item: "bakery:strawberry_glazed_cookie"
 				type: "item"
@@ -499,12 +499,12 @@
 			dependencies: ["5E93B9E15372F454"]
 			id: "5F4A14AC398665A6"
 			rewards: [{
+				auto: "enabled"
 				id: "5F6A628D83EAEE30"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "79F35D8AE9889430"
 				item: "bakery:sweetberry_glazed_cookie"
 				type: "item"
@@ -516,12 +516,12 @@
 			dependencies: ["5E93B9E15372F454"]
 			id: "5182746F9669B51F"
 			rewards: [{
+				auto: "enabled"
 				id: "44FED46E955C9800"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "2A435D82E2B8B61D"
 				item: "bakery:chocolate_glazed_cookie"
 				type: "item"
@@ -533,12 +533,12 @@
 			dependencies: ["5E93B9E15372F454"]
 			id: "1EF957C82621629F"
 			rewards: [{
+				auto: "enabled"
 				id: "29D26986266C44CE"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "586CCA4578AC5716"
 				item: "bakery:strawberry_cupcake"
 				type: "item"
@@ -550,12 +550,12 @@
 			dependencies: ["5E93B9E15372F454"]
 			id: "762F745D0D062226"
 			rewards: [{
+				auto: "enabled"
 				id: "6A0E58A1FDC3C41C"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "47AB4710B3A4DD1B"
 				item: "bakery:sweetberry_cupcake"
 				type: "item"
@@ -567,12 +567,12 @@
 			dependencies: ["5E93B9E15372F454"]
 			id: "42FC64AB84D57C0E"
 			rewards: [{
+				auto: "enabled"
 				id: "3446C54B70168DBC"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "0B726D8E8F998D3D"
 				item: "bakery:apple_cupcake"
 				type: "item"
@@ -584,12 +584,12 @@
 			dependencies: ["5E93B9E15372F454"]
 			id: "54CCF04016BC1198"
 			rewards: [{
+				auto: "enabled"
 				id: "48F5C2CE6F3BEE2E"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "7EDF92FDC5BC76DE"
 				item: "bakery:strawberry_cake"
 				type: "item"
@@ -601,12 +601,12 @@
 			dependencies: ["5E93B9E15372F454"]
 			id: "701D756D567DC7AC"
 			rewards: [{
+				auto: "enabled"
 				id: "1F321B9ACE4BCD6F"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "2ED11FAC8916C1CE"
 				item: "bakery:sweetberry_cake"
 				type: "item"
@@ -618,12 +618,12 @@
 			dependencies: ["5E93B9E15372F454"]
 			id: "230E192BFBE34E63"
 			rewards: [{
+				auto: "enabled"
 				id: "377E6FC3116C1408"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "52BD8520494EBCD1"
 				item: "bakery:chocolate_cake"
 				type: "item"
@@ -663,12 +663,12 @@
 			dependencies: ["45CAACDFDC15E734"]
 			id: "609F0352BB4889C5"
 			rewards: [{
+				auto: "enabled"
 				id: "6859F87557796247"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "67CEB77D7F4B8C14"
 				item: "vinery:red_grapejuice_wine_bottle"
 				type: "item"
@@ -680,12 +680,12 @@
 			dependencies: ["45CAACDFDC15E734"]
 			id: "496D0A429EBADAF6"
 			rewards: [{
+				auto: "enabled"
 				id: "6DD073C6F4D9473F"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "20DDB6DDACD5DADE"
 				item: "vinery:white_grapejuice_wine_bottle"
 				type: "item"
@@ -697,12 +697,12 @@
 			dependencies: ["45CAACDFDC15E734"]
 			id: "403A3B5469B40843"
 			rewards: [{
+				auto: "enabled"
 				id: "7EF09D6B7AA6E2B3"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "1CFF6864EDFE65AE"
 				item: "vinery:taiga_red_grapejuice_bottle"
 				type: "item"
@@ -714,12 +714,12 @@
 			dependencies: ["45CAACDFDC15E734"]
 			id: "0187FF7593539454"
 			rewards: [{
+				auto: "enabled"
 				id: "0B90908C23CD7871"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "269184BAF79B5FA0"
 				item: "vinery:taiga_white_grapejuice_bottle"
 				type: "item"
@@ -731,12 +731,12 @@
 			dependencies: ["45CAACDFDC15E734"]
 			id: "69699353A6A26647"
 			rewards: [{
+				auto: "enabled"
 				id: "59B918985CE0AA82"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "326B62E852406867"
 				item: "vinery:jungle_red_grapejuice_bottle"
 				type: "item"
@@ -748,12 +748,12 @@
 			dependencies: ["45CAACDFDC15E734"]
 			id: "11C65D59C2553F3C"
 			rewards: [{
+				auto: "enabled"
 				id: "3606968FED559F3E"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "251AEA2CCBF96752"
 				item: "vinery:jungle_white_grapejuice_bottle"
 				type: "item"
@@ -765,12 +765,12 @@
 			dependencies: ["45CAACDFDC15E734"]
 			id: "6A0D708CAFB62BCA"
 			rewards: [{
+				auto: "enabled"
 				id: "0D00208CC0BBB90C"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "019AA542CFA8FFB7"
 				item: "vinery:savanna_red_grapejuice_bottle"
 				type: "item"
@@ -782,12 +782,12 @@
 			dependencies: ["45CAACDFDC15E734"]
 			id: "7F438B14366D0C5F"
 			rewards: [{
+				auto: "enabled"
 				id: "41ABD1AB5459A62E"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "4655B05C4781598F"
 				item: "vinery:savanna_white_grapejuice_bottle"
 				type: "item"
@@ -826,12 +826,12 @@
 			dependencies: ["45CAACDFDC15E734"]
 			id: "3AD7742AD6B35D7D"
 			rewards: [{
+				auto: "enabled"
 				id: "145752C8683C0A9B"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "1D97BB8A7EF59750"
 				item: "vinery:apple_juice"
 				type: "item"
@@ -843,12 +843,12 @@
 			dependencies: ["45CAACDFDC15E734"]
 			id: "072BF31F8378CC3F"
 			rewards: [{
+				auto: "enabled"
 				id: "4512C27BC6965A14"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "66640A01E5BDC2CE"
 				item: {
 					Count: 1b
@@ -866,12 +866,12 @@
 			dependencies: ["45CAACDFDC15E734"]
 			id: "54E53E2FC19EA68F"
 			rewards: [{
+				auto: "enabled"
 				id: "20E573200EAF985F"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "2B13F7B7D4C63E5D"
 				item: {
 					Count: 1b
@@ -889,12 +889,12 @@
 			dependencies: ["45CAACDFDC15E734"]
 			id: "0F88ED12F7777BE8"
 			rewards: [{
+				auto: "enabled"
 				id: "1250789A40738DD1"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "22883AAF8450DBAF"
 				item: {
 					Count: 1b
@@ -912,12 +912,12 @@
 			dependencies: ["45CAACDFDC15E734"]
 			id: "372D290A3848B02D"
 			rewards: [{
+				auto: "enabled"
 				id: "324678379989BC85"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "09116C0D29B2349F"
 				item: {
 					Count: 1b
@@ -935,12 +935,12 @@
 			dependencies: ["45CAACDFDC15E734"]
 			id: "0BA4596C66C6168B"
 			rewards: [{
+				auto: "enabled"
 				id: "6E68F69088B2CDF3"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "2F5EE443C9D6A275"
 				item: {
 					Count: 1b
@@ -958,12 +958,12 @@
 			dependencies: ["45CAACDFDC15E734"]
 			id: "294E90B9506D7F2D"
 			rewards: [{
+				auto: "enabled"
 				id: "1CF024B5DC229904"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "31DA036D56311BAF"
 				item: {
 					Count: 1b
@@ -981,12 +981,12 @@
 			dependencies: ["45CAACDFDC15E734"]
 			id: "2B68C641669F6BDE"
 			rewards: [{
+				auto: "enabled"
 				id: "191FBCED68260279"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "7F3169EFA4254ECA"
 				item: {
 					Count: 1b
@@ -1004,12 +1004,12 @@
 			dependencies: ["45CAACDFDC15E734"]
 			id: "655AFA6EEB68190D"
 			rewards: [{
+				auto: "enabled"
 				id: "7F5EDBA57E330E0D"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "2A05520DD8F30F4E"
 				item: {
 					Count: 1b
@@ -1027,12 +1027,12 @@
 			dependencies: ["45CAACDFDC15E734"]
 			id: "79AB687C2F5BF98F"
 			rewards: [{
+				auto: "enabled"
 				id: "3056268BFBF32B88"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "5B905973BF292F59"
 				item: {
 					Count: 1b
@@ -1050,12 +1050,12 @@
 			dependencies: ["45CAACDFDC15E734"]
 			id: "7C5C14475709AD8C"
 			rewards: [{
+				auto: "enabled"
 				id: "07891647B5A7B68F"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "70EEA9E0C3C6DC4C"
 				item: {
 					Count: 1b
@@ -1073,12 +1073,12 @@
 			dependencies: ["45CAACDFDC15E734"]
 			id: "1FA315D0D8319E60"
 			rewards: [{
+				auto: "enabled"
 				id: "6159AD487860C468"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "465B25B1B23EF188"
 				item: {
 					Count: 1b
@@ -1096,12 +1096,12 @@
 			dependencies: ["45CAACDFDC15E734"]
 			id: "34401A01579B08B8"
 			rewards: [{
+				auto: "enabled"
 				id: "20877AB1D772472A"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "63CF69EEC5DD69FA"
 				item: {
 					Count: 1b
@@ -1119,12 +1119,12 @@
 			dependencies: ["45CAACDFDC15E734"]
 			id: "2CD295002CAB4E8F"
 			rewards: [{
+				auto: "enabled"
 				id: "3910BBB55C36293C"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "15B34C7A11B8631E"
 				item: {
 					Count: 1b
@@ -1142,12 +1142,12 @@
 			dependencies: ["45CAACDFDC15E734"]
 			id: "3F370A0E427E0B57"
 			rewards: [{
+				auto: "enabled"
 				id: "1F2FAB094A7F180F"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "123BB9774EE6A41E"
 				item: {
 					Count: 1b
@@ -1165,12 +1165,12 @@
 			dependencies: ["45CAACDFDC15E734"]
 			id: "210BD7CC87B7547C"
 			rewards: [{
+				auto: "enabled"
 				id: "29E1F57E8B5127EE"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "08F2347BD19417E6"
 				item: {
 					Count: 1b
@@ -1188,12 +1188,12 @@
 			dependencies: ["45CAACDFDC15E734"]
 			id: "2FB11F7F8CCFB57F"
 			rewards: [{
+				auto: "enabled"
 				id: "448B5A35CB888DF3"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "3B52EB6CDF344ED3"
 				item: {
 					Count: 1b
@@ -1211,12 +1211,12 @@
 			dependencies: ["45CAACDFDC15E734"]
 			id: "305BD3A6BEF27E0F"
 			rewards: [{
+				auto: "enabled"
 				id: "5584449D8844648C"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "23A83F4BDF9C10AA"
 				item: {
 					Count: 1b
@@ -1234,12 +1234,12 @@
 			dependencies: ["45CAACDFDC15E734"]
 			id: "03B5E3A97A89C878"
 			rewards: [{
+				auto: "enabled"
 				id: "15D8448784FA7E44"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "0107009D6364B6D9"
 				item: {
 					Count: 1b
@@ -1257,12 +1257,12 @@
 			dependencies: ["45CAACDFDC15E734"]
 			id: "49212F592DB347B1"
 			rewards: [{
+				auto: "enabled"
 				id: "2F7444A74EB3A9F2"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "2499660976EDA600"
 				item: {
 					Count: 1b
@@ -1280,12 +1280,12 @@
 			dependencies: ["45CAACDFDC15E734"]
 			id: "1B9BEF93CF756F8A"
 			rewards: [{
+				auto: "enabled"
 				id: "1EE38F5BACDC8F92"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "35EB89379B055880"
 				item: {
 					Count: 1b
@@ -1303,12 +1303,12 @@
 			dependencies: ["45CAACDFDC15E734"]
 			id: "633BA2E04E371752"
 			rewards: [{
+				auto: "enabled"
 				id: "3BF63B284FF50D64"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "4326B088618239C7"
 				item: {
 					Count: 1b
@@ -1326,12 +1326,12 @@
 			dependencies: ["45CAACDFDC15E734"]
 			id: "67E7470BD114C886"
 			rewards: [{
+				auto: "enabled"
 				id: "663CE7FABE212CA5"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "1458C4EB185F05A2"
 				item: {
 					Count: 1b
@@ -1349,12 +1349,12 @@
 			dependencies: ["45CAACDFDC15E734"]
 			id: "1205C30E8990B536"
 			rewards: [{
+				auto: "enabled"
 				id: "1B80733788BCB232"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "15DC918802798CAF"
 				item: {
 					Count: 1b
@@ -1372,12 +1372,12 @@
 			dependencies: ["45CAACDFDC15E734"]
 			id: "69D8AFFE51158A90"
 			rewards: [{
+				auto: "enabled"
 				id: "465174A544FC1FC3"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "10DE65B73A0BE569"
 				item: {
 					Count: 1b
@@ -1395,12 +1395,12 @@
 			dependencies: ["45CAACDFDC15E734"]
 			id: "34CEFADA595D005A"
 			rewards: [{
+				auto: "enabled"
 				id: "6A57C4C98187E94F"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "1F5DBE8918FFAC50"
 				item: {
 					Count: 1b
@@ -1418,12 +1418,12 @@
 			dependencies: ["45CAACDFDC15E734"]
 			id: "78FCCC042BDE6E61"
 			rewards: [{
+				auto: "enabled"
 				id: "28B2DD0A0D825DDF"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "7C9FFB5A6FA02BA5"
 				item: {
 					Count: 1b
@@ -1441,12 +1441,12 @@
 			dependencies: ["45CAACDFDC15E734"]
 			id: "09947FF7AAD7C7CE"
 			rewards: [{
+				auto: "enabled"
 				id: "092B9B968DA0F03C"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "135601A9159B8E71"
 				item: {
 					Count: 1b
@@ -1557,12 +1557,12 @@
 			dependencies: ["65B28F78A7DDBD06"]
 			id: "4C2E374761B534C3"
 			rewards: [{
+				auto: "enabled"
 				id: "561D2305B538EB00"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "30961111C680877E"
 				item: "meadow:cheese_block"
 				type: "item"
@@ -1574,12 +1574,12 @@
 			dependencies: ["65B28F78A7DDBD06"]
 			id: "207D8448AA944DF0"
 			rewards: [{
+				auto: "enabled"
 				id: "0878BD4F5657A551"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "779102189E387EB5"
 				item: "meadow:sheep_cheese_block"
 				type: "item"
@@ -1591,12 +1591,12 @@
 			dependencies: ["65B28F78A7DDBD06"]
 			id: "55A3AA4831838D3F"
 			rewards: [{
+				auto: "enabled"
 				id: "18E49B3757B4CD45"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "47CEBFFC0E3EDCAB"
 				item: "meadow:grain_cheese_block"
 				type: "item"
@@ -1608,12 +1608,12 @@
 			dependencies: ["65B28F78A7DDBD06"]
 			id: "527ECF838CD2DC06"
 			rewards: [{
+				auto: "enabled"
 				id: "2859C4A92CA86B5E"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "0C15C6B1ABDE5BB0"
 				item: "meadow:amethyst_cheese_block"
 				type: "item"
@@ -1625,12 +1625,12 @@
 			dependencies: ["65B28F78A7DDBD06"]
 			id: "644E99B3892F83D6"
 			rewards: [{
+				auto: "enabled"
 				id: "58A53C1F464F0AD6"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "3650C8585BA9A058"
 				item: "meadow:buffalo_cheese_block"
 				type: "item"
@@ -1642,12 +1642,12 @@
 			dependencies: ["65B28F78A7DDBD06"]
 			id: "51ED06022216CE0B"
 			rewards: [{
+				auto: "enabled"
 				id: "46BB4F5B8695707F"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "50AAEFDAE3AD134F"
 				item: "meadow:goat_cheese_block"
 				type: "item"
@@ -1734,12 +1734,12 @@
 			dependencies: ["65B28F78A7DDBD06"]
 			id: "5BB1005162586D06"
 			rewards: [{
+				auto: "enabled"
 				id: "0D1B5770788F2F39"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "6E82AFA37A3BDA8D"
 				item: "meadow:cheese_sandwich"
 				type: "item"
@@ -1751,12 +1751,12 @@
 			dependencies: ["65B28F78A7DDBD06"]
 			id: "36CB47262443AFFB"
 			rewards: [{
+				auto: "enabled"
 				id: "20709AC31D852FD1"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "79AF2694F7D185B6"
 				item: "meadow:cheese_roll"
 				type: "item"
@@ -1768,12 +1768,12 @@
 			dependencies: ["65B28F78A7DDBD06"]
 			id: "7BFADE527DA28F64"
 			rewards: [{
+				auto: "enabled"
 				id: "3B908DA02EC19909"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "40FB0972035AA850"
 				item: "meadow:cheesecake"
 				type: "item"
@@ -1785,12 +1785,12 @@
 			dependencies: ["65B28F78A7DDBD06"]
 			id: "14EA17BB1E59EF6B"
 			rewards: [{
+				auto: "enabled"
 				id: "6FFD64C923936888"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "60002BDA1B654ED3"
 				item: "meadow:cheese_tart"
 				type: "item"
@@ -1802,12 +1802,12 @@
 			dependencies: ["57889789985B323E"]
 			id: "7745C0F430C1E4D7"
 			rewards: [{
+				auto: "enabled"
 				id: "5ED141706CCACC40"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "0B4BA7756C038633"
 				item: "candlelight:tomato_soup"
 				type: "item"
@@ -1819,12 +1819,12 @@
 			dependencies: ["57889789985B323E"]
 			id: "7A1E40A60BADFF33"
 			rewards: [{
+				auto: "enabled"
 				id: "3972029DFF0A6370"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "794FFB9F8A4BFD60"
 				item: "candlelight:mushroom_soup"
 				type: "item"
@@ -1836,12 +1836,12 @@
 			dependencies: ["57889789985B323E"]
 			id: "0D33BFD7946CA24A"
 			rewards: [{
+				auto: "enabled"
 				id: "6AEA316F4C66D1CA"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "5807955784E32260"
 				item: "candlelight:pasta"
 				type: "item"
@@ -1853,12 +1853,12 @@
 			dependencies: ["57889789985B323E"]
 			id: "395C8F83996594A5"
 			rewards: [{
+				auto: "enabled"
 				id: "6F5A15FCEA45CC6A"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "4EAE818691E9B298"
 				item: "candlelight:chicken_teriyaki"
 				type: "item"
@@ -1870,12 +1870,12 @@
 			dependencies: ["57889789985B323E"]
 			id: "13263AE63C361820"
 			rewards: [{
+				auto: "enabled"
 				id: "7F05FD20D338BADC"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "0739C2C200961B1F"
 				item: "candlelight:chocolate"
 				type: "item"
@@ -1887,12 +1887,12 @@
 			dependencies: ["57889789985B323E"]
 			id: "3EC4DB8ADDBF4B42"
 			rewards: [{
+				auto: "enabled"
 				id: "5652FB44FFB4CC88"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "70F42D6CE5CD9E73"
 				item: "candlelight:lasagne"
 				type: "item"
@@ -1904,12 +1904,12 @@
 			dependencies: ["57889789985B323E"]
 			id: "1989990B2F18A40D"
 			rewards: [{
+				auto: "enabled"
 				id: "7B02DD01E1F906F0"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "31CDA4B2C79509CF"
 				item: "candlelight:chicken"
 				type: "item"
@@ -1921,12 +1921,12 @@
 			dependencies: ["57889789985B323E"]
 			id: "017729904FB8E299"
 			rewards: [{
+				auto: "enabled"
 				id: "634B6D700BB50463"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "7BF1ED34EC232810"
 				item: "candlelight:pork_ribs"
 				type: "item"
@@ -1938,12 +1938,12 @@
 			dependencies: ["57889789985B323E"]
 			id: "396A05B7CC53E7FE"
 			rewards: [{
+				auto: "enabled"
 				id: "6C13DC22B3260A30"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "418D9B9D6A4A4711"
 				item: "candlelight:salmon_wine"
 				type: "item"
@@ -1983,12 +1983,12 @@
 			dependencies: ["48C7E0AF4C9A3C3E"]
 			id: "2C79F76050BE12B3"
 			rewards: [{
+				auto: "enabled"
 				id: "631B4E4AEAC9C36E"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "2D974E81EA9884C9"
 				item: "candlelight:pancake"
 				type: "item"
@@ -2000,12 +2000,12 @@
 			dependencies: ["48C7E0AF4C9A3C3E"]
 			id: "57EEA22032D2ECDE"
 			rewards: [{
+				auto: "enabled"
 				id: "5582F95FC9442823"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "71F9A1A5D2A5F7D9"
 				item: "candlelight:fricasse"
 				type: "item"
@@ -2017,12 +2017,12 @@
 			dependencies: ["48C7E0AF4C9A3C3E"]
 			id: "363C12A34FA2A827"
 			rewards: [{
+				auto: "enabled"
 				id: "05BB04EDC4C3AA8B"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "5CA95158E5911C6D"
 				item: "candlelight:roastbeef_carrots"
 				type: "item"
@@ -2034,12 +2034,12 @@
 			dependencies: ["48C7E0AF4C9A3C3E"]
 			id: "780D2EBE592A33AF"
 			rewards: [{
+				auto: "enabled"
 				id: "568A524901F6AB02"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "26FF8CDAD51ACEEC"
 				item: "candlelight:beef_wellington"
 				type: "item"
@@ -2051,12 +2051,12 @@
 			dependencies: ["48C7E0AF4C9A3C3E"]
 			id: "02546AA94DA96AC7"
 			rewards: [{
+				auto: "enabled"
 				id: "3737FA6BFD5755BB"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "0EA7D0CDF6CF86A9"
 				item: "candlelight:pizza"
 				type: "item"
@@ -2068,12 +2068,12 @@
 			dependencies: ["48C7E0AF4C9A3C3E"]
 			id: "3BF44EC37DD17751"
 			rewards: [{
+				auto: "enabled"
 				id: "62F3EC000BBC3302"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "2926C9B7A7124FE9"
 				item: "candlelight:cooked_beef"
 				type: "item"
@@ -2085,12 +2085,12 @@
 			dependencies: ["48C7E0AF4C9A3C3E"]
 			id: "54A879BF20233A85"
 			rewards: [{
+				auto: "enabled"
 				id: "669F6D3E96551E49"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "36456684C39C5646"
 				item: "candlelight:bolognese"
 				type: "item"
@@ -2102,12 +2102,12 @@
 			dependencies: ["48C7E0AF4C9A3C3E"]
 			id: "5365C1E3AFE9EDBD"
 			rewards: [{
+				auto: "enabled"
 				id: "1BD0235FF400E7ED"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "13F67CFDEAD95806"
 				item: "candlelight:chicken_alfredo"
 				type: "item"
@@ -2119,12 +2119,12 @@
 			dependencies: ["48C7E0AF4C9A3C3E"]
 			id: "4343917600B3B4EB"
 			rewards: [{
+				auto: "enabled"
 				id: "6947D38CFBAE7A75"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "0FBDCDBD1F496CA2"
 				item: "candlelight:broccoli_beef"
 				type: "item"
@@ -2136,12 +2136,12 @@
 			dependencies: ["48C7E0AF4C9A3C3E"]
 			id: "497065214D97C800"
 			rewards: [{
+				auto: "enabled"
 				id: "05468DFFC15BD50C"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "4522C10C55F3837B"
 				item: "candlelight:pasta_bolognese"
 				type: "item"
@@ -2153,12 +2153,12 @@
 			dependencies: ["48C7E0AF4C9A3C3E"]
 			id: "65E2079D254B9DC8"
 			rewards: [{
+				auto: "enabled"
 				id: "48B7B0541FF453E9"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "155F058D8ADA6E1F"
 				item: "candlelight:pasta_broccoli"
 				type: "item"
@@ -2246,7 +2246,6 @@
 			dependencies: ["57889789985B323E"]
 			id: "0EB57E58F62E4875"
 			tasks: [{
-				auto: "enabled"
 				id: "135DE03795C4B35F"
 				item: "candlelight:tomato_mozzarella_salad"
 				type: "item"
@@ -2258,7 +2257,6 @@
 			dependencies: ["57889789985B323E"]
 			id: "5B7E31FD92662F5B"
 			tasks: [{
-				auto: "enabled"
 				id: "212AE80150E178CB"
 				item: "candlelight:veggie_plate"
 				type: "item"
@@ -2270,7 +2268,6 @@
 			dependencies: ["57889789985B323E"]
 			id: "45FAAAC3AB5E9B84"
 			tasks: [{
-				auto: "enabled"
 				id: "39C747D880BEA18B"
 				item: "candlelight:broccoli_tomato"
 				type: "item"
@@ -2282,7 +2279,6 @@
 			dependencies: ["57889789985B323E"]
 			id: "25E333F978AAAE60"
 			tasks: [{
-				auto: "enabled"
 				id: "785E17F846FC7048"
 				item: "candlelight:broccoli_salad"
 				type: "item"
@@ -2294,7 +2290,6 @@
 			dependencies: ["57889789985B323E"]
 			id: "1BF2447701DB48BC"
 			tasks: [{
-				auto: "enabled"
 				id: "3C41B30492D100D4"
 				item: "candlelight:beef_tartare"
 				type: "item"
@@ -2306,7 +2301,6 @@
 			dependencies: ["57889789985B323E"]
 			id: "104D7AFABADA64AC"
 			tasks: [{
-				auto: "enabled"
 				id: "68CCD37E86F92599"
 				item: "candlelight:beetroot_salad"
 				type: "item"
@@ -2343,12 +2337,12 @@
 			dependencies: ["56C6F1D87FA09C24"]
 			id: "5631B45EC70A3FAC"
 			rewards: [{
+				auto: "enabled"
 				id: "750EEC5E0DCF5C3E"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "6790E963A1A91FD5"
 				item: "beachparty:sweetberry_icecream"
 				type: "item"
@@ -2360,12 +2354,12 @@
 			dependencies: ["56C6F1D87FA09C24"]
 			id: "24C8221E67CF01C0"
 			rewards: [{
+				auto: "enabled"
 				id: "25AB6858CE7AC8DE"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "40048DA877AC6E45"
 				item: "beachparty:coconut_icecream"
 				type: "item"
@@ -2377,12 +2371,12 @@
 			dependencies: ["56C6F1D87FA09C24"]
 			id: "4DC070D9D8168117"
 			rewards: [{
+				auto: "enabled"
 				id: "7D36C7B6C902CED4"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "2687D3CF678C9E45"
 				item: "beachparty:chocolate_icecream"
 				type: "item"
@@ -2394,12 +2388,12 @@
 			dependencies: ["56C6F1D87FA09C24"]
 			id: "02FB0586865762B9"
 			rewards: [{
+				auto: "enabled"
 				id: "3F912BA50181E57C"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "6FDC26AADA8ED8CA"
 				item: "beachparty:icecream_chocolate"
 				type: "item"
@@ -2411,12 +2405,12 @@
 			dependencies: ["56C6F1D87FA09C24"]
 			id: "2DB2A8F9EDEA5455"
 			rewards: [{
+				auto: "enabled"
 				id: "37167544E2141F6D"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "41A4A541E39FE1E8"
 				item: "beachparty:icecream_coconut"
 				type: "item"
@@ -2428,12 +2422,12 @@
 			dependencies: ["56C6F1D87FA09C24"]
 			id: "2F57B0A7A3C2095A"
 			rewards: [{
+				auto: "enabled"
 				id: "272A85F403074CA5"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "4952806E368556D5"
 				item: "beachparty:icecream_cactus"
 				type: "item"
@@ -2445,12 +2439,12 @@
 			dependencies: ["56C6F1D87FA09C24"]
 			id: "0A1A0981AEE47F2D"
 			rewards: [{
+				auto: "enabled"
 				id: "22881DE4AA60487D"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "002075FCC4DF3719"
 				item: "beachparty:icecream_melon"
 				type: "item"
@@ -2462,12 +2456,12 @@
 			dependencies: ["56C6F1D87FA09C24"]
 			id: "58E3410CF08989B4"
 			rewards: [{
+				auto: "enabled"
 				id: "1AD268512A2A765C"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "0CA81C3BCED67405"
 				item: "beachparty:icecream_sweetberries"
 				type: "item"
@@ -2506,12 +2500,12 @@
 			dependencies: ["2D0063702FDE9B52"]
 			id: "31F62AD3C002B2E9"
 			rewards: [{
+				auto: "enabled"
 				id: "47525F546640C27D"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "02E8580D00F3A261"
 				item: "beachparty:chocolate_milkshake"
 				type: "item"
@@ -2523,12 +2517,12 @@
 			dependencies: ["2D0063702FDE9B52"]
 			id: "0E3AFD19B50E2B2B"
 			rewards: [{
+				auto: "enabled"
 				id: "282A786649810BA6"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "6B9C33C35C595885"
 				item: "beachparty:coconut_milkshake"
 				type: "item"
@@ -2540,12 +2534,12 @@
 			dependencies: ["2D0063702FDE9B52"]
 			id: "4D8D762756063401"
 			rewards: [{
+				auto: "enabled"
 				id: "1AC58375C6768454"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "159D8121F86B84D6"
 				item: "beachparty:sweetberry_milkshake"
 				type: "item"
@@ -2557,12 +2551,12 @@
 			dependencies: ["2D0063702FDE9B52"]
 			id: "12A34203C264C09B"
 			rewards: [{
+				auto: "enabled"
 				id: "0ADF47727354B54B"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "2E389EE0C297DFA1"
 				item: "beachparty:honey_cocktail"
 				type: "item"
@@ -2574,12 +2568,12 @@
 			dependencies: ["2D0063702FDE9B52"]
 			id: "7887A51AC41CCBDD"
 			rewards: [{
+				auto: "enabled"
 				id: "5E026C541C62952D"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "27673811C6E80DD9"
 				item: "beachparty:melon_cocktail"
 				type: "item"
@@ -2591,12 +2585,12 @@
 			dependencies: ["2D0063702FDE9B52"]
 			id: "304820216BC161AB"
 			rewards: [{
+				auto: "enabled"
 				id: "07D6D57E3B063BA5"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "3279647A0D35CFB4"
 				item: "beachparty:pumpkin_cocktail"
 				type: "item"
@@ -2608,12 +2602,12 @@
 			dependencies: ["2D0063702FDE9B52"]
 			id: "3A41E2C7A6B95D28"
 			rewards: [{
+				auto: "enabled"
 				id: "60676EA99E4EF3EF"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "462EDA8C5051ED1A"
 				item: "beachparty:cocoa_cocktail"
 				type: "item"
@@ -2625,12 +2619,12 @@
 			dependencies: ["2D0063702FDE9B52"]
 			id: "0DF4E7173E95E42F"
 			rewards: [{
+				auto: "enabled"
 				id: "7FA29FDC6032B534"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "486913061845658A"
 				item: "beachparty:sweetberries_cocktail"
 				type: "item"
@@ -2642,12 +2636,12 @@
 			dependencies: ["2D0063702FDE9B52"]
 			id: "530D390E2F102182"
 			rewards: [{
+				auto: "enabled"
 				id: "4BDDD90F984E075B"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
 			tasks: [{
-				auto: "enabled"
 				id: "508019DAD8F4D7C7"
 				item: "beachparty:coconut_cocktail"
 				type: "item"
