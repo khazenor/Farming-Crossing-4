@@ -24,6 +24,11 @@
 					item: "kubejs:miles_ticket"
 					type: "item"
 				}
+				{
+					id: "7E4CED5FF1B5ECE5"
+					item: "minecraft:item_frame"
+					type: "item"
+				}
 			]
 			tasks: [{
 				consume_items: true
@@ -168,6 +173,11 @@
 					item: "kubejs:miles_ticket"
 					type: "item"
 				}
+				{
+					id: "6E87ECE147CA6A84"
+					item: "minecraft:item_frame"
+					type: "item"
+				}
 			]
 			tasks: [{
 				consume_items: true
@@ -309,6 +319,11 @@
 					count: 5
 					id: "4138478491EBAFAC"
 					item: "kubejs:miles_ticket"
+					type: "item"
+				}
+				{
+					id: "4648EEB394D69F0E"
+					item: "minecraft:item_frame"
 					type: "item"
 				}
 			]
@@ -455,6 +470,11 @@
 					item: "kubejs:miles_ticket"
 					type: "item"
 				}
+				{
+					id: "6EDF5F38033498D9"
+					item: "minecraft:item_frame"
+					type: "item"
+				}
 			]
 			tasks: [{
 				consume_items: true
@@ -464,7 +484,7 @@
 				type: "item"
 			}]
 			title: "Wooden Fishing Collection Certificate"
-			x: 3.0d
+			x: -2.0d
 			y: 0.0d
 		}
 		{
@@ -493,7 +513,7 @@
 				type: "item"
 			}]
 			title: "Stone Fishing Collection Certificate"
-			x: 3.0d
+			x: -2.0d
 			y: 1.0d
 		}
 		{
@@ -522,7 +542,7 @@
 				type: "item"
 			}]
 			title: "Iron Fishing Collection Certificate"
-			x: 3.0d
+			x: -2.0d
 			y: 2.0d
 		}
 		{
@@ -551,7 +571,7 @@
 				type: "item"
 			}]
 			title: "Golden Fishing Collection Certificate"
-			x: 3.0d
+			x: -2.0d
 			y: 3.0d
 		}
 		{
@@ -580,7 +600,7 @@
 				type: "item"
 			}]
 			title: "Diamond Fishing Collection Certificate"
-			x: 3.0d
+			x: -2.0d
 			y: 4.0d
 		}
 		{
@@ -599,6 +619,11 @@
 					item: "kubejs:miles_ticket"
 					type: "item"
 				}
+				{
+					id: "1062C77873D17636"
+					item: "minecraft:item_frame"
+					type: "item"
+				}
 			]
 			tasks: [{
 				consume_items: true
@@ -608,7 +633,7 @@
 				type: "item"
 			}]
 			title: "Wooden Animal Collection Certificate"
-			x: 4.0d
+			x: -1.0d
 			y: 0.0d
 		}
 		{
@@ -637,7 +662,7 @@
 				type: "item"
 			}]
 			title: "Stone Animal Collection Certificate"
-			x: 4.0d
+			x: -1.0d
 			y: 1.0d
 		}
 		{
@@ -666,7 +691,7 @@
 				type: "item"
 			}]
 			title: "Iron Animal Collection Certificate"
-			x: 4.0d
+			x: -1.0d
 			y: 2.0d
 		}
 		{
@@ -695,7 +720,7 @@
 				type: "item"
 			}]
 			title: "Golden Animal Collection Certificate"
-			x: 4.0d
+			x: -1.0d
 			y: 3.0d
 		}
 		{
@@ -724,10 +749,12 @@
 				type: "item"
 			}]
 			title: "Diamond Animal Collection Certificate"
-			x: 4.0d
+			x: -1.0d
 			y: 4.0d
 		}
 		{
+			hide: true
+			icon: "kubejs:cert_cook_wood"
 			id: "28929EA4688DAE01"
 			rewards: [
 				{
@@ -736,105 +763,142 @@
 					type: "item"
 				}
 				{
+					count: 6
 					id: "3B719937A9EAD067"
 					item: "kubejs:miles_ticket"
 					type: "item"
 				}
+				{
+					id: "4FAC72298093C051"
+					item: "minecraft:item_frame"
+					type: "item"
+				}
 			]
 			tasks: [{
+				consume_items: true
+				count: 6L
 				id: "0FAF999D09C3D132"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
-			x: 5.0d
+			title: "Wooden Chef Certificate"
+			x: -3.0d
 			y: 0.0d
 		}
 		{
+			dependencies: ["28929EA4688DAE01"]
+			hide: true
+			icon: "kubejs:cert_cook_stone"
 			id: "38B29892DC5F37B4"
 			rewards: [
 				{
 					id: "5F0D98E07AC8770F"
-					item: "kubejs:cert_cook_wood"
+					item: "kubejs:cert_cook_stone"
 					type: "item"
 				}
 				{
+					count: 24
 					id: "79294E0074B554E5"
 					item: "kubejs:miles_ticket"
 					type: "item"
 				}
 			]
 			tasks: [{
+				consume_items: true
+				count: 12L
 				id: "43E8DA137E9713F2"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
-			x: 5.0d
+			title: "Stone Chef Certificate"
+			x: -3.0d
 			y: 1.0d
 		}
 		{
+			dependencies: ["38B29892DC5F37B4"]
+			hide: true
+			icon: "kubejs:cert_cook_iron"
 			id: "301B80FC19D8275F"
 			rewards: [
 				{
 					id: "131E935723E43DEF"
-					item: "kubejs:cert_cook_wood"
+					item: "kubejs:cert_cook_iron"
 					type: "item"
 				}
 				{
+					count: 60
 					id: "711D7EE7B35F87D7"
 					item: "kubejs:miles_ticket"
 					type: "item"
 				}
 			]
 			tasks: [{
+				consume_items: true
+				count: 20L
 				id: "1695FA95C46FEE68"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
-			x: 5.0d
+			title: "Iron Chef Certificate"
+			x: -3.0d
 			y: 2.0d
 		}
 		{
+			dependencies: ["301B80FC19D8275F"]
+			hide: true
+			icon: "kubejs:cert_cook_gold"
 			id: "6AD916B3696371F9"
 			rewards: [
 				{
 					id: "6D93BD87F4B30057"
-					item: "kubejs:cert_cook_wood"
+					item: "kubejs:cert_cook_gold"
 					type: "item"
 				}
 				{
+					count: 128
 					id: "382A39E0BAB60E1B"
 					item: "kubejs:miles_ticket"
 					type: "item"
 				}
 			]
 			tasks: [{
+				consume_items: true
+				count: 32L
 				id: "513EC0B32D94FDE2"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
-			x: 5.0d
+			title: "Golden Chef Certificate"
+			x: -3.0d
 			y: 3.0d
 		}
 		{
+			dependencies: ["6AD916B3696371F9"]
+			hide: true
+			icon: "kubejs:cert_cook_diamond"
 			id: "03F8AEC136D9FB6F"
 			rewards: [
 				{
 					id: "7371FDDC31BADB22"
-					item: "kubejs:cert_cook_wood"
+					item: "kubejs:cert_cook_diamond"
 					type: "item"
 				}
 				{
+					count: 230
 					id: "6348E0D2069D268D"
 					item: "kubejs:miles_ticket"
 					type: "item"
 				}
 			]
 			tasks: [{
+				consume_items: true
+				count: 46L
 				id: "5391CA0A51513FD6"
 				item: "kubejs:voucher_cooking"
 				type: "item"
 			}]
-			x: 5.0d
+			title: "Diamond Chef Certificate"
+			x: -3.0d
 			y: 4.0d
 		}
 	]
