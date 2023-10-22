@@ -3,8 +3,18 @@
     [
       {
         "type": "BIOME_TAG",
-        "negate": false,
-        "value": "minecraft:is_overworld"
+        "negate": true,
+        "value": "minecraft:is_end"
+      },
+      {
+        "type": "BIOME_TAG",
+        "negate": true,
+        "value": "minecraft:is_nether"
+      },
+      {
+        "type": "BIOME_TAG",
+        "negate": true,
+        "value": "minecraft:is_ocean"
       }
     ]
   ]

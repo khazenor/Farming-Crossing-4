@@ -2,7 +2,6 @@
   - Cooking economy
     - bounty board for monies
 configs
-  - disable hostile spawns
   - disable animal spawns
 - Features
   - furniture cutting
@@ -30,6 +29,9 @@ Dev Ops:
 - set up minecraft folders
 - set up development workspace
 - set up deploy script
+
+Configs:
+  - disable hostile spawns
 
 Features:
   - Building material duplication

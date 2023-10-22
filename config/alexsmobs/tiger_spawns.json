@@ -18,7 +18,7 @@
       {
         "type": "REGISTRY_NAME",
         "negate": false,
-        "value": "minecraft:cherry_grove"
+        "value": "biomesoplenty:cherry_blossom_grove"
       }
     ],
     [
@@ -54,13 +54,6 @@
         "type": "REGISTRY_NAME",
         "negate": false,
         "value": "terralith:skylands_spring"
-      }
-    ],
-    [
-      {
-        "type": "REGISTRY_NAME",
-        "negate": false,
-        "value": "biomesoplenty:snowblossom_grove"
       }
     ]
   ]

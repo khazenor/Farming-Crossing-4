@@ -27,7 +27,7 @@
 				to_observe: "alexsmobs:alligator_snapping_turtle"
 				type: "observation"
 			}]
-			x: 1.0d
+			x: 1.5d
 			y: 10.5d
 		}
 		{
@@ -49,7 +49,7 @@
 				to_observe: "alexsmobs:anaconda"
 				type: "observation"
 			}]
-			x: 2.0d
+			x: 2.5d
 			y: 10.5d
 		}
 		{
@@ -269,7 +269,7 @@
 				to_observe: "alexsmobs:catfish"
 				type: "observation"
 			}]
-			x: 0.0d
+			x: 0.5d
 			y: 10.5d
 		}
 		{
@@ -848,7 +848,7 @@
 				to_observe: "alexsmobs:mudskipper"
 				type: "observation"
 			}]
-			x: -1.0d
+			x: -0.5d
 			y: 10.5d
 		}
 		{
@@ -980,7 +980,7 @@
 				to_observe: "alexsmobs:rattlesnake"
 				type: "observation"
 			}]
-			x: -10.0d
+			x: -10.5d
 			y: 4.5d
 		}
 		{
@@ -1024,7 +1024,7 @@
 				to_observe: "alexsmobs:roadrunner"
 				type: "observation"
 			}]
-			x: -9.0d
+			x: -9.5d
 			y: 4.5d
 		}
 		{
@@ -1861,7 +1861,7 @@
 				to_observe: "alexsmobs:rain_frog"
 				type: "observation"
 			}]
-			x: -10.0d
+			x: -11.0d
 			y: 3.5d
 		}
 		{
@@ -2155,11 +2155,12 @@
 				"35C05B2043DDFE56"
 				"3D675F46E2C5907F"
 				"1FCD7A98F5CCBB65"
+				"50831635A884520C"
 			]
 			icon: "kubejs:miles_ticket"
 			id: "665D530988C31652"
 			rewards: [{
-				count: 4
+				count: 5
 				id: "15C97F66A9865837"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -2169,7 +2170,7 @@
 				title: "Desert Completion"
 				type: "item"
 			}]
-			x: -9.5d
+			x: -10.0d
 			y: 2.5d
 		}
 		{
@@ -2182,6 +2183,7 @@
 				"66CD5B0F435E1196"
 				"05B0531282B9BB66"
 				"73209B110C8E9FC0"
+				"359BEC4AFEC849CC"
 			]
 			icon: "kubejs:miles_ticket"
 			id: "565907B63A5E8A04"
@@ -2196,7 +2198,7 @@
 				title: "Swamp Completion"
 				type: "item"
 			}]
-			x: 0.5d
+			x: 1.0d
 			y: 8.5d
 		}
 		{
@@ -2470,6 +2472,46 @@
 			}]
 			x: 4.0d
 			y: -0.5d
+		}
+		{
+			id: "359BEC4AFEC849CC"
+			rewards: [{
+				auto: "enabled"
+				id: "3E2A2C152403AFA0"
+				item: "kubejs:voucher_animal"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_caiman"
+				id: "3A8AA49DE2AED103"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a Caiman"
+				to_observe: "alexsmobs:caiman"
+				type: "observation"
+			}]
+			x: 3.0d
+			y: 9.5d
+		}
+		{
+			id: "50831635A884520C"
+			rewards: [{
+				auto: "enabled"
+				id: "438615D61A53E7C1"
+				item: "kubejs:voucher_animal"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_triops"
+				id: "64F8DF697C84DECD"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a Triops"
+				to_observe: "alexsmobs:triops"
+				type: "observation"
+			}]
+			x: -10.0d
+			y: 3.5d
 		}
 	]
 	title: "Animal Watching"
