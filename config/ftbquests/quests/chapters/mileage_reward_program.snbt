@@ -727,6 +727,116 @@
 			x: 4.0d
 			y: 4.0d
 		}
+		{
+			id: "28929EA4688DAE01"
+			rewards: [
+				{
+					id: "5A380C1244E43706"
+					item: "kubejs:cert_cook_wood"
+					type: "item"
+				}
+				{
+					id: "3B719937A9EAD067"
+					item: "kubejs:miles_ticket"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0FAF999D09C3D132"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			id: "38B29892DC5F37B4"
+			rewards: [
+				{
+					id: "5F0D98E07AC8770F"
+					item: "kubejs:cert_cook_wood"
+					type: "item"
+				}
+				{
+					id: "79294E0074B554E5"
+					item: "kubejs:miles_ticket"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "43E8DA137E9713F2"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			id: "301B80FC19D8275F"
+			rewards: [
+				{
+					id: "131E935723E43DEF"
+					item: "kubejs:cert_cook_wood"
+					type: "item"
+				}
+				{
+					id: "711D7EE7B35F87D7"
+					item: "kubejs:miles_ticket"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1695FA95C46FEE68"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			id: "6AD916B3696371F9"
+			rewards: [
+				{
+					id: "6D93BD87F4B30057"
+					item: "kubejs:cert_cook_wood"
+					type: "item"
+				}
+				{
+					id: "382A39E0BAB60E1B"
+					item: "kubejs:miles_ticket"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "513EC0B32D94FDE2"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 3.0d
+		}
+		{
+			id: "03F8AEC136D9FB6F"
+			rewards: [
+				{
+					id: "7371FDDC31BADB22"
+					item: "kubejs:cert_cook_wood"
+					type: "item"
+				}
+				{
+					id: "6348E0D2069D268D"
+					item: "kubejs:miles_ticket"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5391CA0A51513FD6"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 4.0d
+		}
 	]
 	title: "Mileage Reward Program"
 }

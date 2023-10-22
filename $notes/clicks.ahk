@@ -1,6 +1,6 @@
 f8::
   MouseGetPos, xpos, ypos 
-  createFirstReward()
+  itemQuestWithTwoRewardsInOrder()
   MouseMove, %xpos%, %ypos%
   return
   
@@ -12,10 +12,32 @@ f12::
   ExitApp
 
 createManyQuests(){
-  Loop, 10
+  Loop, 5
   {
-    customItemCollectionQuest()
+    itemQuestWithTwoRewardsInOrder()
   }
+}
+
+itemQuestWithTwoRewardsInOrder(){
+  send {Click 963 545 Right} ; right click the center of the screen
+  send {Click 1034 228} ; select item quest (need to be updated each time)
+
+  ; create item task
+  send {Click 624 383} ; select first item
+  send {Click 1191 782} ; select "Accept"
+
+  ; create first reward
+  send {Click 1166 522} ; click "+" on rewards
+  send {Click 1251 485} ; select "item"
+  send {Click 700 379 } ; select second item
+  send {Click 1191 782} ; select "Accept"
+
+  ; create second reward
+  send {Click 1208 522 } ; click "+" on second rewards
+  send {Click 1291 486} ; select second "item"
+  send {Click 770, 378} ; select third item
+  send {Click 1191 782} ; select "Accept"
+  Send {Esc}
 }
 
 createFirstReward(){
