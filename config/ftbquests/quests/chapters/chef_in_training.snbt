@@ -131,6 +131,113 @@
 			x: 0.5d
 			y: -1.5d
 		}
+		{
+			dependencies: ["17FA2E4902522B36"]
+			id: "65B28F78A7DDBD06"
+			rewards: [
+				{
+					id: "3FEBF62C7E29D07E"
+					item: "meadow:cheese_form"
+					type: "item"
+				}
+				{
+					id: "502046B1D6BFBB14"
+					item: {
+						Count: 1b
+						id: "bakery:bread_knife"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7DB30F0AF7938D6B"
+					item: "meadow:frame"
+					type: "item"
+				}
+				{
+					id: "1FA5C4310477D3ED"
+					item: "meadow:cooking_pot"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "26BF9B92167974E8"
+				item: {
+					Count: 1b
+					id: "vinery:cherry_wine"
+					tag: {
+						Year: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["65B28F78A7DDBD06"]
+			id: "1DD15BDBBA7B8632"
+			rewards: [{
+				id: "2C8257A7E048B971"
+				item: "meadow:fondue"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5E220D0191BE7CCF"
+				item: "meadow:cheese_block"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["1DD15BDBBA7B8632"]
+			id: "57889789985B323E"
+			rewards: [
+				{
+					id: "328DE0F8C4ED7A60"
+					item: "candlelight:cooking_pot"
+					type: "item"
+				}
+				{
+					id: "68642B19F3E32B03"
+					item: "candlelight:stone_bricks_stove"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "03A64188A780FFD2"
+				item: "meadow:cheese_stick"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["57889789985B323E"]
+			id: "48C7E0AF4C9A3C3E"
+			rewards: [
+				{
+					id: "589AC45391104EC3"
+					item: "candlelight:cooking_pan"
+					type: "item"
+				}
+				{
+					id: "347EE055BDC513B9"
+					item: "candlelight:stone_bricks_stove"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "46B1BC80C70D75EF"
+				item: "candlelight:mushroom_soup"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
 	]
 	title: "Chef in Training"
 }

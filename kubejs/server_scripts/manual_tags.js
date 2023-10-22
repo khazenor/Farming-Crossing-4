@@ -19,4 +19,10 @@ ServerEvents.tags('item', event => {
     "waystones:waystone",
     "minecraft:obsidian"
   ])
+
+  event.add('forge:water', [
+    'minecraft:water_bucket',
+    'meadow:wooden_water_bucket',
+    'kubejs:fresh_water'
+  ])
 })

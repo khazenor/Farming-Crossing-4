@@ -1424,18 +1424,471 @@
 			]
 			icon: "vinery:fermentation_barrel"
 			id: "565C1C84E8B9D262"
-			rewards: [{
-				count: 56
-				id: "2A90093966D15652"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 56
+					id: "2A90093966D15652"
+					item: "kubejs:miles_ticket"
+					type: "item"
+				}
+				{
+					id: "3DA6F2ECA52F7B6C"
+					item: {
+						Count: 1b
+						id: "vinery:straw_hat"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "39F2FCC8AB5CF115"
+					item: {
+						Count: 1b
+						id: "vinery:vinemaker_apron"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6E8AD7F2D30B9693"
+					item: {
+						Count: 1b
+						id: "vinery:vinemaker_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3413E6855280AD1D"
+					item: {
+						Count: 1b
+						id: "vinery:vinemaker_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "001D2228832D0319"
 				type: "item"
 			}]
 			title: "Aging Barrel Recipes Completion"
 			x: 13.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["65B28F78A7DDBD06"]
+			id: "4C2E374761B534C3"
+			rewards: [{
+				id: "561D2305B538EB00"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "30961111C680877E"
+				item: "meadow:cheese_block"
+				type: "item"
+			}]
+			x: 16.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["65B28F78A7DDBD06"]
+			id: "207D8448AA944DF0"
+			rewards: [{
+				id: "0878BD4F5657A551"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "779102189E387EB5"
+				item: "meadow:sheep_cheese_block"
+				type: "item"
+			}]
+			x: 16.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["65B28F78A7DDBD06"]
+			id: "55A3AA4831838D3F"
+			rewards: [{
+				id: "18E49B3757B4CD45"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "47CEBFFC0E3EDCAB"
+				item: "meadow:grain_cheese_block"
+				type: "item"
+			}]
+			x: 16.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["65B28F78A7DDBD06"]
+			id: "527ECF838CD2DC06"
+			rewards: [{
+				id: "2859C4A92CA86B5E"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0C15C6B1ABDE5BB0"
+				item: "meadow:amethyst_cheese_block"
+				type: "item"
+			}]
+			x: 16.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["65B28F78A7DDBD06"]
+			id: "644E99B3892F83D6"
+			rewards: [{
+				id: "58A53C1F464F0AD6"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3650C8585BA9A058"
+				item: "meadow:buffalo_cheese_block"
+				type: "item"
+			}]
+			x: 16.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["65B28F78A7DDBD06"]
+			id: "51ED06022216CE0B"
+			rewards: [{
+				id: "46BB4F5B8695707F"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "50AAEFDAE3AD134F"
+				item: "meadow:goat_cheese_block"
+				type: "item"
+			}]
+			x: 16.5d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"207D8448AA944DF0"
+				"51ED06022216CE0B"
+				"644E99B3892F83D6"
+				"55A3AA4831838D3F"
+				"527ECF838CD2DC06"
+				"4C2E374761B534C3"
+				"14EA17BB1E59EF6B"
+				"36CB47262443AFFB"
+				"5BB1005162586D06"
+				"7BFADE527DA28F64"
+			]
+			icon: "meadow:cheese_form"
+			id: "3616E6BBD7AEE860"
+			rewards: [
+				{
+					count: 12
+					id: "29AC8BE3B47F6FF8"
+					item: "kubejs:miles_ticket"
+					type: "item"
+				}
+				{
+					id: "55EF65A5EC3A1B29"
+					item: {
+						Count: 1b
+						id: "meadow:fur_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "291341D8D2CC3039"
+					item: {
+						Count: 1b
+						id: "meadow:fur_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "13BF4BF40BD90296"
+					item: {
+						Count: 1b
+						id: "meadow:fur_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "175883204DFBDA28"
+					item: {
+						Count: 1b
+						id: "meadow:fur_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4CD5D1C2D24A5302"
+				type: "item"
+			}]
+			title: "Cheese Press Recipes Completion"
+			x: 17.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["65B28F78A7DDBD06"]
+			id: "5BB1005162586D06"
+			rewards: [{
+				id: "0D1B5770788F2F39"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6E82AFA37A3BDA8D"
+				item: "meadow:cheese_sandwich"
+				type: "item"
+			}]
+			x: 17.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["65B28F78A7DDBD06"]
+			id: "36CB47262443AFFB"
+			rewards: [{
+				id: "20709AC31D852FD1"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "79AF2694F7D185B6"
+				item: "meadow:cheese_roll"
+				type: "item"
+			}]
+			x: 17.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["65B28F78A7DDBD06"]
+			id: "7BFADE527DA28F64"
+			rewards: [{
+				id: "3B908DA02EC19909"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "40FB0972035AA850"
+				item: "meadow:cheesecake"
+				type: "item"
+			}]
+			x: 17.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["65B28F78A7DDBD06"]
+			id: "14EA17BB1E59EF6B"
+			rewards: [{
+				id: "6FFD64C923936888"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "60002BDA1B654ED3"
+				item: "meadow:cheese_tart"
+				type: "item"
+			}]
+			x: 17.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["57889789985B323E"]
+			id: "7745C0F430C1E4D7"
+			rewards: [{
+				id: "5ED141706CCACC40"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0B4BA7756C038633"
+				item: "candlelight:tomato_soup"
+				type: "item"
+			}]
+			x: 19.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["57889789985B323E"]
+			id: "7A1E40A60BADFF33"
+			rewards: [{
+				id: "3972029DFF0A6370"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "794FFB9F8A4BFD60"
+				item: "candlelight:mushroom_soup"
+				type: "item"
+			}]
+			x: 19.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["57889789985B323E"]
+			id: "0D33BFD7946CA24A"
+			rewards: [{
+				id: "6AEA316F4C66D1CA"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5807955784E32260"
+				item: "candlelight:pasta"
+				type: "item"
+			}]
+			x: 19.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["57889789985B323E"]
+			id: "395C8F83996594A5"
+			rewards: [{
+				id: "6F5A15FCEA45CC6A"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4EAE818691E9B298"
+				item: "candlelight:chicken_teriyaki"
+				type: "item"
+			}]
+			x: 19.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["57889789985B323E"]
+			id: "13263AE63C361820"
+			rewards: [{
+				id: "7F05FD20D338BADC"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0739C2C200961B1F"
+				item: "candlelight:chocolate"
+				type: "item"
+			}]
+			x: 19.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["57889789985B323E"]
+			id: "3EC4DB8ADDBF4B42"
+			rewards: [{
+				id: "5652FB44FFB4CC88"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "70F42D6CE5CD9E73"
+				item: "candlelight:lasagne"
+				type: "item"
+			}]
+			x: 20.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["57889789985B323E"]
+			id: "1989990B2F18A40D"
+			rewards: [{
+				id: "7B02DD01E1F906F0"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "31CDA4B2C79509CF"
+				item: "candlelight:chicken"
+				type: "item"
+			}]
+			x: 20.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["57889789985B323E"]
+			id: "017729904FB8E299"
+			rewards: [{
+				id: "634B6D700BB50463"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7BF1ED34EC232810"
+				item: "candlelight:pork_ribs"
+				type: "item"
+			}]
+			x: 20.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["57889789985B323E"]
+			id: "396A05B7CC53E7FE"
+			rewards: [{
+				id: "6C13DC22B3260A30"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			tasks: [{
+				id: "418D9B9D6A4A4711"
+				item: "candlelight:salmon_wine"
+				type: "item"
+			}]
+			x: 20.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"396A05B7CC53E7FE"
+				"0D33BFD7946CA24A"
+				"3EC4DB8ADDBF4B42"
+				"7A1E40A60BADFF33"
+				"017729904FB8E299"
+				"13263AE63C361820"
+				"7745C0F430C1E4D7"
+				"1989990B2F18A40D"
+				"395C8F83996594A5"
+			]
+			icon: "candlelight:cooking_pot"
+			id: "04B96A448CE0718D"
+			rewards: [{
+				count: 18
+				id: "1B49244BD53C1BCA"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "04DD30694590B569"
+				type: "item"
+			}]
+			title: "Cooking Pot Recipes Completion"
+			x: 19.5d
 			y: -2.0d
 		}
 	]
