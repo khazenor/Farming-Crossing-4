@@ -189,6 +189,16 @@
 		"license": "LGPL-3.0-only"
 	},
 	{
+		"id": "villagernames",
+		"name": "Villager Names",
+		"version": "5.2",
+		"description": "A minimalistic mod which gives all unnamed villagers a (pre-)defined name.",
+		"authors": "Rick South",
+		"homepage": "https://curseforge.com/minecraft/mc-mods/villager-names",
+		"issue_tracker": "https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Villager%20Names",
+		"license": "All rights reserved"
+	},
+	{
 		"id": "bettertitlescreen",
 		"name": "Better Title Screen",
 		"version": "1.13.2",
@@ -234,6 +244,14 @@
 		"homepage": "https://github.com/Alex-the-666/Citadel",
 		"issue_tracker": "https://github.com/Alex-the-666/Citadel/issues",
 		"license": "GNU LESSER GENERAL PUBLIC LICENSE"
+	},
+	{
+		"id": "villagersplus",
+		"name": "VillagersPlus",
+		"version": "3.0",
+		"description": "New villagers, new trades and new beautiful and useful workstations.",
+		"authors": "Lion",
+		"license": "CC0-1.0"
 	},
 	{
 		"id": "yungsapi",
@@ -430,7 +448,7 @@
 	{
 		"id": "handcrafted",
 		"name": "Handcrafted",
-		"version": "3.0.2",
+		"version": "3.0.3",
 		"description": "Epic Furniture mod!",
 		"authors": "Alex Nijjar, Kekie6",
 		"homepage": "https://modrinth.com/mod/handcrafted",
@@ -477,14 +495,6 @@
 		"license": "Academic Free License v3.0"
 	},
 	{
-		"id": "bountiful",
-		"name": "Bountiful",
-		"version": "6.0.3+1.20.1",
-		"description": "Bountiful adds bounty boards to the world.",
-		"authors": "Ejektaflex",
-		"license": "GPL 3.0"
-	},
-	{
 		"id": "moa_decor_cookery",
 		"name": "MOA DECOR: COOKERY",
 		"version": "1.20.1",
@@ -522,6 +532,16 @@
 		"homepage": "https://www.curseforge.com/minecraft/mc-mods/game-stages",
 		"issue_tracker": "https://github.com/Darkhax-Minecraft/Game-Stages",
 		"license": "LGPL v2.1"
+	},
+	{
+		"id": "collective",
+		"name": "Collective",
+		"version": "6.66",
+		"description": "Collective is a shared library with common code for all of Serilum's mods.",
+		"authors": "Rick South",
+		"homepage": "https://curseforge.com/minecraft/mc-mods/collective",
+		"issue_tracker": "https://github.com/ricksouth/serilum-mc-mods/labels/Library%3A%20Collective",
+		"license": "All rights reserved"
 	},
 	{
 		"id": "camera",
@@ -610,7 +630,7 @@
 	{
 		"id": "resourcefullib",
 		"name": "Resourceful Lib",
-		"version": "2.1.11",
+		"version": "2.1.13",
 		"description": "Team Resourceful Library",
 		"authors": "ThatGravyBoat, Epic_Oreo",
 		"issue_tracker": "https://github.com/Team-Resourceful/ResoucefulLib/issues/new/choose",
@@ -1337,7 +1357,7 @@
 	{
 		"id": "ferritecore",
 		"name": "Ferrite Core",
-		"version": "6.0.0",
+		"version": "6.0.1",
 		"description": "Reduces memory usage.",
 		"authors": "malte0811",
 		"license": "MIT"

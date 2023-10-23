@@ -143,7 +143,6 @@
 	"beachparty:table": "satisfyu.beachparty.block.TableBlock",
 	"beachparty:tiki_bar": "satisfyu.beachparty.block.TikiBarBlock",
 	"beachparty:tiki_chair": "satisfyu.beachparty.block.TikiChairBlock",
-	"bountiful:bountyboard": "io.ejekta.bountiful.content.board.BoardBlock",
 	"candlelight:acacia_big_table": "satisfyu.candlelight.block.BigTableBlock",
 	"candlelight:acacia_cabinet": "satisfyu.candlelight.block.StorageBlock",
 	"candlelight:acacia_chair": "de.cristelknight.doapi.common.block.ChairBlock",
@@ -7322,5 +7321,19 @@
 	"waystones:warp_plate": "net.blay09.mods.waystones.block.WarpPlateBlock",
 	"waystones:waystone": "net.blay09.mods.waystones.block.WaystoneBlock",
 	"waystones:white_sharestone": "net.blay09.mods.waystones.block.SharestoneBlock",
-	"waystones:yellow_sharestone": "net.blay09.mods.waystones.block.SharestoneBlock"
+	"waystones:yellow_sharestone": "net.blay09.mods.waystones.block.SharestoneBlock",
+	"villagersplus:alchemist_table": "com.lion.villagersplus.blocks.AlchemistTableBlock",
+	"villagersplus:oceanographer_table": "com.lion.villagersplus.blocks.OceanographerTableBlock",
+	"villagersplus:oak_horticulturist_table": "com.lion.villagersplus.blocks.HorticulturistTableBlock",
+	"villagersplus:dark_oak_horticulturist_table": "com.lion.villagersplus.blocks.HorticulturistTableBlock",
+	"villagersplus:acacia_horticulturist_table": "com.lion.villagersplus.blocks.HorticulturistTableBlock",
+	"villagersplus:jungle_horticulturist_table": "com.lion.villagersplus.blocks.HorticulturistTableBlock",
+	"villagersplus:spruce_horticulturist_table": "com.lion.villagersplus.blocks.HorticulturistTableBlock",
+	"villagersplus:birch_horticulturist_table": "com.lion.villagersplus.blocks.HorticulturistTableBlock",
+	"villagersplus:mangrove_horticulturist_table": "com.lion.villagersplus.blocks.HorticulturistTableBlock",
+	"villagersplus:crimson_horticulturist_table": "com.lion.villagersplus.blocks.HorticulturistTableBlock",
+	"villagersplus:warped_horticulturist_table": "com.lion.villagersplus.blocks.HorticulturistTableBlock",
+	"villagersplus:cherry_horticulturist_table": "com.lion.villagersplus.blocks.HorticulturistTableBlock",
+	"villagersplus:bamboo_horticulturist_table": "com.lion.villagersplus.blocks.HorticulturistTableBlock",
+	"villagersplus:occultist_table": "com.lion.villagersplus.blocks.OccultistTableBlock"
 }

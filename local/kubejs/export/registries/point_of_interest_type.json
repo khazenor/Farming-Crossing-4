@@ -26,5 +26,19 @@
 	"minecraft:shepherd": "net.minecraft.world.entity.ai.village.poi.PoiType",
 	"minecraft:toolsmith": "net.minecraft.world.entity.ai.village.poi.PoiType",
 	"minecraft:weaponsmith": "net.minecraft.world.entity.ai.village.poi.PoiType",
-	"vinery:winemaker_poi": "net.minecraft.world.entity.ai.village.poi.PoiType"
+	"vinery:winemaker_poi": "net.minecraft.world.entity.ai.village.poi.PoiType",
+	"villagersplus:horticulturist_warped": "net.minecraft.world.entity.ai.village.poi.PoiType",
+	"villagersplus:horticulturist_crimson": "net.minecraft.world.entity.ai.village.poi.PoiType",
+	"villagersplus:horticulturist_oak": "net.minecraft.world.entity.ai.village.poi.PoiType",
+	"villagersplus:horticulturist_dark_oak": "net.minecraft.world.entity.ai.village.poi.PoiType",
+	"villagersplus:horticulturist_birch": "net.minecraft.world.entity.ai.village.poi.PoiType",
+	"villagersplus:horticulturist_jungle": "net.minecraft.world.entity.ai.village.poi.PoiType",
+	"villagersplus:horticulturist_acacia": "net.minecraft.world.entity.ai.village.poi.PoiType",
+	"villagersplus:horticulturist_spruce": "net.minecraft.world.entity.ai.village.poi.PoiType",
+	"villagersplus:horticulturist_cherry": "net.minecraft.world.entity.ai.village.poi.PoiType",
+	"villagersplus:horticulturist_bamboo": "net.minecraft.world.entity.ai.village.poi.PoiType",
+	"villagersplus:horticulturist_mangrove": "net.minecraft.world.entity.ai.village.poi.PoiType",
+	"villagersplus:occultist": "net.minecraft.world.entity.ai.village.poi.PoiType",
+	"villagersplus:oceanographer": "net.minecraft.world.entity.ai.village.poi.PoiType",
+	"villagersplus:alchemist": "net.minecraft.world.entity.ai.village.poi.PoiType"
 }
