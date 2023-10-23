@@ -8,6 +8,8 @@ def serverScripts():
 def clientScripts():
 	return os.path.join(kubejs(), 'client_scripts')
 
+def bountifulPools():
+	return os.path.join(data(), "bountiful", "bounty_pools", "bountiful")
 def farmersDelightCooking():
 	return os.path.join(farmersDelightRecipes(), 'cooking')
 

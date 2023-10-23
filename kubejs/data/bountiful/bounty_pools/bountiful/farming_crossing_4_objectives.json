@@ -1,0 +1,4904 @@
+{
+  "content": {
+    "fd76c6c6714d11eebc965414f3624778": {
+      "type": "item",
+      "content": "bakery:croissant",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773bfc714d11eeb2045414f3624778": {
+      "type": "item",
+      "content": "bakery:crusty_bread",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773bfd714d11eea1e35414f3624778": {
+      "type": "item",
+      "content": "bakery:bread",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773bfe714d11eeb9ef5414f3624778": {
+      "type": "item",
+      "content": "bakery:baguette",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773bff714d11ee82d95414f3624778": {
+      "type": "item",
+      "content": "bakery:toast",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c00714d11eea9695414f3624778": {
+      "type": "item",
+      "content": "bakery:braided_bread",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c01714d11eeaf145414f3624778": {
+      "type": "item",
+      "content": "bakery:bun",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c02714d11ee8db85414f3624778": {
+      "type": "item",
+      "content": "bakery:vegetable_sandwich",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c03714d11eea63e5414f3624778": {
+      "type": "item",
+      "content": "bakery:sandwich",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c04714d11ee8b3a5414f3624778": {
+      "type": "item",
+      "content": "bakery:bread_crate",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c05714d11ee803f5414f3624778": {
+      "type": "item",
+      "content": "bakery:linzer_tart",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c06714d11eea8af5414f3624778": {
+      "type": "item",
+      "content": "bakery:apple_pie",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c07714d11ee9f6d5414f3624778": {
+      "type": "item",
+      "content": "bakery:glowberry_tart",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c08714d11ee8e635414f3624778": {
+      "type": "item",
+      "content": "bakery:chocolate_tart",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c09714d11eeabe65414f3624778": {
+      "type": "item",
+      "content": "bakery:bundt_cake",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c0a714d11ee9d855414f3624778": {
+      "type": "item",
+      "content": "bakery:waffle",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c0b714d11ee877f5414f3624778": {
+      "type": "item",
+      "content": "bakery:strawberry_jam",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c0c714d11eebade5414f3624778": {
+      "type": "item",
+      "content": "bakery:sweetberry_jam",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c0d714d11ee82e35414f3624778": {
+      "type": "item",
+      "content": "bakery:glowberry_jam",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c0e714d11eea4b05414f3624778": {
+      "type": "item",
+      "content": "bakery:apple_jam",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c0f714d11ee9d105414f3624778": {
+      "type": "item",
+      "content": "bakery:chocolate_jam",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c10714d11eea8935414f3624778": {
+      "type": "item",
+      "content": "bakery:chocolate_truffle",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c11714d11ee88025414f3624778": {
+      "type": "item",
+      "content": "bakery:pudding",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c12714d11ee8a735414f3624778": {
+      "type": "item",
+      "content": "bakery:jam_roll",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c13714d11ee97495414f3624778": {
+      "type": "item",
+      "content": "bakery:strawberry_glazed_cookie",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c14714d11eeb0d55414f3624778": {
+      "type": "item",
+      "content": "bakery:sweetberry_glazed_cookie",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c15714d11eeaa465414f3624778": {
+      "type": "item",
+      "content": "bakery:chocolate_glazed_cookie",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c16714d11eea1ed5414f3624778": {
+      "type": "item",
+      "content": "bakery:strawberry_cupcake",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c17714d11eea1765414f3624778": {
+      "type": "item",
+      "content": "bakery:sweetberry_cupcake",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c18714d11ee82a75414f3624778": {
+      "type": "item",
+      "content": "bakery:apple_cupcake",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c19714d11ee85da5414f3624778": {
+      "type": "item",
+      "content": "bakery:strawberry_cake",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c1a714d11eeb4955414f3624778": {
+      "type": "item",
+      "content": "bakery:sweetberry_cake",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c1b714d11ee8d425414f3624778": {
+      "type": "item",
+      "content": "bakery:chocolate_cake",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c1c714d11ee8b005414f3624778": {
+      "type": "item",
+      "content": "vinery:red_grapejuice_wine_bottle",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c1d714d11eea0f25414f3624778": {
+      "type": "item",
+      "content": "vinery:white_grapejuice_wine_bottle",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c1e714d11ee85305414f3624778": {
+      "type": "item",
+      "content": "vinery:taiga_red_grapejuice_bottle",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c1f714d11eeb3bc5414f3624778": {
+      "type": "item",
+      "content": "vinery:taiga_white_grapejuice_bottle",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c20714d11eeb23a5414f3624778": {
+      "type": "item",
+      "content": "vinery:jungle_red_grapejuice_bottle",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c21714d11eea4585414f3624778": {
+      "type": "item",
+      "content": "vinery:jungle_white_grapejuice_bottle",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c22714d11eebabd5414f3624778": {
+      "type": "item",
+      "content": "vinery:savanna_red_grapejuice_bottle",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c23714d11eeab715414f3624778": {
+      "type": "item",
+      "content": "vinery:savanna_white_grapejuice_bottle",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c24714d11ee80eb5414f3624778": {
+      "type": "item",
+      "content": "vinery:apple_juice",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c25714d11eea2da5414f3624778": {
+      "type": "item",
+      "content": "vinery:apple_wine",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c26714d11eea5705414f3624778": {
+      "type": "item",
+      "content": "vinery:cherry_wine",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c27714d11ee9b2d5414f3624778": {
+      "type": "item",
+      "content": "vinery:magnetic_wine",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c28714d11ee96cd5414f3624778": {
+      "type": "item",
+      "content": "vinery:noir_wine",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c29714d11eeb1495414f3624778": {
+      "type": "item",
+      "content": "vinery:king_danis_wine",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c2a714d11eeabd25414f3624778": {
+      "type": "item",
+      "content": "vinery:mellohi_wine",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c2b714d11eea2a05414f3624778": {
+      "type": "item",
+      "content": "vinery:stal_wine",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c2c714d11ee91355414f3624778": {
+      "type": "item",
+      "content": "vinery:strad_wine",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c2d714d11ee87855414f3624778": {
+      "type": "item",
+      "content": "vinery:solaris_wine",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c2e714d11ee9f305414f3624778": {
+      "type": "item",
+      "content": "vinery:chorus_wine",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c2f714d11eea3185414f3624778": {
+      "type": "item",
+      "content": "vinery:aegis_wine",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c30714d11eeb1985414f3624778": {
+      "type": "item",
+      "content": "vinery:clark_wine",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c31714d11ee909e5414f3624778": {
+      "type": "item",
+      "content": "vinery:bolvar_wine",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c32714d11eeb1365414f3624778": {
+      "type": "item",
+      "content": "vinery:kelp_cider",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c33714d11eeae685414f3624778": {
+      "type": "item",
+      "content": "vinery:chenet_wine",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c34714d11eebeba5414f3624778": {
+      "type": "item",
+      "content": "vinery:apple_cider",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c35714d11eeb27c5414f3624778": {
+      "type": "item",
+      "content": "vinery:jellie_wine",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c36714d11eeb5975414f3624778": {
+      "type": "item",
+      "content": "vinery:red_wine",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c37714d11eea2985414f3624778": {
+      "type": "item",
+      "content": "vinery:praetorian_wine",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c38714d11ee91a35414f3624778": {
+      "type": "item",
+      "content": "vinery:jo_special_mixture",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c39714d11eea6795414f3624778": {
+      "type": "item",
+      "content": "vinery:cristel_wine",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c3a714d11ee91dd5414f3624778": {
+      "type": "item",
+      "content": "vinery:creepers_crush",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c3b714d11eeb3fb5414f3624778": {
+      "type": "item",
+      "content": "vinery:villagers_fright",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c3c714d11eea5f45414f3624778": {
+      "type": "item",
+      "content": "vinery:glowing_wine",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c3d714d11ee9f795414f3624778": {
+      "type": "item",
+      "content": "vinery:mead",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c3e714d11ee8eaf5414f3624778": {
+      "type": "item",
+      "content": "vinery:bottle_mojang_noir",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c3f714d11ee88635414f3624778": {
+      "type": "item",
+      "content": "vinery:eiswein",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c40714d11ee99945414f3624778": {
+      "type": "item",
+      "content": "meadow:cheese_block",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c41714d11ee9ed65414f3624778": {
+      "type": "item",
+      "content": "meadow:sheep_cheese_block",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c42714d11ee881c5414f3624778": {
+      "type": "item",
+      "content": "meadow:grain_cheese_block",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c43714d11ee87595414f3624778": {
+      "type": "item",
+      "content": "meadow:amethyst_cheese_block",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c44714d11eebc4e5414f3624778": {
+      "type": "item",
+      "content": "meadow:buffalo_cheese_block",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c45714d11eeb0e25414f3624778": {
+      "type": "item",
+      "content": "meadow:goat_cheese_block",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c46714d11eea56d5414f3624778": {
+      "type": "item",
+      "content": "meadow:cheese_sandwich",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c47714d11ee964e5414f3624778": {
+      "type": "item",
+      "content": "meadow:cheese_roll",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c48714d11eebd965414f3624778": {
+      "type": "item",
+      "content": "meadow:cheesecake",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c49714d11ee8a635414f3624778": {
+      "type": "item",
+      "content": "meadow:cheese_tart",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c4a714d11eeb9495414f3624778": {
+      "type": "item",
+      "content": "candlelight:tomato_soup",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c4b714d11eebf7f5414f3624778": {
+      "type": "item",
+      "content": "candlelight:mushroom_soup",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c4c714d11eeb9145414f3624778": {
+      "type": "item",
+      "content": "candlelight:pasta",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c4d714d11ee96375414f3624778": {
+      "type": "item",
+      "content": "candlelight:chicken_teriyaki",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c4e714d11eebcea5414f3624778": {
+      "type": "item",
+      "content": "candlelight:chocolate",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c4f714d11eea35d5414f3624778": {
+      "type": "item",
+      "content": "candlelight:lasagne",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c50714d11ee8cf25414f3624778": {
+      "type": "item",
+      "content": "candlelight:chicken",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c51714d11ee9aaa5414f3624778": {
+      "type": "item",
+      "content": "candlelight:pork_ribs",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c52714d11eea0c15414f3624778": {
+      "type": "item",
+      "content": "candlelight:salmon_wine",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c53714d11eebb155414f3624778": {
+      "type": "item",
+      "content": "candlelight:pancake",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c54714d11eebb405414f3624778": {
+      "type": "item",
+      "content": "candlelight:fricasse",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c55714d11eea74d5414f3624778": {
+      "type": "item",
+      "content": "candlelight:roastbeef_carrots",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c56714d11ee809b5414f3624778": {
+      "type": "item",
+      "content": "candlelight:beef_wellington",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c57714d11eead2a5414f3624778": {
+      "type": "item",
+      "content": "candlelight:pizza",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c58714d11ee83e95414f3624778": {
+      "type": "item",
+      "content": "candlelight:cooked_beef",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c59714d11ee91d75414f3624778": {
+      "type": "item",
+      "content": "candlelight:bolognese",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c5a714d11eeab3f5414f3624778": {
+      "type": "item",
+      "content": "candlelight:chicken_alfredo",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c5b714d11ee80e35414f3624778": {
+      "type": "item",
+      "content": "candlelight:broccoli_beef",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c5c714d11eebd215414f3624778": {
+      "type": "item",
+      "content": "candlelight:pasta_bolognese",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c5d714d11eeb43e5414f3624778": {
+      "type": "item",
+      "content": "candlelight:pasta_broccoli",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c5e714d11eea68a5414f3624778": {
+      "type": "item",
+      "content": "candlelight:tomato_mozzarella_salad",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c5f714d11ee89d15414f3624778": {
+      "type": "item",
+      "content": "candlelight:veggie_plate",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c60714d11eeb1155414f3624778": {
+      "type": "item",
+      "content": "candlelight:broccoli_tomato",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c61714d11ee87c35414f3624778": {
+      "type": "item",
+      "content": "candlelight:broccoli_salad",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c62714d11ee84e45414f3624778": {
+      "type": "item",
+      "content": "candlelight:beef_tartare",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c63714d11eeac575414f3624778": {
+      "type": "item",
+      "content": "candlelight:beetroot_salad",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c64714d11ee8afb5414f3624778": {
+      "type": "item",
+      "content": "beachparty:sweetberry_icecream",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c65714d11ee86b65414f3624778": {
+      "type": "item",
+      "content": "beachparty:coconut_icecream",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c66714d11eeb8735414f3624778": {
+      "type": "item",
+      "content": "beachparty:chocolate_icecream",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c67714d11eead4f5414f3624778": {
+      "type": "item",
+      "content": "beachparty:icecream_chocolate",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c68714d11ee8d8a5414f3624778": {
+      "type": "item",
+      "content": "beachparty:icecream_coconut",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c69714d11eea47d5414f3624778": {
+      "type": "item",
+      "content": "beachparty:icecream_cactus",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c6a714d11ee938a5414f3624778": {
+      "type": "item",
+      "content": "beachparty:icecream_melon",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c6b714d11eea6965414f3624778": {
+      "type": "item",
+      "content": "beachparty:icecream_sweetberries",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c6c714d11eeaef35414f3624778": {
+      "type": "item",
+      "content": "beachparty:chocolate_milkshake",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c6d714d11eebd045414f3624778": {
+      "type": "item",
+      "content": "beachparty:coconut_milkshake",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c6e714d11eeac525414f3624778": {
+      "type": "item",
+      "content": "beachparty:sweetberry_milkshake",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c6f714d11ee906e5414f3624778": {
+      "type": "item",
+      "content": "beachparty:honey_cocktail",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c70714d11ee9d105414f3624778": {
+      "type": "item",
+      "content": "beachparty:melon_cocktail",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c71714d11eeafe15414f3624778": {
+      "type": "item",
+      "content": "beachparty:pumpkin_cocktail",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c72714d11ee9f205414f3624778": {
+      "type": "item",
+      "content": "beachparty:cocoa_cocktail",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c73714d11ee99955414f3624778": {
+      "type": "item",
+      "content": "beachparty:sweetberries_cocktail",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c74714d11ee917c5414f3624778": {
+      "type": "item",
+      "content": "beachparty:coconut_cocktail",
+      "amount": {
+        "min": 4,
+        "max": 4
+      },
+      "unitWorth": 1500,
+      "weightMult": 5
+    },
+    "fd773c75714d11ee9fb75414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:acuarelas",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773c76714d11ee96145414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:amplificador",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773c77714d11eebaf75414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:arpa",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773c78714d11eeb2695414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:banyo",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773c79714d11eeb8395414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:camaradecine",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773c7a714d11ee9bd55414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:claqueta",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773c7b714d11eea7915414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:gafas_3d",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773c7c714d11ee88c25414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:guitarra",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773c7d714d11ee88055414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:guitarraelectricaamarilla",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773c7e714d11ee89495414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:guitarraelectricaazul",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773c7f714d11ee90ff5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:guitarraelectricaazulclara",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773c80714d11eea3ae5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:guitarraelectricablanca",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773c81714d11eebde35414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:guitarraelectricacafe",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773c82714d11eea3b95414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:guitarraelectricacian",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773c83714d11eeb89c5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:guitarraelectricagris",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773c84714d11ee96c85414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:guitarraelectricagrisclara",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773c85714d11ee99615414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:guitarraelectricamagenta",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773c86714d11ee9fcb5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:guitarraelectricamorada",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773c87714d11ee940e5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:guitarraelectricanaranja",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773c88714d11eeb3595414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:guitarraelectricanegra",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773c89714d11eebe365414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:guitarraelectricaroja",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773c8a714d11eea94f5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:guitarraelectricarosa",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773c8b714d11eebc125414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:guitarraelectricaverde",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773c8c714d11ee861c5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:guitarraelectricaverdelima",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773c8d714d11ee9df75414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:maniqui",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773c8e714d11ee97715414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:maquinadecoser",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773c8f714d11eea2bc5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:martilloycincel",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773c90714d11ee904f5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:mezcladordj",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773c91714d11ee86175414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:microfono",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773c92714d11eeb2875414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:microfonoenpedestal",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773c93714d11ee96a05414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:paletadepintura",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773c94714d11ee9fbc5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:pincelesenagua",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773c95714d11ee9b3e5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:reflector",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773c96714d11eea8ca5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:rollodepelicula",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773c97714d11eeaf625414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:rollosdepelicula",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773c98714d11eea4ca5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:silladedirector",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773c99714d11ee9bfd5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:tamboramarillo",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773c9a714d11ee8e065414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:tamborazul",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773c9b714d11ee87165414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:tamborazulclaro",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773c9c714d11eea5145414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:tamborblanco",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773c9d714d11ee81c05414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:tamborcafe",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773c9e714d11ee817c5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:tamborcian",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773c9f714d11eeba2d5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:tamborgris",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773ca0714d11eea7435414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:tamborgrisclaro",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773ca1714d11ee89875414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:tambormagenta",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773ca2714d11ee933a5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:tambormorado",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773ca3714d11ee83d05414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:tambornaranja",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773ca4714d11ee9b055414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:tambornegro",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773ca5714d11ee8bbb5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:tamborrojo",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773ca6714d11ee8d5d5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:tamborrosa",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773ca7714d11ee8ca45414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:tamborverde",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773ca8714d11ee9fc25414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:tamborverdelima",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773ca9714d11eeb53d5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:tecladomusical",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773caa714d11eeaa0b5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:tijeras",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773cab714d11eeac355414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:tocadiscos",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773cac714d11eeaa695414f3624778": {
+      "type": "item",
+      "content": "moa_decor_art:violin",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773cad714d11ee90e35414f3624778": {
+      "type": "item",
+      "content": "moa_decor_bath:banera",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773cae714d11eebea95414f3624778": {
+      "type": "item",
+      "content": "moa_decor_bath:cubetadeagua",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773caf714d11eeac885414f3624778": {
+      "type": "item",
+      "content": "moa_decor_bath:destapador",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773cb0714d11eea6d35414f3624778": {
+      "type": "item",
+      "content": "moa_decor_bath:esco",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773cb1714d11ee95a65414f3624778": {
+      "type": "item",
+      "content": "moa_decor_bath:esponjadebano",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773cb2714d11ee89c35414f3624778": {
+      "type": "item",
+      "content": "moa_decor_bath:gemadbano",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773cb3714d11eea1315414f3624778": {
+      "type": "item",
+      "content": "moa_decor_bath:inodoro",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd773cb4714d11ee9bbb5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_bath:jabon",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776314714d11ee8fef5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_bath:jabonera",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776315714d11ee9dd75414f3624778": {
+      "type": "item",
+      "content": "moa_decor_bath:jaboneradepared",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776316714d11ee964b5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_bath:lavabo",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776317714d11eeb8735414f3624778": {
+      "type": "item",
+      "content": "moa_decor_bath:lavaboconpedestal",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776318714d11ee93ff5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_bath:letreropisomojado",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776319714d11ee9c6f5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_bath:llavesdebanera",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77631a714d11ee82af5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_bath:llavesderegadera",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77631b714d11eeb8be5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_bath:mingitorio",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77631c714d11eebea45414f3624778": {
+      "type": "item",
+      "content": "moa_decor_bath:planch",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77631d714d11eeb21e5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_bath:regadera",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77631e714d11ee9cd55414f3624778": {
+      "type": "item",
+      "content": "moa_decor_bath:secadormanos",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77631f714d11ee9b6d5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_bath:soporteparajabon",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776320714d11eeb0245414f3624778": {
+      "type": "item",
+      "content": "moa_decor_bath:tabladeplanchar",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776321714d11ee89905414f3624778": {
+      "type": "item",
+      "content": "moa_decor_bath:tendederoconropafemenina",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776322714d11ee96385414f3624778": {
+      "type": "item",
+      "content": "moa_decor_bath:tendederoconropamasculina",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776323714d11ee83dd5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_bath:tendederoconsabanas",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776324714d11ee84a75414f3624778": {
+      "type": "item",
+      "content": "moa_decor_bath:trap",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776325714d11eeade35414f3624778": {
+      "type": "item",
+      "content": "moa_decor_bath:vasocepillosdedientes",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776326714d11eea6175414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:arana_en_telarana",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776327714d11eeadab5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:arana_en_telarana_2",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776328714d11ee977d5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:base_pino_navideno",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776329714d11ee9dfc5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:bruja_escoba",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77632a714d11ee988e5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:c_pblanco",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77632b714d11ee8d805414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:c_pcafe",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77632c714d11ee93955414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:c_pdorado",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77632d714d11eea8c65414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:c_pnegro",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77632e714d11ee9a865414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:catrinacian",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77632f714d11ee9e3a5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:catrinamorada",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776330714d11ee87395414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:catrinaroja",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776331714d11eead8f5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:clabaza_creeper_nav",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776332714d11eea5915414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:conejo_chocolate",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776333714d11ee8a575414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:corona_navidena",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776334714d11eea8415414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:creeper_nieve",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776335714d11eebc0d5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:duende_navidena",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776336714d11eea3985414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:duende_navideno",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776337714d11eea3095414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:esqueleto_enjaulado",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776338714d11eea88a5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:esqueletoacostado",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776339714d11eea71d5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:esqueletosentado",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77633a714d11eeafc95414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:estrella_navidena",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77633b714d11ee9f9d5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:fantasma",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77633c714d11eebf065414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:gema_festividades",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77633d714d11eeb5b85414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:jaula",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77633e714d11eea7ba5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:lapida",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77633f714d11ee9f885414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:lapida_cruz",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776340714d11eeba225414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:leprechaun",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776341714d11ee8d815414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:leprechaunolladeoro",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776342714d11eeb3235414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:mariachiguitarra",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776343714d11ee8ce05414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:mariachitrompeta",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776344714d11eeab5a5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:mariachiviolin",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776345714d11eeb0c15414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:murcielagoabierto",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776346714d11ee84f75414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:murcielagocerrado",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776347714d11ee897f5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:p_galleta_jengibre",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776348714d11ee84b15414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:p_galleta_jengibre_n",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776349714d11eeb3965414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:p_oso_polar_n",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77634a714d11ee8f0f5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:pino_navideno",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77634b714d11eeba895414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:santa_claus",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77634c714d11eea75e5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:tumba",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77634d714d11ee93545414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:tumbaabierta",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77634e714d11eea6b75414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:tumbaesqueleto",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77634f714d11ee9c8c5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:tumbaesqueletosentado",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776350714d11ee93ed5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:zombieacostado",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776351714d11ee90b65414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:zombieenterrado",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776352714d11eeb20b5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_holidays:zombiesaliendotierra",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776353714d11eeb01d5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_science:bascula",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776354714d11ee8bac5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_science:botiquindepared",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776355714d11eeb9805414f3624778": {
+      "type": "item",
+      "content": "moa_decor_science:brujula",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776356714d11ee8f815414f3624778": {
+      "type": "item",
+      "content": "moa_decor_science:calculadora",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776357714d11ee8fcd5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_science:frascodepildoras",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776358714d11ee843c5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_science:frascodepildorasabierto",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776359714d11eebb355414f3624778": {
+      "type": "item",
+      "content": "moa_decor_science:globoterraqueo",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77635a714d11ee8da15414f3624778": {
+      "type": "item",
+      "content": "moa_decor_science:lectordesignosvitales",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77635b714d11eea5db5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_science:libro",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77635c714d11ee92005414f3624778": {
+      "type": "item",
+      "content": "moa_decor_science:libroabierto",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77635d714d11eea01b5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_science:libros",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77635e714d11ee80305414f3624778": {
+      "type": "item",
+      "content": "moa_decor_science:librosapilados",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77635f714d11eead995414f3624778": {
+      "type": "item",
+      "content": "moa_decor_science:libroytintero",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776360714d11ee98705414f3624778": {
+      "type": "item",
+      "content": "moa_decor_science:lupa",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776361714d11eea7945414f3624778": {
+      "type": "item",
+      "content": "moa_decor_science:mapadeltesoro",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776362714d11eea3e65414f3624778": {
+      "type": "item",
+      "content": "moa_decor_science:microscopio",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776363714d11ee95555414f3624778": {
+      "type": "item",
+      "content": "moa_decor_science:pizarra",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776364714d11ee92bb5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_science:telescopio",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776365714d11ee9ace5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_science:tintero",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776366714d11eead4c5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_science:veneno",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776367714d11ee9a835414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:abeja",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776368714d11eea06c5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:ajoloteazul",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776369714d11ee8f095414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:ajolotecafe",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77636a714d11ee9ef05414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:ajolotecian",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77636b714d11ee99685414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:ajolotedorado",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77636c714d11eeaa795414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:ajoloterosa",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77636d714d11ee80685414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:aldeano",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77636e714d11eeae4b5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:aldeanodesierto",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77636f714d11ee85c15414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:aldeanoinvierno",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776370714d11ee9bb05414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:aldeanopantano",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776371714d11ee86cc5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:aldeanosabana",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776372714d11eea2f75414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:aldeanotaiga",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776373714d11eeaaf55414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:aleanozombie",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776374714d11ee828e5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:alex",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776375714d11ee91615414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:allay",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776376714d11eebdae5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:arana",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776377714d11eea43b5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:aranadelascuevas",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776378714d11ee87f95414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:aranayesqueleto",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776379714d11ee95335414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:blaze",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77637a714d11eea85f5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:bruja",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77637b714d11ee97a55414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:burro",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77637c714d11eea4475414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:caballoblanco",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77637d714d11eea55a5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:caballoblanco_h",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77637e714d11eeb8945414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:caballocafe",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77637f714d11ee9f635414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:caballocafe_c",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776380714d11eeb0ba5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:caballocafe_h",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776381714d11eea1fd5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:caballocafe_m",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776382714d11eebfb05414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:caballocafe_r",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776383714d11ee9e405414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:caballocafeosc",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776384714d11ee87325414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:caballocafeosc_c",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776385714d11ee92fa5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:caballocafeosc_h",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776386714d11eeadb65414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:caballocafeosc_m_1",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776387714d11eeba9a5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:caballocafeosc_r",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776388714d11ee8e715414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:caballocastano",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776389714d11ee85205414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:caballocastano_c",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77638a714d11eeb5a25414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:caballocastano_h",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77638b714d11eebbe75414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:caballocastano_m",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77638c714d11eea0eb5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:caballocastano_r",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77638d714d11ee9ae15414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:caballocrema",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77638e714d11eeaa1d5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:caballocrema_c",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77638f714d11eeb8755414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:caballocrema_h",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776390714d11ee9c6c5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:caballocrema_m",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776391714d11ee93ae5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:caballocrema_r",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776392714d11ee9e565414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:caballoesqueleto",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776393714d11ee81955414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:caballoesqueletoyesqueleto",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776394714d11eea1645414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:caballogris",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776395714d11ee83845414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:caballogris_c",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776396714d11eeb43a5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:caballogris_h",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776397714d11ee9af65414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:caballogris_m",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776398714d11ee90205414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:caballogris_r",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776399714d11ee81fb5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:caballonegro",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77639a714d11eeb72c5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:caballonegro_c",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77639b714d11eeb84e5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:caballonegro_h",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77639c714d11eeb65d5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:caballonegro_m",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77639d714d11eeada75414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:caballonegro_r",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77639e714d11ee8d345414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:cabra",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77639f714d11ee9c7e5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:calamar",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763a0714d11eea21d5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:calamarbrillante",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763a1714d11ee83275414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:camello",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763a2714d11eea6255414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:cerdo",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763a3714d11ee96845414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:champivaca",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763a4714d11ee9ae65414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:conejoblanco",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763a5714d11eeade65414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:conejoblancoynegro",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763a6714d11ee95dd5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:conejocafe",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763a7714d11ee91155414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:conejocastano",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763a8714d11ee8c115414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:conejodorado",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763a9714d11ee87875414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:conejonegro",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763aa714d11ee8e455414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:creeper",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763ab714d11eea2995414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:cubodemagma",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763ac714d11ee959c5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:delfin",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763ad714d11eeaabb5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:devastador",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763ae714d11eeab665414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:devastadorysaqueador",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763af714d11ee88c05414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:dragondelender",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763b0714d11eebbac5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:enderman",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763b1714d11eeb6455414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:endermite",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763b2714d11ee9f0d5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:esqueleto",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763b3714d11eea4505414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:esqueletoglacial",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763b4714d11ee9d135414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:esqueletowither",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763b5714d11eebeb95414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:fantasma",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763b6714d11eea4455414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:gallina",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763b7714d11ee83cc5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:gallinayahogado",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763b8714d11eebfdf5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:gallinayjinetealdeanozombie",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763b9714d11ee93185414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:gallinaypiglinzombie",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763ba714d11ee80945414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:gallinayzombie",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763bb714d11ee81e85414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:gallinayzombiemomificado",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763bc714d11eeb0075414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:gatoatigrado",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763bd714d11eeacd65414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:gatoblanco",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763be714d11eea45c5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:gatobritanico",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763bf714d11ee85445414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:gatocalico",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763c0714d11ee9a825414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:gatojellie",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763c1714d11eebd975414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:gatonegro",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763c2714d11ee991b5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:gatopersa",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763c3714d11eea5cf5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:gatoragdoll",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763c4714d11eea6855414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:gatosiames",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763c5714d11eeb03b5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:gatotabby",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763c6714d11eea8f65414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:gatotuxedo",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763c7714d11eeab875414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:ghast",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763c8714d11eeb4245414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:golemdehierro",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763c9714d11ee90a15414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:golemdenieve",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763ca714d11eebbd95414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:guardian",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763cb714d11eea5795414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:guardiananciano",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763cc714d11eeb4765414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:hoglin",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763cd714d11ee871b5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:invocador",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763ce714d11eeb7125414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:lavagante",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763cf714d11eeb0295414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:lavaganteypiglinzombie",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763d0714d11ee96355414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:lepisma",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763d1714d11eeb9865414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:llamablanca",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763d2714d11ee9d1e5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:llamacafe",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763d3714d11ee828f5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:llamacrema",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763d4714d11eeb7d95414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:llamagris",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763d5714d11eea32c5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:lobo",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763d6714d11ee87865414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:loroazul",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763d7714d11ee824a5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:lorocian",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763d8714d11eea94d5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:lorogris",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763d9714d11eeb8715414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:lororojo",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763da714d11ee8b165414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:loroverde",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763db714d11ee847b5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:mula",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763dc714d11eebe565414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:murcielago",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763dd714d11ee92825414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:ocelote",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763de714d11eebefe5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:osopolar",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763df714d11eeb3bf5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:ovejaamarilla",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763e0714d11eebf695414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:ovejaazul",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763e1714d11ee81735414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:ovejaazulclara",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763e2714d11ee943b5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:ovejablanca",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763e3714d11ee91fe5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:ovejacafe",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763e4714d11eeae635414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:ovejacian",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763e5714d11ee9d645414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:ovejagris",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763e6714d11ee9ceb5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:ovejagrisclara",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763e7714d11ee96305414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:ovejamagenta",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763e8714d11eebdb95414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:ovejamorada",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763e9714d11eea6f65414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:ovejanaranja",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763ea714d11eea06f5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:ovejanegra",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763eb714d11eebd265414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:ovejaroja",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763ec714d11eeaacb5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:ovejarosa",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763ed714d11ee8c9c5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:ovejaverde",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763ee714d11ee9b755414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:ovejaverdelima",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763ef714d11eea06d5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:panda",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763f0714d11ee8ccd5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:piglin",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763f1714d11ee84ad5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:piglinbruto",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763f2714d11eea89b5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:piglinzombie",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763f3714d11ee835e5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:ranacalida",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763f4714d11eea6d75414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:ranahelada",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763f5714d11eebbf55414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:ranatemplada",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763f6714d11ee97705414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:saqueador",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763f7714d11eeb2ae5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:shulker",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763f8714d11eea7d65414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:slime",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763f9714d11ee93ff5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:sniffer",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763fa714d11eeaf4b5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:steve",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763fb714d11eea70f5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:tortugamarina",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763fc714d11eebd1c5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:vaca",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763fd714d11ee81055414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:vendedorambulante",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763fe714d11ee8ba85414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:vex",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd7763ff714d11eea4f25414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:vindicador",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776400714d11ee8a695414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:warden",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776401714d11eea5545414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:wither",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776402714d11ee92d25414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:zoglin",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776403714d11eeb97d5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:zombie",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776404714d11eea7bb5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:zombieahogado",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776405714d11ee9cd15414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:zombiemomificado",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776406714d11ee859e5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:zorro",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776407714d11ee905d5414f3624778": {
+      "type": "item",
+      "content": "moa_decor_toys:zorroblanco",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776408714d11ee8a015414f3624778": {
+      "type": "item",
+      "content": "playdate:dino",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776409714d11eeb0ef5414f3624778": {
+      "type": "item",
+      "content": "playdate:music_box",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77640a714d11ee9e915414f3624778": {
+      "type": "item",
+      "content": "playdate:piggy_bank",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77640b714d11ee8bb45414f3624778": {
+      "type": "item",
+      "content": "playdate:ring_tower",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77640c714d11ee97c45414f3624778": {
+      "type": "item",
+      "content": "playdate:rocking_horse",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77640d714d11eeb9a45414f3624778": {
+      "type": "item",
+      "content": "playdate:sock_monkey",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77640e714d11eebcd55414f3624778": {
+      "type": "item",
+      "content": "playdate:teddy_bear",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77640f714d11eeb90a5414f3624778": {
+      "type": "item",
+      "content": "playdate:toy_bench",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776410714d11ee9ef65414f3624778": {
+      "type": "item",
+      "content": "playdate:toy_boat",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776411714d11eeb0e65414f3624778": {
+      "type": "item",
+      "content": "playdate:toy_clock",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776412714d11eead775414f3624778": {
+      "type": "item",
+      "content": "playdate:toy_robot",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776413714d11eeb02e5414f3624778": {
+      "type": "item",
+      "content": "playdate:toy_train",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776414714d11eeb4be5414f3624778": {
+      "type": "item",
+      "content": "playdate:wooden_duck",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776415714d11eeaa765414f3624778": {
+      "type": "item",
+      "content": "playdate:wooden_soldier",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776416714d11eeb4f15414f3624778": {
+      "type": "item",
+      "content": "handcrafted:bear_trophy",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776417714d11eeb45a5414f3624778": {
+      "type": "item",
+      "content": "handcrafted:blaze_trophy",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776418714d11ee9dbd5414f3624778": {
+      "type": "item",
+      "content": "handcrafted:fox_trophy",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776419714d11eeae9e5414f3624778": {
+      "type": "item",
+      "content": "handcrafted:goat_trophy",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77641a714d11eeb50e5414f3624778": {
+      "type": "item",
+      "content": "handcrafted:pufferfish_trophy",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77641b714d11eea6b15414f3624778": {
+      "type": "item",
+      "content": "handcrafted:salmon_trophy",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77641c714d11eebfd95414f3624778": {
+      "type": "item",
+      "content": "handcrafted:silverfish_trophy",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77641d714d11ee90d35414f3624778": {
+      "type": "item",
+      "content": "handcrafted:skeleton_horse_trophy",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77641e714d11ee920e5414f3624778": {
+      "type": "item",
+      "content": "handcrafted:spider_trophy",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd77641f714d11eead045414f3624778": {
+      "type": "item",
+      "content": "handcrafted:tropical_fish_trophy",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776420714d11ee864b5414f3624778": {
+      "type": "item",
+      "content": "handcrafted:wither_skeleton_trophy",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776421714d11eeb35d5414f3624778": {
+      "type": "item",
+      "content": "handcrafted:wolf_trophy",
+      "amount": {
+        "min": 1,
+        "max": 1
+      },
+      "unitWorth": 1000,
+      "weightMult": 0.6
+    },
+    "fd776422714d11eeb92a5414f3624778": {
+      "type": "item",
+      "content": "aquaculture:red_grouper",
+      "amount": {
+        "min": 2,
+        "max": 2
+      },
+      "unitWorth": 1500,
+      "weightMult": 11.8
+    },
+    "fd776423714d11ee98145414f3624778": {
+      "type": "item",
+      "content": "aquaculture:tuna",
+      "amount": {
+        "min": 2,
+        "max": 2
+      },
+      "unitWorth": 3000,
+      "weightMult": 11.8
+    },
+    "fd776424714d11eeb43f5414f3624778": {
+      "type": "item",
+      "content": "aquaculture:box_turtle",
+      "amount": {
+        "min": 2,
+        "max": 2
+      },
+      "unitWorth": 3000,
+      "weightMult": 11.8
+    },
+    "fd776425714d11eeaae85414f3624778": {
+      "type": "item",
+      "content": "aquaculture:atlantic_cod",
+      "amount": {
+        "min": 2,
+        "max": 2
+      },
+      "unitWorth": 1500,
+      "weightMult": 11.8
+    },
+    "fd776426714d11ee94db5414f3624778": {
+      "type": "item",
+      "content": "aquaculture:blackfish",
+      "amount": {
+        "min": 2,
+        "max": 2
+      },
+      "unitWorth": 1000,
+      "weightMult": 11.8
+    },
+    "fd776427714d11ee8a0f5414f3624778": {
+      "type": "item",
+      "content": "aquaculture:pacific_halibut",
+      "amount": {
+        "min": 2,
+        "max": 2
+      },
+      "unitWorth": 1500,
+      "weightMult": 11.8
+    },
+    "fd776428714d11eea1e15414f3624778": {
+      "type": "item",
+      "content": "aquaculture:atlantic_halibut",
+      "amount": {
+        "min": 2,
+        "max": 2
+      },
+      "unitWorth": 3000,
+      "weightMult": 11.8
+    },
+    "fd776429714d11ee885d5414f3624778": {
+      "type": "item",
+      "content": "aquaculture:atlantic_herring",
+      "amount": {
+        "min": 2,
+        "max": 2
+      },
+      "unitWorth": 1000,
+      "weightMult": 11.8
+    },
+    "fd77642a714d11eea24e5414f3624778": {
+      "type": "item",
+      "content": "aquaculture:pink_salmon",
+      "amount": {
+        "min": 2,
+        "max": 2
+      },
+      "unitWorth": 1500,
+      "weightMult": 11.8
+    },
+    "fd77642b714d11ee97bd5414f3624778": {
+      "type": "item",
+      "content": "aquaculture:pollock",
+      "amount": {
+        "min": 2,
+        "max": 2
+      },
+      "unitWorth": 1500,
+      "weightMult": 11.8
+    },
+    "fd77642c714d11ee82fd5414f3624778": {
+      "type": "item",
+      "content": "aquaculture:rainbow_trout",
+      "amount": {
+        "min": 2,
+        "max": 2
+      },
+      "unitWorth": 1500,
+      "weightMult": 11.8
+    },
+    "fd77642d714d11eeb9065414f3624778": {
+      "type": "item",
+      "content": "aquaculture:bayad",
+      "amount": {
+        "min": 2,
+        "max": 2
+      },
+      "unitWorth": 1500,
+      "weightMult": 11.8
+    },
+    "fd77642e714d11eebb0b5414f3624778": {
+      "type": "item",
+      "content": "aquaculture:boulti",
+      "amount": {
+        "min": 2,
+        "max": 2
+      },
+      "unitWorth": 1500,
+      "weightMult": 11.8
+    },
+    "fd77642f714d11eea63e5414f3624778": {
+      "type": "item",
+      "content": "aquaculture:capitaine",
+      "amount": {
+        "min": 2,
+        "max": 2
+      },
+      "unitWorth": 3000,
+      "weightMult": 11.8
+    },
+    "fd776430714d11ee968c5414f3624778": {
+      "type": "item",
+      "content": "aquaculture:synodontis",
+      "amount": {
+        "min": 2,
+        "max": 2
+      },
+      "unitWorth": 1000,
+      "weightMult": 11.8
+    },
+    "fd776431714d11eeb7865414f3624778": {
+      "type": "item",
+      "content": "aquaculture:smallmouth_bass",
+      "amount": {
+        "min": 2,
+        "max": 2
+      },
+      "unitWorth": 1500,
+      "weightMult": 11.8
+    },
+    "fd776432714d11ee93195414f3624778": {
+      "type": "item",
+      "content": "aquaculture:bluegill",
+      "amount": {
+        "min": 2,
+        "max": 2
+      },
+      "unitWorth": 1000,
+      "weightMult": 11.8
+    },
+    "fd776433714d11eeb9dd5414f3624778": {
+      "type": "item",
+      "content": "aquaculture:brown_trout",
+      "amount": {
+        "min": 2,
+        "max": 2
+      },
+      "unitWorth": 1500,
+      "weightMult": 11.8
+    },
+    "fd776434714d11ee9ad45414f3624778": {
+      "type": "item",
+      "content": "aquaculture:carp",
+      "amount": {
+        "min": 2,
+        "max": 2
+      },
+      "unitWorth": 1500,
+      "weightMult": 11.8
+    },
+    "fd776435714d11ee98ad5414f3624778": {
+      "type": "item",
+      "content": "aquaculture:catfish",
+      "amount": {
+        "min": 2,
+        "max": 2
+      },
+      "unitWorth": 3000,
+      "weightMult": 11.8
+    },
+    "fd776436714d11ee932f5414f3624778": {
+      "type": "item",
+      "content": "aquaculture:gar",
+      "amount": {
+        "min": 2,
+        "max": 2
+      },
+      "unitWorth": 1500,
+      "weightMult": 11.8
+    },
+    "fd776437714d11ee9a4b5414f3624778": {
+      "type": "item",
+      "content": "aquaculture:muskellunge",
+      "amount": {
+        "min": 2,
+        "max": 2
+      },
+      "unitWorth": 1500,
+      "weightMult": 11.8
+    },
+    "fd776438714d11eebe5d5414f3624778": {
+      "type": "item",
+      "content": "aquaculture:perch",
+      "amount": {
+        "min": 2,
+        "max": 2
+      },
+      "unitWorth": 1000,
+      "weightMult": 11.8
+    },
+    "fd776439714d11ee92615414f3624778": {
+      "type": "item",
+      "content": "aquaculture:arapaima",
+      "amount": {
+        "min": 2,
+        "max": 2
+      },
+      "unitWorth": 3000,
+      "weightMult": 11.8
+    },
+    "fd77643a714d11ee98e05414f3624778": {
+      "type": "item",
+      "content": "aquaculture:piranha",
+      "amount": {
+        "min": 2,
+        "max": 2
+      },
+      "unitWorth": 1000,
+      "weightMult": 11.8
+    },
+    "fd77643b714d11eea3585414f3624778": {
+      "type": "item",
+      "content": "aquaculture:tambaqui",
+      "amount": {
+        "min": 2,
+        "max": 2
+      },
+      "unitWorth": 1500,
+      "weightMult": 11.8
+    },
+    "fd77643c714d11ee9b505414f3624778": {
+      "type": "item",
+      "content": "aquaculture:brown_shrooma",
+      "amount": {
+        "min": 2,
+        "max": 2
+      },
+      "unitWorth": 1000,
+      "weightMult": 11.8
+    },
+    "fd77643d714d11ee9ccc5414f3624778": {
+      "type": "item",
+      "content": "aquaculture:red_shrooma",
+      "amount": {
+        "min": 2,
+        "max": 2
+      },
+      "unitWorth": 1000,
+      "weightMult": 11.8
+    },
+    "fd77643e714d11ee87355414f3624778": {
+      "type": "item",
+      "content": "aquaculture:jellyfish",
+      "amount": {
+        "min": 2,
+        "max": 2
+      },
+      "unitWorth": 1500,
+      "weightMult": 11.8
+    },
+    "fd77643f714d11ee803a5414f3624778": {
+      "type": "item",
+      "content": "aquaculture:arrau_turtle",
+      "amount": {
+        "min": 2,
+        "max": 2
+      },
+      "unitWorth": 3000,
+      "weightMult": 11.8
+    },
+    "fd776440714d11eeb2715414f3624778": {
+      "type": "item",
+      "content": "minecraft:cod",
+      "amount": {
+        "min": 2,
+        "max": 2
+      },
+      "unitWorth": 1000,
+      "weightMult": 11.8
+    },
+    "fd776441714d11ee9bae5414f3624778": {
+      "type": "item",
+      "content": "minecraft:salmon",
+      "amount": {
+        "min": 2,
+        "max": 2
+      },
+      "unitWorth": 1000,
+      "weightMult": 11.8
+    },
+    "fd776442714d11ee82dc5414f3624778": {
+      "type": "item",
+      "content": "minecraft:tropical_fish",
+      "amount": {
+        "min": 2,
+        "max": 2
+      },
+      "unitWorth": 1000,
+      "weightMult": 11.8
+    },
+    "fd776443714d11eeb2435414f3624778": {
+      "type": "item",
+      "content": "minecraft:pufferfish",
+      "amount": {
+        "min": 2,
+        "max": 2
+      },
+      "unitWorth": 1000,
+      "weightMult": 11.8
+    }
+  }
+}
