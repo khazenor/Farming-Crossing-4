@@ -1,8 +1,8 @@
 {
-	"minecraft:trapezoid": "net.minecraft.world.level.levelgen.heightproviders.HeightProviderType$$Lambda$2657/0x000002090ca94a38",
-	"minecraft:constant": "net.minecraft.world.level.levelgen.heightproviders.HeightProviderType$$Lambda$2657/0x000002090ca94a38",
-	"minecraft:uniform": "net.minecraft.world.level.levelgen.heightproviders.HeightProviderType$$Lambda$2657/0x000002090ca94a38",
-	"minecraft:very_biased_to_bottom": "net.minecraft.world.level.levelgen.heightproviders.HeightProviderType$$Lambda$2657/0x000002090ca94a38",
-	"minecraft:weighted_list": "net.minecraft.world.level.levelgen.heightproviders.HeightProviderType$$Lambda$2657/0x000002090ca94a38",
-	"minecraft:biased_to_bottom": "net.minecraft.world.level.levelgen.heightproviders.HeightProviderType$$Lambda$2657/0x000002090ca94a38"
+	"minecraft:weighted_list": "net.minecraft.world.level.levelgen.heightproviders.HeightProviderType$$Lambda$2657/0x000001a863a98238",
+	"minecraft:trapezoid": "net.minecraft.world.level.levelgen.heightproviders.HeightProviderType$$Lambda$2657/0x000001a863a98238",
+	"minecraft:biased_to_bottom": "net.minecraft.world.level.levelgen.heightproviders.HeightProviderType$$Lambda$2657/0x000001a863a98238",
+	"minecraft:uniform": "net.minecraft.world.level.levelgen.heightproviders.HeightProviderType$$Lambda$2657/0x000001a863a98238",
+	"minecraft:constant": "net.minecraft.world.level.levelgen.heightproviders.HeightProviderType$$Lambda$2657/0x000001a863a98238",
+	"minecraft:very_biased_to_bottom": "net.minecraft.world.level.levelgen.heightproviders.HeightProviderType$$Lambda$2657/0x000001a863a98238"
 }

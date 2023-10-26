@@ -1,13 +1,13 @@
 {
-	"yungsapi:max_count_feature_element": "com.yungnickyoung.minecraft.yungsapi.module.StructurePoolElementTypeModule$$Lambda$5015/0x000002090ce1cce0",
-	"yungsapi:yung_feature_element": "com.yungnickyoung.minecraft.yungsapi.module.StructurePoolElementTypeModule$$Lambda$5022/0x000002090ce20fd0",
-	"minecraft:list_pool_element": "net.minecraft.world.level.levelgen.structure.pools.StructurePoolElementType$$Lambda$3844/0x000002090cbaf178",
-	"yungsapi:max_count_single_element": "com.yungnickyoung.minecraft.yungsapi.module.StructurePoolElementTypeModule$$Lambda$5008/0x000002090ce1b1b0",
-	"yungsapi:max_count_list_element": "com.yungnickyoung.minecraft.yungsapi.module.StructurePoolElementTypeModule$$Lambda$5017/0x000002090ce1dfd0",
-	"yungsapi:yung_single_element": "com.yungnickyoung.minecraft.yungsapi.module.StructurePoolElementTypeModule$$Lambda$5019/0x000002090ce1f328",
-	"yungsapi:max_count_legacy_single_element": "com.yungnickyoung.minecraft.yungsapi.module.StructurePoolElementTypeModule$$Lambda$5012/0x000002090ce1c028",
-	"minecraft:legacy_single_pool_element": "net.minecraft.world.level.levelgen.structure.pools.StructurePoolElementType$$Lambda$3844/0x000002090cbaf178",
-	"minecraft:single_pool_element": "net.minecraft.world.level.levelgen.structure.pools.StructurePoolElementType$$Lambda$3844/0x000002090cbaf178",
-	"minecraft:empty_pool_element": "net.minecraft.world.level.levelgen.structure.pools.StructurePoolElementType$$Lambda$3844/0x000002090cbaf178",
-	"minecraft:feature_pool_element": "net.minecraft.world.level.levelgen.structure.pools.StructurePoolElementType$$Lambda$3844/0x000002090cbaf178"
+	"minecraft:legacy_single_pool_element": "net.minecraft.world.level.levelgen.structure.pools.StructurePoolElementType$$Lambda$3844/0x000001a863baf178",
+	"minecraft:single_pool_element": "net.minecraft.world.level.levelgen.structure.pools.StructurePoolElementType$$Lambda$3844/0x000001a863baf178",
+	"minecraft:feature_pool_element": "net.minecraft.world.level.levelgen.structure.pools.StructurePoolElementType$$Lambda$3844/0x000001a863baf178",
+	"yungsapi:max_count_legacy_single_element": "com.yungnickyoung.minecraft.yungsapi.module.StructurePoolElementTypeModule$$Lambda$5021/0x000001a863e441c8",
+	"yungsapi:max_count_list_element": "com.yungnickyoung.minecraft.yungsapi.module.StructurePoolElementTypeModule$$Lambda$5023/0x000001a863e445f8",
+	"yungsapi:yung_single_element": "com.yungnickyoung.minecraft.yungsapi.module.StructurePoolElementTypeModule$$Lambda$5024/0x000001a863e44810",
+	"yungsapi:max_count_single_element": "com.yungnickyoung.minecraft.yungsapi.module.StructurePoolElementTypeModule$$Lambda$5019/0x000001a863e43a70",
+	"minecraft:list_pool_element": "net.minecraft.world.level.levelgen.structure.pools.StructurePoolElementType$$Lambda$3844/0x000001a863baf178",
+	"yungsapi:max_count_feature_element": "com.yungnickyoung.minecraft.yungsapi.module.StructurePoolElementTypeModule$$Lambda$5022/0x000001a863e443e0",
+	"yungsapi:yung_feature_element": "com.yungnickyoung.minecraft.yungsapi.module.StructurePoolElementTypeModule$$Lambda$5025/0x000001a863e44a28",
+	"minecraft:empty_pool_element": "net.minecraft.world.level.levelgen.structure.pools.StructurePoolElementType$$Lambda$3844/0x000001a863baf178"
 }

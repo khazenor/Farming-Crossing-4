@@ -20,7 +20,7 @@
 	{
 		"id": "kubejs",
 		"name": "KubeJS",
-		"version": "2001.6.3-build.73",
+		"version": "2001.6.3-build.77",
 		"description": "Customize your modpack or server with JavaScript!",
 		"authors": "LatvianModder",
 		"issue_tracker": "https://kubejs.com/support?source=kubejs&mc=1902&loader=forge",
@@ -115,7 +115,7 @@
 	{
 		"id": "incontrol",
 		"name": "InControl",
-		"version": "1.20-9.0.2",
+		"version": "1.20-9.0.3",
 		"description": "Be in control of spawns",
 		"issue_tracker": "http://github.com/McJtyMods/InControl/issues",
 		"license": "MIT License https://github.com/McJtyMods/FXControl/blob/1.16/LICENCE"
@@ -141,6 +141,14 @@
 		"license": "AtomicStrykers License http://atomicstryker.net/about.php"
 	},
 	{
+		"id": "prefabricated_structures",
+		"name": "Blueprints Mod",
+		"version": "1.0",
+		"description": "Instant Structures",
+		"authors": "mistrx",
+		"license": "All rights reserved"
+	},
+	{
 		"id": "dynamicvillagertrades",
 		"name": "Dynamic Villager Trades",
 		"version": "1.3.0",
@@ -151,7 +159,7 @@
 	{
 		"id": "candlelight",
 		"name": "Candlelight Dinner",
-		"version": "1.2.4",
+		"version": "1.2.5",
 		"description": "A Food Themed Expansion for the 'Let's Do Wine' Mod focusing on cooking with Wine",
 		"authors": "satisfy_u, Cristelknight, BaumeisterJo",
 		"license": "All Rights Reserved"
@@ -238,7 +246,7 @@
 	{
 		"id": "citadel",
 		"name": "Citadel",
-		"version": "2.4.5",
+		"version": "2.4.7",
 		"description": "A shared code library for many of Alexthe666's mods. Code used from LLibrary with permission.",
 		"authors": "Alexthe666",
 		"homepage": "https://github.com/Alex-the-666/Citadel",
@@ -429,7 +437,7 @@
 	{
 		"id": "supplementaries",
 		"name": "Supplementaries",
-		"version": "1.20-2.6.15",
+		"version": "1.20-2.6.17",
 		"description": "Many functional and useful Vanilla+ blocks",
 		"authors": "MehVahdJukaar, Plantkillable",
 		"issue_tracker": "https://github.com/MehVahdJukaar/Supplementaries/issues",
@@ -464,6 +472,15 @@
 		"homepage": "http://minecraft.curseforge.com/projects/get-it-together-drops",
 		"issue_tracker": "http://github.com/bl4ckscor3/GetItTogetherDrops/issues",
 		"license": "MIT License http://github.com/bl4ckscor3/GetItTogetherDrops/blob/1.20/LICENSE"
+	},
+	{
+		"id": "biomesoplenty",
+		"name": "Biomes O' Plenty",
+		"version": "18.0.0.592",
+		"description": "Adds over 50 new biomes, blocks, and more!",
+		"authors": "Forstride, Adubbz",
+		"issue_tracker": "https://github.com/Glitchfiend/BiomesOPlenty/issues",
+		"license": "All Rights Reserved"
 	},
 	{
 		"id": "supermartijn642corelib",
@@ -506,7 +523,7 @@
 	{
 		"id": "curios",
 		"name": "Curios API",
-		"version": "5.3.5+1.20.1",
+		"version": "5.4.0+1.20.1",
 		"description": "A flexible and expandable accessory/equipment API for users and developers.",
 		"authors": "C4",
 		"homepage": "https://www.curseforge.com/minecraft/mc-mods/curios",
@@ -546,7 +563,7 @@
 	{
 		"id": "camera",
 		"name": "Camera Mod",
-		"version": "1.20.1-1.0.5",
+		"version": "1.20.1-1.0.6",
 		"description": "This mod adds a working camera",
 		"authors": "Max Henkel",
 		"homepage": "http://minecraft.curseforge.com/projects/camera-mod",
@@ -1114,7 +1131,7 @@
 	{
 		"id": "compressedblocks",
 		"name": "Compressed Blocks",
-		"version": "1.3.9",
+		"version": "1.4.2",
 		"description": "CB: Compressed Blocks\nA Block Compression and Crate mod to organize your storage.",
 		"authors": "sashiro",
 		"homepage": "https://www.curseforge.com/minecraft/mc-mods/cb-compressed-blocks",
@@ -1170,7 +1187,7 @@
 	{
 		"id": "ftbquests",
 		"name": "FTB Quests",
-		"version": "2001.1.6",
+		"version": "2001.1.7",
 		"description": "Lets you easily create and play with quests",
 		"authors": "LatvianModder",
 		"issue_tracker": "https://github.com/FTBTeam/FTB-Mods-Issues/issues",
@@ -1258,7 +1275,7 @@
 	{
 		"id": "polymorph",
 		"name": "Polymorph",
-		"version": "0.49.0+1.20.1",
+		"version": "0.49.1+1.20.1",
 		"description": "No more recipe conflicts! Adds an option to choose the crafting result if more than one is available.",
 		"authors": "Illusive Soulworks",
 		"issue_tracker": "https://github.com/illusivesoulworks/polymorph/issues",
@@ -1361,14 +1378,6 @@
 		"description": "Reduces memory usage.",
 		"authors": "malte0811",
 		"license": "MIT"
-	},
-	{
-		"id": "solcarrot",
-		"name": "Spice of Life: Carrot Edition",
-		"version": "1.15.0",
-		"description": "A mod designed to encourage dietary variety!\n\nIt does so by rewarding the player for eating a variety of foods instead of punishing them for failing to diversify.\nInstead of using the stick, we use the carrot!",
-		"issue_tracker": "https://github.com/Cazsius/Spice-of-Life-Carrot-Edition/issues",
-		"license": "LGPL-2.1"
 	},
 	{
 		"id": "aquaculture",
