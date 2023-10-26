@@ -221,7 +221,13 @@
 			rewards: [
 				{
 					id: "589AC45391104EC3"
-					item: "candlelight:cooking_pan"
+					item: {
+						Count: 1b
+						id: "candlelight:cooking_pan"
+						tag: {
+							Damage: 0
+						}
+					}
 					type: "item"
 				}
 				{

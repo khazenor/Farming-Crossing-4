@@ -2180,7 +2180,13 @@
 				"65E2079D254B9DC8"
 				"4343917600B3B4EB"
 			]
-			icon: "candlelight:cooking_pan"
+			icon: {
+				Count: 1b
+				id: "candlelight:cooking_pan"
+				tag: {
+					Damage: 0
+				}
+			}
 			id: "4CDC2BE683F42737"
 			rewards: [
 				{

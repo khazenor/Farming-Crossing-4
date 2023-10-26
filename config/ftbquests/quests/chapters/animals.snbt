@@ -518,7 +518,7 @@
 				to_observe: "alexsmobs:gelada_monkey"
 				type: "observation"
 			}]
-			x: 2.0d
+			x: 1.5d
 			y: 7.5d
 		}
 		{
@@ -958,7 +958,7 @@
 				to_observe: "alexsmobs:raccoon"
 				type: "observation"
 			}]
-			x: 1.0d
+			x: 0.5d
 			y: 7.5d
 		}
 		{
@@ -1046,7 +1046,7 @@
 				to_observe: "alexsmobs:seagull"
 				type: "observation"
 			}]
-			x: -8.5d
+			x: -9.0d
 			y: 1.5d
 		}
 		{
@@ -1757,7 +1757,7 @@
 				to_observe: "minecraft:turtle"
 				type: "observation"
 			}]
-			x: -7.5d
+			x: -8.0d
 			y: 1.5d
 		}
 		{
@@ -1801,7 +1801,7 @@
 				to_observe: "minecraft:donkey"
 				type: "observation"
 			}]
-			x: 0.0d
+			x: -0.5d
 			y: 7.5d
 		}
 		{
@@ -2002,11 +2002,12 @@
 				"5E7E5E340910884F"
 				"032DFF5ADA2C3F57"
 				"145AF3E4DF07D9E7"
+				"7F38BFDE8D8AF3A9"
 			]
 			icon: "kubejs:miles_ticket"
 			id: "2C09B9081B10DCAF"
 			rewards: [{
-				count: 4
+				count: 5
 				id: "17DD881C1B5FFB65"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -2106,11 +2107,14 @@
 				"04DF7D7AB883119F"
 				"2ED02BBA44D59614"
 				"34B25C82132101BC"
+				"16F90C11BEA27616"
+				"0571CC0FC40BFD2A"
+				"32F54B6B57DB6F58"
 			]
 			icon: "kubejs:miles_ticket"
 			id: "1B4004A2743574E5"
 			rewards: [{
-				count: 6
+				count: 9
 				id: "7BC5E6FB596D768B"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -2120,7 +2124,7 @@
 				title: "Plains Completion"
 				type: "item"
 			}]
-			x: 1.0d
+			x: 1.5d
 			y: 5.5d
 		}
 		{
@@ -2512,6 +2516,86 @@
 			}]
 			x: -10.0d
 			y: 3.5d
+		}
+		{
+			id: "0571CC0FC40BFD2A"
+			rewards: [{
+				auto: "enabled"
+				id: "047D7901814F4A01"
+				item: "kubejs:voucher_animal"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "meadow:brown_bear_spawn_egg"
+				id: "11F0920453AA8498"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a Brown Bear"
+				to_observe: "meadow:brown_bear"
+				type: "observation"
+			}]
+			x: 3.0d
+			y: 6.5d
+		}
+		{
+			id: "16F90C11BEA27616"
+			rewards: [{
+				auto: "enabled"
+				id: "006F74B0816B71A5"
+				item: "kubejs:voucher_animal"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "meadow:water_buffalo_spawn_egg"
+				id: "58439A86314D9C09"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a Water Buffalo"
+				to_observe: "meadow:water_buffalo"
+				type: "observation"
+			}]
+			x: 2.5d
+			y: 7.5d
+		}
+		{
+			id: "32F54B6B57DB6F58"
+			rewards: [{
+				auto: "enabled"
+				id: "3BA01E1B0799F503"
+				item: "kubejs:voucher_animal"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "meadow:wooly_cow_spawn_egg"
+				id: "72054451483DAF64"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a Wooly Cow"
+				to_observe: "meadow:water_buffalo"
+				type: "observation"
+			}]
+			x: 3.5d
+			y: 7.5d
+		}
+		{
+			id: "7F38BFDE8D8AF3A9"
+			rewards: [{
+				auto: "enabled"
+				id: "36F54317C916984C"
+				item: "kubejs:voucher_animal"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "beachparty:pelican_spawn_egg"
+				id: "4BE64B3EF71977EA"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a Pelican"
+				to_observe: "beachparty:pelican"
+				type: "observation"
+			}]
+			x: -7.0d
+			y: 1.5d
 		}
 	]
 	title: "Animal Watching"

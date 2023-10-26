@@ -1,6 +1,6 @@
 f8::
   MouseGetPos, xpos, ypos 
-  itemQuestWithTwoRewardsInOrder()
+  createFirstReward()
   MouseMove, %xpos%, %ypos%
   return
   
