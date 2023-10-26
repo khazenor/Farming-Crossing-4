@@ -478,7 +478,7 @@
 			]
 			tasks: [{
 				consume_items: true
-				count: 4L
+				count: 5L
 				id: "75F7350B7D1319BD"
 				item: "kubejs:voucher_animal"
 				type: "item"
@@ -507,7 +507,7 @@
 			]
 			tasks: [{
 				consume_items: true
-				count: 5L
+				count: 10L
 				id: "0027724FB4C56BE9"
 				item: "kubejs:voucher_animal"
 				type: "item"
@@ -536,7 +536,7 @@
 			]
 			tasks: [{
 				consume_items: true
-				count: 7L
+				count: 17L
 				id: "3A15A7E2C8AB6D91"
 				item: "kubejs:voucher_animal"
 				type: "item"
@@ -565,7 +565,7 @@
 			]
 			tasks: [{
 				consume_items: true
-				count: 9L
+				count: 26L
 				id: "3CBCF8430E9F9186"
 				item: "kubejs:voucher_animal"
 				type: "item"
@@ -594,7 +594,7 @@
 			]
 			tasks: [{
 				consume_items: true
-				count: 12L
+				count: 36L
 				id: "0A453A75A434C003"
 				item: "kubejs:voucher_animal"
 				type: "item"
@@ -627,7 +627,7 @@
 			]
 			tasks: [{
 				consume_items: true
-				count: 5L
+				count: 4L
 				id: "6045CDA54606F04C"
 				item: "kubejs:voucher_fish"
 				type: "item"
@@ -656,7 +656,7 @@
 			]
 			tasks: [{
 				consume_items: true
-				count: 10L
+				count: 5L
 				id: "00D1DF02BF3B7CA8"
 				item: "kubejs:voucher_fish"
 				type: "item"
@@ -685,7 +685,7 @@
 			]
 			tasks: [{
 				consume_items: true
-				count: 17L
+				count: 7L
 				id: "03CE302EF6264650"
 				item: "kubejs:voucher_fish"
 				type: "item"
@@ -714,7 +714,7 @@
 			]
 			tasks: [{
 				consume_items: true
-				count: 24L
+				count: 10L
 				id: "4A3DF010190ABAEC"
 				item: "kubejs:voucher_fish"
 				type: "item"
@@ -743,7 +743,7 @@
 			]
 			tasks: [{
 				consume_items: true
-				count: 32L
+				count: 12L
 				id: "41ED758677F7934B"
 				item: "kubejs:voucher_fish"
 				type: "item"
