@@ -359,8 +359,8 @@
 				type: "item"
 			}]
 			title: "Turning a Profit!"
-			x: -2.5d
-			y: -2.0d
+			x: -0.5d
+			y: 0.0d
 		}
 		{
 			icon: "minecraft:peony"
@@ -458,8 +458,8 @@
 				type: "item"
 			}]
 			title: "Buying Decorations"
-			x: -2.5d
-			y: -3.0d
+			x: 0.5d
+			y: 0.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -598,7 +598,39 @@
 			}]
 			title: "Spotting Animals"
 			x: -1.5d
-			y: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0D0FDA6FBDCEFF3B"]
+			description: [
+				"The market allows you to exchange for many things using miles tickets, including seeds for other foods."
+				""
+				"{image:khazenor:textures/farmingforblockheads/market_crafting.png width:160 height:80 align:1}"
+			]
+			hide: true
+			id: "1018A293CFF89B16"
+			rewards: [{
+				id: "17B76098F75CB5FC"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: 13882323
+						Loot: "lootbags:furniture/loot_furniture"
+						Name: "Furniture Kit"
+						Type: "COMMON"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "0FC159FFDED98A56"
+				item: "farmingforblockheads:market"
+				type: "item"
+			}]
+			title: "Exchanging Miles Tickets"
+			x: 1.5d
+			y: 0.0d
 		}
 	]
 	title: "Farming Crossing 4"
