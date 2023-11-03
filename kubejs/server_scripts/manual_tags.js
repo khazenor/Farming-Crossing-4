@@ -25,4 +25,18 @@ ServerEvents.tags('item', event => {
     'meadow:wooden_water_bucket',
     'kubejs:fresh_water'
   ])
+
+  event.add('forge:customer_tables',[
+    "villagersplus:acacia_horticulturist_table",
+    "villagersplus:bamboo_horticulturist_table",
+    "villagersplus:birch_horticulturist_table",
+    "villagersplus:cherry_horticulturist_table",
+    "villagersplus:crimson_horticulturist_table",
+    "villagersplus:dark_oak_horticulturist_table",
+    "villagersplus:jungle_horticulturist_table",
+    "villagersplus:mangrove_horticulturist_table",
+    "villagersplus:oak_horticulturist_table",
+    "villagersplus:spruce_horticulturist_table",
+    "villagersplus:warped_horticulturist_table"
+  ])
 })

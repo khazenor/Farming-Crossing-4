@@ -56,6 +56,13 @@ def exportTrades():
 			])
 		))
 
+	allTradeableItems = tradeableItemsRare + tradeableItemsCommon
+	tagContent = ""
+	for itemId in allTradeableItems:
+		tagContent += kubejs.eventAddSimple('forge:all_tradeables', itemId)
+
+	with open(os.path.join(const.serverScripts(), 'allTradeablesTag.js'), 'w') as f:
+		f.write(kubejs.tagsContent(tagContent))
 
 	with open(os.path.join(const.serverScripts(), 'wandering_trades.js'), 'w') as f:
 		f.write(kubejs.wanderingTradeFileContent(tradeStrs))

@@ -3,9 +3,9 @@
 	default_quest_shape: ""
 	filename: "chef_in_training"
 	group: ""
-	icon: "bakery:toast"
+	icon: "minecraft:peony"
 	id: "4362A64FA38E4BCF"
-	order_index: 1
+	order_index: 0
 	quest_links: [ ]
 	quests: [
 		{
@@ -30,9 +30,11 @@
 				type: "item"
 			}]
 			x: 0.5d
-			y: -2.5d
+			y: -3.0d
 		}
 		{
+			dependencies: ["7CF35DAE02E4B6C0"]
+			icon: "minecraft:wheat_seeds"
 			id: "57BAA8B414FF1F4F"
 			rewards: [
 				{
@@ -43,6 +45,11 @@
 				{
 					id: "2CE73FEA7A081DBA"
 					item: "bakery:brick_stove"
+					type: "item"
+				}
+				{
+					id: "17E9910D0E9D1E51"
+					item: "minecraft:bucket"
 					type: "item"
 				}
 			]
@@ -58,8 +65,9 @@
 				title: "Any #forge:seeds"
 				type: "item"
 			}]
+			title: "A Cook's Humble Beginnings"
 			x: -0.5d
-			y: -2.5d
+			y: -2.0d
 		}
 		{
 			dependencies: ["13B67DDBCF1019AB"]
@@ -75,7 +83,7 @@
 				type: "item"
 			}]
 			x: 1.5d
-			y: -2.5d
+			y: -3.0d
 		}
 		{
 			dependencies: ["5E93B9E15372F454"]
@@ -99,7 +107,7 @@
 				type: "item"
 			}]
 			x: 2.5d
-			y: -2.5d
+			y: -3.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -128,8 +136,8 @@
 				item: "vinery:red_grapejuice_wine_bottle"
 				type: "item"
 			}]
-			x: -0.5d
-			y: -1.5d
+			x: 3.5d
+			y: -3.0d
 		}
 		{
 			dependencies: ["17FA2E4902522B36"]
@@ -174,7 +182,7 @@
 				type: "item"
 			}]
 			x: 0.5d
-			y: -1.5d
+			y: -2.0d
 		}
 		{
 			dependencies: ["65B28F78A7DDBD06"]
@@ -190,7 +198,7 @@
 				type: "item"
 			}]
 			x: 1.5d
-			y: -1.5d
+			y: -2.0d
 		}
 		{
 			dependencies: ["1DD15BDBBA7B8632"]
@@ -213,7 +221,7 @@
 				type: "item"
 			}]
 			x: 2.5d
-			y: -1.5d
+			y: -2.0d
 		}
 		{
 			dependencies: ["57889789985B323E"]
@@ -241,8 +249,8 @@
 				item: "candlelight:mushroom_soup"
 				type: "item"
 			}]
-			x: -0.5d
-			y: -0.5d
+			x: 3.5d
+			y: -2.0d
 		}
 		{
 			dependencies: ["48C7E0AF4C9A3C3E"]
@@ -266,7 +274,7 @@
 				type: "item"
 			}]
 			x: 0.5d
-			y: -0.5d
+			y: -1.0d
 		}
 		{
 			dependencies: ["56C6F1D87FA09C24"]
@@ -282,7 +290,7 @@
 				type: "item"
 			}]
 			x: 1.5d
-			y: -0.5d
+			y: -1.0d
 		}
 		{
 			dependencies: ["2D0063702FDE9B52"]
@@ -299,8 +307,134 @@
 				type: "item"
 			}]
 			x: 2.5d
-			y: -0.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["13B67DDBCF1019AB"]
+			description: ["You can get a customer by putting down a customer table and have a villager assign it as a workstation."]
+			icon: "kubejs:miles_ticket"
+			id: "0D0FDA6FBDCEFF3B"
+			tasks: [
+				{
+					id: "5B682AC2530361CA"
+					item: {
+						Count: 1b
+						id: "itemfilters:tag"
+						tag: {
+							value: "forge:customer_tables"
+						}
+					}
+					title: "Any #forge:customer_tables"
+					type: "item"
+				}
+				{
+					id: "5AB5D3513507BECE"
+					item: "kubejs:miles_ticket"
+					type: "item"
+				}
+			]
+			title: "Turning a Profit!"
+			x: -0.5d
+			y: -4.0d
+		}
+		{
+			icon: "minecraft:peony"
+			id: "7CF35DAE02E4B6C0"
+			rewards: [{
+				id: "0D7A3D2503DBDDEB"
+				item: {
+					Count: 1b
+					id: "sophisticatedbackpacks:backpack"
+					tag: {
+						borderColor: 11546150
+						clothColor: 11546150
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3A6B90DF5E7B6794"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "minecraft:logs"
+					}
+				}
+				title: "Any #minecraft:logs"
+				type: "item"
+			}]
+			title: "Welcome to Farming Crossing 4!"
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["7CF35DAE02E4B6C0"]
+			icon: "aquaculture:atlantic_cod"
+			id: "51AC164BB0124EBA"
+			rewards: [{
+				count: 16
+				id: "0313F26D53A28E96"
+				item: {
+					Count: 1b
+					id: "aquaculture:worm"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "4BF169FE298B5E41"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "minecraft:fishes"
+					}
+				}
+				title: "Any #minecraft:fishes"
+				type: "item"
+			}]
+			title: "Catching Fishes"
+			x: -0.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["0D0FDA6FBDCEFF3B"]
+			description: ["You can buy decorations from wondering traders."]
+			icon: "moa_decor_toys:lorocian"
+			id: "7DA124C26F220448"
+			rewards: [{
+				id: "5CF6A3AA210353A2"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: 13882323
+						Loot: "lootbags:furniture/loot_furniture"
+						Name: "Furniture Kit"
+						Type: "COMMON"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "095F05B96F9B7B74"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "forge:all_tradeables"
+					}
+				}
+				title: "Any #forge:all_tradeables"
+				type: "item"
+			}]
+			title: "Buying Decorations"
+			x: -0.5d
+			y: -5.0d
 		}
 	]
-	title: "Chef in Training"
+	title: "Farming Crossing 4"
 }

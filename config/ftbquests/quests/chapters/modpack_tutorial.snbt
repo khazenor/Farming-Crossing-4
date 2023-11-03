@@ -1,0 +1,258 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	disable_toast: true
+	filename: "modpack_tutorial"
+	group: ""
+	icon: "minecraft:paper"
+	id: "7D8D1449634FC151"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"{image:farming_crossing_3:textures/backpack.png width:200 height:100 align:1}"
+				""
+				"You can access the backpack by right clicking it or by pressing the \"b\" key."
+				""
+				"You can also put the backback in the curio back slot."
+				"{image:farming_crossing_3:textures/backpack_put_on_back.png width:130 height:100 align:1}"
+				"The backpacks can also be upgraded. Check them out in JEI!"
+				""
+				"{image:farming_crossing_3:textures/backpack_search.png width:100 height:100 align:1}"
+			]
+			icon: "sophisticatedbackpacks:backpack"
+			id: "3250D1B24345259D"
+			subtitle: "Carry everything with you with Sophisticated Backpacks!"
+			tasks: [
+				{
+					consume_items: false
+					disable_toast: true
+					id: "6F6DA32B9135244A"
+					item: {
+						Count: 1b
+						id: "itemfilters:tag"
+						tag: {
+							value: "forge:chests"
+						}
+					}
+					title: "Any #forge:chests"
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 4L
+					disable_toast: true
+					id: "0FD1FDDDFC29119F"
+					item: "minecraft:string"
+					type: "item"
+				}
+			]
+			title: "Info: Sophisticated Backpacks"
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3040D972C5FB1772"]
+			description: [
+				"Here are some useful commands available in this modpack!"
+				""
+				"/sethome - sets your current location as home to teleport back to."
+				""
+				"/home - teleport back to the home location you have set"
+				""
+				"/back - teleport you back to the location you were before you last teleported"
+				""
+				"/tpa {player_name} - request permission to teleport to another player in the server"
+			]
+			id: "38597CE6BB709431"
+			tasks: [{
+				consume_items: false
+				id: "20A974001A15EDA3"
+				item: "minecraft:torch"
+				type: "item"
+			}]
+			title: "Info: Useful Commands"
+			x: 1.5d
+			y: -3.5d
+		}
+		{
+			description: [
+				"You can glide from high areas with the paraglider."
+				""
+				"{image:farming_crossing_3:textures/paraglider_recipe.png width:200 height:100 align:1}"
+				""
+				"Gliding uses stamina, which you will see represente as a green circle when you are gliding."
+				""
+				"Updrafts can also be created with campfires while downdraft can be created with soul campfires."
+				""
+				"Spirit orbs can be found while exploring or at the market.  You can exchange these orbs for heart or stamina containers at shrines, which you can also find while exploring the world."
+			]
+			icon: "paraglider:paraglider"
+			id: "493B5A037BEE0D0A"
+			subtitle: "Get to places faster with the paraglider!"
+			tasks: [{
+				consume_items: false
+				id: "431A0DFA913CF35F"
+				item: "minecraft:leather"
+				type: "item"
+			}]
+			title: "Info: Paragliding"
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["31699B0FED6F83E6"]
+			description: [
+				"FramedBlocks adds blocks of various shapes that can be made to look like almost any other block in the game."
+				""
+				"Framed cube:"
+				""
+				"{image:farming_crossing_3:textures/framed_cube_recipe.png width:200 height:100 align:1}"
+				""
+				"Framed Stairs (one of the shapes available):"
+				""
+				"{image:farming_crossing_3:textures/framed_stairs_recipe.png width:200 height:100 align:1}"
+			]
+			icon: "framedblocks:framed_stairs"
+			id: "13B69AD71A01ED3F"
+			subtitle: "Decorate your builds with any shapes using framed blocks!"
+			tasks: [
+				{
+					consume_items: false
+					count: 32L
+					disable_toast: true
+					id: "3426397EB9E60B55"
+					item: "minecraft:oak_planks"
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 32L
+					disable_toast: true
+					id: "15057B0B77C6AF1F"
+					item: "minecraft:stick"
+					type: "item"
+				}
+			]
+			title: "Info: Framed Blocks"
+			x: 3.5d
+			y: -2.5d
+		}
+		{
+			description: ["Having a compass in your inventory will bring up a minimal hud displaying your current direction and coordinates"]
+			id: "36D7F8FE6E02E7FF"
+			tasks: [{
+				id: "58581B5BC0C365E4"
+				item: "minecraft:compass"
+				type: "item"
+			}]
+			title: "Info: Navigation Help"
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["5D04C8CE5BEF3750"]
+			description: [
+				"{image:farming_crossing_3:textures/crafting_on_a_stick/items.png width:100 height:50 align:1}"
+				""
+				"You can make crafting stations on a stick."
+				""
+				"{image:farming_crossing_3:textures/crafting_on_a_stick/crafting_table.png width:140 height:70 align:1}"
+				""
+				"You can also put one of these in the bauble slot to open the station using a hot key"
+				""
+				"(\"v\" on a new install. On a modpack update, you will have to resolve the key bind conflict in the settings)"
+				""
+				"{image:farming_crossing_3:textures/crafting_on_a_stick/baubles.png width:100 height:80 align:1}"
+			]
+			icon: "crafting_on_a_stick:crafting_table"
+			id: "31699B0FED6F83E6"
+			tasks: [{
+				id: "444FAEA6B58F6AD9"
+				item: "minecraft:crafting_table"
+				type: "item"
+			}]
+			title: "Info: Crafting on a Stick"
+			x: 2.5d
+			y: -2.5d
+		}
+		{
+			description: [
+				"Quests in this chapter are purly informational and do not have rewards."
+				""
+				"If you are having trouble figuring something out in this modpack, hopefully you will be able to find relavent information here."
+			]
+			icon: "minecraft:writable_book"
+			id: "3040D972C5FB1772"
+			tasks: [{
+				id: "75A082A764105091"
+				type: "item"
+			}]
+			title: "Press \" ~ \" to Access Quests"
+			x: 0.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["3040D972C5FB1772"]
+			description: [
+				"In this modpack trees can be chopped down by repeatedly breaking a single block."
+				""
+				"You can disable this by holding down shift, or by pressing the \" , \" (comma) key to confiure your preferences."
+				""
+				"You would know if this is active when the cursor changes from a cross to an axe."
+			]
+			icon: {
+				Count: 1b
+				id: "minecraft:iron_axe"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "5D04C8CE5BEF3750"
+			subtitle: "Chopping large trees is now easier!"
+			tasks: [{
+				consume_items: false
+				id: "265071FAF2CFD637"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "minecraft:logs"
+					}
+				}
+				title: "Any #minecraft:logs"
+				type: "item"
+			}]
+			title: "Info: Cutting Trees"
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["38597CE6BB709431"]
+			description: [
+				"Most hostile mobs in the overworld (that are not from spawners) are disabled this modpack under easy and normal difficulty."
+				""
+				"If you want the hostile mobs to spawn like normal, you can simply change the difficulty to hard."
+			]
+			icon: "minecraft:rotten_flesh"
+			id: "75C758F7FC1F000D"
+			tasks: [{
+				id: "4AB99F015EE6D335"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "minecraft:swords"
+					}
+				}
+				title: "Any #minecraft:swords"
+				type: "item"
+			}]
+			title: "Info: Hostile Mob Spawning"
+			x: 2.5d
+			y: -3.5d
+		}
+	]
+	title: "Modpack Tutorial"
+}
