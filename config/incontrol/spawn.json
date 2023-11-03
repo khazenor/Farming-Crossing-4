@@ -13,6 +13,7 @@
       "minecraft:zombie_villager",
       "minecraft:witch"
     ],
+    "when": "onjoin",
     "spawner": false,
     "difficulty": "easy",
     "dimension": "minecraft:overworld",
@@ -32,6 +33,7 @@
       "minecraft:zombie_villager",
       "minecraft:witch"
     ],
+    "when": "onjoin",
     "spawner": false,
     "difficulty": "normal",
     "dimension": "minecraft:overworld",
