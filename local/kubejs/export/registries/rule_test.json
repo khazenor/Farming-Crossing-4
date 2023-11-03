@@ -1,12 +1,12 @@
 {
-	"kubejs:invert": "dev.latvian.mods.kubejs.level.gen.ruletest.KubeJSRuleTests$$Lambda$14775/0x000001a865028438",
-	"minecraft:random_block_match": "net.minecraft.world.level.levelgen.structure.templatesystem.RuleTestType$$Lambda$2403/0x000001a863a37d90",
-	"minecraft:always_true": "net.minecraft.world.level.levelgen.structure.templatesystem.RuleTestType$$Lambda$2403/0x000001a863a37d90",
-	"kubejs:any_match": "dev.latvian.mods.kubejs.level.gen.ruletest.KubeJSRuleTests$$Lambda$14775/0x000001a865028438",
-	"kubejs:always_false": "dev.latvian.mods.kubejs.level.gen.ruletest.KubeJSRuleTests$$Lambda$14775/0x000001a865028438",
-	"minecraft:block_match": "net.minecraft.world.level.levelgen.structure.templatesystem.RuleTestType$$Lambda$2403/0x000001a863a37d90",
-	"minecraft:tag_match": "net.minecraft.world.level.levelgen.structure.templatesystem.RuleTestType$$Lambda$2403/0x000001a863a37d90",
-	"minecraft:blockstate_match": "net.minecraft.world.level.levelgen.structure.templatesystem.RuleTestType$$Lambda$2403/0x000001a863a37d90",
-	"kubejs:all_match": "dev.latvian.mods.kubejs.level.gen.ruletest.KubeJSRuleTests$$Lambda$14775/0x000001a865028438",
-	"minecraft:random_blockstate_match": "net.minecraft.world.level.levelgen.structure.templatesystem.RuleTestType$$Lambda$2403/0x000001a863a37d90"
+	"kubejs:always_false": "dev.latvian.mods.kubejs.level.gen.ruletest.KubeJSRuleTests$$Lambda$14810/0x000001550c033098",
+	"minecraft:random_blockstate_match": "net.minecraft.world.level.levelgen.structure.templatesystem.RuleTestType$$Lambda$2403/0x000001550aa352f0",
+	"minecraft:random_block_match": "net.minecraft.world.level.levelgen.structure.templatesystem.RuleTestType$$Lambda$2403/0x000001550aa352f0",
+	"minecraft:block_match": "net.minecraft.world.level.levelgen.structure.templatesystem.RuleTestType$$Lambda$2403/0x000001550aa352f0",
+	"minecraft:always_true": "net.minecraft.world.level.levelgen.structure.templatesystem.RuleTestType$$Lambda$2403/0x000001550aa352f0",
+	"kubejs:invert": "dev.latvian.mods.kubejs.level.gen.ruletest.KubeJSRuleTests$$Lambda$14810/0x000001550c033098",
+	"kubejs:all_match": "dev.latvian.mods.kubejs.level.gen.ruletest.KubeJSRuleTests$$Lambda$14810/0x000001550c033098",
+	"minecraft:tag_match": "net.minecraft.world.level.levelgen.structure.templatesystem.RuleTestType$$Lambda$2403/0x000001550aa352f0",
+	"kubejs:any_match": "dev.latvian.mods.kubejs.level.gen.ruletest.KubeJSRuleTests$$Lambda$14810/0x000001550c033098",
+	"minecraft:blockstate_match": "net.minecraft.world.level.levelgen.structure.templatesystem.RuleTestType$$Lambda$2403/0x000001550aa352f0"
 }

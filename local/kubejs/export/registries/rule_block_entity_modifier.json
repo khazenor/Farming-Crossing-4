@@ -1,6 +1,6 @@
 {
-	"minecraft:append_loot": "net.minecraft.world.level.levelgen.structure.templatesystem.rule.blockentity.RuleBlockEntityModifierType$$Lambda$2420/0x000001a863a399f8",
-	"minecraft:clear": "net.minecraft.world.level.levelgen.structure.templatesystem.rule.blockentity.RuleBlockEntityModifierType$$Lambda$2420/0x000001a863a399f8",
-	"minecraft:append_static": "net.minecraft.world.level.levelgen.structure.templatesystem.rule.blockentity.RuleBlockEntityModifierType$$Lambda$2420/0x000001a863a399f8",
-	"minecraft:passthrough": "net.minecraft.world.level.levelgen.structure.templatesystem.rule.blockentity.RuleBlockEntityModifierType$$Lambda$2420/0x000001a863a399f8"
+	"minecraft:append_static": "net.minecraft.world.level.levelgen.structure.templatesystem.rule.blockentity.RuleBlockEntityModifierType$$Lambda$2420/0x000001550aa32888",
+	"minecraft:append_loot": "net.minecraft.world.level.levelgen.structure.templatesystem.rule.blockentity.RuleBlockEntityModifierType$$Lambda$2420/0x000001550aa32888",
+	"minecraft:passthrough": "net.minecraft.world.level.levelgen.structure.templatesystem.rule.blockentity.RuleBlockEntityModifierType$$Lambda$2420/0x000001550aa32888",
+	"minecraft:clear": "net.minecraft.world.level.levelgen.structure.templatesystem.rule.blockentity.RuleBlockEntityModifierType$$Lambda$2420/0x000001550aa32888"
 }

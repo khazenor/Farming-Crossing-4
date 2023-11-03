@@ -1,5 +1,6 @@
 {
-	"minecraft:none": "net.minecraft.world.entity.npc.VillagerProfession",
+	"beachparty:barkeeper": "net.minecraft.world.entity.npc.VillagerProfession",
+	"beachparty:beach_guy": "net.minecraft.world.entity.npc.VillagerProfession",
 	"minecraft:armorer": "net.minecraft.world.entity.npc.VillagerProfession",
 	"minecraft:butcher": "net.minecraft.world.entity.npc.VillagerProfession",
 	"minecraft:cartographer": "net.minecraft.world.entity.npc.VillagerProfession",
@@ -11,14 +12,13 @@
 	"minecraft:librarian": "net.minecraft.world.entity.npc.VillagerProfession",
 	"minecraft:mason": "net.minecraft.world.entity.npc.VillagerProfession",
 	"minecraft:nitwit": "net.minecraft.world.entity.npc.VillagerProfession",
+	"minecraft:none": "net.minecraft.world.entity.npc.VillagerProfession",
 	"minecraft:shepherd": "net.minecraft.world.entity.npc.VillagerProfession",
 	"minecraft:toolsmith": "net.minecraft.world.entity.npc.VillagerProfession",
 	"minecraft:weaponsmith": "net.minecraft.world.entity.npc.VillagerProfession",
+	"villagersplus:alchemist": "net.minecraft.world.entity.npc.VillagerProfession",
 	"villagersplus:horticulturist": "net.minecraft.world.entity.npc.VillagerProfession",
 	"villagersplus:occultist": "net.minecraft.world.entity.npc.VillagerProfession",
 	"villagersplus:oceanographer": "net.minecraft.world.entity.npc.VillagerProfession",
-	"villagersplus:alchemist": "net.minecraft.world.entity.npc.VillagerProfession",
-	"vinery:winemaker": "net.minecraft.world.entity.npc.VillagerProfession",
-	"beachparty:beach_guy": "net.minecraft.world.entity.npc.VillagerProfession",
-	"beachparty:barkeeper": "net.minecraft.world.entity.npc.VillagerProfession"
+	"vinery:winemaker": "net.minecraft.world.entity.npc.VillagerProfession"
 }

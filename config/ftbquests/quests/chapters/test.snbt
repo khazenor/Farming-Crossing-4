@@ -26,13 +26,32 @@
 		{
 			id: "4AFCC108A1289E49"
 			rewards: [{
-				id: "3A6F75A70BEFD86C"
-				item: "minecraft:birch_fence"
+				id: "478F2D796F0786B7"
+				item: {
+					Count: 1b
+					id: "sophisticatedbackpacks:backpack"
+					tag: {
+						contentsUuid: [I;
+							-209228264
+							1694188754
+							-1320207380
+							638170806
+						]
+						inventorySlots: 27
+						renderInfo: {
+							upgradeItems: [{
+								Count: 0b
+								id: "minecraft:air"
+							}]
+						}
+						upgradeSlots: 1
+					}
+				}
 				type: "item"
 			}]
 			tasks: [{
 				id: "4A8A6AB8773D3D90"
-				item: "expandedstorage:obsidian_chest_minecart"
+				item: "minecraft:oak_log"
 				type: "item"
 			}]
 			x: -5.5d
