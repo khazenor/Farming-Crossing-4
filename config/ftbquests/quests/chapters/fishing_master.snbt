@@ -9,6 +9,7 @@
 	quest_links: [ ]
 	quests: [
 		{
+			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "0000000000000029"
 			rewards: [{
@@ -26,6 +27,7 @@
 			y: 3.0d
 		}
 		{
+			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "000000000000002C"
 			rewards: [{
@@ -43,6 +45,7 @@
 			y: 3.0d
 		}
 		{
+			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "0000000000000030"
 			rewards: [{
@@ -66,6 +69,7 @@
 			y: 4.5d
 		}
 		{
+			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "0000000000000032"
 			rewards: [{
@@ -83,6 +87,7 @@
 			y: 4.5d
 		}
 		{
+			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "0000000000000034"
 			rewards: [{
@@ -100,6 +105,7 @@
 			y: 4.5d
 		}
 		{
+			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "0000000000000036"
 			rewards: [{
@@ -117,6 +123,7 @@
 			y: 0.5d
 		}
 		{
+			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "0000000000000038"
 			rewards: [{
@@ -134,6 +141,7 @@
 			y: 0.5d
 		}
 		{
+			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "000000000000003A"
 			rewards: [{
@@ -151,6 +159,7 @@
 			y: 0.5d
 		}
 		{
+			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "000000000000003C"
 			rewards: [{
@@ -168,6 +177,7 @@
 			y: 0.5d
 		}
 		{
+			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "000000000000003E"
 			rewards: [{
@@ -185,6 +195,7 @@
 			y: 1.5d
 		}
 		{
+			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "0000000000000040"
 			rewards: [{
@@ -202,6 +213,7 @@
 			y: 1.5d
 		}
 		{
+			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "0000000000000042"
 			rewards: [{
@@ -219,6 +231,7 @@
 			y: 1.5d
 		}
 		{
+			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "0000000000000044"
 			rewards: [{
@@ -236,6 +249,7 @@
 			y: 1.5d
 		}
 		{
+			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "0000000000000046"
 			rewards: [{
@@ -253,6 +267,7 @@
 			y: -1.0d
 		}
 		{
+			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "0000000000000048"
 			rewards: [{
@@ -270,6 +285,7 @@
 			y: -1.0d
 		}
 		{
+			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "000000000000004A"
 			rewards: [{
@@ -287,6 +303,7 @@
 			y: -1.0d
 		}
 		{
+			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "000000000000004C"
 			rewards: [{
@@ -304,6 +321,7 @@
 			y: -1.0d
 		}
 		{
+			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "000000000000004E"
 			rewards: [{
@@ -321,6 +339,7 @@
 			y: -3.5d
 		}
 		{
+			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "0000000000000050"
 			rewards: [{
@@ -338,6 +357,7 @@
 			y: -3.5d
 		}
 		{
+			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "0000000000000052"
 			rewards: [{
@@ -355,6 +375,7 @@
 			y: -3.5d
 		}
 		{
+			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "0000000000000054"
 			rewards: [{
@@ -372,6 +393,7 @@
 			y: -3.5d
 		}
 		{
+			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "0000000000000056"
 			rewards: [{
@@ -389,6 +411,7 @@
 			y: -3.0d
 		}
 		{
+			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "0000000000000058"
 			rewards: [{
@@ -406,6 +429,7 @@
 			y: -2.5d
 		}
 		{
+			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "000000000000005A"
 			rewards: [{
@@ -429,6 +453,7 @@
 			y: -2.5d
 		}
 		{
+			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "000000000000005C"
 			rewards: [{
@@ -446,6 +471,7 @@
 			y: -2.5d
 		}
 		{
+			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "000000000000005E"
 			rewards: [{
@@ -463,6 +489,7 @@
 			y: -2.5d
 		}
 		{
+			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "0000000000000060"
 			rewards: [{
@@ -480,6 +507,7 @@
 			y: 7.5d
 		}
 		{
+			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "0000000000000062"
 			rewards: [{
@@ -497,6 +525,7 @@
 			y: 7.5d
 		}
 		{
+			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "0000000000000064"
 			rewards: [{
@@ -514,6 +543,7 @@
 			y: 7.5d
 		}
 		{
+			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "0000000000000066"
 			rewards: [{
@@ -531,6 +561,7 @@
 			y: 6.0d
 		}
 		{
+			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "0000000000000068"
 			rewards: [{
@@ -548,6 +579,7 @@
 			y: 6.0d
 		}
 		{
+			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "000000000000006A"
 			rewards: [{
@@ -565,6 +597,7 @@
 			y: 3.0d
 		}
 		{
+			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "000000000000006C"
 			rewards: [{
@@ -1123,6 +1156,7 @@
 			y: -8.0d
 		}
 		{
+			dependencies: ["51AC164BB0124EBA"]
 			description: [
 				"you can store fishing hooks, rods, and fish bait."
 				""
@@ -1173,6 +1207,8 @@
 			y: -8.0d
 		}
 		{
+			dependencies: ["51AC164BB0124EBA"]
+			hide: true
 			id: "1A61A7489CAE4B91"
 			rewards: [{
 				auto: "enabled"
@@ -1189,6 +1225,8 @@
 			y: -5.0d
 		}
 		{
+			dependencies: ["51AC164BB0124EBA"]
+			hide: true
 			id: "261E46C3DF60F387"
 			rewards: [{
 				auto: "enabled"
@@ -1205,6 +1243,8 @@
 			y: -5.0d
 		}
 		{
+			dependencies: ["51AC164BB0124EBA"]
+			hide: true
 			id: "7575A810AD9896BA"
 			rewards: [{
 				auto: "enabled"
@@ -1221,6 +1261,8 @@
 			y: -5.0d
 		}
 		{
+			dependencies: ["51AC164BB0124EBA"]
+			hide: true
 			id: "3DD99FC8B82B7E1D"
 			rewards: [{
 				auto: "enabled"
