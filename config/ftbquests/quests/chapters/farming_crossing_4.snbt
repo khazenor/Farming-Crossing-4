@@ -40,6 +40,11 @@
 		}
 		{
 			dependencies: ["7CF35DAE02E4B6C0"]
+			description: [
+				"\"I'm so glad you came back for some cooking lessons! There are so many different food you can make in this region!\""
+				""
+				"- Pamela the Rabbit"
+			]
 			hide: true
 			icon: "minecraft:wheat_seeds"
 			id: "57BAA8B414FF1F4F"
@@ -342,7 +347,11 @@
 		}
 		{
 			dependencies: ["7CF35DAE02E4B6C0"]
-			description: [""]
+			description: [
+				"\"These are as good as gold!\""
+				""
+				"- Jess the beaver"
+			]
 			hide: true
 			icon: "kubejs:miles_ticket"
 			id: "0D0FDA6FBDCEFF3B"
@@ -363,6 +372,11 @@
 			y: 0.0d
 		}
 		{
+			description: [
+				"\"Hello and welcome this new region!  Go forth and adventure!  The mile tickets are waiting!\""
+				""
+				"- Jess the beaver"
+			]
 			icon: "minecraft:peony"
 			id: "7CF35DAE02E4B6C0"
 			rewards: [{
