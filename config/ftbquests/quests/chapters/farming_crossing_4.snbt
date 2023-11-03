@@ -36,7 +36,7 @@
 				type: "item"
 			}]
 			x: 0.5d
-			y: -3.0d
+			y: -3.5d
 		}
 		{
 			dependencies: ["7CF35DAE02E4B6C0"]
@@ -84,8 +84,8 @@
 				type: "item"
 			}]
 			title: "A Cook's Humble Beginnings"
-			x: -0.5d
-			y: -2.0d
+			x: 1.5d
+			y: -2.5d
 		}
 		{
 			dependencies: ["13B67DDBCF1019AB"]
@@ -110,7 +110,7 @@
 				type: "item"
 			}]
 			x: 1.5d
-			y: -3.0d
+			y: -3.5d
 		}
 		{
 			dependencies: ["5E93B9E15372F454"]
@@ -135,7 +135,7 @@
 				type: "item"
 			}]
 			x: 2.5d
-			y: -3.0d
+			y: -3.5d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -166,7 +166,7 @@
 				type: "item"
 			}]
 			x: 3.5d
-			y: -3.0d
+			y: -3.5d
 		}
 		{
 			dependencies: ["17FA2E4902522B36"]
@@ -211,8 +211,8 @@
 				}
 				type: "item"
 			}]
-			x: 0.5d
-			y: -2.0d
+			x: 4.5d
+			y: -3.5d
 		}
 		{
 			dependencies: ["65B28F78A7DDBD06"]
@@ -228,8 +228,8 @@
 				item: "meadow:cheese_block"
 				type: "item"
 			}]
-			x: 1.5d
-			y: -2.0d
+			x: -0.5d
+			y: -4.5d
 		}
 		{
 			dependencies: ["1DD15BDBBA7B8632"]
@@ -252,8 +252,8 @@
 				item: "meadow:cheese_stick"
 				type: "item"
 			}]
-			x: 2.5d
-			y: -2.0d
+			x: 0.5d
+			y: -4.5d
 		}
 		{
 			dependencies: ["57889789985B323E"]
@@ -282,8 +282,8 @@
 				item: "candlelight:mushroom_soup"
 				type: "item"
 			}]
-			x: 3.5d
-			y: -2.0d
+			x: 1.5d
+			y: -4.5d
 		}
 		{
 			dependencies: ["48C7E0AF4C9A3C3E"]
@@ -307,8 +307,8 @@
 				item: "candlelight:pizza"
 				type: "item"
 			}]
-			x: 0.5d
-			y: -1.0d
+			x: 2.5d
+			y: -4.5d
 		}
 		{
 			dependencies: ["56C6F1D87FA09C24"]
@@ -324,8 +324,8 @@
 				item: "beachparty:icecream_coconut"
 				type: "item"
 			}]
-			x: 1.5d
-			y: -1.0d
+			x: 3.5d
+			y: -4.5d
 		}
 		{
 			dependencies: ["2D0063702FDE9B52"]
@@ -342,8 +342,8 @@
 				item: "beachparty:coconut_cocktail"
 				type: "item"
 			}]
-			x: 2.5d
-			y: -1.0d
+			x: 4.5d
+			y: -4.5d
 		}
 		{
 			dependencies: ["7CF35DAE02E4B6C0"]
@@ -368,8 +368,8 @@
 				type: "item"
 			}]
 			title: "Turning a Profit!"
-			x: -0.5d
-			y: 0.0d
+			x: 1.5d
+			y: -0.5d
 		}
 		{
 			description: [
@@ -397,8 +397,8 @@
 				type: "item"
 			}]
 			title: "Welcome to Farming Crossing 4!"
-			x: -1.5d
-			y: -2.0d
+			x: 1.5d
+			y: -1.5d
 		}
 		{
 			dependencies: ["7CF35DAE02E4B6C0"]
@@ -436,8 +436,8 @@
 				type: "item"
 			}]
 			title: "Catching Fishes"
-			x: -0.5d
-			y: -1.0d
+			x: 0.5d
+			y: -2.0d
 		}
 		{
 			dependencies: ["0D0FDA6FBDCEFF3B"]
@@ -472,8 +472,8 @@
 				type: "item"
 			}]
 			title: "Buying Decorations"
-			x: 0.5d
-			y: 0.0d
+			x: 2.5d
+			y: -0.5d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -506,7 +506,7 @@
 			}]
 			title: "Cutting Cakes"
 			x: 2.5d
-			y: -4.0d
+			y: -2.5d
 		}
 		{
 			dependencies: ["13B67DDBCF1019AB"]
@@ -537,7 +537,7 @@
 			}]
 			title: "Starting a Restaurant"
 			x: -0.5d
-			y: -3.0d
+			y: -3.5d
 		}
 		{
 			dependencies: ["7CF35DAE02E4B6C0"]
@@ -575,7 +575,7 @@
 				type: "item"
 			}]
 			title: "Furniture Cutting"
-			x: -1.5d
+			x: 0.5d
 			y: -1.0d
 		}
 		{
@@ -611,8 +611,8 @@
 				type: "observation"
 			}]
 			title: "Spotting Animals"
-			x: -1.5d
-			y: 0.0d
+			x: 2.5d
+			y: -1.5d
 		}
 		{
 			dependencies: ["0D0FDA6FBDCEFF3B"]
@@ -643,10 +643,11 @@
 				type: "item"
 			}]
 			title: "Exchanging Miles Tickets"
-			x: 1.5d
-			y: 0.0d
+			x: 3.5d
+			y: -0.5d
 		}
 		{
+			dependencies: ["2DEEC2695C6A1F0F"]
 			dependency_requirement: "one_completed"
 			description: [
 				"After this quest you can now craft your own crafting grid and 1k storage disk! (You might need to rejoin the server/reopen the world for it to show up in JEI)"
@@ -702,7 +703,7 @@
 			}]
 			title: "Tent Storage"
 			x: -0.5d
-			y: 2.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["4BE09EB12590E2AD"]
@@ -733,7 +734,7 @@
 			}]
 			title: "Medium Storage Expansion"
 			x: 0.5d
-			y: 2.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["5F6FABA9D3E852BF"]
@@ -764,7 +765,7 @@
 			}]
 			title: "Large Storage Expansion"
 			x: 1.5d
-			y: 2.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["5CCBDC6C39923A34"]
@@ -796,7 +797,333 @@
 			}]
 			title: "Mega Storage Expansion"
 			x: 2.5d
-			y: 2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0D0FDA6FBDCEFF3B"]
+			hide: true
+			icon: {
+				Count: 1b
+				id: "bagofyurting:bag_of_yurting"
+				tag: {
+					RepairCost: 0
+					display: {
+						Name: "{\"text\":\"Wooden Bag of Yurting\"}"
+						color: 8606770
+					}
+					radius: 0
+				}
+			}
+			id: "2DEEC2695C6A1F0F"
+			rewards: [{
+				id: "719E560AC1FDF870"
+				item: {
+					Count: 1b
+					id: "bagofyurting:bag_of_yurting"
+					tag: {
+						RepairCost: 0
+						display: {
+							Name: "{\"text\":\"Wooden Bag of Yurting\"}"
+							color: 8606770
+						}
+						radius: 0
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				id: "60F5B2723C7CBC01"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			title: "Woodent Tent"
+			x: -0.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["2DEEC2695C6A1F0F"]
+			hide: true
+			icon: {
+				Count: 1b
+				id: "bagofyurting:bag_of_yurting"
+				tag: {
+					RepairCost: 0
+					display: {
+						Name: "{\"text\":\"Stone Bag of Yurting\"}"
+						color: 7567221
+					}
+					radius: 1
+				}
+			}
+			id: "0318918D643D4DC0"
+			rewards: [{
+				id: "2078550481CAB044"
+				item: {
+					Count: 1b
+					id: "bagofyurting:bag_of_yurting"
+					tag: {
+						RepairCost: 0
+						display: {
+							Name: "{\"text\":\"Stone Bag of Yurting\"}"
+							color: 7567221
+						}
+						radius: 1
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 27L
+				id: "2BDB4C78A983530A"
+				item: { Count: 27b, id: "kubejs:miles_ticket" }
+				type: "item"
+			}]
+			title: "Stone Tent"
+			x: 0.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["0318918D643D4DC0"]
+			hide: true
+			icon: {
+				Count: 1b
+				id: "bagofyurting:bag_of_yurting"
+				tag: {
+					RepairCost: 0
+					display: {
+						Name: "{\"text\":\"Copper Bag of Yurting\"}"
+						color: 16424231
+					}
+					radius: 2
+				}
+			}
+			id: "567D212033401B3C"
+			rewards: [{
+				id: "78FF22F2AA09954A"
+				item: {
+					Count: 1b
+					id: "bagofyurting:bag_of_yurting"
+					tag: {
+						RepairCost: 0
+						display: {
+							Name: "{\"text\":\"Copper Bag of Yurting\"}"
+							color: 16424231
+						}
+						radius: 2
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 125L
+				id: "64249D042CE9C2F2"
+				item: { Count: 125b, id: "kubejs:miles_ticket" }
+				type: "item"
+			}]
+			title: "Copper Tent"
+			x: 1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["567D212033401B3C"]
+			hide: true
+			icon: {
+				Count: 1b
+				id: "bagofyurting:bag_of_yurting"
+				tag: {
+					RepairCost: 0
+					display: {
+						Name: "{\"text\":\"Iron Bag of Yurting\"}"
+						color: 16383998
+					}
+					radius: 3
+				}
+			}
+			id: "6CC822DEC1247A6A"
+			rewards: [{
+				id: "5DE282A6218ED9C9"
+				item: {
+					Count: 1b
+					id: "bagofyurting:bag_of_yurting"
+					tag: {
+						RepairCost: 0
+						display: {
+							Name: "{\"text\":\"Iron Bag of Yurting\"}"
+							color: 16383998
+						}
+						radius: 3
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 343L
+				id: "0019CCAFBFF36FB2"
+				item: {
+					BigCount: 343
+					Count: 127b
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			title: "Iron Tent"
+			x: 2.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["6CC822DEC1247A6A"]
+			hide: true
+			icon: {
+				Count: 1b
+				id: "bagofyurting:bag_of_yurting"
+				tag: {
+					RepairCost: 0
+					display: {
+						Name: "{\"text\":\"Golden Bag of Yurting\"}"
+						color: 16702805
+					}
+					radius: 4
+				}
+			}
+			id: "67C21BB1DF7905AD"
+			rewards: [{
+				id: "7EEACCD74C218404"
+				item: {
+					Count: 1b
+					id: "bagofyurting:bag_of_yurting"
+					tag: {
+						RepairCost: 0
+						display: {
+							Name: "{\"text\":\"Golden Bag of Yurting\"}"
+							color: 16702805
+						}
+						radius: 4
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 729L
+				id: "5537B896A521A287"
+				item: {
+					BigCount: 729
+					Count: 127b
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			title: "Golden Tent"
+			x: 3.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["67C21BB1DF7905AD"]
+			hide: true
+			icon: {
+				Count: 1b
+				id: "bagofyurting:bag_of_yurting"
+				tag: {
+					RepairCost: 0
+					display: {
+						Name: "{\"text\":\"Diamond Bag of Yurting\"}"
+						color: 6405564
+					}
+					radius: 5
+				}
+			}
+			id: "00C04AF792DB5784"
+			rewards: [{
+				id: "3770EEFFB30D1770"
+				item: {
+					Count: 1b
+					id: "bagofyurting:bag_of_yurting"
+					tag: {
+						RepairCost: 0
+						display: {
+							Name: "{\"text\":\"Diamond Bag of Yurting\"}"
+							color: 6405564
+						}
+						radius: 5
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 1331L
+				id: "16A0E6FD993A54A2"
+				item: {
+					BigCount: 1331
+					Count: 127b
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			title: "Diamond Tent"
+			x: 4.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["00C04AF792DB5784"]
+			description: ["After this quest completion you would now be able to craft all bags of yurting normally."]
+			hide: true
+			icon: {
+				Count: 1b
+				id: "bagofyurting:bag_of_yurting"
+				tag: {
+					RepairCost: 0
+					display: {
+						Name: "{\"text\":\"Netherite Bag of Yurting\"}"
+						color: 3290681
+					}
+					radius: 6
+				}
+			}
+			id: "6858578DB533162D"
+			rewards: [
+				{
+					id: "379C72666566F9B7"
+					item: {
+						Count: 1b
+						id: "bagofyurting:bag_of_yurting"
+						tag: {
+							RepairCost: 0
+							display: {
+								Name: "{\"text\":\"Netherite Bag of Yurting\"}"
+								color: 3290681
+							}
+							radius: 6
+						}
+					}
+					type: "item"
+				}
+				{
+					auto: "invisible"
+					id: "03D91275017ECFF5"
+					ignore_reward_blocking: true
+					stage: "bag_of_yurting"
+					type: "gamestage"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 2197L
+				id: "6BC95533D83ADB02"
+				item: {
+					BigCount: 2197
+					Count: 127b
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			title: "Netherite Tent"
+			x: 5.5d
+			y: 0.5d
 		}
 	]
 	title: "Farming Crossing 4"

@@ -21,3 +21,5 @@ mods.recipestages.Recipes.setRecipeStage("1k_storage_disk", <item:refinedstorage
 mods.recipestages.Recipes.setRecipeStage("4k_storage_disk", <item:refinedstorage:4k_storage_disk>);
 mods.recipestages.Recipes.setRecipeStage("16k_storage_disk", <item:refinedstorage:16k_storage_disk>);
 mods.recipestages.Recipes.setRecipeStage("64k_storage_disk", <item:refinedstorage:64k_storage_disk>);
+
+mods.recipestages.Recipes.setRecipeStage("bag_of_yurting", <item:bagofyurting:bag_of_yurting>);

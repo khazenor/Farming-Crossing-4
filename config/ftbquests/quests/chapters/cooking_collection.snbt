@@ -518,7 +518,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 2.0d
+			y: -6.5d
 		}
 		{
 			dependencies: ["5E93B9E15372F454"]
@@ -536,7 +536,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 2.0d
+			y: -6.5d
 		}
 		{
 			dependencies: ["5E93B9E15372F454"]
@@ -554,7 +554,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 2.0d
+			y: -6.5d
 		}
 		{
 			dependencies: ["5E93B9E15372F454"]
@@ -572,7 +572,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 2.0d
+			y: -6.5d
 		}
 		{
 			dependencies: ["5E93B9E15372F454"]
@@ -590,7 +590,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 2.0d
+			y: -6.5d
 		}
 		{
 			dependencies: ["5E93B9E15372F454"]
@@ -608,7 +608,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 2.0d
+			y: -6.5d
 		}
 		{
 			dependencies: ["5E93B9E15372F454"]
@@ -626,7 +626,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 3.0d
+			y: -5.5d
 		}
 		{
 			dependencies: ["5E93B9E15372F454"]
@@ -644,7 +644,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 3.0d
+			y: -5.5d
 		}
 		{
 			dependencies: ["5E93B9E15372F454"]
@@ -662,7 +662,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 3.0d
+			y: -5.5d
 		}
 		{
 			dependencies: [
@@ -690,7 +690,7 @@
 			}]
 			title: "Baking Station Recipes Completion"
 			x: -1.0d
-			y: 2.5d
+			y: -6.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -708,7 +708,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 4.5d
+			y: 2.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -726,7 +726,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 4.5d
+			y: 2.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -744,7 +744,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 4.5d
+			y: 2.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -762,7 +762,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 4.5d
+			y: 2.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -780,7 +780,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 5.5d
+			y: 3.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -798,7 +798,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 5.5d
+			y: 3.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -816,7 +816,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 5.5d
+			y: 3.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -834,7 +834,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 5.5d
+			y: 3.0d
 		}
 		{
 			dependencies: [
@@ -861,7 +861,7 @@
 			}]
 			title: "Grapevine Pot Recipes Completion"
 			x: -1.0d
-			y: 5.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -879,7 +879,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 7.0d
+			y: -12.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -903,7 +903,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 7.0d
+			y: -12.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -927,7 +927,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 7.0d
+			y: -12.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -951,7 +951,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 8.0d
+			y: -11.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -975,7 +975,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 8.0d
+			y: -11.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -999,7 +999,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 8.0d
+			y: -11.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -1023,7 +1023,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 8.0d
+			y: -11.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -1047,7 +1047,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 8.0d
+			y: -11.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -1071,7 +1071,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 8.0d
+			y: -11.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -1095,7 +1095,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 9.0d
+			y: -10.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -1119,7 +1119,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 9.0d
+			y: -10.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -1143,7 +1143,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 9.0d
+			y: -10.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -1167,7 +1167,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 9.0d
+			y: -10.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -1191,7 +1191,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 9.0d
+			y: -10.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -1215,7 +1215,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 9.0d
+			y: -10.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -1239,7 +1239,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 10.0d
+			y: -9.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -1263,7 +1263,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 10.0d
+			y: -9.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -1287,7 +1287,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 10.0d
+			y: -9.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -1311,7 +1311,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 10.0d
+			y: -9.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -1335,7 +1335,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 10.0d
+			y: -9.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -1359,7 +1359,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 10.0d
+			y: -9.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -1383,7 +1383,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 11.0d
+			y: -8.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -1407,7 +1407,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 11.0d
+			y: -8.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -1431,7 +1431,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 11.0d
+			y: -8.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -1455,7 +1455,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 11.0d
+			y: -8.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -1479,7 +1479,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 7.0d
+			y: -12.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -1503,7 +1503,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 7.0d
+			y: -12.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -1527,7 +1527,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 7.0d
+			y: -12.0d
 		}
 		{
 			dependencies: [
@@ -1620,7 +1620,7 @@
 			}]
 			title: "Aging Barrel Recipes Completion"
 			x: -1.0d
-			y: 9.0d
+			y: -10.0d
 		}
 		{
 			dependencies: ["65B28F78A7DDBD06"]
@@ -1638,7 +1638,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 12.5d
+			y: 4.5d
 		}
 		{
 			dependencies: ["65B28F78A7DDBD06"]
@@ -1656,7 +1656,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 12.5d
+			y: 4.5d
 		}
 		{
 			dependencies: ["65B28F78A7DDBD06"]
@@ -1674,7 +1674,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 12.5d
+			y: 4.5d
 		}
 		{
 			dependencies: ["65B28F78A7DDBD06"]
@@ -1692,7 +1692,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 12.5d
+			y: 4.5d
 		}
 		{
 			dependencies: ["65B28F78A7DDBD06"]
@@ -1710,7 +1710,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 12.5d
+			y: 4.5d
 		}
 		{
 			dependencies: ["65B28F78A7DDBD06"]
@@ -1728,7 +1728,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 12.5d
+			y: 4.5d
 		}
 		{
 			dependencies: [
@@ -1803,7 +1803,7 @@
 			}]
 			title: "Cheese Press Recipes Completion"
 			x: -1.0d
-			y: 13.0d
+			y: 5.0d
 		}
 		{
 			dependencies: ["65B28F78A7DDBD06"]
@@ -1821,7 +1821,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 13.5d
+			y: 5.5d
 		}
 		{
 			dependencies: ["65B28F78A7DDBD06"]
@@ -1839,7 +1839,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 13.5d
+			y: 5.5d
 		}
 		{
 			dependencies: ["65B28F78A7DDBD06"]
@@ -1857,7 +1857,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 13.5d
+			y: 5.5d
 		}
 		{
 			dependencies: ["65B28F78A7DDBD06"]
@@ -1875,7 +1875,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 13.5d
+			y: 5.5d
 		}
 		{
 			dependencies: ["57889789985B323E"]
@@ -1893,7 +1893,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 15.0d
+			y: 7.0d
 		}
 		{
 			dependencies: ["57889789985B323E"]
@@ -1911,7 +1911,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 15.0d
+			y: 7.0d
 		}
 		{
 			dependencies: ["57889789985B323E"]
@@ -1929,7 +1929,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 15.0d
+			y: 7.0d
 		}
 		{
 			dependencies: ["57889789985B323E"]
@@ -1947,7 +1947,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 15.0d
+			y: 7.0d
 		}
 		{
 			dependencies: ["57889789985B323E"]
@@ -1965,7 +1965,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 15.5d
+			y: 7.5d
 		}
 		{
 			dependencies: ["57889789985B323E"]
@@ -1983,7 +1983,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 16.0d
+			y: 8.0d
 		}
 		{
 			dependencies: ["57889789985B323E"]
@@ -2001,7 +2001,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 16.0d
+			y: 8.0d
 		}
 		{
 			dependencies: ["57889789985B323E"]
@@ -2019,7 +2019,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 16.0d
+			y: 8.0d
 		}
 		{
 			dependencies: ["57889789985B323E"]
@@ -2037,7 +2037,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 16.0d
+			y: 8.0d
 		}
 		{
 			dependencies: [
@@ -2065,7 +2065,7 @@
 			}]
 			title: "Cooking Pot Recipes Completion"
 			x: -1.0d
-			y: 15.5d
+			y: 7.5d
 		}
 		{
 			dependencies: ["48C7E0AF4C9A3C3E"]
@@ -2083,7 +2083,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 18.5d
+			y: 10.5d
 		}
 		{
 			dependencies: ["48C7E0AF4C9A3C3E"]
@@ -2101,7 +2101,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 17.5d
+			y: 9.5d
 		}
 		{
 			dependencies: ["48C7E0AF4C9A3C3E"]
@@ -2119,7 +2119,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 17.5d
+			y: 9.5d
 		}
 		{
 			dependencies: ["48C7E0AF4C9A3C3E"]
@@ -2137,7 +2137,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 17.5d
+			y: 9.5d
 		}
 		{
 			dependencies: ["48C7E0AF4C9A3C3E"]
@@ -2155,7 +2155,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 17.5d
+			y: 9.5d
 		}
 		{
 			dependencies: ["48C7E0AF4C9A3C3E"]
@@ -2173,7 +2173,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 17.5d
+			y: 9.5d
 		}
 		{
 			dependencies: ["48C7E0AF4C9A3C3E"]
@@ -2191,7 +2191,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 18.0d
+			y: 10.0d
 		}
 		{
 			dependencies: ["48C7E0AF4C9A3C3E"]
@@ -2209,7 +2209,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 18.5d
+			y: 10.5d
 		}
 		{
 			dependencies: ["48C7E0AF4C9A3C3E"]
@@ -2227,7 +2227,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 18.5d
+			y: 10.5d
 		}
 		{
 			dependencies: ["48C7E0AF4C9A3C3E"]
@@ -2245,7 +2245,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 18.5d
+			y: 10.5d
 		}
 		{
 			dependencies: ["48C7E0AF4C9A3C3E"]
@@ -2263,7 +2263,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 18.5d
+			y: 10.5d
 		}
 		{
 			dependencies: [
@@ -2345,7 +2345,7 @@
 			}]
 			title: "Cooking Pan Recipes Completion"
 			x: -1.0d
-			y: 18.0d
+			y: 10.0d
 		}
 		{
 			dependencies: ["57889789985B323E"]
@@ -2363,7 +2363,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 20.0d
+			y: -18.5d
 		}
 		{
 			dependencies: ["57889789985B323E"]
@@ -2381,7 +2381,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 20.0d
+			y: -18.5d
 		}
 		{
 			dependencies: ["57889789985B323E"]
@@ -2400,7 +2400,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 20.0d
+			y: -18.5d
 		}
 		{
 			dependencies: ["57889789985B323E"]
@@ -2418,7 +2418,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 20.0d
+			y: -18.5d
 		}
 		{
 			dependencies: ["57889789985B323E"]
@@ -2436,7 +2436,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 20.0d
+			y: -18.5d
 		}
 		{
 			dependencies: ["57889789985B323E"]
@@ -2454,7 +2454,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 20.0d
+			y: -18.5d
 		}
 		{
 			dependencies: [
@@ -2479,7 +2479,7 @@
 			}]
 			title: "Regular Crafting Recipes Completion"
 			x: -1.0d
-			y: 20.0d
+			y: -18.5d
 		}
 		{
 			dependencies: ["56C6F1D87FA09C24"]
@@ -2497,7 +2497,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 21.5d
+			y: -17.0d
 		}
 		{
 			dependencies: ["56C6F1D87FA09C24"]
@@ -2515,7 +2515,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 21.5d
+			y: -17.0d
 		}
 		{
 			dependencies: ["56C6F1D87FA09C24"]
@@ -2533,7 +2533,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 21.5d
+			y: -17.0d
 		}
 		{
 			dependencies: ["56C6F1D87FA09C24"]
@@ -2551,7 +2551,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 22.5d
+			y: -16.0d
 		}
 		{
 			dependencies: ["56C6F1D87FA09C24"]
@@ -2569,7 +2569,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 22.5d
+			y: -16.0d
 		}
 		{
 			dependencies: ["56C6F1D87FA09C24"]
@@ -2587,7 +2587,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 22.5d
+			y: -16.0d
 		}
 		{
 			dependencies: ["56C6F1D87FA09C24"]
@@ -2605,7 +2605,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 22.5d
+			y: -16.0d
 		}
 		{
 			dependencies: ["56C6F1D87FA09C24"]
@@ -2623,7 +2623,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 21.5d
+			y: -17.0d
 		}
 		{
 			dependencies: [
@@ -2650,7 +2650,7 @@
 			}]
 			title: "Mini Fridge Recipes Completion"
 			x: -1.0d
-			y: 22.0d
+			y: -16.5d
 		}
 		{
 			dependencies: ["2D0063702FDE9B52"]
@@ -2668,7 +2668,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 25.0d
+			y: -13.5d
 		}
 		{
 			dependencies: ["2D0063702FDE9B52"]
@@ -2686,7 +2686,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 25.0d
+			y: -13.5d
 		}
 		{
 			dependencies: ["2D0063702FDE9B52"]
@@ -2704,7 +2704,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 25.0d
+			y: -13.5d
 		}
 		{
 			dependencies: ["2D0063702FDE9B52"]
@@ -2722,7 +2722,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 24.0d
+			y: -14.5d
 		}
 		{
 			dependencies: ["2D0063702FDE9B52"]
@@ -2740,7 +2740,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 24.0d
+			y: -14.5d
 		}
 		{
 			dependencies: ["2D0063702FDE9B52"]
@@ -2758,7 +2758,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 24.0d
+			y: -14.5d
 		}
 		{
 			dependencies: ["2D0063702FDE9B52"]
@@ -2776,7 +2776,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 24.0d
+			y: -14.5d
 		}
 		{
 			dependencies: ["2D0063702FDE9B52"]
@@ -2794,7 +2794,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 24.0d
+			y: -14.5d
 		}
 		{
 			dependencies: ["2D0063702FDE9B52"]
@@ -2812,7 +2812,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 24.0d
+			y: -14.5d
 		}
 		{
 			dependencies: [
@@ -2886,7 +2886,7 @@
 			}]
 			title: "Tiki Bar Recipes Completion"
 			x: -1.0d
-			y: 24.5d
+			y: -14.0d
 		}
 	]
 	title: "Cooking Collection"
