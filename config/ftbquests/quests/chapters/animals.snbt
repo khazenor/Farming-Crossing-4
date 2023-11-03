@@ -1886,6 +1886,7 @@
 			y: 11.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["A panda is a rare neutral mob that resides in jungles"]
 			hide: true
 			id: "5862996BFE43ECB7"
@@ -2342,6 +2343,7 @@
 				"2D62FBEF18E6ABF6"
 				"4846ABCBD585104D"
 			]
+			hide: true
 			icon: "kubejs:miles_ticket"
 			id: "2240F452BFC09731"
 			rewards: [{
@@ -2504,6 +2506,7 @@
 				"28DD0C62F42775DC"
 				"603551E830248F96"
 			]
+			hide: true
 			icon: "kubejs:miles_ticket"
 			id: "0B40D27CDEA8567F"
 			rewards: [{
@@ -2551,6 +2554,7 @@
 				"7E0B3F70751A49FD"
 				"2C09B9081B10DCAF"
 			]
+			hide: true
 			icon: "kubejs:miles_ticket"
 			id: "20AB77C4E7D5E24F"
 			rewards: [{
@@ -2569,6 +2573,7 @@
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
+			hide: true
 			id: "359BEC4AFEC849CC"
 			rewards: [{
 				auto: "enabled"
@@ -2590,6 +2595,7 @@
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
+			hide: true
 			id: "50831635A884520C"
 			rewards: [{
 				auto: "enabled"
@@ -2611,6 +2617,7 @@
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
+			hide: true
 			id: "0571CC0FC40BFD2A"
 			rewards: [{
 				auto: "enabled"
@@ -2632,6 +2639,7 @@
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
+			hide: true
 			id: "16F90C11BEA27616"
 			rewards: [{
 				auto: "enabled"
@@ -2653,6 +2661,7 @@
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
+			hide: true
 			id: "32F54B6B57DB6F58"
 			rewards: [{
 				auto: "enabled"
@@ -2674,6 +2683,7 @@
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
+			hide: true
 			id: "7F38BFDE8D8AF3A9"
 			rewards: [{
 				auto: "enabled"

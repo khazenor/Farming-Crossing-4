@@ -405,15 +405,8 @@
 			icon: "aquaculture:atlantic_cod"
 			id: "51AC164BB0124EBA"
 			rewards: [{
-				count: 16
-				id: "0313F26D53A28E96"
-				item: {
-					Count: 1b
-					id: "aquaculture:worm"
-					tag: {
-						Damage: 0
-					}
-				}
+				id: "241BA34ED463BCF0"
+				item: "minecraft:bundle"
 				type: "item"
 			}]
 			tasks: [{
@@ -550,9 +543,10 @@
 			icon: "handcrafted:crimson_fancy_bed"
 			id: "6FA340C0FFE7FB26"
 			rewards: [{
-				id: "37CD556E2CEC866C"
-				item: "kubejs:miles_ticket"
-				type: "item"
+				exclude_from_claim_all: true
+				id: "570548DCDB27C2E9"
+				table_id: 6769915887841917025L
+				type: "choice"
 			}]
 			tasks: [{
 				id: "0087CE95A68F3C1D"
@@ -590,7 +584,7 @@
 			id: "2D62FBEF18E6ABF6"
 			rewards: [{
 				id: "42C5F4ACECA9060F"
-				item: "minecraft:stripped_oak_log"
+				item: "paraglider:paraglider"
 				type: "item"
 			}]
 			tasks: [{
