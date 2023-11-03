@@ -59,6 +59,12 @@
 					item: "minecraft:bucket"
 					type: "item"
 				}
+				{
+					count: 16
+					id: "79707C591C03C8B7"
+					item: "minecraft:sugar_cane"
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "3BE140032757C3C5"
@@ -335,30 +341,22 @@
 			y: -1.0d
 		}
 		{
-			dependencies: ["13B67DDBCF1019AB"]
-			description: ["You can get a customer by putting down a customer table and have a villager assign it as a workstation."]
+			dependencies: ["2D7BAAE0667F927B"]
+			description: [""]
 			hide: true
 			icon: "kubejs:miles_ticket"
 			id: "0D0FDA6FBDCEFF3B"
-			tasks: [
-				{
-					id: "5B682AC2530361CA"
-					item: {
-						Count: 1b
-						id: "itemfilters:tag"
-						tag: {
-							value: "forge:customer_tables"
-						}
-					}
-					title: "Any #forge:customer_tables"
-					type: "item"
-				}
-				{
-					id: "5AB5D3513507BECE"
-					item: "kubejs:miles_ticket"
-					type: "item"
-				}
-			]
+			rewards: [{
+				count: 3
+				id: "3D8BEFCD42D7349A"
+				item: "minecraft:iron_ingot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5AB5D3513507BECE"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
 			title: "Turning a Profit!"
 			x: -0.5d
 			y: -4.0d
@@ -453,8 +451,8 @@
 				type: "item"
 			}]
 			title: "Buying Decorations"
-			x: -0.5d
-			y: -5.0d
+			x: 0.5d
+			y: -4.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -488,6 +486,75 @@
 			title: "Cutting Cakes"
 			x: 2.5d
 			y: -4.0d
+		}
+		{
+			dependencies: ["13B67DDBCF1019AB"]
+			description: [
+				"You can attract a customer by putting a customer table near a minecraft villager. "
+				""
+				"Customer villagers will buy meals from you in exchange for miles tickets."
+			]
+			hide: true
+			icon: "villagersplus:oak_horticulturist_table"
+			id: "2D7BAAE0667F927B"
+			rewards: [{
+				id: "794BE09573A4A53E"
+				item: "minecraft:villager_spawn_egg"
+				type: "item"
+			}]
+			tasks: [{
+				id: "06C4AF1BFA885D6D"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "forge:customer_tables"
+					}
+				}
+				title: "Any #forge:customer_tables"
+				type: "item"
+			}]
+			title: "Starting a Restaurant"
+			x: -0.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["7CF35DAE02E4B6C0"]
+			description: [
+				"\"Making furniture? Simple. Find yourself some good materials and I'll help you from there\""
+				""
+				"- Ren the woodpecker"
+				""
+				"------------"
+				""
+				"In this modpack you can convert materials to many furniture by using the sawmill or the stonecutter!"
+				""
+				"{image:khazenor:textures/sawmill/sawmill_tutorial.png width:180 height:80 align:1}"
+				""
+			]
+			hide: true
+			icon: "handcrafted:crimson_fancy_bed"
+			id: "6FA340C0FFE7FB26"
+			rewards: [{
+				id: "37CD556E2CEC866C"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0087CE95A68F3C1D"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "corail_woodcutter:woodcutters"
+					}
+				}
+				title: "Any #corail_woodcutter:woodcutters"
+				type: "item"
+			}]
+			title: "Furniture Cutting"
+			x: -1.5d
+			y: -1.0d
 		}
 	]
 	title: "Farming Crossing 4"
