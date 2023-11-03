@@ -266,7 +266,7 @@
 	{
 		"id": "mixinextras",
 		"name": "MixinExtras",
-		"version": "0.2.0-beta.9",
+		"version": "0.2.0-rc.3",
 		"description": "Companion library to Mixin with lots of features to improve the compatibility and concision of your mixins!",
 		"authors": "LlamaLad7",
 		"homepage": "https://github.com/LlamaLad7/MixinExtras",
@@ -351,16 +351,6 @@
 		"homepage": "https://github.com/ldtteam/DynView/",
 		"issue_tracker": "https://github.com/ldtteam/Performant/issues",
 		"license": "GPL3"
-	},
-	{
-		"id": "carryon",
-		"name": "Carry On",
-		"version": "2.1.2.5",
-		"description": "Carry On is a simple mod that improves game interaction by allowing players to pick up, carry, and place single block Tile Entities using only their empty hands.",
-		"authors": "Tschipp, Purplicious_Cow, cy4n",
-		"homepage": "https://tschipp.ch",
-		"issue_tracker": "https://github.com/Tschipp/CarryOn/issues",
-		"license": "GNU LGPLv3"
 	},
 	{
 		"id": "biggerstacks",
@@ -601,15 +591,6 @@
 		"license": "LGPLv3"
 	},
 	{
-		"id": "framedblocks",
-		"name": "FramedBlocks",
-		"version": "9.1.6",
-		"authors": "XFactHD",
-		"homepage": "https://www.curseforge.com/minecraft/mc-mods/framedblocks",
-		"issue_tracker": "https://www.github.com/xfacthd/framedblocks",
-		"license": "LGPL v3"
-	},
-	{
 		"id": "drawerstooltip",
 		"name": "Drawers Tooltip",
 		"version": "8.0.0",
@@ -766,16 +747,6 @@
 		"license": "All Rights Reserved"
 	},
 	{
-		"id": "controllable",
-		"name": "Controllable",
-		"version": "0.20.3",
-		"description": "Adds the ability to use a controller to play Minecraft",
-		"authors": "MrCrayfish",
-		"homepage": "https://mrcrayfish.com/mods?id=controllable",
-		"issue_tracker": "https://github.com/MrCrayfish/Controllable/issues",
-		"license": "GNU General Public License v3.0"
-	},
-	{
 		"id": "bettermineshafts",
 		"name": "YUNG's Better Mineshafts",
 		"version": "1.20-Forge-4.0.4",
@@ -797,7 +768,7 @@
 		"id": "crafting_on_a_stick",
 		"name": "Crafting On A Stick",
 		"version": "1.0.0",
-		"description": "This mod adds multiple workbenches on a stick:\r\n - Crafting Table\r\n - Anvil\r\n - Loom\r\n - Grindstone\r\n - Grindstone\r\n - Cartography Table\r\n - Cartography Table\r\n - Stonecutter\r\n - Smithing Table",
+		"description": "This mod adds multiple workbenches on a stick:\n - Crafting Table\n - Anvil\n - Loom\n - Grindstone\n - Grindstone\n - Cartography Table\n - Cartography Table\n - Stonecutter\n - Smithing Table",
 		"authors": "Ofek",
 		"license": "All rights reserved"
 	},
@@ -847,6 +818,16 @@
 		"authors": "Miguel, MCreator",
 		"homepage": "https://mcreator.net",
 		"license": "Academic Free License v3.0"
+	},
+	{
+		"id": "bagofyurting",
+		"name": "Bag of Yurting",
+		"version": "4.0.0.1",
+		"description": "The Bag of Yurting is a powerful, versatile, dyeable, upgradeable, all-purpose yurt storage tool. Combine bags at a crafting table to upgrade their size. Bags can be dyed like leather armor.",
+		"authors": "Commoble",
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/bag-of-yurting",
+		"issue_tracker": "https://github.com/Commoble/bagofyurting/issues",
+		"license": "MIT License"
 	},
 	{
 		"id": "shrines",
@@ -1074,10 +1055,11 @@
 	{
 		"id": "forge",
 		"name": "Forge",
-		"version": "47.1.3",
+		"version": "47.2.4",
 		"description": "Forge, a broad compatibility API.",
 		"authors": "LexManos,cpw",
-		"issue_tracker": "http://www.minecraftforge.net/",
+		"homepage": "https://minecraftforge.net/",
+		"issue_tracker": "https://minecraftforge.net/",
 		"license": "LGPL v2.1"
 	},
 	{
@@ -1428,7 +1410,7 @@
 		"id": "createaddition",
 		"name": "Create Crafts & Additions",
 		"version": "1.20.1-1.1.1",
-		"description": "Create Crafts & Additions extends Create and acts as a bridge between electric and kinetic energy from Create.\r\nJoin the Discord: https://discord.gg/mRbNnyKTEu\r\nSpecial thanks to:\r\nthe Create team, the Forge team, and all contributors on the CC&A discord including:\r\nAlphaMode, BobDole, legoatoom, StockiesLad, THEREDSTONEBRO, and Uraxys.",
+		"description": "Create Crafts & Additions extends Create and acts as a bridge between electric and kinetic energy from Create.\nJoin the Discord: https://discord.gg/mRbNnyKTEu\nSpecial thanks to:\nthe Create team, the Forge team, and all contributors on the CC&A discord including:\nAlphaMode, BobDole, legoatoom, StockiesLad, THEREDSTONEBRO, and Uraxys.",
 		"authors": "MRH0",
 		"homepage": "https://github.com/mrh0/createaddition",
 		"issue_tracker": "https://github.com/mrh0/createaddition/issues",
