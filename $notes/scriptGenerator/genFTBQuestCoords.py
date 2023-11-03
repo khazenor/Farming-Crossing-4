@@ -34,5 +34,23 @@ def verticalColumns():
 			f.write(f'x: {indX}.0d\n')
 			f.write(f'y: {indY}.0d\n')
 
+def groupsOfSixes():
+	numQuests = 30
+	rowWidth = 6
+	doGrouping = False
+	outputFileDir = os.path.join("output", "ftbQuestCoords.txt")
+
+	with open(outputFileDir, "w") as f:
+		for i in range(numQuests):
+			groupIdx = math.floor(i / (rowWidth * rowWidth))
+			indX = float(i % rowWidth)
+			indY = float(math.floor(i / rowWidth))
+
+			if doGrouping:
+				indY = float(indY + groupIdx * .5)
+
+			f.write(f'x: {indX}d\n')
+			f.write(f'y: {indY}d\n')
+
 if __name__ == "__main__":
-	verticalColumns()
+	groupsOfSixes()

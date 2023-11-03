@@ -117,8 +117,8 @@
 				item: "moa_decor_art:gafas_3d"
 				type: "item"
 			}]
-			x: 6.0d
-			y: 0.0d
+			x: 0.0d
+			y: 1.0d
 		}
 		{
 			id: "4D3C02A27DD7175A"
@@ -133,8 +133,8 @@
 				item: "moa_decor_art:guitarra"
 				type: "item"
 			}]
-			x: 7.0d
-			y: 0.0d
+			x: 1.0d
+			y: 1.0d
 		}
 		{
 			id: "68217C0D2E8E1FC2"
@@ -149,8 +149,8 @@
 				item: "moa_decor_art:guitarraelectricaamarilla"
 				type: "item"
 			}]
-			x: 8.0d
-			y: 0.0d
+			x: 2.0d
+			y: 1.0d
 		}
 		{
 			id: "3C1F16D698E6C32D"
@@ -165,8 +165,8 @@
 				item: "moa_decor_art:guitarraelectricaazul"
 				type: "item"
 			}]
-			x: 9.0d
-			y: 0.0d
+			x: 3.0d
+			y: 1.0d
 		}
 		{
 			id: "0D5923C2A77D8383"
@@ -181,7 +181,7 @@
 				item: "moa_decor_art:guitarraelectricaazulclara"
 				type: "item"
 			}]
-			x: 0.0d
+			x: 4.0d
 			y: 1.0d
 		}
 		{
@@ -197,7 +197,7 @@
 				item: "moa_decor_art:guitarraelectricablanca"
 				type: "item"
 			}]
-			x: 1.0d
+			x: 5.0d
 			y: 1.0d
 		}
 		{
@@ -213,8 +213,8 @@
 				item: "moa_decor_art:guitarraelectricacafe"
 				type: "item"
 			}]
-			x: 2.0d
-			y: 1.0d
+			x: 0.0d
+			y: 2.0d
 		}
 		{
 			id: "01CA69619FDA624D"
@@ -229,8 +229,8 @@
 				item: "moa_decor_art:guitarraelectricacian"
 				type: "item"
 			}]
-			x: 3.0d
-			y: 1.0d
+			x: 1.0d
+			y: 2.0d
 		}
 		{
 			id: "52FCFA1BF814AB65"
@@ -245,8 +245,8 @@
 				item: "moa_decor_art:guitarraelectricagris"
 				type: "item"
 			}]
-			x: 4.0d
-			y: 1.0d
+			x: 2.0d
+			y: 2.0d
 		}
 		{
 			id: "6D318A1AFA6647FC"
@@ -261,8 +261,8 @@
 				item: "moa_decor_art:guitarraelectricagrisclara"
 				type: "item"
 			}]
-			x: 5.0d
-			y: 1.0d
+			x: 3.0d
+			y: 2.0d
 		}
 		{
 			id: "0EB5469731FB6A18"
@@ -277,8 +277,8 @@
 				item: "moa_decor_art:guitarraelectricamagenta"
 				type: "item"
 			}]
-			x: 6.0d
-			y: 1.0d
+			x: 4.0d
+			y: 2.0d
 		}
 		{
 			id: "64FDD37D37935930"
@@ -293,8 +293,8 @@
 				item: "moa_decor_art:guitarraelectricamorada"
 				type: "item"
 			}]
-			x: 7.0d
-			y: 1.0d
+			x: 5.0d
+			y: 2.0d
 		}
 		{
 			id: "3BFBE54440C2A800"
@@ -309,8 +309,8 @@
 				item: "moa_decor_art:guitarraelectricanaranja"
 				type: "item"
 			}]
-			x: 8.0d
-			y: 1.0d
+			x: 0.0d
+			y: 3.0d
 		}
 		{
 			id: "3CFE2F2DC6878D81"
@@ -325,8 +325,8 @@
 				item: "moa_decor_art:guitarraelectricanegra"
 				type: "item"
 			}]
-			x: 9.0d
-			y: 1.0d
+			x: 1.0d
+			y: 3.0d
 		}
 		{
 			id: "5CAE300225CC9B2E"
@@ -341,8 +341,8 @@
 				item: "moa_decor_art:guitarraelectricaroja"
 				type: "item"
 			}]
-			x: 0.0d
-			y: 2.0d
+			x: 2.0d
+			y: 3.0d
 		}
 		{
 			id: "125D5CBBC3ACA4DF"
@@ -357,8 +357,8 @@
 				item: "moa_decor_art:guitarraelectricarosa"
 				type: "item"
 			}]
-			x: 1.0d
-			y: 2.0d
+			x: 3.0d
+			y: 3.0d
 		}
 		{
 			id: "3A5EEE20FF9C02B6"
@@ -373,8 +373,8 @@
 				item: "moa_decor_art:guitarraelectricaverde"
 				type: "item"
 			}]
-			x: 2.0d
-			y: 2.0d
+			x: 4.0d
+			y: 3.0d
 		}
 		{
 			id: "41B4FDDA75ADAA05"
@@ -389,8 +389,8 @@
 				item: "moa_decor_art:guitarraelectricaverdelima"
 				type: "item"
 			}]
-			x: 3.0d
-			y: 2.0d
+			x: 5.0d
+			y: 3.0d
 		}
 		{
 			id: "50B74E2956F64348"
@@ -405,8 +405,8 @@
 				item: "moa_decor_art:maniqui"
 				type: "item"
 			}]
-			x: 4.0d
-			y: 2.0d
+			x: 0.0d
+			y: 4.0d
 		}
 		{
 			id: "556EBA769F828CA7"
@@ -421,8 +421,8 @@
 				item: "moa_decor_art:maquinadecoser"
 				type: "item"
 			}]
-			x: 5.0d
-			y: 2.0d
+			x: 1.0d
+			y: 4.0d
 		}
 		{
 			id: "17258239FBDFAD15"
@@ -437,8 +437,8 @@
 				item: "moa_decor_art:martilloycincel"
 				type: "item"
 			}]
-			x: 6.0d
-			y: 2.0d
+			x: 2.0d
+			y: 4.0d
 		}
 		{
 			id: "210DA38DF5516410"
@@ -453,8 +453,8 @@
 				item: "moa_decor_art:mezcladordj"
 				type: "item"
 			}]
-			x: 7.0d
-			y: 2.0d
+			x: 3.0d
+			y: 4.0d
 		}
 		{
 			id: "5C72646983E72C09"
@@ -469,8 +469,8 @@
 				item: "moa_decor_art:microfono"
 				type: "item"
 			}]
-			x: 8.0d
-			y: 2.0d
+			x: 4.0d
+			y: 4.0d
 		}
 		{
 			id: "7D39CE92C65939BC"
@@ -485,8 +485,8 @@
 				item: "moa_decor_art:microfonoenpedestal"
 				type: "item"
 			}]
-			x: 9.0d
-			y: 2.0d
+			x: 5.0d
+			y: 4.0d
 		}
 		{
 			id: "7D0D8BCC4C93743F"
@@ -502,7 +502,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 3.0d
+			y: 5.0d
 		}
 		{
 			id: "562C6CC61FDF48CB"
@@ -518,7 +518,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 3.0d
+			y: 5.0d
 		}
 		{
 			id: "6089FFB07712E497"
@@ -534,7 +534,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 3.0d
+			y: 5.0d
 		}
 		{
 			id: "6A033B7E1E4BAB3A"
@@ -550,7 +550,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 3.0d
+			y: 5.0d
 		}
 		{
 			id: "691577F303B4DD5B"
@@ -566,7 +566,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 3.0d
+			y: 5.0d
 		}
 		{
 			id: "04481248365A8821"
@@ -582,7 +582,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 3.0d
+			y: 5.0d
 		}
 		{
 			id: "60F05BE486088191"
@@ -597,8 +597,8 @@
 				item: "moa_decor_art:tamboramarillo"
 				type: "item"
 			}]
-			x: 6.0d
-			y: 3.0d
+			x: 0.0d
+			y: 6.5d
 		}
 		{
 			id: "49D9463E1984FC11"
@@ -613,8 +613,8 @@
 				item: "moa_decor_art:tamborazul"
 				type: "item"
 			}]
-			x: 7.0d
-			y: 3.0d
+			x: 1.0d
+			y: 6.5d
 		}
 		{
 			id: "47C901B1BE52A881"
@@ -629,8 +629,8 @@
 				item: "moa_decor_art:tamborazulclaro"
 				type: "item"
 			}]
-			x: 8.0d
-			y: 3.0d
+			x: 2.0d
+			y: 6.5d
 		}
 		{
 			id: "4A58B5D5C3ED828B"
@@ -645,8 +645,8 @@
 				item: "moa_decor_art:tamborblanco"
 				type: "item"
 			}]
-			x: 9.0d
-			y: 3.0d
+			x: 3.0d
+			y: 6.5d
 		}
 		{
 			id: "2782073A856EA6CE"
@@ -661,8 +661,8 @@
 				item: "moa_decor_art:tamborcafe"
 				type: "item"
 			}]
-			x: 0.0d
-			y: 4.0d
+			x: 4.0d
+			y: 6.5d
 		}
 		{
 			id: "6AED7A4AD031845C"
@@ -677,8 +677,8 @@
 				item: "moa_decor_art:tamborcian"
 				type: "item"
 			}]
-			x: 1.0d
-			y: 4.0d
+			x: 5.0d
+			y: 6.5d
 		}
 		{
 			id: "41BE7B689FE3F459"
@@ -693,8 +693,8 @@
 				item: "moa_decor_art:tamborgris"
 				type: "item"
 			}]
-			x: 2.0d
-			y: 4.0d
+			x: 0.0d
+			y: 7.5d
 		}
 		{
 			id: "08EB629FC5627015"
@@ -709,8 +709,8 @@
 				item: "moa_decor_art:tamborgrisclaro"
 				type: "item"
 			}]
-			x: 3.0d
-			y: 4.0d
+			x: 1.0d
+			y: 7.5d
 		}
 		{
 			id: "0B98DEAB6FEBCF93"
@@ -725,8 +725,8 @@
 				item: "moa_decor_art:tambormagenta"
 				type: "item"
 			}]
-			x: 4.0d
-			y: 4.0d
+			x: 2.0d
+			y: 7.5d
 		}
 		{
 			id: "2142B906B9C5324B"
@@ -741,8 +741,8 @@
 				item: "moa_decor_art:tambormorado"
 				type: "item"
 			}]
-			x: 5.0d
-			y: 4.0d
+			x: 3.0d
+			y: 7.5d
 		}
 		{
 			id: "1E0035A0BF05847E"
@@ -757,8 +757,8 @@
 				item: "moa_decor_art:tambornaranja"
 				type: "item"
 			}]
-			x: 6.0d
-			y: 4.0d
+			x: 4.0d
+			y: 7.5d
 		}
 		{
 			id: "59A8378858032846"
@@ -773,8 +773,8 @@
 				item: "moa_decor_art:tambornegro"
 				type: "item"
 			}]
-			x: 7.0d
-			y: 4.0d
+			x: 5.0d
+			y: 7.5d
 		}
 		{
 			id: "43D096397EED085A"
@@ -789,8 +789,8 @@
 				item: "moa_decor_art:tamborrojo"
 				type: "item"
 			}]
-			x: 8.0d
-			y: 4.0d
+			x: 0.0d
+			y: 8.5d
 		}
 		{
 			id: "27C5F6BB2B79B379"
@@ -805,8 +805,8 @@
 				item: "moa_decor_art:tamborrosa"
 				type: "item"
 			}]
-			x: 9.0d
-			y: 4.0d
+			x: 1.0d
+			y: 8.5d
 		}
 		{
 			id: "23681F4426E98D65"
@@ -821,8 +821,8 @@
 				item: "moa_decor_art:tamborverde"
 				type: "item"
 			}]
-			x: 0.0d
-			y: 5.0d
+			x: 2.0d
+			y: 8.5d
 		}
 		{
 			id: "3EC982646CD72EF4"
@@ -837,8 +837,8 @@
 				item: "moa_decor_art:tamborverdelima"
 				type: "item"
 			}]
-			x: 1.0d
-			y: 5.0d
+			x: 3.0d
+			y: 8.5d
 		}
 		{
 			id: "4836CBDCAB018483"
@@ -853,8 +853,8 @@
 				item: "moa_decor_art:tecladomusical"
 				type: "item"
 			}]
-			x: 2.0d
-			y: 5.0d
+			x: 4.0d
+			y: 8.5d
 		}
 		{
 			id: "14FB89A910B3BFDE"
@@ -869,8 +869,8 @@
 				item: "moa_decor_art:tijeras"
 				type: "item"
 			}]
-			x: 3.0d
-			y: 5.0d
+			x: 5.0d
+			y: 8.5d
 		}
 		{
 			id: "0DD908220D01B60E"
@@ -885,8 +885,8 @@
 				item: "moa_decor_art:tocadiscos"
 				type: "item"
 			}]
-			x: 4.0d
-			y: 5.0d
+			x: 0.0d
+			y: 9.5d
 		}
 		{
 			id: "255C806CC38C3DE4"
@@ -901,8 +901,8 @@
 				item: "moa_decor_art:violin"
 				type: "item"
 			}]
-			x: 5.0d
-			y: 5.0d
+			x: 1.0d
+			y: 9.5d
 		}
 		{
 			id: "6CC648109FD79598"
@@ -917,8 +917,8 @@
 				item: "moa_decor_bath:banera"
 				type: "item"
 			}]
-			x: 6.0d
-			y: 5.0d
+			x: 2.0d
+			y: 9.5d
 		}
 		{
 			id: "366DE902780D5094"
@@ -933,8 +933,8 @@
 				item: "moa_decor_bath:cubetadeagua"
 				type: "item"
 			}]
-			x: 7.0d
-			y: 5.0d
+			x: 3.0d
+			y: 9.5d
 		}
 		{
 			id: "3B628C3163686293"
@@ -949,8 +949,8 @@
 				item: "moa_decor_bath:destapador"
 				type: "item"
 			}]
-			x: 8.0d
-			y: 5.0d
+			x: 4.0d
+			y: 9.5d
 		}
 		{
 			id: "50C91E0050192EE9"
@@ -965,8 +965,8 @@
 				item: "moa_decor_bath:esco"
 				type: "item"
 			}]
-			x: 9.0d
-			y: 5.0d
+			x: 5.0d
+			y: 9.5d
 		}
 		{
 			id: "1200D11ED6F38F05"
@@ -982,7 +982,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 6.0d
+			y: 10.5d
 		}
 		{
 			id: "60293E9A47FCC47D"
@@ -998,7 +998,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 6.0d
+			y: 10.5d
 		}
 		{
 			id: "2A54D505F6D71DAC"
@@ -1014,7 +1014,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 6.0d
+			y: 10.5d
 		}
 		{
 			id: "035741209F22BDDB"
@@ -1030,7 +1030,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 6.0d
+			y: 10.5d
 		}
 		{
 			id: "084E2E95B9679FDD"
@@ -1046,7 +1046,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 6.0d
+			y: 10.5d
 		}
 		{
 			id: "1AAFAA7F588BEAC3"
@@ -1062,7 +1062,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 6.0d
+			y: 10.5d
 		}
 		{
 			id: "340DF1B6DC710E29"
@@ -1077,8 +1077,8 @@
 				item: "moa_decor_bath:lavabo"
 				type: "item"
 			}]
-			x: 6.0d
-			y: 6.0d
+			x: 0.0d
+			y: 11.5d
 		}
 		{
 			id: "04405FAEE7FD93B5"
@@ -1093,8 +1093,8 @@
 				item: "moa_decor_bath:lavaboconpedestal"
 				type: "item"
 			}]
-			x: 7.0d
-			y: 6.0d
+			x: 1.0d
+			y: 11.5d
 		}
 		{
 			id: "30E28A02D13A803B"
@@ -1109,8 +1109,8 @@
 				item: "moa_decor_bath:letreropisomojado"
 				type: "item"
 			}]
-			x: 8.0d
-			y: 6.0d
+			x: 2.0d
+			y: 11.5d
 		}
 		{
 			id: "5694A054B621AAC0"
@@ -1125,8 +1125,8 @@
 				item: "moa_decor_bath:llavesdebanera"
 				type: "item"
 			}]
-			x: 9.0d
-			y: 6.0d
+			x: 3.0d
+			y: 11.5d
 		}
 		{
 			id: "6E8892D8976F84A6"
@@ -1141,8 +1141,8 @@
 				item: "moa_decor_bath:llavesderegadera"
 				type: "item"
 			}]
-			x: 0.0d
-			y: 7.0d
+			x: 4.0d
+			y: 11.5d
 		}
 		{
 			id: "6A7F17790ED70D07"
@@ -1157,8 +1157,8 @@
 				item: "moa_decor_bath:mingitorio"
 				type: "item"
 			}]
-			x: 1.0d
-			y: 7.0d
+			x: 5.0d
+			y: 11.5d
 		}
 		{
 			id: "49D29A6C088D5992"
@@ -1173,8 +1173,8 @@
 				item: "moa_decor_bath:planch"
 				type: "item"
 			}]
-			x: 2.0d
-			y: 7.0d
+			x: 0.0d
+			y: 13.0d
 		}
 		{
 			id: "5B1DA2E8FD95ED4D"
@@ -1189,8 +1189,8 @@
 				item: "moa_decor_bath:regadera"
 				type: "item"
 			}]
-			x: 3.0d
-			y: 7.0d
+			x: 1.0d
+			y: 13.0d
 		}
 		{
 			id: "6EC88B0525C2ABF7"
@@ -1205,8 +1205,8 @@
 				item: "moa_decor_bath:secadormanos"
 				type: "item"
 			}]
-			x: 4.0d
-			y: 7.0d
+			x: 2.0d
+			y: 13.0d
 		}
 		{
 			id: "188AD2D50FDA5A94"
@@ -1221,8 +1221,8 @@
 				item: "moa_decor_bath:soporteparajabon"
 				type: "item"
 			}]
-			x: 5.0d
-			y: 7.0d
+			x: 3.0d
+			y: 13.0d
 		}
 		{
 			id: "3E13C6D936CC3C15"
@@ -1237,8 +1237,8 @@
 				item: "moa_decor_bath:tabladeplanchar"
 				type: "item"
 			}]
-			x: 6.0d
-			y: 7.0d
+			x: 4.0d
+			y: 13.0d
 		}
 		{
 			id: "7209DC58774170EA"
@@ -1253,8 +1253,8 @@
 				item: "moa_decor_bath:tendederoconropafemenina"
 				type: "item"
 			}]
-			x: 7.0d
-			y: 7.0d
+			x: 5.0d
+			y: 13.0d
 		}
 		{
 			id: "0508C4D8394025FC"
@@ -1269,8 +1269,8 @@
 				item: "moa_decor_bath:tendederoconropamasculina"
 				type: "item"
 			}]
-			x: 8.0d
-			y: 7.0d
+			x: 0.0d
+			y: 14.0d
 		}
 		{
 			id: "15852AEA2042C035"
@@ -1285,8 +1285,8 @@
 				item: "moa_decor_bath:tendederoconsabanas"
 				type: "item"
 			}]
-			x: 9.0d
-			y: 7.0d
+			x: 1.0d
+			y: 14.0d
 		}
 		{
 			id: "76EFBEFA0BF645FD"
@@ -1301,8 +1301,8 @@
 				item: "moa_decor_bath:trap"
 				type: "item"
 			}]
-			x: 0.0d
-			y: 8.0d
+			x: 2.0d
+			y: 14.0d
 		}
 		{
 			id: "57B0BBDA09323BE6"
@@ -1317,8 +1317,8 @@
 				item: "moa_decor_bath:vasocepillosdedientes"
 				type: "item"
 			}]
-			x: 1.0d
-			y: 8.0d
+			x: 3.0d
+			y: 14.0d
 		}
 		{
 			id: "5E8F469727E04867"
@@ -1333,8 +1333,8 @@
 				item: "moa_decor_holidays:arana_en_telarana"
 				type: "item"
 			}]
-			x: 2.0d
-			y: 8.0d
+			x: 4.0d
+			y: 14.0d
 		}
 		{
 			id: "1983C591068D49E4"
@@ -1349,8 +1349,8 @@
 				item: "moa_decor_holidays:arana_en_telarana_2"
 				type: "item"
 			}]
-			x: 3.0d
-			y: 8.0d
+			x: 5.0d
+			y: 14.0d
 		}
 		{
 			id: "55649B914B903B0E"
@@ -1365,8 +1365,8 @@
 				item: "moa_decor_holidays:base_pino_navideno"
 				type: "item"
 			}]
-			x: 4.0d
-			y: 8.0d
+			x: 0.0d
+			y: 15.0d
 		}
 		{
 			id: "2D25A79B64454B2D"
@@ -1381,8 +1381,8 @@
 				item: "moa_decor_holidays:bruja_escoba"
 				type: "item"
 			}]
-			x: 5.0d
-			y: 8.0d
+			x: 1.0d
+			y: 15.0d
 		}
 		{
 			id: "3E05AF3FA1233991"
@@ -1397,8 +1397,8 @@
 				item: "moa_decor_holidays:c_pblanco"
 				type: "item"
 			}]
-			x: 6.0d
-			y: 8.0d
+			x: 2.0d
+			y: 15.0d
 		}
 		{
 			id: "7C71672F4B7F4B12"
@@ -1413,8 +1413,8 @@
 				item: "moa_decor_holidays:c_pcafe"
 				type: "item"
 			}]
-			x: 7.0d
-			y: 8.0d
+			x: 3.0d
+			y: 15.0d
 		}
 		{
 			id: "45D38F54D0D783E9"
@@ -1429,8 +1429,8 @@
 				item: "moa_decor_holidays:c_pdorado"
 				type: "item"
 			}]
-			x: 8.0d
-			y: 8.0d
+			x: 4.0d
+			y: 15.0d
 		}
 		{
 			id: "607CAB9E68638E88"
@@ -1445,8 +1445,8 @@
 				item: "moa_decor_holidays:c_pnegro"
 				type: "item"
 			}]
-			x: 9.0d
-			y: 8.0d
+			x: 5.0d
+			y: 15.0d
 		}
 		{
 			id: "3FDE0DD26D138EFD"
@@ -1462,7 +1462,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 9.0d
+			y: 16.0d
 		}
 		{
 			id: "233B9A48E9D9991E"
@@ -1478,7 +1478,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 9.0d
+			y: 16.0d
 		}
 		{
 			id: "476E4FC240498C8A"
@@ -1494,7 +1494,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 9.0d
+			y: 16.0d
 		}
 		{
 			id: "322C5A84DF091A0A"
@@ -1510,7 +1510,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 9.0d
+			y: 16.0d
 		}
 		{
 			id: "1774F7D1EF53042C"
@@ -1526,7 +1526,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 9.0d
+			y: 16.0d
 		}
 		{
 			id: "0C8975FC6C820FD1"
@@ -1542,7 +1542,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 9.0d
+			y: 16.0d
 		}
 		{
 			id: "39E04FFE846A2EE1"
@@ -1557,8 +1557,8 @@
 				item: "moa_decor_holidays:creeper_nieve"
 				type: "item"
 			}]
-			x: 6.0d
-			y: 9.0d
+			x: 0.0d
+			y: 17.0d
 		}
 		{
 			id: "0A60B3F82375A309"
@@ -1573,8 +1573,8 @@
 				item: "moa_decor_holidays:duende_navidena"
 				type: "item"
 			}]
-			x: 7.0d
-			y: 9.0d
+			x: 1.0d
+			y: 17.0d
 		}
 		{
 			id: "0AF7CDC7D25E82CF"
@@ -1589,8 +1589,8 @@
 				item: "moa_decor_holidays:duende_navideno"
 				type: "item"
 			}]
-			x: 8.0d
-			y: 9.0d
+			x: 2.0d
+			y: 17.0d
 		}
 		{
 			id: "64875481A03745E1"
@@ -1605,8 +1605,8 @@
 				item: "moa_decor_holidays:esqueleto_enjaulado"
 				type: "item"
 			}]
-			x: 9.0d
-			y: 9.0d
+			x: 3.0d
+			y: 17.0d
 		}
 		{
 			id: "2A9A12C8700AE921"
@@ -1621,8 +1621,8 @@
 				item: "moa_decor_holidays:esqueletoacostado"
 				type: "item"
 			}]
-			x: 11.0d
-			y: 0.0d
+			x: 4.0d
+			y: 17.0d
 		}
 		{
 			id: "76B99F2E8F6EFC61"
@@ -1637,8 +1637,8 @@
 				item: "moa_decor_holidays:esqueletosentado"
 				type: "item"
 			}]
-			x: 12.0d
-			y: 0.0d
+			x: 5.0d
+			y: 17.0d
 		}
 		{
 			id: "6F7CE6BE9366C616"
@@ -1653,8 +1653,8 @@
 				item: "moa_decor_holidays:estrella_navidena"
 				type: "item"
 			}]
-			x: 13.0d
-			y: 0.0d
+			x: 0.0d
+			y: 18.0d
 		}
 		{
 			id: "55EE864BC9AF8E8F"
@@ -1669,8 +1669,8 @@
 				item: "moa_decor_holidays:fantasma"
 				type: "item"
 			}]
-			x: 14.0d
-			y: 0.0d
+			x: 1.0d
+			y: 18.0d
 		}
 		{
 			id: "02AE363F09EAC55C"
@@ -1685,8 +1685,8 @@
 				item: "moa_decor_holidays:gema_festividades"
 				type: "item"
 			}]
-			x: 15.0d
-			y: 0.0d
+			x: 2.0d
+			y: 18.0d
 		}
 		{
 			id: "00717A3DBF193C9B"
@@ -1701,8 +1701,8 @@
 				item: "moa_decor_holidays:jaula"
 				type: "item"
 			}]
-			x: 16.0d
-			y: 0.0d
+			x: 3.0d
+			y: 18.0d
 		}
 		{
 			id: "78B043CCC8855235"
@@ -1717,8 +1717,8 @@
 				item: "moa_decor_holidays:lapida"
 				type: "item"
 			}]
-			x: 17.0d
-			y: 0.0d
+			x: 4.0d
+			y: 18.0d
 		}
 		{
 			id: "2547A98198CB7C8F"
@@ -1733,8 +1733,8 @@
 				item: "moa_decor_holidays:lapida_cruz"
 				type: "item"
 			}]
-			x: 18.0d
-			y: 0.0d
+			x: 5.0d
+			y: 18.0d
 		}
 		{
 			id: "026537C0B498C22D"
@@ -1749,8 +1749,8 @@
 				item: "moa_decor_holidays:leprechaun"
 				type: "item"
 			}]
-			x: 19.0d
-			y: 0.0d
+			x: 0.0d
+			y: 19.5d
 		}
 		{
 			id: "4B1B176AEBAF5596"
@@ -1765,8 +1765,8 @@
 				item: "moa_decor_holidays:leprechaunolladeoro"
 				type: "item"
 			}]
-			x: 20.0d
-			y: 0.0d
+			x: 1.0d
+			y: 19.5d
 		}
 		{
 			id: "28483C814885659F"
@@ -1781,8 +1781,8 @@
 				item: "moa_decor_holidays:mariachiguitarra"
 				type: "item"
 			}]
-			x: 11.0d
-			y: 1.0d
+			x: 2.0d
+			y: 19.5d
 		}
 		{
 			id: "72AC51832554B64B"
@@ -1797,8 +1797,8 @@
 				item: "moa_decor_holidays:mariachitrompeta"
 				type: "item"
 			}]
-			x: 12.0d
-			y: 1.0d
+			x: 3.0d
+			y: 19.5d
 		}
 		{
 			id: "5B93C6678153F33F"
@@ -1813,8 +1813,8 @@
 				item: "moa_decor_holidays:mariachiviolin"
 				type: "item"
 			}]
-			x: 13.0d
-			y: 1.0d
+			x: 4.0d
+			y: 19.5d
 		}
 		{
 			id: "66256E7CB3A326D2"
@@ -1829,8 +1829,8 @@
 				item: "moa_decor_holidays:murcielagoabierto"
 				type: "item"
 			}]
-			x: 14.0d
-			y: 1.0d
+			x: 5.0d
+			y: 19.5d
 		}
 		{
 			id: "214A528C6C71B93A"
@@ -1845,8 +1845,8 @@
 				item: "moa_decor_holidays:murcielagocerrado"
 				type: "item"
 			}]
-			x: 15.0d
-			y: 1.0d
+			x: 0.0d
+			y: 20.5d
 		}
 		{
 			id: "40ECD04E22682849"
@@ -1861,8 +1861,8 @@
 				item: "moa_decor_holidays:p_galleta_jengibre"
 				type: "item"
 			}]
-			x: 16.0d
-			y: 1.0d
+			x: 1.0d
+			y: 20.5d
 		}
 		{
 			id: "36468588CBEC51C6"
@@ -1877,8 +1877,8 @@
 				item: "moa_decor_holidays:p_galleta_jengibre_n"
 				type: "item"
 			}]
-			x: 17.0d
-			y: 1.0d
+			x: 2.0d
+			y: 20.5d
 		}
 		{
 			id: "3AF4CEAEBA1EF574"
@@ -1893,8 +1893,8 @@
 				item: "moa_decor_holidays:p_oso_polar_n"
 				type: "item"
 			}]
-			x: 18.0d
-			y: 1.0d
+			x: 3.0d
+			y: 20.5d
 		}
 		{
 			id: "48E33EBB8648E77E"
@@ -1909,8 +1909,8 @@
 				item: "moa_decor_holidays:pino_navideno"
 				type: "item"
 			}]
-			x: 19.0d
-			y: 1.0d
+			x: 4.0d
+			y: 20.5d
 		}
 		{
 			id: "1D1DC5C3D90B86E3"
@@ -1925,8 +1925,8 @@
 				item: "moa_decor_holidays:santa_claus"
 				type: "item"
 			}]
-			x: 20.0d
-			y: 1.0d
+			x: 5.0d
+			y: 20.5d
 		}
 		{
 			id: "0942C0C8BBE9C2FC"
@@ -1941,8 +1941,8 @@
 				item: "moa_decor_holidays:tumba"
 				type: "item"
 			}]
-			x: 11.0d
-			y: 2.0d
+			x: 0.0d
+			y: 21.5d
 		}
 		{
 			id: "7F774A9DF59D4174"
@@ -1957,8 +1957,8 @@
 				item: "moa_decor_holidays:tumbaabierta"
 				type: "item"
 			}]
-			x: 12.0d
-			y: 2.0d
+			x: 1.0d
+			y: 21.5d
 		}
 		{
 			id: "1E3E789036D5B559"
@@ -1973,8 +1973,8 @@
 				item: "moa_decor_holidays:tumbaesqueleto"
 				type: "item"
 			}]
-			x: 13.0d
-			y: 2.0d
+			x: 2.0d
+			y: 21.5d
 		}
 		{
 			id: "7E49AE55A5687D10"
@@ -1989,8 +1989,8 @@
 				item: "moa_decor_holidays:tumbaesqueletosentado"
 				type: "item"
 			}]
-			x: 14.0d
-			y: 2.0d
+			x: 3.0d
+			y: 21.5d
 		}
 		{
 			id: "436F86BE7562AAC6"
@@ -2005,8 +2005,8 @@
 				item: "moa_decor_holidays:zombieacostado"
 				type: "item"
 			}]
-			x: 15.0d
-			y: 2.0d
+			x: 4.0d
+			y: 21.5d
 		}
 		{
 			id: "614A8F30588DC192"
@@ -2021,8 +2021,8 @@
 				item: "moa_decor_holidays:zombieenterrado"
 				type: "item"
 			}]
-			x: 16.0d
-			y: 2.0d
+			x: 5.0d
+			y: 21.5d
 		}
 		{
 			id: "5B8D8F7C2895670A"
@@ -2037,8 +2037,8 @@
 				item: "moa_decor_holidays:zombiesaliendotierra"
 				type: "item"
 			}]
-			x: 17.0d
-			y: 2.0d
+			x: 0.0d
+			y: 22.5d
 		}
 		{
 			id: "50EB0369D65F8915"
@@ -2053,8 +2053,8 @@
 				item: "moa_decor_science:bascula"
 				type: "item"
 			}]
-			x: 18.0d
-			y: 2.0d
+			x: 1.0d
+			y: 22.5d
 		}
 		{
 			id: "666B34D6AC31F81C"
@@ -2069,8 +2069,8 @@
 				item: "moa_decor_science:botiquindepared"
 				type: "item"
 			}]
-			x: 19.0d
-			y: 2.0d
+			x: 2.0d
+			y: 22.5d
 		}
 		{
 			id: "10187BDC91BDE722"
@@ -2085,8 +2085,8 @@
 				item: "moa_decor_science:brujula"
 				type: "item"
 			}]
-			x: 20.0d
-			y: 2.0d
+			x: 3.0d
+			y: 22.5d
 		}
 		{
 			id: "77E50CCD4B4A11FB"
@@ -2101,8 +2101,8 @@
 				item: "moa_decor_science:calculadora"
 				type: "item"
 			}]
-			x: 11.0d
-			y: 3.0d
+			x: 4.0d
+			y: 22.5d
 		}
 		{
 			id: "11AED81B45B3A524"
@@ -2117,8 +2117,8 @@
 				item: "moa_decor_science:frascodepildoras"
 				type: "item"
 			}]
-			x: 12.0d
-			y: 3.0d
+			x: 5.0d
+			y: 22.5d
 		}
 		{
 			id: "3669D9BD4F97C8C5"
@@ -2133,8 +2133,8 @@
 				item: "moa_decor_science:frascodepildorasabierto"
 				type: "item"
 			}]
-			x: 13.0d
-			y: 3.0d
+			x: 0.0d
+			y: 23.5d
 		}
 		{
 			id: "4394DD8D94169594"
@@ -2149,8 +2149,8 @@
 				item: "moa_decor_science:globoterraqueo"
 				type: "item"
 			}]
-			x: 14.0d
-			y: 3.0d
+			x: 1.0d
+			y: 23.5d
 		}
 		{
 			id: "1DC038A2449F2711"
@@ -2165,8 +2165,8 @@
 				item: "moa_decor_science:lectordesignosvitales"
 				type: "item"
 			}]
-			x: 15.0d
-			y: 3.0d
+			x: 2.0d
+			y: 23.5d
 		}
 		{
 			id: "09C35EF05133E11F"
@@ -2181,8 +2181,8 @@
 				item: "moa_decor_science:libro"
 				type: "item"
 			}]
-			x: 16.0d
-			y: 3.0d
+			x: 3.0d
+			y: 23.5d
 		}
 		{
 			id: "44D22F85082B5628"
@@ -2197,8 +2197,8 @@
 				item: "moa_decor_science:libroabierto"
 				type: "item"
 			}]
-			x: 17.0d
-			y: 3.0d
+			x: 4.0d
+			y: 23.5d
 		}
 		{
 			id: "58DF859899B99264"
@@ -2213,8 +2213,8 @@
 				item: "moa_decor_science:libros"
 				type: "item"
 			}]
-			x: 18.0d
-			y: 3.0d
+			x: 5.0d
+			y: 23.5d
 		}
 		{
 			id: "26D50450773CD3DF"
@@ -2229,8 +2229,8 @@
 				item: "moa_decor_science:librosapilados"
 				type: "item"
 			}]
-			x: 19.0d
-			y: 3.0d
+			x: 0.0d
+			y: 24.5d
 		}
 		{
 			id: "099C00189EF5E9B8"
@@ -2245,8 +2245,8 @@
 				item: "moa_decor_science:libroytintero"
 				type: "item"
 			}]
-			x: 20.0d
-			y: 3.0d
+			x: 1.0d
+			y: 24.5d
 		}
 		{
 			id: "399080A23FEDA01C"
@@ -2261,8 +2261,8 @@
 				item: "moa_decor_science:lupa"
 				type: "item"
 			}]
-			x: 11.0d
-			y: 4.0d
+			x: 2.0d
+			y: 24.5d
 		}
 		{
 			id: "47FEB2FE3BC72B0A"
@@ -2277,8 +2277,8 @@
 				item: "moa_decor_science:mapadeltesoro"
 				type: "item"
 			}]
-			x: 12.0d
-			y: 4.0d
+			x: 3.0d
+			y: 24.5d
 		}
 		{
 			id: "6FB8715BC8595927"
@@ -2293,8 +2293,8 @@
 				item: "moa_decor_science:microscopio"
 				type: "item"
 			}]
-			x: 13.0d
-			y: 4.0d
+			x: 4.0d
+			y: 24.5d
 		}
 		{
 			id: "78C5DB914A32F386"
@@ -2309,8 +2309,8 @@
 				item: "moa_decor_science:pizarra"
 				type: "item"
 			}]
-			x: 14.0d
-			y: 4.0d
+			x: 5.0d
+			y: 24.5d
 		}
 		{
 			id: "460C412B10FD7999"
@@ -2325,8 +2325,8 @@
 				item: "moa_decor_science:telescopio"
 				type: "item"
 			}]
-			x: 15.0d
-			y: 4.0d
+			x: 0.0d
+			y: 26.0d
 		}
 		{
 			id: "2E79977FE28D489F"
@@ -2341,8 +2341,8 @@
 				item: "moa_decor_science:tintero"
 				type: "item"
 			}]
-			x: 16.0d
-			y: 4.0d
+			x: 1.0d
+			y: 26.0d
 		}
 		{
 			id: "4DC84F657C6479BD"
@@ -2357,8 +2357,8 @@
 				item: "moa_decor_science:veneno"
 				type: "item"
 			}]
-			x: 17.0d
-			y: 4.0d
+			x: 2.0d
+			y: 26.0d
 		}
 		{
 			id: "4C5A2711C00B5C7B"
@@ -2373,8 +2373,8 @@
 				item: "moa_decor_toys:abeja"
 				type: "item"
 			}]
-			x: 18.0d
-			y: 4.0d
+			x: 3.0d
+			y: 26.0d
 		}
 		{
 			id: "4565314AECBF2DE5"
@@ -2389,8 +2389,8 @@
 				item: "moa_decor_toys:ajoloteazul"
 				type: "item"
 			}]
-			x: 19.0d
-			y: 4.0d
+			x: 4.0d
+			y: 26.0d
 		}
 		{
 			id: "195A1E75045BFE47"
@@ -2405,8 +2405,8 @@
 				item: "moa_decor_toys:ajolotecafe"
 				type: "item"
 			}]
-			x: 20.0d
-			y: 4.0d
+			x: 5.0d
+			y: 26.0d
 		}
 		{
 			id: "10F7D1D64B07DA17"
@@ -2421,8 +2421,8 @@
 				item: "moa_decor_toys:ajolotecian"
 				type: "item"
 			}]
-			x: 11.0d
-			y: 5.0d
+			x: 0.0d
+			y: 27.0d
 		}
 		{
 			id: "636D39F7FE39947D"
@@ -2437,8 +2437,8 @@
 				item: "moa_decor_toys:ajolotedorado"
 				type: "item"
 			}]
-			x: 12.0d
-			y: 5.0d
+			x: 1.0d
+			y: 27.0d
 		}
 		{
 			id: "6A47EAF40C7EDEA0"
@@ -2453,8 +2453,8 @@
 				item: "moa_decor_toys:ajoloterosa"
 				type: "item"
 			}]
-			x: 13.0d
-			y: 5.0d
+			x: 2.0d
+			y: 27.0d
 		}
 		{
 			id: "1A3543421B023D99"
@@ -2469,8 +2469,8 @@
 				item: "moa_decor_toys:aldeano"
 				type: "item"
 			}]
-			x: 14.0d
-			y: 5.0d
+			x: 3.0d
+			y: 27.0d
 		}
 		{
 			id: "2E3120C76F4ADE43"
@@ -2485,8 +2485,8 @@
 				item: "moa_decor_toys:aldeanodesierto"
 				type: "item"
 			}]
-			x: 15.0d
-			y: 5.0d
+			x: 4.0d
+			y: 27.0d
 		}
 		{
 			id: "48C3C29E7A797361"
@@ -2501,8 +2501,8 @@
 				item: "moa_decor_toys:aldeanoinvierno"
 				type: "item"
 			}]
-			x: 16.0d
-			y: 5.0d
+			x: 5.0d
+			y: 27.0d
 		}
 		{
 			id: "403E5AAC6CC07808"
@@ -2517,8 +2517,8 @@
 				item: "moa_decor_toys:aldeanopantano"
 				type: "item"
 			}]
-			x: 17.0d
-			y: 5.0d
+			x: 0.0d
+			y: 28.0d
 		}
 		{
 			id: "794714A6A1A6DE5B"
@@ -2533,8 +2533,8 @@
 				item: "moa_decor_toys:aldeanosabana"
 				type: "item"
 			}]
-			x: 18.0d
-			y: 5.0d
+			x: 1.0d
+			y: 28.0d
 		}
 		{
 			id: "085AE6B9093DC0AD"
@@ -2549,8 +2549,8 @@
 				item: "moa_decor_toys:aldeanotaiga"
 				type: "item"
 			}]
-			x: 19.0d
-			y: 5.0d
+			x: 2.0d
+			y: 28.0d
 		}
 		{
 			id: "3B9A79CFEE681496"
@@ -2565,8 +2565,8 @@
 				item: "moa_decor_toys:aleanozombie"
 				type: "item"
 			}]
-			x: 20.0d
-			y: 5.0d
+			x: 3.0d
+			y: 28.0d
 		}
 		{
 			id: "2D0BC7551F076126"
@@ -2581,8 +2581,8 @@
 				item: "moa_decor_toys:alex"
 				type: "item"
 			}]
-			x: 11.0d
-			y: 6.0d
+			x: 4.0d
+			y: 28.0d
 		}
 		{
 			id: "7985B3423F85FAFB"
@@ -2597,8 +2597,8 @@
 				item: "moa_decor_toys:allay"
 				type: "item"
 			}]
-			x: 12.0d
-			y: 6.0d
+			x: 5.0d
+			y: 28.0d
 		}
 		{
 			id: "79CFFB472342D138"
@@ -2613,8 +2613,8 @@
 				item: "moa_decor_toys:arana"
 				type: "item"
 			}]
-			x: 13.0d
-			y: 6.0d
+			x: 0.0d
+			y: 29.0d
 		}
 		{
 			id: "3BC7945B49F0DA54"
@@ -2629,8 +2629,8 @@
 				item: "moa_decor_toys:aranadelascuevas"
 				type: "item"
 			}]
-			x: 14.0d
-			y: 6.0d
+			x: 1.0d
+			y: 29.0d
 		}
 		{
 			id: "691B15E4BDFB1311"
@@ -2645,8 +2645,8 @@
 				item: "moa_decor_toys:aranayesqueleto"
 				type: "item"
 			}]
-			x: 15.0d
-			y: 6.0d
+			x: 2.0d
+			y: 29.0d
 		}
 		{
 			id: "0F564009FF417D16"
@@ -2661,8 +2661,8 @@
 				item: "moa_decor_toys:blaze"
 				type: "item"
 			}]
-			x: 16.0d
-			y: 6.0d
+			x: 3.0d
+			y: 29.0d
 		}
 		{
 			id: "5D9483C341EC21D7"
@@ -2677,8 +2677,8 @@
 				item: "moa_decor_toys:bruja"
 				type: "item"
 			}]
-			x: 17.0d
-			y: 6.0d
+			x: 4.0d
+			y: 29.0d
 		}
 		{
 			id: "28EAB97B8684EA41"
@@ -2693,8 +2693,8 @@
 				item: "moa_decor_toys:burro"
 				type: "item"
 			}]
-			x: 18.0d
-			y: 6.0d
+			x: 5.0d
+			y: 29.0d
 		}
 		{
 			id: "22714B8A30FEBA24"
@@ -2709,8 +2709,8 @@
 				item: "moa_decor_toys:caballoblanco"
 				type: "item"
 			}]
-			x: 19.0d
-			y: 6.0d
+			x: 0.0d
+			y: 30.0d
 		}
 		{
 			id: "7E0DBAD544A6D9F5"
@@ -2725,8 +2725,8 @@
 				item: "moa_decor_toys:caballoblanco_h"
 				type: "item"
 			}]
-			x: 20.0d
-			y: 6.0d
+			x: 1.0d
+			y: 30.0d
 		}
 		{
 			id: "7064C09311195887"
@@ -2741,8 +2741,8 @@
 				item: "moa_decor_toys:caballocafe"
 				type: "item"
 			}]
-			x: 11.0d
-			y: 7.0d
+			x: 2.0d
+			y: 30.0d
 		}
 		{
 			id: "7873AF42BFB927FD"
@@ -2757,8 +2757,8 @@
 				item: "moa_decor_toys:caballocafe_c"
 				type: "item"
 			}]
-			x: 12.0d
-			y: 7.0d
+			x: 3.0d
+			y: 30.0d
 		}
 		{
 			id: "255CB0BD413FD422"
@@ -2773,8 +2773,8 @@
 				item: "moa_decor_toys:caballocafe_h"
 				type: "item"
 			}]
-			x: 13.0d
-			y: 7.0d
+			x: 4.0d
+			y: 30.0d
 		}
 		{
 			id: "1A27D0D3198BFF0B"
@@ -2789,8 +2789,8 @@
 				item: "moa_decor_toys:caballocafe_m"
 				type: "item"
 			}]
-			x: 14.0d
-			y: 7.0d
+			x: 5.0d
+			y: 30.0d
 		}
 		{
 			id: "31DB782A0DC35655"
@@ -2805,8 +2805,8 @@
 				item: "moa_decor_toys:caballocafe_r"
 				type: "item"
 			}]
-			x: 15.0d
-			y: 7.0d
+			x: 0.0d
+			y: 31.0d
 		}
 		{
 			id: "2796E1FF7F2A9F3D"
@@ -2821,8 +2821,8 @@
 				item: "moa_decor_toys:caballocafeosc"
 				type: "item"
 			}]
-			x: 16.0d
-			y: 7.0d
+			x: 1.0d
+			y: 31.0d
 		}
 		{
 			id: "7EB7B88EA4F2E353"
@@ -2837,8 +2837,8 @@
 				item: "moa_decor_toys:caballocafeosc_c"
 				type: "item"
 			}]
-			x: 17.0d
-			y: 7.0d
+			x: 2.0d
+			y: 31.0d
 		}
 		{
 			id: "1FDD9B0F99256E79"
@@ -2853,8 +2853,8 @@
 				item: "moa_decor_toys:caballocafeosc_h"
 				type: "item"
 			}]
-			x: 18.0d
-			y: 7.0d
+			x: 3.0d
+			y: 31.0d
 		}
 		{
 			id: "7B51ECCC81AB449D"
@@ -2869,8 +2869,8 @@
 				item: "moa_decor_toys:caballocafeosc_m_1"
 				type: "item"
 			}]
-			x: 19.0d
-			y: 7.0d
+			x: 4.0d
+			y: 31.0d
 		}
 		{
 			id: "0E29ECE159586947"
@@ -2885,8 +2885,8 @@
 				item: "moa_decor_toys:caballocafeosc_r"
 				type: "item"
 			}]
-			x: 20.0d
-			y: 7.0d
+			x: 5.0d
+			y: 31.0d
 		}
 		{
 			id: "143561E9CE620255"
@@ -2901,8 +2901,8 @@
 				item: "moa_decor_toys:caballocastano"
 				type: "item"
 			}]
-			x: 11.0d
-			y: 8.0d
+			x: 0.0d
+			y: 32.5d
 		}
 		{
 			id: "5879B30A48087476"
@@ -2917,8 +2917,8 @@
 				item: "moa_decor_toys:caballocastano_c"
 				type: "item"
 			}]
-			x: 12.0d
-			y: 8.0d
+			x: 1.0d
+			y: 32.5d
 		}
 		{
 			id: "596EBC318D7E1466"
@@ -2933,8 +2933,8 @@
 				item: "moa_decor_toys:caballocastano_h"
 				type: "item"
 			}]
-			x: 13.0d
-			y: 8.0d
+			x: 2.0d
+			y: 32.5d
 		}
 		{
 			id: "16EC985B91245A8F"
@@ -2949,8 +2949,8 @@
 				item: "moa_decor_toys:caballocastano_m"
 				type: "item"
 			}]
-			x: 14.0d
-			y: 8.0d
+			x: 3.0d
+			y: 32.5d
 		}
 		{
 			id: "6BD76B22E131272B"
@@ -2965,8 +2965,8 @@
 				item: "moa_decor_toys:caballocastano_r"
 				type: "item"
 			}]
-			x: 15.0d
-			y: 8.0d
+			x: 4.0d
+			y: 32.5d
 		}
 		{
 			id: "42EBD2C965451737"
@@ -2981,8 +2981,8 @@
 				item: "moa_decor_toys:caballocrema"
 				type: "item"
 			}]
-			x: 16.0d
-			y: 8.0d
+			x: 5.0d
+			y: 32.5d
 		}
 		{
 			id: "38474CC74834E886"
@@ -2997,8 +2997,8 @@
 				item: "moa_decor_toys:caballocrema_c"
 				type: "item"
 			}]
-			x: 17.0d
-			y: 8.0d
+			x: 0.0d
+			y: 33.5d
 		}
 		{
 			id: "183DE94E20B6E996"
@@ -3013,8 +3013,8 @@
 				item: "moa_decor_toys:caballocrema_h"
 				type: "item"
 			}]
-			x: 18.0d
-			y: 8.0d
+			x: 1.0d
+			y: 33.5d
 		}
 		{
 			id: "127A653BD5267D9F"
@@ -3029,8 +3029,8 @@
 				item: "moa_decor_toys:caballocrema_m"
 				type: "item"
 			}]
-			x: 19.0d
-			y: 8.0d
+			x: 2.0d
+			y: 33.5d
 		}
 		{
 			id: "47829FD6F663235C"
@@ -3045,8 +3045,8 @@
 				item: "moa_decor_toys:caballocrema_r"
 				type: "item"
 			}]
-			x: 20.0d
-			y: 8.0d
+			x: 3.0d
+			y: 33.5d
 		}
 		{
 			id: "61D4CDB86902F92B"
@@ -3061,8 +3061,8 @@
 				item: "moa_decor_toys:caballoesqueleto"
 				type: "item"
 			}]
-			x: 11.0d
-			y: 9.0d
+			x: 4.0d
+			y: 33.5d
 		}
 		{
 			id: "31408409D739258D"
@@ -3077,8 +3077,8 @@
 				item: "moa_decor_toys:caballoesqueletoyesqueleto"
 				type: "item"
 			}]
-			x: 12.0d
-			y: 9.0d
+			x: 5.0d
+			y: 33.5d
 		}
 		{
 			id: "50712BC2458B30E7"
@@ -3093,8 +3093,8 @@
 				item: "moa_decor_toys:caballogris"
 				type: "item"
 			}]
-			x: 13.0d
-			y: 9.0d
+			x: 0.0d
+			y: 34.5d
 		}
 		{
 			id: "5CF6116C4B17725F"
@@ -3109,8 +3109,8 @@
 				item: "moa_decor_toys:caballogris_c"
 				type: "item"
 			}]
-			x: 14.0d
-			y: 9.0d
+			x: 1.0d
+			y: 34.5d
 		}
 		{
 			id: "06345D3B0D71F5D7"
@@ -3125,8 +3125,8 @@
 				item: "moa_decor_toys:caballogris_h"
 				type: "item"
 			}]
-			x: 15.0d
-			y: 9.0d
+			x: 2.0d
+			y: 34.5d
 		}
 		{
 			id: "17DB4D7BD0990A4F"
@@ -3141,8 +3141,8 @@
 				item: "moa_decor_toys:caballogris_m"
 				type: "item"
 			}]
-			x: 16.0d
-			y: 9.0d
+			x: 3.0d
+			y: 34.5d
 		}
 		{
 			id: "3D172323E2F3E3E0"
@@ -3157,8 +3157,8 @@
 				item: "moa_decor_toys:caballogris_r"
 				type: "item"
 			}]
-			x: 17.0d
-			y: 9.0d
+			x: 4.0d
+			y: 34.5d
 		}
 		{
 			id: "766CABE0E51ECF2A"
@@ -3173,8 +3173,8 @@
 				item: "moa_decor_toys:caballonegro"
 				type: "item"
 			}]
-			x: 18.0d
-			y: 9.0d
+			x: 5.0d
+			y: 34.5d
 		}
 		{
 			id: "325C7C9F49320F59"
@@ -3189,8 +3189,8 @@
 				item: "moa_decor_toys:caballonegro_c"
 				type: "item"
 			}]
-			x: 19.0d
-			y: 9.0d
+			x: 0.0d
+			y: 35.5d
 		}
 		{
 			id: "39056A97283BF517"
@@ -3205,8 +3205,8 @@
 				item: "moa_decor_toys:caballonegro_h"
 				type: "item"
 			}]
-			x: 20.0d
-			y: 9.0d
+			x: 1.0d
+			y: 35.5d
 		}
 		{
 			id: "75197EA9F6481C7E"
@@ -3221,8 +3221,8 @@
 				item: "moa_decor_toys:caballonegro_m"
 				type: "item"
 			}]
-			x: 0.0d
-			y: 11.0d
+			x: 2.0d
+			y: 35.5d
 		}
 		{
 			id: "74AAA73A52858A19"
@@ -3237,8 +3237,8 @@
 				item: "moa_decor_toys:caballonegro_r"
 				type: "item"
 			}]
-			x: 1.0d
-			y: 11.0d
+			x: 3.0d
+			y: 35.5d
 		}
 		{
 			id: "3C53DBC3E32571FF"
@@ -3253,8 +3253,8 @@
 				item: "moa_decor_toys:cabra"
 				type: "item"
 			}]
-			x: 2.0d
-			y: 11.0d
+			x: 4.0d
+			y: 35.5d
 		}
 		{
 			id: "149C50D7088A71EF"
@@ -3269,8 +3269,8 @@
 				item: "moa_decor_toys:calamar"
 				type: "item"
 			}]
-			x: 3.0d
-			y: 11.0d
+			x: 5.0d
+			y: 35.5d
 		}
 		{
 			id: "05949751A71D1C7F"
@@ -3285,8 +3285,8 @@
 				item: "moa_decor_toys:calamarbrillante"
 				type: "item"
 			}]
-			x: 4.0d
-			y: 11.0d
+			x: 0.0d
+			y: 36.5d
 		}
 		{
 			id: "5E1697532CD8F2AD"
@@ -3301,8 +3301,8 @@
 				item: "moa_decor_toys:camello"
 				type: "item"
 			}]
-			x: 5.0d
-			y: 11.0d
+			x: 1.0d
+			y: 36.5d
 		}
 		{
 			id: "1A7BA5A9A70DF2E7"
@@ -3317,8 +3317,8 @@
 				item: "moa_decor_toys:cerdo"
 				type: "item"
 			}]
-			x: 6.0d
-			y: 11.0d
+			x: 2.0d
+			y: 36.5d
 		}
 		{
 			id: "010AEC7239C85ED1"
@@ -3333,8 +3333,8 @@
 				item: "moa_decor_toys:champivaca"
 				type: "item"
 			}]
-			x: 7.0d
-			y: 11.0d
+			x: 3.0d
+			y: 36.5d
 		}
 		{
 			id: "34FFF3D5A54186AA"
@@ -3349,8 +3349,8 @@
 				item: "moa_decor_toys:conejoblanco"
 				type: "item"
 			}]
-			x: 8.0d
-			y: 11.0d
+			x: 4.0d
+			y: 36.5d
 		}
 		{
 			id: "1E242974B0A1EEFB"
@@ -3365,8 +3365,8 @@
 				item: "moa_decor_toys:conejoblancoynegro"
 				type: "item"
 			}]
-			x: 9.0d
-			y: 11.0d
+			x: 5.0d
+			y: 36.5d
 		}
 		{
 			id: "611EC13710E4006C"
@@ -3382,7 +3382,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 12.0d
+			y: 37.5d
 		}
 		{
 			id: "3033624C9E73B8BC"
@@ -3398,7 +3398,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 12.0d
+			y: 37.5d
 		}
 		{
 			id: "1DD48B2BAF46AF57"
@@ -3414,7 +3414,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 12.0d
+			y: 37.5d
 		}
 		{
 			id: "05AB1F72985A197E"
@@ -3430,7 +3430,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 12.0d
+			y: 37.5d
 		}
 		{
 			id: "2EFAD01B9B5A49B8"
@@ -3446,7 +3446,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 12.0d
+			y: 37.5d
 		}
 		{
 			id: "339F847EF2CE743B"
@@ -3462,7 +3462,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 12.0d
+			y: 37.5d
 		}
 		{
 			id: "590D88FBBDD3631B"
@@ -3477,8 +3477,8 @@
 				item: "moa_decor_toys:delfin"
 				type: "item"
 			}]
-			x: 6.0d
-			y: 12.0d
+			x: 0.0d
+			y: 39.0d
 		}
 		{
 			id: "4D92098BF33CDD72"
@@ -3493,8 +3493,8 @@
 				item: "moa_decor_toys:devastador"
 				type: "item"
 			}]
-			x: 7.0d
-			y: 12.0d
+			x: 1.0d
+			y: 39.0d
 		}
 		{
 			id: "74D7E35A6AA65141"
@@ -3509,8 +3509,8 @@
 				item: "moa_decor_toys:devastadorysaqueador"
 				type: "item"
 			}]
-			x: 8.0d
-			y: 12.0d
+			x: 2.0d
+			y: 39.0d
 		}
 		{
 			id: "476E56DA74304092"
@@ -3525,8 +3525,8 @@
 				item: "moa_decor_toys:dragondelender"
 				type: "item"
 			}]
-			x: 9.0d
-			y: 12.0d
+			x: 3.0d
+			y: 39.0d
 		}
 		{
 			id: "0D7FE9B1EA9D47BF"
@@ -3541,8 +3541,8 @@
 				item: "moa_decor_toys:enderman"
 				type: "item"
 			}]
-			x: 0.0d
-			y: 13.0d
+			x: 4.0d
+			y: 39.0d
 		}
 		{
 			id: "1D3159081BD51752"
@@ -3557,8 +3557,8 @@
 				item: "moa_decor_toys:endermite"
 				type: "item"
 			}]
-			x: 1.0d
-			y: 13.0d
+			x: 5.0d
+			y: 39.0d
 		}
 		{
 			id: "420B1917175890BD"
@@ -3573,8 +3573,8 @@
 				item: "moa_decor_toys:esqueleto"
 				type: "item"
 			}]
-			x: 2.0d
-			y: 13.0d
+			x: 0.0d
+			y: 40.0d
 		}
 		{
 			id: "15052763434B9D96"
@@ -3589,8 +3589,8 @@
 				item: "moa_decor_toys:esqueletoglacial"
 				type: "item"
 			}]
-			x: 3.0d
-			y: 13.0d
+			x: 1.0d
+			y: 40.0d
 		}
 		{
 			id: "6BBC9FB23B0F2D66"
@@ -3605,8 +3605,8 @@
 				item: "moa_decor_toys:esqueletowither"
 				type: "item"
 			}]
-			x: 4.0d
-			y: 13.0d
+			x: 2.0d
+			y: 40.0d
 		}
 		{
 			id: "744F5CA663B42AF0"
@@ -3621,8 +3621,8 @@
 				item: "moa_decor_toys:fantasma"
 				type: "item"
 			}]
-			x: 5.0d
-			y: 13.0d
+			x: 3.0d
+			y: 40.0d
 		}
 		{
 			id: "53C2E66E7ABBB696"
@@ -3637,8 +3637,8 @@
 				item: "moa_decor_toys:gallina"
 				type: "item"
 			}]
-			x: 6.0d
-			y: 13.0d
+			x: 4.0d
+			y: 40.0d
 		}
 		{
 			id: "101B1BD3EFCCC77B"
@@ -3653,8 +3653,8 @@
 				item: "moa_decor_toys:gallinayahogado"
 				type: "item"
 			}]
-			x: 7.0d
-			y: 13.0d
+			x: 5.0d
+			y: 40.0d
 		}
 		{
 			id: "54002416794EFBD7"
@@ -3669,8 +3669,8 @@
 				item: "moa_decor_toys:gallinayjinetealdeanozombie"
 				type: "item"
 			}]
-			x: 8.0d
-			y: 13.0d
+			x: 0.0d
+			y: 41.0d
 		}
 		{
 			id: "359CC65428E0680E"
@@ -3685,8 +3685,8 @@
 				item: "moa_decor_toys:gallinaypiglinzombie"
 				type: "item"
 			}]
-			x: 9.0d
-			y: 13.0d
+			x: 1.0d
+			y: 41.0d
 		}
 		{
 			id: "303EB2BDB3B18DC2"
@@ -3701,8 +3701,8 @@
 				item: "moa_decor_toys:gallinayzombie"
 				type: "item"
 			}]
-			x: 0.0d
-			y: 14.0d
+			x: 2.0d
+			y: 41.0d
 		}
 		{
 			id: "47FB138363D829E3"
@@ -3717,8 +3717,8 @@
 				item: "moa_decor_toys:gallinayzombiemomificado"
 				type: "item"
 			}]
-			x: 1.0d
-			y: 14.0d
+			x: 3.0d
+			y: 41.0d
 		}
 		{
 			id: "0EE3011AB5E0B727"
@@ -3733,8 +3733,8 @@
 				item: "moa_decor_toys:gatoatigrado"
 				type: "item"
 			}]
-			x: 2.0d
-			y: 14.0d
+			x: 4.0d
+			y: 41.0d
 		}
 		{
 			id: "0EAECE848B340A4E"
@@ -3749,8 +3749,8 @@
 				item: "moa_decor_toys:gatoblanco"
 				type: "item"
 			}]
-			x: 3.0d
-			y: 14.0d
+			x: 5.0d
+			y: 41.0d
 		}
 		{
 			id: "00A82289FABF868E"
@@ -3765,8 +3765,8 @@
 				item: "moa_decor_toys:gatobritanico"
 				type: "item"
 			}]
-			x: 4.0d
-			y: 14.0d
+			x: 0.0d
+			y: 42.0d
 		}
 		{
 			id: "382AC21D0E018BA3"
@@ -3781,8 +3781,8 @@
 				item: "moa_decor_toys:gatocalico"
 				type: "item"
 			}]
-			x: 5.0d
-			y: 14.0d
+			x: 1.0d
+			y: 42.0d
 		}
 		{
 			id: "7546C3A01A6BF772"
@@ -3797,8 +3797,8 @@
 				item: "moa_decor_toys:gatojellie"
 				type: "item"
 			}]
-			x: 6.0d
-			y: 14.0d
+			x: 2.0d
+			y: 42.0d
 		}
 		{
 			id: "0258E44125856DD0"
@@ -3813,8 +3813,8 @@
 				item: "moa_decor_toys:gatonegro"
 				type: "item"
 			}]
-			x: 7.0d
-			y: 14.0d
+			x: 3.0d
+			y: 42.0d
 		}
 		{
 			id: "516B8E9C5B8704A0"
@@ -3829,8 +3829,8 @@
 				item: "moa_decor_toys:gatopersa"
 				type: "item"
 			}]
-			x: 8.0d
-			y: 14.0d
+			x: 4.0d
+			y: 42.0d
 		}
 		{
 			id: "3B83A1040BC0DEE4"
@@ -3845,8 +3845,8 @@
 				item: "moa_decor_toys:gatoragdoll"
 				type: "item"
 			}]
-			x: 9.0d
-			y: 14.0d
+			x: 5.0d
+			y: 42.0d
 		}
 		{
 			id: "26BA7A3DEC5779E1"
@@ -3862,7 +3862,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 15.0d
+			y: 43.0d
 		}
 		{
 			id: "6A788FEC86DA2E67"
@@ -3878,7 +3878,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 15.0d
+			y: 43.0d
 		}
 		{
 			id: "4CDD3CB153388B18"
@@ -3894,7 +3894,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 15.0d
+			y: 43.0d
 		}
 		{
 			id: "744B900ED6679E5C"
@@ -3910,7 +3910,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 15.0d
+			y: 43.0d
 		}
 		{
 			id: "287477CAEFDFF12A"
@@ -3926,7 +3926,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 15.0d
+			y: 43.0d
 		}
 		{
 			id: "620FE4D44EF11B9D"
@@ -3942,7 +3942,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 15.0d
+			y: 43.0d
 		}
 		{
 			id: "57F0F1571E6E9460"
@@ -3957,8 +3957,8 @@
 				item: "moa_decor_toys:guardian"
 				type: "item"
 			}]
-			x: 6.0d
-			y: 15.0d
+			x: 0.0d
+			y: 44.0d
 		}
 		{
 			id: "2919EE34F15376E7"
@@ -3973,8 +3973,8 @@
 				item: "moa_decor_toys:guardiananciano"
 				type: "item"
 			}]
-			x: 7.0d
-			y: 15.0d
+			x: 1.0d
+			y: 44.0d
 		}
 		{
 			id: "20DB85D692E1860D"
@@ -3989,8 +3989,8 @@
 				item: "moa_decor_toys:hoglin"
 				type: "item"
 			}]
-			x: 8.0d
-			y: 15.0d
+			x: 2.0d
+			y: 44.0d
 		}
 		{
 			id: "5C93947D303B8C23"
@@ -4005,8 +4005,8 @@
 				item: "moa_decor_toys:invocador"
 				type: "item"
 			}]
-			x: 9.0d
-			y: 15.0d
+			x: 3.0d
+			y: 44.0d
 		}
 		{
 			id: "5FE289CC686531D0"
@@ -4021,8 +4021,8 @@
 				item: "moa_decor_toys:lavagante"
 				type: "item"
 			}]
-			x: 0.0d
-			y: 16.0d
+			x: 4.0d
+			y: 44.0d
 		}
 		{
 			id: "11D93719AE7BEB58"
@@ -4037,8 +4037,8 @@
 				item: "moa_decor_toys:lavaganteypiglinzombie"
 				type: "item"
 			}]
-			x: 1.0d
-			y: 16.0d
+			x: 5.0d
+			y: 44.0d
 		}
 		{
 			id: "26598731088607D8"
@@ -4053,8 +4053,8 @@
 				item: "moa_decor_toys:lepisma"
 				type: "item"
 			}]
-			x: 2.0d
-			y: 16.0d
+			x: 0.0d
+			y: 45.5d
 		}
 		{
 			id: "6B1E21AE84411147"
@@ -4069,8 +4069,8 @@
 				item: "moa_decor_toys:llamablanca"
 				type: "item"
 			}]
-			x: 3.0d
-			y: 16.0d
+			x: 1.0d
+			y: 45.5d
 		}
 		{
 			id: "7016B95BC5F46FB6"
@@ -4085,8 +4085,8 @@
 				item: "moa_decor_toys:llamacafe"
 				type: "item"
 			}]
-			x: 4.0d
-			y: 16.0d
+			x: 2.0d
+			y: 45.5d
 		}
 		{
 			id: "47139E846D32743D"
@@ -4101,8 +4101,8 @@
 				item: "moa_decor_toys:llamacrema"
 				type: "item"
 			}]
-			x: 5.0d
-			y: 16.0d
+			x: 3.0d
+			y: 45.5d
 		}
 		{
 			id: "67F18A62F3C9CCE4"
@@ -4117,8 +4117,8 @@
 				item: "moa_decor_toys:llamagris"
 				type: "item"
 			}]
-			x: 6.0d
-			y: 16.0d
+			x: 4.0d
+			y: 45.5d
 		}
 		{
 			id: "4163FED47E0C9587"
@@ -4133,8 +4133,8 @@
 				item: "moa_decor_toys:lobo"
 				type: "item"
 			}]
-			x: 7.0d
-			y: 16.0d
+			x: 5.0d
+			y: 45.5d
 		}
 		{
 			id: "6BD4FCFF20B4CBBF"
@@ -4149,8 +4149,8 @@
 				item: "moa_decor_toys:loroazul"
 				type: "item"
 			}]
-			x: 8.0d
-			y: 16.0d
+			x: 0.0d
+			y: 46.5d
 		}
 		{
 			id: "77BE86750DA8200F"
@@ -4165,8 +4165,8 @@
 				item: "moa_decor_toys:lorocian"
 				type: "item"
 			}]
-			x: 9.0d
-			y: 16.0d
+			x: 1.0d
+			y: 46.5d
 		}
 		{
 			id: "122CB3CDC476BCEA"
@@ -4181,8 +4181,8 @@
 				item: "moa_decor_toys:lorogris"
 				type: "item"
 			}]
-			x: 0.0d
-			y: 17.0d
+			x: 2.0d
+			y: 46.5d
 		}
 		{
 			id: "6D40F4A29EFAE404"
@@ -4197,8 +4197,8 @@
 				item: "moa_decor_toys:lororojo"
 				type: "item"
 			}]
-			x: 1.0d
-			y: 17.0d
+			x: 3.0d
+			y: 46.5d
 		}
 		{
 			id: "6B60B2E7C1CF4C98"
@@ -4213,8 +4213,8 @@
 				item: "moa_decor_toys:loroverde"
 				type: "item"
 			}]
-			x: 2.0d
-			y: 17.0d
+			x: 4.0d
+			y: 46.5d
 		}
 		{
 			id: "1F5D157DD09F70E3"
@@ -4229,8 +4229,8 @@
 				item: "moa_decor_toys:mula"
 				type: "item"
 			}]
-			x: 3.0d
-			y: 17.0d
+			x: 5.0d
+			y: 46.5d
 		}
 		{
 			id: "4FE62A1F2789305F"
@@ -4245,8 +4245,8 @@
 				item: "moa_decor_toys:murcielago"
 				type: "item"
 			}]
-			x: 4.0d
-			y: 17.0d
+			x: 0.0d
+			y: 47.5d
 		}
 		{
 			id: "56271DCBD64F326A"
@@ -4261,8 +4261,8 @@
 				item: "moa_decor_toys:ocelote"
 				type: "item"
 			}]
-			x: 5.0d
-			y: 17.0d
+			x: 1.0d
+			y: 47.5d
 		}
 		{
 			id: "68E56EBEBBBC146E"
@@ -4277,8 +4277,8 @@
 				item: "moa_decor_toys:osopolar"
 				type: "item"
 			}]
-			x: 6.0d
-			y: 17.0d
+			x: 2.0d
+			y: 47.5d
 		}
 		{
 			id: "05D87059445B9077"
@@ -4293,8 +4293,8 @@
 				item: "moa_decor_toys:ovejaamarilla"
 				type: "item"
 			}]
-			x: 7.0d
-			y: 17.0d
+			x: 3.0d
+			y: 47.5d
 		}
 		{
 			id: "77FA7B170D545CC4"
@@ -4309,8 +4309,8 @@
 				item: "moa_decor_toys:ovejaazul"
 				type: "item"
 			}]
-			x: 8.0d
-			y: 17.0d
+			x: 4.0d
+			y: 47.5d
 		}
 		{
 			id: "32E4CCA940EFD62D"
@@ -4325,8 +4325,8 @@
 				item: "moa_decor_toys:ovejaazulclara"
 				type: "item"
 			}]
-			x: 9.0d
-			y: 17.0d
+			x: 5.0d
+			y: 47.5d
 		}
 		{
 			id: "1EB9F83E94C05EC3"
@@ -4342,7 +4342,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 18.0d
+			y: 48.5d
 		}
 		{
 			id: "4BB10CF50D30793B"
@@ -4358,7 +4358,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 18.0d
+			y: 48.5d
 		}
 		{
 			id: "0A976CF86CBC6CC9"
@@ -4374,7 +4374,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 18.0d
+			y: 48.5d
 		}
 		{
 			id: "7DAC2447FEBFAF06"
@@ -4390,7 +4390,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 18.0d
+			y: 48.5d
 		}
 		{
 			id: "2E73D71F02C2A25A"
@@ -4406,7 +4406,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 18.0d
+			y: 48.5d
 		}
 		{
 			id: "244273719B868C41"
@@ -4422,7 +4422,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 18.0d
+			y: 48.5d
 		}
 		{
 			id: "3E6FA33297393164"
@@ -4437,8 +4437,8 @@
 				item: "moa_decor_toys:ovejamorada"
 				type: "item"
 			}]
-			x: 6.0d
-			y: 18.0d
+			x: 0.0d
+			y: 49.5d
 		}
 		{
 			id: "47B28560D803E878"
@@ -4453,8 +4453,8 @@
 				item: "moa_decor_toys:ovejanaranja"
 				type: "item"
 			}]
-			x: 7.0d
-			y: 18.0d
+			x: 1.0d
+			y: 49.5d
 		}
 		{
 			id: "0C79A367A224A023"
@@ -4469,8 +4469,8 @@
 				item: "moa_decor_toys:ovejanegra"
 				type: "item"
 			}]
-			x: 8.0d
-			y: 18.0d
+			x: 2.0d
+			y: 49.5d
 		}
 		{
 			id: "05FAAF39C008D3B5"
@@ -4485,8 +4485,8 @@
 				item: "moa_decor_toys:ovejaroja"
 				type: "item"
 			}]
-			x: 9.0d
-			y: 18.0d
+			x: 3.0d
+			y: 49.5d
 		}
 		{
 			id: "022F3124698F171C"
@@ -4501,8 +4501,8 @@
 				item: "moa_decor_toys:ovejarosa"
 				type: "item"
 			}]
-			x: 0.0d
-			y: 19.0d
+			x: 4.0d
+			y: 49.5d
 		}
 		{
 			id: "6DB5AF358CBBDF65"
@@ -4517,8 +4517,8 @@
 				item: "moa_decor_toys:ovejaverde"
 				type: "item"
 			}]
-			x: 1.0d
-			y: 19.0d
+			x: 5.0d
+			y: 49.5d
 		}
 		{
 			id: "4CE498935B789191"
@@ -4533,8 +4533,8 @@
 				item: "moa_decor_toys:ovejaverdelima"
 				type: "item"
 			}]
-			x: 2.0d
-			y: 19.0d
+			x: 0.0d
+			y: 50.5d
 		}
 		{
 			id: "414CB0B1DC9AB6F9"
@@ -4549,8 +4549,8 @@
 				item: "moa_decor_toys:panda"
 				type: "item"
 			}]
-			x: 3.0d
-			y: 19.0d
+			x: 1.0d
+			y: 50.5d
 		}
 		{
 			id: "0FDE1CAEEAA70F66"
@@ -4565,8 +4565,8 @@
 				item: "moa_decor_toys:piglin"
 				type: "item"
 			}]
-			x: 4.0d
-			y: 19.0d
+			x: 2.0d
+			y: 50.5d
 		}
 		{
 			id: "5763BB76C3B99B05"
@@ -4581,8 +4581,8 @@
 				item: "moa_decor_toys:piglinbruto"
 				type: "item"
 			}]
-			x: 5.0d
-			y: 19.0d
+			x: 3.0d
+			y: 50.5d
 		}
 		{
 			id: "54E8619E78C14212"
@@ -4597,8 +4597,8 @@
 				item: "moa_decor_toys:piglinzombie"
 				type: "item"
 			}]
-			x: 6.0d
-			y: 19.0d
+			x: 4.0d
+			y: 50.5d
 		}
 		{
 			id: "3F48E3949533E855"
@@ -4613,8 +4613,8 @@
 				item: "moa_decor_toys:ranacalida"
 				type: "item"
 			}]
-			x: 7.0d
-			y: 19.0d
+			x: 5.0d
+			y: 50.5d
 		}
 		{
 			id: "1BA0ECE9EF4DBA5F"
@@ -4629,8 +4629,8 @@
 				item: "moa_decor_toys:ranahelada"
 				type: "item"
 			}]
-			x: 8.0d
-			y: 19.0d
+			x: 0.0d
+			y: 52.0d
 		}
 		{
 			id: "4BFBEE4267425348"
@@ -4645,8 +4645,8 @@
 				item: "moa_decor_toys:ranatemplada"
 				type: "item"
 			}]
-			x: 9.0d
-			y: 19.0d
+			x: 1.0d
+			y: 52.0d
 		}
 		{
 			id: "56F9753E96D720E9"
@@ -4661,8 +4661,8 @@
 				item: "moa_decor_toys:saqueador"
 				type: "item"
 			}]
-			x: 0.0d
-			y: 20.0d
+			x: 2.0d
+			y: 52.0d
 		}
 		{
 			id: "584FCB153E0370AC"
@@ -4677,8 +4677,8 @@
 				item: "moa_decor_toys:shulker"
 				type: "item"
 			}]
-			x: 1.0d
-			y: 20.0d
+			x: 3.0d
+			y: 52.0d
 		}
 		{
 			id: "7137BAB753DE87DB"
@@ -4693,8 +4693,8 @@
 				item: "moa_decor_toys:slime"
 				type: "item"
 			}]
-			x: 2.0d
-			y: 20.0d
+			x: 4.0d
+			y: 52.0d
 		}
 		{
 			id: "5B76A3F2109A60B6"
@@ -4709,8 +4709,8 @@
 				item: "moa_decor_toys:sniffer"
 				type: "item"
 			}]
-			x: 3.0d
-			y: 20.0d
+			x: 5.0d
+			y: 52.0d
 		}
 		{
 			id: "40264DB02151DBD9"
@@ -4725,8 +4725,8 @@
 				item: "moa_decor_toys:steve"
 				type: "item"
 			}]
-			x: 4.0d
-			y: 20.0d
+			x: 0.0d
+			y: 53.0d
 		}
 		{
 			id: "1C596E3742218DA8"
@@ -4741,8 +4741,8 @@
 				item: "moa_decor_toys:tortugamarina"
 				type: "item"
 			}]
-			x: 5.0d
-			y: 20.0d
+			x: 1.0d
+			y: 53.0d
 		}
 		{
 			id: "41D710F428D2EE65"
@@ -4757,8 +4757,8 @@
 				item: "moa_decor_toys:vaca"
 				type: "item"
 			}]
-			x: 6.0d
-			y: 20.0d
+			x: 2.0d
+			y: 53.0d
 		}
 		{
 			id: "0181C831108931D3"
@@ -4773,8 +4773,8 @@
 				item: "moa_decor_toys:vendedorambulante"
 				type: "item"
 			}]
-			x: 7.0d
-			y: 20.0d
+			x: 3.0d
+			y: 53.0d
 		}
 		{
 			id: "40C07C1949B8C9E1"
@@ -4789,8 +4789,8 @@
 				item: "moa_decor_toys:vex"
 				type: "item"
 			}]
-			x: 8.0d
-			y: 20.0d
+			x: 4.0d
+			y: 53.0d
 		}
 		{
 			id: "15EE1F62145A63B1"
@@ -4805,8 +4805,8 @@
 				item: "moa_decor_toys:vindicador"
 				type: "item"
 			}]
-			x: 9.0d
-			y: 20.0d
+			x: 5.0d
+			y: 53.0d
 		}
 		{
 			id: "58D9159515CBE1E3"
@@ -4821,8 +4821,8 @@
 				item: "moa_decor_toys:warden"
 				type: "item"
 			}]
-			x: 11.0d
-			y: 11.0d
+			x: 0.0d
+			y: 54.0d
 		}
 		{
 			id: "7E5A7359C14BC5D7"
@@ -4837,8 +4837,8 @@
 				item: "moa_decor_toys:wither"
 				type: "item"
 			}]
-			x: 12.0d
-			y: 11.0d
+			x: 1.0d
+			y: 54.0d
 		}
 		{
 			id: "5E2E25D70ECC1E80"
@@ -4853,8 +4853,8 @@
 				item: "moa_decor_toys:zoglin"
 				type: "item"
 			}]
-			x: 13.0d
-			y: 11.0d
+			x: 2.0d
+			y: 54.0d
 		}
 		{
 			id: "0E2AC185BE1F8617"
@@ -4869,8 +4869,8 @@
 				item: "moa_decor_toys:zombie"
 				type: "item"
 			}]
-			x: 14.0d
-			y: 11.0d
+			x: 3.0d
+			y: 54.0d
 		}
 		{
 			id: "3B7745747DF568EB"
@@ -4885,8 +4885,8 @@
 				item: "moa_decor_toys:zombieahogado"
 				type: "item"
 			}]
-			x: 15.0d
-			y: 11.0d
+			x: 4.0d
+			y: 54.0d
 		}
 		{
 			id: "754325E848DEC509"
@@ -4901,8 +4901,8 @@
 				item: "moa_decor_toys:zombiemomificado"
 				type: "item"
 			}]
-			x: 16.0d
-			y: 11.0d
+			x: 5.0d
+			y: 54.0d
 		}
 		{
 			id: "561216F8C81DC5A8"
@@ -4917,8 +4917,8 @@
 				item: "moa_decor_toys:zorro"
 				type: "item"
 			}]
-			x: 17.0d
-			y: 11.0d
+			x: 0.0d
+			y: 55.0d
 		}
 		{
 			id: "62C2911E0E14C132"
@@ -4933,8 +4933,8 @@
 				item: "moa_decor_toys:zorroblanco"
 				type: "item"
 			}]
-			x: 18.0d
-			y: 11.0d
+			x: 1.0d
+			y: 55.0d
 		}
 		{
 			id: "3A60F35A38F561BC"
@@ -4949,8 +4949,8 @@
 				item: "playdate:dino"
 				type: "item"
 			}]
-			x: 19.0d
-			y: 11.0d
+			x: 2.0d
+			y: 55.0d
 		}
 		{
 			id: "2AC56351EFC9E1FF"
@@ -4965,8 +4965,8 @@
 				item: "playdate:music_box"
 				type: "item"
 			}]
-			x: 20.0d
-			y: 11.0d
+			x: 3.0d
+			y: 55.0d
 		}
 		{
 			id: "6D73DEA8D8634C2E"
@@ -4981,8 +4981,8 @@
 				item: "playdate:piggy_bank"
 				type: "item"
 			}]
-			x: 11.0d
-			y: 12.0d
+			x: 4.0d
+			y: 55.0d
 		}
 		{
 			id: "295ABD5054A999ED"
@@ -4997,8 +4997,8 @@
 				item: "playdate:ring_tower"
 				type: "item"
 			}]
-			x: 12.0d
-			y: 12.0d
+			x: 5.0d
+			y: 55.0d
 		}
 		{
 			id: "064C4951ABEC8BAA"
@@ -5013,8 +5013,8 @@
 				item: "playdate:rocking_horse"
 				type: "item"
 			}]
-			x: 13.0d
-			y: 12.0d
+			x: 0.0d
+			y: 56.0d
 		}
 		{
 			id: "1E8A01346379069A"
@@ -5029,8 +5029,8 @@
 				item: "playdate:sock_monkey"
 				type: "item"
 			}]
-			x: 14.0d
-			y: 12.0d
+			x: 1.0d
+			y: 56.0d
 		}
 		{
 			id: "09699DB7B7BA8DA5"
@@ -5045,8 +5045,8 @@
 				item: "playdate:teddy_bear"
 				type: "item"
 			}]
-			x: 15.0d
-			y: 12.0d
+			x: 2.0d
+			y: 56.0d
 		}
 		{
 			id: "06047CE1776A03B8"
@@ -5061,8 +5061,8 @@
 				item: "playdate:toy_bench"
 				type: "item"
 			}]
-			x: 16.0d
-			y: 12.0d
+			x: 3.0d
+			y: 56.0d
 		}
 		{
 			id: "223DC604E7222D2A"
@@ -5077,8 +5077,8 @@
 				item: "playdate:toy_boat"
 				type: "item"
 			}]
-			x: 17.0d
-			y: 12.0d
+			x: 4.0d
+			y: 56.0d
 		}
 		{
 			id: "7246B3A8CAAE59D1"
@@ -5093,8 +5093,8 @@
 				item: "playdate:toy_clock"
 				type: "item"
 			}]
-			x: 18.0d
-			y: 12.0d
+			x: 5.0d
+			y: 56.0d
 		}
 		{
 			id: "1A66CABA35444FAB"
@@ -5109,8 +5109,8 @@
 				item: "playdate:toy_robot"
 				type: "item"
 			}]
-			x: 19.0d
-			y: 12.0d
+			x: 0.0d
+			y: 57.0d
 		}
 		{
 			id: "12C71EED8AAA6B8B"
@@ -5125,8 +5125,8 @@
 				item: "playdate:toy_train"
 				type: "item"
 			}]
-			x: 20.0d
-			y: 12.0d
+			x: 1.0d
+			y: 57.0d
 		}
 		{
 			id: "2BE0210ACBC08DDC"
@@ -5141,8 +5141,8 @@
 				item: "playdate:wooden_duck"
 				type: "item"
 			}]
-			x: 11.0d
-			y: 13.0d
+			x: 2.0d
+			y: 57.0d
 		}
 		{
 			id: "0781E11C8C00AD6F"
@@ -5157,8 +5157,8 @@
 				item: "playdate:wooden_soldier"
 				type: "item"
 			}]
-			x: 12.0d
-			y: 13.0d
+			x: 3.0d
+			y: 57.0d
 		}
 		{
 			id: "299C0619CD2AA5B1"
@@ -5173,8 +5173,8 @@
 				item: "handcrafted:bear_trophy"
 				type: "item"
 			}]
-			x: 13.0d
-			y: 13.0d
+			x: 4.0d
+			y: 57.0d
 		}
 		{
 			id: "50BE88CE7C521A1D"
@@ -5189,8 +5189,8 @@
 				item: "handcrafted:blaze_trophy"
 				type: "item"
 			}]
-			x: 14.0d
-			y: 13.0d
+			x: 5.0d
+			y: 57.0d
 		}
 		{
 			id: "3977B1195B6CA799"
@@ -5205,8 +5205,8 @@
 				item: "handcrafted:fox_trophy"
 				type: "item"
 			}]
-			x: 15.0d
-			y: 13.0d
+			x: 0.0d
+			y: 58.5d
 		}
 		{
 			id: "73441E2BC82549E0"
@@ -5221,8 +5221,8 @@
 				item: "handcrafted:goat_trophy"
 				type: "item"
 			}]
-			x: 16.0d
-			y: 13.0d
+			x: 1.0d
+			y: 58.5d
 		}
 		{
 			id: "579C6FC57DC84155"
@@ -5237,8 +5237,8 @@
 				item: "handcrafted:pufferfish_trophy"
 				type: "item"
 			}]
-			x: 17.0d
-			y: 13.0d
+			x: 2.0d
+			y: 58.5d
 		}
 		{
 			id: "737C69A441289682"
@@ -5253,8 +5253,8 @@
 				item: "handcrafted:salmon_trophy"
 				type: "item"
 			}]
-			x: 18.0d
-			y: 13.0d
+			x: 3.0d
+			y: 58.5d
 		}
 		{
 			id: "02BA7323A69FE885"
@@ -5269,8 +5269,8 @@
 				item: "handcrafted:silverfish_trophy"
 				type: "item"
 			}]
-			x: 19.0d
-			y: 13.0d
+			x: 4.0d
+			y: 58.5d
 		}
 		{
 			id: "2D20FF4F22BFE958"
@@ -5285,8 +5285,8 @@
 				item: "handcrafted:skeleton_horse_trophy"
 				type: "item"
 			}]
-			x: 20.0d
-			y: 13.0d
+			x: 5.0d
+			y: 58.5d
 		}
 		{
 			id: "30A57DD94FD2F926"
@@ -5301,8 +5301,8 @@
 				item: "handcrafted:spider_trophy"
 				type: "item"
 			}]
-			x: 11.0d
-			y: 14.0d
+			x: 0.0d
+			y: 59.5d
 		}
 		{
 			id: "20EA79AA3F72EEEA"
@@ -5317,8 +5317,8 @@
 				item: "handcrafted:tropical_fish_trophy"
 				type: "item"
 			}]
-			x: 12.0d
-			y: 14.0d
+			x: 1.0d
+			y: 59.5d
 		}
 		{
 			id: "2F04C36692762654"
@@ -5333,8 +5333,8 @@
 				item: "handcrafted:wither_skeleton_trophy"
 				type: "item"
 			}]
-			x: 13.0d
-			y: 14.0d
+			x: 2.0d
+			y: 59.5d
 		}
 		{
 			id: "15A9B71BEB9F53A5"
@@ -5349,8 +5349,8 @@
 				item: "handcrafted:wolf_trophy"
 				type: "item"
 			}]
-			x: 14.0d
-			y: 14.0d
+			x: 3.0d
+			y: 59.5d
 		}
 	]
 	title: "Common Decorations"

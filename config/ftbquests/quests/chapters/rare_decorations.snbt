@@ -117,8 +117,8 @@
 				item: "moa_decor_art:esculturajesuscrucificado"
 				type: "item"
 			}]
-			x: 6.0d
-			y: 0.0d
+			x: 0.0d
+			y: 1.0d
 		}
 		{
 			id: "1F0AFE84F64FFD54"
@@ -133,8 +133,8 @@
 				item: "moa_decor_art:esculturalavictoriodesamotracia"
 				type: "item"
 			}]
-			x: 7.0d
-			y: 0.0d
+			x: 1.0d
+			y: 1.0d
 		}
 		{
 			id: "6A64ECA14DC127C7"
@@ -149,8 +149,8 @@
 				item: "moa_decor_art:esculturamujerconjarra"
 				type: "item"
 			}]
-			x: 8.0d
-			y: 0.0d
+			x: 2.0d
+			y: 1.0d
 		}
 		{
 			id: "6EE7F44E34C8C09A"
@@ -165,8 +165,8 @@
 				item: "moa_decor_art:esculturavenusdemilo"
 				type: "item"
 			}]
-			x: 9.0d
-			y: 0.0d
+			x: 3.0d
+			y: 1.0d
 		}
 		{
 			id: "62821E070CBD8312"
@@ -181,7 +181,7 @@
 				item: "moa_decor_art:premiooscar"
 				type: "item"
 			}]
-			x: 0.0d
+			x: 4.0d
 			y: 1.0d
 		}
 		{
@@ -197,7 +197,7 @@
 				item: "moa_decor_art:pelgrito"
 				type: "item"
 			}]
-			x: 1.0d
+			x: 5.0d
 			y: 1.0d
 		}
 		{
@@ -213,8 +213,8 @@
 				item: "moa_decor_art:pgoticoestadounidense"
 				type: "item"
 			}]
-			x: 2.0d
-			y: 1.0d
+			x: 0.0d
+			y: 2.0d
 		}
 		{
 			id: "23E18DF66D72C690"
@@ -229,8 +229,8 @@
 				item: "moa_decor_art:plajovendelaperla"
 				type: "item"
 			}]
-			x: 3.0d
-			y: 1.0d
+			x: 1.0d
+			y: 2.0d
 		}
 		{
 			id: "384A5D41F300A0BC"
@@ -245,8 +245,8 @@
 				item: "moa_decor_art:planocheestrellada"
 				type: "item"
 			}]
-			x: 4.0d
-			y: 1.0d
+			x: 2.0d
+			y: 2.0d
 		}
 		{
 			id: "0E54B87EA3337D21"
@@ -261,8 +261,8 @@
 				item: "moa_decor_art:plamonalisa"
 				type: "item"
 			}]
-			x: 5.0d
-			y: 1.0d
+			x: 3.0d
+			y: 2.0d
 		}
 		{
 			id: "69CD2E4184EEF711"
@@ -277,8 +277,8 @@
 				item: "moa_decor_art:pserenatamexicana"
 				type: "item"
 			}]
-			x: 6.0d
-			y: 1.0d
+			x: 4.0d
+			y: 2.0d
 		}
 		{
 			id: "7FC1CFCAF17BC8EE"
@@ -293,8 +293,8 @@
 				item: "moa_decor_art:premiogrammy"
 				type: "item"
 			}]
-			x: 7.0d
-			y: 1.0d
+			x: 5.0d
+			y: 2.0d
 		}
 		{
 			id: "1ADB42F6FFEEEE7D"
@@ -309,8 +309,8 @@
 				item: "moa_decor_art:pianodecola"
 				type: "item"
 			}]
-			x: 8.0d
-			y: 1.0d
+			x: 0.0d
+			y: 3.0d
 		}
 		{
 			id: "07BD2E9F50B23F01"
@@ -325,8 +325,8 @@
 				item: "moa_decor_art:fonografo"
 				type: "item"
 			}]
-			x: 9.0d
-			y: 1.0d
+			x: 1.0d
+			y: 3.0d
 		}
 		{
 			id: "261CC110652A68E2"
@@ -341,8 +341,8 @@
 				item: "moa_decor_art:maquinadediscos"
 				type: "item"
 			}]
-			x: 0.0d
-			y: 2.0d
+			x: 2.0d
+			y: 3.0d
 		}
 		{
 			id: "1E5AD04F7E99FDF4"
@@ -357,8 +357,8 @@
 				item: "moa_decor_holidays:olladeoro"
 				type: "item"
 			}]
-			x: 1.0d
-			y: 2.0d
+			x: 3.0d
+			y: 3.0d
 		}
 		{
 			id: "2443AADE1565FDEB"
@@ -373,8 +373,8 @@
 				item: "moa_decor_holidays:trineo"
 				type: "item"
 			}]
-			x: 2.0d
-			y: 2.0d
+			x: 4.0d
+			y: 3.0d
 		}
 		{
 			id: "57FFE612A60C7125"
@@ -389,8 +389,8 @@
 				item: "handcrafted:creeper_trophy"
 				type: "item"
 			}]
-			x: 3.0d
-			y: 2.0d
+			x: 5.0d
+			y: 3.0d
 		}
 		{
 			id: "3536160081F124BA"
@@ -405,8 +405,8 @@
 				item: "handcrafted:skeleton_trophy"
 				type: "item"
 			}]
-			x: 4.0d
-			y: 2.0d
+			x: 0.0d
+			y: 4.0d
 		}
 		{
 			id: "2AD4E1B8051C38F9"
@@ -421,8 +421,8 @@
 				item: "handcrafted:vindicator_trophy"
 				type: "item"
 			}]
-			x: 5.0d
-			y: 2.0d
+			x: 1.0d
+			y: 4.0d
 		}
 		{
 			id: "54F4965D87C8F5C7"
@@ -437,8 +437,8 @@
 				item: "handcrafted:witch_trophy"
 				type: "item"
 			}]
-			x: 6.0d
-			y: 2.0d
+			x: 2.0d
+			y: 4.0d
 		}
 		{
 			id: "00B3C432B1405102"
@@ -453,8 +453,8 @@
 				item: "handcrafted:phantom_trophy"
 				type: "item"
 			}]
-			x: 7.0d
-			y: 2.0d
+			x: 3.0d
+			y: 4.0d
 		}
 		{
 			id: "6805093097577877"
@@ -469,8 +469,8 @@
 				item: "handcrafted:pillager_trophy"
 				type: "item"
 			}]
-			x: 8.0d
-			y: 2.0d
+			x: 4.0d
+			y: 4.0d
 		}
 		{
 			id: "263F670B1DBAF786"
@@ -485,8 +485,8 @@
 				item: "handcrafted:evoker_trophy"
 				type: "item"
 			}]
-			x: 9.0d
-			y: 2.0d
+			x: 5.0d
+			y: 4.0d
 		}
 	]
 	title: "Rare Decorations"
