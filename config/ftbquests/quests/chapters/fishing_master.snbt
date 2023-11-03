@@ -22,8 +22,8 @@
 				item: "aquaculture:red_grouper"
 				type: "item"
 			}]
-			x: -1.5d
-			y: -1.5d
+			x: -3.5d
+			y: 3.0d
 		}
 		{
 			hide: true
@@ -39,8 +39,8 @@
 				item: "aquaculture:tuna"
 				type: "item"
 			}]
-			x: -1.5d
-			y: -0.5d
+			x: -2.5d
+			y: 3.0d
 		}
 		{
 			hide: true
@@ -62,8 +62,8 @@
 				}
 				type: "item"
 			}]
-			x: -0.5d
-			y: -2.5d
+			x: -4.5d
+			y: 4.5d
 		}
 		{
 			hide: true
@@ -79,8 +79,8 @@
 				item: "aquaculture:goldfish"
 				type: "item"
 			}]
-			x: -0.5d
-			y: -0.5d
+			x: -2.5d
+			y: 4.5d
 		}
 		{
 			hide: true
@@ -96,8 +96,8 @@
 				item: "aquaculture:box_turtle"
 				type: "item"
 			}]
-			x: -0.5d
-			y: -1.5d
+			x: -3.5d
+			y: 4.5d
 		}
 		{
 			hide: true
@@ -113,8 +113,8 @@
 				item: "aquaculture:atlantic_cod"
 				type: "item"
 			}]
-			x: -2.5d
-			y: -2.5d
+			x: -4.5d
+			y: 0.5d
 		}
 		{
 			hide: true
@@ -130,8 +130,8 @@
 				item: "aquaculture:blackfish"
 				type: "item"
 			}]
-			x: -2.5d
-			y: -1.5d
+			x: -3.5d
+			y: 0.5d
 		}
 		{
 			hide: true
@@ -148,7 +148,7 @@
 				type: "item"
 			}]
 			x: -2.5d
-			y: -0.5d
+			y: 0.5d
 		}
 		{
 			hide: true
@@ -164,7 +164,7 @@
 				item: "aquaculture:atlantic_halibut"
 				type: "item"
 			}]
-			x: -2.5d
+			x: -1.5d
 			y: 0.5d
 		}
 		{
@@ -181,7 +181,7 @@
 				item: "aquaculture:atlantic_herring"
 				type: "item"
 			}]
-			x: -2.5d
+			x: -4.5d
 			y: 1.5d
 		}
 		{
@@ -198,8 +198,8 @@
 				item: "aquaculture:pink_salmon"
 				type: "item"
 			}]
-			x: -2.5d
-			y: 2.5d
+			x: -3.5d
+			y: 1.5d
 		}
 		{
 			hide: true
@@ -216,7 +216,7 @@
 				type: "item"
 			}]
 			x: -2.5d
-			y: 3.5d
+			y: 1.5d
 		}
 		{
 			hide: true
@@ -232,8 +232,8 @@
 				item: "aquaculture:rainbow_trout"
 				type: "item"
 			}]
-			x: -2.5d
-			y: 4.5d
+			x: -1.5d
+			y: 1.5d
 		}
 		{
 			hide: true
@@ -249,8 +249,8 @@
 				item: "aquaculture:bayad"
 				type: "item"
 			}]
-			x: -3.5d
-			y: -2.5d
+			x: -4.5d
+			y: -1.0d
 		}
 		{
 			hide: true
@@ -267,7 +267,7 @@
 				type: "item"
 			}]
 			x: -3.5d
-			y: -1.5d
+			y: -1.0d
 		}
 		{
 			hide: true
@@ -283,8 +283,8 @@
 				item: "aquaculture:capitaine"
 				type: "item"
 			}]
-			x: -3.5d
-			y: -0.5d
+			x: -2.5d
+			y: -1.0d
 		}
 		{
 			hide: true
@@ -300,8 +300,8 @@
 				item: "aquaculture:synodontis"
 				type: "item"
 			}]
-			x: -3.5d
-			y: 0.5d
+			x: -1.5d
+			y: -1.0d
 		}
 		{
 			hide: true
@@ -318,7 +318,7 @@
 				type: "item"
 			}]
 			x: -4.5d
-			y: -2.5d
+			y: -3.5d
 		}
 		{
 			hide: true
@@ -334,8 +334,8 @@
 				item: "aquaculture:bluegill"
 				type: "item"
 			}]
-			x: -4.5d
-			y: -1.5d
+			x: -3.5d
+			y: -3.5d
 		}
 		{
 			hide: true
@@ -351,8 +351,8 @@
 				item: "aquaculture:brown_trout"
 				type: "item"
 			}]
-			x: -4.5d
-			y: -0.5d
+			x: -2.5d
+			y: -3.5d
 		}
 		{
 			hide: true
@@ -368,8 +368,8 @@
 				item: "aquaculture:carp"
 				type: "item"
 			}]
-			x: -4.5d
-			y: 0.5d
+			x: -1.5d
+			y: -3.5d
 		}
 		{
 			hide: true
@@ -385,8 +385,8 @@
 				item: "aquaculture:catfish"
 				type: "item"
 			}]
-			x: -4.5d
-			y: 1.5d
+			x: -0.5d
+			y: -3.0d
 		}
 		{
 			hide: true
@@ -403,7 +403,7 @@
 				type: "item"
 			}]
 			x: -4.5d
-			y: 2.5d
+			y: -2.5d
 		}
 		{
 			hide: true
@@ -425,8 +425,8 @@
 				}
 				type: "item"
 			}]
-			x: -4.5d
-			y: 3.5d
+			x: -3.5d
+			y: -2.5d
 		}
 		{
 			hide: true
@@ -442,8 +442,8 @@
 				item: "aquaculture:muskellunge"
 				type: "item"
 			}]
-			x: -4.5d
-			y: 4.5d
+			x: -2.5d
+			y: -2.5d
 		}
 		{
 			hide: true
@@ -459,8 +459,8 @@
 				item: "aquaculture:perch"
 				type: "item"
 			}]
-			x: -4.5d
-			y: 5.5d
+			x: -1.5d
+			y: -2.5d
 		}
 		{
 			hide: true
@@ -476,8 +476,8 @@
 				item: "aquaculture:arapaima"
 				type: "item"
 			}]
-			x: 1.5d
-			y: -2.5d
+			x: -4.5d
+			y: 7.5d
 		}
 		{
 			hide: true
@@ -493,8 +493,8 @@
 				item: "aquaculture:piranha"
 				type: "item"
 			}]
-			x: 1.5d
-			y: -0.5d
+			x: -2.5d
+			y: 7.5d
 		}
 		{
 			hide: true
@@ -510,8 +510,8 @@
 				item: "aquaculture:tambaqui"
 				type: "item"
 			}]
-			x: 1.5d
-			y: 0.5d
+			x: -1.5d
+			y: 7.5d
 		}
 		{
 			hide: true
@@ -527,8 +527,8 @@
 				item: "aquaculture:brown_shrooma"
 				type: "item"
 			}]
-			x: 0.5d
-			y: -1.5d
+			x: -4.5d
+			y: 6.0d
 		}
 		{
 			hide: true
@@ -544,8 +544,8 @@
 				item: "aquaculture:red_shrooma"
 				type: "item"
 			}]
-			x: 0.5d
-			y: -2.5d
+			x: -3.5d
+			y: 6.0d
 		}
 		{
 			hide: true
@@ -561,8 +561,8 @@
 				item: "aquaculture:jellyfish"
 				type: "item"
 			}]
-			x: -1.5d
-			y: -2.5d
+			x: -4.5d
+			y: 3.0d
 		}
 		{
 			hide: true
@@ -578,92 +578,8 @@
 				item: "aquaculture:arrau_turtle"
 				type: "item"
 			}]
-			x: 1.5d
-			y: -1.5d
-		}
-		{
-			hide: true
-			id: "000000000000008F"
-			tasks: [{
-				icon: "minecraft:grass"
-				id: "0000000000000090"
-				title: "Freshwater"
-				type: "checkmark"
-			}]
-			x: -4.5d
-			y: -3.5d
-		}
-		{
-			hide: true
-			id: "0000000000000091"
-			tasks: [{
-				icon: "minecraft:dead_bush"
-				id: "0000000000000092"
-				title: "Arid"
-				type: "checkmark"
-			}]
 			x: -3.5d
-			y: -3.5d
-		}
-		{
-			hide: true
-			icon: "minecraft:spruce_sapling"
-			id: "0000000000000093"
-			tasks: [{
-				id: "0000000000000386"
-				type: "checkmark"
-			}]
-			title: "Arctic Ocean"
-			x: -2.5d
-			y: -3.5d
-		}
-		{
-			hide: true
-			icon: "minecraft:sea_pickle"
-			id: "0000000000000095"
-			tasks: [{
-				id: "0000000000000341"
-				type: "checkmark"
-			}]
-			title: "Saltwater"
-			x: -1.5d
-			y: -3.5d
-		}
-		{
-			hide: true
-			id: "0000000000000097"
-			tasks: [{
-				icon: "minecraft:lily_pad"
-				id: "0000000000000098"
-				title: "Swamp"
-				type: "checkmark"
-			}]
-			x: -0.5d
-			y: -3.5d
-		}
-		{
-			hide: true
-			id: "0000000000000099"
-			tasks: [{
-				icon: "minecraft:mycelium"
-				id: "000000000000009A"
-				title: "Mushroom Island"
-				type: "checkmark"
-			}]
-			x: 0.5d
-			y: -3.5d
-		}
-		{
-			hide: true
-			icon: "minecraft:jungle_sapling"
-			id: "000000000000009B"
-			tasks: [{
-				id: "000000000000009C"
-				type: "checkmark"
-			}]
-			title: "Jungle"
-			x: 1.5d
-			y: -3.5d
+			y: 7.5d
 		}
 		{
 			dependencies: [
@@ -677,7 +593,6 @@
 				"000000000000005C"
 				"000000000000005E"
 			]
-			hide: true
 			icon: "kubejs:miles_ticket"
 			id: "00000000000001C4"
 			rewards: [{
@@ -691,8 +606,8 @@
 				title: "Freshwater Completion"
 				type: "item"
 			}]
-			x: -4.5d
-			y: 6.5d
+			x: -5.5d
+			y: -3.0d
 		}
 		{
 			dependencies: [
@@ -701,7 +616,6 @@
 				"000000000000004A"
 				"000000000000004C"
 			]
-			hide: true
 			icon: "kubejs:miles_ticket"
 			id: "00000000000001C7"
 			rewards: [{
@@ -714,8 +628,9 @@
 				id: "2729132904B76972"
 				type: "item"
 			}]
-			x: -3.5d
-			y: 1.5d
+			title: "Arid Completion"
+			x: -5.5d
+			y: -1.0d
 		}
 		{
 			dependencies: [
@@ -728,7 +643,6 @@
 				"0000000000000042"
 				"0000000000000044"
 			]
-			hide: true
 			icon: "kubejs:miles_ticket"
 			id: "00000000000001C9"
 			rewards: [{
@@ -742,8 +656,8 @@
 				title: "Artic Completion"
 				type: "item"
 			}]
-			x: -2.5d
-			y: 5.5d
+			x: -5.5d
+			y: 1.0d
 		}
 		{
 			dependencies: [
@@ -751,7 +665,6 @@
 				"0000000000000029"
 				"000000000000002C"
 			]
-			hide: true
 			icon: "kubejs:miles_ticket"
 			id: "00000000000001CB"
 			rewards: [{
@@ -766,8 +679,8 @@
 				type: "item"
 			}]
 			title: "Saltwater Completion"
-			x: -1.5d
-			y: 0.5d
+			x: -5.5d
+			y: 3.0d
 		}
 		{
 			dependencies: [
@@ -775,7 +688,6 @@
 				"0000000000000034"
 				"0000000000000032"
 			]
-			hide: true
 			icon: "kubejs:miles_ticket"
 			id: "00000000000001CD"
 			rewards: [{
@@ -789,15 +701,14 @@
 				title: "Swamp Completion"
 				type: "item"
 			}]
-			x: -0.5d
-			y: 0.5d
+			x: -5.5d
+			y: 4.5d
 		}
 		{
 			dependencies: [
 				"0000000000000068"
 				"0000000000000066"
 			]
-			hide: true
 			icon: "kubejs:miles_ticket"
 			id: "00000000000001CF"
 			rewards: [{
@@ -811,8 +722,8 @@
 				title: "Mushroom Completion"
 				type: "item"
 			}]
-			x: 0.5d
-			y: -0.5d
+			x: -5.5d
+			y: 6.0d
 		}
 		{
 			dependencies: [
@@ -821,7 +732,6 @@
 				"0000000000000062"
 				"0000000000000064"
 			]
-			hide: true
 			icon: "kubejs:miles_ticket"
 			id: "00000000000001D1"
 			rewards: [{
@@ -835,8 +745,8 @@
 				title: "Jungle Completion"
 				type: "item"
 			}]
-			x: 1.5d
-			y: 1.5d
+			x: -5.5d
+			y: 7.5d
 		}
 		{
 			dependencies: ["20D49BB4FC20F70F"]
@@ -876,8 +786,8 @@
 				type: "item"
 			}]
 			title: "Iron Hook"
-			x: 5.0d
-			y: -3.5d
+			x: -4.5d
+			y: -8.0d
 		}
 		{
 			dependencies: ["1F23D5FB5D5A4334"]
@@ -917,8 +827,8 @@
 				type: "item"
 			}]
 			title: "Gold Hook"
-			x: 5.0d
-			y: -2.5d
+			x: -3.5d
+			y: -8.0d
 		}
 		{
 			dependencies: ["235E1172DE18A057"]
@@ -958,8 +868,8 @@
 				type: "item"
 			}]
 			title: "Diamond Hook"
-			x: 7.0d
-			y: -1.5d
+			x: -2.5d
+			y: -10.0d
 		}
 		{
 			dependencies: ["235E1172DE18A057"]
@@ -999,8 +909,8 @@
 				type: "item"
 			}]
 			title: "Light Hook"
-			x: 6.0d
-			y: -1.5d
+			x: -2.5d
+			y: -9.0d
 		}
 		{
 			dependencies: ["235E1172DE18A057"]
@@ -1040,8 +950,8 @@
 				type: "item"
 			}]
 			title: "Heavy Hook"
-			x: 3.0d
-			y: -1.5d
+			x: -2.5d
+			y: -6.0d
 		}
 		{
 			dependencies: [
@@ -1086,8 +996,8 @@
 				type: "item"
 			}]
 			title: "Double Hook"
-			x: 5.0d
-			y: -0.5d
+			x: -1.5d
+			y: -8.0d
 		}
 		{
 			dependencies: ["235E1172DE18A057"]
@@ -1127,8 +1037,8 @@
 				type: "item"
 			}]
 			title: "Redstone Hook"
-			x: 4.0d
-			y: -1.5d
+			x: -2.5d
+			y: -7.0d
 		}
 		{
 			dependencies: ["235E1172DE18A057"]
@@ -1168,8 +1078,8 @@
 				type: "item"
 			}]
 			title: "Note Hook"
-			x: 5.0d
-			y: -1.5d
+			x: -2.5d
+			y: -8.0d
 		}
 		{
 			dependencies: ["72374729031FE94C"]
@@ -1209,8 +1119,8 @@
 				type: "item"
 			}]
 			title: "Nether Star Hook"
-			x: 5.0d
-			y: 0.5d
+			x: -0.5d
+			y: -8.0d
 		}
 		{
 			description: [
@@ -1259,19 +1169,8 @@
 					type: "item"
 				}
 			]
-			x: 5.0d
-			y: -4.5d
-		}
-		{
-			icon: "minecraft:grass_block"
-			id: "606FC6209CF5B86E"
-			tasks: [{
-				id: "111F203DC6A2DAFB"
-				type: "checkmark"
-			}]
-			title: "Vanilla Fishes"
 			x: -5.5d
-			y: -3.5d
+			y: -8.0d
 		}
 		{
 			id: "1A61A7489CAE4B91"
@@ -1286,8 +1185,8 @@
 				item: "minecraft:cod"
 				type: "item"
 			}]
-			x: -5.5d
-			y: -2.5d
+			x: -4.5d
+			y: -5.0d
 		}
 		{
 			id: "261E46C3DF60F387"
@@ -1302,8 +1201,8 @@
 				item: "minecraft:salmon"
 				type: "item"
 			}]
-			x: -5.5d
-			y: -1.5d
+			x: -3.5d
+			y: -5.0d
 		}
 		{
 			id: "7575A810AD9896BA"
@@ -1318,8 +1217,8 @@
 				item: "minecraft:tropical_fish"
 				type: "item"
 			}]
-			x: -5.5d
-			y: -0.5d
+			x: -2.5d
+			y: -5.0d
 		}
 		{
 			id: "3DD99FC8B82B7E1D"
@@ -1334,8 +1233,8 @@
 				item: "minecraft:pufferfish"
 				type: "item"
 			}]
-			x: -5.5d
-			y: 0.5d
+			x: -1.5d
+			y: -5.0d
 		}
 		{
 			dependencies: [
@@ -1344,7 +1243,6 @@
 				"7575A810AD9896BA"
 				"261E46C3DF60F387"
 			]
-			hide: true
 			icon: "kubejs:miles_ticket"
 			id: "6D9D37E66B70BE86"
 			rewards: [{
@@ -1359,7 +1257,7 @@
 				type: "item"
 			}]
 			x: -5.5d
-			y: 1.5d
+			y: -5.0d
 		}
 	]
 	title: "Aquarium"

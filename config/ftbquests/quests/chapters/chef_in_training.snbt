@@ -29,8 +29,8 @@
 				item: "bakery:bread"
 				type: "item"
 			}]
-			x: -0.5d
-			y: -0.5d
+			x: 0.5d
+			y: -2.5d
 		}
 		{
 			id: "57BAA8B414FF1F4F"
@@ -59,7 +59,7 @@
 				type: "item"
 			}]
 			x: -0.5d
-			y: -1.5d
+			y: -2.5d
 		}
 		{
 			dependencies: ["13B67DDBCF1019AB"]
@@ -74,8 +74,8 @@
 				item: "bakery:strawberry_jam"
 				type: "item"
 			}]
-			x: -0.5d
-			y: 0.5d
+			x: 1.5d
+			y: -2.5d
 		}
 		{
 			dependencies: ["5E93B9E15372F454"]
@@ -98,8 +98,8 @@
 				item: "bakery:strawberry_cake"
 				type: "item"
 			}]
-			x: -0.5d
-			y: 1.5d
+			x: 2.5d
+			y: -2.5d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -128,7 +128,7 @@
 				item: "vinery:red_grapejuice_wine_bottle"
 				type: "item"
 			}]
-			x: 0.5d
+			x: -0.5d
 			y: -1.5d
 		}
 		{
@@ -174,7 +174,7 @@
 				type: "item"
 			}]
 			x: 0.5d
-			y: -0.5d
+			y: -1.5d
 		}
 		{
 			dependencies: ["65B28F78A7DDBD06"]
@@ -189,8 +189,8 @@
 				item: "meadow:cheese_block"
 				type: "item"
 			}]
-			x: 0.5d
-			y: 0.5d
+			x: 1.5d
+			y: -1.5d
 		}
 		{
 			dependencies: ["1DD15BDBBA7B8632"]
@@ -212,8 +212,8 @@
 				item: "meadow:cheese_stick"
 				type: "item"
 			}]
-			x: 0.5d
-			y: 1.5d
+			x: 2.5d
+			y: -1.5d
 		}
 		{
 			dependencies: ["57889789985B323E"]
@@ -241,8 +241,8 @@
 				item: "candlelight:mushroom_soup"
 				type: "item"
 			}]
-			x: 1.5d
-			y: -1.5d
+			x: -0.5d
+			y: -0.5d
 		}
 		{
 			dependencies: ["48C7E0AF4C9A3C3E"]
@@ -265,7 +265,7 @@
 				item: "candlelight:pizza"
 				type: "item"
 			}]
-			x: 1.5d
+			x: 0.5d
 			y: -0.5d
 		}
 		{
@@ -282,7 +282,7 @@
 				type: "item"
 			}]
 			x: 1.5d
-			y: 0.5d
+			y: -0.5d
 		}
 		{
 			dependencies: ["2D0063702FDE9B52"]
@@ -298,8 +298,8 @@
 				item: "beachparty:coconut_cocktail"
 				type: "item"
 			}]
-			x: 1.5d
-			y: 1.5d
+			x: 2.5d
+			y: -0.5d
 		}
 	]
 	title: "Chef in Training"

@@ -42,7 +42,7 @@ itemQuestWithTwoRewardsInOrder(){
 
 createFirstReward(){
   ; create first reward
-  send {Click 1166 522} ; click "+" on rewards
+  send {Click 1703 412} ; click "+" on rewards
   send {Click 1251 485} ; select "item"
   send {Click 624 383} ; select first item
   send {Click 1191 782} ; select "Accept"

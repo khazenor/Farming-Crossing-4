@@ -38,8 +38,8 @@
 				type: "item"
 			}]
 			title: "Wooden Common Deco Collection Certificate"
-			x: 0.0d
-			y: 0.0d
+			x: -3.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["79C7500CAA3A99A3"]
@@ -67,8 +67,8 @@
 				type: "item"
 			}]
 			title: "Stone Common Deco Collection Certificate"
-			x: 0.0d
-			y: 1.0d
+			x: -2.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["6762FFD6458747DE"]
@@ -96,7 +96,7 @@
 				type: "item"
 			}]
 			title: "Iron Common Deco Collection Certificate"
-			x: 0.0d
+			x: -1.0d
 			y: 2.0d
 		}
 		{
@@ -126,7 +126,7 @@
 			}]
 			title: "Golden Common Deco Collection Certificate"
 			x: 0.0d
-			y: 3.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["2CA1DF422552D48B"]
@@ -154,8 +154,8 @@
 				type: "item"
 			}]
 			title: "Diamond Common Deco Collection Certificate"
-			x: 0.0d
-			y: 4.0d
+			x: 1.0d
+			y: 2.0d
 		}
 		{
 			hide: true
@@ -186,8 +186,8 @@
 				type: "item"
 			}]
 			title: "Wooden Rare Deco Collection Certificate"
-			x: 1.0d
-			y: 0.0d
+			x: -3.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["293263143F2388DC"]
@@ -215,8 +215,8 @@
 				type: "item"
 			}]
 			title: "Stone Rare Deco Collection Certificate"
-			x: 1.0d
-			y: 1.0d
+			x: -2.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["1DECA2763F595B8C"]
@@ -244,8 +244,8 @@
 				type: "item"
 			}]
 			title: "Iron Rare Deco Collection Certificate"
-			x: 1.0d
-			y: 2.0d
+			x: -1.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["13A0B3991E1D7B30"]
@@ -273,7 +273,7 @@
 				type: "item"
 			}]
 			title: "Golden Rare Deco Collection Certificate"
-			x: 1.0d
+			x: 0.0d
 			y: 3.0d
 		}
 		{
@@ -303,7 +303,7 @@
 			}]
 			title: "Diamond Rare Deco Collection Certificate"
 			x: 1.0d
-			y: 4.0d
+			y: 3.0d
 		}
 		{
 			hide: true
@@ -335,8 +335,8 @@
 				type: "item"
 			}]
 			title: "Wooden Hat Collection Certificate"
-			x: 2.0d
-			y: 0.0d
+			x: -3.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["644B450087A604E7"]
@@ -364,8 +364,8 @@
 				type: "item"
 			}]
 			title: "Stone Hat Collection Certificate"
-			x: 2.0d
-			y: 1.0d
+			x: -2.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["21EE2673C216F66B"]
@@ -393,8 +393,8 @@
 				type: "item"
 			}]
 			title: "Iron Hat Collection Certificate"
-			x: 2.0d
-			y: 2.0d
+			x: -1.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["2DD8168BA32AEEBE"]
@@ -422,8 +422,8 @@
 				type: "item"
 			}]
 			title: "Golden Hat Collection Certificate"
-			x: 2.0d
-			y: 3.0d
+			x: 0.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["0B1567BF81B96A20"]
@@ -451,7 +451,7 @@
 				type: "item"
 			}]
 			title: "Diamond Hat Collection Certificate"
-			x: 2.0d
+			x: 1.0d
 			y: 4.0d
 		}
 		{
@@ -485,7 +485,7 @@
 			}]
 			title: "Wooden Animal Collection Certificate"
 			x: -3.0d
-			y: 0.0d
+			y: -1.0d
 		}
 		{
 			dependencies: ["394A6E4A27A64754"]
@@ -513,8 +513,8 @@
 				type: "item"
 			}]
 			title: "Stone Animal Collection Certificate"
-			x: -3.0d
-			y: 1.0d
+			x: -2.0d
+			y: -1.0d
 		}
 		{
 			dependencies: ["57C45C9423BEC2AB"]
@@ -542,8 +542,8 @@
 				type: "item"
 			}]
 			title: "Iron Animal Collection Certificate"
-			x: -3.0d
-			y: 2.0d
+			x: -1.0d
+			y: -1.0d
 		}
 		{
 			dependencies: ["6536E3C16A4477CA"]
@@ -571,8 +571,8 @@
 				type: "item"
 			}]
 			title: "Golden Animal Collection Certificate"
-			x: -3.0d
-			y: 3.0d
+			x: 0.0d
+			y: -1.0d
 		}
 		{
 			dependencies: ["1D14E2615748F241"]
@@ -600,8 +600,8 @@
 				type: "item"
 			}]
 			title: "Diamond Animal Collection Certificate"
-			x: -3.0d
-			y: 4.0d
+			x: 1.0d
+			y: -1.0d
 		}
 		{
 			hide: true
@@ -633,7 +633,7 @@
 				type: "item"
 			}]
 			title: "Wooden Fishing Collection Certificate"
-			x: -2.0d
+			x: -3.0d
 			y: 0.0d
 		}
 		{
@@ -663,7 +663,7 @@
 			}]
 			title: "Stone Fishing Collection Certificate"
 			x: -2.0d
-			y: 1.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["644E5A71CE6B9B86"]
@@ -691,8 +691,8 @@
 				type: "item"
 			}]
 			title: "Iron Fishing Collection Certificate"
-			x: -2.0d
-			y: 2.0d
+			x: -1.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["0E21E1B6579C2654"]
@@ -720,8 +720,8 @@
 				type: "item"
 			}]
 			title: "Golden Fishing Collection Certificate"
-			x: -2.0d
-			y: 3.0d
+			x: 0.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["53F562C912D08A93"]
@@ -749,8 +749,8 @@
 				type: "item"
 			}]
 			title: "Diamond Fishing Collection Certificate"
-			x: -2.0d
-			y: 4.0d
+			x: 1.0d
+			y: 0.0d
 		}
 		{
 			hide: true
@@ -782,8 +782,8 @@
 				type: "item"
 			}]
 			title: "Wooden Chef Certificate"
-			x: -1.0d
-			y: 0.0d
+			x: -3.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["28929EA4688DAE01"]
@@ -811,7 +811,7 @@
 				type: "item"
 			}]
 			title: "Stone Chef Certificate"
-			x: -1.0d
+			x: -2.0d
 			y: 1.0d
 		}
 		{
@@ -841,7 +841,7 @@
 			}]
 			title: "Iron Chef Certificate"
 			x: -1.0d
-			y: 2.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["301B80FC19D8275F"]
@@ -869,8 +869,8 @@
 				type: "item"
 			}]
 			title: "Golden Chef Certificate"
-			x: -1.0d
-			y: 3.0d
+			x: 0.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["6AD916B3696371F9"]
@@ -898,8 +898,8 @@
 				type: "item"
 			}]
 			title: "Diamond Chef Certificate"
-			x: -1.0d
-			y: 4.0d
+			x: 1.0d
+			y: 1.0d
 		}
 	]
 	title: "Mileage Reward Program"
