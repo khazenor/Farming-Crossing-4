@@ -9,6 +9,8 @@
 	quest_links: [ ]
 	quests: [
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "63E76DF0009F4FAD"
 			rewards: [{
 				auto: "enabled"
@@ -25,6 +27,8 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "1F1B9DE7AC2CDA3D"
 			rewards: [{
 				auto: "enabled"
@@ -41,6 +45,8 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "080E06114495234C"
 			rewards: [{
 				auto: "enabled"
@@ -57,6 +63,8 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "74677180DBB925E1"
 			rewards: [{
 				auto: "enabled"
@@ -73,6 +81,8 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "7A08BF49DAE900EB"
 			rewards: [{
 				auto: "enabled"
@@ -89,6 +99,8 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "6EFDFA40A927DA64"
 			rewards: [{
 				auto: "enabled"
@@ -105,6 +117,8 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "502585DE98E9C746"
 			rewards: [{
 				auto: "enabled"
@@ -121,6 +135,8 @@
 			y: 1.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "1F0AFE84F64FFD54"
 			rewards: [{
 				auto: "enabled"
@@ -137,6 +153,8 @@
 			y: 1.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "6A64ECA14DC127C7"
 			rewards: [{
 				auto: "enabled"
@@ -153,6 +171,8 @@
 			y: 1.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "6EE7F44E34C8C09A"
 			rewards: [{
 				auto: "enabled"
@@ -169,6 +189,8 @@
 			y: 1.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "62821E070CBD8312"
 			rewards: [{
 				auto: "enabled"
@@ -185,6 +207,8 @@
 			y: 1.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "22F6405431B17B3B"
 			rewards: [{
 				auto: "enabled"
@@ -201,6 +225,8 @@
 			y: 1.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "0809A9237F05205A"
 			rewards: [{
 				auto: "enabled"
@@ -217,6 +243,8 @@
 			y: 2.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "23E18DF66D72C690"
 			rewards: [{
 				auto: "enabled"
@@ -233,6 +261,8 @@
 			y: 2.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "384A5D41F300A0BC"
 			rewards: [{
 				auto: "enabled"
@@ -249,6 +279,8 @@
 			y: 2.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "0E54B87EA3337D21"
 			rewards: [{
 				auto: "enabled"
@@ -265,6 +297,8 @@
 			y: 2.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "69CD2E4184EEF711"
 			rewards: [{
 				auto: "enabled"
@@ -281,6 +315,8 @@
 			y: 2.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "7FC1CFCAF17BC8EE"
 			rewards: [{
 				auto: "enabled"
@@ -297,6 +333,8 @@
 			y: 2.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "1ADB42F6FFEEEE7D"
 			rewards: [{
 				auto: "enabled"
@@ -313,6 +351,8 @@
 			y: 3.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "07BD2E9F50B23F01"
 			rewards: [{
 				auto: "enabled"
@@ -329,6 +369,8 @@
 			y: 3.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "261CC110652A68E2"
 			rewards: [{
 				auto: "enabled"
@@ -345,6 +387,8 @@
 			y: 3.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "1E5AD04F7E99FDF4"
 			rewards: [{
 				auto: "enabled"
@@ -361,6 +405,8 @@
 			y: 3.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "2443AADE1565FDEB"
 			rewards: [{
 				auto: "enabled"
@@ -377,6 +423,8 @@
 			y: 3.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "57FFE612A60C7125"
 			rewards: [{
 				auto: "enabled"
@@ -393,6 +441,8 @@
 			y: 3.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "3536160081F124BA"
 			rewards: [{
 				auto: "enabled"
@@ -409,6 +459,8 @@
 			y: 4.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "2AD4E1B8051C38F9"
 			rewards: [{
 				auto: "enabled"
@@ -425,6 +477,8 @@
 			y: 4.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "54F4965D87C8F5C7"
 			rewards: [{
 				auto: "enabled"
@@ -441,6 +495,8 @@
 			y: 4.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "00B3C432B1405102"
 			rewards: [{
 				auto: "enabled"
@@ -457,6 +513,8 @@
 			y: 4.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "6805093097577877"
 			rewards: [{
 				auto: "enabled"
@@ -473,6 +531,8 @@
 			y: 4.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "263F670B1DBAF786"
 			rewards: [{
 				auto: "enabled"

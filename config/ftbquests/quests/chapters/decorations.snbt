@@ -9,6 +9,8 @@
 	quest_links: [ ]
 	quests: [
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "35B4E3F56EC6B92F"
 			rewards: [{
 				auto: "enabled"
@@ -25,6 +27,8 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "3C8C0752427A9F40"
 			rewards: [{
 				auto: "enabled"
@@ -41,6 +45,8 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "79D1F1F80566D863"
 			rewards: [{
 				auto: "enabled"
@@ -57,6 +63,8 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "6952C1269903C924"
 			rewards: [{
 				auto: "enabled"
@@ -73,6 +81,8 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "3840021C61A66920"
 			rewards: [{
 				auto: "enabled"
@@ -89,6 +99,8 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "4DFE0836709E2C2F"
 			rewards: [{
 				auto: "enabled"
@@ -105,6 +117,8 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "500BB807A9D63766"
 			rewards: [{
 				auto: "enabled"
@@ -121,6 +135,8 @@
 			y: 1.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "4D3C02A27DD7175A"
 			rewards: [{
 				auto: "enabled"
@@ -137,6 +153,8 @@
 			y: 1.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "68217C0D2E8E1FC2"
 			rewards: [{
 				auto: "enabled"
@@ -153,6 +171,8 @@
 			y: 1.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "3C1F16D698E6C32D"
 			rewards: [{
 				auto: "enabled"
@@ -169,6 +189,8 @@
 			y: 1.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "0D5923C2A77D8383"
 			rewards: [{
 				auto: "enabled"
@@ -185,6 +207,8 @@
 			y: 1.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "42C7005CD761C32E"
 			rewards: [{
 				auto: "enabled"
@@ -201,6 +225,8 @@
 			y: 1.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "0D74EFF766F3FE68"
 			rewards: [{
 				auto: "enabled"
@@ -217,6 +243,8 @@
 			y: 2.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "01CA69619FDA624D"
 			rewards: [{
 				auto: "enabled"
@@ -233,6 +261,8 @@
 			y: 2.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "52FCFA1BF814AB65"
 			rewards: [{
 				auto: "enabled"
@@ -249,6 +279,8 @@
 			y: 2.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "6D318A1AFA6647FC"
 			rewards: [{
 				auto: "enabled"
@@ -265,6 +297,8 @@
 			y: 2.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "0EB5469731FB6A18"
 			rewards: [{
 				auto: "enabled"
@@ -281,6 +315,8 @@
 			y: 2.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "64FDD37D37935930"
 			rewards: [{
 				auto: "enabled"
@@ -297,6 +333,8 @@
 			y: 2.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "3BFBE54440C2A800"
 			rewards: [{
 				auto: "enabled"
@@ -313,6 +351,8 @@
 			y: 3.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "3CFE2F2DC6878D81"
 			rewards: [{
 				auto: "enabled"
@@ -329,6 +369,8 @@
 			y: 3.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "5CAE300225CC9B2E"
 			rewards: [{
 				auto: "enabled"
@@ -345,6 +387,8 @@
 			y: 3.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "125D5CBBC3ACA4DF"
 			rewards: [{
 				auto: "enabled"
@@ -361,6 +405,8 @@
 			y: 3.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "3A5EEE20FF9C02B6"
 			rewards: [{
 				auto: "enabled"
@@ -377,6 +423,8 @@
 			y: 3.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "41B4FDDA75ADAA05"
 			rewards: [{
 				auto: "enabled"
@@ -393,6 +441,8 @@
 			y: 3.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "50B74E2956F64348"
 			rewards: [{
 				auto: "enabled"
@@ -409,6 +459,8 @@
 			y: 4.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "556EBA769F828CA7"
 			rewards: [{
 				auto: "enabled"
@@ -425,6 +477,8 @@
 			y: 4.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "17258239FBDFAD15"
 			rewards: [{
 				auto: "enabled"
@@ -441,6 +495,8 @@
 			y: 4.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "210DA38DF5516410"
 			rewards: [{
 				auto: "enabled"
@@ -457,6 +513,8 @@
 			y: 4.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "5C72646983E72C09"
 			rewards: [{
 				auto: "enabled"
@@ -473,6 +531,8 @@
 			y: 4.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "7D39CE92C65939BC"
 			rewards: [{
 				auto: "enabled"
@@ -489,6 +549,8 @@
 			y: 4.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "7D0D8BCC4C93743F"
 			rewards: [{
 				auto: "enabled"
@@ -505,6 +567,8 @@
 			y: 5.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "562C6CC61FDF48CB"
 			rewards: [{
 				auto: "enabled"
@@ -521,6 +585,8 @@
 			y: 5.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "6089FFB07712E497"
 			rewards: [{
 				auto: "enabled"
@@ -537,6 +603,8 @@
 			y: 5.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "6A033B7E1E4BAB3A"
 			rewards: [{
 				auto: "enabled"
@@ -553,6 +621,8 @@
 			y: 5.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "691577F303B4DD5B"
 			rewards: [{
 				auto: "enabled"
@@ -569,6 +639,8 @@
 			y: 5.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "04481248365A8821"
 			rewards: [{
 				auto: "enabled"
@@ -585,6 +657,8 @@
 			y: 5.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "60F05BE486088191"
 			rewards: [{
 				auto: "enabled"
@@ -601,6 +675,8 @@
 			y: 6.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "49D9463E1984FC11"
 			rewards: [{
 				auto: "enabled"
@@ -617,6 +693,8 @@
 			y: 6.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "47C901B1BE52A881"
 			rewards: [{
 				auto: "enabled"
@@ -633,6 +711,8 @@
 			y: 6.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "4A58B5D5C3ED828B"
 			rewards: [{
 				auto: "enabled"
@@ -649,6 +729,8 @@
 			y: 6.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "2782073A856EA6CE"
 			rewards: [{
 				auto: "enabled"
@@ -665,6 +747,8 @@
 			y: 6.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "6AED7A4AD031845C"
 			rewards: [{
 				auto: "enabled"
@@ -681,6 +765,8 @@
 			y: 6.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "41BE7B689FE3F459"
 			rewards: [{
 				auto: "enabled"
@@ -697,6 +783,8 @@
 			y: 7.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "08EB629FC5627015"
 			rewards: [{
 				auto: "enabled"
@@ -713,6 +801,8 @@
 			y: 7.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "0B98DEAB6FEBCF93"
 			rewards: [{
 				auto: "enabled"
@@ -729,6 +819,8 @@
 			y: 7.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "2142B906B9C5324B"
 			rewards: [{
 				auto: "enabled"
@@ -745,6 +837,8 @@
 			y: 7.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "1E0035A0BF05847E"
 			rewards: [{
 				auto: "enabled"
@@ -761,6 +855,8 @@
 			y: 7.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "59A8378858032846"
 			rewards: [{
 				auto: "enabled"
@@ -777,6 +873,8 @@
 			y: 7.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "43D096397EED085A"
 			rewards: [{
 				auto: "enabled"
@@ -793,6 +891,8 @@
 			y: 8.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "27C5F6BB2B79B379"
 			rewards: [{
 				auto: "enabled"
@@ -809,6 +909,8 @@
 			y: 8.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "23681F4426E98D65"
 			rewards: [{
 				auto: "enabled"
@@ -825,6 +927,8 @@
 			y: 8.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "3EC982646CD72EF4"
 			rewards: [{
 				auto: "enabled"
@@ -841,6 +945,8 @@
 			y: 8.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "4836CBDCAB018483"
 			rewards: [{
 				auto: "enabled"
@@ -857,6 +963,8 @@
 			y: 8.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "14FB89A910B3BFDE"
 			rewards: [{
 				auto: "enabled"
@@ -873,6 +981,8 @@
 			y: 8.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "0DD908220D01B60E"
 			rewards: [{
 				auto: "enabled"
@@ -889,6 +999,8 @@
 			y: 9.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "255C806CC38C3DE4"
 			rewards: [{
 				auto: "enabled"
@@ -905,6 +1017,8 @@
 			y: 9.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "6CC648109FD79598"
 			rewards: [{
 				auto: "enabled"
@@ -921,6 +1035,8 @@
 			y: 9.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "366DE902780D5094"
 			rewards: [{
 				auto: "enabled"
@@ -937,6 +1053,8 @@
 			y: 9.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "3B628C3163686293"
 			rewards: [{
 				auto: "enabled"
@@ -953,6 +1071,8 @@
 			y: 9.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "50C91E0050192EE9"
 			rewards: [{
 				auto: "enabled"
@@ -969,6 +1089,8 @@
 			y: 9.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "1200D11ED6F38F05"
 			rewards: [{
 				auto: "enabled"
@@ -985,6 +1107,8 @@
 			y: 10.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "60293E9A47FCC47D"
 			rewards: [{
 				auto: "enabled"
@@ -1001,6 +1125,8 @@
 			y: 10.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "2A54D505F6D71DAC"
 			rewards: [{
 				auto: "enabled"
@@ -1017,6 +1143,8 @@
 			y: 10.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "035741209F22BDDB"
 			rewards: [{
 				auto: "enabled"
@@ -1033,6 +1161,8 @@
 			y: 10.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "084E2E95B9679FDD"
 			rewards: [{
 				auto: "enabled"
@@ -1049,6 +1179,8 @@
 			y: 10.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "1AAFAA7F588BEAC3"
 			rewards: [{
 				auto: "enabled"
@@ -1065,6 +1197,8 @@
 			y: 10.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "340DF1B6DC710E29"
 			rewards: [{
 				auto: "enabled"
@@ -1081,6 +1215,8 @@
 			y: 11.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "04405FAEE7FD93B5"
 			rewards: [{
 				auto: "enabled"
@@ -1097,6 +1233,8 @@
 			y: 11.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "30E28A02D13A803B"
 			rewards: [{
 				auto: "enabled"
@@ -1113,6 +1251,8 @@
 			y: 11.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "5694A054B621AAC0"
 			rewards: [{
 				auto: "enabled"
@@ -1129,6 +1269,8 @@
 			y: 11.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "6E8892D8976F84A6"
 			rewards: [{
 				auto: "enabled"
@@ -1145,6 +1287,8 @@
 			y: 11.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "6A7F17790ED70D07"
 			rewards: [{
 				auto: "enabled"
@@ -1161,6 +1305,8 @@
 			y: 11.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "49D29A6C088D5992"
 			rewards: [{
 				auto: "enabled"
@@ -1177,6 +1323,8 @@
 			y: 13.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "5B1DA2E8FD95ED4D"
 			rewards: [{
 				auto: "enabled"
@@ -1193,6 +1341,8 @@
 			y: 13.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "6EC88B0525C2ABF7"
 			rewards: [{
 				auto: "enabled"
@@ -1209,6 +1359,8 @@
 			y: 13.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "188AD2D50FDA5A94"
 			rewards: [{
 				auto: "enabled"
@@ -1225,6 +1377,8 @@
 			y: 13.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "3E13C6D936CC3C15"
 			rewards: [{
 				auto: "enabled"
@@ -1241,6 +1395,8 @@
 			y: 13.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "7209DC58774170EA"
 			rewards: [{
 				auto: "enabled"
@@ -1257,6 +1413,8 @@
 			y: 13.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "0508C4D8394025FC"
 			rewards: [{
 				auto: "enabled"
@@ -1273,6 +1431,8 @@
 			y: 14.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "15852AEA2042C035"
 			rewards: [{
 				auto: "enabled"
@@ -1289,6 +1449,8 @@
 			y: 14.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "76EFBEFA0BF645FD"
 			rewards: [{
 				auto: "enabled"
@@ -1305,6 +1467,8 @@
 			y: 14.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "57B0BBDA09323BE6"
 			rewards: [{
 				auto: "enabled"
@@ -1321,6 +1485,8 @@
 			y: 14.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "5E8F469727E04867"
 			rewards: [{
 				auto: "enabled"
@@ -1337,6 +1503,8 @@
 			y: 14.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "1983C591068D49E4"
 			rewards: [{
 				auto: "enabled"
@@ -1353,6 +1521,8 @@
 			y: 14.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "55649B914B903B0E"
 			rewards: [{
 				auto: "enabled"
@@ -1369,6 +1539,8 @@
 			y: 15.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "2D25A79B64454B2D"
 			rewards: [{
 				auto: "enabled"
@@ -1385,6 +1557,8 @@
 			y: 15.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "3E05AF3FA1233991"
 			rewards: [{
 				auto: "enabled"
@@ -1401,6 +1575,8 @@
 			y: 15.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "7C71672F4B7F4B12"
 			rewards: [{
 				auto: "enabled"
@@ -1417,6 +1593,8 @@
 			y: 15.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "45D38F54D0D783E9"
 			rewards: [{
 				auto: "enabled"
@@ -1433,6 +1611,8 @@
 			y: 15.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "607CAB9E68638E88"
 			rewards: [{
 				auto: "enabled"
@@ -1449,6 +1629,8 @@
 			y: 15.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "3FDE0DD26D138EFD"
 			rewards: [{
 				auto: "enabled"
@@ -1465,6 +1647,8 @@
 			y: 16.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "233B9A48E9D9991E"
 			rewards: [{
 				auto: "enabled"
@@ -1481,6 +1665,8 @@
 			y: 16.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "476E4FC240498C8A"
 			rewards: [{
 				auto: "enabled"
@@ -1497,6 +1683,8 @@
 			y: 16.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "322C5A84DF091A0A"
 			rewards: [{
 				auto: "enabled"
@@ -1513,6 +1701,8 @@
 			y: 16.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "1774F7D1EF53042C"
 			rewards: [{
 				auto: "enabled"
@@ -1529,6 +1719,8 @@
 			y: 16.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "0C8975FC6C820FD1"
 			rewards: [{
 				auto: "enabled"
@@ -1545,6 +1737,8 @@
 			y: 16.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "39E04FFE846A2EE1"
 			rewards: [{
 				auto: "enabled"
@@ -1561,6 +1755,8 @@
 			y: 17.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "0A60B3F82375A309"
 			rewards: [{
 				auto: "enabled"
@@ -1577,6 +1773,8 @@
 			y: 17.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "0AF7CDC7D25E82CF"
 			rewards: [{
 				auto: "enabled"
@@ -1593,6 +1791,8 @@
 			y: 17.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "64875481A03745E1"
 			rewards: [{
 				auto: "enabled"
@@ -1609,6 +1809,8 @@
 			y: 17.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "2A9A12C8700AE921"
 			rewards: [{
 				auto: "enabled"
@@ -1625,6 +1827,8 @@
 			y: 17.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "76B99F2E8F6EFC61"
 			rewards: [{
 				auto: "enabled"
@@ -1641,6 +1845,8 @@
 			y: 17.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "6F7CE6BE9366C616"
 			rewards: [{
 				auto: "enabled"
@@ -1657,6 +1863,8 @@
 			y: 18.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "55EE864BC9AF8E8F"
 			rewards: [{
 				auto: "enabled"
@@ -1673,6 +1881,8 @@
 			y: 18.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "02AE363F09EAC55C"
 			rewards: [{
 				auto: "enabled"
@@ -1689,6 +1899,8 @@
 			y: 18.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "00717A3DBF193C9B"
 			rewards: [{
 				auto: "enabled"
@@ -1705,6 +1917,8 @@
 			y: 18.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "78B043CCC8855235"
 			rewards: [{
 				auto: "enabled"
@@ -1721,6 +1935,8 @@
 			y: 18.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "2547A98198CB7C8F"
 			rewards: [{
 				auto: "enabled"
@@ -1737,6 +1953,8 @@
 			y: 18.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "026537C0B498C22D"
 			rewards: [{
 				auto: "enabled"
@@ -1753,6 +1971,8 @@
 			y: 19.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "4B1B176AEBAF5596"
 			rewards: [{
 				auto: "enabled"
@@ -1769,6 +1989,8 @@
 			y: 19.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "28483C814885659F"
 			rewards: [{
 				auto: "enabled"
@@ -1785,6 +2007,8 @@
 			y: 19.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "72AC51832554B64B"
 			rewards: [{
 				auto: "enabled"
@@ -1801,6 +2025,8 @@
 			y: 19.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "5B93C6678153F33F"
 			rewards: [{
 				auto: "enabled"
@@ -1817,6 +2043,8 @@
 			y: 19.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "66256E7CB3A326D2"
 			rewards: [{
 				auto: "enabled"
@@ -1833,6 +2061,8 @@
 			y: 19.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "214A528C6C71B93A"
 			rewards: [{
 				auto: "enabled"
@@ -1849,6 +2079,8 @@
 			y: 20.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "40ECD04E22682849"
 			rewards: [{
 				auto: "enabled"
@@ -1865,6 +2097,8 @@
 			y: 20.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "36468588CBEC51C6"
 			rewards: [{
 				auto: "enabled"
@@ -1881,6 +2115,8 @@
 			y: 20.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "3AF4CEAEBA1EF574"
 			rewards: [{
 				auto: "enabled"
@@ -1897,6 +2133,8 @@
 			y: 20.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "48E33EBB8648E77E"
 			rewards: [{
 				auto: "enabled"
@@ -1913,6 +2151,8 @@
 			y: 20.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "1D1DC5C3D90B86E3"
 			rewards: [{
 				auto: "enabled"
@@ -1929,6 +2169,8 @@
 			y: 20.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "0942C0C8BBE9C2FC"
 			rewards: [{
 				auto: "enabled"
@@ -1945,6 +2187,8 @@
 			y: 21.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "7F774A9DF59D4174"
 			rewards: [{
 				auto: "enabled"
@@ -1961,6 +2205,8 @@
 			y: 21.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "1E3E789036D5B559"
 			rewards: [{
 				auto: "enabled"
@@ -1977,6 +2223,8 @@
 			y: 21.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "7E49AE55A5687D10"
 			rewards: [{
 				auto: "enabled"
@@ -1993,6 +2241,8 @@
 			y: 21.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "436F86BE7562AAC6"
 			rewards: [{
 				auto: "enabled"
@@ -2009,6 +2259,8 @@
 			y: 21.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "614A8F30588DC192"
 			rewards: [{
 				auto: "enabled"
@@ -2025,6 +2277,8 @@
 			y: 21.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "5B8D8F7C2895670A"
 			rewards: [{
 				auto: "enabled"
@@ -2041,6 +2295,8 @@
 			y: 22.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "50EB0369D65F8915"
 			rewards: [{
 				auto: "enabled"
@@ -2057,6 +2313,8 @@
 			y: 22.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "666B34D6AC31F81C"
 			rewards: [{
 				auto: "enabled"
@@ -2073,6 +2331,8 @@
 			y: 22.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "10187BDC91BDE722"
 			rewards: [{
 				auto: "enabled"
@@ -2089,6 +2349,8 @@
 			y: 22.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "77E50CCD4B4A11FB"
 			rewards: [{
 				auto: "enabled"
@@ -2105,6 +2367,8 @@
 			y: 22.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "11AED81B45B3A524"
 			rewards: [{
 				auto: "enabled"
@@ -2121,6 +2385,8 @@
 			y: 22.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "3669D9BD4F97C8C5"
 			rewards: [{
 				auto: "enabled"
@@ -2137,6 +2403,8 @@
 			y: 23.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "4394DD8D94169594"
 			rewards: [{
 				auto: "enabled"
@@ -2153,6 +2421,8 @@
 			y: 23.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "1DC038A2449F2711"
 			rewards: [{
 				auto: "enabled"
@@ -2169,6 +2439,8 @@
 			y: 23.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "09C35EF05133E11F"
 			rewards: [{
 				auto: "enabled"
@@ -2185,6 +2457,8 @@
 			y: 23.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "44D22F85082B5628"
 			rewards: [{
 				auto: "enabled"
@@ -2201,6 +2475,8 @@
 			y: 23.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "58DF859899B99264"
 			rewards: [{
 				auto: "enabled"
@@ -2217,6 +2493,8 @@
 			y: 23.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "26D50450773CD3DF"
 			rewards: [{
 				auto: "enabled"
@@ -2233,6 +2511,8 @@
 			y: 24.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "099C00189EF5E9B8"
 			rewards: [{
 				auto: "enabled"
@@ -2249,6 +2529,8 @@
 			y: 24.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "399080A23FEDA01C"
 			rewards: [{
 				auto: "enabled"
@@ -2265,6 +2547,8 @@
 			y: 24.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "47FEB2FE3BC72B0A"
 			rewards: [{
 				auto: "enabled"
@@ -2281,6 +2565,8 @@
 			y: 24.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "6FB8715BC8595927"
 			rewards: [{
 				auto: "enabled"
@@ -2297,6 +2583,8 @@
 			y: 24.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "78C5DB914A32F386"
 			rewards: [{
 				auto: "enabled"
@@ -2313,6 +2601,8 @@
 			y: 24.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "460C412B10FD7999"
 			rewards: [{
 				auto: "enabled"
@@ -2329,6 +2619,8 @@
 			y: 26.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "2E79977FE28D489F"
 			rewards: [{
 				auto: "enabled"
@@ -2345,6 +2637,8 @@
 			y: 26.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "4DC84F657C6479BD"
 			rewards: [{
 				auto: "enabled"
@@ -2361,6 +2655,8 @@
 			y: 26.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "4C5A2711C00B5C7B"
 			rewards: [{
 				auto: "enabled"
@@ -2377,6 +2673,8 @@
 			y: 26.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "4565314AECBF2DE5"
 			rewards: [{
 				auto: "enabled"
@@ -2393,6 +2691,8 @@
 			y: 26.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "195A1E75045BFE47"
 			rewards: [{
 				auto: "enabled"
@@ -2409,6 +2709,8 @@
 			y: 26.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "10F7D1D64B07DA17"
 			rewards: [{
 				auto: "enabled"
@@ -2425,6 +2727,8 @@
 			y: 27.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "636D39F7FE39947D"
 			rewards: [{
 				auto: "enabled"
@@ -2441,6 +2745,8 @@
 			y: 27.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "6A47EAF40C7EDEA0"
 			rewards: [{
 				auto: "enabled"
@@ -2457,6 +2763,8 @@
 			y: 27.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "1A3543421B023D99"
 			rewards: [{
 				auto: "enabled"
@@ -2473,6 +2781,8 @@
 			y: 27.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "2E3120C76F4ADE43"
 			rewards: [{
 				auto: "enabled"
@@ -2489,6 +2799,8 @@
 			y: 27.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "48C3C29E7A797361"
 			rewards: [{
 				auto: "enabled"
@@ -2505,6 +2817,8 @@
 			y: 27.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "403E5AAC6CC07808"
 			rewards: [{
 				auto: "enabled"
@@ -2521,6 +2835,8 @@
 			y: 28.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "794714A6A1A6DE5B"
 			rewards: [{
 				auto: "enabled"
@@ -2537,6 +2853,8 @@
 			y: 28.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "085AE6B9093DC0AD"
 			rewards: [{
 				auto: "enabled"
@@ -2553,6 +2871,8 @@
 			y: 28.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "3B9A79CFEE681496"
 			rewards: [{
 				auto: "enabled"
@@ -2569,6 +2889,8 @@
 			y: 28.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "2D0BC7551F076126"
 			rewards: [{
 				auto: "enabled"
@@ -2585,6 +2907,8 @@
 			y: 28.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "7985B3423F85FAFB"
 			rewards: [{
 				auto: "enabled"
@@ -2601,6 +2925,8 @@
 			y: 28.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "79CFFB472342D138"
 			rewards: [{
 				auto: "enabled"
@@ -2617,6 +2943,8 @@
 			y: 29.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "3BC7945B49F0DA54"
 			rewards: [{
 				auto: "enabled"
@@ -2633,6 +2961,8 @@
 			y: 29.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "691B15E4BDFB1311"
 			rewards: [{
 				auto: "enabled"
@@ -2649,6 +2979,8 @@
 			y: 29.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "0F564009FF417D16"
 			rewards: [{
 				auto: "enabled"
@@ -2665,6 +2997,8 @@
 			y: 29.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "5D9483C341EC21D7"
 			rewards: [{
 				auto: "enabled"
@@ -2681,6 +3015,8 @@
 			y: 29.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "28EAB97B8684EA41"
 			rewards: [{
 				auto: "enabled"
@@ -2697,6 +3033,8 @@
 			y: 29.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "22714B8A30FEBA24"
 			rewards: [{
 				auto: "enabled"
@@ -2713,6 +3051,8 @@
 			y: 30.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "7E0DBAD544A6D9F5"
 			rewards: [{
 				auto: "enabled"
@@ -2729,6 +3069,8 @@
 			y: 30.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "7064C09311195887"
 			rewards: [{
 				auto: "enabled"
@@ -2745,6 +3087,8 @@
 			y: 30.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "7873AF42BFB927FD"
 			rewards: [{
 				auto: "enabled"
@@ -2761,6 +3105,8 @@
 			y: 30.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "255CB0BD413FD422"
 			rewards: [{
 				auto: "enabled"
@@ -2777,6 +3123,8 @@
 			y: 30.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "1A27D0D3198BFF0B"
 			rewards: [{
 				auto: "enabled"
@@ -2793,6 +3141,8 @@
 			y: 30.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "31DB782A0DC35655"
 			rewards: [{
 				auto: "enabled"
@@ -2809,6 +3159,8 @@
 			y: 31.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "2796E1FF7F2A9F3D"
 			rewards: [{
 				auto: "enabled"
@@ -2825,6 +3177,8 @@
 			y: 31.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "7EB7B88EA4F2E353"
 			rewards: [{
 				auto: "enabled"
@@ -2841,6 +3195,8 @@
 			y: 31.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "1FDD9B0F99256E79"
 			rewards: [{
 				auto: "enabled"
@@ -2857,6 +3213,8 @@
 			y: 31.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "7B51ECCC81AB449D"
 			rewards: [{
 				auto: "enabled"
@@ -2873,6 +3231,8 @@
 			y: 31.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "0E29ECE159586947"
 			rewards: [{
 				auto: "enabled"
@@ -2889,6 +3249,8 @@
 			y: 31.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "143561E9CE620255"
 			rewards: [{
 				auto: "enabled"
@@ -2905,6 +3267,8 @@
 			y: 32.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "5879B30A48087476"
 			rewards: [{
 				auto: "enabled"
@@ -2921,6 +3285,8 @@
 			y: 32.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "596EBC318D7E1466"
 			rewards: [{
 				auto: "enabled"
@@ -2937,6 +3303,8 @@
 			y: 32.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "16EC985B91245A8F"
 			rewards: [{
 				auto: "enabled"
@@ -2953,6 +3321,8 @@
 			y: 32.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "6BD76B22E131272B"
 			rewards: [{
 				auto: "enabled"
@@ -2969,6 +3339,8 @@
 			y: 32.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "42EBD2C965451737"
 			rewards: [{
 				auto: "enabled"
@@ -2985,6 +3357,8 @@
 			y: 32.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "38474CC74834E886"
 			rewards: [{
 				auto: "enabled"
@@ -3001,6 +3375,8 @@
 			y: 33.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "183DE94E20B6E996"
 			rewards: [{
 				auto: "enabled"
@@ -3017,6 +3393,8 @@
 			y: 33.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "127A653BD5267D9F"
 			rewards: [{
 				auto: "enabled"
@@ -3033,6 +3411,8 @@
 			y: 33.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "47829FD6F663235C"
 			rewards: [{
 				auto: "enabled"
@@ -3049,6 +3429,8 @@
 			y: 33.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "61D4CDB86902F92B"
 			rewards: [{
 				auto: "enabled"
@@ -3065,6 +3447,8 @@
 			y: 33.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "31408409D739258D"
 			rewards: [{
 				auto: "enabled"
@@ -3081,6 +3465,8 @@
 			y: 33.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "50712BC2458B30E7"
 			rewards: [{
 				auto: "enabled"
@@ -3097,6 +3483,8 @@
 			y: 34.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "5CF6116C4B17725F"
 			rewards: [{
 				auto: "enabled"
@@ -3113,6 +3501,8 @@
 			y: 34.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "06345D3B0D71F5D7"
 			rewards: [{
 				auto: "enabled"
@@ -3129,6 +3519,8 @@
 			y: 34.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "17DB4D7BD0990A4F"
 			rewards: [{
 				auto: "enabled"
@@ -3145,6 +3537,8 @@
 			y: 34.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "3D172323E2F3E3E0"
 			rewards: [{
 				auto: "enabled"
@@ -3161,6 +3555,8 @@
 			y: 34.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "766CABE0E51ECF2A"
 			rewards: [{
 				auto: "enabled"
@@ -3177,6 +3573,8 @@
 			y: 34.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "325C7C9F49320F59"
 			rewards: [{
 				auto: "enabled"
@@ -3193,6 +3591,8 @@
 			y: 35.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "39056A97283BF517"
 			rewards: [{
 				auto: "enabled"
@@ -3209,6 +3609,8 @@
 			y: 35.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "75197EA9F6481C7E"
 			rewards: [{
 				auto: "enabled"
@@ -3225,6 +3627,8 @@
 			y: 35.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "74AAA73A52858A19"
 			rewards: [{
 				auto: "enabled"
@@ -3241,6 +3645,8 @@
 			y: 35.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "3C53DBC3E32571FF"
 			rewards: [{
 				auto: "enabled"
@@ -3257,6 +3663,8 @@
 			y: 35.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "149C50D7088A71EF"
 			rewards: [{
 				auto: "enabled"
@@ -3273,6 +3681,8 @@
 			y: 35.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "05949751A71D1C7F"
 			rewards: [{
 				auto: "enabled"
@@ -3289,6 +3699,8 @@
 			y: 36.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "5E1697532CD8F2AD"
 			rewards: [{
 				auto: "enabled"
@@ -3305,6 +3717,8 @@
 			y: 36.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "1A7BA5A9A70DF2E7"
 			rewards: [{
 				auto: "enabled"
@@ -3321,6 +3735,8 @@
 			y: 36.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "010AEC7239C85ED1"
 			rewards: [{
 				auto: "enabled"
@@ -3337,6 +3753,8 @@
 			y: 36.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "34FFF3D5A54186AA"
 			rewards: [{
 				auto: "enabled"
@@ -3353,6 +3771,8 @@
 			y: 36.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "1E242974B0A1EEFB"
 			rewards: [{
 				auto: "enabled"
@@ -3369,6 +3789,8 @@
 			y: 36.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "611EC13710E4006C"
 			rewards: [{
 				auto: "enabled"
@@ -3385,6 +3807,8 @@
 			y: 37.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "3033624C9E73B8BC"
 			rewards: [{
 				auto: "enabled"
@@ -3401,6 +3825,8 @@
 			y: 37.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "1DD48B2BAF46AF57"
 			rewards: [{
 				auto: "enabled"
@@ -3417,6 +3843,8 @@
 			y: 37.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "05AB1F72985A197E"
 			rewards: [{
 				auto: "enabled"
@@ -3433,6 +3861,8 @@
 			y: 37.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "2EFAD01B9B5A49B8"
 			rewards: [{
 				auto: "enabled"
@@ -3449,6 +3879,8 @@
 			y: 37.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "339F847EF2CE743B"
 			rewards: [{
 				auto: "enabled"
@@ -3465,6 +3897,8 @@
 			y: 37.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "590D88FBBDD3631B"
 			rewards: [{
 				auto: "enabled"
@@ -3481,6 +3915,8 @@
 			y: 39.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "4D92098BF33CDD72"
 			rewards: [{
 				auto: "enabled"
@@ -3497,6 +3933,8 @@
 			y: 39.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "74D7E35A6AA65141"
 			rewards: [{
 				auto: "enabled"
@@ -3513,6 +3951,8 @@
 			y: 39.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "476E56DA74304092"
 			rewards: [{
 				auto: "enabled"
@@ -3529,6 +3969,8 @@
 			y: 39.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "0D7FE9B1EA9D47BF"
 			rewards: [{
 				auto: "enabled"
@@ -3545,6 +3987,8 @@
 			y: 39.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "1D3159081BD51752"
 			rewards: [{
 				auto: "enabled"
@@ -3561,6 +4005,8 @@
 			y: 39.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "420B1917175890BD"
 			rewards: [{
 				auto: "enabled"
@@ -3577,6 +4023,8 @@
 			y: 40.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "15052763434B9D96"
 			rewards: [{
 				auto: "enabled"
@@ -3593,6 +4041,8 @@
 			y: 40.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "6BBC9FB23B0F2D66"
 			rewards: [{
 				auto: "enabled"
@@ -3609,6 +4059,8 @@
 			y: 40.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "744F5CA663B42AF0"
 			rewards: [{
 				auto: "enabled"
@@ -3625,6 +4077,8 @@
 			y: 40.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "53C2E66E7ABBB696"
 			rewards: [{
 				auto: "enabled"
@@ -3641,6 +4095,8 @@
 			y: 40.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "101B1BD3EFCCC77B"
 			rewards: [{
 				auto: "enabled"
@@ -3657,6 +4113,8 @@
 			y: 40.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "54002416794EFBD7"
 			rewards: [{
 				auto: "enabled"
@@ -3673,6 +4131,8 @@
 			y: 41.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "359CC65428E0680E"
 			rewards: [{
 				auto: "enabled"
@@ -3689,6 +4149,8 @@
 			y: 41.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "303EB2BDB3B18DC2"
 			rewards: [{
 				auto: "enabled"
@@ -3705,6 +4167,8 @@
 			y: 41.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "47FB138363D829E3"
 			rewards: [{
 				auto: "enabled"
@@ -3721,6 +4185,8 @@
 			y: 41.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "0EE3011AB5E0B727"
 			rewards: [{
 				auto: "enabled"
@@ -3737,6 +4203,8 @@
 			y: 41.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "0EAECE848B340A4E"
 			rewards: [{
 				auto: "enabled"
@@ -3753,6 +4221,8 @@
 			y: 41.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "00A82289FABF868E"
 			rewards: [{
 				auto: "enabled"
@@ -3769,6 +4239,8 @@
 			y: 42.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "382AC21D0E018BA3"
 			rewards: [{
 				auto: "enabled"
@@ -3785,6 +4257,8 @@
 			y: 42.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "7546C3A01A6BF772"
 			rewards: [{
 				auto: "enabled"
@@ -3801,6 +4275,8 @@
 			y: 42.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "0258E44125856DD0"
 			rewards: [{
 				auto: "enabled"
@@ -3817,6 +4293,8 @@
 			y: 42.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "516B8E9C5B8704A0"
 			rewards: [{
 				auto: "enabled"
@@ -3833,6 +4311,8 @@
 			y: 42.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "3B83A1040BC0DEE4"
 			rewards: [{
 				auto: "enabled"
@@ -3849,6 +4329,8 @@
 			y: 42.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "26BA7A3DEC5779E1"
 			rewards: [{
 				auto: "enabled"
@@ -3865,6 +4347,8 @@
 			y: 43.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "6A788FEC86DA2E67"
 			rewards: [{
 				auto: "enabled"
@@ -3881,6 +4365,8 @@
 			y: 43.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "4CDD3CB153388B18"
 			rewards: [{
 				auto: "enabled"
@@ -3897,6 +4383,8 @@
 			y: 43.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "744B900ED6679E5C"
 			rewards: [{
 				auto: "enabled"
@@ -3913,6 +4401,8 @@
 			y: 43.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "287477CAEFDFF12A"
 			rewards: [{
 				auto: "enabled"
@@ -3929,6 +4419,8 @@
 			y: 43.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "620FE4D44EF11B9D"
 			rewards: [{
 				auto: "enabled"
@@ -3945,6 +4437,8 @@
 			y: 43.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "57F0F1571E6E9460"
 			rewards: [{
 				auto: "enabled"
@@ -3961,6 +4455,8 @@
 			y: 44.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "2919EE34F15376E7"
 			rewards: [{
 				auto: "enabled"
@@ -3977,6 +4473,8 @@
 			y: 44.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "20DB85D692E1860D"
 			rewards: [{
 				auto: "enabled"
@@ -3993,6 +4491,8 @@
 			y: 44.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "5C93947D303B8C23"
 			rewards: [{
 				auto: "enabled"
@@ -4009,6 +4509,8 @@
 			y: 44.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "5FE289CC686531D0"
 			rewards: [{
 				auto: "enabled"
@@ -4025,6 +4527,8 @@
 			y: 44.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "11D93719AE7BEB58"
 			rewards: [{
 				auto: "enabled"
@@ -4041,6 +4545,8 @@
 			y: 44.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "26598731088607D8"
 			rewards: [{
 				auto: "enabled"
@@ -4057,6 +4563,8 @@
 			y: 45.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "6B1E21AE84411147"
 			rewards: [{
 				auto: "enabled"
@@ -4073,6 +4581,8 @@
 			y: 45.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "7016B95BC5F46FB6"
 			rewards: [{
 				auto: "enabled"
@@ -4089,6 +4599,8 @@
 			y: 45.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "47139E846D32743D"
 			rewards: [{
 				auto: "enabled"
@@ -4105,6 +4617,8 @@
 			y: 45.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "67F18A62F3C9CCE4"
 			rewards: [{
 				auto: "enabled"
@@ -4121,6 +4635,8 @@
 			y: 45.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "4163FED47E0C9587"
 			rewards: [{
 				auto: "enabled"
@@ -4137,6 +4653,8 @@
 			y: 45.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "6BD4FCFF20B4CBBF"
 			rewards: [{
 				auto: "enabled"
@@ -4153,6 +4671,8 @@
 			y: 46.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "77BE86750DA8200F"
 			rewards: [{
 				auto: "enabled"
@@ -4169,6 +4689,8 @@
 			y: 46.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "122CB3CDC476BCEA"
 			rewards: [{
 				auto: "enabled"
@@ -4185,6 +4707,8 @@
 			y: 46.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "6D40F4A29EFAE404"
 			rewards: [{
 				auto: "enabled"
@@ -4201,6 +4725,8 @@
 			y: 46.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "6B60B2E7C1CF4C98"
 			rewards: [{
 				auto: "enabled"
@@ -4217,6 +4743,8 @@
 			y: 46.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "1F5D157DD09F70E3"
 			rewards: [{
 				auto: "enabled"
@@ -4233,6 +4761,8 @@
 			y: 46.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "4FE62A1F2789305F"
 			rewards: [{
 				auto: "enabled"
@@ -4249,6 +4779,8 @@
 			y: 47.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "56271DCBD64F326A"
 			rewards: [{
 				auto: "enabled"
@@ -4265,6 +4797,8 @@
 			y: 47.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "68E56EBEBBBC146E"
 			rewards: [{
 				auto: "enabled"
@@ -4281,6 +4815,8 @@
 			y: 47.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "05D87059445B9077"
 			rewards: [{
 				auto: "enabled"
@@ -4297,6 +4833,8 @@
 			y: 47.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "77FA7B170D545CC4"
 			rewards: [{
 				auto: "enabled"
@@ -4313,6 +4851,8 @@
 			y: 47.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "32E4CCA940EFD62D"
 			rewards: [{
 				auto: "enabled"
@@ -4329,6 +4869,8 @@
 			y: 47.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "1EB9F83E94C05EC3"
 			rewards: [{
 				auto: "enabled"
@@ -4345,6 +4887,8 @@
 			y: 48.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "4BB10CF50D30793B"
 			rewards: [{
 				auto: "enabled"
@@ -4361,6 +4905,8 @@
 			y: 48.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "0A976CF86CBC6CC9"
 			rewards: [{
 				auto: "enabled"
@@ -4377,6 +4923,8 @@
 			y: 48.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "7DAC2447FEBFAF06"
 			rewards: [{
 				auto: "enabled"
@@ -4393,6 +4941,8 @@
 			y: 48.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "2E73D71F02C2A25A"
 			rewards: [{
 				auto: "enabled"
@@ -4409,6 +4959,8 @@
 			y: 48.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "244273719B868C41"
 			rewards: [{
 				auto: "enabled"
@@ -4425,6 +4977,8 @@
 			y: 48.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "3E6FA33297393164"
 			rewards: [{
 				auto: "enabled"
@@ -4441,6 +4995,8 @@
 			y: 49.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "47B28560D803E878"
 			rewards: [{
 				auto: "enabled"
@@ -4457,6 +5013,8 @@
 			y: 49.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "0C79A367A224A023"
 			rewards: [{
 				auto: "enabled"
@@ -4473,6 +5031,8 @@
 			y: 49.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "05FAAF39C008D3B5"
 			rewards: [{
 				auto: "enabled"
@@ -4489,6 +5049,8 @@
 			y: 49.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "022F3124698F171C"
 			rewards: [{
 				auto: "enabled"
@@ -4505,6 +5067,8 @@
 			y: 49.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "6DB5AF358CBBDF65"
 			rewards: [{
 				auto: "enabled"
@@ -4521,6 +5085,8 @@
 			y: 49.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "4CE498935B789191"
 			rewards: [{
 				auto: "enabled"
@@ -4537,6 +5103,8 @@
 			y: 50.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "414CB0B1DC9AB6F9"
 			rewards: [{
 				auto: "enabled"
@@ -4553,6 +5121,8 @@
 			y: 50.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "0FDE1CAEEAA70F66"
 			rewards: [{
 				auto: "enabled"
@@ -4569,6 +5139,8 @@
 			y: 50.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "5763BB76C3B99B05"
 			rewards: [{
 				auto: "enabled"
@@ -4585,6 +5157,8 @@
 			y: 50.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "54E8619E78C14212"
 			rewards: [{
 				auto: "enabled"
@@ -4601,6 +5175,8 @@
 			y: 50.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "3F48E3949533E855"
 			rewards: [{
 				auto: "enabled"
@@ -4617,6 +5193,8 @@
 			y: 50.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "1BA0ECE9EF4DBA5F"
 			rewards: [{
 				auto: "enabled"
@@ -4633,6 +5211,8 @@
 			y: 52.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "4BFBEE4267425348"
 			rewards: [{
 				auto: "enabled"
@@ -4649,6 +5229,8 @@
 			y: 52.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "56F9753E96D720E9"
 			rewards: [{
 				auto: "enabled"
@@ -4665,6 +5247,8 @@
 			y: 52.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "584FCB153E0370AC"
 			rewards: [{
 				auto: "enabled"
@@ -4681,6 +5265,8 @@
 			y: 52.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "7137BAB753DE87DB"
 			rewards: [{
 				auto: "enabled"
@@ -4697,6 +5283,8 @@
 			y: 52.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "5B76A3F2109A60B6"
 			rewards: [{
 				auto: "enabled"
@@ -4713,6 +5301,8 @@
 			y: 52.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "40264DB02151DBD9"
 			rewards: [{
 				auto: "enabled"
@@ -4729,6 +5319,8 @@
 			y: 53.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "1C596E3742218DA8"
 			rewards: [{
 				auto: "enabled"
@@ -4745,6 +5337,8 @@
 			y: 53.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "41D710F428D2EE65"
 			rewards: [{
 				auto: "enabled"
@@ -4761,6 +5355,8 @@
 			y: 53.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "0181C831108931D3"
 			rewards: [{
 				auto: "enabled"
@@ -4777,6 +5373,8 @@
 			y: 53.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "40C07C1949B8C9E1"
 			rewards: [{
 				auto: "enabled"
@@ -4793,6 +5391,8 @@
 			y: 53.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "15EE1F62145A63B1"
 			rewards: [{
 				auto: "enabled"
@@ -4809,6 +5409,8 @@
 			y: 53.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "58D9159515CBE1E3"
 			rewards: [{
 				auto: "enabled"
@@ -4825,6 +5427,8 @@
 			y: 54.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "7E5A7359C14BC5D7"
 			rewards: [{
 				auto: "enabled"
@@ -4841,6 +5445,8 @@
 			y: 54.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "5E2E25D70ECC1E80"
 			rewards: [{
 				auto: "enabled"
@@ -4857,6 +5463,8 @@
 			y: 54.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "0E2AC185BE1F8617"
 			rewards: [{
 				auto: "enabled"
@@ -4873,6 +5481,8 @@
 			y: 54.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "3B7745747DF568EB"
 			rewards: [{
 				auto: "enabled"
@@ -4889,6 +5499,8 @@
 			y: 54.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "754325E848DEC509"
 			rewards: [{
 				auto: "enabled"
@@ -4905,6 +5517,8 @@
 			y: 54.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "561216F8C81DC5A8"
 			rewards: [{
 				auto: "enabled"
@@ -4921,6 +5535,8 @@
 			y: 55.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "62C2911E0E14C132"
 			rewards: [{
 				auto: "enabled"
@@ -4937,6 +5553,8 @@
 			y: 55.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "3A60F35A38F561BC"
 			rewards: [{
 				auto: "enabled"
@@ -4953,6 +5571,8 @@
 			y: 55.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "2AC56351EFC9E1FF"
 			rewards: [{
 				auto: "enabled"
@@ -4969,6 +5589,8 @@
 			y: 55.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "6D73DEA8D8634C2E"
 			rewards: [{
 				auto: "enabled"
@@ -4985,6 +5607,8 @@
 			y: 55.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "295ABD5054A999ED"
 			rewards: [{
 				auto: "enabled"
@@ -5001,6 +5625,8 @@
 			y: 55.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "064C4951ABEC8BAA"
 			rewards: [{
 				auto: "enabled"
@@ -5017,6 +5643,8 @@
 			y: 56.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "1E8A01346379069A"
 			rewards: [{
 				auto: "enabled"
@@ -5033,6 +5661,8 @@
 			y: 56.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "09699DB7B7BA8DA5"
 			rewards: [{
 				auto: "enabled"
@@ -5049,6 +5679,8 @@
 			y: 56.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "06047CE1776A03B8"
 			rewards: [{
 				auto: "enabled"
@@ -5065,6 +5697,8 @@
 			y: 56.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "223DC604E7222D2A"
 			rewards: [{
 				auto: "enabled"
@@ -5081,6 +5715,8 @@
 			y: 56.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "7246B3A8CAAE59D1"
 			rewards: [{
 				auto: "enabled"
@@ -5097,6 +5733,8 @@
 			y: 56.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "1A66CABA35444FAB"
 			rewards: [{
 				auto: "enabled"
@@ -5113,6 +5751,8 @@
 			y: 57.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "12C71EED8AAA6B8B"
 			rewards: [{
 				auto: "enabled"
@@ -5129,6 +5769,8 @@
 			y: 57.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "2BE0210ACBC08DDC"
 			rewards: [{
 				auto: "enabled"
@@ -5145,6 +5787,8 @@
 			y: 57.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "0781E11C8C00AD6F"
 			rewards: [{
 				auto: "enabled"
@@ -5161,6 +5805,8 @@
 			y: 57.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "299C0619CD2AA5B1"
 			rewards: [{
 				auto: "enabled"
@@ -5177,6 +5823,8 @@
 			y: 57.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "50BE88CE7C521A1D"
 			rewards: [{
 				auto: "enabled"
@@ -5193,6 +5841,8 @@
 			y: 57.0d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "3977B1195B6CA799"
 			rewards: [{
 				auto: "enabled"
@@ -5209,6 +5859,8 @@
 			y: 58.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "73441E2BC82549E0"
 			rewards: [{
 				auto: "enabled"
@@ -5225,6 +5877,8 @@
 			y: 58.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "579C6FC57DC84155"
 			rewards: [{
 				auto: "enabled"
@@ -5241,6 +5895,8 @@
 			y: 58.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "737C69A441289682"
 			rewards: [{
 				auto: "enabled"
@@ -5257,6 +5913,8 @@
 			y: 58.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "02BA7323A69FE885"
 			rewards: [{
 				auto: "enabled"
@@ -5273,6 +5931,8 @@
 			y: 58.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "2D20FF4F22BFE958"
 			rewards: [{
 				auto: "enabled"
@@ -5289,6 +5949,8 @@
 			y: 58.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "30A57DD94FD2F926"
 			rewards: [{
 				auto: "enabled"
@@ -5305,6 +5967,8 @@
 			y: 59.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "20EA79AA3F72EEEA"
 			rewards: [{
 				auto: "enabled"
@@ -5321,6 +5985,8 @@
 			y: 59.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "2F04C36692762654"
 			rewards: [{
 				auto: "enabled"
@@ -5337,6 +6003,8 @@
 			y: 59.5d
 		}
 		{
+			dependencies: ["7DA124C26F220448"]
+			hide: true
 			id: "15A9B71BEB9F53A5"
 			rewards: [{
 				auto: "enabled"
