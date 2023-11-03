@@ -10,6 +10,7 @@
 	quests: [
 		{
 			dependencies: ["57BAA8B414FF1F4F"]
+			hide: true
 			id: "13B67DDBCF1019AB"
 			rewards: [
 				{
@@ -23,6 +24,11 @@
 					item: "bakery:small_cooking_pot"
 					type: "item"
 				}
+				{
+					id: "5885ECEC254B19A7"
+					item: "candlelight:stone_bricks_stove"
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "7665EF8315464D09"
@@ -34,6 +40,7 @@
 		}
 		{
 			dependencies: ["7CF35DAE02E4B6C0"]
+			hide: true
 			icon: "minecraft:wheat_seeds"
 			id: "57BAA8B414FF1F4F"
 			rewards: [
@@ -71,12 +78,21 @@
 		}
 		{
 			dependencies: ["13B67DDBCF1019AB"]
+			hide: true
 			id: "5E93B9E15372F454"
-			rewards: [{
-				id: "03A3DEA08A4CCE81"
-				item: "bakery:baker_station"
-				type: "item"
-			}]
+			rewards: [
+				{
+					id: "03A3DEA08A4CCE81"
+					item: "bakery:baker_station"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "2A7CFFF1558B6680"
+					item: "minecraft:brown_mushroom"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "00BB4FE6308A4E0A"
 				item: "bakery:strawberry_jam"
@@ -87,6 +103,7 @@
 		}
 		{
 			dependencies: ["5E93B9E15372F454"]
+			hide: true
 			id: "45CAACDFDC15E734"
 			rewards: [
 				{
@@ -112,6 +129,7 @@
 		{
 			dependencies: ["45CAACDFDC15E734"]
 			description: ["You can put grapes into a Pot and crush them by jumping and walking around in it. Then you can extract Grapejuice by using Empty Winebottles. "]
+			hide: true
 			id: "17FA2E4902522B36"
 			rewards: [
 				{
@@ -141,6 +159,7 @@
 		}
 		{
 			dependencies: ["17FA2E4902522B36"]
+			hide: true
 			id: "65B28F78A7DDBD06"
 			rewards: [
 				{
@@ -186,6 +205,7 @@
 		}
 		{
 			dependencies: ["65B28F78A7DDBD06"]
+			hide: true
 			id: "1DD15BDBBA7B8632"
 			rewards: [{
 				id: "2C8257A7E048B971"
@@ -202,6 +222,7 @@
 		}
 		{
 			dependencies: ["1DD15BDBBA7B8632"]
+			hide: true
 			id: "57889789985B323E"
 			rewards: [
 				{
@@ -225,6 +246,7 @@
 		}
 		{
 			dependencies: ["57889789985B323E"]
+			hide: true
 			id: "48C7E0AF4C9A3C3E"
 			rewards: [
 				{
@@ -254,6 +276,7 @@
 		}
 		{
 			dependencies: ["48C7E0AF4C9A3C3E"]
+			hide: true
 			id: "56C6F1D87FA09C24"
 			rewards: [
 				{
@@ -278,6 +301,7 @@
 		}
 		{
 			dependencies: ["56C6F1D87FA09C24"]
+			hide: true
 			id: "2D0063702FDE9B52"
 			rewards: [{
 				id: "6EAADEDCC13004B0"
@@ -294,6 +318,7 @@
 		}
 		{
 			dependencies: ["2D0063702FDE9B52"]
+			hide: true
 			id: "19DDD6BE0B345083"
 			rewards: [{
 				count: 24
@@ -312,6 +337,7 @@
 		{
 			dependencies: ["13B67DDBCF1019AB"]
 			description: ["You can get a customer by putting down a customer table and have a villager assign it as a workstation."]
+			hide: true
 			icon: "kubejs:miles_ticket"
 			id: "0D0FDA6FBDCEFF3B"
 			tasks: [
@@ -342,14 +368,7 @@
 			id: "7CF35DAE02E4B6C0"
 			rewards: [{
 				id: "0D7A3D2503DBDDEB"
-				item: {
-					Count: 1b
-					id: "sophisticatedbackpacks:backpack"
-					tag: {
-						borderColor: 11546150
-						clothColor: 11546150
-					}
-				}
+				item: "sophisticatedbackpacks:backpack"
 				type: "item"
 			}]
 			tasks: [{
@@ -370,6 +389,7 @@
 		}
 		{
 			dependencies: ["7CF35DAE02E4B6C0"]
+			hide: true
 			icon: "aquaculture:atlantic_cod"
 			id: "51AC164BB0124EBA"
 			rewards: [{
@@ -403,6 +423,7 @@
 		{
 			dependencies: ["0D0FDA6FBDCEFF3B"]
 			description: ["You can buy decorations from wondering traders."]
+			hide: true
 			icon: "moa_decor_toys:lorocian"
 			id: "7DA124C26F220448"
 			rewards: [{
@@ -434,6 +455,39 @@
 			title: "Buying Decorations"
 			x: -0.5d
 			y: -5.0d
+		}
+		{
+			dependencies: ["45CAACDFDC15E734"]
+			description: ["You can cut cakes using a bread knife or other knife like items."]
+			hide: true
+			icon: {
+				Count: 1b
+				id: "bakery:bread_knife"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "7E70AEFEAFB38552"
+			rewards: [{
+				id: "146A115A1BE6C987"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "48767E55A31D5218"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "bakery:knives"
+					}
+				}
+				title: "Any #bakery:knives"
+				type: "item"
+			}]
+			title: "Cutting Cakes"
+			x: 2.5d
+			y: -4.0d
 		}
 	]
 	title: "Farming Crossing 4"

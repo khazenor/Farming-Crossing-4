@@ -9,6 +9,7 @@
 	quest_links: [ ]
 	quests: [
 		{
+			dependencies: ["676DF65F5A137413"]
 			hide: true
 			icon: "kubejs:cert_decocom_wood"
 			id: "79C7500CAA3A99A3"
@@ -158,6 +159,7 @@
 			y: 2.0d
 		}
 		{
+			dependencies: ["51DE3A57213E3166"]
 			hide: true
 			icon: "kubejs:cert_decorare_wood"
 			id: "293263143F2388DC"
@@ -306,6 +308,7 @@
 			y: 3.0d
 		}
 		{
+			dependencies: ["2681228A42DC9096"]
 			hide: true
 			icon: "kubejs:cert_hat_wood"
 			id: "644B450087A604E7"
@@ -455,6 +458,7 @@
 			y: 4.0d
 		}
 		{
+			dependencies: ["550DF6FB7C1D0635"]
 			hide: true
 			icon: "kubejs:cert_ani_wood"
 			id: "394A6E4A27A64754"
@@ -604,6 +608,7 @@
 			y: -1.0d
 		}
 		{
+			dependencies: ["7B42713976A47B91"]
 			hide: true
 			icon: "kubejs:cert_fish_wood"
 			id: "42A6B7DAE4A318FF"
@@ -753,6 +758,7 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["62557396BF6382E3"]
 			hide: true
 			icon: "kubejs:cert_cook_wood"
 			id: "28929EA4688DAE01"
@@ -900,6 +906,78 @@
 			title: "Diamond Chef Certificate"
 			x: 1.0d
 			y: 1.0d
+		}
+		{
+			hide: true
+			id: "550DF6FB7C1D0635"
+			invisible: true
+			tasks: [{
+				id: "4C154375B66C19C2"
+				item: "kubejs:voucher_animal"
+				type: "item"
+			}]
+			x: -4.0d
+			y: -1.0d
+		}
+		{
+			hide: true
+			id: "7B42713976A47B91"
+			invisible: true
+			tasks: [{
+				id: "343EEFE1C8E810A2"
+				item: "kubejs:voucher_fish"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			hide: true
+			id: "62557396BF6382E3"
+			invisible: true
+			tasks: [{
+				id: "0024459B3F701E97"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 1.0d
+		}
+		{
+			hide: true
+			id: "2681228A42DC9096"
+			invisible: true
+			tasks: [{
+				id: "5D5BE4AE95AD6F60"
+				item: "kubejs:voucher_hat"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 4.0d
+		}
+		{
+			hide: true
+			id: "676DF65F5A137413"
+			invisible: true
+			tasks: [{
+				id: "47C606680CFC6647"
+				item: "kubejs:voucher_decoration_common"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 2.0d
+		}
+		{
+			hide: true
+			id: "51DE3A57213E3166"
+			invisible: true
+			tasks: [{
+				id: "4716E886EEB9AC72"
+				item: "kubejs:voucher_decoration_rare"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 3.0d
 		}
 	]
 	title: "Mileage Reward Program"
