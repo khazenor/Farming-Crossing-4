@@ -702,7 +702,7 @@
 			}]
 			title: "Tent Storage"
 			x: -0.5d
-			y: 1.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["4BE09EB12590E2AD"]
@@ -733,7 +733,7 @@
 			}]
 			title: "Medium Storage Expansion"
 			x: 0.5d
-			y: 1.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["5F6FABA9D3E852BF"]
@@ -764,7 +764,7 @@
 			}]
 			title: "Large Storage Expansion"
 			x: 1.5d
-			y: 1.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["5CCBDC6C39923A34"]
@@ -796,7 +796,7 @@
 			}]
 			title: "Mega Storage Expansion"
 			x: 2.5d
-			y: 1.0d
+			y: 2.0d
 		}
 	]
 	title: "Farming Crossing 4"
