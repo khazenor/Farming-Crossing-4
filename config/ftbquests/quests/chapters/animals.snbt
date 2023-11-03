@@ -9,6 +9,7 @@
 	quest_links: [ ]
 	quests: [
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Alligator Snapping Turtle: Big turtles from swamps that defend themselves with their sharp beak."]
 			hide: true
 			id: "05B0531282B9BB66"
@@ -31,6 +32,7 @@
 			y: 16.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Anaconda: Large freshwater snakes that slither around in Swamps to find prey to strangle and swallow whole."]
 			hide: true
 			id: "73209B110C8E9FC0"
@@ -53,6 +55,7 @@
 			y: 16.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Anteater: Big insectivorous mammals that roam Jungles to feed on Leafcutter Ants with their really long tongues."]
 			hide: true
 			id: "125BCAAB6813FEA3"
@@ -75,6 +78,7 @@
 			y: 5.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Bald Eagle: Effective predatory Birds that soar in Windswept Forests and Groves in search of small prey and fish. They can be tamed for Falconry."]
 			hide: true
 			id: "764BDE4A85A0212C"
@@ -97,6 +101,7 @@
 			y: 3.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Yellow Slugs native to Old Growth Taigas."]
 			hide: true
 			id: "1C308A4B365AB2AC"
@@ -119,6 +124,7 @@
 			y: 3.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Bison: Large but territorial herbivorous mammals that graze in flat Plains and can be sheared for their fur."]
 			hide: true
 			id: "2ED02BBA44D59614"
@@ -141,6 +147,7 @@
 			y: 10.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Fish that live deep down in the ocean and become distorted when brought to the surface."]
 			hide: true
 			id: "2580E07174B15B7C"
@@ -163,6 +170,7 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Blue Jay: Birds native to Forests which love shiny things and can even become your partner if fed Glow Berries."]
 			hide: true
 			id: "5A1AA1ED07AA7484"
@@ -185,6 +193,7 @@
 			y: 3.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Bunfungus: Mutated fungal rabbits that can be seen hopping around in Mushroom Fields on very rare occasions."]
 			hide: true
 			id: "45E88C194728946F"
@@ -207,6 +216,7 @@
 			y: 17.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Cachalot Whale: Enormous cetaceans found swimming in most Oceans which use their echolocation to hunt Squid."]
 			hide: true
 			id: "668AED9CC2ECC7B7"
@@ -229,6 +239,7 @@
 			y: -0.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Capuchin Monkey: Small tamable monkeys that live in groups in the jungle and can defend themselves by throwing rocks."]
 			hide: true
 			id: "5535151D93FCD623"
@@ -251,6 +262,7 @@
 			y: 5.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Catfish: Freshwater fish of various shapes and sizes that swim in Rivers and Swamps."]
 			hide: true
 			id: "7F90C6FB89CD568C"
@@ -273,6 +285,7 @@
 			y: 16.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Comb Jelly: Strange colorful Jellyfish-like creatures that slowly drift around in Frozen Oceans during night."]
 			hide: true
 			id: "4D92FA7401F8A0D0"
@@ -295,6 +308,7 @@
 			y: -2.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Crocodile: Big semi-aquatic reptiles from Rivers and Swamps that hunt prey using a death roll attack."]
 			hide: true
 			id: "4E315EFEC06649DE"
@@ -317,6 +331,7 @@
 			y: 15.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Found in forests and plains, but intelligent birds that can be seen trampling crops. They can be tamed to be used as an item sorter."]
 			hide: true
 			id: "04DF7D7AB883119F"
@@ -339,6 +354,7 @@
 			y: 10.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: [
 				"Devil's Hole Pupfish: Extremely rare fish that can only be found in one chunk per world."
 				""
@@ -368,6 +384,7 @@
 			y: 7.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Elephant: Gigantic mammals that majestically roam Savannas in search of Acacia Blossoms."]
 			hide: true
 			id: "4E3594E422D3D48B"
@@ -390,6 +407,7 @@
 			y: 9.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Emu: Big, flightless birds that roam Savannas and Badlands. They are super good at dodging ranged attacks."]
 			hide: true
 			id: "01996FAFC6B37819"
@@ -412,6 +430,7 @@
 			y: 8.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Flutter: Small flower like creatures that inhabit Lush Caves and can be tamed by feeding them different types of flowers."]
 			hide: true
 			id: "057B7EFF4B937A8B"
@@ -434,6 +453,7 @@
 			y: 13.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Flying Fish: Subtropical fish that can leap out of the water and glide if attacked."]
 			hide: true
 			id: "1A5DDE08129D2B74"
@@ -456,6 +476,7 @@
 			y: -1.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Frilled Shark: Small sharks that have mouths filled with incredibly jagged but shiny teeth to hunt prey in the Deepest Oceans."]
 			hide: true
 			id: "3FF2353A1C8EC062"
@@ -478,6 +499,7 @@
 			y: -1.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Gazelle: Small timid antelopes that wander around in Savannas."]
 			hide: true
 			id: "17996CD0F358ED85"
@@ -500,6 +522,7 @@
 			y: 8.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Gelada Monkey: Territorial primates that roam Meadows in groups and feed exclusively on Grass."]
 			hide: true
 			id: "0FEEE61D79ABBEC0"
@@ -522,6 +545,7 @@
 			y: 11.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Giant Squid: Enormous squid that lurk in the Deepest Oceans and sometimes battle with Cachalot Whales."]
 			hide: true
 			id: "0A466B2AA078D778"
@@ -544,6 +568,7 @@
 			y: -1.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Gorilla: Big, strong apes that live in groups commanded by silverbacks in Jungles."]
 			hide: true
 			id: "0B3BE91809B12E7D"
@@ -566,6 +591,7 @@
 			y: 4.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Grizzly Bear: Big, defensive, furry mammals that roam Forests with their cubs and love to eat Honey."]
 			hide: true
 			id: "4C1664B11F7EEEB2"
@@ -588,6 +614,7 @@
 			y: 3.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Hammerhead Shark: Strange sharks that swim in Warm Oceans to hunt for Fish, Squid or any damaged Mob/Player."]
 			hide: true
 			id: "281C2F19E5F4253E"
@@ -610,6 +637,7 @@
 			y: -2.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Hummingbird: Tiny birds native to Flowery Biomes and Jungles that love to pollinate."]
 			hide: true
 			id: "4F6BFC64FA3A844E"
@@ -632,6 +660,7 @@
 			y: 4.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Jerboa: Small nocturnal mammals that hop around Deserts at night in search of Seeds."]
 			hide: true
 			id: "6FCDFEF7D7C65984"
@@ -654,6 +683,7 @@
 			y: 1.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Kangaroo: Big marsupials from Savannas and Badlands that have super powerful legs used for movement and defence."]
 			hide: true
 			id: "4121A3C97363CC0E"
@@ -676,6 +706,7 @@
 			y: 8.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Komodo Dragon: Cannibalistic reptiles that inhabit Sparse Jungles in search of prey."]
 			hide: true
 			id: "72F9A1C4D9A81D24"
@@ -698,6 +729,7 @@
 			y: 5.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Leafcutter Ant: Hard working ants from the jungle that live in huge colonies to collect leaves and create Gongylidia."]
 			hide: true
 			id: "24FBB0FB0702F09A"
@@ -720,6 +752,7 @@
 			y: 5.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Lobster: Common crustaceans that live in coastal waters near Beaches and they pinch attackers as a defence."]
 			hide: true
 			id: "2244C20BF7B5972B"
@@ -742,6 +775,7 @@
 			y: -4.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Maned Wolf: Rare canines that inhabit Savannas and love to eat Fruit."]
 			hide: true
 			id: "508094B0F0FCC2F9"
@@ -764,6 +798,7 @@
 			y: 9.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Mantis Shrimp: Big colorful crustaceans from Warm Oceans and Mangrove Swamps that hunt prey using their extremely powerful fists which can break rock."]
 			hide: true
 			id: "604399AD91C02263"
@@ -786,6 +821,7 @@
 			y: -2.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Mimic Octopus: A clever mollusc that lives in warm oceans. It can camouflage itself and mimic other mobs."]
 			hide: true
 			id: "12AD5909D23D777B"
@@ -808,6 +844,7 @@
 			y: -2.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Moose: Massive creatures that are often seen fighting each other in Snowy Biomes."]
 			hide: true
 			id: "2A58E0EEF8C6BBFE"
@@ -830,6 +867,7 @@
 			y: 14.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Mudskipper: Strange amphibious fish that walk around in the Mud of Mangrove Swamps."]
 			hide: true
 			id: "66CD5B0F435E1196"
@@ -852,6 +890,7 @@
 			y: 16.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Mungus: Odd looking creatures that can be seen with mushrooms growing on them and will also tend to small mushrooms."]
 			hide: true
 			id: "0C2220C0FF56CFD2"
@@ -874,6 +913,7 @@
 			y: 17.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Orca: Large, predatory cetaceans that hunt in groups in Cold and Frozen Oceans."]
 			hide: true
 			id: "3586AE3E69F91237"
@@ -896,6 +936,7 @@
 			y: -2.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Platypus: Strange monotremes from Rivers that have poisonous spurs on their feet to use for defence."]
 			hide: true
 			id: "52F7D8A164A70333"
@@ -918,6 +959,7 @@
 			y: -3.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Potoo: Bizarre, stationary birds that fly around Dark Forests."]
 			hide: true
 			id: "603B2F12CB7D34C4"
@@ -940,6 +982,7 @@
 			y: 2.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Raccoon: Adorable, but annoying, mammals that frequently live in Forest and Plains biomes."]
 			hide: true
 			id: "1F6589A98EE82573"
@@ -962,6 +1005,7 @@
 			y: 11.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Rattlesnake: Small reptiles from Deserts and Badlands that warn potential attackers by rattling their tail. If that doesn't work, they inflict a venomous bite."]
 			hide: true
 			id: "1FCD7A98F5CCBB65"
@@ -984,6 +1028,7 @@
 			y: 1.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Rhinoceros: Strong and tough herbivores that can be found grazing in Savannas."]
 			hide: true
 			id: "79B4FA3973F0AAD8"
@@ -1006,6 +1051,7 @@
 			y: 9.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Roadrunner: Speedy birds that live in Deserts and Badlands in search of prey."]
 			hide: true
 			id: "3D675F46E2C5907F"
@@ -1028,6 +1074,7 @@
 			y: 1.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Seagull: Annoying birds that inhabit Beaches and often steal food from Players."]
 			hide: true
 			id: "145AF3E4DF07D9E7"
@@ -1050,6 +1097,7 @@
 			y: -4.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Seal: Semi-aquatic mammals that rest on Beaches and Icebergs. They can be bartered with Fish."]
 			hide: true
 			id: "032DFF5ADA2C3F57"
@@ -1072,6 +1120,7 @@
 			y: -3.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Shoebill: Strange birds that inhabit Swamps in search of fish and baby Reptiles."]
 			hide: true
 			id: "1199D8DF298F1203"
@@ -1094,6 +1143,7 @@
 			y: 15.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Skunk: Forest creatures that release a foul smell if threatened."]
 			hide: true
 			id: "720471F733468821"
@@ -1116,6 +1166,7 @@
 			y: 2.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Snow Leopard: A skilled hunter that wanders Snowy Mountains and Peaks in search of a meal."]
 			hide: true
 			id: "54049D2BC37F3B6A"
@@ -1138,6 +1189,7 @@
 			y: 14.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Sunbird: Holy birds that soar above the Tallest Mountains and can give a player a blessing, if they get close, or a curse if they attacked it."]
 			hide: true
 			id: "3138CE479C03E1F4"
@@ -1161,6 +1213,7 @@
 			y: 7.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Tasmanian Devil: Devilish marsupials that live in Temperate Forests and hunt small prey using super strong teeth."]
 			hide: true
 			id: "60C528BF27E580DD"
@@ -1183,6 +1236,7 @@
 			y: 2.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Terrapin: Small freshwater turtles that can be seen swimming in Rivers."]
 			hide: true
 			id: "3D49FA9AF957FF25"
@@ -1205,6 +1259,7 @@
 			y: -3.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Tiger: Extremely powerful predators from the Bamboo Jungles that hunt by turning almost invisible and striking at the best possible moment."]
 			hide: true
 			id: "4059516E969CDCEA"
@@ -1227,6 +1282,7 @@
 			y: 4.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Toucan: Birds with massive beaks which eat fruit of the trees in Jungles."]
 			hide: true
 			id: "2BCCC2A2BC46770B"
@@ -1249,6 +1305,7 @@
 			y: 5.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Allays can be found surrounding pillager outposts"]
 			hide: true
 			icon: "minecraft:allay_spawn_egg"
@@ -1272,6 +1329,7 @@
 			y: 7.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["An axolotl is a passive aquatic mob endemic to the lush caves biome that hunts most other aquatic mobs. "]
 			hide: true
 			icon: "minecraft:axolotl_spawn_egg"
@@ -1295,6 +1353,7 @@
 			y: 13.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["A bat is a flying ambient passive mob that spawns in dark areas underground."]
 			hide: true
 			id: "777F22C1CD2721B8"
@@ -1317,6 +1376,7 @@
 			y: 13.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Naturally-generated birch or oak trees have equal chances to generate with a bee nest, depending on the biome"]
 			hide: true
 			id: "6EFB02CAFF70011F"
@@ -1339,6 +1399,7 @@
 			y: 7.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Cats can spawn every 1200 ticks (1 minute). A random player is selected (including spectators) and a random location is chosen 8-32 blocks away from the player horizontally in both directions and at the same height. A cat can spawn if that block is less than 2 chunks from a village with fewer than 5 cats, or inside a swamp hut. "]
 			hide: true
 			id: "30F27E64B61D345B"
@@ -1361,6 +1422,7 @@
 			y: 7.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["A chicken is a passive mob found in grass biomes and the main source of chicken, feathers and eggs. "]
 			hide: true
 			id: "769470FC271516B9"
@@ -1383,6 +1445,7 @@
 			y: 12.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["A cow is a passive mob found in most grassy biomes and a source of leather, beef and milk. "]
 			hide: true
 			id: "5EF20D2F3215C7E3"
@@ -1405,6 +1468,7 @@
 			y: 12.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Dolphins are neutral mobs that live in non-frozen oceans, which grant a speed boost to players that swim near them. "]
 			hide: true
 			id: "566886594591243B"
@@ -1427,6 +1491,7 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["A fox is a passive mob that spawns in taigas, old growth taigas, snowy taigas and mountain groves. "]
 			hide: true
 			id: "7ECFFDB36946A838"
@@ -1449,6 +1514,7 @@
 			y: 14.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: [
 				"A frog is a passive mob found in swamps. "
 				""
@@ -1475,6 +1541,7 @@
 			y: 15.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["The glow squid is an aquatic passive mob found in dark underwater areas, typically in ocean depths, ravines and underground lakes."]
 			hide: true
 			id: "19FD14BFEF79CDF6"
@@ -1497,6 +1564,7 @@
 			y: 13.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Horses spawn in plains and savannas in herds of 2–6."]
 			hide: true
 			id: "34B25C82132101BC"
@@ -1519,6 +1587,7 @@
 			y: 10.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["A llama spawns at a light level 7 or above on grass blocks in savanna plateau,"]
 			hide: true
 			id: "139D2D32232D1426"
@@ -1541,6 +1610,7 @@
 			y: 8.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Ocelots are rare passive mobs found in jungles. "]
 			hide: true
 			id: "49FBCB3B84118D7B"
@@ -1563,6 +1633,7 @@
 			y: 5.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Parrots are rare tameable mobs found in jungles"]
 			hide: true
 			id: "5EA7074530B590D3"
@@ -1585,6 +1656,7 @@
 			y: 4.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["A pig is a common passive mob found in most grass biomes. Pigs are a source of porkchops and can be equipped with a saddle to be driven. "]
 			hide: true
 			id: "01B36E02D4569273"
@@ -1607,6 +1679,7 @@
 			y: 12.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Polar bears are neutral mobs that live in icy biomes. "]
 			hide: true
 			id: "62794BBB18A1308B"
@@ -1629,6 +1702,7 @@
 			y: 14.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Rabbits spawn above grass, snow blocks or sand."]
 			hide: true
 			id: "02722D071C611EAE"
@@ -1651,6 +1725,7 @@
 			y: 12.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Sheep are common passive mobs that supply wool and mutton and are found in many of the grassy biomes. "]
 			hide: true
 			id: "266727D9017FD47E"
@@ -1673,6 +1748,7 @@
 			y: 12.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["A squid is a common passive aquatic mob that spawns in rivers and oceans. "]
 			hide: true
 			id: "0FB3CF416F4D0C5A"
@@ -1695,6 +1771,7 @@
 			y: -1.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["A tadpole is the larval form of the frog. They mature into one of the three frog variants, depending on the biome in which they mature. "]
 			hide: true
 			id: "40DAFF983E2966F3"
@@ -1717,6 +1794,7 @@
 			y: 15.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["A trader llama is a special variant that follows wandering traders. "]
 			hide: true
 			id: "4D144D666EFF0D47"
@@ -1739,6 +1817,7 @@
 			y: 7.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["A turtle is a common passive mob found in beach biomes."]
 			hide: true
 			id: "5E7E5E340910884F"
@@ -1761,6 +1840,7 @@
 			y: -3.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Wolves spawn naturally above grass blocks, dirt, coarse dirt, snow blocks or podzol in forests, taigas, groves, old growth taigas, and snowy taigas, along with all variants of these biomes (with the exception of flower forests)"]
 			hide: true
 			id: "2C34377B3662FC73"
@@ -1783,6 +1863,7 @@
 			y: 2.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["1-3 donkeys spawn in plains and only 1 in savannas. Donkeys also spawn in meadows."]
 			hide: true
 			id: "3A0E38A640553F2C"
@@ -1821,6 +1902,7 @@
 			y: 4.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Mooshrooms are mushroom-covered variants of cows exclusive to the rare mushroom fields biome. "]
 			hide: true
 			id: "438C575EB46A1080"
@@ -1843,6 +1925,7 @@
 			y: 17.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Rain Frog: Small frogs native to Deserts that can change the weather."]
 			hide: true
 			id: "35C05B2043DDFE56"
@@ -1865,6 +1948,7 @@
 			y: 1.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Sugar Glider: Small marsupials found in birch forests that can glide mid-air."]
 			hide: true
 			id: "5B020AB8D14CDE98"
@@ -1887,6 +1971,7 @@
 			y: 3.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["A goat is a neutral mob found in certain mountainous biomes. Goats can jump especially high and ram mobs. They are a source of goat horns and milk. "]
 			hide: true
 			id: "4846ABCBD585104D"
@@ -2253,7 +2338,10 @@
 			y: 12.0d
 		}
 		{
-			dependencies: ["4846ABCBD585104D"]
+			dependencies: [
+				"2D62FBEF18E6ABF6"
+				"4846ABCBD585104D"
+			]
 			icon: "kubejs:miles_ticket"
 			id: "2240F452BFC09731"
 			rewards: [{
@@ -2342,6 +2430,7 @@
 			y: 7.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			hide: true
 			id: "0FD54BFF05600C64"
 			rewards: [{
@@ -2363,6 +2452,7 @@
 			y: 12.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			hide: true
 			id: "1C98DA42FEF17D24"
 			rewards: [{
@@ -2478,6 +2568,7 @@
 			y: -2.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			id: "359BEC4AFEC849CC"
 			rewards: [{
 				auto: "enabled"
@@ -2498,6 +2589,7 @@
 			y: 16.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			id: "50831635A884520C"
 			rewards: [{
 				auto: "enabled"
@@ -2518,6 +2610,7 @@
 			y: 1.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			id: "0571CC0FC40BFD2A"
 			rewards: [{
 				auto: "enabled"
@@ -2538,6 +2631,7 @@
 			y: 10.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			id: "16F90C11BEA27616"
 			rewards: [{
 				auto: "enabled"
@@ -2558,6 +2652,7 @@
 			y: 11.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			id: "32F54B6B57DB6F58"
 			rewards: [{
 				auto: "enabled"
@@ -2578,6 +2673,7 @@
 			y: 10.5d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
 			id: "7F38BFDE8D8AF3A9"
 			rewards: [{
 				auto: "enabled"
