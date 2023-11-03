@@ -2125,8 +2125,8 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "0FBDCDBD1F496CA2"
-				item: "candlelight:broccoli_beef"
+				id: "7E68B9DF8A754E55"
+				item: "candlelight:lettuce_beef"
 				type: "item"
 			}]
 			x: 24.0d
@@ -2159,8 +2159,8 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "155F058D8ADA6E1F"
-				item: "candlelight:pasta_broccoli"
+				id: "6CCBA2CAA9F5DCC2"
+				item: "candlelight:pasta_lettuce"
 				type: "item"
 			}]
 			x: 24.0d
@@ -2251,6 +2251,12 @@
 		{
 			dependencies: ["57889789985B323E"]
 			id: "0EB57E58F62E4875"
+			rewards: [{
+				auto: "enabled"
+				id: "6C966A81F7BDA96D"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
 			tasks: [{
 				id: "135DE03795C4B35F"
 				item: "candlelight:tomato_mozzarella_salad"
@@ -2262,6 +2268,12 @@
 		{
 			dependencies: ["57889789985B323E"]
 			id: "5B7E31FD92662F5B"
+			rewards: [{
+				auto: "enabled"
+				id: "5FCB7C1201DC6905"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
 			tasks: [{
 				id: "212AE80150E178CB"
 				item: "candlelight:veggie_plate"
@@ -2273,7 +2285,14 @@
 		{
 			dependencies: ["57889789985B323E"]
 			id: "45FAAAC3AB5E9B84"
+			rewards: [{
+				auto: "enabled"
+				id: "7BF8E0050B43E704"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
 			tasks: [{
+				icon: "candlelight:lettuce_tomato"
 				id: "39C747D880BEA18B"
 				item: "candlelight:broccoli_tomato"
 				type: "item"
@@ -2284,9 +2303,15 @@
 		{
 			dependencies: ["57889789985B323E"]
 			id: "25E333F978AAAE60"
+			rewards: [{
+				auto: "enabled"
+				id: "5BF425160665909B"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
 			tasks: [{
 				id: "785E17F846FC7048"
-				item: "candlelight:broccoli_salad"
+				item: "candlelight:lettuce_salad"
 				type: "item"
 			}]
 			x: 19.0d
@@ -2295,6 +2320,12 @@
 		{
 			dependencies: ["57889789985B323E"]
 			id: "1BF2447701DB48BC"
+			rewards: [{
+				auto: "enabled"
+				id: "0FF6FF565239BDC6"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
 			tasks: [{
 				id: "3C41B30492D100D4"
 				item: "candlelight:beef_tartare"
@@ -2306,6 +2337,12 @@
 		{
 			dependencies: ["57889789985B323E"]
 			id: "104D7AFABADA64AC"
+			rewards: [{
+				auto: "enabled"
+				id: "5617C006053AA18A"
+				item: "kubejs:voucher_cooking"
+				type: "item"
+			}]
 			tasks: [{
 				id: "68CCD37E86F92599"
 				item: "candlelight:beetroot_salad"
