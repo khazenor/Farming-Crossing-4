@@ -13,8 +13,6 @@
       "minecraft:zombie_villager",
       "minecraft:witch"
     ],
-    "when": "onjoin",
-    "spawner": false,
     "difficulty": "easy",
     "dimension": "minecraft:overworld",
     "result": "deny"
@@ -33,8 +31,6 @@
       "minecraft:zombie_villager",
       "minecraft:witch"
     ],
-    "when": "onjoin",
-    "spawner": false,
     "difficulty": "normal",
     "dimension": "minecraft:overworld",
     "result": "deny"
