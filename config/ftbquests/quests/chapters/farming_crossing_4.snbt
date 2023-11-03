@@ -341,11 +341,12 @@
 			y: -1.0d
 		}
 		{
-			dependencies: ["2D7BAAE0667F927B"]
+			dependencies: ["7CF35DAE02E4B6C0"]
 			description: [""]
 			hide: true
 			icon: "kubejs:miles_ticket"
 			id: "0D0FDA6FBDCEFF3B"
+			invisible: true
 			rewards: [{
 				count: 3
 				id: "3D8BEFCD42D7349A"
@@ -358,8 +359,8 @@
 				type: "item"
 			}]
 			title: "Turning a Profit!"
-			x: -0.5d
-			y: -4.0d
+			x: -2.5d
+			y: -2.0d
 		}
 		{
 			icon: "minecraft:peony"
@@ -387,6 +388,19 @@
 		}
 		{
 			dependencies: ["7CF35DAE02E4B6C0"]
+			description: [
+				"\"Ah, glad you see you are interested in fishing. I've just caught a great tuna recenty and I'm planning on using it for sushi at my restaurant\""
+				""
+				"- Sam the osprey"
+				""
+				"------------"
+				""
+				"You can sell fishes in the crafting table for miles tickets."
+				""
+				"{image:khazenor:textures/aquaculture/fish_tooltip.png width:180 height:70 align:1}"
+				""
+				"{image:khazenor:textures/aquaculture/fish_sell_recipe.png width:180 height:90 align:1}"
+			]
 			hide: true
 			icon: "aquaculture:atlantic_cod"
 			id: "51AC164BB0124EBA"
@@ -451,8 +465,8 @@
 				type: "item"
 			}]
 			title: "Buying Decorations"
-			x: 0.5d
-			y: -4.0d
+			x: -2.5d
+			y: -3.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -555,6 +569,42 @@
 			title: "Furniture Cutting"
 			x: -1.5d
 			y: -1.0d
+		}
+		{
+			dependencies: ["7CF35DAE02E4B6C0"]
+			description: [
+				"\"There are so many animals in this region.  I can't wait to make a field book for all of them!\""
+				""
+				"- Andre the dog"
+				""
+				"------------"
+				""
+				"To complete the animal observation quests, simply look at them while nearby."
+				""
+				"The quests in the Animal Watching Questline are roughly organized by spawning biomes."
+				""
+				"If you like you can use Mob Yoinker or Mob Catcher to build your own zoo!"
+			]
+			hide: true
+			icon: "moa_decor_toys:conejodorado"
+			id: "2D62FBEF18E6ABF6"
+			rewards: [{
+				id: "42C5F4ACECA9060F"
+				item: "minecraft:stripped_oak_log"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "alexsmobs:spawn_egg_mimic_octopus"
+				id: "1AB8B8F4CD9EEDA8"
+				observe_type: 6
+				timer: 0L
+				title: "Observe an Animal"
+				to_observe: "kubejs:all_animals"
+				type: "observation"
+			}]
+			title: "Spotting Animals"
+			x: -1.5d
+			y: -3.0d
 		}
 	]
 	title: "Farming Crossing 4"

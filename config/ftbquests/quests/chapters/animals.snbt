@@ -2571,7 +2571,7 @@
 				observe_type: 5
 				timer: 0L
 				title: "Spot a Wooly Cow"
-				to_observe: "meadow:water_buffalo"
+				to_observe: "meadow:wooly_cow"
 				type: "observation"
 			}]
 			x: -7.0d
