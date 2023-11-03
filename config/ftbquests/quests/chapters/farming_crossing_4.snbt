@@ -632,6 +632,158 @@
 			x: 1.5d
 			y: 0.0d
 		}
+		{
+			dependency_requirement: "one_completed"
+			description: [
+				"After this quest you can now craft your own crafting grid and 1k storage disk! (You might need to rejoin the server/reopen the world for it to show up in JEI)"
+				""
+				"{image:farming_crossing_3:textures/fc3/1k_storage_disk_ticket.png width:180 height:90 align:1}"
+				"(You can purchase storage disk tickets from the market)"
+			]
+			hide: true
+			icon: "refinedstorage:crafting_grid"
+			id: "4BE09EB12590E2AD"
+			rewards: [
+				{
+					id: "586678C5CF230475"
+					item: "refinedstorage:creative_controller"
+					type: "item"
+				}
+				{
+					id: "0445E69A53EA52C5"
+					item: "refinedstorage:crafting_grid"
+					type: "item"
+				}
+				{
+					id: "6E53EDD6152A0408"
+					item: "refinedstorage:disk_drive"
+					type: "item"
+				}
+				{
+					id: "46096FDBB78F5479"
+					item: "refinedstorage:1k_storage_disk"
+					type: "item"
+				}
+				{
+					auto: "invisible"
+					id: "7D9CB893FBC2BB64"
+					ignore_reward_blocking: true
+					stage: "crafting_grid"
+					type: "gamestage"
+				}
+				{
+					auto: "invisible"
+					id: "4A564939D746E4A8"
+					ignore_reward_blocking: true
+					stage: "1k_storage_disk"
+					type: "gamestage"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 32L
+				id: "1EB0C5EA03EF76D5"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			title: "Tent Storage"
+			x: -0.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["4BE09EB12590E2AD"]
+			description: ["After this quest you can now craft your own and 4k storage disk!"]
+			hide: true
+			icon: "refinedstorage:4k_storage_disk"
+			id: "5F6FABA9D3E852BF"
+			rewards: [
+				{
+					id: "6A54F89EF35FD805"
+					item: "refinedstorage:4k_storage_disk"
+					type: "item"
+				}
+				{
+					auto: "invisible"
+					id: "543B029F09BA36B8"
+					ignore_reward_blocking: true
+					stage: "4k_storage_disk"
+					type: "gamestage"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "4F687B63235E35DF"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			title: "Medium Storage Expansion"
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["5F6FABA9D3E852BF"]
+			description: ["After this quest you can now craft your own and 16k storage disk!"]
+			hide: true
+			icon: "refinedstorage:16k_storage_disk"
+			id: "5CCBDC6C39923A34"
+			rewards: [
+				{
+					id: "2F1822AACFB6431B"
+					item: "refinedstorage:16k_storage_disk"
+					type: "item"
+				}
+				{
+					auto: "invisible"
+					id: "75952577EC152C8B"
+					ignore_reward_blocking: true
+					stage: "16k_storage_disk"
+					type: "gamestage"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 288L
+				id: "7734837CCD829ADF"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			title: "Large Storage Expansion"
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["5CCBDC6C39923A34"]
+			description: ["After this quest you can now craft your own and 64k storage disk!"]
+			hide: true
+			icon: "refinedstorage:64k_storage_disk"
+			id: "7E001C08E27916CE"
+			rewards: [
+				{
+					id: "32F25B98C4430CC1"
+					item: "refinedstorage:64k_storage_disk"
+					type: "item"
+				}
+				{
+					auto: "invisible"
+					id: "4000E5C7BA71E044"
+					ignore_reward_blocking: true
+					stage: "64k_storage_disk"
+					type: "gamestage"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 1134L
+				id: "56237E375039A305"
+				item: "kubejs:miles_ticket"
+				title: "1134 Miles Tickets"
+				type: "item"
+			}]
+			title: "Mega Storage Expansion"
+			x: 2.5d
+			y: 1.0d
+		}
 	]
 	title: "Farming Crossing 4"
 }
