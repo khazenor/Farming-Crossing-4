@@ -22,8 +22,8 @@
 				item: "bakery:croissant"
 				type: "item"
 			}]
-			x: -1.0d
-			y: -1.0d
+			x: 0.0d
+			y: -4.0d
 		}
 		{
 			dependencies: ["57BAA8B414FF1F4F"]
@@ -39,8 +39,8 @@
 				item: "bakery:crusty_bread"
 				type: "item"
 			}]
-			x: 0.0d
-			y: -1.0d
+			x: 1.0d
+			y: -4.0d
 		}
 		{
 			dependencies: ["57BAA8B414FF1F4F"]
@@ -56,8 +56,8 @@
 				item: "bakery:bread"
 				type: "item"
 			}]
-			x: -1.0d
-			y: 0.0d
+			x: 2.0d
+			y: -4.0d
 		}
 		{
 			dependencies: ["57BAA8B414FF1F4F"]
@@ -73,8 +73,8 @@
 				item: "bakery:baguette"
 				type: "item"
 			}]
-			x: 0.0d
-			y: 0.0d
+			x: 3.0d
+			y: -4.0d
 		}
 		{
 			dependencies: ["57BAA8B414FF1F4F"]
@@ -90,8 +90,8 @@
 				item: "bakery:toast"
 				type: "item"
 			}]
-			x: -1.0d
-			y: 1.0d
+			x: 4.0d
+			y: -4.0d
 		}
 		{
 			dependencies: ["57BAA8B414FF1F4F"]
@@ -107,8 +107,8 @@
 				item: "bakery:braided_bread"
 				type: "item"
 			}]
-			x: 0.0d
-			y: 1.0d
+			x: 5.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["57BAA8B414FF1F4F"]
@@ -124,8 +124,8 @@
 				item: "bakery:bun"
 				type: "item"
 			}]
-			x: -1.0d
-			y: 2.0d
+			x: 0.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["57BAA8B414FF1F4F"]
@@ -141,8 +141,8 @@
 				item: "bakery:vegetable_sandwich"
 				type: "item"
 			}]
-			x: 0.0d
-			y: 2.0d
+			x: 1.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["57BAA8B414FF1F4F"]
@@ -158,8 +158,8 @@
 				item: "bakery:sandwich"
 				type: "item"
 			}]
-			x: 1.0d
-			y: 2.0d
+			x: 2.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["57BAA8B414FF1F4F"]
@@ -175,8 +175,8 @@
 				item: "bakery:bread_crate"
 				type: "item"
 			}]
-			x: 0.0d
-			y: 4.0d
+			x: 3.0d
+			y: -3.0d
 		}
 		{
 			dependencies: [
@@ -210,8 +210,8 @@
 				type: "item"
 			}]
 			title: "Oven Recipes Completion"
-			x: 0.0d
-			y: -2.0d
+			x: -1.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["57BAA8B414FF1F4F"]
@@ -227,8 +227,8 @@
 				item: "bakery:linzer_tart"
 				type: "item"
 			}]
-			x: 1.0d
-			y: -1.0d
+			x: 4.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["57BAA8B414FF1F4F"]
@@ -244,8 +244,8 @@
 				item: "bakery:apple_pie"
 				type: "item"
 			}]
-			x: 1.0d
-			y: 0.0d
+			x: 0.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["57BAA8B414FF1F4F"]
@@ -262,7 +262,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 1.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["57BAA8B414FF1F4F"]
@@ -278,8 +278,8 @@
 				item: "bakery:chocolate_tart"
 				type: "item"
 			}]
-			x: 1.0d
-			y: 3.0d
+			x: 2.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["57BAA8B414FF1F4F"]
@@ -295,8 +295,8 @@
 				item: "bakery:bundt_cake"
 				type: "item"
 			}]
-			x: -1.0d
-			y: 3.0d
+			x: 3.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["57BAA8B414FF1F4F"]
@@ -312,8 +312,8 @@
 				item: "bakery:waffle"
 				type: "item"
 			}]
-			x: 0.0d
-			y: 3.0d
+			x: 4.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["13B67DDBCF1019AB"]
@@ -329,8 +329,8 @@
 				item: "bakery:strawberry_jam"
 				type: "item"
 			}]
-			x: 2.5d
-			y: -1.0d
+			x: 4.0d
+			y: -0.5d
 		}
 		{
 			dependencies: ["13B67DDBCF1019AB"]
@@ -346,8 +346,8 @@
 				item: "bakery:sweetberry_jam"
 				type: "item"
 			}]
-			x: 2.5d
-			y: 0.0d
+			x: 0.0d
+			y: -0.5d
 		}
 		{
 			dependencies: ["13B67DDBCF1019AB"]
@@ -363,8 +363,8 @@
 				item: "bakery:glowberry_jam"
 				type: "item"
 			}]
-			x: 2.5d
-			y: 1.0d
+			x: 1.0d
+			y: -0.5d
 		}
 		{
 			dependencies: ["13B67DDBCF1019AB"]
@@ -380,8 +380,8 @@
 				item: "bakery:apple_jam"
 				type: "item"
 			}]
-			x: 2.5d
-			y: 2.0d
+			x: 2.0d
+			y: -0.5d
 		}
 		{
 			dependencies: ["13B67DDBCF1019AB"]
@@ -397,8 +397,8 @@
 				item: "bakery:chocolate_jam"
 				type: "item"
 			}]
-			x: 2.5d
-			y: 3.0d
+			x: 3.0d
+			y: -0.5d
 		}
 		{
 			dependencies: ["13B67DDBCF1019AB"]
@@ -414,8 +414,8 @@
 				item: "bakery:chocolate_truffle"
 				type: "item"
 			}]
-			x: 3.5d
-			y: -1.0d
+			x: 2.0d
+			y: 0.5d
 		}
 		{
 			dependencies: ["13B67DDBCF1019AB"]
@@ -431,8 +431,8 @@
 				item: "bakery:pudding"
 				type: "item"
 			}]
-			x: 3.5d
-			y: 0.0d
+			x: 0.0d
+			y: 0.5d
 		}
 		{
 			dependencies: [
@@ -458,8 +458,8 @@
 				type: "item"
 			}]
 			title: "Cooking Pot Recipes Completion"
-			x: 3.0d
-			y: -2.0d
+			x: -1.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["13B67DDBCF1019AB"]
@@ -475,8 +475,8 @@
 				item: "bakery:jam_roll"
 				type: "item"
 			}]
-			x: 3.5d
-			y: 1.0d
+			x: 1.0d
+			y: 0.5d
 		}
 		{
 			dependencies: ["5E93B9E15372F454"]
@@ -492,8 +492,8 @@
 				item: "bakery:strawberry_glazed_cookie"
 				type: "item"
 			}]
-			x: 5.0d
-			y: -1.0d
+			x: 0.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["5E93B9E15372F454"]
@@ -509,8 +509,8 @@
 				item: "bakery:sweetberry_glazed_cookie"
 				type: "item"
 			}]
-			x: 6.0d
-			y: -1.0d
+			x: 1.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["5E93B9E15372F454"]
@@ -526,8 +526,8 @@
 				item: "bakery:chocolate_glazed_cookie"
 				type: "item"
 			}]
-			x: 7.0d
-			y: -1.0d
+			x: 2.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["5E93B9E15372F454"]
@@ -544,7 +544,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 0.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["5E93B9E15372F454"]
@@ -560,8 +560,8 @@
 				item: "bakery:sweetberry_cupcake"
 				type: "item"
 			}]
-			x: 6.0d
-			y: 0.0d
+			x: 3.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["5E93B9E15372F454"]
@@ -577,8 +577,8 @@
 				item: "bakery:apple_cupcake"
 				type: "item"
 			}]
-			x: 7.0d
-			y: 0.0d
+			x: 4.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["5E93B9E15372F454"]
@@ -594,8 +594,8 @@
 				item: "bakery:strawberry_cake"
 				type: "item"
 			}]
-			x: 5.0d
-			y: 1.0d
+			x: 0.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["5E93B9E15372F454"]
@@ -611,8 +611,8 @@
 				item: "bakery:sweetberry_cake"
 				type: "item"
 			}]
-			x: 6.0d
-			y: 1.0d
+			x: 1.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["5E93B9E15372F454"]
@@ -628,8 +628,8 @@
 				item: "bakery:chocolate_cake"
 				type: "item"
 			}]
-			x: 7.0d
-			y: 1.0d
+			x: 2.0d
+			y: 3.0d
 		}
 		{
 			dependencies: [
@@ -656,8 +656,8 @@
 				type: "item"
 			}]
 			title: "Baking Station Recipes Completion"
-			x: 6.0d
-			y: -2.0d
+			x: -1.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -673,8 +673,8 @@
 				item: "vinery:red_grapejuice_wine_bottle"
 				type: "item"
 			}]
-			x: 8.5d
-			y: -1.0d
+			x: 0.0d
+			y: 4.5d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -690,8 +690,8 @@
 				item: "vinery:white_grapejuice_wine_bottle"
 				type: "item"
 			}]
-			x: 9.5d
-			y: -1.0d
+			x: 1.0d
+			y: 4.5d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -707,8 +707,8 @@
 				item: "vinery:taiga_red_grapejuice_bottle"
 				type: "item"
 			}]
-			x: 8.5d
-			y: 0.0d
+			x: 2.0d
+			y: 4.5d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -724,8 +724,8 @@
 				item: "vinery:taiga_white_grapejuice_bottle"
 				type: "item"
 			}]
-			x: 9.5d
-			y: 0.0d
+			x: 3.0d
+			y: 4.5d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -741,8 +741,8 @@
 				item: "vinery:jungle_red_grapejuice_bottle"
 				type: "item"
 			}]
-			x: 8.5d
-			y: 1.0d
+			x: 0.0d
+			y: 5.5d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -758,8 +758,8 @@
 				item: "vinery:jungle_white_grapejuice_bottle"
 				type: "item"
 			}]
-			x: 9.5d
-			y: 1.0d
+			x: 1.0d
+			y: 5.5d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -775,8 +775,8 @@
 				item: "vinery:savanna_red_grapejuice_bottle"
 				type: "item"
 			}]
-			x: 8.5d
-			y: 2.0d
+			x: 3.0d
+			y: 5.5d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -792,8 +792,8 @@
 				item: "vinery:savanna_white_grapejuice_bottle"
 				type: "item"
 			}]
-			x: 9.5d
-			y: 2.0d
+			x: 2.0d
+			y: 5.5d
 		}
 		{
 			dependencies: [
@@ -819,8 +819,8 @@
 				type: "item"
 			}]
 			title: "Grapevine Pot Recipes Completion"
-			x: 9.0d
-			y: -2.0d
+			x: -1.0d
+			y: 5.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -836,8 +836,8 @@
 				item: "vinery:apple_juice"
 				type: "item"
 			}]
-			x: 11.0d
-			y: -1.0d
+			x: 3.0d
+			y: 7.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -859,8 +859,8 @@
 				}
 				type: "item"
 			}]
-			x: 12.0d
-			y: -1.0d
+			x: 4.0d
+			y: 7.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -882,8 +882,8 @@
 				}
 				type: "item"
 			}]
-			x: 13.0d
-			y: -1.0d
+			x: 5.0d
+			y: 7.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -905,8 +905,8 @@
 				}
 				type: "item"
 			}]
-			x: 14.0d
-			y: -1.0d
+			x: 0.0d
+			y: 8.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -928,8 +928,8 @@
 				}
 				type: "item"
 			}]
-			x: 15.0d
-			y: -1.0d
+			x: 1.0d
+			y: 8.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -951,8 +951,8 @@
 				}
 				type: "item"
 			}]
-			x: 11.0d
-			y: 0.0d
+			x: 2.0d
+			y: 8.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -974,8 +974,8 @@
 				}
 				type: "item"
 			}]
-			x: 12.0d
-			y: 0.0d
+			x: 3.0d
+			y: 8.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -997,8 +997,8 @@
 				}
 				type: "item"
 			}]
-			x: 13.0d
-			y: 0.0d
+			x: 4.0d
+			y: 8.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -1020,8 +1020,8 @@
 				}
 				type: "item"
 			}]
-			x: 14.0d
-			y: 0.0d
+			x: 5.0d
+			y: 8.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -1043,8 +1043,8 @@
 				}
 				type: "item"
 			}]
-			x: 15.0d
-			y: 0.0d
+			x: 0.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -1066,8 +1066,8 @@
 				}
 				type: "item"
 			}]
-			x: 11.0d
-			y: 1.0d
+			x: 1.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -1089,8 +1089,8 @@
 				}
 				type: "item"
 			}]
-			x: 12.0d
-			y: 1.0d
+			x: 2.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -1112,8 +1112,8 @@
 				}
 				type: "item"
 			}]
-			x: 13.0d
-			y: 1.0d
+			x: 3.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -1135,8 +1135,8 @@
 				}
 				type: "item"
 			}]
-			x: 14.0d
-			y: 1.0d
+			x: 4.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -1158,8 +1158,8 @@
 				}
 				type: "item"
 			}]
-			x: 15.0d
-			y: 1.0d
+			x: 5.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -1181,8 +1181,8 @@
 				}
 				type: "item"
 			}]
-			x: 11.0d
-			y: 2.0d
+			x: 0.0d
+			y: 10.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -1204,8 +1204,8 @@
 				}
 				type: "item"
 			}]
-			x: 12.0d
-			y: 2.0d
+			x: 1.0d
+			y: 10.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -1227,8 +1227,8 @@
 				}
 				type: "item"
 			}]
-			x: 13.0d
-			y: 2.0d
+			x: 2.0d
+			y: 10.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -1250,8 +1250,8 @@
 				}
 				type: "item"
 			}]
-			x: 14.0d
-			y: 2.0d
+			x: 3.0d
+			y: 10.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -1273,8 +1273,8 @@
 				}
 				type: "item"
 			}]
-			x: 15.0d
-			y: 2.0d
+			x: 4.0d
+			y: 10.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -1296,8 +1296,8 @@
 				}
 				type: "item"
 			}]
-			x: 11.0d
-			y: 3.0d
+			x: 5.0d
+			y: 10.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -1319,8 +1319,8 @@
 				}
 				type: "item"
 			}]
-			x: 12.0d
-			y: 3.0d
+			x: 0.0d
+			y: 11.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -1342,8 +1342,8 @@
 				}
 				type: "item"
 			}]
-			x: 13.0d
-			y: 3.0d
+			x: 1.0d
+			y: 11.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -1365,8 +1365,8 @@
 				}
 				type: "item"
 			}]
-			x: 14.0d
-			y: 3.0d
+			x: 2.0d
+			y: 11.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -1388,8 +1388,8 @@
 				}
 				type: "item"
 			}]
-			x: 15.0d
-			y: 3.0d
+			x: 3.0d
+			y: 11.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -1411,8 +1411,8 @@
 				}
 				type: "item"
 			}]
-			x: 12.0d
-			y: 4.0d
+			x: 2.0d
+			y: 7.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -1434,8 +1434,8 @@
 				}
 				type: "item"
 			}]
-			x: 13.0d
-			y: 4.0d
+			x: 1.0d
+			y: 7.0d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -1457,8 +1457,8 @@
 				}
 				type: "item"
 			}]
-			x: 14.0d
-			y: 4.0d
+			x: 0.0d
+			y: 7.0d
 		}
 		{
 			dependencies: [
@@ -1550,8 +1550,8 @@
 				type: "item"
 			}]
 			title: "Aging Barrel Recipes Completion"
-			x: 13.0d
-			y: -2.0d
+			x: -1.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["65B28F78A7DDBD06"]
@@ -1567,8 +1567,8 @@
 				item: "meadow:cheese_block"
 				type: "item"
 			}]
-			x: 16.5d
-			y: -1.0d
+			x: 0.0d
+			y: 12.5d
 		}
 		{
 			dependencies: ["65B28F78A7DDBD06"]
@@ -1584,8 +1584,8 @@
 				item: "meadow:sheep_cheese_block"
 				type: "item"
 			}]
-			x: 16.5d
-			y: 0.0d
+			x: 5.0d
+			y: 12.5d
 		}
 		{
 			dependencies: ["65B28F78A7DDBD06"]
@@ -1601,8 +1601,8 @@
 				item: "meadow:grain_cheese_block"
 				type: "item"
 			}]
-			x: 16.5d
-			y: 1.0d
+			x: 1.0d
+			y: 12.5d
 		}
 		{
 			dependencies: ["65B28F78A7DDBD06"]
@@ -1618,8 +1618,8 @@
 				item: "meadow:amethyst_cheese_block"
 				type: "item"
 			}]
-			x: 16.5d
-			y: 2.0d
+			x: 4.0d
+			y: 12.5d
 		}
 		{
 			dependencies: ["65B28F78A7DDBD06"]
@@ -1635,8 +1635,8 @@
 				item: "meadow:buffalo_cheese_block"
 				type: "item"
 			}]
-			x: 16.5d
-			y: 3.0d
+			x: 3.0d
+			y: 12.5d
 		}
 		{
 			dependencies: ["65B28F78A7DDBD06"]
@@ -1652,8 +1652,8 @@
 				item: "meadow:goat_cheese_block"
 				type: "item"
 			}]
-			x: 16.5d
-			y: 4.0d
+			x: 2.0d
+			y: 12.5d
 		}
 		{
 			dependencies: [
@@ -1727,8 +1727,8 @@
 				type: "item"
 			}]
 			title: "Cheese Press Recipes Completion"
-			x: 17.0d
-			y: -2.0d
+			x: -1.0d
+			y: 13.0d
 		}
 		{
 			dependencies: ["65B28F78A7DDBD06"]
@@ -1744,8 +1744,8 @@
 				item: "meadow:cheese_sandwich"
 				type: "item"
 			}]
-			x: 17.5d
-			y: -1.0d
+			x: 1.0d
+			y: 13.5d
 		}
 		{
 			dependencies: ["65B28F78A7DDBD06"]
@@ -1761,8 +1761,8 @@
 				item: "meadow:cheese_roll"
 				type: "item"
 			}]
-			x: 17.5d
-			y: 0.0d
+			x: 2.0d
+			y: 13.5d
 		}
 		{
 			dependencies: ["65B28F78A7DDBD06"]
@@ -1778,8 +1778,8 @@
 				item: "meadow:cheesecake"
 				type: "item"
 			}]
-			x: 17.5d
-			y: 1.0d
+			x: 3.0d
+			y: 13.5d
 		}
 		{
 			dependencies: ["65B28F78A7DDBD06"]
@@ -1795,8 +1795,8 @@
 				item: "meadow:cheese_tart"
 				type: "item"
 			}]
-			x: 17.5d
-			y: 2.0d
+			x: 0.0d
+			y: 13.5d
 		}
 		{
 			dependencies: ["57889789985B323E"]
@@ -1812,8 +1812,8 @@
 				item: "candlelight:tomato_soup"
 				type: "item"
 			}]
-			x: 20.5d
-			y: -1.0d
+			x: 0.0d
+			y: 15.0d
 		}
 		{
 			dependencies: ["57889789985B323E"]
@@ -1829,8 +1829,8 @@
 				item: "candlelight:mushroom_soup"
 				type: "item"
 			}]
-			x: 20.5d
-			y: 0.0d
+			x: 1.0d
+			y: 15.0d
 		}
 		{
 			dependencies: ["57889789985B323E"]
@@ -1846,8 +1846,8 @@
 				item: "candlelight:pasta"
 				type: "item"
 			}]
-			x: 20.5d
-			y: 1.0d
+			x: 2.0d
+			y: 15.0d
 		}
 		{
 			dependencies: ["57889789985B323E"]
@@ -1863,8 +1863,8 @@
 				item: "candlelight:chicken_teriyaki"
 				type: "item"
 			}]
-			x: 20.5d
-			y: 2.0d
+			x: 3.0d
+			y: 15.0d
 		}
 		{
 			dependencies: ["57889789985B323E"]
@@ -1880,8 +1880,8 @@
 				item: "candlelight:chocolate"
 				type: "item"
 			}]
-			x: 21.0d
-			y: 3.0d
+			x: 4.0d
+			y: 15.5d
 		}
 		{
 			dependencies: ["57889789985B323E"]
@@ -1897,8 +1897,8 @@
 				item: "candlelight:lasagne"
 				type: "item"
 			}]
-			x: 21.5d
-			y: -1.0d
+			x: 0.0d
+			y: 16.0d
 		}
 		{
 			dependencies: ["57889789985B323E"]
@@ -1914,8 +1914,8 @@
 				item: "candlelight:chicken"
 				type: "item"
 			}]
-			x: 21.5d
-			y: 0.0d
+			x: 1.0d
+			y: 16.0d
 		}
 		{
 			dependencies: ["57889789985B323E"]
@@ -1931,8 +1931,8 @@
 				item: "candlelight:pork_ribs"
 				type: "item"
 			}]
-			x: 21.5d
-			y: 1.0d
+			x: 2.0d
+			y: 16.0d
 		}
 		{
 			dependencies: ["57889789985B323E"]
@@ -1948,8 +1948,8 @@
 				item: "candlelight:salmon_wine"
 				type: "item"
 			}]
-			x: 21.5d
-			y: 2.0d
+			x: 3.0d
+			y: 16.0d
 		}
 		{
 			dependencies: [
@@ -1976,8 +1976,8 @@
 				type: "item"
 			}]
 			title: "Cooking Pot Recipes Completion"
-			x: 21.0d
-			y: -2.0d
+			x: -1.0d
+			y: 15.5d
 		}
 		{
 			dependencies: ["48C7E0AF4C9A3C3E"]
@@ -1993,8 +1993,8 @@
 				item: "candlelight:pancake"
 				type: "item"
 			}]
-			x: 23.0d
-			y: -1.0d
+			x: 4.0d
+			y: 18.5d
 		}
 		{
 			dependencies: ["48C7E0AF4C9A3C3E"]
@@ -2010,8 +2010,8 @@
 				item: "candlelight:fricasse"
 				type: "item"
 			}]
-			x: 23.0d
-			y: 0.0d
+			x: 0.0d
+			y: 17.5d
 		}
 		{
 			dependencies: ["48C7E0AF4C9A3C3E"]
@@ -2027,8 +2027,8 @@
 				item: "candlelight:roastbeef_carrots"
 				type: "item"
 			}]
-			x: 23.0d
-			y: 1.0d
+			x: 1.0d
+			y: 17.5d
 		}
 		{
 			dependencies: ["48C7E0AF4C9A3C3E"]
@@ -2044,8 +2044,8 @@
 				item: "candlelight:beef_wellington"
 				type: "item"
 			}]
-			x: 23.0d
-			y: 2.0d
+			x: 2.0d
+			y: 17.5d
 		}
 		{
 			dependencies: ["48C7E0AF4C9A3C3E"]
@@ -2061,8 +2061,8 @@
 				item: "candlelight:pizza"
 				type: "item"
 			}]
-			x: 23.0d
-			y: 3.0d
+			x: 3.0d
+			y: 17.5d
 		}
 		{
 			dependencies: ["48C7E0AF4C9A3C3E"]
@@ -2078,8 +2078,8 @@
 				item: "candlelight:cooked_beef"
 				type: "item"
 			}]
-			x: 23.5d
-			y: 4.0d
+			x: 4.0d
+			y: 17.5d
 		}
 		{
 			dependencies: ["48C7E0AF4C9A3C3E"]
@@ -2095,8 +2095,8 @@
 				item: "candlelight:bolognese"
 				type: "item"
 			}]
-			x: 24.0d
-			y: -1.0d
+			x: 5.0d
+			y: 18.0d
 		}
 		{
 			dependencies: ["48C7E0AF4C9A3C3E"]
@@ -2112,8 +2112,8 @@
 				item: "candlelight:chicken_alfredo"
 				type: "item"
 			}]
-			x: 24.0d
-			y: 0.0d
+			x: 0.0d
+			y: 18.5d
 		}
 		{
 			dependencies: ["48C7E0AF4C9A3C3E"]
@@ -2129,8 +2129,8 @@
 				item: "candlelight:lettuce_beef"
 				type: "item"
 			}]
-			x: 24.0d
-			y: 1.0d
+			x: 1.0d
+			y: 18.5d
 		}
 		{
 			dependencies: ["48C7E0AF4C9A3C3E"]
@@ -2146,8 +2146,8 @@
 				item: "candlelight:pasta_bolognese"
 				type: "item"
 			}]
-			x: 24.0d
-			y: 2.0d
+			x: 2.0d
+			y: 18.5d
 		}
 		{
 			dependencies: ["48C7E0AF4C9A3C3E"]
@@ -2163,8 +2163,8 @@
 				item: "candlelight:pasta_lettuce"
 				type: "item"
 			}]
-			x: 24.0d
-			y: 3.0d
+			x: 3.0d
+			y: 18.5d
 		}
 		{
 			dependencies: [
@@ -2245,8 +2245,8 @@
 				type: "item"
 			}]
 			title: "Cooking Pan Recipes Completion"
-			x: 23.5d
-			y: -2.0d
+			x: -1.0d
+			y: 18.0d
 		}
 		{
 			dependencies: ["57889789985B323E"]
@@ -2262,8 +2262,8 @@
 				item: "candlelight:tomato_mozzarella_salad"
 				type: "item"
 			}]
-			x: 19.0d
-			y: -1.0d
+			x: 5.0d
+			y: 20.0d
 		}
 		{
 			dependencies: ["57889789985B323E"]
@@ -2279,8 +2279,8 @@
 				item: "candlelight:veggie_plate"
 				type: "item"
 			}]
-			x: 19.0d
-			y: 0.0d
+			x: 0.0d
+			y: 20.0d
 		}
 		{
 			dependencies: ["57889789985B323E"]
@@ -2297,8 +2297,8 @@
 				item: "candlelight:broccoli_tomato"
 				type: "item"
 			}]
-			x: 19.0d
-			y: 1.0d
+			x: 1.0d
+			y: 20.0d
 		}
 		{
 			dependencies: ["57889789985B323E"]
@@ -2314,8 +2314,8 @@
 				item: "candlelight:lettuce_salad"
 				type: "item"
 			}]
-			x: 19.0d
-			y: 2.0d
+			x: 2.0d
+			y: 20.0d
 		}
 		{
 			dependencies: ["57889789985B323E"]
@@ -2331,8 +2331,8 @@
 				item: "candlelight:beef_tartare"
 				type: "item"
 			}]
-			x: 19.0d
-			y: 3.0d
+			x: 3.0d
+			y: 20.0d
 		}
 		{
 			dependencies: ["57889789985B323E"]
@@ -2348,8 +2348,8 @@
 				item: "candlelight:beetroot_salad"
 				type: "item"
 			}]
-			x: 19.0d
-			y: 4.0d
+			x: 4.0d
+			y: 20.0d
 		}
 		{
 			dependencies: [
@@ -2373,8 +2373,8 @@
 				type: "item"
 			}]
 			title: "Regular Crafting Recipes Completion"
-			x: 19.0d
-			y: -2.0d
+			x: -1.0d
+			y: 20.0d
 		}
 		{
 			dependencies: ["56C6F1D87FA09C24"]
@@ -2390,8 +2390,8 @@
 				item: "beachparty:sweetberry_icecream"
 				type: "item"
 			}]
-			x: 25.5d
-			y: -1.0d
+			x: 0.0d
+			y: 21.5d
 		}
 		{
 			dependencies: ["56C6F1D87FA09C24"]
@@ -2407,8 +2407,8 @@
 				item: "beachparty:coconut_icecream"
 				type: "item"
 			}]
-			x: 25.5d
-			y: 0.0d
+			x: 1.0d
+			y: 21.5d
 		}
 		{
 			dependencies: ["56C6F1D87FA09C24"]
@@ -2424,8 +2424,8 @@
 				item: "beachparty:chocolate_icecream"
 				type: "item"
 			}]
-			x: 25.5d
-			y: 1.0d
+			x: 2.0d
+			y: 21.5d
 		}
 		{
 			dependencies: ["56C6F1D87FA09C24"]
@@ -2441,8 +2441,8 @@
 				item: "beachparty:icecream_chocolate"
 				type: "item"
 			}]
-			x: 25.5d
-			y: 2.0d
+			x: 3.0d
+			y: 22.5d
 		}
 		{
 			dependencies: ["56C6F1D87FA09C24"]
@@ -2458,8 +2458,8 @@
 				item: "beachparty:icecream_coconut"
 				type: "item"
 			}]
-			x: 26.5d
-			y: -1.0d
+			x: 2.0d
+			y: 22.5d
 		}
 		{
 			dependencies: ["56C6F1D87FA09C24"]
@@ -2475,8 +2475,8 @@
 				item: "beachparty:icecream_cactus"
 				type: "item"
 			}]
-			x: 26.5d
-			y: 0.0d
+			x: 0.0d
+			y: 22.5d
 		}
 		{
 			dependencies: ["56C6F1D87FA09C24"]
@@ -2492,8 +2492,8 @@
 				item: "beachparty:icecream_melon"
 				type: "item"
 			}]
-			x: 26.5d
-			y: 1.0d
+			x: 1.0d
+			y: 22.5d
 		}
 		{
 			dependencies: ["56C6F1D87FA09C24"]
@@ -2509,8 +2509,8 @@
 				item: "beachparty:icecream_sweetberries"
 				type: "item"
 			}]
-			x: 26.5d
-			y: 2.0d
+			x: 3.0d
+			y: 21.5d
 		}
 		{
 			dependencies: [
@@ -2536,8 +2536,8 @@
 				type: "item"
 			}]
 			title: "Mini Fridge Recipes Completion"
-			x: 26.0d
-			y: -2.0d
+			x: -1.0d
+			y: 22.0d
 		}
 		{
 			dependencies: ["2D0063702FDE9B52"]
@@ -2553,8 +2553,8 @@
 				item: "beachparty:chocolate_milkshake"
 				type: "item"
 			}]
-			x: 28.0d
-			y: -1.0d
+			x: 0.0d
+			y: 25.0d
 		}
 		{
 			dependencies: ["2D0063702FDE9B52"]
@@ -2570,8 +2570,8 @@
 				item: "beachparty:coconut_milkshake"
 				type: "item"
 			}]
-			x: 28.0d
-			y: 0.0d
+			x: 1.0d
+			y: 25.0d
 		}
 		{
 			dependencies: ["2D0063702FDE9B52"]
@@ -2587,8 +2587,8 @@
 				item: "beachparty:sweetberry_milkshake"
 				type: "item"
 			}]
-			x: 28.0d
-			y: 1.0d
+			x: 2.0d
+			y: 25.0d
 		}
 		{
 			dependencies: ["2D0063702FDE9B52"]
@@ -2604,8 +2604,8 @@
 				item: "beachparty:honey_cocktail"
 				type: "item"
 			}]
-			x: 28.0d
-			y: 2.0d
+			x: 0.0d
+			y: 24.0d
 		}
 		{
 			dependencies: ["2D0063702FDE9B52"]
@@ -2621,8 +2621,8 @@
 				item: "beachparty:melon_cocktail"
 				type: "item"
 			}]
-			x: 28.0d
-			y: 3.0d
+			x: 1.0d
+			y: 24.0d
 		}
 		{
 			dependencies: ["2D0063702FDE9B52"]
@@ -2638,8 +2638,8 @@
 				item: "beachparty:pumpkin_cocktail"
 				type: "item"
 			}]
-			x: 29.0d
-			y: -1.0d
+			x: 2.0d
+			y: 24.0d
 		}
 		{
 			dependencies: ["2D0063702FDE9B52"]
@@ -2655,8 +2655,8 @@
 				item: "beachparty:cocoa_cocktail"
 				type: "item"
 			}]
-			x: 29.0d
-			y: 0.0d
+			x: 3.0d
+			y: 24.0d
 		}
 		{
 			dependencies: ["2D0063702FDE9B52"]
@@ -2672,8 +2672,8 @@
 				item: "beachparty:sweetberries_cocktail"
 				type: "item"
 			}]
-			x: 29.0d
-			y: 1.0d
+			x: 4.0d
+			y: 24.0d
 		}
 		{
 			dependencies: ["2D0063702FDE9B52"]
@@ -2689,8 +2689,8 @@
 				item: "beachparty:coconut_cocktail"
 				type: "item"
 			}]
-			x: 29.0d
-			y: 2.0d
+			x: 5.0d
+			y: 24.0d
 		}
 		{
 			dependencies: [
@@ -2763,8 +2763,8 @@
 				type: "item"
 			}]
 			title: "Tiki Bar Recipes Completion"
-			x: 28.5d
-			y: -2.0d
+			x: -1.0d
+			y: 24.5d
 		}
 	]
 	title: "Cooking Collection"

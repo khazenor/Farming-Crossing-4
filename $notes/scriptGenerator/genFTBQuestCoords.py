@@ -35,7 +35,7 @@ def verticalColumns():
 			f.write(f'y: {indY}.0d\n')
 
 def groupsOfSixes():
-	numQuests = 30
+	numQuests = 133
 	rowWidth = 6
 	doGrouping = False
 	outputFileDir = os.path.join("output", "ftbQuestCoords.txt")
