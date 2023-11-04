@@ -1,5 +1,5 @@
 ServerEvents.tags('item', event => {
-  event.add("forge:fauna_quest_items",[
+  event.add("forge:flora_quest_items",[
     "minecraft:acacia_sapling",
     "minecraft:birch_sapling",
     "minecraft:cherry_sapling",

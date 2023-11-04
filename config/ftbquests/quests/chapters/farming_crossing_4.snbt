@@ -1141,13 +1141,13 @@
 					Count: 1b
 					id: "itemfilters:tag"
 					tag: {
-						value: "forge:fauna_quest_items"
+						value: "forge:flora_quest_items"
 					}
 				}
-				title: "Any #forge:fauna_quest_items"
+				title: "Any #forge:flora_quest_items"
 				type: "item"
 			}]
-			title: "Collecting Fauna"
+			title: "Collecting Flora"
 			x: 0.5d
 			y: -2.5d
 		}

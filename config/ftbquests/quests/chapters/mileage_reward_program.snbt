@@ -40,7 +40,7 @@
 			}]
 			title: "Wooden Common Deco Collection Certificate"
 			x: -3.0d
-			y: 2.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["79C7500CAA3A99A3"]
@@ -69,7 +69,7 @@
 			}]
 			title: "Stone Common Deco Collection Certificate"
 			x: -2.0d
-			y: 2.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["6762FFD6458747DE"]
@@ -98,7 +98,7 @@
 			}]
 			title: "Iron Common Deco Collection Certificate"
 			x: -1.0d
-			y: 2.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["1F961B590FBF4532"]
@@ -127,7 +127,7 @@
 			}]
 			title: "Golden Common Deco Collection Certificate"
 			x: 0.0d
-			y: 2.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["2CA1DF422552D48B"]
@@ -156,7 +156,7 @@
 			}]
 			title: "Diamond Common Deco Collection Certificate"
 			x: 1.0d
-			y: 2.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["51DE3A57213E3166"]
@@ -189,7 +189,7 @@
 			}]
 			title: "Wooden Rare Deco Collection Certificate"
 			x: -3.0d
-			y: 3.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["293263143F2388DC"]
@@ -218,7 +218,7 @@
 			}]
 			title: "Stone Rare Deco Collection Certificate"
 			x: -2.0d
-			y: 3.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["1DECA2763F595B8C"]
@@ -247,7 +247,7 @@
 			}]
 			title: "Iron Rare Deco Collection Certificate"
 			x: -1.0d
-			y: 3.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["13A0B3991E1D7B30"]
@@ -276,7 +276,7 @@
 			}]
 			title: "Golden Rare Deco Collection Certificate"
 			x: 0.0d
-			y: 3.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["20A4454D7B82DAAE"]
@@ -305,7 +305,7 @@
 			}]
 			title: "Diamond Rare Deco Collection Certificate"
 			x: 1.0d
-			y: 3.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["2681228A42DC9096"]
@@ -339,7 +339,7 @@
 			}]
 			title: "Wooden Hat Collection Certificate"
 			x: -3.0d
-			y: 4.0d
+			y: 5.0d
 		}
 		{
 			dependencies: ["644B450087A604E7"]
@@ -368,7 +368,7 @@
 			}]
 			title: "Stone Hat Collection Certificate"
 			x: -2.0d
-			y: 4.0d
+			y: 5.0d
 		}
 		{
 			dependencies: ["21EE2673C216F66B"]
@@ -397,7 +397,7 @@
 			}]
 			title: "Iron Hat Collection Certificate"
 			x: -1.0d
-			y: 4.0d
+			y: 5.0d
 		}
 		{
 			dependencies: ["2DD8168BA32AEEBE"]
@@ -426,7 +426,7 @@
 			}]
 			title: "Golden Hat Collection Certificate"
 			x: 0.0d
-			y: 4.0d
+			y: 5.0d
 		}
 		{
 			dependencies: ["0B1567BF81B96A20"]
@@ -455,7 +455,7 @@
 			}]
 			title: "Diamond Hat Collection Certificate"
 			x: 1.0d
-			y: 4.0d
+			y: 5.0d
 		}
 		{
 			dependencies: ["550DF6FB7C1D0635"]
@@ -639,7 +639,7 @@
 			}]
 			title: "Wooden Fishing Collection Certificate"
 			x: -3.0d
-			y: 0.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["42A6B7DAE4A318FF"]
@@ -668,7 +668,7 @@
 			}]
 			title: "Stone Fishing Collection Certificate"
 			x: -2.0d
-			y: 0.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["644E5A71CE6B9B86"]
@@ -697,7 +697,7 @@
 			}]
 			title: "Iron Fishing Collection Certificate"
 			x: -1.0d
-			y: 0.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["0E21E1B6579C2654"]
@@ -726,7 +726,7 @@
 			}]
 			title: "Golden Fishing Collection Certificate"
 			x: 0.0d
-			y: 0.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["53F562C912D08A93"]
@@ -755,7 +755,7 @@
 			}]
 			title: "Diamond Fishing Collection Certificate"
 			x: 1.0d
-			y: 0.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["62557396BF6382E3"]
@@ -789,7 +789,7 @@
 			}]
 			title: "Wooden Chef Certificate"
 			x: -3.0d
-			y: 1.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["28929EA4688DAE01"]
@@ -818,7 +818,7 @@
 			}]
 			title: "Stone Chef Certificate"
 			x: -2.0d
-			y: 1.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["38B29892DC5F37B4"]
@@ -847,7 +847,7 @@
 			}]
 			title: "Iron Chef Certificate"
 			x: -1.0d
-			y: 1.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["301B80FC19D8275F"]
@@ -876,7 +876,7 @@
 			}]
 			title: "Golden Chef Certificate"
 			x: 0.0d
-			y: 1.0d
+			y: 2.0d
 		}
 		{
 			dependencies: ["6AD916B3696371F9"]
@@ -905,7 +905,7 @@
 			}]
 			title: "Diamond Chef Certificate"
 			x: 1.0d
-			y: 1.0d
+			y: 2.0d
 		}
 		{
 			hide: true
@@ -929,7 +929,7 @@
 				type: "item"
 			}]
 			x: -4.0d
-			y: 0.0d
+			y: 1.0d
 		}
 		{
 			hide: true
@@ -941,7 +941,7 @@
 				type: "item"
 			}]
 			x: -4.0d
-			y: 1.0d
+			y: 2.0d
 		}
 		{
 			hide: true
@@ -953,7 +953,7 @@
 				type: "item"
 			}]
 			x: -4.0d
-			y: 4.0d
+			y: 5.0d
 		}
 		{
 			hide: true
@@ -965,7 +965,7 @@
 				type: "item"
 			}]
 			x: -4.0d
-			y: 2.0d
+			y: 3.0d
 		}
 		{
 			hide: true
@@ -977,7 +977,19 @@
 				type: "item"
 			}]
 			x: -4.0d
-			y: 3.0d
+			y: 4.0d
+		}
+		{
+			hide: true
+			id: "25D9DDF8495B3488"
+			invisible: true
+			tasks: [{
+				id: "48A570771F7F10FC"
+				item: "kubejs:voucher_flora"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 0.0d
 		}
 	]
 	title: "Mileage Reward Program"
