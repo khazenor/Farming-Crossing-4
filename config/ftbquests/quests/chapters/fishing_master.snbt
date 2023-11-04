@@ -13,7 +13,7 @@
 			hide: true
 			id: "0000000000000029"
 			rewards: [{
-				auto: "enabled"
+				auto: "no_toast"
 				id: "000000000000002B"
 				item: "kubejs:voucher_fish"
 				type: "item"
@@ -31,7 +31,7 @@
 			hide: true
 			id: "000000000000002C"
 			rewards: [{
-				auto: "enabled"
+				auto: "no_toast"
 				id: "000000000000006E"
 				item: "kubejs:voucher_fish"
 				type: "item"
@@ -49,7 +49,7 @@
 			hide: true
 			id: "0000000000000030"
 			rewards: [{
-				auto: "enabled"
+				auto: "no_toast"
 				id: "0000000000000070"
 				item: "kubejs:voucher_fish"
 				type: "item"
@@ -73,7 +73,7 @@
 			hide: true
 			id: "0000000000000032"
 			rewards: [{
-				auto: "enabled"
+				auto: "no_toast"
 				id: "0000000000000071"
 				item: "kubejs:voucher_fish"
 				type: "item"
@@ -91,7 +91,7 @@
 			hide: true
 			id: "0000000000000034"
 			rewards: [{
-				auto: "enabled"
+				auto: "no_toast"
 				id: "0000000000000072"
 				item: "kubejs:voucher_fish"
 				type: "item"
@@ -109,7 +109,7 @@
 			hide: true
 			id: "0000000000000036"
 			rewards: [{
-				auto: "enabled"
+				auto: "no_toast"
 				id: "0000000000000073"
 				item: "kubejs:voucher_fish"
 				type: "item"
@@ -127,7 +127,7 @@
 			hide: true
 			id: "0000000000000038"
 			rewards: [{
-				auto: "enabled"
+				auto: "no_toast"
 				id: "0000000000000074"
 				item: "kubejs:voucher_fish"
 				type: "item"
@@ -145,7 +145,7 @@
 			hide: true
 			id: "000000000000003A"
 			rewards: [{
-				auto: "enabled"
+				auto: "no_toast"
 				id: "0000000000000075"
 				item: "kubejs:voucher_fish"
 				type: "item"
@@ -163,7 +163,7 @@
 			hide: true
 			id: "000000000000003C"
 			rewards: [{
-				auto: "enabled"
+				auto: "no_toast"
 				id: "0000000000000076"
 				item: "kubejs:voucher_fish"
 				type: "item"
@@ -181,7 +181,7 @@
 			hide: true
 			id: "000000000000003E"
 			rewards: [{
-				auto: "enabled"
+				auto: "no_toast"
 				id: "0000000000000077"
 				item: "kubejs:voucher_fish"
 				type: "item"
@@ -199,7 +199,7 @@
 			hide: true
 			id: "0000000000000040"
 			rewards: [{
-				auto: "enabled"
+				auto: "no_toast"
 				id: "0000000000000078"
 				item: "kubejs:voucher_fish"
 				type: "item"
@@ -217,7 +217,7 @@
 			hide: true
 			id: "0000000000000042"
 			rewards: [{
-				auto: "enabled"
+				auto: "no_toast"
 				id: "0000000000000079"
 				item: "kubejs:voucher_fish"
 				type: "item"
@@ -235,7 +235,7 @@
 			hide: true
 			id: "0000000000000044"
 			rewards: [{
-				auto: "enabled"
+				auto: "no_toast"
 				id: "000000000000007A"
 				item: "kubejs:voucher_fish"
 				type: "item"
@@ -253,7 +253,7 @@
 			hide: true
 			id: "0000000000000046"
 			rewards: [{
-				auto: "enabled"
+				auto: "no_toast"
 				id: "000000000000007B"
 				item: "kubejs:voucher_fish"
 				type: "item"
@@ -271,7 +271,7 @@
 			hide: true
 			id: "0000000000000048"
 			rewards: [{
-				auto: "enabled"
+				auto: "no_toast"
 				id: "000000000000007C"
 				item: "kubejs:voucher_fish"
 				type: "item"
@@ -289,7 +289,7 @@
 			hide: true
 			id: "000000000000004A"
 			rewards: [{
-				auto: "enabled"
+				auto: "no_toast"
 				id: "000000000000007D"
 				item: "kubejs:voucher_fish"
 				type: "item"
@@ -307,7 +307,7 @@
 			hide: true
 			id: "000000000000004C"
 			rewards: [{
-				auto: "enabled"
+				auto: "no_toast"
 				id: "000000000000007E"
 				item: "kubejs:voucher_fish"
 				type: "item"
@@ -325,7 +325,7 @@
 			hide: true
 			id: "000000000000004E"
 			rewards: [{
-				auto: "enabled"
+				auto: "no_toast"
 				id: "000000000000007F"
 				item: "kubejs:voucher_fish"
 				type: "item"
@@ -343,7 +343,7 @@
 			hide: true
 			id: "0000000000000050"
 			rewards: [{
-				auto: "enabled"
+				auto: "no_toast"
 				id: "0000000000000080"
 				item: "kubejs:voucher_fish"
 				type: "item"
@@ -361,7 +361,7 @@
 			hide: true
 			id: "0000000000000052"
 			rewards: [{
-				auto: "enabled"
+				auto: "no_toast"
 				id: "0000000000000081"
 				item: "kubejs:voucher_fish"
 				type: "item"
@@ -379,7 +379,7 @@
 			hide: true
 			id: "0000000000000054"
 			rewards: [{
-				auto: "enabled"
+				auto: "no_toast"
 				id: "0000000000000082"
 				item: "kubejs:voucher_fish"
 				type: "item"
@@ -397,7 +397,7 @@
 			hide: true
 			id: "0000000000000056"
 			rewards: [{
-				auto: "enabled"
+				auto: "no_toast"
 				id: "0000000000000083"
 				item: "kubejs:voucher_fish"
 				type: "item"
@@ -415,7 +415,7 @@
 			hide: true
 			id: "0000000000000058"
 			rewards: [{
-				auto: "enabled"
+				auto: "no_toast"
 				id: "0000000000000084"
 				item: "kubejs:voucher_fish"
 				type: "item"
@@ -433,7 +433,7 @@
 			hide: true
 			id: "000000000000005A"
 			rewards: [{
-				auto: "enabled"
+				auto: "no_toast"
 				id: "0000000000000085"
 				item: "kubejs:voucher_fish"
 				type: "item"
@@ -457,7 +457,7 @@
 			hide: true
 			id: "000000000000005C"
 			rewards: [{
-				auto: "enabled"
+				auto: "no_toast"
 				id: "0000000000000086"
 				item: "kubejs:voucher_fish"
 				type: "item"
@@ -475,7 +475,7 @@
 			hide: true
 			id: "000000000000005E"
 			rewards: [{
-				auto: "enabled"
+				auto: "no_toast"
 				id: "0000000000000087"
 				item: "kubejs:voucher_fish"
 				type: "item"
@@ -493,7 +493,7 @@
 			hide: true
 			id: "0000000000000060"
 			rewards: [{
-				auto: "enabled"
+				auto: "no_toast"
 				id: "0000000000000088"
 				item: "kubejs:voucher_fish"
 				type: "item"
@@ -511,7 +511,7 @@
 			hide: true
 			id: "0000000000000062"
 			rewards: [{
-				auto: "enabled"
+				auto: "no_toast"
 				id: "0000000000000089"
 				item: "kubejs:voucher_fish"
 				type: "item"
@@ -529,7 +529,7 @@
 			hide: true
 			id: "0000000000000064"
 			rewards: [{
-				auto: "enabled"
+				auto: "no_toast"
 				id: "000000000000008A"
 				item: "kubejs:voucher_fish"
 				type: "item"
@@ -547,7 +547,7 @@
 			hide: true
 			id: "0000000000000066"
 			rewards: [{
-				auto: "enabled"
+				auto: "no_toast"
 				id: "000000000000008B"
 				item: "kubejs:voucher_fish"
 				type: "item"
@@ -565,7 +565,7 @@
 			hide: true
 			id: "0000000000000068"
 			rewards: [{
-				auto: "enabled"
+				auto: "no_toast"
 				id: "000000000000008C"
 				item: "kubejs:voucher_fish"
 				type: "item"
@@ -583,7 +583,7 @@
 			hide: true
 			id: "000000000000006A"
 			rewards: [{
-				auto: "enabled"
+				auto: "no_toast"
 				id: "000000000000008D"
 				item: "kubejs:voucher_fish"
 				type: "item"
@@ -601,7 +601,7 @@
 			hide: true
 			id: "000000000000006C"
 			rewards: [{
-				auto: "enabled"
+				auto: "no_toast"
 				id: "000000000000008E"
 				item: "kubejs:voucher_fish"
 				type: "item"
@@ -1178,7 +1178,7 @@
 			icon: "aquaculture:tackle_box"
 			id: "20D49BB4FC20F70F"
 			rewards: [{
-				auto: "enabled"
+				auto: "no_toast"
 				count: 2
 				id: "69BEBA202EC74771"
 				item: "kubejs:miles_ticket"
@@ -1211,7 +1211,7 @@
 			hide: true
 			id: "1A61A7489CAE4B91"
 			rewards: [{
-				auto: "enabled"
+				auto: "no_toast"
 				id: "368CF3D265524ED0"
 				item: "kubejs:voucher_fish"
 				type: "item"
@@ -1229,7 +1229,7 @@
 			hide: true
 			id: "261E46C3DF60F387"
 			rewards: [{
-				auto: "enabled"
+				auto: "no_toast"
 				id: "781624763312ADD4"
 				item: "kubejs:voucher_fish"
 				type: "item"
@@ -1247,7 +1247,7 @@
 			hide: true
 			id: "7575A810AD9896BA"
 			rewards: [{
-				auto: "enabled"
+				auto: "no_toast"
 				id: "6BF237C470D92F8B"
 				item: "kubejs:voucher_fish"
 				type: "item"
@@ -1265,7 +1265,7 @@
 			hide: true
 			id: "3DD99FC8B82B7E1D"
 			rewards: [{
-				auto: "enabled"
+				auto: "no_toast"
 				id: "32D966B939F0EA51"
 				item: "kubejs:voucher_fish"
 				type: "item"
