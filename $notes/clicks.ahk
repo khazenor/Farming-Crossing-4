@@ -1,20 +1,16 @@
 f8::
   MouseGetPos, xpos, ypos 
-  createFirstReward()
+  createManyQuests()
   MouseMove, %xpos%, %ypos%
-  return
-  
-f9::
-  questAddMilesReward()
   return
 
 f12::
   ExitApp
 
 createManyQuests(){
-  Loop, 5
+  Loop, 87
   {
-    itemQuestWithTwoRewardsInOrder()
+    customItemCollectionQuest()
   }
 }
 
@@ -76,19 +72,17 @@ itemQuestWithTwoRewards(){
 
 customItemCollectionQuest(){
   send {Click 963 545 Right} ; right click the center of the screen
-  send {Click 1034 228} ; select item quest (need to be updated each time)
+  send {Click 996, 348} ; select item quest
 
   ; create item task
-  send obs
-  send {Click 624 383} ; select first item (need to be updated each time)
-  send {Click 1191 782} ; select "Accept"
+  send {Click 604, 440} ; select first item
+  send {Click 1186, 834} ; select "Accept"
 
   ; create reward
-  send {Click 1166 522} ; click "+" on rewards
-  send {Click 1251 485} ; select "item"
-  Send spr
-  send {Click 624 383} ; select first item (need to be updated each time)
-  send {Click 1191 782} ; select "Accept"
+  send {Click 1169, 584} ; click "+" on rewards
+  send {Click 1169, 584} ; click "item" on the same location
+  send {Click 708, 446} ; select second "item"
+  send {Click 1186, 834} ; select "Accept"
   Send {Esc}
 }
 

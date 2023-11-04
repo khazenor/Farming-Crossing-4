@@ -1,0 +1,1318 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "flora_compendium"
+	group: "5326E5A8132593FA"
+	icon: "meadow:alpine_poppy"
+	id: "4C8AD6835583327F"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "3212D65CD0337FB8"
+			rewards: [{
+				id: "0190881E60915985"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "113E3FAE6CFFEB8C"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			id: "4B06A2E5963F65FE"
+			rewards: [{
+				id: "25F165E9C74F462E"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "65EE420A4295AB11"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -2.5d
+		}
+		{
+			id: "2B3D84C5297A5B1A"
+			rewards: [{
+				id: "2AF2BC0CC1D1AEC6"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "563F5007DDA4A2FF"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -4.0d
+		}
+		{
+			id: "66783EC70CC8F1B2"
+			rewards: [{
+				id: "4C10A67E476864B3"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4C6AC7F51DAB2AEB"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -5.5d
+		}
+		{
+			id: "177F9FC08A93D588"
+			rewards: [{
+				id: "1502C812C995532C"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "12A9021FA29F3F41"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -7.0d
+		}
+		{
+			id: "2AEAF968FDDDD219"
+			rewards: [{
+				id: "2E81FEDC9365289F"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "124FCB1BB00778BF"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -8.5d
+		}
+		{
+			id: "6A8430BF514192E5"
+			rewards: [{
+				id: "50A81AC52C41F5C4"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "71F47F804E6AF2A6"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -10.0d
+		}
+		{
+			id: "6DFC2388D82590AC"
+			rewards: [{
+				id: "1EDBA3F043E1F2C9"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "78FFC92703A9897B"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -11.5d
+		}
+		{
+			id: "6B7737AE5962F434"
+			rewards: [{
+				id: "50ED6D096ACCA8BF"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1B2FD19C55BC5DD9"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -13.0d
+		}
+		{
+			id: "0E74AFC41934516C"
+			rewards: [{
+				id: "33F32F663A7FF041"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "75251C675F3D547E"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -14.5d
+		}
+		{
+			id: "783BCDEDD8A796B1"
+			rewards: [{
+				id: "558AA84E36C18B25"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "57E3CA9228855AF5"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -16.0d
+		}
+		{
+			id: "295C986A5701D4D1"
+			rewards: [{
+				id: "7436A6C0491F85C6"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3D1133CE9C6A4146"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -17.5d
+		}
+		{
+			id: "0192B9CEBEEFFD51"
+			rewards: [{
+				id: "215F9217E97A0205"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0BF9A74AFD3ED16B"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -19.0d
+		}
+		{
+			id: "57F0A9F3C4BD821C"
+			rewards: [{
+				id: "46E2B4A90A61C095"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0C707807882D32CF"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -20.5d
+		}
+		{
+			id: "130F6E411F0553D7"
+			rewards: [{
+				id: "07689FE3F79A1898"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "254676DAD6C9EF13"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -22.0d
+		}
+		{
+			id: "38536FCA89129906"
+			rewards: [{
+				id: "304823D297FCEC7A"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "64FE4B1E31D21F6E"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -23.5d
+		}
+		{
+			id: "51F98B45CC9CB5F0"
+			rewards: [{
+				id: "1FF90A81F1FE385F"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "006462748D6630BD"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -25.0d
+		}
+		{
+			id: "061DFAE291106AA4"
+			rewards: [{
+				id: "35798B9B181DD07E"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "21F07CB450ED6492"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -26.5d
+		}
+		{
+			id: "62075DA7A06B46D4"
+			rewards: [{
+				id: "18769BDD238B736C"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "79D2FB9D178CDFE1"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -28.0d
+		}
+		{
+			id: "1EA8C058BC90A11A"
+			rewards: [{
+				id: "3056D7D39211A245"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3E284C8A0087C907"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -29.5d
+		}
+		{
+			id: "0432906EDF13F7AE"
+			rewards: [{
+				id: "4747D15C869748BA"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4CDABE7C465536FE"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -31.0d
+		}
+		{
+			id: "74432FDDC7A43EB1"
+			rewards: [{
+				id: "34EEB373E61679E1"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "43393B29E13EFCA9"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -32.5d
+		}
+		{
+			id: "01039BEE9C443F44"
+			rewards: [{
+				id: "47B3248BE3EB340D"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4ED358F11ED511CE"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -34.0d
+		}
+		{
+			id: "14923E6F16BFB0F5"
+			rewards: [{
+				id: "360A9671AA5F2EFF"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7F1A75D314B63269"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -35.5d
+		}
+		{
+			id: "73B67F6594B5D135"
+			rewards: [{
+				id: "48EBDC8B81146B28"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "69FB595C588C69FE"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -37.0d
+		}
+		{
+			id: "62EAB361A186CFBB"
+			rewards: [{
+				id: "47973C4C42B5E7F1"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "708D2FBDFC536C67"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -38.5d
+		}
+		{
+			id: "70992E617941F9ED"
+			rewards: [{
+				id: "0461F59AFD9E61E8"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "40635620662B2F90"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -40.0d
+		}
+		{
+			id: "0DCA8577B5138CCE"
+			rewards: [{
+				id: "09474BF0CD0DD19F"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5F130D337AB254B7"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -41.5d
+		}
+		{
+			id: "1157A27ECD8456B9"
+			rewards: [{
+				id: "2089621F121A2E11"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3AC667323AD0F4C8"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -43.0d
+		}
+		{
+			id: "572B24037DA8D9A1"
+			rewards: [{
+				id: "0A51758049FC61E3"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6A1A88FB733485EC"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -44.5d
+		}
+		{
+			id: "56C177020392056E"
+			rewards: [{
+				id: "208EBD92B9D35A2F"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "175CCAB17B64ED29"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -46.0d
+		}
+		{
+			id: "284455841F0D4161"
+			rewards: [{
+				id: "5C1F7B67CF39A539"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "59BB941CB7E459A1"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -47.5d
+		}
+		{
+			id: "1786F53376FCDD84"
+			rewards: [{
+				id: "53718EA230B57AA6"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "092CCC54F8504AB7"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -49.0d
+		}
+		{
+			id: "5D696F946046E000"
+			rewards: [{
+				id: "305168400F0D3450"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "49F6CB5B27983069"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -50.5d
+		}
+		{
+			id: "6B9C0A4540043324"
+			rewards: [{
+				id: "4F192C17C9D4E192"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "73A691C3510510E7"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -52.0d
+		}
+		{
+			id: "422096E795E9F356"
+			rewards: [{
+				id: "43C863867B2D190A"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6417876897C9BC62"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -53.5d
+		}
+		{
+			id: "36CF329C633B854A"
+			rewards: [{
+				id: "11453063B45DB297"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "686BC1DB0D8A0118"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -55.0d
+		}
+		{
+			id: "5DA6682FDB76CAC5"
+			rewards: [{
+				id: "2B18492AE767FB42"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6310EDA42E2EE1E9"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -56.5d
+		}
+		{
+			id: "66972D13BF52C4E3"
+			rewards: [{
+				id: "6AF56A1DA7949664"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2EDEC6E8B30E86D8"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -58.0d
+		}
+		{
+			id: "57DB5C4DA1C832C4"
+			rewards: [{
+				id: "40ADE14E3EC0CD81"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7D0091FDC650C6FA"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -59.5d
+		}
+		{
+			id: "55240FF5E6D766FD"
+			rewards: [{
+				id: "6D238E0FCC641EA2"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7397D0D119CE64F3"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -61.0d
+		}
+		{
+			id: "0DF144954783DFFF"
+			rewards: [{
+				id: "54CD7CD9E3BE09E1"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "23317A6CC74DE53F"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -62.5d
+		}
+		{
+			id: "1DDADB41C7BE7A61"
+			rewards: [{
+				id: "144C7CA9699776F7"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1EB37F10644AC8B5"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -64.0d
+		}
+		{
+			id: "4BF637FCE1D35228"
+			rewards: [{
+				id: "0F8073F15198A40F"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "225BE94321C7D1C6"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -65.5d
+		}
+		{
+			id: "27589721E704D6FA"
+			rewards: [{
+				id: "5B66A70027FE0515"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5A48D47FC8A32B23"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -67.0d
+		}
+		{
+			id: "2F545825EA03CF14"
+			rewards: [{
+				id: "2E30BACB59EB02AF"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "389728322B111AF9"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -68.5d
+		}
+		{
+			id: "202968222EB96FF8"
+			rewards: [{
+				id: "7AE688B0B6F3EC6C"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "125348AAAF24A5DF"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -70.0d
+		}
+		{
+			id: "18D3728148EA5763"
+			rewards: [{
+				id: "077639E130E7121C"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5FC1B3727006BB5F"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -71.5d
+		}
+		{
+			id: "166252E0676BB34D"
+			rewards: [{
+				id: "4901801B3607B45B"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "163CB8E4DDF445E0"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -73.0d
+		}
+		{
+			id: "1D9EFFF3E0B0D673"
+			rewards: [{
+				id: "795791A213F7659F"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5F058BE8D22D8931"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -74.5d
+		}
+		{
+			id: "5FB504FC2F0A93B1"
+			rewards: [{
+				id: "637F22D5DE567687"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "563F182DE43CE377"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -76.0d
+		}
+		{
+			id: "212F720BED082F09"
+			rewards: [{
+				id: "5CB5DEC197347478"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0A3E9E7C8EC6D809"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -77.5d
+		}
+		{
+			id: "789E8A2F2E839823"
+			rewards: [{
+				id: "05881D37FEB24F80"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3FF05DD70C51BC05"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -79.0d
+		}
+		{
+			id: "10082BCA9BC2A258"
+			rewards: [{
+				id: "7232D0279FED853E"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2B12B7CA52365241"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -80.5d
+		}
+		{
+			id: "413269B30863E8DA"
+			rewards: [{
+				id: "24AC6B559AAB8F21"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3A2CB7C0D9B0DD3B"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -82.0d
+		}
+		{
+			id: "07E6B1EE3C87BFBA"
+			rewards: [{
+				id: "2359E5DAB0C950C7"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "55CA4FC2669A447F"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -83.5d
+		}
+		{
+			id: "22168C4752E78255"
+			rewards: [{
+				id: "51CE90EBA39D42F7"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2D30CEB36228674D"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -85.0d
+		}
+		{
+			id: "152EFC3738879BB4"
+			rewards: [{
+				id: "7BF91DE4B1585E2F"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2D195442F67F87BF"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -86.5d
+		}
+		{
+			id: "364D7D0840AA35AA"
+			rewards: [{
+				id: "7930D22E971686FB"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "13B01C557AA49E52"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -88.0d
+		}
+		{
+			id: "71D9E4E4ED52D7E6"
+			rewards: [{
+				id: "60673467D3226700"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2F2DDB64A71C6BBB"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -89.5d
+		}
+		{
+			id: "5CF386610E19E222"
+			rewards: [{
+				id: "7495950D9458C72E"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "09DCA73AB4B4D550"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -91.0d
+		}
+		{
+			id: "40470BC938109AB6"
+			rewards: [{
+				id: "26D1B8F07A9E04E6"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "115B54A6EED044B6"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -92.5d
+		}
+		{
+			id: "7FDDC91547CCC951"
+			rewards: [{
+				id: "617CD2DA3D880EE9"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "59C1039344083F7C"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -94.0d
+		}
+		{
+			id: "2AF94A4E214247B7"
+			rewards: [{
+				id: "219737085090BEF1"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "22A3107A146D8F84"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -95.5d
+		}
+		{
+			id: "38AD33287133C75E"
+			rewards: [{
+				id: "44B7C5B437BBA2A2"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4159CBEBC58D434B"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -97.0d
+		}
+		{
+			id: "5BA5501A1DB04AC5"
+			rewards: [{
+				id: "2C8A234AA142BF89"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "715A7EFE95CBEC04"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -98.5d
+		}
+		{
+			id: "1FEA9C4BA6D08AA0"
+			rewards: [{
+				id: "31ECECBBAD78DFC4"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1A0C88DD39E342C2"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -100.0d
+		}
+		{
+			id: "2A3B6512169895C5"
+			rewards: [{
+				id: "013A3B5E784897B7"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "294C6748F6AE30A5"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -101.5d
+		}
+		{
+			id: "6F8028F064BB29FE"
+			rewards: [{
+				id: "6D1A1099FB8F8948"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "72584C46F2D698BC"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -103.0d
+		}
+		{
+			id: "4E34F495545EAEE3"
+			rewards: [{
+				id: "58BC1D6A899B5C96"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4DA3D68A80220260"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -104.5d
+		}
+		{
+			id: "41CA2AAA6BA6981A"
+			rewards: [{
+				id: "3BB6650115C2032B"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7520C23177270B8F"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -106.0d
+		}
+		{
+			id: "6B19E0D9D9894931"
+			rewards: [{
+				id: "4B70568E82AAF0B8"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "41446F873C7E0741"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -107.5d
+		}
+		{
+			id: "0B92ACBFC5DA03FB"
+			rewards: [{
+				id: "4525B57798308A91"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3F023AC27FC914B6"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -109.0d
+		}
+		{
+			id: "02F6CE1F1B1CF04E"
+			rewards: [{
+				id: "7C352CAB3CC721EF"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "61989038FADC045A"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -110.5d
+		}
+		{
+			id: "67BDCFEB0922E814"
+			rewards: [{
+				id: "2749DDEDE0A8CCA5"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7CC072F8881ECA42"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -112.0d
+		}
+		{
+			id: "76F1BB0AEF24410E"
+			rewards: [{
+				id: "065D8EC1C9095414"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "12BA73041381A1E0"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -113.5d
+		}
+		{
+			id: "46D567DE9AAD572B"
+			rewards: [{
+				id: "2279AC5D2B81080D"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0B40B7D63BE2478A"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -115.0d
+		}
+		{
+			id: "6993883D4B5E7BBB"
+			rewards: [{
+				id: "29F981D90C0CD6AA"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "498EF684A73AE57C"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -116.5d
+		}
+		{
+			id: "002FE540D477E7E4"
+			rewards: [{
+				id: "37AA12D88B2715F7"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "185D35A1B7CA56D9"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -118.0d
+		}
+		{
+			id: "69313A18A54335B5"
+			rewards: [{
+				id: "5D2EEC9D38DA1E43"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "43AB5332E606EC37"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -119.5d
+		}
+		{
+			id: "42AB19CCF5763144"
+			rewards: [{
+				id: "2AED3C8A10D5BD1A"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3219F2B825A2BF30"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -121.0d
+		}
+		{
+			id: "495BAAF005B19B1E"
+			rewards: [{
+				id: "0D5AD19FF2E2ADE0"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4A973FCED1F1A7DA"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -122.5d
+		}
+		{
+			id: "4F9DA97AA3358DA3"
+			rewards: [{
+				id: "232E7BB535FF4087"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "54BFA2F3A48A7E80"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -124.0d
+		}
+		{
+			id: "0F47894A6D13590C"
+			rewards: [{
+				id: "3D03DD5C6B46C9D4"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2A742B99C2825F12"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -125.5d
+		}
+		{
+			id: "04AD6AD7F8268F51"
+			rewards: [{
+				id: "7CDD03D77AEF7EF7"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7622AB023D285C37"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -127.0d
+		}
+		{
+			id: "1B465A078DE95E01"
+			rewards: [{
+				id: "3E0912BCAD390CB8"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1D565DB7C3208BAA"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -128.5d
+		}
+		{
+			id: "33D4A7645EA94952"
+			rewards: [{
+				id: "24F42109F0C78111"
+				item: "minecraft:bone_meal"
+				type: "item"
+			}]
+			tasks: [{
+				id: "213570945A2B0010"
+				item: "minecraft:chest"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -130.0d
+		}
+	]
+	title: "Flora Compendium"
+}
