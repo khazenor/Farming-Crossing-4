@@ -9,6 +9,7 @@ StartupEvents.registry('item', event => {
 	event.create('kubejs:voucher_animal').displayName("Animal Watching Voucher").maxStackSize(10000)
 	event.create('kubejs:voucher_fish').displayName("Fishing Collection Voucher").maxStackSize(10000)
 	event.create('kubejs:voucher_cooking').displayName("Cooking Watching Voucher").maxStackSize(10000)
+	event.create('kubejs:voucher_fauna').displayName("Fauna Compendium Voucher").maxStackSize(10000)
 	event.create('kubejs:tellme').displayName('TellMe Debug Item')
 	event.create('kubejs:1k_storage_disk_ticket').displayName('1k storage disk ticket')
 	event.create('kubejs:4k_storage_disk_ticket').displayName('4k storage disk ticket (72 Miles Tickets)')
