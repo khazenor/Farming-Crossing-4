@@ -1,5 +1,0 @@
-gamerule doInsomnia false
-gamerule doPatrolSpawning false
-gamerule disableRaids true
-gamerule playersSleepingPercentage -1
-gamerule keepInventory true
