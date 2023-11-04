@@ -437,7 +437,7 @@
 			}]
 			title: "Catching Fishes"
 			x: 0.5d
-			y: -2.0d
+			y: -1.5d
 		}
 		{
 			dependencies: ["0D0FDA6FBDCEFF3B"]
@@ -576,7 +576,7 @@
 			}]
 			title: "Furniture Cutting"
 			x: 0.5d
-			y: -1.0d
+			y: -0.5d
 		}
 		{
 			dependencies: ["7CF35DAE02E4B6C0"]
@@ -597,8 +597,8 @@
 			icon: "moa_decor_toys:conejodorado"
 			id: "2D62FBEF18E6ABF6"
 			rewards: [{
-				id: "42C5F4ACECA9060F"
-				item: "paraglider:paraglider"
+				id: "5E457AA1EC86DB75"
+				item: "artifacts:running_shoes"
 				type: "item"
 			}]
 			tasks: [{
@@ -1124,6 +1124,32 @@
 			title: "Netherite Tent"
 			x: 5.5d
 			y: 0.5d
+		}
+		{
+			dependencies: ["7CF35DAE02E4B6C0"]
+			hide: true
+			icon: "minecraft:cherry_sapling"
+			id: "0EABDA42EA87C46C"
+			rewards: [{
+				id: "1909F35E49E6CC38"
+				item: "minecraft:bundle"
+				type: "item"
+			}]
+			tasks: [{
+				id: "512D2BAECBD98AAE"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "forge:fauna_quest_items"
+					}
+				}
+				title: "Any #forge:fauna_quest_items"
+				type: "item"
+			}]
+			title: "Collecting Fauna"
+			x: 0.5d
+			y: -2.5d
 		}
 	]
 	title: "Farming Crossing 4"
