@@ -991,6 +991,151 @@
 			x: -4.0d
 			y: 0.0d
 		}
+		{
+			dependencies: ["25D9DDF8495B3488"]
+			hide: true
+			icon: "kubejs:cert_flora_wood"
+			id: "6D8805BD42E75126"
+			rewards: [
+				{
+					count: 4
+					id: "4970928994613C8A"
+					item: "kubejs:miles_ticket"
+					type: "item"
+				}
+				{
+					id: "488CFE7F5C831850"
+					item: "kubejs:cert_flora_wood"
+					type: "item"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 4L
+				id: "1073549DC3772E01"
+				item: { Count: 4b, id: "kubejs:voucher_flora" }
+				type: "item"
+			}]
+			title: "Wooden Flora Compendium Certificate"
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6D8805BD42E75126"]
+			hide: true
+			icon: "kubejs:cert_flora_stone"
+			id: "2C062B4C1CE51E3F"
+			rewards: [
+				{
+					count: 8
+					id: "1F3A5379547CAA1A"
+					item: "kubejs:miles_ticket"
+					type: "item"
+				}
+				{
+					id: "6730B575E2877BEF"
+					item: "kubejs:cert_flora_stone"
+					type: "item"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 8L
+				id: "6E5ACFA267607CFF"
+				item: { Count: 8b, id: "kubejs:voucher_flora" }
+				type: "item"
+			}]
+			title: "Stone Flora Compendium Certificate"
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2C062B4C1CE51E3F"]
+			hide: true
+			icon: "kubejs:cert_flora_iron"
+			id: "38BAD5B76DEBBE27"
+			rewards: [
+				{
+					count: 30
+					id: "2F64528D0A85CFB0"
+					item: "kubejs:miles_ticket"
+					type: "item"
+				}
+				{
+					id: "694BFF08BD36BD04"
+					item: "kubejs:cert_flora_iron"
+					type: "item"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 15L
+				id: "31F74D139AC9547E"
+				item: { Count: 15b, id: "kubejs:voucher_flora" }
+				type: "item"
+			}]
+			title: "Iron Flora Compendium Certificate"
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["38BAD5B76DEBBE27"]
+			hide: true
+			icon: "kubejs:cert_flora_gold"
+			id: "0F79BB3F909CC9E9"
+			rewards: [
+				{
+					count: 48
+					id: "2ADEA2054DC53C81"
+					item: "kubejs:miles_ticket"
+					type: "item"
+				}
+				{
+					id: "42657D5C9A200483"
+					item: "kubejs:cert_flora_gold"
+					type: "item"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 24L
+				id: "69B702AA7E5D4AD6"
+				item: { Count: 24b, id: "kubejs:voucher_flora" }
+				type: "item"
+			}]
+			title: "Golden Flora Compendium Certificate"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0F79BB3F909CC9E9"]
+			hide: true
+			icon: "kubejs:cert_flora_diamond"
+			id: "2087C7B8A5387A9C"
+			rewards: [
+				{
+					count: 105
+					id: "6E398AB81CE3CDA5"
+					item: "kubejs:miles_ticket"
+					type: "item"
+				}
+				{
+					id: "791038BCE516C9E4"
+					item: "kubejs:cert_flora_diamond"
+					type: "item"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 35L
+				id: "0A17A2DF8D274DEB"
+				item: { Count: 35b, id: "kubejs:voucher_flora" }
+				type: "item"
+			}]
+			title: "Diamond Flora Compendium Certificate"
+			x: 1.0d
+			y: 0.0d
+		}
 	]
 	title: "Mileage Reward Program"
 }
