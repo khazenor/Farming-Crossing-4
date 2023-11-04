@@ -44,6 +44,10 @@
 				"\"I'm so glad you came back for some cooking lessons! There are so many different food you can make in this region!\""
 				""
 				"- Pamela the Rabbit"
+				""
+				"--------"
+				""
+				"The cooking quests grant you Cooking Collection Vouchers, which you can redeem in the Miles Reward Program for Miles Ticket Rewards."
 			]
 			hide: true
 			icon: "minecraft:wheat_seeds"
@@ -414,6 +418,8 @@
 				"{image:khazenor:textures/aquaculture/fish_tooltip.png width:180 height:70 align:1}"
 				""
 				"{image:khazenor:textures/aquaculture/fish_sell_recipe.png width:180 height:90 align:1}"
+				""
+				"Catching a new fish for the first time also grant you Fishing Collection Vouchers, which you can redeem in the Miles Reward Program for Miles Ticket Rewards."
 			]
 			hide: true
 			icon: "aquaculture:atlantic_cod"
@@ -441,7 +447,11 @@
 		}
 		{
 			dependencies: ["0D0FDA6FBDCEFF3B"]
-			description: ["You can buy decorations from wondering traders."]
+			description: [
+				"You can buy decorations from wondering traders."
+				""
+				"Buying a new decoration for the first time also grant you decoration Vouchers, which you can redeem in the Miles Reward Program for Miles Ticket Rewards."
+			]
 			hide: true
 			icon: "moa_decor_toys:lorocian"
 			id: "7DA124C26F220448"
@@ -589,9 +599,11 @@
 				""
 				"To complete the animal observation quests, simply look at them while nearby."
 				""
+				"These quest grant you Animal Watching Vouchers, which you can redeem in the Miles Reward Program for Miles Ticket Rewards."
+				""
 				"The quests in the Animal Watching Questline are roughly organized by spawning biomes."
 				""
-				"If you like you can use Mob Yoinker or Mob Catcher to build your own zoo!"
+				"If you like you can use Mob Capturing tool to build your own zoo!"
 			]
 			hide: true
 			icon: "moa_decor_toys:conejodorado"
@@ -1127,6 +1139,7 @@
 		}
 		{
 			dependencies: ["7CF35DAE02E4B6C0"]
+			description: ["The Flora Compendium quests grant you Flora Compendium Vouchers, which you can redeem in the Miles Reward Program for Miles Ticket Rewards."]
 			hide: true
 			icon: "minecraft:cherry_sapling"
 			id: "0EABDA42EA87C46C"
