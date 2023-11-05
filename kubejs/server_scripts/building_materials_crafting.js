@@ -1,5 +1,8 @@
 ServerEvents.recipes(event => {
   event.shapeless(
+    Item.of('minecraft:dirt', 32),
+    ['minecraft:dirt', 'kubejs:miles_ticket'])
+  event.shapeless(
     Item.of('minecraft:cobblestone', 32),
     ['minecraft:cobblestone', 'kubejs:miles_ticket'])
   event.shapeless(

@@ -1,6 +1,7 @@
 ItemEvents.tooltip(event => {
   event.add(
     [
+      'minecraft:dirt', 
       'minecraft:cobblestone', 
       'minecraft:cobbled_deepslate', 
       'minecraft:diorite', 

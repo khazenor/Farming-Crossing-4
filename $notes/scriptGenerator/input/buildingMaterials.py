@@ -1,5 +1,6 @@
 buildingMaterials = [
     # not in quests
+    "minecraft:dirt",
     "minecraft:cobblestone",
     "minecraft:cobbled_deepslate",
     "minecraft:diorite",
