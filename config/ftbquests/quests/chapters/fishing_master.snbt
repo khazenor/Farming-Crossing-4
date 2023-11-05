@@ -12,12 +12,6 @@
 			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "0000000000000029"
-			rewards: [{
-				auto: "no_toast"
-				id: "000000000000002B"
-				item: "kubejs:voucher_fish"
-				type: "item"
-			}]
 			tasks: [{
 				id: "000000000000002A"
 				item: "aquaculture:red_grouper"
@@ -30,12 +24,6 @@
 			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "000000000000002C"
-			rewards: [{
-				auto: "no_toast"
-				id: "000000000000006E"
-				item: "kubejs:voucher_fish"
-				type: "item"
-			}]
 			tasks: [{
 				id: "000000000000002D"
 				item: "aquaculture:tuna"
@@ -48,12 +36,6 @@
 			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "0000000000000030"
-			rewards: [{
-				auto: "no_toast"
-				id: "0000000000000070"
-				item: "kubejs:voucher_fish"
-				type: "item"
-			}]
 			tasks: [{
 				id: "0000000000000031"
 				item: {
@@ -72,12 +54,6 @@
 			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "0000000000000032"
-			rewards: [{
-				auto: "no_toast"
-				id: "0000000000000071"
-				item: "kubejs:voucher_fish"
-				type: "item"
-			}]
 			tasks: [{
 				id: "0000000000000033"
 				item: "aquaculture:goldfish"
@@ -90,12 +66,6 @@
 			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "0000000000000034"
-			rewards: [{
-				auto: "no_toast"
-				id: "0000000000000072"
-				item: "kubejs:voucher_fish"
-				type: "item"
-			}]
 			tasks: [{
 				id: "0000000000000035"
 				item: "aquaculture:box_turtle"
@@ -108,12 +78,6 @@
 			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "0000000000000036"
-			rewards: [{
-				auto: "no_toast"
-				id: "0000000000000073"
-				item: "kubejs:voucher_fish"
-				type: "item"
-			}]
 			tasks: [{
 				id: "0000000000000037"
 				item: "aquaculture:atlantic_cod"
@@ -126,12 +90,6 @@
 			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "0000000000000038"
-			rewards: [{
-				auto: "no_toast"
-				id: "0000000000000074"
-				item: "kubejs:voucher_fish"
-				type: "item"
-			}]
 			tasks: [{
 				id: "0000000000000039"
 				item: "aquaculture:blackfish"
@@ -144,12 +102,6 @@
 			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "000000000000003A"
-			rewards: [{
-				auto: "no_toast"
-				id: "0000000000000075"
-				item: "kubejs:voucher_fish"
-				type: "item"
-			}]
 			tasks: [{
 				id: "000000000000003B"
 				item: "aquaculture:pacific_halibut"
@@ -162,12 +114,6 @@
 			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "000000000000003C"
-			rewards: [{
-				auto: "no_toast"
-				id: "0000000000000076"
-				item: "kubejs:voucher_fish"
-				type: "item"
-			}]
 			tasks: [{
 				id: "000000000000003D"
 				item: "aquaculture:atlantic_halibut"
@@ -180,12 +126,6 @@
 			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "000000000000003E"
-			rewards: [{
-				auto: "no_toast"
-				id: "0000000000000077"
-				item: "kubejs:voucher_fish"
-				type: "item"
-			}]
 			tasks: [{
 				id: "000000000000003F"
 				item: "aquaculture:atlantic_herring"
@@ -198,12 +138,6 @@
 			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "0000000000000040"
-			rewards: [{
-				auto: "no_toast"
-				id: "0000000000000078"
-				item: "kubejs:voucher_fish"
-				type: "item"
-			}]
 			tasks: [{
 				id: "0000000000000041"
 				item: "aquaculture:pink_salmon"
@@ -216,12 +150,6 @@
 			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "0000000000000042"
-			rewards: [{
-				auto: "no_toast"
-				id: "0000000000000079"
-				item: "kubejs:voucher_fish"
-				type: "item"
-			}]
 			tasks: [{
 				id: "0000000000000043"
 				item: "aquaculture:pollock"
@@ -234,12 +162,6 @@
 			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "0000000000000044"
-			rewards: [{
-				auto: "no_toast"
-				id: "000000000000007A"
-				item: "kubejs:voucher_fish"
-				type: "item"
-			}]
 			tasks: [{
 				id: "0000000000000045"
 				item: "aquaculture:rainbow_trout"
@@ -252,12 +174,6 @@
 			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "0000000000000046"
-			rewards: [{
-				auto: "no_toast"
-				id: "000000000000007B"
-				item: "kubejs:voucher_fish"
-				type: "item"
-			}]
 			tasks: [{
 				id: "0000000000000047"
 				item: "aquaculture:bayad"
@@ -270,12 +186,6 @@
 			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "0000000000000048"
-			rewards: [{
-				auto: "no_toast"
-				id: "000000000000007C"
-				item: "kubejs:voucher_fish"
-				type: "item"
-			}]
 			tasks: [{
 				id: "0000000000000049"
 				item: "aquaculture:boulti"
@@ -288,12 +198,6 @@
 			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "000000000000004A"
-			rewards: [{
-				auto: "no_toast"
-				id: "000000000000007D"
-				item: "kubejs:voucher_fish"
-				type: "item"
-			}]
 			tasks: [{
 				id: "000000000000004B"
 				item: "aquaculture:capitaine"
@@ -306,12 +210,6 @@
 			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "000000000000004C"
-			rewards: [{
-				auto: "no_toast"
-				id: "000000000000007E"
-				item: "kubejs:voucher_fish"
-				type: "item"
-			}]
 			tasks: [{
 				id: "000000000000004D"
 				item: "aquaculture:synodontis"
@@ -324,12 +222,6 @@
 			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "000000000000004E"
-			rewards: [{
-				auto: "no_toast"
-				id: "000000000000007F"
-				item: "kubejs:voucher_fish"
-				type: "item"
-			}]
 			tasks: [{
 				id: "000000000000004F"
 				item: "aquaculture:smallmouth_bass"
@@ -342,12 +234,6 @@
 			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "0000000000000050"
-			rewards: [{
-				auto: "no_toast"
-				id: "0000000000000080"
-				item: "kubejs:voucher_fish"
-				type: "item"
-			}]
 			tasks: [{
 				id: "0000000000000051"
 				item: "aquaculture:bluegill"
@@ -360,12 +246,6 @@
 			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "0000000000000052"
-			rewards: [{
-				auto: "no_toast"
-				id: "0000000000000081"
-				item: "kubejs:voucher_fish"
-				type: "item"
-			}]
 			tasks: [{
 				id: "0000000000000053"
 				item: "aquaculture:brown_trout"
@@ -378,12 +258,6 @@
 			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "0000000000000054"
-			rewards: [{
-				auto: "no_toast"
-				id: "0000000000000082"
-				item: "kubejs:voucher_fish"
-				type: "item"
-			}]
 			tasks: [{
 				id: "0000000000000055"
 				item: "aquaculture:carp"
@@ -396,12 +270,6 @@
 			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "0000000000000056"
-			rewards: [{
-				auto: "no_toast"
-				id: "0000000000000083"
-				item: "kubejs:voucher_fish"
-				type: "item"
-			}]
 			tasks: [{
 				id: "0000000000000057"
 				item: "aquaculture:catfish"
@@ -414,12 +282,6 @@
 			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "0000000000000058"
-			rewards: [{
-				auto: "no_toast"
-				id: "0000000000000084"
-				item: "kubejs:voucher_fish"
-				type: "item"
-			}]
 			tasks: [{
 				id: "0000000000000059"
 				item: "aquaculture:gar"
@@ -432,12 +294,6 @@
 			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "000000000000005A"
-			rewards: [{
-				auto: "no_toast"
-				id: "0000000000000085"
-				item: "kubejs:voucher_fish"
-				type: "item"
-			}]
 			tasks: [{
 				id: "000000000000005B"
 				item: {
@@ -456,12 +312,6 @@
 			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "000000000000005C"
-			rewards: [{
-				auto: "no_toast"
-				id: "0000000000000086"
-				item: "kubejs:voucher_fish"
-				type: "item"
-			}]
 			tasks: [{
 				id: "000000000000005D"
 				item: "aquaculture:muskellunge"
@@ -474,12 +324,6 @@
 			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "000000000000005E"
-			rewards: [{
-				auto: "no_toast"
-				id: "0000000000000087"
-				item: "kubejs:voucher_fish"
-				type: "item"
-			}]
 			tasks: [{
 				id: "000000000000005F"
 				item: "aquaculture:perch"
@@ -492,12 +336,6 @@
 			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "0000000000000060"
-			rewards: [{
-				auto: "no_toast"
-				id: "0000000000000088"
-				item: "kubejs:voucher_fish"
-				type: "item"
-			}]
 			tasks: [{
 				id: "0000000000000061"
 				item: "aquaculture:arapaima"
@@ -510,12 +348,6 @@
 			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "0000000000000062"
-			rewards: [{
-				auto: "no_toast"
-				id: "0000000000000089"
-				item: "kubejs:voucher_fish"
-				type: "item"
-			}]
 			tasks: [{
 				id: "0000000000000063"
 				item: "aquaculture:piranha"
@@ -528,12 +360,6 @@
 			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "0000000000000064"
-			rewards: [{
-				auto: "no_toast"
-				id: "000000000000008A"
-				item: "kubejs:voucher_fish"
-				type: "item"
-			}]
 			tasks: [{
 				id: "0000000000000065"
 				item: "aquaculture:tambaqui"
@@ -546,12 +372,6 @@
 			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "0000000000000066"
-			rewards: [{
-				auto: "no_toast"
-				id: "000000000000008B"
-				item: "kubejs:voucher_fish"
-				type: "item"
-			}]
 			tasks: [{
 				id: "0000000000000067"
 				item: "aquaculture:brown_shrooma"
@@ -564,12 +384,6 @@
 			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "0000000000000068"
-			rewards: [{
-				auto: "no_toast"
-				id: "000000000000008C"
-				item: "kubejs:voucher_fish"
-				type: "item"
-			}]
 			tasks: [{
 				id: "0000000000000069"
 				item: "aquaculture:red_shrooma"
@@ -582,12 +396,6 @@
 			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "000000000000006A"
-			rewards: [{
-				auto: "no_toast"
-				id: "000000000000008D"
-				item: "kubejs:voucher_fish"
-				type: "item"
-			}]
 			tasks: [{
 				id: "000000000000006B"
 				item: "aquaculture:jellyfish"
@@ -600,12 +408,6 @@
 			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "000000000000006C"
-			rewards: [{
-				auto: "no_toast"
-				id: "000000000000008E"
-				item: "kubejs:voucher_fish"
-				type: "item"
-			}]
 			tasks: [{
 				id: "000000000000006D"
 				item: "aquaculture:arrau_turtle"
@@ -1210,12 +1012,6 @@
 			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "1A61A7489CAE4B91"
-			rewards: [{
-				auto: "no_toast"
-				id: "368CF3D265524ED0"
-				item: "kubejs:voucher_fish"
-				type: "item"
-			}]
 			tasks: [{
 				id: "0BBF2695EF681EB7"
 				item: "minecraft:cod"
@@ -1228,12 +1024,6 @@
 			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "261E46C3DF60F387"
-			rewards: [{
-				auto: "no_toast"
-				id: "781624763312ADD4"
-				item: "kubejs:voucher_fish"
-				type: "item"
-			}]
 			tasks: [{
 				id: "4F967C4395566AA8"
 				item: "minecraft:salmon"
@@ -1246,12 +1036,6 @@
 			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "7575A810AD9896BA"
-			rewards: [{
-				auto: "no_toast"
-				id: "6BF237C470D92F8B"
-				item: "kubejs:voucher_fish"
-				type: "item"
-			}]
 			tasks: [{
 				id: "6178BC66EF23B819"
 				item: "minecraft:tropical_fish"
@@ -1264,12 +1048,6 @@
 			dependencies: ["51AC164BB0124EBA"]
 			hide: true
 			id: "3DD99FC8B82B7E1D"
-			rewards: [{
-				auto: "no_toast"
-				id: "32D966B939F0EA51"
-				item: "kubejs:voucher_fish"
-				type: "item"
-			}]
 			tasks: [{
 				id: "5404726700E45E98"
 				item: "minecraft:pufferfish"

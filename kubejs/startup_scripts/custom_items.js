@@ -3,13 +3,6 @@ StartupEvents.registry('item', event => {
   // The texture for this item has to be placed in kubejs/assets/kubejs/textures/item/test_item.png
   // If you want a custom item model, you can create one in Blockbench and put it in kubejs/assets/kubejs/models/item/test_item.json
   event.create('kubejs:miles_ticket').displayName('Miles Ticket').maxStackSize(10000)
-	event.create('kubejs:voucher_decoration_common').displayName("Common Decoration Collection Voucher").maxStackSize(10000)
-	event.create('kubejs:voucher_decoration_rare').displayName("Rare Decoration Collection Voucher").maxStackSize(10000)
-	event.create('kubejs:voucher_hat').displayName("Hat Collection Voucher").maxStackSize(10000)
-	event.create('kubejs:voucher_animal').displayName("Animal Watching Voucher").maxStackSize(10000)
-	event.create('kubejs:voucher_fish').displayName("Fishing Collection Voucher").maxStackSize(10000)
-	event.create('kubejs:voucher_cooking').displayName("Cooking Collection Voucher").maxStackSize(10000)
-	event.create('kubejs:voucher_flora').displayName("Flora Compendium Voucher").maxStackSize(10000)
 	event.create('kubejs:tellme').displayName('TellMe Debug Item')
 	event.create('kubejs:1k_storage_disk_ticket').displayName('1k storage disk ticket')
 	event.create('kubejs:4k_storage_disk_ticket').displayName('4k storage disk ticket (72 Miles Tickets)')
