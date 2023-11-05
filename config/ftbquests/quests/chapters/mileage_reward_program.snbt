@@ -432,6 +432,7 @@
 				"2E3120C76F4ADE43"
 				"7546C3A01A6BF772"
 			]
+			min_required_dependencies: 10
 			hide: true
 			icon: "kubejs:cert_decocom_wood"
 			id: "79C7500CAA3A99A3"
@@ -447,7 +448,7 @@
 				id: "029A38F6275CB9D8"
 				type: "item"
 			}]
-			title: "Purchased WW Unique Common Decorations"
+			title: "Purchased 10 Unique Common Decorations"
 			x: -3.0d
 			y: 3.0d
 		}
@@ -875,6 +876,7 @@
 				"2E3120C76F4ADE43"
 				"7546C3A01A6BF772"
 			]
+			min_required_dependencies: 40
 			hide: true
 			icon: "kubejs:cert_decocom_stone"
 			id: "6762FFD6458747DE"
@@ -890,7 +892,7 @@
 				id: "6B47BB5B28F52401"
 				type: "item"
 			}]
-			title: "Purchased WW Unique Common Decorations"
+			title: "Purchased 40 Unique Common Decorations"
 			x: -2.0d
 			y: 3.0d
 		}
@@ -1318,6 +1320,7 @@
 				"2E3120C76F4ADE43"
 				"7546C3A01A6BF772"
 			]
+			min_required_dependencies: 95
 			hide: true
 			icon: "kubejs:cert_decocom_iron"
 			id: "1F961B590FBF4532"
@@ -1333,7 +1336,7 @@
 				id: "180B71A6A033E70B"
 				type: "item"
 			}]
-			title: "Purchased WW Unique Common Decorations"
+			title: "Purchased 95 Unique Common Decorations"
 			x: -1.0d
 			y: 3.0d
 		}
@@ -1761,6 +1764,7 @@
 				"2E3120C76F4ADE43"
 				"7546C3A01A6BF772"
 			]
+			min_required_dependencies: 190
 			hide: true
 			icon: "kubejs:cert_decocom_gold"
 			id: "2CA1DF422552D48B"
@@ -1776,7 +1780,7 @@
 				id: "3BB411529015B013"
 				type: "item"
 			}]
-			title: "Purchased WW Unique Common Decorations"
+			title: "Purchased 190 Unique Common Decorations"
 			x: 0.0d
 			y: 3.0d
 		}
@@ -2204,6 +2208,7 @@
 				"2E3120C76F4ADE43"
 				"7546C3A01A6BF772"
 			]
+			min_required_dependencies: 334
 			hide: true
 			icon: "kubejs:cert_decocom_diamond"
 			id: "6045E2A7925B12D6"
@@ -2224,7 +2229,7 @@
 				id: "7B60E2B64D4DD0E2"
 				type: "item"
 			}]
-			title: "Purchased WW Unique Common Decorations"
+			title: "Common Decorations Catalog Completion!"
 			x: 1.0d
 			y: 3.0d
 		}
@@ -2682,6 +2687,7 @@
 				"2E3120C76F4ADE43"
 				"7546C3A01A6BF772"
 			]
+			min_required_dependencies: 1
 			hide: true
 			icon: "kubejs:cert_decorare_wood"
 			id: "293263143F2388DC"
@@ -2697,7 +2703,7 @@
 				id: "37BAE077CD29D5E0"
 				type: "item"
 			}]
-			title: "Purchased RR Unique Rare Decorations"
+			title: "Purchased First Rare Decoration"
 			x: -3.0d
 			y: 4.0d
 		}
@@ -3155,6 +3161,7 @@
 				"2E3120C76F4ADE43"
 				"7546C3A01A6BF772"
 			]
+			min_required_dependencies: 4
 			hide: true
 			icon: "kubejs:cert_decorare_stone"
 			id: "1DECA2763F595B8C"
@@ -3170,7 +3177,7 @@
 				id: "536DEA4E4C10DA46"
 				type: "item"
 			}]
-			title: "Purchased RR Unique Rare Decorations"
+			title: "Purchased 4 Unique Rare Decorations"
 			x: -2.0d
 			y: 4.0d
 		}
@@ -3628,6 +3635,7 @@
 				"2E3120C76F4ADE43"
 				"7546C3A01A6BF772"
 			]
+			min_required_dependencies: 9
 			hide: true
 			icon: "kubejs:cert_decorare_iron"
 			id: "13A0B3991E1D7B30"
@@ -3643,7 +3651,7 @@
 				id: "54419B40C04808ED"
 				type: "item"
 			}]
-			title: "Purchased RR Unique Rare Decorations"
+			title: "Purchased 9 Unique Rare Decorations"
 			x: -1.0d
 			y: 4.0d
 		}
@@ -4101,6 +4109,7 @@
 				"2E3120C76F4ADE43"
 				"7546C3A01A6BF772"
 			]
+			min_required_dependencies: 17
 			hide: true
 			icon: "kubejs:cert_decorare_gold"
 			id: "20A4454D7B82DAAE"
@@ -4116,7 +4125,7 @@
 				id: "4AA1C14A8E2D67A8"
 				type: "item"
 			}]
-			title: "Purchased RR Unique Rare Decorations"
+			title: "Purchased 17 Unique Rare Decorations"
 			x: 0.0d
 			y: 4.0d
 		}
@@ -4594,7 +4603,7 @@
 				id: "36BCBB974BB15803"
 				type: "item"
 			}]
-			title: "Purchased RR Unique Rare Decorations"
+			title: "Rare Decorations Catalog Completion"
 			x: 1.0d
 			y: 4.0d
 		}
@@ -5291,6 +5300,7 @@
 				"2E3120C76F4ADE43"
 				"7546C3A01A6BF772"
 			]
+			min_required_dependencies: 5
 			hide: true
 			icon: "kubejs:cert_hat_wood"
 			id: "644B450087A604E7"
@@ -5301,17 +5311,12 @@
 					item: "kubejs:miles_ticket"
 					type: "item"
 				}
-				{
-					id: "4648EEB394D69F0E"
-					item: "minecraft:item_frame"
-					type: "item"
-				}
 			]
 			tasks: [{
 				id: "2BFC1CE4B5F89657"
 				type: "item"
 			}]
-			title: "Purchased HH Unique Hats"
+			title: "Purchased 5 Unique Hats"
 			x: -3.0d
 			y: 5.0d
 		}
@@ -6008,6 +6013,7 @@
 				"2E3120C76F4ADE43"
 				"7546C3A01A6BF772"
 			]
+			min_required_dependencies: 25
 			hide: true
 			icon: "kubejs:cert_hat_stone"
 			id: "21EE2673C216F66B"
@@ -6023,7 +6029,7 @@
 				id: "5F54FEE639B54D18"
 				type: "item"
 			}]
-			title: "Purchased HH Unique Hats"
+			title: "Purchased 25 Unique Hats"
 			x: -2.0d
 			y: 5.0d
 		}
@@ -6720,6 +6726,7 @@
 				"2E3120C76F4ADE43"
 				"7546C3A01A6BF772"
 			]
+			min_required_dependencies: 60
 			hide: true
 			icon: "kubejs:cert_hat_iron"
 			id: "2DD8168BA32AEEBE"
@@ -6735,7 +6742,7 @@
 				id: "208378D4C56BD5ED"
 				type: "item"
 			}]
-			title: "Purchased HH Unique Hats"
+			title: "Purchased 60 Unique Hats"
 			x: -1.0d
 			y: 5.0d
 		}
@@ -7432,6 +7439,7 @@
 				"2E3120C76F4ADE43"
 				"7546C3A01A6BF772"
 			]
+			min_required_dependencies: 125
 			hide: true
 			icon: "kubejs:cert_hat_gold"
 			id: "0B1567BF81B96A20"
@@ -7447,7 +7455,7 @@
 				id: "676E9DF398521D80"
 				type: "item"
 			}]
-			title: "Purchased HH Unique Hats"
+			title: "Purchased 125 Unique Hats"
 			x: 0.0d
 			y: 5.0d
 		}
@@ -8164,7 +8172,7 @@
 				id: "7A8023D38214555B"
 				type: "item"
 			}]
-			title: "Purchased HH Unique Hats"
+			title: "Hat Catalog Completion!"
 			x: 1.0d
 			y: 5.0d
 		}
@@ -8286,7 +8294,7 @@
 				id: "4BF10B0079D7574A"
 				type: "item"
 			}]
-			title: "Observe 5 Animals"
+			title: "Observe Unique 5 Animals"
 			x: -3.0d
 			y: -1.0d
 		}
@@ -8401,7 +8409,7 @@
 				id: "6193548E730AD19B"
 				type: "item"
 			}]
-			title: "Observe 15 Animals"
+			title: "Observe Unique 15 Animals"
 			x: -2.0d
 			y: -1.0d
 		}
@@ -8516,7 +8524,7 @@
 				id: "512ED17BA4ED0E40"
 				type: "item"
 			}]
-			title: "Observe 32 Animals"
+			title: "Observe Unique 32 Animals"
 			x: -1.0d
 			y: -1.0d
 		}
@@ -8631,7 +8639,7 @@
 				id: "7840A0C774CC5AAC"
 				type: "item"
 			}]
-			title: "Observe 58 Animals"
+			title: "Observe Unique 58 Animals"
 			x: 0.0d
 			y: -1.0d
 		}
@@ -8796,6 +8804,7 @@
 				"000000000000003C"
 				"000000000000003E"
 			]
+			min_required_dependencies: 4
 			hide: true
 			icon: "kubejs:cert_fish_wood"
 			id: "42A6B7DAE4A318FF"
@@ -8811,7 +8820,7 @@
 				id: "6045CDA54606F04C"
 				type: "item"
 			}]
-			title: "Catch nnn Unique Fishes"
+			title: "Catch 4 Unique Fishes"
 			x: -3.0d
 			y: 1.0d
 		}
@@ -8855,6 +8864,7 @@
 				"000000000000003C"
 				"000000000000003E"
 			]
+			min_required_dependencies: 9
 			hide: true
 			icon: "kubejs:cert_fish_stone"
 			id: "644E5A71CE6B9B86"
@@ -8870,7 +8880,7 @@
 				id: "00D1DF02BF3B7CA8"
 				type: "item"
 			}]
-			title: "Catch nnn Unique Fishes"
+			title: "Catch 9 Unique Fishes"
 			x: -2.0d
 			y: 1.0d
 		}
@@ -8914,6 +8924,7 @@
 				"000000000000003C"
 				"000000000000003E"
 			]
+			min_required_dependencies: 16
 			hide: true
 			icon: "kubejs:cert_fish_iron"
 			id: "0E21E1B6579C2654"
@@ -8929,7 +8940,7 @@
 				id: "03CE302EF6264650"
 				type: "item"
 			}]
-			title: "Catch nnn Unique Fishes"
+			title: "Catch 16 Unique Fishes"
 			x: -1.0d
 			y: 1.0d
 		}
@@ -8973,6 +8984,7 @@
 				"000000000000003C"
 				"000000000000003E"
 			]
+			min_required_dependencies: 26
 			hide: true
 			icon: "kubejs:cert_fish_gold"
 			id: "53F562C912D08A93"
@@ -8988,7 +9000,7 @@
 				id: "4A3DF010190ABAEC"
 				type: "item"
 			}]
-			title: "Catch nnn Unique Fishes"
+			title: "Catch 26 Unique Fishes"
 			x: 0.0d
 			y: 1.0d
 		}
@@ -9052,7 +9064,7 @@
 				id: "41ED758677F7934B"
 				type: "item"
 			}]
-			title: "Catch nnn Unique Fishes"
+			title: "Fishing Collection Completion!"
 			x: 1.0d
 			y: 1.0d
 		}
@@ -9181,6 +9193,7 @@
 				"65E2079D254B9DC8"
 				"6A0D708CAFB62BCA"
 			]
+			min_required_dependencies: 6
 			hide: true
 			icon: "kubejs:cert_cook_wood"
 			id: "28929EA4688DAE01"
@@ -9196,7 +9209,7 @@
 				id: "0FAF999D09C3D132"
 				type: "item"
 			}]
-			title: "Cooked sss Unique Dishes"
+			title: "Cooked 6 Unique Dishes"
 			x: -3.0d
 			y: 2.0d
 		}
@@ -9325,6 +9338,7 @@
 				"65E2079D254B9DC8"
 				"6A0D708CAFB62BCA"
 			]
+			min_required_dependencies: 18
 			hide: true
 			icon: "kubejs:cert_cook_stone"
 			id: "38B29892DC5F37B4"
@@ -9340,7 +9354,7 @@
 				id: "43E8DA137E9713F2"
 				type: "item"
 			}]
-			title: "Cooked sss Unique Dishes"
+			title: "Cooked 18 Unique Dishes"
 			x: -2.0d
 			y: 2.0d
 		}
@@ -9469,6 +9483,7 @@
 				"65E2079D254B9DC8"
 				"6A0D708CAFB62BCA"
 			]
+			min_required_dependencies: 38
 			hide: true
 			icon: "kubejs:cert_cook_iron"
 			id: "301B80FC19D8275F"
@@ -9484,7 +9499,7 @@
 				id: "1695FA95C46FEE68"
 				type: "item"
 			}]
-			title: "Cooked sss Unique Dishes"
+			title: "Cooked 38 Unique Dishes"
 			x: -1.0d
 			y: 2.0d
 		}
@@ -9613,6 +9628,7 @@
 				"65E2079D254B9DC8"
 				"6A0D708CAFB62BCA"
 			]
+			min_required_dependencies: 70
 			hide: true
 			icon: "kubejs:cert_cook_gold"
 			id: "6AD916B3696371F9"
@@ -9628,7 +9644,7 @@
 				id: "513EC0B32D94FDE2"
 				type: "item"
 			}]
-			title: "Cooked sss Unique Dishes"
+			title: "Cooked 70 Unique Dishes"
 			x: 0.0d
 			y: 2.0d
 		}
@@ -9777,7 +9793,7 @@
 				id: "5391CA0A51513FD6"
 				type: "item"
 			}]
-			title: "Cooked sss Unique Dishes"
+			title: "Cooking Collection Completion"
 			x: 1.0d
 			y: 2.0d
 		}
@@ -9885,7 +9901,7 @@
 				id: "4A0D3CFF9989E2F0"
 				type: "item"
 			}]
-			title: "Logged 4 Flora"
+			title: "Logged 4 Unique Flora"
 			x: -3.0d
 			y: 0.0d
 		}
@@ -9993,7 +10009,7 @@
 				id: "7620155F88AABD1D"
 				type: "item"
 			}]
-			title: "Logged 12 Flora"
+			title: "Logged 12 Unique Flora"
 			x: -2.0d
 			y: 0.0d
 		}
@@ -10101,7 +10117,7 @@
 				id: "5318933D27B22A2B"
 				type: "item"
 			}]
-			title: "Logged 27 Flora"
+			title: "Logged 27 Unique Flora"
 			x: -1.0d
 			y: 0.0d
 		}
@@ -10209,7 +10225,7 @@
 				id: "1B87E0A9B4A2072A"
 				type: "item" 
 			}]
-			title: "Logged 51 Flora"
+			title: "Logged 51 Unique Flora"
 			x: 0.0d
 			y: 0.0d
 		}
