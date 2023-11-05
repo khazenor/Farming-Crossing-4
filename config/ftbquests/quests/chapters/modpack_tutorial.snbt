@@ -11,15 +11,15 @@
 	quests: [
 		{
 			description: [
-				"{image:farming_crossing_3:textures/backpack.png width:200 height:100 align:1}"
+				"{image:khazenor:textures/backpack/backpack.png width:200 height:100 align:1}"
 				""
 				"You can access the backpack by right clicking it or by pressing the \"b\" key."
 				""
 				"You can also put the backback in the curio back slot."
-				"{image:farming_crossing_3:textures/backpack_put_on_back.png width:130 height:100 align:1}"
+				"{image:khazenor:textures/backpack/backpack_put_on_back.png width:130 height:100 align:1}"
 				"The backpacks can also be upgraded. Check them out in JEI!"
 				""
-				"{image:farming_crossing_3:textures/backpack_search.png width:100 height:100 align:1}"
+				"{image:khazenor:textures/backpack/backpack_search.png width:100 height:100 align:1}"
 			]
 			icon: "sophisticatedbackpacks:backpack"
 			id: "3250D1B24345259D"
@@ -80,7 +80,7 @@
 			description: [
 				"You can glide from high areas with the paraglider."
 				""
-				"{image:farming_crossing_3:textures/paraglider_recipe.png width:200 height:100 align:1}"
+				"{image:khazenor:textures/paraglider/paraglider_recipe.png width:200 height:100 align:1}"
 				""
 				"Gliding uses stamina, which you will see represente as a green circle when you are gliding."
 				""
@@ -108,11 +108,11 @@
 				""
 				"Framed cube:"
 				""
-				"{image:farming_crossing_3:textures/framed_cube_recipe.png width:200 height:100 align:1}"
+				"{image:khazenor:textures/framed_blocks/framed_cube_recipe.png width:200 height:100 align:1}"
 				""
 				"Framed Stairs (one of the shapes available):"
 				""
-				"{image:farming_crossing_3:textures/framed_stairs_recipe.png width:200 height:100 align:1}"
+				"{image:khazenor:textures/framed_blocks/framed_stairs_recipe.png width:200 height:100 align:1}"
 			]
 			icon: "framedblocks:framed_stairs"
 			id: "13B69AD71A01ED3F"
@@ -154,17 +154,17 @@
 		{
 			dependencies: ["5D04C8CE5BEF3750"]
 			description: [
-				"{image:farming_crossing_3:textures/crafting_on_a_stick/items.png width:100 height:50 align:1}"
+				"{image:khazenor:textures/crafting_on_a_stick/items.png width:100 height:50 align:1}"
 				""
 				"You can make crafting stations on a stick."
 				""
-				"{image:farming_crossing_3:textures/crafting_on_a_stick/crafting_table.png width:140 height:70 align:1}"
+				"{image:khazenor:textures/crafting_on_a_stick/crafting_table.png width:140 height:70 align:1}"
 				""
 				"You can also put one of these in the bauble slot to open the station using a hot key"
 				""
 				"(\"v\" on a new install. On a modpack update, you will have to resolve the key bind conflict in the settings)"
 				""
-				"{image:farming_crossing_3:textures/crafting_on_a_stick/baubles.png width:100 height:80 align:1}"
+				"{image:khazenor:textures/crafting_on_a_stick/baubles.png width:100 height:80 align:1}"
 			]
 			icon: "crafting_on_a_stick:crafting_table"
 			id: "31699B0FED6F83E6"
@@ -255,7 +255,7 @@
 		}
 		{
 			description: [
-				"{image:farming_crossing_3:textures/sleeping_bag.png width:200 height:100 align:1}"
+				"{image:khazenor:textures/comforts/sleeping_bag.png width:200 height:100 align:1}"
 				""
 				"Can be crafted with any color wool."
 				""
@@ -283,75 +283,15 @@
 		}
 		{
 			description: [
-				"{image:farming_crossing_3:textures/matrix_enchant.png width:150 height:100 align:1}"
-				""
-				"Matrix Enchanting is a complete overhaul of the enchanting system. Pieces can be generated using lapis and XP. The pieces then have to be laid on the grid to enchant the item. Pieces can be rotated and upgraded into higher levels."
-				""
-				"Lapis can be placed in the the bottom-left slot. The lapis is stored as a \"charge\" meter, which you can see in the left blue bar."
-				""
-				"You can press the + button to generate new pieces. Each piece will contain an enchantment."
-				""
-				"The pieces you generate will land in the docket, the rightmost side bar."
-				""
-				"You can pick pieces from the docket and put them in the grid. Pieces put in the grid will affect the output enchantment."
-				""
-				"You can rotate pieces by right clicking."
-				""
-				"Generated pieces always come at enchantment level 1. To upgrade a piece you placed down in the grid, simply grab one with the same enchantment and click it on top of the placed one."
-				""
-				"Tips:"
-				""
-				"  - Incompatible pieces can never be generated - if you see a Fortune piece, you'll never see Silk Touch in that session."
-				""
-				"  - The item you're enchanting will retain its pending enchantments if you take it out."
-				""
-				"  - Candles can be used those to manipulate what type of enchantments you'd like to get. Placing down up to 4 candles of a single type will enhance the chance you'll find a given enchantment. Candles must be lit to manipulate enchantment types"
-				""
-				"  - Soul Candles have an inverted effect as normal candles, making the respective enchantment less likely to appear."
-				""
-				"Candle Influences"
-				"  - White: Unbreaking"
-				"  - Orange: Fire Protection"
-				"  - Magenta: Knockback, Punch"
-				"  - Light Blue: Feather Falling"
-				"  - Yellow: Looting, Fortune, Luck of the Sea"
-				"  - Lime: Blast Protection"
-				"  - Pink: Silk Touch, Channeling"
-				"  - Gray: Bane of Arthropods"
-				"  - Light Gray: Protection"
-				"  - Cyan: Respiration, Loyalty, Infinity"
-				"  - Purple: Sweeping Edge, Multishot"
-				"  - Blue: Efficiency, Sharpness, Lure, Power, Impaling, Quick Charge"
-				"  - Brown: Aqua Affinity, Depth Strider, Riptide"
-				"  - Green: Thorns, Piercing"
-				"  - Red: Fire Aspect, Flame"
-				"  - Black: Smite, Projectile Protection"
-				""
-				"You can also find the candle influences by searching them up in the inventory screen (JEI)"
-			]
-			id: "7C38D573D3A751D0"
-			subtitle: "Control what enchantment you get with matrix enchanting!"
-			tasks: [{
-				consume_items: false
-				id: "04CCEAB24AC43A97"
-				item: "minecraft:enchanting_table"
-				type: "item"
-			}]
-			title: "Info: Matrix Enchanting"
-			x: 7.5d
-			y: -1.0d
-		}
-		{
-			description: [
-				"{image:farming_crossing_3:textures/backpack.png width:200 height:100 align:1}"
+				"{image:khazenor:textures/backpack/backpack.png width:200 height:100 align:1}"
 				""
 				"You can access the backpack by right clicking it or by pressing the \"b\" key."
 				""
 				"You can also put the backback in the curio back slot."
-				"{image:farming_crossing_3:textures/backpack_put_on_back.png width:130 height:100 align:1}"
+				"{image:khazenor:textures/backpack/backpack_put_on_back.png width:130 height:100 align:1}"
 				"The backpacks can also be upgraded. Check them out in JEI!"
 				""
-				"{image:farming_crossing_3:textures/backpack_search.png width:100 height:100 align:1}"
+				"{image:khazenor:textures/backpack/backpack_search.png width:100 height:100 align:1}"
 			]
 			icon: "sophisticatedbackpacks:backpack"
 			id: "4F749F74EFD4D213"
@@ -388,7 +328,7 @@
 			description: [
 				"When you mouse over edible items. You can see two additional tooltips:"
 				""
-				"{image:farming_crossing_3:textures/nutrition_tooltip.png width:200 height:100 align:1}"
+				"{image:khazenor:textures/nutrition/nutrition_tooltip.png width:200 height:100 align:1}"
 				""
 				"The first tooltip indicates that you haven't eat this dish yet.  Eat as many new dishes as possible to get more hearts!"
 				""
@@ -396,15 +336,15 @@
 				""
 				"You can see how your diet is doing by either pressing the \"N\" key or this button:"
 				""
-				"{image:farming_crossing_3:textures/nutrition_button.png width:130 height:100 align:1}"
-				"{image:farming_crossing_3:textures/nutrition_page.png width:150 height:100 align:1}"
+				"{image:khazenor:textures/nutrition/nutrition_button.png width:130 height:100 align:1}"
+				"{image:khazenor:textures/nutrition/nutrition_page.png width:150 height:100 align:1}"
 				""
 				"The goal is to have all bars go between both green lines and below the last red line."
 				""
 				"You can also craft a Food Book to keep track of how many more new dishes you would need to eat to gain an extra heart."
 				""
-				"{image:farming_crossing_3:textures/food_book.png width:200 height:100 align:1}"
-			]
+				"{image:khazenor:textures/sol_carrot/food_book.png width:200 height:100 align:1}"
+			]4
 			icon: "solcarrot:food_book"
 			id: "0469D7FD053D523E"
 			subtitle: "Have a great diet with Balanced Nutrition and Spice of Life: Carrot"
@@ -424,8 +364,8 @@
 				""
 				"You can make one like so."
 				""
-				"{image:farming_crossing_3:textures/waystone.png width:200 height:100 align:1}"
-				"{image:farming_crossing_3:textures/waystone_warpstone.png width:200 height:100 align:1}"
+				"{image:khazenor:textures/waystone/waystone.png width:200 height:100 align:1}"
+				"{image:khazenor:textures/waystone/waystone_warpstone.png width:200 height:100 align:1}"
 				""
 				"In this pack, you can craft the warpstone using obsidian."
 				""
@@ -455,10 +395,10 @@
 			description: [
 				"Natures compass helps you find biomes."
 				""
-				"{image:farming_crossing_3:textures/compass_nature.png width:200 height:100 align:1}"
+				"{image:khazenor:textures/compass_nature/compass_nature.png width:200 height:100 align:1}"
 				""
 				"Explorer's Compass helps you find structures."
-				"{image:farming_crossing_3:textures/compass_explore.png width:200 height:100 align:1}"
+				"{image:khazenor:textures/compass_explore/compass_explore.png width:200 height:100 align:1}"
 			]
 			icon: {
 				Count: 1b
@@ -510,42 +450,9 @@
 		}
 		{
 			description: [
-				"Effortless building makes building much easier by providing you many ways to place blocks quickly."
-				""
-				"You can switch building mods by holding ALT"
-				""
-				"You can also craft items to consume that will increase your reach when building effortlessly."
-				""
-				"{image:farming_crossing_3:textures/reach_upgrade.png width:200 height:100 align:1}"
-				""
-				"you can see all the upgrades available by searching \"reach\" in the inventory screen."
-			]
-			icon: "minecraft:oak_planks"
-			id: "6024662C63A11DB6"
-			subtitle: "Placing blocks so fast!"
-			tasks: [{
-				consume_items: false
-				count: 32L
-				id: "5AF349C4F6194277"
-				item: {
-					Count: 1b
-					id: "itemfilters:tag"
-					tag: {
-						value: "minecraft:planks"
-					}
-				}
-				title: "Any #minecraft:planks"
-				type: "item"
-			}]
-			title: "Info: Building Effortlessly"
-			x: 1.5d
-			y: -1.0d
-		}
-		{
-			description: [
 				"You can glide from high areas with the paraglider."
 				""
-				"{image:farming_crossing_3:textures/paraglider_recipe.png width:200 height:100 align:1}"
+				"{image:khazenor:textures/paraglider/paraglider_recipe.png width:200 height:100 align:1}"
 				""
 				"Gliding uses stamina, which you will see represente as a green circle when you are gliding."
 				""
@@ -570,11 +477,11 @@
 			description: [
 				"The Basic Magnet picks up Items and Experience within a 5 block range of the player"
 				""
-				"{image:farming_crossing_3:textures/simple_magnet_recipe.png width:200 height:100 align:1}"
+				"{image:khazenor:textures/simple_magnet/simple_magnet_recipe.png width:200 height:100 align:1}"
 				""
 				"There is also an advanced magnet that can attract up to 11 blocks and can be filtered."
 				""
-				"{image:farming_crossing_3:textures/simple_magnet_recipe_advanced.png width:200 height:100 align:1}"
+				"{image:khazenor:textures/simple_magnet/simple_magnet_recipe_advanced.png width:200 height:100 align:1}"
 			]
 			icon: {
 				Count: 1b
@@ -621,7 +528,7 @@
 				""
 				"For example, this drawer allows you to store four kinds of items."
 				""
-				"{image:farming_crossing_3:textures/drawer_4_recipe.png width:200 height:100 align:1}"
+				"{image:khazenor:textures/drawers/drawer_4_recipe.png width:200 height:100 align:1}"
 				""
 				"Right-Click: Insert full stack in hand into drawer (or partial stack if the drawer fills)."
 				""
@@ -633,7 +540,7 @@
 				""
 				"There are also upgrades you can get for the drawers. You can find them by searching them up in the inventory screen."
 				""
-				"{image:farming_crossing_3:textures/drawer_upgrade_search.png width:200 height:100 align:1}"
+				"{image:khazenor:textures/drawers/drawer_upgrade_search.png width:200 height:100 align:1}"
 			]
 			icon: "storagedrawers:oak_full_drawers_4"
 			id: "0B95CD33621DA7DA"
@@ -660,11 +567,11 @@
 			description: [
 				"Drawers can be locked or unlocked with the drawer key. When a drawer is locked, it will maintain its current item association even if the last item is removed."
 				""
-				"{image:farming_crossing_3:textures/drawer_key_recipe.png width:200 height:100 align:1}"
+				"{image:khazenor:textures/drawers/drawer_key_recipe.png width:200 height:100 align:1}"
 				""
 				"You can also visualize how many items are in a drawer using the quantify key:"
 				""
-				"{image:farming_crossing_3:textures/quantify_key_recipe.png width:200 height:100 align:1}"
+				"{image:khazenor:textures/drawers/quantify_key_recipe.png width:200 height:100 align:1}"
 			]
 			icon: "storagedrawers:drawer_key"
 			id: "44C400448412E754"
@@ -685,11 +592,11 @@
 				""
 				"By right-clicking on the front face with an item, the item will be deposited into the connected network. By double-right clicking, it will attempt to dump your entire inventory. Items will only be dumped if they already exist in the network, allowing you to clear out a bunch of mob drops or farmed crops without literally dumping your entire inventory."
 				""
-				"{image:farming_crossing_3:textures/drawer_controller_recipe.png width:200 height:100 align:1}"
+				"{image:khazenor:textures/drawers/drawer_controller_recipe.png width:200 height:100 align:1}"
 				""
 				"Controller Slaves act as an extension of a drawer controller, exposing more faces for attaching machines, pipes, or crafting frames. Controllers will bind to a slave when they find them on the network, and all slaves bound to the same controller will share the same inventory and range as that controller. Unlike drawers, slaves cannot be shared, and you should be careful to not put them in range of multiple controllers. Using controller slaves is better for performance than using multiple controllers."
 				""
-				"{image:farming_crossing_3:textures/controller_slave_recipe.png width:200 height:100 align:1}"
+				"{image:khazenor:textures/drawers/controller_slave_recipe.png width:200 height:100 align:1}"
 			]
 			icon: "storagedrawers:controller"
 			id: "4E7621085628389B"
@@ -732,9 +639,9 @@
 			description: [
 				"Compacting drawers are a special stone-colored drawer that auto-convert compressible items. Instead of manually crafting and uncrafting between gold blocks, ingots, and nuggets, put them in a compacting drawer. The drawer will internally maintain a pool of the material, and let you insert or remove the material in any of the shown forms."
 				""
-				"{image:farming_crossing_3:textures/compacting_drawer_screenshot.png width:120 height:100 align:1}"
+				"{image:khazenor:textures/drawers/compacting_drawer_screenshot.png width:120 height:100 align:1}"
 				""
-				"{image:farming_crossing_3:textures/compacting_drawer_recipe.png width:200 height:100 align:1}"
+				"{image:khazenor:textures/drawers/compacting_drawer_recipe.png width:200 height:100 align:1}"
 			]
 			icon: "storagedrawers:compacting_drawers_3"
 			id: "2D5EE9FC82765ECE"
@@ -794,7 +701,7 @@
 				""
 				"You can make a iron chest like so:"
 				""
-				"{image:farming_crossing_3:textures/iron_chest_recipe.png width:200 height:100 align:1}"
+				"{image:khazenor:textures/iron_chest/iron_chest_recipe.png width:200 height:100 align:1}"
 				""
 				"Iron chests also supports Quark transfer buttons."
 			]
@@ -830,48 +737,15 @@
 		}
 		{
 			description: [
-				"Quark provides transfer buttons to vanilla chest, containers, and even iron chests."
-				""
-				"{image:farming_crossing_3:textures/quark_chest_screenshot.png width:150 height:100 align:1}"
-				""
-				"The Insert button (red) will try to put every item in your inventory (not hotbar) inside the chest."
-				""
-				"The extract (blue) button will try to pull every item from the chest into your inventory."
-				""
-				"If you hold Shift while pressing these buttons, they'll only move items that are on the other side. (For example, if your chest has Stone and Dirt, and you have Stone and Sand in your inventory, Insert with Shift held will only move the Stone)"
-				""
-				"A new button is also added that locks your Shift button down as a toggle."
-			]
-			icon: "minecraft:chest"
-			id: "5CF2B0A2AFA93286"
-			tasks: [{
-				consume_items: false
-				id: "4BC27820447E477F"
-				item: {
-					Count: 1b
-					id: "itemfilters:tag"
-					tag: {
-						value: "forge:chests"
-					}
-				}
-				title: "Any #forge:chests"
-				type: "item"
-			}]
-			title: "Info: Item transfer"
-			x: 6.5d
-			y: 0.5d
-		}
-		{
-			description: [
 				"FramedBlocks adds blocks of various shapes that can be made to look like almost any other block in the game."
 				""
 				"Framed cube:"
 				""
-				"{image:farming_crossing_3:textures/framed_cube_recipe.png width:200 height:100 align:1}"
+				"{image:khazenor:textures/framed_blocks/framed_cube_recipe.png width:200 height:100 align:1}"
 				""
 				"Framed Stairs (one of the shapes available):"
 				""
-				"{image:farming_crossing_3:textures/framed_stairs_recipe.png width:200 height:100 align:1}"
+				"{image:khazenor:textures/framed_blocks/framed_stairs_recipe.png width:200 height:100 align:1}"
 			]
 			icon: "framedblocks:framed_stairs"
 			id: "6996E8EFAA02BF46"
@@ -904,7 +778,7 @@
 				""
 				"You can find more about the mod by searching it up in the inventory screen and presing shift while hovering over the items."
 				""
-				"{image:farming_crossing_3:textures/toms_simple_storage_screenshot.png width:200 height:100 align:1}"
+				"{image:khazenor:textures/toms_simple_storage/toms_simple_storage_screenshot.png width:200 height:100 align:1}"
 			]
 			icon: "toms_storage:ts.storage_terminal"
 			id: "0F82EF66167D0470"
@@ -941,7 +815,7 @@
 			description: [
 				"The crude furnace smelts items with double speed and half xp if the item doesn't fit in smoker or blast furnace"
 				""
-				"{image:farming_crossing_3:textures/crude_furnace_recipe.png width:200 height:100 align:1}"
+				"{image:khazenor:textures/utilitix/crude_furnace_recipe.png width:200 height:100 align:1}"
 			]
 			icon: "utilitix:crude_furnace"
 			id: "43719B15350DD2B0"
@@ -957,9 +831,7 @@
 		}
 		{
 			description: [
-				"Lantern and Soul Lantern can be placed in the belt curio slot to provide dynamic lighting around you."
-				"{image:farming_crossing_3:textures/curio/curio_ui_help1.png width:150 height:100 align:1}"
-				"{image:farming_crossing_3:textures/lanter_on_hip/lantern_on_hip.png width:130 height:100 align:1}"
+				"Holding a torch or dropping it on the ground will cause the area around the torch to be lit up (without the need for your to place the torch down)."
 			]
 			id: "51F95A5C668DB818"
 			tasks: [{
@@ -986,7 +858,7 @@
 		{
 			description: [
 				"The Compressed mod allows you to compress many common items by putting 9 of them in the crafting table:"
-				"{image:farming_crossing_3:textures/compressed/compressed_cobble.png width:200 height:100 align:1}"
+				"{image:khazenor:textures/compressed/compressed_cobble.png width:200 height:100 align:1}"
 			]
 			icon: "compressium:cobblestone_1"
 			id: "42313E6F3D7ACAF6"
@@ -1012,7 +884,7 @@
 		{
 			description: [
 				"EnderChest:"
-				"{image:farming_crossing_3:textures/ender/recipe-enderchest.png width:180 height:90 align:1}"
+				"{image:khazenor:textures/ender/recipe-enderchest.png width:180 height:90 align:1}"
 				""
 				"Dimensional storage chest. Contents are accessible from any other of the same color and network."
 				"Storage can be expanded, and made private or team access."
@@ -1025,13 +897,13 @@
 				"Team network functions like private network but for players on a team: ShetiPhianCore(1.16+)."
 				""
 				"EnderBag:"
-				"{image:farming_crossing_3:textures/ender/recipe-enderbag.png width:180 height:90 align:1}"
+				"{image:khazenor:textures/ender/recipe-enderbag.png width:180 height:90 align:1}"
 				""
 				"Bags link to chests and thus are used to store or access items remotely."
 				"Shift+Right-click on a chest with a bag to link them."
 				""
 				"EnderPouch:"
-				"{image:farming_crossing_3:textures/ender/recipe-enderpouch.png width:180 height:90 align:1}"
+				"{image:khazenor:textures/ender/recipe-enderpouch.png width:180 height:90 align:1}"
 				""
 				"Pouches provide remote access to the Vanilla EnderChest."
 				"They are also used to craft this mods EnderBags and EnderChests."
@@ -1067,9 +939,9 @@
 				""
 				"You purchase sheets and cushions from the market. (you can also craft them)"
 				""
-				"{image:farming_crossing_3:textures/handcrafted/market_int.png width:180 height:100 align:1}"
+				"{image:khazenor:textures/handcrafted/market_int.png width:180 height:100 align:1}"
 				""
-				"{image:farming_crossing_3:textures/handcrafted/cushion_sheet_tut.png width:180 height:250 align:1}"
+				"{image:khazenor:textures/handcrafted/cushion_sheet_tut.png width:180 height:250 align:1}"
 			]
 			icon: "handcrafted:red_cushion"
 			id: "5B148A34AA5E9BD5"
@@ -1091,9 +963,9 @@
 		}
 		{
 			description: [
-				"{image:farming_crossing_3:textures/tool_belt/tool_belt_recipe.png width:160 height:80 align:1}"
+				"{image:khazenor:textures/tool_belt/tool_belt_recipe.png width:160 height:80 align:1}"
 				""
-				"{image:farming_crossing_3:textures/tool_belt/tool_belt_upgrade.png width:160 height:80 align:1}"
+				"{image:khazenor:textures/tool_belt/tool_belt_upgrade.png width:160 height:80 align:1}"
 				""
 				"The belt can be placed in the belt slot"
 				""
