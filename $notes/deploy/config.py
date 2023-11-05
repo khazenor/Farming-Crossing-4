@@ -8,7 +8,7 @@ def modsSrc():
 
 def otherInsts():
 	return [
-		'D:\\Lee\\Dropbox\\FarmingCrossing4\\install'
+		'D:\\Lee\\Dropbox\\Share\\FarmingCrossing4\\install'
 	]
 def questUpdateServer():
 	return None
