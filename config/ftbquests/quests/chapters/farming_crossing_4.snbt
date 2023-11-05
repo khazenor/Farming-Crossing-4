@@ -47,7 +47,7 @@
 				""
 				"--------"
 				""
-				"The cooking quests grant you Cooking Collection Vouchers, which you can redeem in the Miles Reward Program for Miles Ticket Rewards."
+				"After you have cooked enough unique dishes, you will be able to redeem some Miles Tickets from the Miles Reward Program chapter."
 			]
 			hide: true
 			icon: "minecraft:wheat_seeds"
@@ -419,7 +419,7 @@
 				""
 				"{image:khazenor:textures/aquaculture/fish_sell_recipe.png width:180 height:90 align:1}"
 				""
-				"Catching a new fish for the first time also grant you Fishing Collection Vouchers, which you can redeem in the Miles Reward Program for Miles Ticket Rewards."
+				"After you have caught enough unique fishes, you will be able to redeem some Miles Tickets from the Miles Reward Program chapter."
 			]
 			hide: true
 			icon: "aquaculture:atlantic_cod"
@@ -450,7 +450,7 @@
 			description: [
 				"You can buy decorations from wondering traders."
 				""
-				"Buying a new decoration for the first time also grant you decoration Vouchers, which you can redeem in the Miles Reward Program for Miles Ticket Rewards."
+				"After you have bought enough unique decorations, you will be able get some Miles Tickets back from the Miles Reward Program chapter"
 			]
 			hide: true
 			icon: "moa_decor_science:libros"
@@ -599,7 +599,7 @@
 				""
 				"To complete the animal observation quests, simply look at them while nearby."
 				""
-				"These quest grant you Animal Watching Vouchers, which you can redeem in the Miles Reward Program for Miles Ticket Rewards."
+				"After you have observed enough unique animals, you will be able to redeem some Miles Tickets from the Miles Reward Program chapter."
 				""
 				"The quests in the Animal Watching Questline are roughly organized by spawning biomes."
 				""
@@ -1136,7 +1136,7 @@
 		}
 		{
 			dependencies: ["7CF35DAE02E4B6C0"]
-			description: ["The Flora Compendium quests grant you Flora Compendium Vouchers, which you can redeem in the Miles Reward Program for Miles Ticket Rewards."]
+			description: ["After you have collected enough flora, you will be able to redeem some Miles Tickets from the Miles Reward Program chapter."]
 			hide: true
 			icon: "minecraft:cherry_sapling"
 			id: "0EABDA42EA87C46C"
