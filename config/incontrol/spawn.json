@@ -11,8 +11,12 @@
       "minecraft:spider",
       "minecraft:stray",
       "minecraft:zombie_villager",
-      "minecraft:witch"
+      "minecraft:witch",
+      "minecraft:phantom",
+      "minecraft:pillager",
+      "minecraft:ravager"
     ],
+    "spawner": false,
     "difficulty": "easy",
     "dimension": "minecraft:overworld",
     "result": "deny"
@@ -29,8 +33,12 @@
       "minecraft:spider",
       "minecraft:stray",
       "minecraft:zombie_villager",
-      "minecraft:witch"
+      "minecraft:witch",
+      "minecraft:phantom",
+      "minecraft:pillager",
+      "minecraft:ravager"
     ],
+    "spawner": false,
     "difficulty": "normal",
     "dimension": "minecraft:overworld",
     "result": "deny"
