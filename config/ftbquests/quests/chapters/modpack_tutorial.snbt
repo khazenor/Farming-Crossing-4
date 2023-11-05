@@ -10,6 +10,7 @@
 	quest_links: [ ]
 	quests: [
 		{
+			dependencies: ["13B69AD71A01ED3F"]
 			description: [
 				"{image:khazenor:textures/backpack/backpack.png width:200 height:100 align:1}"
 				""
@@ -50,10 +51,10 @@
 			]
 			title: "Info: Sophisticated Backpacks"
 			x: 4.5d
-			y: -1.0d
+			y: -3.0d
 		}
 		{
-			dependencies: ["3040D972C5FB1772"]
+			dependencies: ["5D04C8CE5BEF3750"]
 			description: [
 				"Here are some useful commands available in this modpack!"
 				""
@@ -65,18 +66,20 @@
 				""
 				"/tpa {player_name} - request permission to teleport to another player in the server"
 			]
+			icon: "moa_decor_garden_:casa_p_roble"
 			id: "38597CE6BB709431"
 			tasks: [{
-				consume_items: false
-				id: "20A974001A15EDA3"
-				item: "minecraft:torch"
-				type: "item"
+				id: "3B45FE22CE8773D9"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 30
 			}]
 			title: "Info: Useful Commands"
-			x: 1.5d
-			y: -3.5d
+			x: 2.5d
+			y: -5.5d
 		}
 		{
+			dependencies: ["51F95A5C668DB818"]
 			description: [
 				"You can glide from high areas with the paraglider."
 				""
@@ -92,17 +95,19 @@
 			id: "493B5A037BEE0D0A"
 			subtitle: "Get to places faster with the paraglider!"
 			tasks: [{
-				consume_items: false
-				id: "431A0DFA913CF35F"
-				item: "minecraft:leather"
+				id: "38BE4089CCEE2E4F"
+				item: "paraglider:paraglider"
 				type: "item"
 			}]
 			title: "Info: Paragliding"
-			x: 3.5d
-			y: -1.0d
+			x: 4.5d
+			y: -5.5d
 		}
 		{
-			dependencies: ["31699B0FED6F83E6"]
+			dependencies: [
+				"31699B0FED6F83E6"
+				"5B148A34AA5E9BD5"
+			]
 			description: [
 				"FramedBlocks adds blocks of various shapes that can be made to look like almost any other block in the game."
 				""
@@ -137,19 +142,7 @@
 			]
 			title: "Info: Framed Blocks"
 			x: 3.5d
-			y: -2.5d
-		}
-		{
-			description: ["Having a compass in your inventory will bring up a minimal hud displaying your current direction and coordinates"]
-			id: "36D7F8FE6E02E7FF"
-			tasks: [{
-				id: "58581B5BC0C365E4"
-				item: "minecraft:compass"
-				type: "item"
-			}]
-			title: "Info: Navigation Help"
-			x: 1.5d
-			y: 0.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["5D04C8CE5BEF3750"]
@@ -175,7 +168,7 @@
 			}]
 			title: "Info: Crafting on a Stick"
 			x: 2.5d
-			y: -2.5d
+			y: -3.0d
 		}
 		{
 			description: [
@@ -191,7 +184,7 @@
 			}]
 			title: "Press \" ~ \" to Access Quests"
 			x: 0.5d
-			y: -3.0d
+			y: -2.5d
 		}
 		{
 			dependencies: ["3040D972C5FB1772"]
@@ -229,7 +222,7 @@
 			y: -2.5d
 		}
 		{
-			dependencies: ["38597CE6BB709431"]
+			dependencies: ["3040D972C5FB1772"]
 			description: [
 				"Most hostile mobs in the overworld (that are not from spawners) are disabled this modpack under easy and normal difficulty."
 				""
@@ -250,10 +243,11 @@
 				type: "item"
 			}]
 			title: "Info: Hostile Mob Spawning"
-			x: 2.5d
-			y: -3.5d
+			x: 0.5d
+			y: -1.5d
 		}
 		{
+			dependencies: ["0469D7FD053D523E"]
 			description: [
 				"{image:khazenor:textures/comforts/sleeping_bag.png width:200 height:100 align:1}"
 				""
@@ -278,53 +272,11 @@
 				type: "item"
 			}]
 			title: "Info: Easy Sleeping"
-			x: 0.5d
-			y: 0.0d
+			x: 3.5d
+			y: -7.5d
 		}
 		{
-			description: [
-				"{image:khazenor:textures/backpack/backpack.png width:200 height:100 align:1}"
-				""
-				"You can access the backpack by right clicking it or by pressing the \"b\" key."
-				""
-				"You can also put the backback in the curio back slot."
-				"{image:khazenor:textures/backpack/backpack_put_on_back.png width:130 height:100 align:1}"
-				"The backpacks can also be upgraded. Check them out in JEI!"
-				""
-				"{image:khazenor:textures/backpack/backpack_search.png width:100 height:100 align:1}"
-			]
-			icon: "sophisticatedbackpacks:backpack"
-			id: "4F749F74EFD4D213"
-			subtitle: "Carry everything with you with Sophisticated Backpacks!"
-			tasks: [
-				{
-					consume_items: false
-					disable_toast: true
-					id: "22B5D1524C235B23"
-					item: {
-						Count: 1b
-						id: "itemfilters:tag"
-						tag: {
-							value: "forge:chests"
-						}
-					}
-					title: "Any #forge:chests"
-					type: "item"
-				}
-				{
-					consume_items: false
-					count: 4L
-					disable_toast: true
-					id: "6E782403B15984B8"
-					item: "minecraft:string"
-					type: "item"
-				}
-			]
-			title: "Info: Sophisticated Backpacks"
-			x: 7.5d
-			y: 0.5d
-		}
-		{
+			dependencies: ["51F95A5C668DB818"]
 			description: [
 				"When you mouse over edible items. You can see two additional tooltips:"
 				""
@@ -344,7 +296,7 @@
 				"You can also craft a Food Book to keep track of how many more new dishes you would need to eat to gain an extra heart."
 				""
 				"{image:khazenor:textures/sol_carrot/food_book.png width:200 height:100 align:1}"
-			]4
+			]
 			icon: "solcarrot:food_book"
 			id: "0469D7FD053D523E"
 			subtitle: "Have a great diet with Balanced Nutrition and Spice of Life: Carrot"
@@ -356,9 +308,10 @@
 			}]
 			title: "Info: Getting a Balanced Diet"
 			x: 3.5d
-			y: 0.0d
+			y: -6.5d
 		}
 		{
+			dependencies: ["493B5A037BEE0D0A"]
 			description: [
 				"Waystones allow you to teleport between places."
 				""
@@ -388,10 +341,11 @@
 				type: "item"
 			}]
 			title: "Info: Quick Travel"
-			x: 0.5d
-			y: 1.5d
+			x: 5.5d
+			y: -5.5d
 		}
 		{
+			dependencies: ["650844D895D864F1"]
 			description: [
 				"Natures compass helps you find biomes."
 				""
@@ -422,58 +376,11 @@
 				type: "item"
 			}]
 			title: "Info: Finding Your Way"
-			x: 1.5d
-			y: 1.5d
+			x: 6.5d
+			y: -5.5d
 		}
 		{
-			description: [
-				"Here are some useful commands available in this modpack!"
-				""
-				"/sethome - sets your current location as home to teleport back to."
-				""
-				"/home - teleport back to the home location you have set"
-				""
-				"/back - teleport you back to the location you were before you last teleported"
-				""
-				"/tpa {player_name} - request permission to teleport to another player in the server"
-			]
-			id: "60CEEF08798565B2"
-			tasks: [{
-				consume_items: false
-				id: "4FAE68F7402B3A58"
-				item: "minecraft:torch"
-				type: "item"
-			}]
-			title: "Info: Useful Commands"
-			x: 2.5d
-			y: 0.0d
-		}
-		{
-			description: [
-				"You can glide from high areas with the paraglider."
-				""
-				"{image:khazenor:textures/paraglider/paraglider_recipe.png width:200 height:100 align:1}"
-				""
-				"Gliding uses stamina, which you will see represente as a green circle when you are gliding."
-				""
-				"Updrafts can also be created with campfires while downdraft can be created with soul campfires."
-				""
-				"Spirit orbs can be found while exploring or at the market.  You can exchange these orbs for heart or stamina containers at shrines, which you can also find while exploring the world."
-			]
-			icon: "paraglider:paraglider"
-			id: "0F9354936A99B792"
-			subtitle: "Get to places faster with the paraglider!"
-			tasks: [{
-				consume_items: false
-				id: "597C69BDCF9610C3"
-				item: "minecraft:leather"
-				type: "item"
-			}]
-			title: "Info: Paragliding"
-			x: 2.5d
-			y: 1.5d
-		}
-		{
+			dependencies: ["42313E6F3D7ACAF6"]
 			description: [
 				"The Basic Magnet picks up Items and Experience within a 5 block range of the player"
 				""
@@ -519,10 +426,11 @@
 				}
 			]
 			title: "Info: Simple Magnets"
-			x: 6.5d
-			y: -1.0d
+			x: 3.5d
+			y: 1.0d
 		}
 		{
+			dependencies: ["138672F34892D1C5"]
 			description: [
 				"Drawers help you with bulk storage by allowing you to store many of the same kind of items."
 				""
@@ -560,10 +468,11 @@
 				type: "item"
 			}]
 			title: "Info: Drawers"
-			x: 6.5d
-			y: 1.5d
+			x: 3.5d
+			y: -1.5d
 		}
 		{
+			dependencies: ["0B95CD33621DA7DA"]
 			description: [
 				"Drawers can be locked or unlocked with the drawer key. When a drawer is locked, it will maintain its current item association even if the last item is removed."
 				""
@@ -583,10 +492,11 @@
 				type: "item"
 			}]
 			title: "Info: Drawer Keys"
-			x: 7.5d
-			y: 1.5d
+			x: 4.5d
+			y: -1.5d
 		}
 		{
+			dependencies: ["2D5EE9FC82765ECE"]
 			description: [
 				"Drawer Controllers will search for any connected drawer within 12 blocks, and then expose all of those drawers as a large combined inventory."
 				""
@@ -632,10 +542,11 @@
 				}
 			]
 			title: "Info: Drawer Controllers"
-			x: 9.5d
-			y: 1.5d
+			x: 6.5d
+			y: -1.5d
 		}
 		{
+			dependencies: ["44C400448412E754"]
 			description: [
 				"Compacting drawers are a special stone-colored drawer that auto-convert compressible items. Instead of manually crafting and uncrafting between gold blocks, ingots, and nuggets, put them in a compacting drawer. The drawer will internally maintain a pool of the material, and let you insert or remove the material in any of the shown forms."
 				""
@@ -692,10 +603,11 @@
 				}
 			]
 			title: "Info: Compacting Drawers"
-			x: 8.5d
-			y: 1.5d
+			x: 5.5d
+			y: -1.5d
 		}
 		{
+			dependencies: ["3250D1B24345259D"]
 			description: [
 				"The iron chests mod provides upgradable chests with different inventory sizes."
 				""
@@ -705,7 +617,7 @@
 				""
 				"Iron chests also supports Quark transfer buttons."
 			]
-			icon: "ironchest:iron_chest"
+			icon: "expandedstorage:iron_chest"
 			id: "138672F34892D1C5"
 			tasks: [
 				{
@@ -732,47 +644,11 @@
 				}
 			]
 			title: "Info: Larger Chests"
-			x: 8.5d
-			y: 0.5d
-		}
-		{
-			description: [
-				"FramedBlocks adds blocks of various shapes that can be made to look like almost any other block in the game."
-				""
-				"Framed cube:"
-				""
-				"{image:khazenor:textures/framed_blocks/framed_cube_recipe.png width:200 height:100 align:1}"
-				""
-				"Framed Stairs (one of the shapes available):"
-				""
-				"{image:khazenor:textures/framed_blocks/framed_stairs_recipe.png width:200 height:100 align:1}"
-			]
-			icon: "framedblocks:framed_stairs"
-			id: "6996E8EFAA02BF46"
-			subtitle: "Decorate your builds with any shapes using framed blocks!"
-			tasks: [
-				{
-					consume_items: false
-					count: 32L
-					disable_toast: true
-					id: "7C6846549DEB8649"
-					item: "minecraft:oak_planks"
-					type: "item"
-				}
-				{
-					consume_items: false
-					count: 32L
-					disable_toast: true
-					id: "3F6228666A0D909C"
-					item: "minecraft:stick"
-					type: "item"
-				}
-			]
-			title: "Info: Framed Blocks"
 			x: 2.5d
-			y: -1.0d
+			y: -1.5d
 		}
 		{
+			dependencies: ["138672F34892D1C5"]
 			description: [
 				"This mod contains Tom's simple storage, a vanilla storage style storage mod."
 				""
@@ -808,10 +684,11 @@
 				}
 			]
 			title: "Info: Tom's Simple Storage"
-			x: 10.5d
-			y: 1.5d
+			x: 3.5d
+			y: -0.5d
 		}
 		{
+			dependencies: ["4FEBDBA252372FFB"]
 			description: [
 				"The crude furnace smelts items with double speed and half xp if the item doesn't fit in smoker or blast furnace"
 				""
@@ -826,41 +703,29 @@
 				type: "item"
 			}]
 			title: "Info: Crude Furnace"
-			x: 8.5d
-			y: -1.0d
+			x: 4.5d
+			y: 1.0d
 		}
 		{
-			description: [
-				"Holding a torch or dropping it on the ground will cause the area around the torch to be lit up (without the need for your to place the torch down)."
-			]
+			dependencies: ["38597CE6BB709431"]
+			description: ["Holding a torch or dropping it on the ground will cause the area around the torch to be lit up (without the need for your to place the torch down)."]
 			id: "51F95A5C668DB818"
 			tasks: [{
 				id: "76916259B0FD6339"
-				item: "minecraft:lantern"
+				item: "minecraft:torch"
 				type: "item"
 			}]
 			title: "Info: Dynamic Lights"
-			x: 0.5d
-			y: -1.0d
-		}
-		{
-			description: ["Having a compass in your inventory will bring up a minimal hud displaying your current direction and coordinates"]
-			id: "242A52FB73AE3946"
-			tasks: [{
-				id: "7F628E02936744B7"
-				item: "minecraft:compass"
-				type: "item"
-			}]
-			title: "Info: Navigation Help"
 			x: 3.5d
-			y: 1.5d
+			y: -5.5d
 		}
 		{
+			dependencies: ["5D04C8CE5BEF3750"]
 			description: [
 				"The Compressed mod allows you to compress many common items by putting 9 of them in the crafting table:"
 				"{image:khazenor:textures/compressed/compressed_cobble.png width:200 height:100 align:1}"
 			]
-			icon: "compressium:cobblestone_1"
+			icon: "compressedblocks:c6_cobblestone"
 			id: "42313E6F3D7ACAF6"
 			subtitle: "Compress common items to save your inventory space!"
 			tasks: [{
@@ -878,10 +743,11 @@
 				type: "item"
 			}]
 			title: "Info: Compressed Items"
-			x: 0.5d
-			y: 2.5d
+			x: 2.5d
+			y: 1.0d
 		}
 		{
+			dependencies: ["0F82EF66167D0470"]
 			description: [
 				"EnderChest:"
 				"{image:khazenor:textures/ender/recipe-enderchest.png width:180 height:90 align:1}"
@@ -930,8 +796,8 @@
 				}
 			]
 			title: "Info: Ender Storage"
-			x: 6.5d
-			y: 2.5d
+			x: 4.5d
+			y: -0.5d
 		}
 		{
 			description: [
@@ -958,10 +824,11 @@
 				type: "item"
 			}]
 			title: "Info: Handcrafted Sheets and Cushions"
-			x: 7.5d
-			y: 2.5d
+			x: 3.5d
+			y: -4.0d
 		}
 		{
+			dependencies: ["493B5A037BEE0D0A"]
 			description: [
 				"{image:khazenor:textures/tool_belt/tool_belt_recipe.png width:160 height:80 align:1}"
 				""
@@ -997,8 +864,8 @@
 				}
 			]
 			title: "Info: Tool belt"
-			x: 1.5d
-			y: 2.5d
+			x: 4.5d
+			y: -6.5d
 		}
 	]
 	title: "Modpack Tutorial"
