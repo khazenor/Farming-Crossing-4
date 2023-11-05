@@ -15,7 +15,7 @@ def questUpdateServer():
 
 def servers():
 	return [
-		'D:\\Lee\\Minecraft\\MultiMC\\instances\\Farming Crossing 4\\.minecraft\\$notes\\server\\Farming Crossing 4 Server'
+		'D:\\Lee\\Minecraft\\MultiMC\\instances\\Farming Crossing 4\\.minecraft\\$notes\\server\\Farming Crossing 4 Server',
 		'D:\\Lee\\Minecraft\\MultiMC\\instances\\Farming Crossing 4\\.minecraft\\$notes\\server\\TestingServer'
 	]
 
