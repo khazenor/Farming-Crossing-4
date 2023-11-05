@@ -8,12 +8,14 @@ def modsSrc():
 
 def otherInsts():
 	return [
+		'D:\\Lee\\Dropbox\\FarmingCrossing4\\install'
 	]
 def questUpdateServer():
 	return None
 
 def servers():
 	return [
+		'D:\\Lee\\Minecraft\\MultiMC\\instances\\Farming Crossing 4\\.minecraft\\$notes\\server\\Farming Crossing 4 Server'
 	]
 
 def enableMods():
@@ -34,7 +36,10 @@ def deleteConfigFolders():
 	return [
 		'config\\controllable'
 	]
-
+def clientConfigsToCopy():
+	return [
+		"bettertitlescreen-client.toml"
+	]
 def mods(location):
 	return os.path.join(location, 'mods')
 

@@ -609,8 +609,14 @@
 			icon: "moa_decor_toys:conejodorado"
 			id: "2D62FBEF18E6ABF6"
 			rewards: [{
-				id: "5E457AA1EC86DB75"
-				item: "artifacts:running_shoes"
+				id: "01A4EA2D750DA262"
+				item: {
+					Count: 1b
+					id: "minecraft:shears"
+					tag: {
+						Damage: 0
+					}
+				}
 				type: "item"
 			}]
 			tasks: [{
@@ -636,17 +642,8 @@
 			hide: true
 			id: "1018A293CFF89B16"
 			rewards: [{
-				id: "17B76098F75CB5FC"
-				item: {
-					Count: 1b
-					id: "lootbags:loot_bag"
-					tag: {
-						Color: 13882323
-						Loot: "lootbags:furniture/loot_furniture"
-						Name: "Furniture Kit"
-						Type: "COMMON"
-					}
-				}
+				id: "41A76CB7CD70C8AE"
+				item: "waystones:waystone"
 				type: "item"
 			}]
 			tasks: [{

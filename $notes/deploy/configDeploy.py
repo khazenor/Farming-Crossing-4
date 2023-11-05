@@ -46,7 +46,7 @@ def deleteExtraDefaultConfigs():
 		# remove client configs
 		configFolder = config.configFolder(location)
 		for configFilename in os.listdir(configFolder):
-			if '-client.toml' in configFilename:
+			if '-client.toml' in configFilename and configFilename not in config.clientConfigsToCopy():
 				os.remove(os.path.join(configFolder, configFilename))
 
 if __name__ == '__main__':

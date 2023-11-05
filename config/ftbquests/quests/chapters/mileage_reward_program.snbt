@@ -3465,8 +3465,8 @@
 					type: "item"
 				}
 				{
-					id: "59FAA48D863CC1EA"
-					item: "paraglider:paraglider"
+					id: "7CAB3E0EB1967C2F"
+					item: "artifacts:running_shoes"
 					type: "item"
 				}
 			]
@@ -5055,12 +5055,19 @@
 			icon: "kubejs:cert_flora_wood"
 			id: "6D8805BD42E75126"
 			min_required_dependencies: 4
-			rewards: [{
-				count: 4
-				id: "4970928994613C8A"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 4
+					id: "4970928994613C8A"
+					item: "kubejs:miles_ticket"
+					type: "item"
+				}
+				{
+					id: "7BC82315D3C4CFBA"
+					item: "paraglider:paraglider"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "4A0D3CFF9989E2F0"
 				type: "item"
