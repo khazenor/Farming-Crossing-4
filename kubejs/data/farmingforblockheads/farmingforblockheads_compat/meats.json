@@ -150,6 +150,72 @@
         "count": 2
       },
       "category": "meats"
+    },
+    {
+      "output": {
+        "item": "beachparty:raw_mussel_meat",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "meats"
+    },
+    {
+      "output": {
+        "item": "meadow:raw_bear_meat",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "meats"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:raw_birdmeat",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "meats"
+    },
+    {
+      "output": {
+        "item": "alexsmobs:raw_catfish",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "meats"
+    },
+    {
+      "output": {
+        "item": "aquaculture:fish_fillet_raw",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "meats"
+    },
+    {
+      "output": {
+        "item": "beachparty:raw_pelican",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "meats"
     }
   ]
 }

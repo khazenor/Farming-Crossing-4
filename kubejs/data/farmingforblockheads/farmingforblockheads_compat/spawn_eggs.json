@@ -131,6 +131,17 @@
     },
     {
       "output": {
+        "item": "alexsmobs:spawn_egg_caiman",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
         "item": "alexsmobs:spawn_egg_capuchin_monkey",
         "count": 1
       },
@@ -297,6 +308,17 @@
     {
       "output": {
         "item": "alexsmobs:spawn_egg_enderiophage",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "alexsmobs:spawn_egg_farseer",
         "count": 1
       },
       "payment": {
@@ -901,6 +923,17 @@
     },
     {
       "output": {
+        "item": "alexsmobs:spawn_egg_triops",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
         "item": "alexsmobs:spawn_egg_tusklin",
         "count": 1
       },
@@ -1000,6 +1033,61 @@
     },
     {
       "output": {
+        "item": "bakery:wandering_baker_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "beachparty:pelican_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "meadow:brown_bear_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "meadow:water_buffalo_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "meadow:wooly_cow_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
         "item": "minecraft:allay_spawn_egg",
         "count": 1
       },
@@ -1033,7 +1121,29 @@
     },
     {
       "output": {
+        "item": "minecraft:bee_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
         "item": "minecraft:blaze_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "minecraft:camel_spawn_egg",
         "count": 1
       },
       "payment": {
@@ -1133,6 +1243,28 @@
     {
       "output": {
         "item": "minecraft:drowned_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "minecraft:elder_guardian_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "minecraft:ender_dragon_spawn_egg",
         "count": 1
       },
       "payment": {
@@ -1265,6 +1397,17 @@
     {
       "output": {
         "item": "minecraft:husk_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "minecraft:iron_golem_spawn_egg",
         "count": 1
       },
       "payment": {
@@ -1528,6 +1671,28 @@
     },
     {
       "output": {
+        "item": "minecraft:sniffer_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "minecraft:snow_golem_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
         "item": "minecraft:spider_spawn_egg",
         "count": 1
       },
@@ -1627,6 +1792,17 @@
     },
     {
       "output": {
+        "item": "minecraft:villager_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
         "item": "minecraft:vindicator_spawn_egg",
         "count": 1
       },
@@ -1638,7 +1814,7 @@
     },
     {
       "output": {
-        "item": "minecraft:warden_spawn_egg",
+        "item": "minecraft:wandering_trader_spawn_egg",
         "count": 1
       },
       "payment": {
@@ -1738,6 +1914,457 @@
     {
       "output": {
         "item": "supplementaries:red_merchant_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "vinery:mule_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "vinery:wandering_winemaker_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:bluejay_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:booby_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:budgerigar_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:cardinal_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:cassowary_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:cockatoo_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:crane_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:duck_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:flamingo_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:gouldianfinch_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:gull_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:heron_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:hummingbird_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:kingfisher_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:kiwi_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:kookaburra_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:lyrebird_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:macaw_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:magpie_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:ostrich_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:owl_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:peafowl_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:pelican_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:penguin_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:pigeon_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:roadrunner_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:robin_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:swan_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:toucan_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:woodpecker_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:cloud_phoenix_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:desert_phoenix_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:ender_phoenix_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:fire_phoenix_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:nether_phoenix_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:skeleton_phoenix_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:snowy_phoenix_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:twilight_phoenix_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "spawneggs"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:water_phoenix_spawn_egg",
         "count": 1
       },
       "payment": {

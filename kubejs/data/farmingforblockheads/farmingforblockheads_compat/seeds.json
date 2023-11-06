@@ -175,7 +175,139 @@
     },
     {
       "output": {
+        "item": "bakery:oat_seeds",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "seed"
+    },
+    {
+      "output": {
+        "item": "bakery:strawberry_seeds",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "seed"
+    },
+    {
+      "output": {
+        "item": "candlelight:lettuce_seeds",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "seed"
+    },
+    {
+      "output": {
+        "item": "candlelight:tomato_seeds",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "seed"
+    },
+    {
+      "output": {
         "item": "supplementaries:flax_seeds",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "seed"
+    },
+    {
+      "output": {
+        "item": "vinery:jungle_grape_seeds_red",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "seed"
+    },
+    {
+      "output": {
+        "item": "vinery:jungle_grape_seeds_white",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "seed"
+    },
+    {
+      "output": {
+        "item": "vinery:red_grape_seeds",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "seed"
+    },
+    {
+      "output": {
+        "item": "vinery:savanna_grape_seeds_red",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "seed"
+    },
+    {
+      "output": {
+        "item": "vinery:savanna_grape_seeds_white",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "seed"
+    },
+    {
+      "output": {
+        "item": "vinery:taiga_grape_seeds_red",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "seed"
+    },
+    {
+      "output": {
+        "item": "vinery:taiga_grape_seeds_white",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "seed"
+    },
+    {
+      "output": {
+        "item": "vinery:white_grape_seeds",
         "count": 4
       },
       "payment": {

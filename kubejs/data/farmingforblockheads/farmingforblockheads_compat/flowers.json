@@ -65,28 +65,6 @@
     },
     {
       "output": {
-        "item": "minecraft:flowering_azalea",
-        "count": 4
-      },
-      "payment": {
-        "item": "kubejs:miles_ticket",
-        "count": 32
-      },
-      "category": "flowers"
-    },
-    {
-      "output": {
-        "item": "minecraft:flowering_azalea_leaves",
-        "count": 4
-      },
-      "payment": {
-        "item": "kubejs:miles_ticket",
-        "count": 32
-      },
-      "category": "flowers"
-    },
-    {
-      "output": {
         "item": "minecraft:lilac",
         "count": 4
       },
@@ -99,17 +77,6 @@
     {
       "output": {
         "item": "minecraft:lily_of_the_valley",
-        "count": 4
-      },
-      "payment": {
-        "item": "kubejs:miles_ticket",
-        "count": 32
-      },
-      "category": "flowers"
-    },
-    {
-      "output": {
-        "item": "minecraft:mangrove_propagule",
         "count": 4
       },
       "payment": {
@@ -186,17 +153,6 @@
     },
     {
       "output": {
-        "item": "minecraft:rose_bush",
-        "count": 4
-      },
-      "payment": {
-        "item": "kubejs:miles_ticket",
-        "count": 32
-      },
-      "category": "flowers"
-    },
-    {
-      "output": {
         "item": "minecraft:sunflower",
         "count": 4
       },
@@ -219,7 +175,7 @@
     },
     {
       "output": {
-        "item": "minecraft:wither_rose",
+        "item": "minecraft:rose_bush",
         "count": 4
       },
       "payment": {
@@ -230,7 +186,7 @@
     },
     {
       "output": {
-        "item": "supplementaries:wild_flax",
+        "item": "biomesoplenty:rose",
         "count": 4
       },
       "payment": {
@@ -241,7 +197,249 @@
     },
     {
       "output": {
-        "item": "alexsmobs:acacia_blossom",
+        "item": "biomesoplenty:violet",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "biomesoplenty:lavender",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "biomesoplenty:tall_lavender",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "biomesoplenty:blue_hydrangea",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "biomesoplenty:wildflower",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "biomesoplenty:goldenrod",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "biomesoplenty:orange_cosmos",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "biomesoplenty:pink_daffodil",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "biomesoplenty:pink_hibiscus",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "biomesoplenty:waterlily",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "biomesoplenty:white_petals",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "biomesoplenty:icy_iris",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "biomesoplenty:glowflower",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "biomesoplenty:wilted_lily",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "biomesoplenty:burning_blossom",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "biomesoplenty:cattail",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "meadow:enzian",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "meadow:fire_lily",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "meadow:eriophorum",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "meadow:eriophorum_tall",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "meadow:alpine_poppy",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "meadow:delphinium",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flowers"
+    },
+    {
+      "output": {
+        "item": "meadow:saxifrage",
         "count": 4
       },
       "payment": {
