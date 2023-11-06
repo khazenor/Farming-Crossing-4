@@ -810,6 +810,11 @@
 		}
 		{
 			dependencies: ["0D0FDA6FBDCEFF3B"]
+			description: [
+				"Design your own \"tent\" in a 3x3x3 area and use this yurt bag to travel with it around!"
+				""
+				"All blocks captured will retain their contents."
+			]
 			hide: true
 			icon: {
 				Count: 1b
@@ -842,9 +847,9 @@
 			}]
 			tasks: [{
 				consume_items: true
-				count: 27L
+				count: 14L
 				id: "2BDB4C78A983530A"
-				item: { Count: 27b, id: "kubejs:miles_ticket" }
+				item: "kubejs:miles_ticket"
 				type: "item"
 			}]
 			title: "Stone Tent"
@@ -853,6 +858,7 @@
 		}
 		{
 			dependencies: ["0318918D643D4DC0"]
+			description: ["This tent will capture a 5*5*5 area."]
 			hide: true
 			icon: {
 				Count: 1b
@@ -885,9 +891,9 @@
 			}]
 			tasks: [{
 				consume_items: true
-				count: 125L
+				count: 63L
 				id: "64249D042CE9C2F2"
-				item: { Count: 125b, id: "kubejs:miles_ticket" }
+				item: { Count: 63b, id: "kubejs:miles_ticket" }
 				type: "item"
 			}]
 			title: "Copper Tent"
@@ -896,6 +902,7 @@
 		}
 		{
 			dependencies: ["567D212033401B3C"]
+			description: ["This tent will capture a 7*7*7 area."]
 			hide: true
 			icon: {
 				Count: 1b
@@ -928,10 +935,10 @@
 			}]
 			tasks: [{
 				consume_items: true
-				count: 343L
+				count: 172L
 				id: "0019CCAFBFF36FB2"
 				item: {
-					BigCount: 343
+					BigCount: 172
 					Count: 127b
 					id: "kubejs:miles_ticket"
 				}
@@ -943,6 +950,7 @@
 		}
 		{
 			dependencies: ["6CC822DEC1247A6A"]
+			description: ["This tent will capture a 9*9*9 area."]
 			hide: true
 			icon: {
 				Count: 1b
@@ -975,10 +983,10 @@
 			}]
 			tasks: [{
 				consume_items: true
-				count: 729L
+				count: 365L
 				id: "5537B896A521A287"
 				item: {
-					BigCount: 729
+					BigCount: 365
 					Count: 127b
 					id: "kubejs:miles_ticket"
 				}
@@ -990,6 +998,7 @@
 		}
 		{
 			dependencies: ["67C21BB1DF7905AD"]
+			description: ["This tent will capture a 11*11*11 area."]
 			hide: true
 			icon: {
 				Count: 1b
@@ -1022,10 +1031,10 @@
 			}]
 			tasks: [{
 				consume_items: true
-				count: 1331L
+				count: 665L
 				id: "16A0E6FD993A54A2"
 				item: {
-					BigCount: 1331
+					BigCount: 665
 					Count: 127b
 					id: "kubejs:miles_ticket"
 				}
@@ -1037,7 +1046,11 @@
 		}
 		{
 			dependencies: ["00C04AF792DB5784"]
-			description: ["After this quest completion you would now be able to craft all bags of yurting normally."]
+			description: [
+				"This tent will capture a 13*13*13 area."
+				""
+				"After this quest completion you would now be able to craft all bags of yurting normally."
+			]
 			hide: true
 			icon: {
 				Count: 1b
@@ -1079,10 +1092,10 @@
 			]
 			tasks: [{
 				consume_items: true
-				count: 2197L
+				count: 1099L
 				id: "6BC95533D83ADB02"
 				item: {
-					BigCount: 2197
+					BigCount: 1099
 					Count: 127b
 					id: "kubejs:miles_ticket"
 				}
