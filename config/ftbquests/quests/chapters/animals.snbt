@@ -1395,7 +1395,6 @@
 			dependencies: [
 				"12AD5909D23D777B"
 				"604399AD91C02263"
-				"281C2F19E5F4253E"
 			]
 			icon: "kubejs:miles_ticket"
 			id: "672B59FE210C34E0"
@@ -1482,8 +1481,6 @@
 		{
 			dependencies: [
 				"125BCAAB6813FEA3"
-				"72F9A1C4D9A81D24"
-				"4059516E969CDCEA"
 				"2BCCC2A2BC46770B"
 				"5EA7074530B590D3"
 				"5535151D93FCD623"
@@ -1515,7 +1512,6 @@
 				"60C528BF27E580DD"
 				"720471F733468821"
 				"5A1AA1ED07AA7484"
-				"4C1664B11F7EEEB2"
 				"764BDE4A85A0212C"
 				"1C308A4B365AB2AC"
 				"5B020AB8D14CDE98"
@@ -1596,7 +1592,6 @@
 				"6FCDFEF7D7C65984"
 				"35C05B2043DDFE56"
 				"3D675F46E2C5907F"
-				"1FCD7A98F5CCBB65"
 				"50831635A884520C"
 			]
 			icon: "kubejs:miles_ticket"
@@ -1618,13 +1613,10 @@
 		{
 			dependencies: [
 				"416837A4EF7B3745"
-				"4E315EFEC06649DE"
 				"40DAFF983E2966F3"
 				"1199D8DF298F1203"
 				"7F90C6FB89CD568C"
 				"66CD5B0F435E1196"
-				"05B0531282B9BB66"
-				"73209B110C8E9FC0"
 				"359BEC4AFEC849CC"
 			]
 			icon: "kubejs:miles_ticket"
@@ -2006,6 +1998,20 @@
 			}]
 			x: -5.5d
 			y: -3.5d
+		}
+		{
+			id: "0318F209BCEDC3E4"
+			tasks: [{
+				icon: "minecraft:oak_log"
+				id: "2EB938FC65461442"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a xxx"
+				to_observe: "minecraft:air"
+				type: "observation"
+			}]
+			x: -3.5d
+			y: 7.5d
 		}
 	]
 	title: "Animal Watching"
