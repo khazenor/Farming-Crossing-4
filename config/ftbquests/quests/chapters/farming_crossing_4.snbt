@@ -656,12 +656,12 @@
 			y: -0.5d
 		}
 		{
-			dependencies: ["2DEEC2695C6A1F0F"]
+			dependencies: ["0D0FDA6FBDCEFF3B"]
 			dependency_requirement: "one_completed"
 			description: [
 				"After this quest you can now craft your own crafting grid and 1k storage disk! (You might need to rejoin the server/reopen the world for it to show up in JEI)"
 				""
-				"{image:farming_crossing_3:textures/fc3/1k_storage_disk_ticket.png width:180 height:90 align:1}"
+				"{image:khazenor:textures/refined_storage/1k_storage_disk_ticket.png width:180 height:90 align:1}"
 				"(You can purchase storage disk tickets from the market)"
 			]
 			hide: true
@@ -711,7 +711,7 @@
 				type: "item"
 			}]
 			title: "Tent Storage"
-			x: -0.5d
+			x: 0.5d
 			y: 1.5d
 		}
 		{
@@ -742,7 +742,7 @@
 				type: "item"
 			}]
 			title: "Medium Storage Expansion"
-			x: 0.5d
+			x: 1.5d
 			y: 1.5d
 		}
 		{
@@ -773,7 +773,7 @@
 				type: "item"
 			}]
 			title: "Large Storage Expansion"
-			x: 1.5d
+			x: 2.5d
 			y: 1.5d
 		}
 		{
@@ -805,53 +805,11 @@
 				type: "item"
 			}]
 			title: "Mega Storage Expansion"
-			x: 2.5d
+			x: 3.5d
 			y: 1.5d
 		}
 		{
 			dependencies: ["0D0FDA6FBDCEFF3B"]
-			hide: true
-			icon: {
-				Count: 1b
-				id: "bagofyurting:bag_of_yurting"
-				tag: {
-					RepairCost: 0
-					display: {
-						Name: "{\"text\":\"Wooden Bag of Yurting\"}"
-						color: 8606770
-					}
-					radius: 0
-				}
-			}
-			id: "2DEEC2695C6A1F0F"
-			rewards: [{
-				id: "719E560AC1FDF870"
-				item: {
-					Count: 1b
-					id: "bagofyurting:bag_of_yurting"
-					tag: {
-						RepairCost: 0
-						display: {
-							Name: "{\"text\":\"Wooden Bag of Yurting\"}"
-							color: 8606770
-						}
-						radius: 0
-					}
-				}
-				type: "item"
-			}]
-			tasks: [{
-				consume_items: true
-				id: "60F5B2723C7CBC01"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			title: "Woodent Tent"
-			x: -0.5d
-			y: 0.5d
-		}
-		{
-			dependencies: ["2DEEC2695C6A1F0F"]
 			hide: true
 			icon: {
 				Count: 1b
