@@ -2000,18 +2000,550 @@
 			y: -3.5d
 		}
 		{
-			id: "0318F209BCEDC3E4"
+			id: "4D22F63E9B7F2857"
 			tasks: [{
 				icon: "minecraft:oak_log"
-				id: "2EB938FC65461442"
+				id: "46765BE570FDE413"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a xxx"
-				to_observe: "minecraft:air"
+				to_observe: "minecraft:grass_block"
 				type: "observation"
 			}]
-			x: -3.5d
-			y: 7.5d
+			x: -4.0d
+			y: 14.0d
+		}
+		{
+			id: "7BF1E0AE295E15C8"
+			tasks: [{
+				icon: "minecraft:oak_log"
+				id: "33EDA57B16DFE31F"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a xxx"
+				to_observe: "minecraft:grass_block"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 15.5d
+		}
+		{
+			id: "02AE352CCC808F32"
+			tasks: [{
+				icon: "minecraft:oak_log"
+				id: "0D7D13A2176909CE"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a xxx"
+				to_observe: "minecraft:grass_block"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 16.5d
+		}
+		{
+			id: "089C3BD5B23A6C27"
+			tasks: [{
+				icon: "minecraft:oak_log"
+				id: "2152DA97608F3CB6"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a xxx"
+				to_observe: "minecraft:grass_block"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 18.0d
+		}
+		{
+			id: "30C903B2FA6D68C0"
+			tasks: [{
+				icon: "minecraft:oak_log"
+				id: "1FB4F82F73433655"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a xxx"
+				to_observe: "minecraft:grass_block"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 19.5d
+		}
+		{
+			id: "318581CECEF1AFD0"
+			tasks: [{
+				icon: "minecraft:oak_log"
+				id: "690B093CB8E63FBB"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a xxx"
+				to_observe: "minecraft:grass_block"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 21.0d
+		}
+		{
+			id: "4440AFDE97EDEC87"
+			tasks: [{
+				icon: "minecraft:oak_log"
+				id: "71EC1BB48CF49A8C"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a xxx"
+				to_observe: "minecraft:grass_block"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 22.5d
+		}
+		{
+			id: "7DEE73F18FA1CA3B"
+			tasks: [{
+				icon: "minecraft:oak_log"
+				id: "6C2933DCAD9A46AB"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a xxx"
+				to_observe: "minecraft:grass_block"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 24.0d
+		}
+		{
+			id: "4934A91D621EF258"
+			tasks: [{
+				icon: "minecraft:oak_log"
+				id: "3BDFBDDC503B814D"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a xxx"
+				to_observe: "minecraft:grass_block"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 25.5d
+		}
+		{
+			id: "237CCC340E80705D"
+			tasks: [{
+				icon: "minecraft:oak_log"
+				id: "64E0EF194C1D6643"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a xxx"
+				to_observe: "minecraft:grass_block"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 26.5d
+		}
+		{
+			id: "684AA641D4AF1F30"
+			tasks: [{
+				icon: "minecraft:oak_log"
+				id: "20C1B25AE1BD4C55"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a xxx"
+				to_observe: "minecraft:grass_block"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 28.0d
+		}
+		{
+			id: "58A5A0509B2F81A6"
+			tasks: [{
+				icon: "minecraft:oak_log"
+				id: "206F108902B7C2C1"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a xxx"
+				to_observe: "minecraft:grass_block"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 29.0d
+		}
+		{
+			id: "06E25F73D2CF1259"
+			tasks: [{
+				icon: "minecraft:oak_log"
+				id: "271BC13C9C6AD079"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a xxx"
+				to_observe: "minecraft:grass_block"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 30.5d
+		}
+		{
+			id: "37EB9648C5646274"
+			tasks: [{
+				icon: "minecraft:oak_log"
+				id: "3FFB2814250CD9BE"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a xxx"
+				to_observe: "minecraft:grass_block"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 31.0d
+		}
+		{
+			id: "2744788F8DAD7ED8"
+			tasks: [{
+				icon: "minecraft:oak_log"
+				id: "1FD48E2F425BAA85"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a xxx"
+				to_observe: "minecraft:grass_block"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 32.5d
+		}
+		{
+			id: "3C00D722BDCFD963"
+			tasks: [{
+				icon: "minecraft:oak_log"
+				id: "4B459FA7E467CB4A"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a xxx"
+				to_observe: "minecraft:grass_block"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 34.0d
+		}
+		{
+			id: "3490C1DA8E7174BF"
+			tasks: [{
+				icon: "minecraft:oak_log"
+				id: "28CE6A3FC3088677"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a xxx"
+				to_observe: "minecraft:grass_block"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 35.5d
+		}
+		{
+			id: "1F0D03EA0ECD7416"
+			tasks: [{
+				icon: "minecraft:oak_log"
+				id: "3636C80509AE645A"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a xxx"
+				to_observe: "minecraft:grass_block"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 36.5d
+		}
+		{
+			id: "292D055D45475F6A"
+			tasks: [{
+				icon: "minecraft:oak_log"
+				id: "39387DD86A275529"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a xxx"
+				to_observe: "minecraft:grass_block"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 38.0d
+		}
+		{
+			id: "5509BE4119BE3B6A"
+			tasks: [{
+				icon: "minecraft:oak_log"
+				id: "1AD5459C9CD3ABCF"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a xxx"
+				to_observe: "minecraft:grass_block"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 39.5d
+		}
+		{
+			id: "06D5DD66E7D5143C"
+			tasks: [{
+				icon: "minecraft:oak_log"
+				id: "0F90C574FB060E4F"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a xxx"
+				to_observe: "minecraft:grass_block"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 41.0d
+		}
+		{
+			id: "6F472DE5A35111D3"
+			tasks: [{
+				icon: "minecraft:oak_log"
+				id: "4B96D904D2360188"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a xxx"
+				to_observe: "minecraft:grass_block"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 42.5d
+		}
+		{
+			id: "139B87AC72083A31"
+			tasks: [{
+				icon: "minecraft:oak_log"
+				id: "558393907431F032"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a xxx"
+				to_observe: "minecraft:grass_block"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 44.0d
+		}
+		{
+			id: "4FB084A1625FD1BB"
+			tasks: [{
+				icon: "minecraft:oak_log"
+				id: "1D6373B996189F70"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a xxx"
+				to_observe: "minecraft:grass_block"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 45.5d
+		}
+		{
+			id: "0D020C4C974AB19C"
+			tasks: [{
+				icon: "minecraft:oak_log"
+				id: "44D55B3F6C4CC202"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a xxx"
+				to_observe: "minecraft:grass_block"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 46.5d
+		}
+		{
+			id: "0A1D0040C07D8885"
+			tasks: [{
+				icon: "minecraft:oak_log"
+				id: "71C6413D0C0D80C3"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a xxx"
+				to_observe: "minecraft:grass_block"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 48.0d
+		}
+		{
+			id: "2C1A1A446C56ACD8"
+			tasks: [{
+				icon: "minecraft:oak_log"
+				id: "28EFAA242601C0EA"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a xxx"
+				to_observe: "minecraft:grass_block"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 49.5d
+		}
+		{
+			id: "7F57AD9A20DAB261"
+			tasks: [{
+				icon: "minecraft:oak_log"
+				id: "1BC4B852093E6211"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a xxx"
+				to_observe: "minecraft:grass_block"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 51.0d
+		}
+		{
+			id: "3E4836F1A4AA2859"
+			tasks: [{
+				icon: "minecraft:oak_log"
+				id: "4BEAAC3CFB6C3F44"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a xxx"
+				to_observe: "minecraft:grass_block"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 52.5d
+		}
+		{
+			id: "426484111178BC6C"
+			tasks: [{
+				icon: "minecraft:oak_log"
+				id: "5E11E510DB053375"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a xxx"
+				to_observe: "minecraft:grass_block"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 54.0d
+		}
+		{
+			id: "364290CAA0CDDF7B"
+			tasks: [{
+				icon: "minecraft:oak_log"
+				id: "48081B654C9C9E13"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a xxx"
+				to_observe: "minecraft:grass_block"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 55.5d
+		}
+		{
+			id: "078ABFBF6EFD73D9"
+			tasks: [{
+				icon: "minecraft:oak_log"
+				id: "646267D06E60B06B"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a xxx"
+				to_observe: "minecraft:grass_block"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 56.5d
+		}
+		{
+			id: "138B1225452695E1"
+			tasks: [{
+				icon: "minecraft:oak_log"
+				id: "00CC9ED06532F687"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a xxx"
+				to_observe: "minecraft:grass_block"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 58.0d
+		}
+		{
+			id: "48D16DFAA53DA5D6"
+			tasks: [{
+				icon: "minecraft:oak_log"
+				id: "38EE373550E8F4FB"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a xxx"
+				to_observe: "minecraft:grass_block"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 59.5d
+		}
+		{
+			id: "68890956DAA0C90D"
+			tasks: [{
+				icon: "minecraft:oak_log"
+				id: "30EA656FDBEA8C82"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a xxx"
+				to_observe: "minecraft:grass_block"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 61.0d
+		}
+		{
+			id: "5084C890210FA969"
+			tasks: [{
+				icon: "minecraft:oak_log"
+				id: "5553740EA3131F1E"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a xxx"
+				to_observe: "minecraft:grass_block"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 62.5d
+		}
+		{
+			id: "6CE07647FA53E710"
+			tasks: [{
+				icon: "minecraft:oak_log"
+				id: "39496F144B085AFF"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a xxx"
+				to_observe: "minecraft:grass_block"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 64.0d
+		}
+		{
+			id: "6BD10853686D8EA0"
+			tasks: [{
+				icon: "minecraft:oak_log"
+				id: "76FA47682FA9CE0F"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a xxx"
+				to_observe: "minecraft:grass_block"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 65.5d
+		}
+		{
+			id: "63A100FABDA4FB24"
+			tasks: [{
+				icon: "minecraft:oak_log"
+				id: "568028A60EADC7BF"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a xxx"
+				to_observe: "minecraft:grass_block"
+				type: "observation"
+			}]
+			x: -4.0d
+			y: 66.5d
 		}
 	]
 	title: "Animal Watching"

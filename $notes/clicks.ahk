@@ -11,11 +11,13 @@ mouseWrapper(){
   MouseMove, %xpos%, %ypos%
 }
 createManyQuests(){
-  Loop, 2
+  Loop, 39
   {
     observationQuest()
+    MouseMove, 963, 545 ; move mouse to center of screen
     send {Click WheelDown}
-    Sleep, 100
+    send {Click WheelDown}
+    sleep 50
   }
 }
 
