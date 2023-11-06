@@ -3496,7 +3496,7 @@
 				id: "4BF10B0079D7574A"
 				type: "item"
 			}]
-			title: "Observe Unique 5 Animals"
+			title: "Observe 5 Unique Animals"
 			x: -3.0d
 			y: -1.0d
 		}
@@ -3622,9 +3622,9 @@
 			hide: true
 			icon: "kubejs:cert_ani_stone"
 			id: "57C45C9423BEC2AB"
-			min_required_dependencies: 15
+			min_required_dependencies: 17
 			rewards: [{
-				count: 10
+				count: 12
 				id: "65FD7F7F65D3877B"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -3633,7 +3633,7 @@
 				id: "6193548E730AD19B"
 				type: "item"
 			}]
-			title: "Observe Unique 15 Animals"
+			title: "Observe 17 Unique Animals"
 			x: -2.0d
 			y: -1.0d
 		}
@@ -3759,9 +3759,9 @@
 			hide: true
 			icon: "kubejs:cert_ani_iron"
 			id: "6536E3C16A4477CA"
-			min_required_dependencies: 32
+			min_required_dependencies: 38
 			rewards: [{
-				count: 34
+				count: 42
 				id: "7997F1C1E0BB8225"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -3770,7 +3770,7 @@
 				id: "512ED17BA4ED0E40"
 				type: "item"
 			}]
-			title: "Observe Unique 32 Animals"
+			title: "Observe 38 Unique Animals"
 			x: -1.0d
 			y: -1.0d
 		}
@@ -3896,9 +3896,9 @@
 			hide: true
 			icon: "kubejs:cert_ani_gold"
 			id: "1D14E2615748F241"
-			min_required_dependencies: 58
+			min_required_dependencies: 70
 			rewards: [{
-				count: 48
+				count: 64
 				id: "681C96B5EF53CADE"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -3907,7 +3907,7 @@
 				id: "7840A0C774CC5AAC"
 				type: "item"
 			}]
-			title: "Observe Unique 58 Animals"
+			title: "Observe 70 Unique Animals"
 			x: 0.0d
 			y: -1.0d
 		}
@@ -4040,7 +4040,7 @@
 					type: "item"
 				}
 				{
-					count: 102
+					count: 184
 					id: "591EAA4377DBE323"
 					item: "kubejs:miles_ticket"
 					type: "item"
