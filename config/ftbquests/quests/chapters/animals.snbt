@@ -10,40 +10,6 @@
 	quests: [
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
-			description: ["Alligator Snapping Turtle: Big turtles from swamps that defend themselves with their sharp beak."]
-			hide: true
-			id: "05B0531282B9BB66"
-			tasks: [{
-				icon: "alexsmobs:spawn_egg_alligator_snapping_turtle"
-				id: "512D02E53922F711"
-				observe_type: 5
-				timer: 0L
-				title: "Spot an alligator snapping turtle"
-				to_observe: "alexsmobs:alligator_snapping_turtle"
-				type: "observation"
-			}]
-			x: -9.0d
-			y: 16.5d
-		}
-		{
-			dependencies: ["2D62FBEF18E6ABF6"]
-			description: ["Anaconda: Large freshwater snakes that slither around in Swamps to find prey to strangle and swallow whole."]
-			hide: true
-			id: "73209B110C8E9FC0"
-			tasks: [{
-				icon: "alexsmobs:spawn_egg_anaconda"
-				id: "2F36213B3E685DF4"
-				observe_type: 5
-				timer: 0L
-				title: "Spot an anaconda"
-				to_observe: "alexsmobs:anaconda"
-				type: "observation"
-			}]
-			x: -8.0d
-			y: 16.5d
-		}
-		{
-			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Anteater: Big insectivorous mammals that roam Jungles to feed on Leafcutter Ants with their really long tongues."]
 			hide: true
 			id: "125BCAAB6813FEA3"
@@ -228,23 +194,6 @@
 			}]
 			x: -10.0d
 			y: -2.0d
-		}
-		{
-			dependencies: ["2D62FBEF18E6ABF6"]
-			description: ["Crocodile: Big semi-aquatic reptiles from Rivers and Swamps that hunt prey using a death roll attack."]
-			hide: true
-			id: "4E315EFEC06649DE"
-			tasks: [{
-				icon: "alexsmobs:spawn_egg_crocodile"
-				id: "0D804410EDDD2C09"
-				observe_type: 5
-				timer: 0L
-				title: "Spot a crocodile"
-				to_observe: "alexsmobs:crocodile"
-				type: "observation"
-			}]
-			x: -10.0d
-			y: 15.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -441,40 +390,6 @@
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
-			description: ["Grizzly Bear: Big, defensive, furry mammals that roam Forests with their cubs and love to eat Honey."]
-			hide: true
-			id: "4C1664B11F7EEEB2"
-			tasks: [{
-				icon: "alexsmobs:spawn_egg_grizzly_bear"
-				id: "27E3B690796B9B57"
-				observe_type: 5
-				timer: 0L
-				title: "Spot a grizzly bear"
-				to_observe: "alexsmobs:grizzly_bear"
-				type: "observation"
-			}]
-			x: -9.0d
-			y: 3.5d
-		}
-		{
-			dependencies: ["2D62FBEF18E6ABF6"]
-			description: ["Hammerhead Shark: Strange sharks that swim in Warm Oceans to hunt for Fish, Squid or any damaged Mob/Player."]
-			hide: true
-			id: "281C2F19E5F4253E"
-			tasks: [{
-				icon: "alexsmobs:spawn_egg_hammerhead_shark"
-				id: "1394A4E07E4740C8"
-				observe_type: 5
-				timer: 0L
-				title: "Spot a hammerhead shark"
-				to_observe: "alexsmobs:hammerhead_shark"
-				type: "observation"
-			}]
-			x: -5.5d
-			y: -2.0d
-		}
-		{
-			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Hummingbird: Tiny birds native to Flowery Biomes and Jungles that love to pollinate."]
 			hide: true
 			id: "4F6BFC64FA3A844E"
@@ -523,23 +438,6 @@
 			}]
 			x: -9.0d
 			y: 8.0d
-		}
-		{
-			dependencies: ["2D62FBEF18E6ABF6"]
-			description: ["Komodo Dragon: Cannibalistic reptiles that inhabit Sparse Jungles in search of prey."]
-			hide: true
-			id: "72F9A1C4D9A81D24"
-			tasks: [{
-				icon: "alexsmobs:spawn_egg_komodo_dragon"
-				id: "4F927201495C3A59"
-				observe_type: 5
-				timer: 0L
-				title: "Spot a komodo dragon"
-				to_observe: "alexsmobs:komodo_dragon"
-				type: "observation"
-			}]
-			x: -10.0d
-			y: 5.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -747,23 +645,6 @@
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
-			description: ["Rattlesnake: Small reptiles from Deserts and Badlands that warn potential attackers by rattling their tail. If that doesn't work, they inflict a venomous bite."]
-			hide: true
-			id: "1FCD7A98F5CCBB65"
-			tasks: [{
-				icon: "alexsmobs:spawn_egg_rattlesnake"
-				id: "339DD2B9E5794A52"
-				observe_type: 5
-				timer: 0L
-				title: "Spot a rattlesnake"
-				to_observe: "alexsmobs:rattlesnake"
-				type: "observation"
-			}]
-			x: -7.0d
-			y: 1.5d
-		}
-		{
-			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["Rhinoceros: Strong and tough herbivores that can be found grazing in Savannas."]
 			hide: true
 			id: "79B4FA3973F0AAD8"
@@ -931,23 +812,6 @@
 			}]
 			x: -10.0d
 			y: -3.0d
-		}
-		{
-			dependencies: ["2D62FBEF18E6ABF6"]
-			description: ["Tiger: Extremely powerful predators from the Bamboo Jungles that hunt by turning almost invisible and striking at the best possible moment."]
-			hide: true
-			id: "4059516E969CDCEA"
-			tasks: [{
-				icon: "alexsmobs:spawn_egg_tiger"
-				id: "0217EA63D6A90C32"
-				observe_type: 5
-				timer: 0L
-				title: "Spot a tiger"
-				to_observe: "alexsmobs:tiger"
-				type: "observation"
-			}]
-			x: -9.0d
-			y: 4.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
