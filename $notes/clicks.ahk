@@ -1,17 +1,47 @@
 f8::
-  MouseGetPos, xpos, ypos 
-  createManyQuests()
-  MouseMove, %xpos%, %ypos%
+  mouseWrapper()
   return
 
 f12::
   ExitApp
 
+mouseWrapper(){
+  MouseGetPos, xpos, ypos 
+  createManyQuests()
+  MouseMove, %xpos%, %ypos%
+}
 createManyQuests(){
-  Loop, 87
+  Loop, 2
   {
-    customItemCollectionQuest()
+    observationQuest()
+    send {Click WheelDown}
+    Sleep, 100
   }
+}
+
+observationQuest(){
+  send {Click 963 545 Right} ; right click the center of the screen
+  send {Click 1080, 809} ; select observation
+
+  send {Click 620, 374} ; select type: block tag
+  send {Click 620, 374} ; select type: block state
+  send {Click 620, 374} ; select type: block entity
+  send {Click 620, 374} ; select type: block entity type
+  send {Click 620, 374} ; select type: entity type
+
+  ; icon
+  send {Click 601, 189} ; select icon
+  send {Click 708, 446} ; select second "item" (first one is usually blank here)
+  send {Click 1186, 834} ; select "Accept"
+
+  ; title
+  send {Click 658, 141} ; select Title
+  send Spot a xxx
+  send {Click 1142, 650} ; select "Accept"
+
+
+  send {Click 1887, 73} ; select check (accept)
+  Send {Esc}
 }
 
 itemQuestWithTwoRewardsInOrder(){
