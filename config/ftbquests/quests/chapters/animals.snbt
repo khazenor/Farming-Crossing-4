@@ -2002,12 +2002,12 @@
 		{
 			id: "4D22F63E9B7F2857"
 			tasks: [{
-				icon: "minecraft:oak_log"
+				icon: "exoticbirds:peafowl_spawn_egg"
 				id: "46765BE570FDE413"
 				observe_type: 5
 				timer: 0L
-				title: "Spot a xxx"
-				to_observe: "minecraft:grass_block"
+				title: "Spot a Peafowl"
+				to_observe: "exoticbirds:peafowl"
 				type: "observation"
 			}]
 			x: -4.0d
@@ -2016,12 +2016,12 @@
 		{
 			id: "7BF1E0AE295E15C8"
 			tasks: [{
-				icon: "minecraft:oak_log"
+				icon: "exoticbirds:hummingbird_spawn_egg"
 				id: "33EDA57B16DFE31F"
 				observe_type: 5
 				timer: 0L
-				title: "Spot a xxx"
-				to_observe: "minecraft:grass_block"
+				title: "Spot a Hummingbird"
+				to_observe: "exoticbirds:hummingbird"
 				type: "observation"
 			}]
 			x: -4.0d
@@ -2030,12 +2030,12 @@
 		{
 			id: "02AE352CCC808F32"
 			tasks: [{
-				icon: "minecraft:oak_log"
+				icon: "exoticbirds:woodpecker_spawn_egg"
 				id: "0D7D13A2176909CE"
 				observe_type: 5
 				timer: 0L
-				title: "Spot a xxx"
-				to_observe: "minecraft:grass_block"
+				title: "Spot a Woodpecker"
+				to_observe: "exoticbirds:woodpecker"
 				type: "observation"
 			}]
 			x: -4.0d
@@ -2044,12 +2044,12 @@
 		{
 			id: "089C3BD5B23A6C27"
 			tasks: [{
-				icon: "minecraft:oak_log"
+				icon: "exoticbirds:kingfisher_spawn_egg"
 				id: "2152DA97608F3CB6"
 				observe_type: 5
 				timer: 0L
-				title: "Spot a xxx"
-				to_observe: "minecraft:grass_block"
+				title: "Spot a Kingfisher"
+				to_observe: "exoticbirds:kingfisher"
 				type: "observation"
 			}]
 			x: -4.0d
@@ -2058,12 +2058,12 @@
 		{
 			id: "30C903B2FA6D68C0"
 			tasks: [{
-				icon: "minecraft:oak_log"
+				icon: "exoticbirds:roadrunner_spawn_egg"
 				id: "1FB4F82F73433655"
 				observe_type: 5
 				timer: 0L
-				title: "Spot a xxx"
-				to_observe: "minecraft:grass_block"
+				title: "Spot a Roadrunner"
+				to_observe: "exoticbirds:roadrunner"
 				type: "observation"
 			}]
 			x: -4.0d
@@ -2072,12 +2072,12 @@
 		{
 			id: "318581CECEF1AFD0"
 			tasks: [{
-				icon: "minecraft:oak_log"
+				icon: "exoticbirds:toucan_spawn_egg"
 				id: "690B093CB8E63FBB"
 				observe_type: 5
 				timer: 0L
-				title: "Spot a xxx"
-				to_observe: "minecraft:grass_block"
+				title: "Spot a Toucan"
+				to_observe: "exoticbirds:toucan"
 				type: "observation"
 			}]
 			x: -4.0d
@@ -2086,12 +2086,12 @@
 		{
 			id: "4440AFDE97EDEC87"
 			tasks: [{
-				icon: "minecraft:oak_log"
+				icon: "exoticbirds:swan_spawn_egg"
 				id: "71EC1BB48CF49A8C"
 				observe_type: 5
 				timer: 0L
-				title: "Spot a xxx"
-				to_observe: "minecraft:grass_block"
+				title: "Spot a Swan"
+				to_observe: "exoticbirds:swan"
 				type: "observation"
 			}]
 			x: -4.0d
@@ -2100,12 +2100,12 @@
 		{
 			id: "7DEE73F18FA1CA3B"
 			tasks: [{
-				icon: "minecraft:oak_log"
+				icon: "exoticbirds:macaw_spawn_egg"
 				id: "6C2933DCAD9A46AB"
 				observe_type: 5
 				timer: 0L
-				title: "Spot a xxx"
-				to_observe: "minecraft:grass_block"
+				title: "Spot a Macaw"
+				to_observe: "exoticbirds:macaw"
 				type: "observation"
 			}]
 			x: -4.0d
@@ -2114,12 +2114,12 @@
 		{
 			id: "4934A91D621EF258"
 			tasks: [{
-				icon: "minecraft:oak_log"
+				icon: "exoticbirds:cassowary_spawn_egg"
 				id: "3BDFBDDC503B814D"
 				observe_type: 5
 				timer: 0L
-				title: "Spot a xxx"
-				to_observe: "minecraft:grass_block"
+				title: "Spot a Cassowary"
+				to_observe: "exoticbirds:cassowary"
 				type: "observation"
 			}]
 			x: -4.0d
@@ -2128,12 +2128,12 @@
 		{
 			id: "237CCC340E80705D"
 			tasks: [{
-				icon: "minecraft:oak_log"
+				icon: "exoticbirds:magpie_spawn_egg"
 				id: "64E0EF194C1D6643"
 				observe_type: 5
 				timer: 0L
-				title: "Spot a xxx"
-				to_observe: "minecraft:grass_block"
+				title: "Spot a Magpie"
+				to_observe: "exoticbirds:magpie"
 				type: "observation"
 			}]
 			x: -4.0d
@@ -2142,12 +2142,12 @@
 		{
 			id: "684AA641D4AF1F30"
 			tasks: [{
-				icon: "minecraft:oak_log"
+				icon: "exoticbirds:flamingo_spawn_egg"
 				id: "20C1B25AE1BD4C55"
 				observe_type: 5
 				timer: 0L
-				title: "Spot a xxx"
-				to_observe: "minecraft:grass_block"
+				title: "Spot a Flamingo"
+				to_observe: "exoticbirds:flamingo"
 				type: "observation"
 			}]
 			x: -4.0d
@@ -2156,12 +2156,12 @@
 		{
 			id: "58A5A0509B2F81A6"
 			tasks: [{
-				icon: "minecraft:oak_log"
+				icon: "exoticbirds:kiwi_spawn_egg"
 				id: "206F108902B7C2C1"
 				observe_type: 5
 				timer: 0L
-				title: "Spot a xxx"
-				to_observe: "minecraft:grass_block"
+				title: "Spot a Kiwi"
+				to_observe: "exoticbirds:kiwi"
 				type: "observation"
 			}]
 			x: -4.0d
@@ -2170,12 +2170,12 @@
 		{
 			id: "06E25F73D2CF1259"
 			tasks: [{
-				icon: "minecraft:oak_log"
+				icon: "exoticbirds:pelican_spawn_egg"
 				id: "271BC13C9C6AD079"
 				observe_type: 5
 				timer: 0L
-				title: "Spot a xxx"
-				to_observe: "minecraft:grass_block"
+				title: "Spot a Pelican"
+				to_observe: "exoticbirds:pelican"
 				type: "observation"
 			}]
 			x: -4.0d
@@ -2184,12 +2184,12 @@
 		{
 			id: "37EB9648C5646274"
 			tasks: [{
-				icon: "minecraft:oak_log"
+				icon: "exoticbirds:owl_spawn_egg"
 				id: "3FFB2814250CD9BE"
 				observe_type: 5
 				timer: 0L
-				title: "Spot a xxx"
-				to_observe: "minecraft:grass_block"
+				title: "Spot an Owl"
+				to_observe: "exoticbirds:owl"
 				type: "observation"
 			}]
 			x: -4.0d
@@ -2198,12 +2198,12 @@
 		{
 			id: "2744788F8DAD7ED8"
 			tasks: [{
-				icon: "minecraft:oak_log"
+				icon: "exoticbirds:lyrebird_spawn_egg"
 				id: "1FD48E2F425BAA85"
 				observe_type: 5
 				timer: 0L
-				title: "Spot a xxx"
-				to_observe: "minecraft:grass_block"
+				title: "Spot a Lyrebird"
+				to_observe: "exoticbirds:lyrebird"
 				type: "observation"
 			}]
 			x: -4.0d
@@ -2212,12 +2212,12 @@
 		{
 			id: "3C00D722BDCFD963"
 			tasks: [{
-				icon: "minecraft:oak_log"
+				icon: "exoticbirds:ostrich_spawn_egg"
 				id: "4B459FA7E467CB4A"
 				observe_type: 5
 				timer: 0L
-				title: "Spot a xxx"
-				to_observe: "minecraft:grass_block"
+				title: "Spot an Ostrich"
+				to_observe: "exoticbirds:ostrich"
 				type: "observation"
 			}]
 			x: -4.0d
@@ -2226,12 +2226,12 @@
 		{
 			id: "3490C1DA8E7174BF"
 			tasks: [{
-				icon: "minecraft:oak_log"
+				icon: "exoticbirds:gouldianfinch_spawn_egg"
 				id: "28CE6A3FC3088677"
 				observe_type: 5
 				timer: 0L
-				title: "Spot a xxx"
-				to_observe: "minecraft:grass_block"
+				title: "Spot a Gouldian Finch"
+				to_observe: "exoticbirds:gouldianfinch"
 				type: "observation"
 			}]
 			x: -4.0d
@@ -2240,12 +2240,12 @@
 		{
 			id: "1F0D03EA0ECD7416"
 			tasks: [{
-				icon: "minecraft:oak_log"
+				icon: "exoticbirds:gull_spawn_egg"
 				id: "3636C80509AE645A"
 				observe_type: 5
 				timer: 0L
-				title: "Spot a xxx"
-				to_observe: "minecraft:grass_block"
+				title: "Spot a Gull"
+				to_observe: "exoticbirds:gull"
 				type: "observation"
 			}]
 			x: -4.0d
@@ -2254,12 +2254,12 @@
 		{
 			id: "292D055D45475F6A"
 			tasks: [{
-				icon: "minecraft:oak_log"
+				icon: "exoticbirds:pigeon_spawn_egg"
 				id: "39387DD86A275529"
 				observe_type: 5
 				timer: 0L
-				title: "Spot a xxx"
-				to_observe: "minecraft:grass_block"
+				title: "Spot a Pigeon"
+				to_observe: "exoticbirds:pigeon"
 				type: "observation"
 			}]
 			x: -4.0d
@@ -2268,12 +2268,12 @@
 		{
 			id: "5509BE4119BE3B6A"
 			tasks: [{
-				icon: "minecraft:oak_log"
+				icon: "exoticbirds:penguin_spawn_egg"
 				id: "1AD5459C9CD3ABCF"
 				observe_type: 5
 				timer: 0L
-				title: "Spot a xxx"
-				to_observe: "minecraft:grass_block"
+				title: "Spot a Penguin"
+				to_observe: "exoticbirds:penguin"
 				type: "observation"
 			}]
 			x: -4.0d
@@ -2282,12 +2282,12 @@
 		{
 			id: "06D5DD66E7D5143C"
 			tasks: [{
-				icon: "minecraft:oak_log"
+				icon: "exoticbirds:duck_spawn_egg"
 				id: "0F90C574FB060E4F"
 				observe_type: 5
 				timer: 0L
-				title: "Spot a xxx"
-				to_observe: "minecraft:grass_block"
+				title: "Spot a Duck"
+				to_observe: "exoticbirds:duck"
 				type: "observation"
 			}]
 			x: -4.0d
@@ -2296,12 +2296,12 @@
 		{
 			id: "6F472DE5A35111D3"
 			tasks: [{
-				icon: "minecraft:oak_log"
+				icon: "exoticbirds:heron_spawn_egg"
 				id: "4B96D904D2360188"
 				observe_type: 5
 				timer: 0L
-				title: "Spot a xxx"
-				to_observe: "minecraft:grass_block"
+				title: "Spot a Heron"
+				to_observe: "exoticbirds:heron"
 				type: "observation"
 			}]
 			x: -4.0d
@@ -2310,12 +2310,12 @@
 		{
 			id: "139B87AC72083A31"
 			tasks: [{
-				icon: "minecraft:oak_log"
+				icon: "exoticbirds:booby_spawn_egg"
 				id: "558393907431F032"
 				observe_type: 5
 				timer: 0L
-				title: "Spot a xxx"
-				to_observe: "minecraft:grass_block"
+				title: "Spot a Booby"
+				to_observe: "exoticbirds:booby"
 				type: "observation"
 			}]
 			x: -4.0d
@@ -2324,12 +2324,12 @@
 		{
 			id: "4FB084A1625FD1BB"
 			tasks: [{
-				icon: "minecraft:oak_log"
+				icon: "exoticbirds:cardinal_spawn_egg"
 				id: "1D6373B996189F70"
 				observe_type: 5
 				timer: 0L
-				title: "Spot a xxx"
-				to_observe: "minecraft:grass_block"
+				title: "Spot a Cardinal"
+				to_observe: "exoticbirds:cardinal"
 				type: "observation"
 			}]
 			x: -4.0d
@@ -2338,12 +2338,12 @@
 		{
 			id: "0D020C4C974AB19C"
 			tasks: [{
-				icon: "minecraft:oak_log"
+				icon: "exoticbirds:bluejay_spawn_egg"
 				id: "44D55B3F6C4CC202"
 				observe_type: 5
 				timer: 0L
-				title: "Spot a xxx"
-				to_observe: "minecraft:grass_block"
+				title: "Spot a Blue Jay"
+				to_observe: "exoticbirds:bluejay"
 				type: "observation"
 			}]
 			x: -4.0d
@@ -2352,12 +2352,12 @@
 		{
 			id: "0A1D0040C07D8885"
 			tasks: [{
-				icon: "minecraft:oak_log"
+				icon: "exoticbirds:robin_spawn_egg"
 				id: "71C6413D0C0D80C3"
 				observe_type: 5
 				timer: 0L
-				title: "Spot a xxx"
-				to_observe: "minecraft:grass_block"
+				title: "Spot a Robin"
+				to_observe: "exoticbirds:robin"
 				type: "observation"
 			}]
 			x: -4.0d
@@ -2366,12 +2366,12 @@
 		{
 			id: "2C1A1A446C56ACD8"
 			tasks: [{
-				icon: "minecraft:oak_log"
+				icon: "exoticbirds:crane_spawn_egg"
 				id: "28EFAA242601C0EA"
 				observe_type: 5
 				timer: 0L
-				title: "Spot a xxx"
-				to_observe: "minecraft:grass_block"
+				title: "Spot a Crane"
+				to_observe: "exoticbirds:crane"
 				type: "observation"
 			}]
 			x: -4.0d
@@ -2380,12 +2380,12 @@
 		{
 			id: "7F57AD9A20DAB261"
 			tasks: [{
-				icon: "minecraft:oak_log"
+				icon: "exoticbirds:kookaburra_spawn_egg"
 				id: "1BC4B852093E6211"
 				observe_type: 5
 				timer: 0L
-				title: "Spot a xxx"
-				to_observe: "minecraft:grass_block"
+				title: "Spot a Kookaburra"
+				to_observe: "exoticbirds:kookaburra"
 				type: "observation"
 			}]
 			x: -4.0d
@@ -2394,12 +2394,12 @@
 		{
 			id: "3E4836F1A4AA2859"
 			tasks: [{
-				icon: "minecraft:oak_log"
+				icon: "exoticbirds:budgerigar_spawn_egg"
 				id: "4BEAAC3CFB6C3F44"
 				observe_type: 5
 				timer: 0L
-				title: "Spot a xxx"
-				to_observe: "minecraft:grass_block"
+				title: "Spot a Budgerigar"
+				to_observe: "exoticbirds:budgerigar"
 				type: "observation"
 			}]
 			x: -4.0d
@@ -2408,12 +2408,12 @@
 		{
 			id: "426484111178BC6C"
 			tasks: [{
-				icon: "minecraft:oak_log"
+				icon: "exoticbirds:cockatoo_spawn_egg"
 				id: "5E11E510DB053375"
 				observe_type: 5
 				timer: 0L
-				title: "Spot a xxx"
-				to_observe: "minecraft:grass_block"
+				title: "Spot a Cockatoo"
+				to_observe: "exoticbirds:cockatoo"
 				type: "observation"
 			}]
 			x: -4.0d
@@ -2422,12 +2422,12 @@
 		{
 			id: "364290CAA0CDDF7B"
 			tasks: [{
-				icon: "minecraft:oak_log"
+				icon: "exoticbirds:fire_phoenix_spawn_egg"
 				id: "48081B654C9C9E13"
 				observe_type: 5
 				timer: 0L
-				title: "Spot a xxx"
-				to_observe: "minecraft:grass_block"
+				title: "Spot a Flame Phoenix"
+				to_observe: "exoticbirds:fire_phoenix"
 				type: "observation"
 			}]
 			x: -4.0d
@@ -2436,12 +2436,12 @@
 		{
 			id: "078ABFBF6EFD73D9"
 			tasks: [{
-				icon: "minecraft:oak_log"
+				icon: "exoticbirds:cloud_phoenix_spawn_egg"
 				id: "646267D06E60B06B"
 				observe_type: 5
 				timer: 0L
-				title: "Spot a xxx"
-				to_observe: "minecraft:grass_block"
+				title: "Spot a Cloud Phoenix"
+				to_observe: "exoticbirds:cloud_phoenix"
 				type: "observation"
 			}]
 			x: -4.0d
@@ -2450,12 +2450,12 @@
 		{
 			id: "138B1225452695E1"
 			tasks: [{
-				icon: "minecraft:oak_log"
+				icon: "exoticbirds:water_phoenix_spawn_egg"
 				id: "00CC9ED06532F687"
 				observe_type: 5
 				timer: 0L
-				title: "Spot a xxx"
-				to_observe: "minecraft:grass_block"
+				title: "Spot a Water Phoenix"
+				to_observe: "exoticbirds:water_phoenix"
 				type: "observation"
 			}]
 			x: -4.0d
@@ -2464,12 +2464,12 @@
 		{
 			id: "48D16DFAA53DA5D6"
 			tasks: [{
-				icon: "minecraft:oak_log"
+				icon: "exoticbirds:nether_phoenix_spawn_egg"
 				id: "38EE373550E8F4FB"
 				observe_type: 5
 				timer: 0L
-				title: "Spot a xxx"
-				to_observe: "minecraft:grass_block"
+				title: "Spot a Nether Phoenix"
+				to_observe: "exoticbirds:nether_phoenix"
 				type: "observation"
 			}]
 			x: -4.0d
@@ -2478,12 +2478,12 @@
 		{
 			id: "68890956DAA0C90D"
 			tasks: [{
-				icon: "minecraft:oak_log"
+				icon: "exoticbirds:skeleton_phoenix_spawn_egg"
 				id: "30EA656FDBEA8C82"
 				observe_type: 5
 				timer: 0L
-				title: "Spot a xxx"
-				to_observe: "minecraft:grass_block"
+				title: "Spot a Skeleton Phoenix"
+				to_observe: "exoticbirds:skeleton_phoenix"
 				type: "observation"
 			}]
 			x: -4.0d
@@ -2492,12 +2492,12 @@
 		{
 			id: "5084C890210FA969"
 			tasks: [{
-				icon: "minecraft:oak_log"
+				icon: "exoticbirds:snowy_phoenix_spawn_egg"
 				id: "5553740EA3131F1E"
 				observe_type: 5
 				timer: 0L
-				title: "Spot a xxx"
-				to_observe: "minecraft:grass_block"
+				title: "Spot a Snowy Phoenix"
+				to_observe: "exoticbirds:snowy_phoenix"
 				type: "observation"
 			}]
 			x: -4.0d
@@ -2506,12 +2506,12 @@
 		{
 			id: "6CE07647FA53E710"
 			tasks: [{
-				icon: "minecraft:oak_log"
+				icon: "exoticbirds:desert_phoenix_spawn_egg"
 				id: "39496F144B085AFF"
 				observe_type: 5
 				timer: 0L
-				title: "Spot a xxx"
-				to_observe: "minecraft:grass_block"
+				title: "Spot a Desert Phoenix"
+				to_observe: "exoticbirds:desert_phoenix"
 				type: "observation"
 			}]
 			x: -4.0d
@@ -2520,12 +2520,12 @@
 		{
 			id: "6BD10853686D8EA0"
 			tasks: [{
-				icon: "minecraft:oak_log"
+				icon: "exoticbirds:ender_phoenix_spawn_egg"
 				id: "76FA47682FA9CE0F"
 				observe_type: 5
 				timer: 0L
-				title: "Spot a xxx"
-				to_observe: "minecraft:grass_block"
+				title: "Spot a Ender Phoenix"
+				to_observe: "exoticbirds:ender_phoenix"
 				type: "observation"
 			}]
 			x: -4.0d
@@ -2534,12 +2534,12 @@
 		{
 			id: "63A100FABDA4FB24"
 			tasks: [{
-				icon: "minecraft:oak_log"
+				icon: "exoticbirds:twilight_phoenix_spawn_egg"
 				id: "568028A60EADC7BF"
 				observe_type: 5
 				timer: 0L
-				title: "Spot a xxx"
-				to_observe: "minecraft:grass_block"
+				title: "Spot a Twilight Phoenix"
+				to_observe: "exoticbirds:twilight_phoenix"
 				type: "observation"
 			}]
 			x: -4.0d
