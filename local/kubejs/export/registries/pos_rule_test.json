@@ -1,5 +1,7 @@
 {
-	"minecraft:linear_pos": "net.minecraft.world.level.levelgen.structure.templatesystem.PosRuleTestType$$Lambda$2428/0x0000017b1ea1b660",
-	"minecraft:always_true": "net.minecraft.world.level.levelgen.structure.templatesystem.PosRuleTestType$$Lambda$2428/0x0000017b1ea1b660",
-	"minecraft:axis_aligned_linear_pos": "net.minecraft.world.level.levelgen.structure.templatesystem.PosRuleTestType$$Lambda$2428/0x0000017b1ea1b660"
+	"repurposed_structures:piece_origin_axis_aligned_linear_pos_rule_test": "com.telepathicgrunt.repurposedstructures.modinit.RSPredicates$$Lambda$20500/0x00000211177db2e0",
+	"minecraft:linear_pos": "net.minecraft.world.level.levelgen.structure.templatesystem.PosRuleTestType$$Lambda$2436/0x0000021115a22fc8",
+	"minecraft:always_true": "net.minecraft.world.level.levelgen.structure.templatesystem.PosRuleTestType$$Lambda$2436/0x0000021115a22fc8",
+	"minecraft:axis_aligned_linear_pos": "net.minecraft.world.level.levelgen.structure.templatesystem.PosRuleTestType$$Lambda$2436/0x0000021115a22fc8",
+	"repurposed_structures:y_value_pos_rule_test": "com.telepathicgrunt.repurposedstructures.modinit.RSPredicates$$Lambda$20501/0x00000211177db4f8"
 }

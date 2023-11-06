@@ -58,6 +58,7 @@
 	"curios:slot_type": "net.minecraft.commands.synchronization.SingletonArgumentInfo",
 	"bookshelf:stages": "net.darkhax.gamestages.command.StageArgumentType$Serializer",
 	"nutritionalbalance:nutrient_argument_type": "com.dannyandson.nutritionalbalance.commands.CommandSetNutrient$NutrientStringArgumentType$Serializer",
+	"inventorysorter:container_reslocation": "net.minecraft.commands.synchronization.SingletonArgumentInfo",
 	"ftbteams:team": "dev.ftb.mods.ftbteams.data.TeamArgument$Info",
 	"ftbteams:team_property": "dev.ftb.mods.ftbteams.api.property.TeamPropertyArgument$Info",
 	"libx:enum": "org.moddingx.libx.command.EnumArgument2$Info",

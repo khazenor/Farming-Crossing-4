@@ -1,8 +1,9 @@
 {
-	"betterstrongholds:stronghold": "com.yungnickyoung.minecraft.betterstrongholds.module.StructurePlacementTypeModule$$Lambda$6409/0x0000017b1f150f18",
-	"betterjungletemples:jungle_temple": "com.yungnickyoung.minecraft.betterjungletemples.module.StructurePlacementTypeModule$$Lambda$7120/0x0000017b1f223108",
-	"yungsapi:enhanced_random_spread": "com.yungnickyoung.minecraft.yungsapi.module.StructurePlacementTypeModule$$Lambda$5024/0x0000017b1ee10000",
-	"minecraft:random_spread": "net.minecraft.world.level.levelgen.structure.placement.StructurePlacementType$$Lambda$3142/0x0000017b1eae6f90",
-	"betterdeserttemples:desert_temple": "com.yungnickyoung.minecraft.betterdeserttemples.module.StructurePlacementTypeModule$$Lambda$7218/0x0000017b1f23f5a8",
-	"minecraft:concentric_rings": "net.minecraft.world.level.levelgen.structure.placement.StructurePlacementType$$Lambda$3142/0x0000017b1eae6f90"
+	"betterjungletemples:jungle_temple": "com.yungnickyoung.minecraft.betterjungletemples.module.StructurePlacementTypeModule$$Lambda$6928/0x00000211161f2268",
+	"repurposed_structures:advanced_random_spread": "com.telepathicgrunt.repurposedstructures.modinit.RSStructurePlacementType$$Lambda$20876/0x0000021117885d50",
+	"betterstrongholds:stronghold": "com.yungnickyoung.minecraft.betterstrongholds.module.StructurePlacementTypeModule$$Lambda$6207/0x00000211160f64a0",
+	"minecraft:concentric_rings": "net.minecraft.world.level.levelgen.structure.placement.StructurePlacementType$$Lambda$3150/0x0000021115aeb960",
+	"minecraft:random_spread": "net.minecraft.world.level.levelgen.structure.placement.StructurePlacementType$$Lambda$3150/0x0000021115aeb960",
+	"yungsapi:enhanced_random_spread": "com.yungnickyoung.minecraft.yungsapi.module.StructurePlacementTypeModule$$Lambda$4991/0x0000021115e435b8",
+	"betterdeserttemples:desert_temple": "com.yungnickyoung.minecraft.betterdeserttemples.module.StructurePlacementTypeModule$$Lambda$7106/0x000002111621fbe0"
 }

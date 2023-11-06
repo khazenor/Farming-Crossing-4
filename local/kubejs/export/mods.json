@@ -115,20 +115,10 @@
 	{
 		"id": "incontrol",
 		"name": "InControl",
-		"version": "1.20-9.0.4",
+		"version": "1.20-9.1.1",
 		"description": "Be in control of spawns",
 		"issue_tracker": "http://github.com/McJtyMods/InControl/issues",
 		"license": "MIT License https://github.com/McJtyMods/FXControl/blob/1.16/LICENCE"
-	},
-	{
-		"id": "betteroceanmonuments",
-		"name": "YUNG's Better Ocean Monuments",
-		"version": "1.20-Forge-3.0.3",
-		"description": "A complete redesign of Minecraft's ocean monuments!",
-		"authors": "YUNGNICKYOUNG, Tera",
-		"homepage": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments",
-		"issue_tracker": "https://github.com/yungnickyoung/YUNGs-Better-Ocean-Monuments/issues",
-		"license": "LGPLv3"
 	},
 	{
 		"id": "dynamiclights",
@@ -191,8 +181,8 @@
 	{
 		"id": "villagernames",
 		"name": "Villager Names",
-		"version": "5.2",
-		"description": "A minimalistic mod which gives all unnamed villagers a (pre-)defined name.",
+		"version": "6.1",
+		"description": "Gives all villagers and villager-like entities their own name.",
 		"authors": "Rick South",
 		"homepage": "https://curseforge.com/minecraft/mc-mods/villager-names",
 		"issue_tracker": "https://github.com/ricksouth/serilum-mc-mods/labels/Mod:%20Villager%20Names",
@@ -264,9 +254,16 @@
 		"license": "LGPLv3"
 	},
 	{
+		"id": "iris",
+		"name": "Iris",
+		"version": "1.6.9",
+		"description": "Done for compatibility with Fabric's addon for Iris",
+		"license": "LGPL-3.0-only"
+	},
+	{
 		"id": "mixinextras",
 		"name": "MixinExtras",
-		"version": "0.2.0-rc.3",
+		"version": "0.2.0-rc.4",
 		"description": "Companion library to Mixin with lots of features to improve the compatibility and concision of your mixins!",
 		"authors": "LlamaLad7",
 		"homepage": "https://github.com/LlamaLad7/MixinExtras",
@@ -361,16 +358,6 @@
 		"license": "GNU LGPLv3"
 	},
 	{
-		"id": "betterfortresses",
-		"name": "YUNG's Better Nether Fortresses",
-		"version": "1.20-Forge-2.0.5",
-		"description": "A complete redesign of Minecraft's Nether Fortresses!",
-		"authors": "YUNGNICKYOUNG, Acarii",
-		"homepage": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses",
-		"issue_tracker": "https://github.com/yungnickyoung/YUNGs-Better-Fortresses/issues",
-		"license": "LGPLv3"
-	},
-	{
 		"id": "paraglider",
 		"name": "Paraglider",
 		"version": "20.1.1",
@@ -419,7 +406,7 @@
 	{
 		"id": "supplementaries",
 		"name": "Supplementaries",
-		"version": "1.20-2.6.17",
+		"version": "1.20-2.6.19",
 		"description": "Many functional and useful Vanilla+ blocks",
 		"authors": "MehVahdJukaar, Plantkillable",
 		"issue_tracker": "https://github.com/MehVahdJukaar/Supplementaries/issues",
@@ -444,6 +431,16 @@
 		"homepage": "https://modrinth.com/mod/handcrafted",
 		"issue_tracker": "https://github.com/terrarium-earth/handcrafted/issues",
 		"license": "Terrarium Licence"
+	},
+	{
+		"id": "repurposed_structures",
+		"name": "Repurposed Structures",
+		"version": "7.1.11+1.20.1-forge",
+		"description": "Taking existing vanilla structures and changing them up for extra variety!",
+		"authors": "TelepathicGrunt",
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/repurposed-structures",
+		"issue_tracker": "https://github.com/TelepathicGrunt/RepurposedStructures/issues",
+		"license": "https://github.com/TelepathicGrunt/RepurposedStructures/blob/latest-released/LICENSE"
 	},
 	{
 		"id": "getittogetherdrops",
@@ -523,6 +520,24 @@
 		"license": "GNU GPL v3"
 	},
 	{
+		"id": "rightclickharvest",
+		"name": "Right Click Harvest",
+		"version": "3.2.3+1.20.1-forge",
+		"description": "Allows you to harvest crops with a single right click.",
+		"authors": "Jamalam & Various Contributors",
+		"homepage": "https://github.com/JamCoreModding/RightClickHarvest",
+		"issue_tracker": "https://github.com/JamCoreModding/RightClickHarvest/issues",
+		"license": "MIT"
+	},
+	{
+		"id": "oculus",
+		"name": "Oculus",
+		"version": "1.6.9",
+		"description": "Unofficial Fork of \"Iris\", made to work with FML",
+		"authors": "coderbot, IMS212, Justsnoopy30, FoundationGames",
+		"license": "LGPL-3.0-only"
+	},
+	{
 		"id": "gamestages",
 		"name": "GameStages",
 		"version": "15.0.1",
@@ -535,7 +550,7 @@
 	{
 		"id": "collective",
 		"name": "Collective",
-		"version": "6.75",
+		"version": "6.80",
 		"description": "Collective is a shared library with common code for all of Serilum's mods.",
 		"authors": "Rick South",
 		"homepage": "https://curseforge.com/minecraft/mc-mods/collective",
@@ -581,14 +596,13 @@
 		"license": "ARR"
 	},
 	{
-		"id": "yungsextras",
-		"name": "YUNG's Extras",
-		"version": "1.20-Forge-4.0.3",
-		"description": "Extra structures and vanilla+ content added throughout the game!",
-		"authors": "YUNGNICKYOUNG, Acarii",
-		"homepage": "https://www.curseforge.com/minecraft/mc-mods/yungs-extras",
-		"issue_tracker": "https://github.com/yungnickyoung/YUNGs-Extras/issues",
-		"license": "LGPLv3"
+		"id": "framedblocks",
+		"name": "FramedBlocks",
+		"version": "9.1.6",
+		"authors": "XFactHD",
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/framedblocks",
+		"issue_tracker": "https://www.github.com/xfacthd/framedblocks",
+		"license": "LGPL v3"
 	},
 	{
 		"id": "drawerstooltip",
@@ -597,6 +611,15 @@
 		"authors": "Snownee",
 		"homepage": "https://www.curseforge.com/minecraft/mc-mods/drawers-tooltip",
 		"license": "MIT"
+	},
+	{
+		"id": "bettervillage",
+		"name": "Better village",
+		"version": "3.1.0",
+		"description": "This mod improves the vanilla minecraft villages !",
+		"authors": "JTorLeon Studios",
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/better-village-forge",
+		"license": "All rights reserved"
 	},
 	{
 		"id": "betterstrongholds",
@@ -669,16 +692,6 @@
 		"license": "Apache-2.0"
 	},
 	{
-		"id": "betterendisland",
-		"name": "YUNG's Better End Island",
-		"version": "1.20-Forge-2.0.4",
-		"description": "A complete redesign of the End island, making the Ender Dragon fight much more fun and interesting!",
-		"authors": "YUNGNICKYOUNG, Acarii",
-		"homepage": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island",
-		"issue_tracker": "https://github.com/yungnickyoung/YUNGs-Better-End-Island/issues",
-		"license": "LGPLv3"
-	},
-	{
 		"id": "jadeaddons",
 		"name": "Jade Addons",
 		"version": "5.2.0",
@@ -747,6 +760,24 @@
 		"license": "All Rights Reserved"
 	},
 	{
+		"id": "exoticbirds",
+		"name": "Exotic Birds",
+		"version": "1.0.0",
+		"description": "The 'fowlest' mod around!\nAdds beautiful birds to the game, including peacocks, pelicans and hummingbirds. Hear woodpeckers pecking high up in the trees, see swans swimming about in rivers, or listen to the lyrebird mimicking its environment.\nThis mod helps to bring your world to life!\nA huge thanks to Pharrao, TKMT_Aniki, Sire Coot, JEREDEK, AOL, Pidrosax, Scroven, JopaNeBruta, laverie264 and Ryuje for translations!",
+		"authors": "Pavocado",
+		"license": "All Rights Reserved"
+	},
+	{
+		"id": "controllable",
+		"name": "Controllable",
+		"version": "0.20.3",
+		"description": "Adds the ability to use a controller to play Minecraft",
+		"authors": "MrCrayfish",
+		"homepage": "https://mrcrayfish.com/mods?id=controllable",
+		"issue_tracker": "https://github.com/MrCrayfish/Controllable/issues",
+		"license": "GNU General Public License v3.0"
+	},
+	{
 		"id": "bettermineshafts",
 		"name": "YUNG's Better Mineshafts",
 		"version": "1.20-Forge-4.0.4",
@@ -781,6 +812,13 @@
 		"homepage": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples",
 		"issue_tracker": "https://github.com/yungnickyoung/YUNGs-Better-Jungle-Temples/issues",
 		"license": "LGPLv3"
+	},
+	{
+		"id": "inventorysorter",
+		"name": "Simple Inventory Sorter",
+		"version": "23.0.1",
+		"description": "Simple inventory sorting.\n\nMiddle click to sort your inventory.\nScroll wheel on a stack to move in and out.",
+		"license": "GPLv3"
 	},
 	{
 		"id": "rhino",
@@ -842,7 +880,7 @@
 	{
 		"id": "itemfilters",
 		"name": "Item Filters",
-		"version": "2001.1.0-build.55",
+		"version": "2001.1.0-build.59",
 		"description": "Adds Item Filters that can be used in other mods to filter multiple items in devices",
 		"authors": "LatvianModder",
 		"issue_tracker": "https://github.com/LatvianModder/Item-Filters/issues",
@@ -866,6 +904,15 @@
 		"authors": "Matyrobbrt",
 		"issue_tracker": "https://github.com/Matyrobbrt/MobCapturingTool/issues",
 		"license": "MIT"
+	},
+	{
+		"id": "libraryferret",
+		"name": "Library ferret",
+		"version": "4.0.0",
+		"description": "Shared code for my mod.",
+		"authors": "JTorLeon Studios",
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/library-ferret-forge",
+		"license": "All rights reserved"
 	},
 	{
 		"id": "create",
@@ -903,6 +950,14 @@
 		"homepage": "https://www.curseforge.com/minecraft/mc-mods/clumps",
 		"issue_tracker": "https://github.com/jaredlll08/Clumps/issues",
 		"license": "MIT"
+	},
+	{
+		"id": "oculusparticlefix",
+		"name": "Oculus Particle Fix",
+		"version": "1.0",
+		"description": "Fixes https://github.com/Asek3/Oculus/issues/149",
+		"authors": "LaidBackSloth",
+		"license": "MIT License"
 	},
 	{
 		"id": "comforts",
@@ -1087,6 +1142,15 @@
 		"license": "GPLv3"
 	},
 	{
+		"id": "dungeons_arise",
+		"name": "When Dungeons Arise",
+		"version": "2.1.57-1.20.1",
+		"description": "Elegant - and likely dangerous - structures and roguelike dungeons to lose yourself in...",
+		"authors": "Aurelj, DiamondTown and Zephyrusj",
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise",
+		"license": "All Rights Reserved"
+	},
+	{
 		"id": "minecraft",
 		"name": "Minecraft",
 		"version": "1.20.1",
@@ -1166,6 +1230,15 @@
 		"authors": "LatvianModder",
 		"issue_tracker": "https://github.com/FTBTeam/FTB-Mods-Issues/issues",
 		"license": "All Rights Reserved"
+	},
+	{
+		"id": "mixinsquared",
+		"name": "MixinSquared",
+		"version": "0.1.1",
+		"description": "Mixin library for mixin'ing into other mod's mixins",
+		"authors": "Bawnorton",
+		"homepage": "https://github.com/Bawnorton/MixinSquared",
+		"license": "MIT"
 	},
 	{
 		"id": "jade",
@@ -1352,6 +1425,14 @@
 		"description": "Reduces memory usage.",
 		"authors": "malte0811",
 		"license": "MIT"
+	},
+	{
+		"id": "solcarrot",
+		"name": "Spice of Life: Carrot Edition",
+		"version": "1.15.0",
+		"description": "A mod designed to encourage dietary variety!\n\nIt does so by rewarding the player for eating a variety of foods instead of punishing them for failing to diversify.\nInstead of using the stick, we use the carrot!",
+		"issue_tracker": "https://github.com/Cazsius/Spice-of-Life-Carrot-Edition/issues",
+		"license": "LGPL-2.1"
 	},
 	{
 		"id": "aquaculture",

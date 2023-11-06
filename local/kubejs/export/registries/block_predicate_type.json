@@ -1,14 +1,14 @@
 {
-	"minecraft:matching_block_tag": "net.minecraft.world.level.levelgen.blockpredicates.BlockPredicateType$$Lambda$2691/0x0000017b1ea80228",
-	"minecraft:matching_fluids": "net.minecraft.world.level.levelgen.blockpredicates.BlockPredicateType$$Lambda$2691/0x0000017b1ea80228",
-	"minecraft:not": "net.minecraft.world.level.levelgen.blockpredicates.BlockPredicateType$$Lambda$2691/0x0000017b1ea80228",
-	"minecraft:would_survive": "net.minecraft.world.level.levelgen.blockpredicates.BlockPredicateType$$Lambda$2691/0x0000017b1ea80228",
-	"minecraft:has_sturdy_face": "net.minecraft.world.level.levelgen.blockpredicates.BlockPredicateType$$Lambda$2691/0x0000017b1ea80228",
-	"minecraft:any_of": "net.minecraft.world.level.levelgen.blockpredicates.BlockPredicateType$$Lambda$2691/0x0000017b1ea80228",
-	"minecraft:all_of": "net.minecraft.world.level.levelgen.blockpredicates.BlockPredicateType$$Lambda$2691/0x0000017b1ea80228",
-	"minecraft:true": "net.minecraft.world.level.levelgen.blockpredicates.BlockPredicateType$$Lambda$2691/0x0000017b1ea80228",
-	"minecraft:solid": "net.minecraft.world.level.levelgen.blockpredicates.BlockPredicateType$$Lambda$2691/0x0000017b1ea80228",
-	"minecraft:inside_world_bounds": "net.minecraft.world.level.levelgen.blockpredicates.BlockPredicateType$$Lambda$2691/0x0000017b1ea80228",
-	"minecraft:replaceable": "net.minecraft.world.level.levelgen.blockpredicates.BlockPredicateType$$Lambda$2691/0x0000017b1ea80228",
-	"minecraft:matching_blocks": "net.minecraft.world.level.levelgen.blockpredicates.BlockPredicateType$$Lambda$2691/0x0000017b1ea80228"
+	"minecraft:matching_block_tag": "net.minecraft.world.level.levelgen.blockpredicates.BlockPredicateType$$Lambda$2699/0x0000021115a86f00",
+	"minecraft:solid": "net.minecraft.world.level.levelgen.blockpredicates.BlockPredicateType$$Lambda$2699/0x0000021115a86f00",
+	"minecraft:matching_blocks": "net.minecraft.world.level.levelgen.blockpredicates.BlockPredicateType$$Lambda$2699/0x0000021115a86f00",
+	"minecraft:all_of": "net.minecraft.world.level.levelgen.blockpredicates.BlockPredicateType$$Lambda$2699/0x0000021115a86f00",
+	"minecraft:inside_world_bounds": "net.minecraft.world.level.levelgen.blockpredicates.BlockPredicateType$$Lambda$2699/0x0000021115a86f00",
+	"minecraft:true": "net.minecraft.world.level.levelgen.blockpredicates.BlockPredicateType$$Lambda$2699/0x0000021115a86f00",
+	"minecraft:replaceable": "net.minecraft.world.level.levelgen.blockpredicates.BlockPredicateType$$Lambda$2699/0x0000021115a86f00",
+	"minecraft:not": "net.minecraft.world.level.levelgen.blockpredicates.BlockPredicateType$$Lambda$2699/0x0000021115a86f00",
+	"minecraft:any_of": "net.minecraft.world.level.levelgen.blockpredicates.BlockPredicateType$$Lambda$2699/0x0000021115a86f00",
+	"minecraft:would_survive": "net.minecraft.world.level.levelgen.blockpredicates.BlockPredicateType$$Lambda$2699/0x0000021115a86f00",
+	"minecraft:matching_fluids": "net.minecraft.world.level.levelgen.blockpredicates.BlockPredicateType$$Lambda$2699/0x0000021115a86f00",
+	"minecraft:has_sturdy_face": "net.minecraft.world.level.levelgen.blockpredicates.BlockPredicateType$$Lambda$2699/0x0000021115a86f00"
 }
