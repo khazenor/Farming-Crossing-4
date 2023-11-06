@@ -22,7 +22,7 @@
 				to_observe: "alexsmobs:anteater"
 				type: "observation"
 			}]
-			x: -7.0d
+			x: -9.0d
 			y: 5.5d
 		}
 		{
@@ -39,8 +39,8 @@
 				to_observe: "alexsmobs:bald_eagle"
 				type: "observation"
 			}]
-			x: -8.0d
-			y: 3.5d
+			x: -9.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -57,7 +57,7 @@
 				type: "observation"
 			}]
 			x: -11.0d
-			y: 3.5d
+			y: 2.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -91,7 +91,7 @@
 				type: "observation"
 			}]
 			x: -8.0d
-			y: -5.0d
+			y: -8.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -108,7 +108,7 @@
 				type: "observation"
 			}]
 			x: -7.0d
-			y: 3.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -125,7 +125,7 @@
 				type: "observation"
 			}]
 			x: -9.0d
-			y: 19.0d
+			y: 18.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -142,7 +142,7 @@
 				type: "observation"
 			}]
 			x: -7.0d
-			y: -5.0d
+			y: -8.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -158,7 +158,7 @@
 				to_observe: "alexsmobs:capuchin_monkey"
 				type: "observation"
 			}]
-			x: -8.0d
+			x: -10.0d
 			y: 5.5d
 		}
 		{
@@ -176,7 +176,7 @@
 				type: "observation"
 			}]
 			x: -10.0d
-			y: 18.0d
+			y: 17.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -193,7 +193,7 @@
 				type: "observation"
 			}]
 			x: -10.0d
-			y: -1.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -249,8 +249,8 @@
 				to_observe: "alexsmobs:elephant"
 				type: "observation"
 			}]
-			x: -10.0d
-			y: 10.5d
+			x: -6.0d
+			y: 9.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -284,7 +284,7 @@
 				type: "observation"
 			}]
 			x: -9.0d
-			y: 15.0d
+			y: 15.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -301,7 +301,7 @@
 				type: "observation"
 			}]
 			x: -10.0d
-			y: -5.0d
+			y: -8.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -318,7 +318,7 @@
 				type: "observation"
 			}]
 			x: -10.0d
-			y: 0.0d
+			y: -1.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -335,7 +335,7 @@
 				type: "observation"
 			}]
 			x: -8.0d
-			y: 10.0d
+			y: 9.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -369,7 +369,7 @@
 				type: "observation"
 			}]
 			x: -11.0d
-			y: 0.0d
+			y: -1.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -420,7 +420,7 @@
 				type: "observation"
 			}]
 			x: -9.0d
-			y: 1.5d
+			y: 0.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -454,7 +454,7 @@
 				type: "observation"
 			}]
 			x: -9.0d
-			y: 5.5d
+			y: 4.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -471,7 +471,7 @@
 				type: "observation"
 			}]
 			x: -11.0d
-			y: -3.0d
+			y: -6.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -487,8 +487,8 @@
 				to_observe: "alexsmobs:maned_wolf"
 				type: "observation"
 			}]
-			x: -9.0d
-			y: 10.5d
+			x: -7.0d
+			y: 9.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -505,7 +505,7 @@
 				type: "observation"
 			}]
 			x: -10.0d
-			y: -4.0d
+			y: -7.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -522,7 +522,7 @@
 				type: "observation"
 			}]
 			x: -11.0d
-			y: -4.0d
+			y: -7.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -539,7 +539,7 @@
 				type: "observation"
 			}]
 			x: -10.0d
-			y: 16.0d
+			y: 16.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -555,8 +555,8 @@
 				to_observe: "alexsmobs:mudskipper"
 				type: "observation"
 			}]
-			x: -11.0d
-			y: 18.0d
+			x: -6.0d
+			y: 17.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -573,7 +573,7 @@
 				type: "observation"
 			}]
 			x: -10.0d
-			y: 19.0d
+			y: 18.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -590,7 +590,7 @@
 				type: "observation"
 			}]
 			x: -11.0d
-			y: -1.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -607,7 +607,7 @@
 				type: "observation"
 			}]
 			x: -11.0d
-			y: -2.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -624,7 +624,7 @@
 				type: "observation"
 			}]
 			x: -8.0d
-			y: 2.5d
+			y: 1.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -675,7 +675,7 @@
 				type: "observation"
 			}]
 			x: -8.0d
-			y: 1.5d
+			y: 0.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -692,7 +692,7 @@
 				type: "observation"
 			}]
 			x: -10.0d
-			y: -3.0d
+			y: -6.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -709,7 +709,7 @@
 				type: "observation"
 			}]
 			x: -9.0d
-			y: -3.0d
+			y: -6.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -726,7 +726,7 @@
 				type: "observation"
 			}]
 			x: -11.0d
-			y: 17.0d
+			y: 17.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -743,7 +743,7 @@
 				type: "observation"
 			}]
 			x: -10.0d
-			y: 2.5d
+			y: 1.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -760,7 +760,7 @@
 				type: "observation"
 			}]
 			x: -9.0d
-			y: 16.0d
+			y: 16.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -794,7 +794,7 @@
 				type: "observation"
 			}]
 			x: -9.0d
-			y: 2.5d
+			y: 1.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -811,7 +811,7 @@
 				type: "observation"
 			}]
 			x: -10.0d
-			y: -2.0d
+			y: -3.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -828,7 +828,7 @@
 				type: "observation"
 			}]
 			x: -6.0d
-			y: 5.0d
+			y: 4.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -864,7 +864,7 @@
 				type: "observation"
 			}]
 			x: -7.0d
-			y: 15.0d
+			y: 15.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -881,7 +881,7 @@
 				type: "observation"
 			}]
 			x: -11.0d
-			y: 15.0d
+			y: 15.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -948,8 +948,8 @@
 				to_observe: "minecraft:cow"
 				type: "observation"
 			}]
-			x: -6.0d
-			y: 13.5d
+			x: -9.0d
+			y: 14.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -966,7 +966,7 @@
 				type: "observation"
 			}]
 			x: -9.0d
-			y: -5.0d
+			y: -8.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -983,7 +983,7 @@
 				type: "observation"
 			}]
 			x: -8.0d
-			y: 16.0d
+			y: 16.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1004,7 +1004,7 @@
 				type: "observation"
 			}]
 			x: -9.0d
-			y: 17.0d
+			y: 17.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1021,7 +1021,7 @@
 				type: "observation"
 			}]
 			x: -10.0d
-			y: 15.0d
+			y: 15.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1123,7 +1123,7 @@
 				type: "observation"
 			}]
 			x: -11.0d
-			y: 16.0d
+			y: 16.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1140,7 +1140,7 @@
 				type: "observation"
 			}]
 			x: -8.0d
-			y: 13.5d
+			y: 14.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1156,8 +1156,8 @@
 				to_observe: "minecraft:sheep"
 				type: "observation"
 			}]
-			x: -7.0d
-			y: 13.5d
+			x: -10.0d
+			y: 14.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1174,7 +1174,7 @@
 				type: "observation"
 			}]
 			x: -11.0d
-			y: -5.0d
+			y: -8.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1191,7 +1191,7 @@
 				type: "observation"
 			}]
 			x: -8.0d
-			y: 17.0d
+			y: 17.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1224,8 +1224,8 @@
 				to_observe: "minecraft:turtle"
 				type: "observation"
 			}]
-			x: -8.0d
-			y: -3.0d
+			x: -7.0d
+			y: -5.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1242,7 +1242,7 @@
 				type: "observation"
 			}]
 			x: -11.0d
-			y: 2.5d
+			y: 1.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1293,7 +1293,7 @@
 				type: "observation"
 			}]
 			x: -11.0d
-			y: 19.0d
+			y: 18.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1310,7 +1310,7 @@
 				type: "observation"
 			}]
 			x: -11.0d
-			y: 1.5d
+			y: 0.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1327,7 +1327,7 @@
 				type: "observation"
 			}]
 			x: -10.0d
-			y: 3.5d
+			y: 2.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1368,7 +1368,7 @@
 				type: "item"
 			}]
 			x: -12.0d
-			y: -5.0d
+			y: -8.0d
 		}
 		{
 			dependencies: [
@@ -1389,7 +1389,7 @@
 				type: "item"
 			}]
 			x: -12.0d
-			y: 0.0d
+			y: -1.0d
 		}
 		{
 			dependencies: [
@@ -1399,7 +1399,7 @@
 			icon: "minecraft:fire_coral"
 			id: "672B59FE210C34E0"
 			rewards: [{
-				count: 3
+				count: 2
 				id: "4DDBEDE18B1E68FE"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -1410,7 +1410,7 @@
 				type: "item"
 			}]
 			x: -12.0d
-			y: -4.0d
+			y: -7.0d
 		}
 		{
 			dependencies: [
@@ -1431,7 +1431,7 @@
 				type: "item"
 			}]
 			x: -12.0d
-			y: -1.0d
+			y: -2.0d
 		}
 		{
 			dependencies: [
@@ -1440,11 +1440,15 @@
 				"032DFF5ADA2C3F57"
 				"145AF3E4DF07D9E7"
 				"7F38BFDE8D8AF3A9"
+				"6F472DE5A35111D3"
+				"2C1A1A446C56ACD8"
+				"06E25F73D2CF1259"
+				"1F0D03EA0ECD7416"
 			]
 			icon: "beachparty:beach_umbrella"
 			id: "2C09B9081B10DCAF"
 			rewards: [{
-				count: 5
+				count: 14
 				id: "17DD881C1B5FFB65"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -1455,17 +1459,23 @@
 				type: "item"
 			}]
 			x: -12.0d
-			y: -3.0d
+			y: -5.5d
 		}
 		{
 			dependencies: [
 				"3D49FA9AF957FF25"
 				"52F7D8A164A70333"
+				"684AA641D4AF1F30"
+				"4440AFDE97EDEC87"
+				"089C3BD5B23A6C27"
+				"06D5DD66E7D5143C"
+				"5509BE4119BE3B6A"
+				"139B87AC72083A31"
 			]
 			icon: "beachparty:palm_sapling"
 			id: "7E0B3F70751A49FD"
 			rewards: [{
-				count: 2
+				count: 13
 				id: "57935D3D94AFA487"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -1476,7 +1486,7 @@
 				type: "item"
 			}]
 			x: -12.0d
-			y: -2.0d
+			y: -3.5d
 		}
 		{
 			dependencies: [
@@ -1489,11 +1499,14 @@
 				"4F6BFC64FA3A844E"
 				"5862996BFE43ECB7"
 				"0B3BE91809B12E7D"
+				"7DEE73F18FA1CA3B"
+				"7BF1E0AE295E15C8"
+				"318581CECEF1AFD0"
 			]
 			icon: "minecraft:jungle_sapling"
 			id: "3B60D3D3BCF6D923"
 			rewards: [{
-				count: 16
+				count: 20
 				id: "0141854F1DDF328D"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -1516,11 +1529,20 @@
 				"1C308A4B365AB2AC"
 				"5B020AB8D14CDE98"
 				"2C34377B3662FC73"
+				"37EB9648C5646274"
+				"4FB084A1625FD1BB"
+				"0A1D0040C07D8885"
+				"237CCC340E80705D"
+				"7F57AD9A20DAB261"
+				"0D020C4C974AB19C"
+				"58A5A0509B2F81A6"
+				"2744788F8DAD7ED8"
+				"4934A91D621EF258"
 			]
 			icon: "minecraft:oak_sapling"
 			id: "47939A18C7A40741"
 			rewards: [{
-				count: 13
+				count: 25
 				id: "0906F63480081F47"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -1531,7 +1553,7 @@
 				type: "item"
 			}]
 			x: -12.0d
-			y: 3.0d
+			y: 2.5d
 		}
 		{
 			dependencies: [
@@ -1544,11 +1566,12 @@
 				"16F90C11BEA27616"
 				"0571CC0FC40BFD2A"
 				"32F54B6B57DB6F58"
+				"4D22F63E9B7F2857"
 			]
 			icon: "minecraft:poppy"
 			id: "1B4004A2743574E5"
 			rewards: [{
-				count: 9
+				count: 14
 				id: "7BC5E6FB596D768B"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -1570,11 +1593,15 @@
 				"508094B0F0FCC2F9"
 				"4E3594E422D3D48B"
 				"01996FAFC6B37819"
+				"02AE352CCC808F32"
+				"426484111178BC6C"
+				"3490C1DA8E7174BF"
+				"3E4836F1A4AA2859"
 			]
 			icon: "minecraft:acacia_sapling"
 			id: "603551E830248F96"
 			rewards: [{
-				count: 10
+				count: 15
 				id: "6F02D9DE3681B6EE"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -1593,11 +1620,13 @@
 				"35C05B2043DDFE56"
 				"3D675F46E2C5907F"
 				"50831635A884520C"
+				"30C903B2FA6D68C0"
+				"3C00D722BDCFD963"
 			]
 			icon: "minecraft:dead_bush"
 			id: "665D530988C31652"
 			rewards: [{
-				count: 5
+				count: 7
 				id: "15C97F66A9865837"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -1608,7 +1637,7 @@
 				type: "item"
 			}]
 			x: -12.0d
-			y: 1.5d
+			y: 0.5d
 		}
 		{
 			dependencies: [
@@ -1622,7 +1651,7 @@
 			icon: "biomesoplenty:willow_sapling"
 			id: "565907B63A5E8A04"
 			rewards: [{
-				count: 12
+				count: 8
 				id: "2164C9FB359B8D91"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -1655,7 +1684,7 @@
 				type: "item"
 			}]
 			x: -12.0d
-			y: 19.0d
+			y: 18.5d
 		}
 		{
 			dependencies: [
@@ -1665,11 +1694,12 @@
 				"5EF20D2F3215C7E3"
 				"266727D9017FD47E"
 				"0FD54BFF05600C64"
+				"292D055D45475F6A"
 			]
 			icon: "minecraft:grass_block"
 			id: "28DD0C62F42775DC"
 			rewards: [{
-				count: 5
+				count: 8
 				id: "13D76F42DB09564C"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -1680,7 +1710,7 @@
 				type: "item"
 			}]
 			x: -12.0d
-			y: 13.5d
+			y: 14.0d
 		}
 		{
 			dependencies: [
@@ -1729,7 +1759,7 @@
 				type: "item"
 			}]
 			x: -12.0d
-			y: 16.0d
+			y: 16.5d
 		}
 		{
 			dependencies: [
@@ -1742,7 +1772,7 @@
 			icon: "minecraft:stone"
 			id: "6D5B0610586728B3"
 			rewards: [{
-				count: 7
+				count: 5
 				id: "39AE1EEEA8858C62"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -1753,7 +1783,7 @@
 				type: "item"
 			}]
 			x: -12.0d
-			y: 15.0d
+			y: 15.5d
 		}
 		{
 			dependencies: [
@@ -1810,7 +1840,7 @@
 				type: "observation"
 			}]
 			x: -8.0d
-			y: 15.0d
+			y: 15.5d
 		}
 		{
 			dependencies: [
@@ -1906,7 +1936,7 @@
 				type: "item"
 			}]
 			x: -13.0d
-			y: -2.5d
+			y: -3.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1938,7 +1968,7 @@
 				type: "observation"
 			}]
 			x: -10.0d
-			y: 1.5d
+			y: 0.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1969,7 +1999,7 @@
 				to_observe: "meadow:water_buffalo"
 				type: "observation"
 			}]
-			x: -8.0d
+			x: -7.0d
 			y: 12.5d
 		}
 		{
@@ -1986,7 +2016,7 @@
 				type: "observation"
 			}]
 			x: -7.0d
-			y: 12.0d
+			y: 11.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -2001,8 +2031,8 @@
 				to_observe: "beachparty:pelican"
 				type: "observation"
 			}]
-			x: -7.0d
-			y: -3.0d
+			x: -8.0d
+			y: -6.0d
 		}
 		{
 			id: "4D22F63E9B7F2857"
@@ -2015,8 +2045,8 @@
 				to_observe: "exoticbirds:peafowl"
 				type: "observation"
 			}]
-			x: -4.5d
-			y: 12.0d
+			x: -8.0d
+			y: 12.5d
 		}
 		{
 			id: "7BF1E0AE295E15C8"
@@ -2029,8 +2059,8 @@
 				to_observe: "exoticbirds:hummingbird"
 				type: "observation"
 			}]
-			x: -4.5d
-			y: 5.0d
+			x: -8.0d
+			y: 5.5d
 		}
 		{
 			id: "02AE352CCC808F32"
@@ -2043,8 +2073,8 @@
 				to_observe: "exoticbirds:woodpecker"
 				type: "observation"
 			}]
-			x: -1.5d
-			y: 10.0d
+			x: -7.0d
+			y: 10.5d
 		}
 		{
 			id: "089C3BD5B23A6C27"
@@ -2057,8 +2087,8 @@
 				to_observe: "exoticbirds:kingfisher"
 				type: "observation"
 			}]
-			x: -4.5d
-			y: -2.0d
+			x: -11.0d
+			y: -4.0d
 		}
 		{
 			id: "30C903B2FA6D68C0"
@@ -2071,8 +2101,8 @@
 				to_observe: "exoticbirds:roadrunner"
 				type: "observation"
 			}]
-			x: -4.5d
-			y: 1.5d
+			x: -7.0d
+			y: 0.5d
 		}
 		{
 			id: "318581CECEF1AFD0"
@@ -2085,8 +2115,8 @@
 				to_observe: "exoticbirds:toucan"
 				type: "observation"
 			}]
-			x: -3.5d
-			y: 5.0d
+			x: -6.0d
+			y: 5.5d
 		}
 		{
 			id: "4440AFDE97EDEC87"
@@ -2099,8 +2129,8 @@
 				to_observe: "exoticbirds:swan"
 				type: "observation"
 			}]
-			x: -3.5d
-			y: -2.0d
+			x: -10.0d
+			y: -4.0d
 		}
 		{
 			id: "7DEE73F18FA1CA3B"
@@ -2113,8 +2143,8 @@
 				to_observe: "exoticbirds:macaw"
 				type: "observation"
 			}]
-			x: -4.0d
-			y: 4.5d
+			x: -7.0d
+			y: 5.5d
 		}
 		{
 			id: "4934A91D621EF258"
@@ -2127,8 +2157,8 @@
 				to_observe: "exoticbirds:cassowary"
 				type: "observation"
 			}]
-			x: -4.5d
-			y: 3.0d
+			x: -11.0d
+			y: 3.5d
 		}
 		{
 			id: "237CCC340E80705D"
@@ -2141,8 +2171,8 @@
 				to_observe: "exoticbirds:magpie"
 				type: "observation"
 			}]
-			x: -3.5d
-			y: 3.0d
+			x: -10.0d
+			y: 3.5d
 		}
 		{
 			id: "684AA641D4AF1F30"
@@ -2155,8 +2185,8 @@
 				to_observe: "exoticbirds:flamingo"
 				type: "observation"
 			}]
-			x: -2.5d
-			y: -2.0d
+			x: -9.0d
+			y: -4.0d
 		}
 		{
 			id: "58A5A0509B2F81A6"
@@ -2169,7 +2199,7 @@
 				to_observe: "exoticbirds:kiwi"
 				type: "observation"
 			}]
-			x: -4.0d
+			x: -8.0d
 			y: 2.5d
 		}
 		{
@@ -2183,8 +2213,8 @@
 				to_observe: "exoticbirds:pelican"
 				type: "observation"
 			}]
-			x: -4.5d
-			y: -3.0d
+			x: -8.0d
+			y: -5.0d
 		}
 		{
 			id: "37EB9648C5646274"
@@ -2197,7 +2227,7 @@
 				to_observe: "exoticbirds:owl"
 				type: "observation"
 			}]
-			x: -3.0d
+			x: -7.0d
 			y: 2.5d
 		}
 		{
@@ -2211,8 +2241,8 @@
 				to_observe: "exoticbirds:lyrebird"
 				type: "observation"
 			}]
-			x: -2.5d
-			y: 3.0d
+			x: -9.0d
+			y: 3.5d
 		}
 		{
 			id: "3C00D722BDCFD963"
@@ -2225,8 +2255,8 @@
 				to_observe: "exoticbirds:ostrich"
 				type: "observation"
 			}]
-			x: -3.5d
-			y: 1.5d
+			x: -6.0d
+			y: 0.5d
 		}
 		{
 			id: "3490C1DA8E7174BF"
@@ -2239,8 +2269,8 @@
 				to_observe: "exoticbirds:gouldianfinch"
 				type: "observation"
 			}]
-			x: -4.5d
-			y: 10.0d
+			x: -10.0d
+			y: 10.5d
 		}
 		{
 			id: "1F0D03EA0ECD7416"
@@ -2253,8 +2283,8 @@
 				to_observe: "exoticbirds:gull"
 				type: "observation"
 			}]
-			x: -3.5d
-			y: -3.0d
+			x: -11.0d
+			y: -5.0d
 		}
 		{
 			id: "292D055D45475F6A"
@@ -2267,8 +2297,8 @@
 				to_observe: "exoticbirds:pigeon"
 				type: "observation"
 			}]
-			x: -4.5d
-			y: 13.5d
+			x: -11.0d
+			y: 14.5d
 		}
 		{
 			id: "5509BE4119BE3B6A"
@@ -2281,8 +2311,8 @@
 				to_observe: "exoticbirds:penguin"
 				type: "observation"
 			}]
-			x: -1.5d
-			y: -2.0d
+			x: -8.0d
+			y: -4.0d
 		}
 		{
 			id: "06D5DD66E7D5143C"
@@ -2295,8 +2325,8 @@
 				to_observe: "exoticbirds:duck"
 				type: "observation"
 			}]
-			x: -0.5d
-			y: -2.0d
+			x: -8.0d
+			y: -3.0d
 		}
 		{
 			id: "6F472DE5A35111D3"
@@ -2309,8 +2339,8 @@
 				to_observe: "exoticbirds:heron"
 				type: "observation"
 			}]
-			x: -2.5d
-			y: -3.0d
+			x: -10.0d
+			y: -5.0d
 		}
 		{
 			id: "139B87AC72083A31"
@@ -2323,8 +2353,8 @@
 				to_observe: "exoticbirds:booby"
 				type: "observation"
 			}]
-			x: 0.5d
-			y: -2.0d
+			x: -9.0d
+			y: -3.0d
 		}
 		{
 			id: "4FB084A1625FD1BB"
@@ -2337,8 +2367,8 @@
 				to_observe: "exoticbirds:cardinal"
 				type: "observation"
 			}]
-			x: -2.0d
-			y: 2.5d
+			x: -6.0d
+			y: 3.0d
 		}
 		{
 			id: "0D020C4C974AB19C"
@@ -2351,8 +2381,8 @@
 				to_observe: "exoticbirds:bluejay"
 				type: "observation"
 			}]
-			x: -1.5d
-			y: 3.0d
+			x: -6.0d
+			y: 2.0d
 		}
 		{
 			id: "0A1D0040C07D8885"
@@ -2365,8 +2395,8 @@
 				to_observe: "exoticbirds:robin"
 				type: "observation"
 			}]
-			x: -1.0d
-			y: 2.5d
+			x: -8.0d
+			y: 3.5d
 		}
 		{
 			id: "2C1A1A446C56ACD8"
@@ -2379,8 +2409,8 @@
 				to_observe: "exoticbirds:crane"
 				type: "observation"
 			}]
-			x: -1.5d
-			y: -3.0d
+			x: -9.0d
+			y: -5.0d
 		}
 		{
 			id: "7F57AD9A20DAB261"
@@ -2393,8 +2423,8 @@
 				to_observe: "exoticbirds:kookaburra"
 				type: "observation"
 			}]
-			x: -0.5d
-			y: 3.0d
+			x: -7.0d
+			y: 3.5d
 		}
 		{
 			id: "3E4836F1A4AA2859"
@@ -2407,8 +2437,8 @@
 				to_observe: "exoticbirds:budgerigar"
 				type: "observation"
 			}]
-			x: -3.5d
-			y: 10.0d
+			x: -9.0d
+			y: 10.5d
 		}
 		{
 			id: "426484111178BC6C"
@@ -2421,8 +2451,8 @@
 				to_observe: "exoticbirds:cockatoo"
 				type: "observation"
 			}]
-			x: -2.5d
-			y: 10.0d
+			x: -8.0d
+			y: 10.5d
 		}
 	]
 	title: "Animal Watching"
