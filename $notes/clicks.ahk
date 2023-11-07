@@ -10,15 +10,42 @@ mouseWrapper(){
   createManyQuests()
   MouseMove, %xpos%, %ypos%
 }
+
+openQuestWrapper(){
+  Click
+  twoCommandBlockRewards()
+  Send {Esc}
+}
 createManyQuests(){
-  Loop, 39
+  Loop, 1000
   {
-    observationQuest()
+    firstItemQuest()
     MouseMove, 963, 545 ; move mouse to center of screen
     send {Click WheelDown}
     send {Click WheelDown}
     sleep 50
   }
+}
+
+twoCommandBlockRewards(){
+  send {Click 1173, 534} ; click on first +
+  send {Click 1327, 777} ; click command
+  send {Click 725, 330} ; auto claim: disabled
+  send {Click 725, 330} ; auto claim: enabled
+  send {Click 725, 330} ; auto claim: enabled, not toast
+  send {Click 714, 540} ; Silent: true
+  send {Click 1889, 64} ; click check on top right
+
+  send {Click 1212, 536} ; click on second +
+  send {Click 1327, 777} ; click command
+  send {Click 725, 330} ; auto claim: disabled
+  send {Click 725, 330} ; auto claim: enabled
+  send {Click 725, 330} ; auto claim: enabled, not toast
+  send {Click 758, 456} ; Command
+  send XXX
+  send {Click 1142, 650} ; select "Accept"
+  send {Click 714, 540} ; Silent: true
+  send {Click 1889, 64} ; click check on top right
 }
 
 observationQuest(){
@@ -99,6 +126,16 @@ itemQuestWithTwoRewards(){
   send san
   send {Click 624 383} ; select first item
   send {Click 1191 782} ; select "Accept"
+  Send {Esc}
+}
+
+firstItemQuest(){
+  send {Click 963 545 Right} ; right click the center of the screen
+  send {Click 996, 348} ; select item quest
+
+  ; create item task
+  send {Click 604, 440} ; select first item
+  send {Click 1186, 834} ; select "Accept"
   Send {Esc}
 }
 

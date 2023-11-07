@@ -13,6 +13,22 @@
 			description: ["Anteater: Big insectivorous mammals that roam Jungles to feed on Leafcutter Ants with their really long tongues."]
 			hide: true
 			id: "125BCAAB6813FEA3"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "715ACA78D9B2A156"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "63FEB2C62F8E7266"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_anteater"
 				id: "370BB1A2B2EDD0FD"
@@ -30,6 +46,22 @@
 			description: ["Bald Eagle: Effective predatory Birds that soar in Windswept Forests and Groves in search of small prey and fish. They can be tamed for Falconry."]
 			hide: true
 			id: "764BDE4A85A0212C"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "1133CF8A802F18EF"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "5487483D50438614"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_bald_eagle"
 				id: "4C671087C322B251"
@@ -47,6 +79,22 @@
 			description: ["Yellow Slugs native to Old Growth Taigas."]
 			hide: true
 			id: "1C308A4B365AB2AC"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "7302A21BB75590E1"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "31F865CC5354EB12"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_banana_slug"
 				id: "0C2AD1E2A2A2A7FB"
@@ -64,6 +112,22 @@
 			description: ["Bison: Large but territorial herbivorous mammals that graze in flat Plains and can be sheared for their fur."]
 			hide: true
 			id: "2ED02BBA44D59614"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "74003AB302D69A94"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "7EA4641FABFF9441"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_bison"
 				id: "4D3FEA92BE6853C4"
@@ -81,6 +145,22 @@
 			description: ["Fish that live deep down in the ocean and become distorted when brought to the surface."]
 			hide: true
 			id: "2580E07174B15B7C"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "55F3D60009CF259F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "68610672A7E87EC5"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_blobfish"
 				id: "303B8238E6DF7FCC"
@@ -98,6 +178,22 @@
 			description: ["Blue Jay: Birds native to Forests which love shiny things and can even become your partner if fed Glow Berries."]
 			hide: true
 			id: "5A1AA1ED07AA7484"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "3553922236DFAA7E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "1D5AFF3917E2ABCD"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_blue_jay"
 				id: "408BE0603B097474"
@@ -115,6 +211,22 @@
 			description: ["Bunfungus: Mutated fungal rabbits that can be seen hopping around in Mushroom Fields on very rare occasions."]
 			hide: true
 			id: "45E88C194728946F"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "33FE5CBA96ADB08B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "2E5CB9710EA1FFFB"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_bunfungus"
 				id: "1533AD44FB99E897"
@@ -132,6 +244,22 @@
 			description: ["Cachalot Whale: Enormous cetaceans found swimming in most Oceans which use their echolocation to hunt Squid."]
 			hide: true
 			id: "668AED9CC2ECC7B7"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "56377948CDD679CB"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "76EDB0DC234531AD"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_cachalot_whale"
 				id: "177A7C38BAC6ABD9"
@@ -149,6 +277,22 @@
 			description: ["Capuchin Monkey: Small tamable monkeys that live in groups in the jungle and can defend themselves by throwing rocks."]
 			hide: true
 			id: "5535151D93FCD623"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "0E9B938EF7074B53"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "5C6FE79B683B48AA"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_capuchin_monkey"
 				id: "6487FC90F6065094"
@@ -166,6 +310,22 @@
 			description: ["Catfish: Freshwater fish of various shapes and sizes that swim in Rivers and Swamps."]
 			hide: true
 			id: "7F90C6FB89CD568C"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "561367FB934B2D00"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "7F50C3AA2413B521"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_catfish"
 				id: "17A8E720A914C28B"
@@ -183,6 +343,22 @@
 			description: ["Comb Jelly: Strange colorful Jellyfish-like creatures that slowly drift around in Frozen Oceans during night."]
 			hide: true
 			id: "4D92FA7401F8A0D0"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "7FEF57AD985151CC"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "2E3A2FDDB8D7594A"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_comb_jelly"
 				id: "04661A5A04B62183"
@@ -200,6 +376,22 @@
 			description: ["Found in forests and plains, but intelligent birds that can be seen trampling crops. They can be tamed to be used as an item sorter."]
 			hide: true
 			id: "04DF7D7AB883119F"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "7DDE1CD0E4965728"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "156FA97E41659744"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_crow"
 				id: "1AD84C8AD5C956FD"
@@ -223,6 +415,22 @@
 			]
 			hide: true
 			id: "53286AD551CABD14"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "4A396DE6AC674DD7"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "1249F5603949BD20"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_devils_hole_pupfish"
 				id: "14C887B354240A9B"
@@ -240,6 +448,22 @@
 			description: ["Elephant: Gigantic mammals that majestically roam Savannas in search of Acacia Blossoms."]
 			hide: true
 			id: "4E3594E422D3D48B"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "6A91BB2CCC70E453"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "5FB8347E6AA3137B"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_elephant"
 				id: "58EAB77B818189C4"
@@ -257,6 +481,22 @@
 			description: ["Emu: Big, flightless birds that roam Savannas and Badlands. They are super good at dodging ranged attacks."]
 			hide: true
 			id: "01996FAFC6B37819"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "50FDDC73A70A4552"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "3A043B598F4A05F5"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_emu"
 				id: "0B2F0C068F81837B"
@@ -274,6 +514,22 @@
 			description: ["Flutter: Small flower like creatures that inhabit Lush Caves and can be tamed by feeding them different types of flowers."]
 			hide: true
 			id: "057B7EFF4B937A8B"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "11D885F71E90E704"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "63DA8C40C7C348E9"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_flutter"
 				id: "4C727376873C69DC"
@@ -291,6 +547,22 @@
 			description: ["Flying Fish: Subtropical fish that can leap out of the water and glide if attacked."]
 			hide: true
 			id: "1A5DDE08129D2B74"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "06524401188FAE83"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "454560E734B480EB"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_flying_fish"
 				id: "22830030941150A8"
@@ -308,6 +580,22 @@
 			description: ["Frilled Shark: Small sharks that have mouths filled with incredibly jagged but shiny teeth to hunt prey in the Deepest Oceans."]
 			hide: true
 			id: "3FF2353A1C8EC062"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "62FC4A57EF1A6617"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "6E74AF7418582831"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_frilled_shark"
 				id: "4FF1ACEA5564DC09"
@@ -325,6 +613,22 @@
 			description: ["Gazelle: Small timid antelopes that wander around in Savannas."]
 			hide: true
 			id: "17996CD0F358ED85"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "5E83922AC766277B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "7831B5005D2F9CAD"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_gazelle"
 				id: "2C828329A664D1C2"
@@ -342,6 +646,22 @@
 			description: ["Gelada Monkey: Territorial primates that roam Meadows in groups and feed exclusively on Grass."]
 			hide: true
 			id: "0FEEE61D79ABBEC0"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "66880D4503277248"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "12D0D3805AA7A95A"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_gelada_monkey"
 				id: "1E92D25034F40EDA"
@@ -359,6 +679,22 @@
 			description: ["Giant Squid: Enormous squid that lurk in the Deepest Oceans and sometimes battle with Cachalot Whales."]
 			hide: true
 			id: "0A466B2AA078D778"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "4DA07C0A9CE930D5"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "1FCD053C758BB33C"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_giant_squid"
 				id: "2010DA754E33E3BD"
@@ -376,6 +712,22 @@
 			description: ["Gorilla: Big, strong apes that live in groups commanded by silverbacks in Jungles."]
 			hide: true
 			id: "0B3BE91809B12E7D"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "536D47012F8AFA55"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "1F7F9AF464AD3A1C"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_gorilla"
 				id: "6C7F3C6AA14D46B6"
@@ -393,6 +745,22 @@
 			description: ["Hummingbird: Tiny birds native to Flowery Biomes and Jungles that love to pollinate."]
 			hide: true
 			id: "4F6BFC64FA3A844E"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "124BD7575143CC0A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "3289CF2D92E6D6FF"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_hummingbird"
 				id: "6AC6DDBE7B2860A3"
@@ -410,6 +778,22 @@
 			description: ["Jerboa: Small nocturnal mammals that hop around Deserts at night in search of Seeds."]
 			hide: true
 			id: "6FCDFEF7D7C65984"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "79A1FA939EFC5333"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "349B860DA3D0326D"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_jerboa"
 				id: "6D7AA64F24BBCADA"
@@ -427,6 +811,22 @@
 			description: ["Kangaroo: Big marsupials from Savannas and Badlands that have super powerful legs used for movement and defence."]
 			hide: true
 			id: "4121A3C97363CC0E"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "00B9A380EAB88CAF"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "3386A363738F345D"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_kangaroo"
 				id: "6F4F5433E096EF37"
@@ -444,6 +844,22 @@
 			description: ["Leafcutter Ant: Hard working ants from the jungle that live in huge colonies to collect leaves and create Gongylidia."]
 			hide: true
 			id: "24FBB0FB0702F09A"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "0504B0A1EC6979D3"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "738E7C352F885FFD"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_leafcutter_ant"
 				id: "262C912F71CD1D3B"
@@ -461,6 +877,22 @@
 			description: ["Lobster: Common crustaceans that live in coastal waters near Beaches and they pinch attackers as a defence."]
 			hide: true
 			id: "2244C20BF7B5972B"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "7B6D10FD7D220B4B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "4176F67EBFBDA12F"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_lobster"
 				id: "19AB7026C39B21C5"
@@ -478,6 +910,22 @@
 			description: ["Maned Wolf: Rare canines that inhabit Savannas and love to eat Fruit."]
 			hide: true
 			id: "508094B0F0FCC2F9"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "3006BD7F0F770E3C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "376F057E0CB881BA"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_maned_wolf"
 				id: "7D0BBB1DACF9B8A5"
@@ -495,6 +943,22 @@
 			description: ["Mantis Shrimp: Big colorful crustaceans from Warm Oceans and Mangrove Swamps that hunt prey using their extremely powerful fists which can break rock."]
 			hide: true
 			id: "604399AD91C02263"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "1F7290EB8B9D23E2"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "5C66431F56638452"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_mantis_shrimp"
 				id: "7B27F651C51AB2DA"
@@ -512,6 +976,22 @@
 			description: ["Mimic Octopus: A clever mollusc that lives in warm oceans. It can camouflage itself and mimic other mobs."]
 			hide: true
 			id: "12AD5909D23D777B"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "12BADA6F5697B07D"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "70C4CBD697734CB4"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_mimic_octopus"
 				id: "2AFE0D101EFE08FA"
@@ -529,6 +1009,22 @@
 			description: ["Moose: Massive creatures that are often seen fighting each other in Snowy Biomes."]
 			hide: true
 			id: "2A58E0EEF8C6BBFE"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "19E6DC729DB8AE18"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "0455DCD5892720E3"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_moose"
 				id: "7E8B142DA71C1E14"
@@ -546,6 +1042,22 @@
 			description: ["Mudskipper: Strange amphibious fish that walk around in the Mud of Mangrove Swamps."]
 			hide: true
 			id: "66CD5B0F435E1196"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "40BCC99AB9034C46"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "2A08C1DDA2953769"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_mudskipper"
 				id: "0D84974456331899"
@@ -563,6 +1075,22 @@
 			description: ["Mungus: Odd looking creatures that can be seen with mushrooms growing on them and will also tend to small mushrooms."]
 			hide: true
 			id: "0C2220C0FF56CFD2"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "55C34D44E4D3838D"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "00329D0DE506CD1D"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_mungus"
 				id: "17C3FFC3B2510568"
@@ -580,6 +1108,22 @@
 			description: ["Orca: Large, predatory cetaceans that hunt in groups in Cold and Frozen Oceans."]
 			hide: true
 			id: "3586AE3E69F91237"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "1B20A4126B9EBCC7"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "008A397CA7BD66C2"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_orca"
 				id: "2972F30E1044D784"
@@ -597,6 +1141,22 @@
 			description: ["Platypus: Strange monotremes from Rivers that have poisonous spurs on their feet to use for defence."]
 			hide: true
 			id: "52F7D8A164A70333"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "5B6FBC23678D5DFF"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "412362B5F77D0473"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_platypus"
 				id: "057C981C670E1391"
@@ -614,6 +1174,22 @@
 			description: ["Potoo: Bizarre, stationary birds that fly around Dark Forests."]
 			hide: true
 			id: "603B2F12CB7D34C4"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "7268345CD6B7EC94"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "034FD70F704C3C1C"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_potoo"
 				id: "4C841C560525CA84"
@@ -631,6 +1207,22 @@
 			description: ["Raccoon: Adorable, but annoying, mammals that frequently live in Forest and Plains biomes."]
 			hide: true
 			id: "1F6589A98EE82573"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "7036D655BD203EC3"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "11D6281FA1B04F98"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_raccoon"
 				id: "54005D872B460F25"
@@ -648,6 +1240,22 @@
 			description: ["Rhinoceros: Strong and tough herbivores that can be found grazing in Savannas."]
 			hide: true
 			id: "79B4FA3973F0AAD8"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "554945AAAC6B1D3F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "3A5289B6F70232CB"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_rhinoceros"
 				id: "5094B188DE00FED3"
@@ -665,6 +1273,22 @@
 			description: ["Roadrunner: Speedy birds that live in Deserts and Badlands in search of prey."]
 			hide: true
 			id: "3D675F46E2C5907F"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "3F205CC7CF50B9B1"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "39EAE03910CC1568"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_roadrunner"
 				id: "3057DC2B97678460"
@@ -682,6 +1306,22 @@
 			description: ["Seagull: Annoying birds that inhabit Beaches and often steal food from Players."]
 			hide: true
 			id: "145AF3E4DF07D9E7"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "636057432262CD92"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "7A979DE8CE1A7AE1"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_seagull"
 				id: "3EFDCE6B4EF5E97F"
@@ -699,6 +1339,22 @@
 			description: ["Seal: Semi-aquatic mammals that rest on Beaches and Icebergs. They can be bartered with Fish."]
 			hide: true
 			id: "032DFF5ADA2C3F57"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "04E239A9EBC8FBB2"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "3C357153B3C82649"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_seal"
 				id: "6489AEE2E4C51FB8"
@@ -716,6 +1372,22 @@
 			description: ["Shoebill: Strange birds that inhabit Swamps in search of fish and baby Reptiles."]
 			hide: true
 			id: "1199D8DF298F1203"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "1C9170E021920934"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "503BA9096CA63356"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_shoebill"
 				id: "7958AC0576ACBE3E"
@@ -733,6 +1405,22 @@
 			description: ["Skunk: Forest creatures that release a foul smell if threatened."]
 			hide: true
 			id: "720471F733468821"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "006DA59D311B0418"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "21FDB3BDA45C92B3"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_skunk"
 				id: "5F738DCBC30E069A"
@@ -750,6 +1438,22 @@
 			description: ["Snow Leopard: A skilled hunter that wanders Snowy Mountains and Peaks in search of a meal."]
 			hide: true
 			id: "54049D2BC37F3B6A"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "3A63D94E685FAA4E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "4F2B74341C58CFC8"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_snow_leopard"
 				id: "36F0238A02F03B23"
@@ -767,6 +1471,22 @@
 			description: ["Sunbird: Holy birds that soar above the Tallest Mountains and can give a player a blessing, if they get close, or a curse if they attacked it."]
 			hide: true
 			id: "3138CE479C03E1F4"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "63CB02746DEAB5B8"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "7EC7995792293047"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_sunbird"
 				id: "5FEAB5381887FFEB"
@@ -784,6 +1504,22 @@
 			description: ["Tasmanian Devil: Devilish marsupials that live in Temperate Forests and hunt small prey using super strong teeth."]
 			hide: true
 			id: "60C528BF27E580DD"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "616EC07767690990"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "3D42BA359EF04F52"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_tasmanian_devil"
 				id: "7DEE26829780C8B7"
@@ -801,6 +1537,22 @@
 			description: ["Terrapin: Small freshwater turtles that can be seen swimming in Rivers."]
 			hide: true
 			id: "3D49FA9AF957FF25"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "0D4658019C0569D8"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "698096BFD8C495AA"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_terrapin"
 				id: "1F4EAA335C3BE10B"
@@ -818,6 +1570,22 @@
 			description: ["Toucan: Birds with massive beaks which eat fruit of the trees in Jungles."]
 			hide: true
 			id: "2BCCC2A2BC46770B"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "1BF947047E5D41B2"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "79084B8258AA1DBD"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_toucan"
 				id: "6F340AC5AFD200B3"
@@ -836,6 +1604,22 @@
 			hide: true
 			icon: "minecraft:allay_spawn_egg"
 			id: "562048B05A37936C"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "4C772EF975636BCA"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "72737E584CA07DF0"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:allay_spawn_egg"
 				id: "76DB590F45FE073C"
@@ -854,6 +1638,22 @@
 			hide: true
 			icon: "minecraft:axolotl_spawn_egg"
 			id: "2397D20B696DBB02"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "017C24F410025FEB"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "68A3DDD7C71C5106"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:axolotl_spawn_egg"
 				id: "528DC18C19DE9BE8"
@@ -871,6 +1671,22 @@
 			description: ["A bat is a flying ambient passive mob that spawns in dark areas underground."]
 			hide: true
 			id: "777F22C1CD2721B8"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "6A5DF03B073EB2F2"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "4F147050BA826BDA"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:bat_spawn_egg"
 				id: "1DD60BC6719F4D0D"
@@ -888,6 +1704,22 @@
 			description: ["Naturally-generated birch or oak trees have equal chances to generate with a bee nest, depending on the biome"]
 			hide: true
 			id: "6EFB02CAFF70011F"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "0ABCD6A9E64503ED"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "37FFECB35C940E3A"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:bee_spawn_egg"
 				id: "5F93C177B1551857"
@@ -905,6 +1737,22 @@
 			description: ["Cats can spawn every 1200 ticks (1 minute). A random player is selected (including spectators) and a random location is chosen 8-32 blocks away from the player horizontally in both directions and at the same height. A cat can spawn if that block is less than 2 chunks from a village with fewer than 5 cats, or inside a swamp hut. "]
 			hide: true
 			id: "30F27E64B61D345B"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "42FD3BE507F00CE9"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "678A182090F4C269"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:cat_spawn_egg"
 				id: "0119BB3DAD4E1313"
@@ -922,6 +1770,22 @@
 			description: ["A chicken is a passive mob found in grass biomes and the main source of chicken, feathers and eggs. "]
 			hide: true
 			id: "769470FC271516B9"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "1DC99CE3D594A182"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "03CBEFC0335CA467"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:chicken_spawn_egg"
 				id: "0580D8639E498A48"
@@ -939,6 +1803,22 @@
 			description: ["A cow is a passive mob found in most grassy biomes and a source of leather, beef and milk. "]
 			hide: true
 			id: "5EF20D2F3215C7E3"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "2FE5731D0323BB1A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "05981BD189115974"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:cow_spawn_egg"
 				id: "6F33C3BEACB1A1F4"
@@ -956,6 +1836,22 @@
 			description: ["Dolphins are neutral mobs that live in non-frozen oceans, which grant a speed boost to players that swim near them. "]
 			hide: true
 			id: "566886594591243B"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "75C0447E666972ED"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "2FAB000194787BD7"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:dolphin_spawn_egg"
 				id: "04C754955E45F97E"
@@ -973,6 +1869,22 @@
 			description: ["A fox is a passive mob that spawns in taigas, old growth taigas, snowy taigas and mountain groves. "]
 			hide: true
 			id: "7ECFFDB36946A838"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "319F4EB1F1A0A191"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "295AFD00997E7EDB"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:fox_spawn_egg"
 				id: "427971A84614721A"
@@ -994,6 +1906,22 @@
 			]
 			hide: true
 			id: "416837A4EF7B3745"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "5DB7CCB4F0EBD42B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "41ED48AEDC46B0E6"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:frog_spawn_egg"
 				id: "3587C34DC3BD37B2"
@@ -1011,6 +1939,22 @@
 			description: ["The glow squid is an aquatic passive mob found in dark underwater areas, typically in ocean depths, ravines and underground lakes."]
 			hide: true
 			id: "19FD14BFEF79CDF6"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "609048F1D8EBA45A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "2D28775F6FDE32FD"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:glow_squid_spawn_egg"
 				id: "5180B07D40B41D4D"
@@ -1028,6 +1972,22 @@
 			description: ["Horses spawn in plains and savannas in herds of 2–6."]
 			hide: true
 			id: "34B25C82132101BC"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "47B7E7DCC454754F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "3342F6D71D96AF82"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:horse_spawn_egg"
 				id: "5B1478488C17F222"
@@ -1045,6 +2005,22 @@
 			description: ["A llama spawns at a light level 7 or above on grass blocks in savanna plateau,"]
 			hide: true
 			id: "139D2D32232D1426"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "1D22AD46B15F16E3"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "68AD2F336D387540"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:llama_spawn_egg"
 				id: "2F53D8EF2A58C407"
@@ -1062,6 +2038,22 @@
 			description: ["Ocelots are rare passive mobs found in jungles. "]
 			hide: true
 			id: "49FBCB3B84118D7B"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "7696AEC3DD510A12"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "1400026ACD5F6658"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:ocelot_spawn_egg"
 				id: "25D577B7CD98660A"
@@ -1079,6 +2071,22 @@
 			description: ["Parrots are rare tameable mobs found in jungles"]
 			hide: true
 			id: "5EA7074530B590D3"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "5AC96711B3581163"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "5FA1AFD6C3B2A08C"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:parrot_spawn_egg"
 				id: "426816CE25BA5780"
@@ -1096,6 +2104,22 @@
 			description: ["A pig is a common passive mob found in most grass biomes. Pigs are a source of porkchops and can be equipped with a saddle to be driven. "]
 			hide: true
 			id: "01B36E02D4569273"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "6C92C96C44ACF754"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "5FF731210DFFE61B"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:pig_spawn_egg"
 				id: "25C2CF83F0DBE8DE"
@@ -1113,6 +2137,22 @@
 			description: ["Polar bears are neutral mobs that live in icy biomes. "]
 			hide: true
 			id: "62794BBB18A1308B"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "37B985FB33FCEBC4"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "79B0BA370C25D7D0"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:polar_bear_spawn_egg"
 				id: "5D4E321354CA9C45"
@@ -1130,6 +2170,22 @@
 			description: ["Rabbits spawn above grass, snow blocks or sand."]
 			hide: true
 			id: "02722D071C611EAE"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "38255E7305BF2C6B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "0D83E8DBB0B800D9"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:rabbit_spawn_egg"
 				id: "1ADC6B354FD23C7E"
@@ -1147,6 +2203,22 @@
 			description: ["Sheep are common passive mobs that supply wool and mutton and are found in many of the grassy biomes. "]
 			hide: true
 			id: "266727D9017FD47E"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "5E0654844BC76E8D"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "65971CAAD5997D84"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:sheep_spawn_egg"
 				id: "55546F566154C0B5"
@@ -1164,6 +2236,22 @@
 			description: ["A squid is a common passive aquatic mob that spawns in rivers and oceans. "]
 			hide: true
 			id: "0FB3CF416F4D0C5A"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "74D765101121777C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "77DC4B071F97A7E8"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:squid_spawn_egg"
 				id: "41836487B8325A70"
@@ -1181,6 +2269,22 @@
 			description: ["A tadpole is the larval form of the frog. They mature into one of the three frog variants, depending on the biome in which they mature. "]
 			hide: true
 			id: "40DAFF983E2966F3"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "5D69709FD0ED22A4"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "315382C69F4ED906"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:tadpole_spawn_egg"
 				id: "15ABFFA98776BC7D"
@@ -1198,6 +2302,22 @@
 			description: ["A trader llama is a special variant that follows wandering traders. "]
 			hide: true
 			id: "4D144D666EFF0D47"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "631A276A908F61AC"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "4637334EB1EE3A48"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:trader_llama_spawn_egg"
 				id: "4AED443401B5499E"
@@ -1215,6 +2335,22 @@
 			description: ["A turtle is a common passive mob found in beach biomes."]
 			hide: true
 			id: "5E7E5E340910884F"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "3659B9C86A36862B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "7C750EC888217E9B"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:turtle_spawn_egg"
 				id: "038C04756CB02A37"
@@ -1232,6 +2368,22 @@
 			description: ["Wolves spawn naturally above grass blocks, dirt, coarse dirt, snow blocks or podzol in forests, taigas, groves, old growth taigas, and snowy taigas, along with all variants of these biomes (with the exception of flower forests)"]
 			hide: true
 			id: "2C34377B3662FC73"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "2366F9EDCE71168A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "2777C37BAC6952B5"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:wolf_spawn_egg"
 				id: "2832CB9502CEA155"
@@ -1249,6 +2401,22 @@
 			description: ["1-3 donkeys spawn in plains and only 1 in savannas. Donkeys also spawn in meadows."]
 			hide: true
 			id: "3A0E38A640553F2C"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "22F259A9BE348752"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "016A16E1E1013B99"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:donkey_spawn_egg"
 				id: "3EEC5CEFA99240A8"
@@ -1266,6 +2434,22 @@
 			description: ["A panda is a rare neutral mob that resides in jungles"]
 			hide: true
 			id: "5862996BFE43ECB7"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "165272A1C9C08231"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "6318F9E0BBE67D8D"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:panda_spawn_egg"
 				id: "19145A1350DAC8C1"
@@ -1283,6 +2467,22 @@
 			description: ["Mooshrooms are mushroom-covered variants of cows exclusive to the rare mushroom fields biome. "]
 			hide: true
 			id: "438C575EB46A1080"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "29D39DBB3937B7D2"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "742F4A1A07CE9E21"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:mooshroom_spawn_egg"
 				id: "6CA25135AE60DDBF"
@@ -1300,6 +2500,22 @@
 			description: ["Rain Frog: Small frogs native to Deserts that can change the weather."]
 			hide: true
 			id: "35C05B2043DDFE56"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "32B4DA6B06D8A77E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "6CC00A557FFA504B"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_rain_frog"
 				id: "05CB5472AC810A42"
@@ -1317,6 +2533,22 @@
 			description: ["Sugar Glider: Small marsupials found in birch forests that can glide mid-air."]
 			hide: true
 			id: "5B020AB8D14CDE98"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "2E13CB3188A9841F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "4F53823BA9AB1D7D"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_sugar_glider"
 				id: "0344ACB16D1C42A0"
@@ -1334,6 +2566,22 @@
 			description: ["A goat is a neutral mob found in certain mountainous biomes. Goats can jump especially high and ram mobs. They are a source of goat horns and milk. "]
 			hide: true
 			id: "4846ABCBD585104D"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "7F3C36483FC5AEB5"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "1FD88E7A6FD2A1E1"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:goat_spawn_egg"
 				id: "54C992A54230CE88"
@@ -1814,6 +3062,22 @@
 			dependencies: ["2D62FBEF18E6ABF6"]
 			hide: true
 			id: "0FD54BFF05600C64"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "04B57DFD20110CC7"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "455EBFDB4D40C1C7"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_fly"
 				id: "5BF3A18DC4C9ED6F"
@@ -1830,6 +3094,22 @@
 			dependencies: ["2D62FBEF18E6ABF6"]
 			hide: true
 			id: "1C98DA42FEF17D24"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "1671BC2C49E3BF98"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "37A7D4419AE1808F"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_cockroach"
 				id: "6EEF2FFA133C32D3"
@@ -1942,6 +3222,22 @@
 			dependencies: ["2D62FBEF18E6ABF6"]
 			hide: true
 			id: "359BEC4AFEC849CC"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "6828B2FED0D8F75F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "4B8707EB32F460FC"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_caiman"
 				id: "3A8AA49DE2AED103"
@@ -1958,6 +3254,22 @@
 			dependencies: ["2D62FBEF18E6ABF6"]
 			hide: true
 			id: "50831635A884520C"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "42ABC31D76F4A806"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "1A6CBA370E67DF82"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_triops"
 				id: "64F8DF697C84DECD"
@@ -1974,6 +3286,22 @@
 			dependencies: ["2D62FBEF18E6ABF6"]
 			hide: true
 			id: "0571CC0FC40BFD2A"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "1E3D92079D27D6EE"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "1C1E559590DF4DB2"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "meadow:brown_bear_spawn_egg"
 				id: "11F0920453AA8498"
@@ -1990,6 +3318,22 @@
 			dependencies: ["2D62FBEF18E6ABF6"]
 			hide: true
 			id: "16F90C11BEA27616"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "4154F7E9DD5E39A6"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "6A28572C24B9432F"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "meadow:water_buffalo_spawn_egg"
 				id: "58439A86314D9C09"
@@ -2006,6 +3350,22 @@
 			dependencies: ["2D62FBEF18E6ABF6"]
 			hide: true
 			id: "32F54B6B57DB6F58"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "261F6B8865BF13DD"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "2ABF1F1300298A7F"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "meadow:wooly_cow_spawn_egg"
 				id: "72054451483DAF64"
@@ -2022,6 +3382,22 @@
 			dependencies: ["2D62FBEF18E6ABF6"]
 			hide: true
 			id: "7F38BFDE8D8AF3A9"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "06041F5480D9FD00"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "1CE1B7A5A39C1495"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "beachparty:pelican_spawn_egg"
 				id: "4BE64B3EF71977EA"
@@ -2036,6 +3412,22 @@
 		}
 		{
 			id: "4D22F63E9B7F2857"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "4F3656088D613CBF"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "4E21F055E8FC5485"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:peafowl_spawn_egg"
 				id: "46765BE570FDE413"
@@ -2050,6 +3442,22 @@
 		}
 		{
 			id: "7BF1E0AE295E15C8"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "5EA1D5B2BAC0FA7B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "07CC4B971AF8C1BC"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:hummingbird_spawn_egg"
 				id: "33EDA57B16DFE31F"
@@ -2064,6 +3472,22 @@
 		}
 		{
 			id: "02AE352CCC808F32"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "4259F4A8831FAB38"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "2CEC1639602E02C3"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:woodpecker_spawn_egg"
 				id: "0D7D13A2176909CE"
@@ -2078,6 +3502,22 @@
 		}
 		{
 			id: "089C3BD5B23A6C27"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "02FBCA262153B11C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "193204050368770E"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:kingfisher_spawn_egg"
 				id: "2152DA97608F3CB6"
@@ -2092,6 +3532,22 @@
 		}
 		{
 			id: "30C903B2FA6D68C0"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "757706B98DB4CA40"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "29C43C4DD9772307"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:roadrunner_spawn_egg"
 				id: "1FB4F82F73433655"
@@ -2106,6 +3562,22 @@
 		}
 		{
 			id: "318581CECEF1AFD0"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "70801DC86AFE46E5"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "1E5023F0A826A29F"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:toucan_spawn_egg"
 				id: "690B093CB8E63FBB"
@@ -2120,6 +3592,22 @@
 		}
 		{
 			id: "4440AFDE97EDEC87"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "5CE69E46D8DDA0F1"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "7FC3F99A86BFCDC2"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:swan_spawn_egg"
 				id: "71EC1BB48CF49A8C"
@@ -2134,6 +3622,22 @@
 		}
 		{
 			id: "7DEE73F18FA1CA3B"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "6F67D56C7126E085"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "02402C47CCE95C64"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:macaw_spawn_egg"
 				id: "6C2933DCAD9A46AB"
@@ -2148,6 +3652,22 @@
 		}
 		{
 			id: "4934A91D621EF258"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "642D0A03FB006046"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "2719E88BA9620C47"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:cassowary_spawn_egg"
 				id: "3BDFBDDC503B814D"
@@ -2162,6 +3682,22 @@
 		}
 		{
 			id: "237CCC340E80705D"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "1A77927AE3AB1F5A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "5CD5C7E56D53F882"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:magpie_spawn_egg"
 				id: "64E0EF194C1D6643"
@@ -2176,6 +3712,22 @@
 		}
 		{
 			id: "684AA641D4AF1F30"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "29A4A6B6D669F161"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "69C3A14BC006204B"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:flamingo_spawn_egg"
 				id: "20C1B25AE1BD4C55"
@@ -2190,6 +3742,22 @@
 		}
 		{
 			id: "58A5A0509B2F81A6"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "604A72E43762AD7C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "46C7E020F8E765CE"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:kiwi_spawn_egg"
 				id: "206F108902B7C2C1"
@@ -2204,6 +3772,22 @@
 		}
 		{
 			id: "06E25F73D2CF1259"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "5D2A79D7264A76C1"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "3C0A66555FF51BBD"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:pelican_spawn_egg"
 				id: "271BC13C9C6AD079"
@@ -2218,6 +3802,22 @@
 		}
 		{
 			id: "37EB9648C5646274"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "70F16F0674C3773A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "592C6462468FD24E"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:owl_spawn_egg"
 				id: "3FFB2814250CD9BE"
@@ -2232,6 +3832,22 @@
 		}
 		{
 			id: "2744788F8DAD7ED8"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "4AAD2B1D4694D42C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "287F34439E70AD14"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:lyrebird_spawn_egg"
 				id: "1FD48E2F425BAA85"
@@ -2246,6 +3862,22 @@
 		}
 		{
 			id: "3C00D722BDCFD963"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "0978F09C47C0DAC3"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "38EC2202F081F043"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:ostrich_spawn_egg"
 				id: "4B459FA7E467CB4A"
@@ -2260,6 +3892,22 @@
 		}
 		{
 			id: "3490C1DA8E7174BF"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "60133669EBF54E1D"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "3DF299961FC6CA0C"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:gouldianfinch_spawn_egg"
 				id: "28CE6A3FC3088677"
@@ -2274,6 +3922,22 @@
 		}
 		{
 			id: "1F0D03EA0ECD7416"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "352C8923BCDF97E1"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "0953C46BACA134D5"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:gull_spawn_egg"
 				id: "3636C80509AE645A"
@@ -2288,6 +3952,22 @@
 		}
 		{
 			id: "292D055D45475F6A"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "2075F78AA730365F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "5AB39244A992BA9A"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:pigeon_spawn_egg"
 				id: "39387DD86A275529"
@@ -2302,6 +3982,22 @@
 		}
 		{
 			id: "5509BE4119BE3B6A"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "3603A37F0928AED2"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "35B177226355847A"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:penguin_spawn_egg"
 				id: "1AD5459C9CD3ABCF"
@@ -2316,6 +4012,22 @@
 		}
 		{
 			id: "06D5DD66E7D5143C"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "09455952AF15D89D"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "44A42366D9995DC6"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:duck_spawn_egg"
 				id: "0F90C574FB060E4F"
@@ -2330,6 +4042,22 @@
 		}
 		{
 			id: "6F472DE5A35111D3"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "70F17083D1B76266"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "7BA674E84C369A82"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:heron_spawn_egg"
 				id: "4B96D904D2360188"
@@ -2344,6 +4072,22 @@
 		}
 		{
 			id: "139B87AC72083A31"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "7887D10C30487DAD"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "679A89F5A54D2D3E"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:booby_spawn_egg"
 				id: "558393907431F032"
@@ -2358,6 +4102,22 @@
 		}
 		{
 			id: "4FB084A1625FD1BB"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "5F6ED569AA440B20"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "5F64176FB41E46EA"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:cardinal_spawn_egg"
 				id: "1D6373B996189F70"
@@ -2372,6 +4132,22 @@
 		}
 		{
 			id: "0D020C4C974AB19C"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "495E479A39CBAFE1"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "5EC846D4A96501B6"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:bluejay_spawn_egg"
 				id: "44D55B3F6C4CC202"
@@ -2386,6 +4162,22 @@
 		}
 		{
 			id: "0A1D0040C07D8885"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "437B8D997B495EDB"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "2268ED0A6DFDA3FD"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:robin_spawn_egg"
 				id: "71C6413D0C0D80C3"
@@ -2400,6 +4192,22 @@
 		}
 		{
 			id: "2C1A1A446C56ACD8"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "43C7C01560C48A00"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "6BFFF5D2CBF45A39"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:crane_spawn_egg"
 				id: "28EFAA242601C0EA"
@@ -2414,6 +4222,22 @@
 		}
 		{
 			id: "7F57AD9A20DAB261"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "263CDA22A5B9F439"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "7DEA1DA092D667CA"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:kookaburra_spawn_egg"
 				id: "1BC4B852093E6211"
@@ -2428,6 +4252,22 @@
 		}
 		{
 			id: "3E4836F1A4AA2859"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "318A0A9E5AB9D425"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "61D3F4D0F5487ADC"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:budgerigar_spawn_egg"
 				id: "4BEAAC3CFB6C3F44"
@@ -2442,6 +4282,22 @@
 		}
 		{
 			id: "426484111178BC6C"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p animals_observed 1"
+					id: "59D3EF01B0A568FF"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You have observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" animals!\"}]"
+					id: "32D605E8848E8785"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:cockatoo_spawn_egg"
 				id: "5E11E510DB053375"

@@ -1,6 +1,14 @@
 - make fresh water more useful
 - add custom audio
 - reskin villagers
+- score board and server whispers to inform quest completion
+  - /tellraw @p ["",{"text":"Your score is"},{"score":{"name":"@p","objective":"animals_observed"}}]
+  - /scoreboard objectives add animals_observed dummy {"text": "Animals Observed"}
+  - /scoreboard players set @p animals_observed 0
+  - /scoreboard players add @p animals_observed 1
+
+- bug tracking:
+  - https://github.com/Asek3/Rubidium/issues/629
 
 Tutorials:
   - dynamic villager trades
