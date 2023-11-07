@@ -1,14 +1,14 @@
 
 {
 	auto: "no_toast"
-	command: "/scoreboard objectives add flora_collected dummy {\"text\": \"Flora Collected\"}"
+	command: "/scoreboard objectives add fishes_caught dummy {\"text\": \"Fishes Caught\"}"
 	id: "xxxidxxx"
 	silent: true
 	type: "command"
 }
 {
 	auto: "no_toast"
-	command: "/scoreboard players set @p flora_collected 0"
+	command: "/scoreboard players set @p fishes_caught 0"
 	id: "xxxidxxx"
 	silent: true
 	type: "command"
@@ -18,14 +18,14 @@ disable_toast: true
       rewards: [
 				{
 					auto: "no_toast"
-					command: "/scoreboard players add @p flora_collected 1"
+					command: "/scoreboard players add @p fishes_caught 1"
 					id: "xxxidxxx"
 					silent: true
 					type: "command"
 				}
 				{
 					auto: "no_toast"
-					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					command: "/tellraw @p [\"\",{\"text\":\"You've caught a new fish! You have now caught \"},{\"score\":{\"name\":\"@p\",\"objective\":\"fishes_caught\"}},{\"text\":\" unique fish(es)!\"}]"
 					id: "xxxidxxx"
 					silent: true
 					type: "command"

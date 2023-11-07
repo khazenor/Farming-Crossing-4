@@ -438,11 +438,27 @@
 			hide: true
 			icon: "aquaculture:atlantic_cod"
 			id: "51AC164BB0124EBA"
-			rewards: [{
-				id: "241BA34ED463BCF0"
-				item: "minecraft:bundle"
-				type: "item"
-			}]
+			rewards: [
+				{
+					id: "241BA34ED463BCF0"
+					item: "minecraft:bundle"
+					type: "item"
+				}
+				{
+					auto: "no_toast"
+					command: "/scoreboard objectives add fishes_caught dummy {\"text\": \"Fishes Caught\"}"
+					id: "45C7C07A5B8073F3"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/scoreboard players set @p fishes_caught 0"
+					id: "34E59E2844D76680"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "4BF169FE298B5E41"
 				item: {
