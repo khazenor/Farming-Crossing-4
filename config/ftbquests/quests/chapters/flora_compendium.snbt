@@ -12,6 +12,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "4B06A2E5963F65FE"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "4B05628259CBE24C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "30A1F3D9B4304A8C"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "65EE420A4295AB11"
 				item: "minecraft:acacia_sapling"
@@ -24,6 +41,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "2B3D84C5297A5B1A"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "01723BD8A80842F6"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "0D08AF47FF9C4F50"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "563F5007DDA4A2FF"
 				item: "minecraft:birch_sapling"
@@ -36,6 +70,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "66783EC70CC8F1B2"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "3F3993FF9E6AA8AB"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "1C8BD58641C888D3"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "4C6AC7F51DAB2AEB"
 				item: "minecraft:cherry_sapling"
@@ -48,6 +99,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "177F9FC08A93D588"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "599F71F494CCBA1B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "17A12612C2F50FB1"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "12A9021FA29F3F41"
 				item: "minecraft:dark_oak_sapling"
@@ -60,6 +128,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "2AEAF968FDDDD219"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "197E6357C4BDA74C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "3D52A781272A3630"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "124FCB1BB00778BF"
 				item: "minecraft:jungle_sapling"
@@ -72,6 +157,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "6A8430BF514192E5"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "1689172D42D5C6C9"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "57ADC4C10B290E28"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "71F47F804E6AF2A6"
 				item: "minecraft:oak_sapling"
@@ -84,6 +186,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "6DFC2388D82590AC"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "21F32FB99B94C71A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "4911C642DAC785B2"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "78FFC92703A9897B"
 				item: "minecraft:spruce_sapling"
@@ -96,6 +215,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "6B7737AE5962F434"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "3766E4210D6259F5"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "41398C8B762C01BF"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "1B2FD19C55BC5DD9"
 				item: "biomesoplenty:dead_sapling"
@@ -108,6 +244,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "0E74AFC41934516C"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "41135061AD4B4031"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "19676C7FD81B5DED"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "75251C675F3D547E"
 				item: "biomesoplenty:fir_sapling"
@@ -120,6 +273,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "783BCDEDD8A796B1"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "2B0EA87579A59780"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "5DE2C0EC567A2795"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "57E3CA9228855AF5"
 				item: "biomesoplenty:flowering_oak_sapling"
@@ -132,6 +302,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "295C986A5701D4D1"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "530B60E8D9713E33"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "1B50644AE6FB9E44"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "3D1133CE9C6A4146"
 				item: "biomesoplenty:jacaranda_sapling"
@@ -144,6 +331,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "0192B9CEBEEFFD51"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "00EC8FA7E7AE05A4"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "64AC1939713D1639"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "0BF9A74AFD3ED16B"
 				item: "biomesoplenty:magic_sapling"
@@ -156,6 +360,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "57F0A9F3C4BD821C"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "7AE0B8522FA2433C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "464B47C759EE86A4"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "0C707807882D32CF"
 				item: "biomesoplenty:mahogany_sapling"
@@ -168,6 +389,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "130F6E411F0553D7"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "4D0613C0AA16360E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "0508616432078C1F"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "254676DAD6C9EF13"
 				item: "biomesoplenty:maple_sapling"
@@ -180,6 +418,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "38536FCA89129906"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "1B4D794F6CAC960D"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "1118F27BAAC8010E"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "64FE4B1E31D21F6E"
 				item: "biomesoplenty:orange_autumn_sapling"
@@ -192,6 +447,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "51F98B45CC9CB5F0"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "5468093BCF8252B6"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "4837704FD9C86EFC"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "006462748D6630BD"
 				item: "biomesoplenty:origin_sapling"
@@ -204,6 +476,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "061DFAE291106AA4"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "36C16F21CDF11DC2"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "119AB2977D511657"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "21F07CB450ED6492"
 				item: "biomesoplenty:palm_sapling"
@@ -216,6 +505,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "62075DA7A06B46D4"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "26F47F7DF4914491"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "1621D6295309D63D"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "79D2FB9D178CDFE1"
 				item: "biomesoplenty:rainbow_birch_sapling"
@@ -228,6 +534,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "1EA8C058BC90A11A"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "086268B93F62CA78"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "58626238065E8678"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "3E284C8A0087C907"
 				item: "biomesoplenty:redwood_sapling"
@@ -240,6 +563,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "0432906EDF13F7AE"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "7B7997604C9D0A7B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "095B0B5E7706777F"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "4CDABE7C465536FE"
 				item: "biomesoplenty:snowblossom_sapling"
@@ -252,6 +592,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "74432FDDC7A43EB1"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "2D6D82B36157FEBA"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "1857A0C0924848A2"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "43393B29E13EFCA9"
 				item: "biomesoplenty:willow_sapling"
@@ -264,6 +621,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "01039BEE9C443F44"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "469AF3D7FD5D8C60"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "7E9D6E9A9D7B9B2F"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "4ED358F11ED511CE"
 				item: "biomesoplenty:yellow_autumn_sapling"
@@ -276,6 +650,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "14923E6F16BFB0F5"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "12B3599DC9403BBE"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "2196026F9C0C864E"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "7F1A75D314B63269"
 				item: "beachparty:palm_sapling"
@@ -288,6 +679,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "73B67F6594B5D135"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "04A4E67BFB95B526"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "0FF209FBC7DA4DBC"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "69FB595C588C69FE"
 				item: "meadow:pine_sapling"
@@ -300,6 +708,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "62EAB361A186CFBB"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "52155791EDF776B3"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "7E0C150FA281CDA3"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "708D2FBDFC536C67"
 				item: "vinery:apple_tree_sapling"
@@ -312,6 +737,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "70992E617941F9ED"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "5C2F15EE993B5D66"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "5D18280055162D0C"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "40635620662B2F90"
 				item: "vinery:cherry_sapling"
@@ -324,6 +766,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "0DCA8577B5138CCE"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "40FD8FD72F37C81F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "53135E958ED94E77"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "5F130D337AB254B7"
 				item: "minecraft:allium"
@@ -336,6 +795,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "1157A27ECD8456B9"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "1EBB9E60974BC7AD"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "0B205509AEB01795"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "3AC667323AD0F4C8"
 				item: "minecraft:azure_bluet"
@@ -348,6 +824,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "572B24037DA8D9A1"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "63A1948AB0361F10"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "208A813BA310628E"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "6A1A88FB733485EC"
 				item: "minecraft:blue_orchid"
@@ -360,6 +853,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "56C177020392056E"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "63FC1B8F0FAAB583"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "09D8E1009EDBEE47"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "175CCAB17B64ED29"
 				item: "minecraft:cornflower"
@@ -372,6 +882,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "284455841F0D4161"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "0D56FF6383524F91"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "6897A34222012251"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "59BB941CB7E459A1"
 				item: "minecraft:dandelion"
@@ -384,6 +911,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "1786F53376FCDD84"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "43A309D3F8C60C8E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "60941165A27A13DC"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "092CCC54F8504AB7"
 				item: "minecraft:lilac"
@@ -396,6 +940,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "5D696F946046E000"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "5D64ACD1C7E60E68"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "43D450B73579E0D4"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "49F6CB5B27983069"
 				item: "minecraft:lily_of_the_valley"
@@ -408,6 +969,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "6B9C0A4540043324"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "6C3300342991A9B0"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "7891483931E2BDBB"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "73A691C3510510E7"
 				item: "minecraft:orange_tulip"
@@ -420,6 +998,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "422096E795E9F356"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "217E80AB5B421963"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "2A2B78F1AB89B43A"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "6417876897C9BC62"
 				item: "minecraft:oxeye_daisy"
@@ -432,6 +1027,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "36CF329C633B854A"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "184E226654CF1067"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "0B0DAC1BACF3CC38"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "686BC1DB0D8A0118"
 				item: "minecraft:peony"
@@ -444,6 +1056,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "5DA6682FDB76CAC5"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "4346D2C43BA5B24B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "607D1E81BF0FCF02"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "6310EDA42E2EE1E9"
 				item: "minecraft:pink_tulip"
@@ -456,6 +1085,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "66972D13BF52C4E3"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "12122DFCA4E57FAA"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "0FED87EC7EC94EBB"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "2EDEC6E8B30E86D8"
 				item: "minecraft:poppy"
@@ -468,6 +1114,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "57DB5C4DA1C832C4"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "3DCE09C3C1447DC4"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "010E1DD0852D8968"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "7D0091FDC650C6FA"
 				item: "minecraft:red_tulip"
@@ -480,6 +1143,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "55240FF5E6D766FD"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "0C9FDD9718758DF3"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "1C266310E0965738"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "7397D0D119CE64F3"
 				item: "minecraft:sunflower"
@@ -492,6 +1172,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "0DF144954783DFFF"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "3A0FB01EF0029E37"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "57EA139A77FFFA43"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "23317A6CC74DE53F"
 				item: "minecraft:white_tulip"
@@ -504,6 +1201,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "1DDADB41C7BE7A61"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "582326EE3A3337B7"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "539704D7F15636B8"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "1EB37F10644AC8B5"
 				item: "minecraft:rose_bush"
@@ -516,6 +1230,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "4BF637FCE1D35228"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "3CADB4BA62B33357"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "2BAE347C0E40D1F9"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "225BE94321C7D1C6"
 				item: "biomesoplenty:rose"
@@ -528,6 +1259,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "27589721E704D6FA"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "52976887F29B77B5"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "7F264C908B24DC40"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "5A48D47FC8A32B23"
 				item: "biomesoplenty:violet"
@@ -540,6 +1288,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "2F545825EA03CF14"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "421A12492BC5DCF4"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "556F2B807B96F7AB"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "389728322B111AF9"
 				item: "biomesoplenty:lavender"
@@ -552,6 +1317,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "202968222EB96FF8"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "067079E47C79DE53"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "7D5CFEDBC9D175AC"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "125348AAAF24A5DF"
 				item: "biomesoplenty:tall_lavender"
@@ -564,6 +1346,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "18D3728148EA5763"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "7A38F02E1BF35639"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "020F99E41919C997"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "5FC1B3727006BB5F"
 				item: "biomesoplenty:blue_hydrangea"
@@ -576,6 +1375,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "166252E0676BB34D"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "0C924330DCC6638B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "1A685F2F9B5E2C44"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "163CB8E4DDF445E0"
 				item: "biomesoplenty:wildflower"
@@ -588,6 +1404,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "1D9EFFF3E0B0D673"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "210BC8E59CCBADB6"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "316A194C5F356F50"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "5F058BE8D22D8931"
 				item: "biomesoplenty:goldenrod"
@@ -600,6 +1433,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "5FB504FC2F0A93B1"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "5C34D16A9BEEE971"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "3980ECFD95F36BFE"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "563F182DE43CE377"
 				item: "biomesoplenty:orange_cosmos"
@@ -612,6 +1462,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "212F720BED082F09"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "09107A85E3192C20"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "492B61A5918B870E"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "0A3E9E7C8EC6D809"
 				item: "biomesoplenty:pink_daffodil"
@@ -624,6 +1491,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "789E8A2F2E839823"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "58000E283B413459"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "08D7CB1A4E3CAACA"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "3FF05DD70C51BC05"
 				item: "biomesoplenty:pink_hibiscus"
@@ -636,6 +1520,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "10082BCA9BC2A258"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "4DB5D188A093327C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "61507D70C55033F0"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "2B12B7CA52365241"
 				item: "biomesoplenty:waterlily"
@@ -648,6 +1549,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "413269B30863E8DA"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "3338E75E1C0E7D5C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "1B639AC4C7895E3A"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "3A2CB7C0D9B0DD3B"
 				item: "biomesoplenty:white_petals"
@@ -660,6 +1578,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "07E6B1EE3C87BFBA"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "710DDE01BA51B80A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "29E3005371B3B894"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "55CA4FC2669A447F"
 				item: "biomesoplenty:icy_iris"
@@ -672,6 +1607,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "22168C4752E78255"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "2BAD37BA60169D34"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "26CF3969856996A7"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "2D30CEB36228674D"
 				item: "biomesoplenty:glowflower"
@@ -684,6 +1636,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "152EFC3738879BB4"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "78FF59696A36E6BE"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "53C2CFD0CD161E9F"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "2D195442F67F87BF"
 				item: "biomesoplenty:wilted_lily"
@@ -696,6 +1665,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "364D7D0840AA35AA"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "38B4F4EE5FC40C5D"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "36881C88CEBE491B"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "13B01C557AA49E52"
 				item: "biomesoplenty:burning_blossom"
@@ -708,6 +1694,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "71D9E4E4ED52D7E6"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "308BA017813535FA"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "2B0B27E284B7F66C"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "2F2DDB64A71C6BBB"
 				item: "biomesoplenty:cattail"
@@ -720,6 +1723,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "5CF386610E19E222"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "433274AFC7BAFAE5"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "45BDA28B02A0115E"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "09DCA73AB4B4D550"
 				item: "meadow:enzian"
@@ -732,6 +1752,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "40470BC938109AB6"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "1DF12C5F69A7B978"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "10D24F136506C803"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "115B54A6EED044B6"
 				item: "meadow:fire_lily"
@@ -744,6 +1781,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "7FDDC91547CCC951"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "720F3E5D7C9DA36D"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "6DBE34DDAAF00959"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "59C1039344083F7C"
 				item: "meadow:eriophorum"
@@ -756,6 +1810,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "2AF94A4E214247B7"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "0F206915B5D908AE"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "3F520C7D0DD7C331"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "22A3107A146D8F84"
 				item: "meadow:eriophorum_tall"
@@ -768,6 +1839,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "38AD33287133C75E"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "2B3172FF1E2020D6"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "40FE75A41BEA9822"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "4159CBEBC58D434B"
 				item: "meadow:alpine_poppy"
@@ -780,6 +1868,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "5BA5501A1DB04AC5"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "1DB9F9ABDC24CB6F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "552F6AEB9428C82F"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "715A7EFE95CBEC04"
 				item: "meadow:delphinium"
@@ -792,6 +1897,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "1FEA9C4BA6D08AA0"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "5C9B6CEC5B01D757"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "0CF518510E6D38DA"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "1A0C88DD39E342C2"
 				item: "meadow:saxifrage"
@@ -804,6 +1926,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "2A3B6512169895C5"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "634F8A3344FEDBE0"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "696D8FF1ED5099EE"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "294C6748F6AE30A5"
 				item: "minecraft:beetroot_seeds"
@@ -816,6 +1955,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "6F8028F064BB29FE"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "4F179E656C109A77"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "4108BBEB4EA1FE16"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "72584C46F2D698BC"
 				item: "minecraft:melon_slice"
@@ -828,6 +1984,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "4E34F495545EAEE3"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "56651182B06FE04D"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "5461A9F9CAB64C4E"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "4DA3D68A80220260"
 				item: "minecraft:pumpkin_seeds"
@@ -840,6 +2013,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "41CA2AAA6BA6981A"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "551240653EECD00F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "58D603C13F09CAE0"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "7520C23177270B8F"
 				item: "minecraft:torchflower_seeds"
@@ -852,6 +2042,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "6B19E0D9D9894931"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "162237FADC43A8CB"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "4D1E4299B541422B"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "41446F873C7E0741"
 				item: "minecraft:wheat_seeds"
@@ -864,6 +2071,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "0B92ACBFC5DA03FB"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "42110EC5FC3E0159"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "4FCD449506256ECC"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "3F023AC27FC914B6"
 				item: "minecraft:potato"
@@ -876,6 +2100,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "02F6CE1F1B1CF04E"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "2A199DD6624C64DD"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "75EA24EA2E4D6403"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "61989038FADC045A"
 				item: "minecraft:carrot"
@@ -888,6 +2129,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "67BDCFEB0922E814"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "76296C7D0ED0400A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "3B2179CCD3F39D79"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "7CC072F8881ECA42"
 				item: "bakery:oat_seeds"
@@ -900,6 +2158,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "76F1BB0AEF24410E"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "7ECF8D409D5DC6EF"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "5781F9678C4B2AB6"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "12BA73041381A1E0"
 				item: "bakery:strawberry_seeds"
@@ -912,6 +2187,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "46D567DE9AAD572B"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "213DAA3875121C1C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "0F214603C6662557"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "0B40B7D63BE2478A"
 				item: "candlelight:lettuce_seeds"
@@ -924,6 +2216,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "6993883D4B5E7BBB"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "198BC7548BE061D4"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "721B60285EE184A4"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "498EF684A73AE57C"
 				item: "candlelight:tomato_seeds"
@@ -936,6 +2245,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "002FE540D477E7E4"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "307A71505FAB7AE1"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "765A8D1BACCE8050"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "185D35A1B7CA56D9"
 				item: "supplementaries:flax_seeds"
@@ -948,6 +2274,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "69313A18A54335B5"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "461E6F22C5AB8FEC"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "48E645FEF708608C"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "43AB5332E606EC37"
 				item: "vinery:jungle_grape_seeds_red"
@@ -960,6 +2303,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "42AB19CCF5763144"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "56BE1F0210917F34"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "63243B7D8FFBC7D3"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "3219F2B825A2BF30"
 				item: "vinery:jungle_grape_seeds_white"
@@ -972,6 +2332,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "495BAAF005B19B1E"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "3EBF6D6292DF7235"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "4E809279DFE62D17"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "4A973FCED1F1A7DA"
 				item: "vinery:red_grape_seeds"
@@ -984,6 +2361,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "4F9DA97AA3358DA3"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "45E1C8855FBF9596"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "3412C1A7814E2E18"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "54BFA2F3A48A7E80"
 				item: "vinery:savanna_grape_seeds_red"
@@ -996,6 +2390,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "0F47894A6D13590C"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "47C2241A797E1164"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "52DD37461A1023F6"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "2A742B99C2825F12"
 				item: "vinery:savanna_grape_seeds_white"
@@ -1008,6 +2419,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "04AD6AD7F8268F51"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "6317C5D837843B72"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "24BB728C83818A05"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "7622AB023D285C37"
 				item: "vinery:taiga_grape_seeds_red"
@@ -1020,6 +2448,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "1B465A078DE95E01"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "347F805D827CDB21"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "30922DA5CDD4DF15"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "1D565DB7C3208BAA"
 				item: "vinery:taiga_grape_seeds_white"
@@ -1032,6 +2477,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "33D4A7645EA94952"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "2A9075713EB985F2"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "19361F27E6DC6339"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "213570945A2B0010"
 				item: "vinery:white_grape_seeds"
@@ -1044,6 +2506,23 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			hide: true
 			id: "4DF1A4BE62148D2B"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "657E2C342F622D2D"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "4F2ADB48E05AB485"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "1707E77551506FB5"
 				item: "minecraft:pumpkin"

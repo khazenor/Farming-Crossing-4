@@ -1,14 +1,14 @@
 
 {
 	auto: "no_toast"
-	command: "/scoreboard objectives add meals_cooked dummy {\"text\": \"Meals Cooked\"}"
+	command: "/scoreboard objectives add flora_collected dummy {\"text\": \"Flora Collected\"}"
 	id: "xxxidxxx"
 	silent: true
 	type: "command"
 }
 {
 	auto: "no_toast"
-	command: "/scoreboard players set @p meals_cooked 0"
+	command: "/scoreboard players set @p flora_collected 0"
 	id: "xxxidxxx"
 	silent: true
 	type: "command"
@@ -18,14 +18,14 @@ disable_toast: true
       rewards: [
 				{
 					auto: "no_toast"
-					command: "/scoreboard players add @p meals_cooked 1"
+					command: "/scoreboard players add @p flora_collected 1"
 					id: "xxxidxxx"
 					silent: true
 					type: "command"
 				}
 				{
 					auto: "no_toast"
-					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique dish(es)!\"}]"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "xxxidxxx"
 					silent: true
 					type: "command"

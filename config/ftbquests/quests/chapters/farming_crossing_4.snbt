@@ -1141,11 +1141,27 @@
 			hide: true
 			icon: "minecraft:cherry_sapling"
 			id: "0EABDA42EA87C46C"
-			rewards: [{
-				id: "1909F35E49E6CC38"
-				item: "minecraft:bundle"
-				type: "item"
-			}]
+			rewards: [
+				{
+					id: "1909F35E49E6CC38"
+					item: "minecraft:bundle"
+					type: "item"
+				}
+				{
+					auto: "no_toast"
+					command: "/scoreboard objectives add flora_collected dummy {\"text\": \"Flora Collected\"}"
+					id: "195C2431BB9CB5A9"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/scoreboard players set @p flora_collected 0"
+					id: "7804712B3F04829B"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "512D2BAECBD98AAE"
 				item: {
