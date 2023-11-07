@@ -608,17 +608,33 @@
 			hide: true
 			icon: "moa_decor_toys:conejodorado"
 			id: "2D62FBEF18E6ABF6"
-			rewards: [{
-				id: "01A4EA2D750DA262"
-				item: {
-					Count: 1b
-					id: "minecraft:shears"
-					tag: {
-						Damage: 0
+			rewards: [
+				{
+					id: "01A4EA2D750DA262"
+					item: {
+						Count: 1b
+						id: "minecraft:shears"
+						tag: {
+							Damage: 0
+						}
 					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					auto: "no_toast"
+					command: "/scoreboard objectives add animals_observed dummy {\"text\": \"Animals Observed\"}"
+					id: "4223BF5BD1A4E7EF"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/scoreboard players set @p animals_observed 0"
+					id: "0A1350400399CDE5"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_mimic_octopus"
 				id: "1AB8B8F4CD9EEDA8"
