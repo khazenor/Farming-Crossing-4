@@ -345,7 +345,6 @@
 				"2E3120C76F4ADE43"
 				"7546C3A01A6BF772"
 			]
-			hide: true
 			icon: "kubejs:cert_decocom_wood"
 			id: "79C7500CAA3A99A3"
 			min_required_dependencies: 10
@@ -700,7 +699,6 @@
 				"2E3120C76F4ADE43"
 				"7546C3A01A6BF772"
 			]
-			hide: true
 			icon: "kubejs:cert_decocom_stone"
 			id: "6762FFD6458747DE"
 			min_required_dependencies: 40
@@ -1055,7 +1053,6 @@
 				"2E3120C76F4ADE43"
 				"7546C3A01A6BF772"
 			]
-			hide: true
 			icon: "kubejs:cert_decocom_iron"
 			id: "1F961B590FBF4532"
 			min_required_dependencies: 95
@@ -1410,7 +1407,6 @@
 				"2E3120C76F4ADE43"
 				"7546C3A01A6BF772"
 			]
-			hide: true
 			icon: "kubejs:cert_decocom_gold"
 			id: "2CA1DF422552D48B"
 			rewards: [{
@@ -1764,7 +1760,6 @@
 				"2E3120C76F4ADE43"
 				"7546C3A01A6BF772"
 			]
-			hide: true
 			icon: "kubejs:cert_decocom_diamond"
 			id: "6045E2A7925B12D6"
 			min_required_dependencies: 78
@@ -1822,7 +1817,6 @@
 				"1ADB42F6FFEEEE7D"
 				"74677180DBB925E1"
 			]
-			hide: true
 			icon: "kubejs:cert_decorare_wood"
 			id: "293263143F2388DC"
 			min_required_dependencies: 1
@@ -1873,7 +1867,6 @@
 				"1ADB42F6FFEEEE7D"
 				"74677180DBB925E1"
 			]
-			hide: true
 			icon: "kubejs:cert_decorare_stone"
 			id: "1DECA2763F595B8C"
 			min_required_dependencies: 4
@@ -1924,7 +1917,6 @@
 				"1ADB42F6FFEEEE7D"
 				"74677180DBB925E1"
 			]
-			hide: true
 			icon: "kubejs:cert_decorare_iron"
 			id: "13A0B3991E1D7B30"
 			min_required_dependencies: 9
@@ -1975,7 +1967,6 @@
 				"1ADB42F6FFEEEE7D"
 				"74677180DBB925E1"
 			]
-			hide: true
 			icon: "kubejs:cert_decorare_gold"
 			id: "20A4454D7B82DAAE"
 			min_required_dependencies: 17
@@ -2026,7 +2017,6 @@
 				"1ADB42F6FFEEEE7D"
 				"74677180DBB925E1"
 			]
-			hide: true
 			icon: "kubejs:cert_decorare_diamond"
 			id: "6504E88965D8ED4F"
 			rewards: [
@@ -2292,7 +2282,6 @@
 				"34EC2020E76FD45E"
 				"75FC66507F7C012D"
 			]
-			hide: true
 			icon: "kubejs:cert_hat_wood"
 			id: "644B450087A604E7"
 			min_required_dependencies: 5
@@ -2552,7 +2541,6 @@
 				"34EC2020E76FD45E"
 				"75FC66507F7C012D"
 			]
-			hide: true
 			icon: "kubejs:cert_hat_stone"
 			id: "21EE2673C216F66B"
 			min_required_dependencies: 25
@@ -2812,7 +2800,6 @@
 				"34EC2020E76FD45E"
 				"75FC66507F7C012D"
 			]
-			hide: true
 			icon: "kubejs:cert_hat_iron"
 			id: "2DD8168BA32AEEBE"
 			min_required_dependencies: 60
@@ -3072,7 +3059,6 @@
 				"34EC2020E76FD45E"
 				"75FC66507F7C012D"
 			]
-			hide: true
 			icon: "kubejs:cert_hat_gold"
 			id: "0B1567BF81B96A20"
 			min_required_dependencies: 125
@@ -3332,7 +3318,6 @@
 				"34EC2020E76FD45E"
 				"75FC66507F7C012D"
 			]
-			hide: true
 			icon: "kubejs:cert_hat_diamond"
 			id: "7BDD6ECB0A37435D"
 			rewards: [
@@ -3475,7 +3460,6 @@
 				"1F0D03EA0ECD7416"
 				"2744788F8DAD7ED8"
 			]
-			hide: true
 			icon: "kubejs:cert_ani_wood"
 			id: "394A6E4A27A64754"
 			min_required_dependencies: 5
@@ -3619,7 +3603,6 @@
 				"1F0D03EA0ECD7416"
 				"2744788F8DAD7ED8"
 			]
-			hide: true
 			icon: "kubejs:cert_ani_stone"
 			id: "57C45C9423BEC2AB"
 			min_required_dependencies: 17
@@ -3756,7 +3739,6 @@
 				"1F0D03EA0ECD7416"
 				"2744788F8DAD7ED8"
 			]
-			hide: true
 			icon: "kubejs:cert_ani_iron"
 			id: "6536E3C16A4477CA"
 			min_required_dependencies: 38
@@ -3893,7 +3875,6 @@
 				"1F0D03EA0ECD7416"
 				"2744788F8DAD7ED8"
 			]
-			hide: true
 			icon: "kubejs:cert_ani_gold"
 			id: "1D14E2615748F241"
 			min_required_dependencies: 70
@@ -4030,7 +4011,6 @@
 				"1F0D03EA0ECD7416"
 				"2744788F8DAD7ED8"
 			]
-			hide: true
 			icon: "kubejs:cert_ani_diamond"
 			id: "3CEA5D939800DB04"
 			rewards: [
@@ -4094,7 +4074,6 @@
 				"000000000000003C"
 				"000000000000003E"
 			]
-			hide: true
 			icon: "kubejs:cert_fish_wood"
 			id: "42A6B7DAE4A318FF"
 			min_required_dependencies: 4
@@ -4152,7 +4131,6 @@
 				"000000000000003C"
 				"000000000000003E"
 			]
-			hide: true
 			icon: "kubejs:cert_fish_stone"
 			id: "644E5A71CE6B9B86"
 			min_required_dependencies: 9
@@ -4210,7 +4188,6 @@
 				"000000000000003C"
 				"000000000000003E"
 			]
-			hide: true
 			icon: "kubejs:cert_fish_iron"
 			id: "0E21E1B6579C2654"
 			min_required_dependencies: 16
@@ -4268,7 +4245,6 @@
 				"000000000000003C"
 				"000000000000003E"
 			]
-			hide: true
 			icon: "kubejs:cert_fish_gold"
 			id: "53F562C912D08A93"
 			min_required_dependencies: 26
@@ -4326,7 +4302,6 @@
 				"000000000000003C"
 				"000000000000003E"
 			]
-			hide: true
 			icon: "kubejs:cert_fish_diamond"
 			id: "0BF0719FFEE2625B"
 			rewards: [
@@ -4475,7 +4450,6 @@
 				"65E2079D254B9DC8"
 				"6A0D708CAFB62BCA"
 			]
-			hide: true
 			icon: "kubejs:cert_cook_wood"
 			id: "28929EA4688DAE01"
 			min_required_dependencies: 6
@@ -4618,7 +4592,6 @@
 				"65E2079D254B9DC8"
 				"6A0D708CAFB62BCA"
 			]
-			hide: true
 			icon: "kubejs:cert_cook_stone"
 			id: "38B29892DC5F37B4"
 			min_required_dependencies: 18
@@ -4761,7 +4734,6 @@
 				"65E2079D254B9DC8"
 				"6A0D708CAFB62BCA"
 			]
-			hide: true
 			icon: "kubejs:cert_cook_iron"
 			id: "301B80FC19D8275F"
 			min_required_dependencies: 38
@@ -4904,7 +4876,6 @@
 				"65E2079D254B9DC8"
 				"6A0D708CAFB62BCA"
 			]
-			hide: true
 			icon: "kubejs:cert_cook_gold"
 			id: "6AD916B3696371F9"
 			min_required_dependencies: 70
@@ -5047,7 +5018,6 @@
 				"65E2079D254B9DC8"
 				"6A0D708CAFB62BCA"
 			]
-			hide: true
 			icon: "kubejs:cert_cook_diamond"
 			id: "03F8AEC136D9FB6F"
 			rewards: [
@@ -5161,7 +5131,6 @@
 				"002FE540D477E7E4"
 				"6DFC2388D82590AC"
 			]
-			hide: true
 			icon: "kubejs:cert_flora_wood"
 			id: "6D8805BD42E75126"
 			min_required_dependencies: 4
@@ -5276,7 +5245,6 @@
 				"002FE540D477E7E4"
 				"6DFC2388D82590AC"
 			]
-			hide: true
 			icon: "kubejs:cert_flora_stone"
 			id: "2C062B4C1CE51E3F"
 			min_required_dependencies: 12
@@ -5384,7 +5352,6 @@
 				"002FE540D477E7E4"
 				"6DFC2388D82590AC"
 			]
-			hide: true
 			icon: "kubejs:cert_flora_iron"
 			id: "38BAD5B76DEBBE27"
 			min_required_dependencies: 27
@@ -5492,7 +5459,6 @@
 				"002FE540D477E7E4"
 				"6DFC2388D82590AC"
 			]
-			hide: true
 			icon: "kubejs:cert_flora_gold"
 			id: "0F79BB3F909CC9E9"
 			min_required_dependencies: 51
@@ -5600,7 +5566,6 @@
 				"002FE540D477E7E4"
 				"6DFC2388D82590AC"
 			]
-			hide: true
 			icon: "kubejs:cert_flora_diamond"
 			id: "2087C7B8A5387A9C"
 			rewards: [
