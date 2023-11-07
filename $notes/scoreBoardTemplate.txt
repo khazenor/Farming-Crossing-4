@@ -1,14 +1,14 @@
 
 {
 	auto: "no_toast"
-	command: "/scoreboard objectives add rare_decoration dummy {\"text\": \"Rare Decoration Purchased\"}"
+	command: "/scoreboard objectives add hat_collected dummy {\"text\": \"Hat Collected\"}"
 	id: "xxxidxxx"
 	silent: true
 	type: "command"
 }
 {
 	auto: "no_toast"
-	command: "/scoreboard players set @p rare_decoration 0"
+	command: "/scoreboard players set @p hat_collected 0"
 	id: "xxxidxxx"
 	silent: true
 	type: "command"
@@ -18,14 +18,14 @@ disable_toast: true
       rewards: [
 				{
 					auto: "no_toast"
-					command: "/scoreboard players add @p rare_decoration 1"
+					command: "/scoreboard players add @p hat_collected 1"
 					id: "xxxidxxx"
 					silent: true
 					type: "command"
 				}
 				{
 					auto: "no_toast"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "xxxidxxx"
 					silent: true
 					type: "command"

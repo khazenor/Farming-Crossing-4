@@ -528,6 +528,20 @@
 					silent: true
 					type: "command"
 				}
+				{
+					auto: "no_toast"
+					command: "/scoreboard objectives add hat_collected dummy {\"text\": \"Hat Collected\"}"
+					id: "375D719D60B86FB6"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/scoreboard players set @p hat_collected 0"
+					id: "2A43EE15214CB6F6"
+					silent: true
+					type: "command"
+				}
 			]
 			tasks: [{
 				id: "095F05B96F9B7B74"
@@ -1223,6 +1237,32 @@
 			title: "Collecting Flora"
 			x: 0.5d
 			y: -2.5d
+		}
+		{
+			can_repeat: true
+			dependencies: [
+				"0EABDA42EA87C46C"
+				"7DA124C26F220448"
+				"2D62FBEF18E6ABF6"
+				"57BAA8B414FF1F4F"
+				"51AC164BB0124EBA"
+			]
+			dependency_requirement: "one_completed"
+			description: ["Use this repeatable quest to view your progress on each of the collectible categories!"]
+			hide: true
+			id: "11CD059C9CDB657E"
+			rewards: [{
+				command: "/scoreboard players list @p"
+				id: "20088F80BE366761"
+				type: "command"
+			}]
+			tasks: [{
+				id: "4F1BA30030E21FC2"
+				title: "View Collection Progress"
+				type: "checkmark"
+			}]
+			x: 3.5d
+			y: -1.5d
 		}
 	]
 	title: "Farming Crossing 4"
