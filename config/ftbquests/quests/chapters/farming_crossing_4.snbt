@@ -74,6 +74,20 @@
 					item: "minecraft:sugar_cane"
 					type: "item"
 				}
+				{
+					auto: "no_toast"
+					command: "/scoreboard objectives add meals_cooked dummy {\"text\": \"Meals Cooked\"}"
+					id: "61E3655236FD69AF"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/scoreboard players set @p meals_cooked 0"
+					id: "76209B45DC479F94"
+					silent: true
+					type: "command"
+				}
 			]
 			tasks: [{
 				id: "3BE140032757C3C5"
