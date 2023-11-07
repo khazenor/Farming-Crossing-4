@@ -514,6 +514,20 @@
 					silent: true
 					type: "command"
 				}
+				{
+					auto: "no_toast"
+					command: "/scoreboard objectives add rare_decoration dummy {\"text\": \"Rare Decoration Purchased\"}"
+					id: "26645326E412E720"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/scoreboard players set @p rare_decoration 0"
+					id: "7E0E91D6390CCA52"
+					silent: true
+					type: "command"
+				}
 			]
 			tasks: [{
 				id: "095F05B96F9B7B74"

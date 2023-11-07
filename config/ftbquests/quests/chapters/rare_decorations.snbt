@@ -12,6 +12,23 @@
 			dependencies: ["7DA124C26F220448"]
 			hide: true
 			id: "63E76DF0009F4FAD"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "375D719D60B86FB6"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "2A43EE15214CB6F6"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "2A7BBD43CB45C9B6"
 				item: "moa_decor_art:esculturabuda"
@@ -24,6 +41,23 @@
 			dependencies: ["7DA124C26F220448"]
 			hide: true
 			id: "1F1B9DE7AC2CDA3D"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "4C9C713B3F14E2B9"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "61FA802C2D678AC8"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "1669FA1F0F76902C"
 				item: "moa_decor_art:esculturachacmool"
@@ -36,6 +70,23 @@
 			dependencies: ["7DA124C26F220448"]
 			hide: true
 			id: "080E06114495234C"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "60941D81CE399A51"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "07F5BFEB45F34ABA"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "4AF359BE7564C30E"
 				item: "moa_decor_art:esculturadragonchino"
@@ -48,6 +99,23 @@
 			dependencies: ["7DA124C26F220448"]
 			hide: true
 			id: "74677180DBB925E1"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "4DBD3B13590C0960"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "6B2316DB6F609DCF"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "1A74E10C132613ED"
 				item: "moa_decor_art:esculturaeldavid"
@@ -60,6 +128,23 @@
 			dependencies: ["7DA124C26F220448"]
 			hide: true
 			id: "7A08BF49DAE900EB"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "643C18E23ABBB374"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "7B3E7D03A786091F"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "7A5D28FF7F2F8F16"
 				item: "moa_decor_art:esculturaeldiscobolo"
@@ -72,6 +157,23 @@
 			dependencies: ["7DA124C26F220448"]
 			hide: true
 			id: "6EFDFA40A927DA64"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "3B25098A92F95B36"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "37D38249B35E9B16"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "7C90CCDB97D97E74"
 				item: "moa_decor_art:esculturaelpensador"
@@ -84,6 +186,23 @@
 			dependencies: ["7DA124C26F220448"]
 			hide: true
 			id: "502585DE98E9C746"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "7252F8A345C4E6BF"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "544645E541FCD7B3"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "05CD3CDC4AD47633"
 				item: "moa_decor_art:esculturajesuscrucificado"
@@ -96,6 +215,23 @@
 			dependencies: ["7DA124C26F220448"]
 			hide: true
 			id: "1F0AFE84F64FFD54"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "7F65026F21EB27FC"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "3DB9BD7BA62D172A"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "435FB98F881C9F26"
 				item: "moa_decor_art:esculturalavictoriodesamotracia"
@@ -108,6 +244,23 @@
 			dependencies: ["7DA124C26F220448"]
 			hide: true
 			id: "6A64ECA14DC127C7"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "214FB270DF5AC613"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "0E495780507DCE1E"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "605BC4C66E70BAA5"
 				item: "moa_decor_art:esculturamujerconjarra"
@@ -120,6 +273,23 @@
 			dependencies: ["7DA124C26F220448"]
 			hide: true
 			id: "6EE7F44E34C8C09A"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "6695B1F585DCCB2B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "5299056359652F54"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "33C5D73212E9ADFD"
 				item: "moa_decor_art:esculturavenusdemilo"
@@ -132,6 +302,23 @@
 			dependencies: ["7DA124C26F220448"]
 			hide: true
 			id: "62821E070CBD8312"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "59E4C94538C57A7C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "0C2DD631B5D6299A"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "37FAF35B6F9AC1E0"
 				item: "moa_decor_art:premiooscar"
@@ -144,6 +331,23 @@
 			dependencies: ["7DA124C26F220448"]
 			hide: true
 			id: "22F6405431B17B3B"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "43E6866A5E425EA4"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "427B88F6AE58DAB4"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "1BCB3502ED1EE9DC"
 				item: "moa_decor_art:pelgrito"
@@ -156,6 +360,23 @@
 			dependencies: ["7DA124C26F220448"]
 			hide: true
 			id: "0809A9237F05205A"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "09C63B11D6D06389"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "3A7821EF01036370"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "5513BF4B781C4974"
 				item: "moa_decor_art:pgoticoestadounidense"
@@ -168,6 +389,23 @@
 			dependencies: ["7DA124C26F220448"]
 			hide: true
 			id: "23E18DF66D72C690"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "7439E5FFAE39BF30"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "54600339757E5A61"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "1E0BF4C37E9379B5"
 				item: "moa_decor_art:plajovendelaperla"
@@ -180,6 +418,23 @@
 			dependencies: ["7DA124C26F220448"]
 			hide: true
 			id: "384A5D41F300A0BC"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "47DA720423762508"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "7A90C6BAC3A6011B"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "4A4BEBFF0FBA7863"
 				item: "moa_decor_art:planocheestrellada"
@@ -192,6 +447,23 @@
 			dependencies: ["7DA124C26F220448"]
 			hide: true
 			id: "0E54B87EA3337D21"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "694ADD08AF53C992"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "64AD2722A599E820"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "7BFD8A1CE49A99F8"
 				item: "moa_decor_art:plamonalisa"
@@ -204,6 +476,23 @@
 			dependencies: ["7DA124C26F220448"]
 			hide: true
 			id: "69CD2E4184EEF711"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "2EE5A3197610EBBD"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "1D8B7C97CB57C008"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "2D494535BFAC7511"
 				item: "moa_decor_art:pserenatamexicana"
@@ -216,6 +505,23 @@
 			dependencies: ["7DA124C26F220448"]
 			hide: true
 			id: "7FC1CFCAF17BC8EE"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "0A798F4965909F94"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "392174A5D28DE0E4"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "47AE3DEA95E74FD3"
 				item: "moa_decor_art:premiogrammy"
@@ -228,6 +534,23 @@
 			dependencies: ["7DA124C26F220448"]
 			hide: true
 			id: "1ADB42F6FFEEEE7D"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "70CB8D59A3AFB0F9"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "1BAA6D6327186E8A"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "69D7D821DDED0913"
 				item: "moa_decor_art:pianodecola"
@@ -240,6 +563,23 @@
 			dependencies: ["7DA124C26F220448"]
 			hide: true
 			id: "07BD2E9F50B23F01"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "72684F34FC2E1BAB"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "7F7B26064926F3E0"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "57FE86A87FDDEA2C"
 				item: "moa_decor_art:fonografo"
@@ -252,6 +592,23 @@
 			dependencies: ["7DA124C26F220448"]
 			hide: true
 			id: "261CC110652A68E2"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "625077727CA1BD83"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "08698A5B5E3B20C6"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "27CF38A1D6747EB6"
 				item: "moa_decor_art:maquinadediscos"
@@ -264,6 +621,23 @@
 			dependencies: ["7DA124C26F220448"]
 			hide: true
 			id: "1E5AD04F7E99FDF4"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "36723B8F150E24A2"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "79774DE47E412623"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "6B5849B3482241C2"
 				item: "moa_decor_holidays:olladeoro"
@@ -276,6 +650,23 @@
 			dependencies: ["7DA124C26F220448"]
 			hide: true
 			id: "2443AADE1565FDEB"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "3ABFBC47C8FFDD2E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "41679A6ADC8362DE"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "73F4E1465808A14F"
 				item: "moa_decor_holidays:trineo"
@@ -288,6 +679,23 @@
 			dependencies: ["7DA124C26F220448"]
 			hide: true
 			id: "57FFE612A60C7125"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "41731536E0C3B77C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "5F47001E134EDB2F"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "79885A729FCD43BE"
 				item: "handcrafted:creeper_trophy"
@@ -300,6 +708,23 @@
 			dependencies: ["7DA124C26F220448"]
 			hide: true
 			id: "3536160081F124BA"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "4C70A905DF31FF4C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "761528BF5F60DCB4"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "3E4A825A098EBD3A"
 				item: "handcrafted:skeleton_trophy"
@@ -312,6 +737,23 @@
 			dependencies: ["7DA124C26F220448"]
 			hide: true
 			id: "2AD4E1B8051C38F9"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "2AA84EC1E7219171"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "73392AE205E273F0"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "5E146E75F8C78565"
 				item: "handcrafted:vindicator_trophy"
@@ -324,6 +766,23 @@
 			dependencies: ["7DA124C26F220448"]
 			hide: true
 			id: "54F4965D87C8F5C7"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "635021664D53471E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "0B7E407337402404"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "01B2F2DA8D0673ED"
 				item: "handcrafted:witch_trophy"
@@ -336,6 +795,23 @@
 			dependencies: ["7DA124C26F220448"]
 			hide: true
 			id: "00B3C432B1405102"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "1F41671479382829"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "581525FE42B135F7"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "740546112B326685"
 				item: "handcrafted:phantom_trophy"
@@ -348,6 +824,23 @@
 			dependencies: ["7DA124C26F220448"]
 			hide: true
 			id: "6805093097577877"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "5D889E18338F9F5A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "7E9C4A4B44602EEE"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "7F1DC630976544B6"
 				item: "handcrafted:pillager_trophy"
@@ -360,6 +853,23 @@
 			dependencies: ["7DA124C26F220448"]
 			hide: true
 			id: "263F670B1DBAF786"
+			disable_toast: true
+      rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "74E27C3B27B66572"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "32B824330C7B2A9A"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "5E19E866B0F0DAAB"
 				item: "handcrafted:evoker_trophy"
