@@ -121,13 +121,13 @@ villagerTrades = {
     "candlelight:cooked_beef",
     "candlelight:bolognese",
     "candlelight:chicken_alfredo",
-    "candlelight:broccoli_beef",
+    "candlelight:lettuce_beef",
     "candlelight:pasta_bolognese",
-    "candlelight:pasta_broccoli",
+    "candlelight:pasta_lettuce",
     "candlelight:tomato_mozzarella_salad",
     "candlelight:veggie_plate",
-    "candlelight:broccoli_tomato",
-    "candlelight:broccoli_salad",
+    "candlelight:lettuce_tomato",
+    "candlelight:lettuce_salad",
     "candlelight:beef_tartare",
     "candlelight:beetroot_salad"
   ]
