@@ -69,10 +69,17 @@
 			icon: "moa_decor_garden_:casa_p_roble"
 			id: "38597CE6BB709431"
 			tasks: [{
-				id: "3B45FE22CE8773D9"
-				stat: "minecraft:walk_one_cm"
-				type: "stat"
-				value: 30
+				count: 16L
+				id: "356D013846BD6115"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "minecraft:logs"
+					}
+				}
+				title: "Any #minecraft:logs"
+				type: "item"
 			}]
 			title: "Info: Useful Commands"
 			x: 2.5d
@@ -104,10 +111,7 @@
 			y: -5.5d
 		}
 		{
-			dependencies: [
-				"31699B0FED6F83E6"
-				"5B148A34AA5E9BD5"
-			]
+			dependencies: ["31699B0FED6F83E6"]
 			description: [
 				"FramedBlocks adds blocks of various shapes that can be made to look like almost any other block in the game."
 				""
@@ -800,6 +804,7 @@
 			y: -0.5d
 		}
 		{
+			dependencies: ["13B69AD71A01ED3F"]
 			description: [
 				"Handcrafted furnitures can be customized by right clicking with sheets and cushions."
 				""
