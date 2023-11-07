@@ -10,10 +10,10 @@
 	quests: [
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "4B06A2E5963F65FE"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -39,10 +39,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "2B3D84C5297A5B1A"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -68,10 +68,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "66783EC70CC8F1B2"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -97,10 +97,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "177F9FC08A93D588"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -126,10 +126,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "2AEAF968FDDDD219"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -155,10 +155,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "6A8430BF514192E5"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -184,10 +184,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "6DFC2388D82590AC"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -213,10 +213,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "6B7737AE5962F434"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -242,10 +242,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "0E74AFC41934516C"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -271,10 +271,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "783BCDEDD8A796B1"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -300,10 +300,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "295C986A5701D4D1"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -329,10 +329,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "0192B9CEBEEFFD51"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -358,10 +358,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "57F0A9F3C4BD821C"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -387,10 +387,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "130F6E411F0553D7"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -416,10 +416,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "38536FCA89129906"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -445,10 +445,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "51F98B45CC9CB5F0"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -474,10 +474,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "061DFAE291106AA4"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -503,10 +503,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "62075DA7A06B46D4"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -532,10 +532,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "1EA8C058BC90A11A"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -561,10 +561,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "0432906EDF13F7AE"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -590,10 +590,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "74432FDDC7A43EB1"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -619,10 +619,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "01039BEE9C443F44"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -648,10 +648,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "14923E6F16BFB0F5"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -677,10 +677,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "73B67F6594B5D135"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -706,10 +706,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "62EAB361A186CFBB"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -735,10 +735,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "70992E617941F9ED"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -764,10 +764,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "0DCA8577B5138CCE"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -793,10 +793,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "1157A27ECD8456B9"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -822,10 +822,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "572B24037DA8D9A1"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -851,10 +851,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "56C177020392056E"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -880,10 +880,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "284455841F0D4161"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -909,10 +909,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "1786F53376FCDD84"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -938,10 +938,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "5D696F946046E000"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -967,10 +967,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "6B9C0A4540043324"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -996,10 +996,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "422096E795E9F356"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -1025,10 +1025,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "36CF329C633B854A"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -1054,10 +1054,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "5DA6682FDB76CAC5"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -1083,10 +1083,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "66972D13BF52C4E3"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -1112,10 +1112,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "57DB5C4DA1C832C4"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -1141,10 +1141,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "55240FF5E6D766FD"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -1170,10 +1170,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "0DF144954783DFFF"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -1199,10 +1199,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "1DDADB41C7BE7A61"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -1228,10 +1228,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "4BF637FCE1D35228"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -1257,10 +1257,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "27589721E704D6FA"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -1286,10 +1286,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "2F545825EA03CF14"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -1315,10 +1315,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "202968222EB96FF8"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -1344,10 +1344,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "18D3728148EA5763"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -1373,10 +1373,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "166252E0676BB34D"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -1402,10 +1402,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "1D9EFFF3E0B0D673"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -1431,10 +1431,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "5FB504FC2F0A93B1"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -1460,10 +1460,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "212F720BED082F09"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -1489,10 +1489,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "789E8A2F2E839823"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -1518,10 +1518,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "10082BCA9BC2A258"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -1547,10 +1547,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "413269B30863E8DA"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -1576,10 +1576,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "07E6B1EE3C87BFBA"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -1605,10 +1605,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "22168C4752E78255"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -1634,10 +1634,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "152EFC3738879BB4"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -1663,10 +1663,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "364D7D0840AA35AA"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -1692,10 +1692,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "71D9E4E4ED52D7E6"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -1721,10 +1721,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "5CF386610E19E222"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -1750,10 +1750,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "40470BC938109AB6"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -1779,10 +1779,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "7FDDC91547CCC951"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -1808,10 +1808,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "2AF94A4E214247B7"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -1837,10 +1837,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "38AD33287133C75E"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -1866,10 +1866,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "5BA5501A1DB04AC5"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -1895,10 +1895,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "1FEA9C4BA6D08AA0"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -1924,10 +1924,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "2A3B6512169895C5"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -1953,10 +1953,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "6F8028F064BB29FE"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -1982,10 +1982,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "4E34F495545EAEE3"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -2011,10 +2011,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "41CA2AAA6BA6981A"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -2040,10 +2040,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "6B19E0D9D9894931"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -2069,10 +2069,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "0B92ACBFC5DA03FB"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -2098,10 +2098,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "02F6CE1F1B1CF04E"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -2127,10 +2127,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "67BDCFEB0922E814"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -2156,10 +2156,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "76F1BB0AEF24410E"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -2185,10 +2185,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "46D567DE9AAD572B"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -2214,10 +2214,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "6993883D4B5E7BBB"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -2243,10 +2243,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "002FE540D477E7E4"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -2272,10 +2272,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "69313A18A54335B5"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -2301,10 +2301,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "42AB19CCF5763144"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -2330,10 +2330,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "495BAAF005B19B1E"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -2359,10 +2359,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "4F9DA97AA3358DA3"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -2388,10 +2388,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "0F47894A6D13590C"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -2417,10 +2417,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "04AD6AD7F8268F51"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -2446,10 +2446,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "1B465A078DE95E01"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -2475,10 +2475,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "33D4A7645EA94952"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"
@@ -2504,10 +2504,10 @@
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
 			hide: true
 			id: "4DF1A4BE62148D2B"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p flora_collected 1"

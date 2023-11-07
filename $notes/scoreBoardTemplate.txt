@@ -1,14 +1,14 @@
 
 {
 	auto: "no_toast"
-	command: "/scoreboard objectives add fishes_caught dummy {\"text\": \"Fishes Caught\"}"
+	command: "/scoreboard objectives add common_decoration dummy {\"text\": \"Common Decoration Purchased\"}"
 	id: "xxxidxxx"
 	silent: true
 	type: "command"
 }
 {
 	auto: "no_toast"
-	command: "/scoreboard players set @p fishes_caught 0"
+	command: "/scoreboard players set @p common_decoration 0"
 	id: "xxxidxxx"
 	silent: true
 	type: "command"
@@ -18,14 +18,14 @@ disable_toast: true
       rewards: [
 				{
 					auto: "no_toast"
-					command: "/scoreboard players add @p fishes_caught 1"
+					command: "/scoreboard players add @p common_decoration 1"
 					id: "xxxidxxx"
 					silent: true
 					type: "command"
 				}
 				{
 					auto: "no_toast"
-					command: "/tellraw @p [\"\",{\"text\":\"You've caught a new fish! You have now caught \"},{\"score\":{\"name\":\"@p\",\"objective\":\"fishes_caught\"}},{\"text\":\" unique fish(es)!\"}]"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
 					id: "xxxidxxx"
 					silent: true
 					type: "command"

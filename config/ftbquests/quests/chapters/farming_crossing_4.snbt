@@ -485,20 +485,36 @@
 			hide: true
 			icon: "moa_decor_science:libros"
 			id: "7DA124C26F220448"
-			rewards: [{
-				id: "5CF6A3AA210353A2"
-				item: {
-					Count: 1b
-					id: "lootbags:loot_bag"
-					tag: {
-						Color: 13882323
-						Loot: "lootbags:furniture/loot_furniture"
-						Name: "Furniture Kit"
-						Type: "COMMON"
+			rewards: [
+				{
+					id: "5CF6A3AA210353A2"
+					item: {
+						Count: 1b
+						id: "lootbags:loot_bag"
+						tag: {
+							Color: 13882323
+							Loot: "lootbags:furniture/loot_furniture"
+							Name: "Furniture Kit"
+							Type: "COMMON"
+						}
 					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					auto: "no_toast"
+					command: "/scoreboard objectives add common_decoration dummy {\"text\": \"Common Decoration Purchased\"}"
+					id: "4AABC31590798D31"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/scoreboard players set @p common_decoration 0"
+					id: "26651F58DD1EB771"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "095F05B96F9B7B74"
 				item: {

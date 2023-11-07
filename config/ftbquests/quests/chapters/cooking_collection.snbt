@@ -10,10 +10,10 @@
 	quests: [
 		{
 			dependencies: ["57BAA8B414FF1F4F"]
+			disable_toast: true
 			hide: true
 			id: "6EF22AC33B4F8CB3"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -39,10 +39,10 @@
 		}
 		{
 			dependencies: ["57BAA8B414FF1F4F"]
+			disable_toast: true
 			hide: true
 			id: "6D26D42BE37F844D"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -68,10 +68,10 @@
 		}
 		{
 			dependencies: ["57BAA8B414FF1F4F"]
+			disable_toast: true
 			hide: true
 			id: "5F04C7419ED8096B"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -97,10 +97,10 @@
 		}
 		{
 			dependencies: ["57BAA8B414FF1F4F"]
+			disable_toast: true
 			hide: true
 			id: "3D32EB221432B581"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -126,10 +126,10 @@
 		}
 		{
 			dependencies: ["57BAA8B414FF1F4F"]
+			disable_toast: true
 			hide: true
 			id: "0D2F4B4BD794FD92"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -155,10 +155,10 @@
 		}
 		{
 			dependencies: ["57BAA8B414FF1F4F"]
+			disable_toast: true
 			hide: true
 			id: "4CB92665F2121732"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -184,10 +184,10 @@
 		}
 		{
 			dependencies: ["57BAA8B414FF1F4F"]
+			disable_toast: true
 			hide: true
 			id: "038D2C1CF1F5538F"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -213,10 +213,10 @@
 		}
 		{
 			dependencies: ["57BAA8B414FF1F4F"]
+			disable_toast: true
 			hide: true
 			id: "2F0C9CF6CE06112F"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -242,10 +242,10 @@
 		}
 		{
 			dependencies: ["57BAA8B414FF1F4F"]
+			disable_toast: true
 			hide: true
 			id: "412B56D3034D5859"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -271,10 +271,10 @@
 		}
 		{
 			dependencies: ["57BAA8B414FF1F4F"]
+			disable_toast: true
 			hide: true
 			id: "1BEF0646DA6B24A6"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -335,10 +335,10 @@
 		}
 		{
 			dependencies: ["57BAA8B414FF1F4F"]
+			disable_toast: true
 			hide: true
 			id: "5ADEC65A7C0C5063"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -364,10 +364,10 @@
 		}
 		{
 			dependencies: ["57BAA8B414FF1F4F"]
+			disable_toast: true
 			hide: true
 			id: "4C62746A531C5122"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -393,10 +393,10 @@
 		}
 		{
 			dependencies: ["57BAA8B414FF1F4F"]
+			disable_toast: true
 			hide: true
 			id: "4E63C512C8B257F3"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -422,10 +422,10 @@
 		}
 		{
 			dependencies: ["57BAA8B414FF1F4F"]
+			disable_toast: true
 			hide: true
 			id: "45407544C413300B"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -451,10 +451,10 @@
 		}
 		{
 			dependencies: ["57BAA8B414FF1F4F"]
+			disable_toast: true
 			hide: true
 			id: "4D1E12F8392A91ED"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -480,10 +480,10 @@
 		}
 		{
 			dependencies: ["57BAA8B414FF1F4F"]
+			disable_toast: true
 			hide: true
 			id: "50C0E676269B8A95"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -509,10 +509,10 @@
 		}
 		{
 			dependencies: ["13B67DDBCF1019AB"]
+			disable_toast: true
 			hide: true
 			id: "59271559596EF79B"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -538,10 +538,10 @@
 		}
 		{
 			dependencies: ["13B67DDBCF1019AB"]
+			disable_toast: true
 			hide: true
 			id: "1909FF9F6E6FDDF7"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -567,10 +567,10 @@
 		}
 		{
 			dependencies: ["13B67DDBCF1019AB"]
+			disable_toast: true
 			hide: true
 			id: "383F3884F961C075"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -596,10 +596,10 @@
 		}
 		{
 			dependencies: ["13B67DDBCF1019AB"]
+			disable_toast: true
 			hide: true
 			id: "160DC0AF49FFCBAA"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -625,10 +625,10 @@
 		}
 		{
 			dependencies: ["13B67DDBCF1019AB"]
+			disable_toast: true
 			hide: true
 			id: "41810EB5D9E58B3D"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -654,10 +654,10 @@
 		}
 		{
 			dependencies: ["13B67DDBCF1019AB"]
+			disable_toast: true
 			hide: true
 			id: "6D8CFACE00226E00"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -683,10 +683,10 @@
 		}
 		{
 			dependencies: ["13B67DDBCF1019AB"]
+			disable_toast: true
 			hide: true
 			id: "6ED2C4ECAECA201E"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -739,10 +739,10 @@
 		}
 		{
 			dependencies: ["13B67DDBCF1019AB"]
+			disable_toast: true
 			hide: true
 			id: "72EA49B5A728C70F"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -768,10 +768,10 @@
 		}
 		{
 			dependencies: ["5E93B9E15372F454"]
+			disable_toast: true
 			hide: true
 			id: "5F6A62C50E65F788"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -797,10 +797,10 @@
 		}
 		{
 			dependencies: ["5E93B9E15372F454"]
+			disable_toast: true
 			hide: true
 			id: "5F4A14AC398665A6"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -826,10 +826,10 @@
 		}
 		{
 			dependencies: ["5E93B9E15372F454"]
+			disable_toast: true
 			hide: true
 			id: "5182746F9669B51F"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -855,10 +855,10 @@
 		}
 		{
 			dependencies: ["5E93B9E15372F454"]
+			disable_toast: true
 			hide: true
 			id: "1EF957C82621629F"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -884,10 +884,10 @@
 		}
 		{
 			dependencies: ["5E93B9E15372F454"]
+			disable_toast: true
 			hide: true
 			id: "762F745D0D062226"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -913,10 +913,10 @@
 		}
 		{
 			dependencies: ["5E93B9E15372F454"]
+			disable_toast: true
 			hide: true
 			id: "42FC64AB84D57C0E"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -942,10 +942,10 @@
 		}
 		{
 			dependencies: ["5E93B9E15372F454"]
+			disable_toast: true
 			hide: true
 			id: "54CCF04016BC1198"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -971,10 +971,10 @@
 		}
 		{
 			dependencies: ["5E93B9E15372F454"]
+			disable_toast: true
 			hide: true
 			id: "701D756D567DC7AC"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -1000,10 +1000,10 @@
 		}
 		{
 			dependencies: ["5E93B9E15372F454"]
+			disable_toast: true
 			hide: true
 			id: "230E192BFBE34E63"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -1057,10 +1057,10 @@
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
+			disable_toast: true
 			hide: true
 			id: "609F0352BB4889C5"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -1086,10 +1086,10 @@
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
+			disable_toast: true
 			hide: true
 			id: "496D0A429EBADAF6"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -1115,10 +1115,10 @@
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
+			disable_toast: true
 			hide: true
 			id: "403A3B5469B40843"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -1144,10 +1144,10 @@
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
+			disable_toast: true
 			hide: true
 			id: "0187FF7593539454"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -1173,10 +1173,10 @@
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
+			disable_toast: true
 			hide: true
 			id: "69699353A6A26647"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -1202,10 +1202,10 @@
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
+			disable_toast: true
 			hide: true
 			id: "11C65D59C2553F3C"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -1231,10 +1231,10 @@
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
+			disable_toast: true
 			hide: true
 			id: "6A0D708CAFB62BCA"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -1260,10 +1260,10 @@
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
+			disable_toast: true
 			hide: true
 			id: "7F438B14366D0C5F"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -1316,10 +1316,10 @@
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
+			disable_toast: true
 			hide: true
 			id: "3AD7742AD6B35D7D"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -1345,10 +1345,10 @@
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
+			disable_toast: true
 			hide: true
 			id: "072BF31F8378CC3F"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -1380,10 +1380,10 @@
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
+			disable_toast: true
 			hide: true
 			id: "54E53E2FC19EA68F"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -1415,10 +1415,10 @@
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
+			disable_toast: true
 			hide: true
 			id: "0F88ED12F7777BE8"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -1450,10 +1450,10 @@
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
+			disable_toast: true
 			hide: true
 			id: "372D290A3848B02D"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -1485,10 +1485,10 @@
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
+			disable_toast: true
 			hide: true
 			id: "0BA4596C66C6168B"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -1520,10 +1520,10 @@
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
+			disable_toast: true
 			hide: true
 			id: "294E90B9506D7F2D"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -1555,10 +1555,10 @@
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
+			disable_toast: true
 			hide: true
 			id: "2B68C641669F6BDE"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -1590,10 +1590,10 @@
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
+			disable_toast: true
 			hide: true
 			id: "655AFA6EEB68190D"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -1625,10 +1625,10 @@
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
+			disable_toast: true
 			hide: true
 			id: "79AB687C2F5BF98F"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -1660,10 +1660,10 @@
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
+			disable_toast: true
 			hide: true
 			id: "7C5C14475709AD8C"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -1695,10 +1695,10 @@
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
+			disable_toast: true
 			hide: true
 			id: "1FA315D0D8319E60"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -1730,10 +1730,10 @@
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
+			disable_toast: true
 			hide: true
 			id: "34401A01579B08B8"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -1765,10 +1765,10 @@
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
+			disable_toast: true
 			hide: true
 			id: "2CD295002CAB4E8F"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -1800,10 +1800,10 @@
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
+			disable_toast: true
 			hide: true
 			id: "3F370A0E427E0B57"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -1835,10 +1835,10 @@
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
+			disable_toast: true
 			hide: true
 			id: "210BD7CC87B7547C"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -1870,10 +1870,10 @@
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
+			disable_toast: true
 			hide: true
 			id: "2FB11F7F8CCFB57F"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -1905,10 +1905,10 @@
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
+			disable_toast: true
 			hide: true
 			id: "305BD3A6BEF27E0F"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -1940,10 +1940,10 @@
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
+			disable_toast: true
 			hide: true
 			id: "03B5E3A97A89C878"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -1975,10 +1975,10 @@
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
+			disable_toast: true
 			hide: true
 			id: "49212F592DB347B1"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -2010,10 +2010,10 @@
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
+			disable_toast: true
 			hide: true
 			id: "1B9BEF93CF756F8A"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -2045,10 +2045,10 @@
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
+			disable_toast: true
 			hide: true
 			id: "633BA2E04E371752"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -2080,10 +2080,10 @@
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
+			disable_toast: true
 			hide: true
 			id: "67E7470BD114C886"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -2115,10 +2115,10 @@
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
+			disable_toast: true
 			hide: true
 			id: "1205C30E8990B536"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -2150,10 +2150,10 @@
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
+			disable_toast: true
 			hide: true
 			id: "69D8AFFE51158A90"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -2185,10 +2185,10 @@
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
+			disable_toast: true
 			hide: true
 			id: "34CEFADA595D005A"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -2220,10 +2220,10 @@
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
+			disable_toast: true
 			hide: true
 			id: "78FCCC042BDE6E61"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -2255,10 +2255,10 @@
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
+			disable_toast: true
 			hide: true
 			id: "09947FF7AAD7C7CE"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -2383,10 +2383,10 @@
 		}
 		{
 			dependencies: ["65B28F78A7DDBD06"]
+			disable_toast: true
 			hide: true
 			id: "4C2E374761B534C3"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -2412,10 +2412,10 @@
 		}
 		{
 			dependencies: ["65B28F78A7DDBD06"]
+			disable_toast: true
 			hide: true
 			id: "207D8448AA944DF0"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -2441,10 +2441,10 @@
 		}
 		{
 			dependencies: ["65B28F78A7DDBD06"]
+			disable_toast: true
 			hide: true
 			id: "55A3AA4831838D3F"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -2470,10 +2470,10 @@
 		}
 		{
 			dependencies: ["65B28F78A7DDBD06"]
+			disable_toast: true
 			hide: true
 			id: "527ECF838CD2DC06"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -2499,10 +2499,10 @@
 		}
 		{
 			dependencies: ["65B28F78A7DDBD06"]
+			disable_toast: true
 			hide: true
 			id: "644E99B3892F83D6"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -2528,10 +2528,10 @@
 		}
 		{
 			dependencies: ["65B28F78A7DDBD06"]
+			disable_toast: true
 			hide: true
 			id: "51ED06022216CE0B"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -2632,10 +2632,10 @@
 		}
 		{
 			dependencies: ["65B28F78A7DDBD06"]
+			disable_toast: true
 			hide: true
 			id: "5BB1005162586D06"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -2661,10 +2661,10 @@
 		}
 		{
 			dependencies: ["65B28F78A7DDBD06"]
+			disable_toast: true
 			hide: true
 			id: "36CB47262443AFFB"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -2690,10 +2690,10 @@
 		}
 		{
 			dependencies: ["65B28F78A7DDBD06"]
+			disable_toast: true
 			hide: true
 			id: "7BFADE527DA28F64"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -2719,10 +2719,10 @@
 		}
 		{
 			dependencies: ["65B28F78A7DDBD06"]
+			disable_toast: true
 			hide: true
 			id: "14EA17BB1E59EF6B"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -2748,10 +2748,10 @@
 		}
 		{
 			dependencies: ["57889789985B323E"]
+			disable_toast: true
 			hide: true
 			id: "7745C0F430C1E4D7"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -2777,10 +2777,10 @@
 		}
 		{
 			dependencies: ["57889789985B323E"]
+			disable_toast: true
 			hide: true
 			id: "7A1E40A60BADFF33"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -2806,10 +2806,10 @@
 		}
 		{
 			dependencies: ["57889789985B323E"]
+			disable_toast: true
 			hide: true
 			id: "0D33BFD7946CA24A"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -2835,10 +2835,10 @@
 		}
 		{
 			dependencies: ["57889789985B323E"]
+			disable_toast: true
 			hide: true
 			id: "395C8F83996594A5"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -2864,10 +2864,10 @@
 		}
 		{
 			dependencies: ["57889789985B323E"]
+			disable_toast: true
 			hide: true
 			id: "13263AE63C361820"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -2893,10 +2893,10 @@
 		}
 		{
 			dependencies: ["57889789985B323E"]
+			disable_toast: true
 			hide: true
 			id: "3EC4DB8ADDBF4B42"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -2922,10 +2922,10 @@
 		}
 		{
 			dependencies: ["57889789985B323E"]
+			disable_toast: true
 			hide: true
 			id: "1989990B2F18A40D"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -2951,10 +2951,10 @@
 		}
 		{
 			dependencies: ["57889789985B323E"]
+			disable_toast: true
 			hide: true
 			id: "017729904FB8E299"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -2980,10 +2980,10 @@
 		}
 		{
 			dependencies: ["57889789985B323E"]
+			disable_toast: true
 			hide: true
 			id: "396A05B7CC53E7FE"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -3037,10 +3037,10 @@
 		}
 		{
 			dependencies: ["48C7E0AF4C9A3C3E"]
+			disable_toast: true
 			hide: true
 			id: "2C79F76050BE12B3"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -3066,10 +3066,10 @@
 		}
 		{
 			dependencies: ["48C7E0AF4C9A3C3E"]
+			disable_toast: true
 			hide: true
 			id: "57EEA22032D2ECDE"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -3095,10 +3095,10 @@
 		}
 		{
 			dependencies: ["48C7E0AF4C9A3C3E"]
+			disable_toast: true
 			hide: true
 			id: "363C12A34FA2A827"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -3124,10 +3124,10 @@
 		}
 		{
 			dependencies: ["48C7E0AF4C9A3C3E"]
+			disable_toast: true
 			hide: true
 			id: "780D2EBE592A33AF"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -3153,10 +3153,10 @@
 		}
 		{
 			dependencies: ["48C7E0AF4C9A3C3E"]
+			disable_toast: true
 			hide: true
 			id: "02546AA94DA96AC7"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -3182,10 +3182,10 @@
 		}
 		{
 			dependencies: ["48C7E0AF4C9A3C3E"]
+			disable_toast: true
 			hide: true
 			id: "3BF44EC37DD17751"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -3211,10 +3211,10 @@
 		}
 		{
 			dependencies: ["48C7E0AF4C9A3C3E"]
+			disable_toast: true
 			hide: true
 			id: "54A879BF20233A85"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -3240,10 +3240,10 @@
 		}
 		{
 			dependencies: ["48C7E0AF4C9A3C3E"]
+			disable_toast: true
 			hide: true
 			id: "5365C1E3AFE9EDBD"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -3269,10 +3269,10 @@
 		}
 		{
 			dependencies: ["48C7E0AF4C9A3C3E"]
+			disable_toast: true
 			hide: true
 			id: "4343917600B3B4EB"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -3298,10 +3298,10 @@
 		}
 		{
 			dependencies: ["48C7E0AF4C9A3C3E"]
+			disable_toast: true
 			hide: true
 			id: "497065214D97C800"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -3327,10 +3327,10 @@
 		}
 		{
 			dependencies: ["48C7E0AF4C9A3C3E"]
+			disable_toast: true
 			hide: true
 			id: "65E2079D254B9DC8"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -3438,10 +3438,10 @@
 		}
 		{
 			dependencies: ["57889789985B323E"]
+			disable_toast: true
 			hide: true
 			id: "0EB57E58F62E4875"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -3467,10 +3467,10 @@
 		}
 		{
 			dependencies: ["57889789985B323E"]
+			disable_toast: true
 			hide: true
 			id: "5B7E31FD92662F5B"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -3496,10 +3496,10 @@
 		}
 		{
 			dependencies: ["57889789985B323E"]
+			disable_toast: true
 			hide: true
 			id: "45FAAAC3AB5E9B84"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -3526,10 +3526,10 @@
 		}
 		{
 			dependencies: ["57889789985B323E"]
+			disable_toast: true
 			hide: true
 			id: "25E333F978AAAE60"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -3555,10 +3555,10 @@
 		}
 		{
 			dependencies: ["57889789985B323E"]
+			disable_toast: true
 			hide: true
 			id: "1BF2447701DB48BC"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -3584,10 +3584,10 @@
 		}
 		{
 			dependencies: ["57889789985B323E"]
+			disable_toast: true
 			hide: true
 			id: "104D7AFABADA64AC"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -3638,10 +3638,10 @@
 		}
 		{
 			dependencies: ["56C6F1D87FA09C24"]
+			disable_toast: true
 			hide: true
 			id: "5631B45EC70A3FAC"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -3667,10 +3667,10 @@
 		}
 		{
 			dependencies: ["56C6F1D87FA09C24"]
+			disable_toast: true
 			hide: true
 			id: "24C8221E67CF01C0"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -3696,10 +3696,10 @@
 		}
 		{
 			dependencies: ["56C6F1D87FA09C24"]
+			disable_toast: true
 			hide: true
 			id: "4DC070D9D8168117"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -3725,10 +3725,10 @@
 		}
 		{
 			dependencies: ["56C6F1D87FA09C24"]
+			disable_toast: true
 			hide: true
 			id: "02FB0586865762B9"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -3754,10 +3754,10 @@
 		}
 		{
 			dependencies: ["56C6F1D87FA09C24"]
+			disable_toast: true
 			hide: true
 			id: "2DB2A8F9EDEA5455"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -3783,10 +3783,10 @@
 		}
 		{
 			dependencies: ["56C6F1D87FA09C24"]
+			disable_toast: true
 			hide: true
 			id: "2F57B0A7A3C2095A"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -3812,10 +3812,10 @@
 		}
 		{
 			dependencies: ["56C6F1D87FA09C24"]
+			disable_toast: true
 			hide: true
 			id: "0A1A0981AEE47F2D"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -3841,10 +3841,10 @@
 		}
 		{
 			dependencies: ["56C6F1D87FA09C24"]
+			disable_toast: true
 			hide: true
 			id: "58E3410CF08989B4"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -3897,10 +3897,10 @@
 		}
 		{
 			dependencies: ["2D0063702FDE9B52"]
+			disable_toast: true
 			hide: true
 			id: "31F62AD3C002B2E9"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -3926,10 +3926,10 @@
 		}
 		{
 			dependencies: ["2D0063702FDE9B52"]
+			disable_toast: true
 			hide: true
 			id: "0E3AFD19B50E2B2B"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -3955,10 +3955,10 @@
 		}
 		{
 			dependencies: ["2D0063702FDE9B52"]
+			disable_toast: true
 			hide: true
 			id: "4D8D762756063401"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -3984,10 +3984,10 @@
 		}
 		{
 			dependencies: ["2D0063702FDE9B52"]
+			disable_toast: true
 			hide: true
 			id: "12A34203C264C09B"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -4013,10 +4013,10 @@
 		}
 		{
 			dependencies: ["2D0063702FDE9B52"]
+			disable_toast: true
 			hide: true
 			id: "7887A51AC41CCBDD"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -4042,10 +4042,10 @@
 		}
 		{
 			dependencies: ["2D0063702FDE9B52"]
+			disable_toast: true
 			hide: true
 			id: "304820216BC161AB"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -4071,10 +4071,10 @@
 		}
 		{
 			dependencies: ["2D0063702FDE9B52"]
+			disable_toast: true
 			hide: true
 			id: "3A41E2C7A6B95D28"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -4100,10 +4100,10 @@
 		}
 		{
 			dependencies: ["2D0063702FDE9B52"]
+			disable_toast: true
 			hide: true
 			id: "0DF4E7173E95E42F"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
@@ -4129,10 +4129,10 @@
 		}
 		{
 			dependencies: ["2D0063702FDE9B52"]
+			disable_toast: true
 			hide: true
 			id: "530D390E2F102182"
-			disable_toast: true
-      rewards: [
+			rewards: [
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p meals_cooked 1"
