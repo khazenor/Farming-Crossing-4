@@ -3742,12 +3742,23 @@
 			icon: "kubejs:cert_ani_iron"
 			id: "6536E3C16A4477CA"
 			min_required_dependencies: 38
-			rewards: [{
-				count: 42
-				id: "7997F1C1E0BB8225"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 42
+					id: "7997F1C1E0BB8225"
+					item: "kubejs:miles_ticket"
+					type: "item"
+				}
+				{
+					id: "5D3DDEC007D32C07"
+					item: {
+						Count: 1b
+						id: "mobcapturingtool:mob_capturing_tool"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "512ED17BA4ED0E40"
 				type: "item"
@@ -4077,12 +4088,23 @@
 			icon: "kubejs:cert_fish_wood"
 			id: "42A6B7DAE4A318FF"
 			min_required_dependencies: 4
-			rewards: [{
-				count: 4
-				id: "20FAA0135759E75C"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 4
+					id: "20FAA0135759E75C"
+					item: "kubejs:miles_ticket"
+					type: "item"
+				}
+				{
+					id: "10F49CE9BAAE8ED9"
+					item: {
+						Count: 1b
+						id: "utilitix:mob_yoinker"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "6045CDA54606F04C"
 				type: "item"
@@ -4453,12 +4475,23 @@
 			icon: "kubejs:cert_cook_wood"
 			id: "28929EA4688DAE01"
 			min_required_dependencies: 6
-			rewards: [{
-				count: 6
-				id: "3B719937A9EAD067"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 6
+					id: "3B719937A9EAD067"
+					item: "kubejs:miles_ticket"
+					type: "item"
+				}
+				{
+					id: "337B6098FCAC5B10"
+					item: {
+						Count: 1b
+						id: "utilitix:mob_yoinker"
+						tag: { }
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "0FAF999D09C3D132"
 				type: "item"
