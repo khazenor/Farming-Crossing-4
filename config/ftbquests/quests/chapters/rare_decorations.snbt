@@ -878,6 +878,470 @@
 			x: 5.0d
 			y: 4.0d
 		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "04B69D191F5D0EFD"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "71C45BB61BDF4500"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "522AA1755C6C167C"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "5557CBB45D9AA35D"
+				item: "minecraft:music_disc_11"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5CB6670F88B819DC"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "5CE3A6FFEFCD4B29"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "1573EE4808E2D679"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "7FB000AD9BC4BDE6"
+				item: "minecraft:music_disc_13"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2BC0A60B0E1DCA95"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "76D21A68B0C9844E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "0119491501989F2C"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "1DED456BD60C9E84"
+				item: "minecraft:music_disc_5"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "36518E779DB42646"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "7F3724C10EA2785F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "3068AD0ABCA6A83C"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "4CFB1F9127D6710A"
+				item: "minecraft:music_disc_blocks"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "7643C89A74BF5CA9"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "1903E945E55EC036"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "1E6E1AB066DBAA9E"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "0479C168EBA40116"
+				item: "minecraft:music_disc_cat"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0539827DA1FB91FA"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "57AC4BB1A36E2A76"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "788AEA0C3F9193DE"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "173158BCBFDCC327"
+				item: "minecraft:music_disc_chirp"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "00F817F6A31E472C"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "5F00978F9740D2E1"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "34A52B9EC4BF234A"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "5DF92B84660F767C"
+				item: "minecraft:music_disc_far"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "54BB6EF832551CB5"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "0114FFAE8E719957"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "28D60054EAF97E7F"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "42D4588F4752E5E7"
+				item: "minecraft:music_disc_mall"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4DFB3F1499433AB9"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "440F415D0BFC0BAA"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "1E8F7238479C2F20"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "7823D03E5C58C4D9"
+				item: "minecraft:music_disc_mellohi"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "294D5614C5413BB3"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "111C68BB46922494"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "6F4090006E40053B"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "70DC7B46E519C8B1"
+				item: "minecraft:music_disc_otherside"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "74DE4AF0A9AF1E09"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "309554DCEFB15211"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "524E4A63E687631A"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "40B97F7CCAA06E2A"
+				item: "minecraft:music_disc_pigstep"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "565C11086023567D"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "305F83AB94055DAF"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "163105CCDEF5388D"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "6E168F415A901544"
+				item: "minecraft:music_disc_relic"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2E0E5B45F7D63A97"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "0ED5E3C4F4973214"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "3EC9DF052F7C4E34"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "40C3BF1048F28FDC"
+				item: "minecraft:music_disc_stal"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "34989D790FF6B045"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "2C794E493151F044"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "2154625CF11EE9F6"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "1F9D5F8A842435CA"
+				item: "minecraft:music_disc_strad"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "53EA6ED715BD867B"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "2CFE9B04500CBDAF"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "6E917D7071A46A4F"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "7E24CAAA12D6BBC6"
+				item: "minecraft:music_disc_wait"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "75242C486AEA9C2F"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p rare_decoration 1"
+					id: "7EB5AC48603D1021"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					id: "3D076EE2D42BF6C9"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "7B3CB2588C56D403"
+				item: "minecraft:music_disc_ward"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 7.0d
+		}
 	]
 	title: "Rare Decorations"
 }

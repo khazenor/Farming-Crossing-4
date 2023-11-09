@@ -703,7 +703,7 @@
 			id: "6762FFD6458747DE"
 			min_required_dependencies: 40
 			rewards: [{
-				count: 30
+				count: 60
 				id: "7F3181C632D44D83"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -1057,7 +1057,7 @@
 			id: "1F961B590FBF4532"
 			min_required_dependencies: 95
 			rewards: [{
-				count: 110
+				count: 220
 				id: "48476306C52AB842"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -1410,7 +1410,7 @@
 			icon: "kubejs:cert_decocom_gold"
 			id: "2CA1DF422552D48B"
 			rewards: [{
-				count: 190
+				count: 570
 				id: "3F26EED86CAE3C35"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -1770,7 +1770,7 @@
 					type: "item"
 				}
 				{
-					count: 432
+					count: 1440
 					id: "204E92AFBB00EB36"
 					item: "kubejs:miles_ticket"
 					type: "item"
@@ -1819,9 +1819,9 @@
 			]
 			icon: "kubejs:cert_decorare_wood"
 			id: "293263143F2388DC"
-			min_required_dependencies: 1
+			min_required_dependencies: 2
 			rewards: [{
-				count: 4
+				count: 16
 				id: "525B9A2E23009080"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -1830,7 +1830,7 @@
 				id: "37BAE077CD29D5E0"
 				type: "item"
 			}]
-			title: "Purchased First Rare Decoration"
+			title: "Purchased 2 Rare Decorations"
 			x: -3.0d
 			y: 4.0d
 		}
@@ -1869,9 +1869,9 @@
 			]
 			icon: "kubejs:cert_decorare_stone"
 			id: "1DECA2763F595B8C"
-			min_required_dependencies: 4
+			min_required_dependencies: 6
 			rewards: [{
-				count: 15
+				count: 48
 				id: "17A3D6F8CA222661"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -1880,7 +1880,7 @@
 				id: "536DEA4E4C10DA46"
 				type: "item"
 			}]
-			title: "Purchased 4 Unique Rare Decorations"
+			title: "Purchased 6 Unique Rare Decorations"
 			x: -2.0d
 			y: 4.0d
 		}
@@ -1919,9 +1919,9 @@
 			]
 			icon: "kubejs:cert_decorare_iron"
 			id: "13A0B3991E1D7B30"
-			min_required_dependencies: 9
+			min_required_dependencies: 13
 			rewards: [{
-				count: 30
+				count: 126
 				id: "77C3621F39E74587"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -1930,7 +1930,7 @@
 				id: "54419B40C04808ED"
 				type: "item"
 			}]
-			title: "Purchased 9 Unique Rare Decorations"
+			title: "Purchased 13 Unique Rare Decorations"
 			x: -1.0d
 			y: 4.0d
 		}
@@ -1969,9 +1969,9 @@
 			]
 			icon: "kubejs:cert_decorare_gold"
 			id: "20A4454D7B82DAAE"
-			min_required_dependencies: 17
+			min_required_dependencies: 26
 			rewards: [{
-				count: 56
+				count: 312
 				id: "20B966D7D553C094"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -2026,7 +2026,7 @@
 					type: "item"
 				}
 				{
-					count: 104
+					count: 640
 					id: "490A0E76289A5837"
 					item: "kubejs:miles_ticket"
 					type: "item"
@@ -2545,7 +2545,7 @@
 			id: "21EE2673C216F66B"
 			min_required_dependencies: 25
 			rewards: [{
-				count: 20
+				count: 40
 				id: "4A354EB21CDC6DC6"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -2804,7 +2804,7 @@
 			id: "2DD8168BA32AEEBE"
 			min_required_dependencies: 60
 			rewards: [{
-				count: 70
+				count: 105
 				id: "364D88A99D36974B"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -3063,7 +3063,7 @@
 			id: "0B1567BF81B96A20"
 			min_required_dependencies: 125
 			rewards: [{
-				count: 130
+				count: 260
 				id: "669DE3224E662105"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -3327,7 +3327,7 @@
 					type: "item"
 				}
 				{
-					count: 342
+					count: 570
 					id: "32A238624A8FB979"
 					item: "kubejs:miles_ticket"
 					type: "item"
@@ -3607,7 +3607,7 @@
 			id: "57C45C9423BEC2AB"
 			min_required_dependencies: 17
 			rewards: [{
-				count: 12
+				count: 24
 				id: "65FD7F7F65D3877B"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -3744,7 +3744,7 @@
 			min_required_dependencies: 38
 			rewards: [
 				{
-					count: 42
+					count: 63
 					id: "7997F1C1E0BB8225"
 					item: "kubejs:miles_ticket"
 					type: "item"
@@ -3890,7 +3890,7 @@
 			id: "1D14E2615748F241"
 			min_required_dependencies: 70
 			rewards: [{
-				count: 64
+				count: 160
 				id: "681C96B5EF53CADE"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -4031,7 +4031,7 @@
 					type: "item"
 				}
 				{
-					count: 184
+					count: 322
 					id: "591EAA4377DBE323"
 					item: "kubejs:miles_ticket"
 					type: "item"
@@ -4271,7 +4271,7 @@
 			id: "53F562C912D08A93"
 			min_required_dependencies: 26
 			rewards: [{
-				count: 40
+				count: 60
 				id: "14F30D7A3EFC7C0A"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -4333,7 +4333,7 @@
 					type: "item"
 				}
 				{
-					count: 60
+					count: 144
 					id: "5FDAD03CEB8AC76D"
 					item: "kubejs:miles_ticket"
 					type: "item"
@@ -4477,7 +4477,7 @@
 			min_required_dependencies: 6
 			rewards: [
 				{
-					count: 6
+					count: 12
 					id: "3B719937A9EAD067"
 					item: "kubejs:miles_ticket"
 					type: "item"
@@ -4629,7 +4629,7 @@
 			id: "38B29892DC5F37B4"
 			min_required_dependencies: 18
 			rewards: [{
-				count: 24
+				count: 36
 				id: "79294E0074B554E5"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -4771,7 +4771,7 @@
 			id: "301B80FC19D8275F"
 			min_required_dependencies: 38
 			rewards: [{
-				count: 60
+				count: 80
 				id: "711D7EE7B35F87D7"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -4913,7 +4913,7 @@
 			id: "6AD916B3696371F9"
 			min_required_dependencies: 70
 			rewards: [{
-				count: 128
+				count: 192
 				id: "382A39E0BAB60E1B"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -5060,7 +5060,7 @@
 					type: "item"
 				}
 				{
-					count: 230
+					count: 414
 					id: "6348E0D2069D268D"
 					item: "kubejs:miles_ticket"
 					type: "item"
@@ -5496,7 +5496,7 @@
 			id: "0F79BB3F909CC9E9"
 			min_required_dependencies: 51
 			rewards: [{
-				count: 48
+				count: 72
 				id: "2ADEA2054DC53C81"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -5603,7 +5603,7 @@
 			id: "2087C7B8A5387A9C"
 			rewards: [
 				{
-					count: 105
+					count: 175
 					id: "6E398AB81CE3CDA5"
 					item: "kubejs:miles_ticket"
 					type: "item"
