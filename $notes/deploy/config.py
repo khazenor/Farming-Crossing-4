@@ -70,7 +70,8 @@ def reloadWhileRunningFolders():
 	return [
 		'defaultconfigs',
 		'kubejs',
-		'scripts'
+		'scripts',
+		'global_packs'
 	]
 
 def clientSideModNames():
