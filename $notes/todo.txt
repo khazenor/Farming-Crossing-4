@@ -1,6 +1,5 @@
 - make fresh water more useful
-- add custom audio
-- reskin villagers
+- add mineral collection quests
 
 skins:
 - https://namemc.com/skin/5ecf54ed4460566f
@@ -63,6 +62,8 @@ Features:
       - /scoreboard objectives add animals_observed dummy {"text": "Animals Observed"}
       - /scoreboard players set @p animals_observed 0
       - /scoreboard players add @p animals_observed 1
+  - add custom audio
+  - reskin villagers
 
 Scripts:
 - wandering trader trades
