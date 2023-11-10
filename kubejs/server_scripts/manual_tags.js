@@ -76,4 +76,14 @@ ServerEvents.tags('item', event => {
     "biomesoplenty:orange_sandstone",
     "biomesoplenty:black_sandstone"
   ])
+
+  
+  event.add('forge:nutrients/vegetables', [
+    "vinery:jungle_grapes_red",
+    "vinery:jungle_grapes_white",
+    "vinery:savanna_grapes_red",
+    "vinery:savanna_grapes_white",
+    "vinery:taiga_grapes_red",
+    "vinery:taiga_grapes_white"
+  ])
 })
