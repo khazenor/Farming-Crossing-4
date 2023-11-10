@@ -476,6 +476,64 @@
 			y: -1.5d
 		}
 		{
+			dependencies: ["7CF35DAE02E4B6C0"]
+			description: [
+				"\"Oh I can wait to go exploring the depths! If you ever find new minerals in the area, please let me know! The minerals of this area are perfect for a museum collection!\""
+				""
+				"- Lily the Meerkat"
+				""
+				"------------"
+				""
+				"After you have gathered enough unique minerals, you will be able to redeem some Miles Tickets from the Miles Reward Program chapter."
+			]
+			hide: true
+			icon: {
+				Count: 1b
+				id: "minecraft:stone_pickaxe"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "44DB551B93AA28F9"
+			rewards: [
+				{
+					count: 16
+					id: "485A1BAFDEF6D09B"
+					item: "minecraft:torch"
+					type: "item"
+				}
+				{
+					auto: "no_toast"
+					command: "/scoreboard objectives add minerals_collected dummy {\"text\": \"Minerals Collected\"}"
+					id: "494299BE3E6F883D"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/scoreboard players set @p minerals_collected 0"
+					id: "3D7AEC795A697798"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "5CE78A08221C0A01"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "forge:minerals"
+					}
+				}
+				title: "Any #forge:minerals"
+				type: "item"
+			}]
+			title: "Mineral Hunter"
+			x: 2.5d
+			y: -2.5d
+		}
+		{
 			dependencies: ["0D0FDA6FBDCEFF3B"]
 			description: [
 				"You can buy decorations from wondering traders."
@@ -589,7 +647,7 @@
 				type: "item"
 			}]
 			title: "Cutting Cakes"
-			x: 2.5d
+			x: 3.5d
 			y: -2.5d
 		}
 		{

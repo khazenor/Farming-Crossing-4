@@ -1,14 +1,14 @@
 
 {
 	auto: "no_toast"
-	command: "/scoreboard objectives add hat_collected dummy {\"text\": \"Hat Collected\"}"
+	command: "/scoreboard objectives add minerals_collected dummy {\"text\": \"Minerals Collected\"}"
 	id: "xxxidxxx"
 	silent: true
 	type: "command"
 }
 {
 	auto: "no_toast"
-	command: "/scoreboard players set @p hat_collected 0"
+	command: "/scoreboard players set @p minerals_collected 0"
 	id: "xxxidxxx"
 	silent: true
 	type: "command"
@@ -18,14 +18,14 @@ disable_toast: true
       rewards: [
 				{
 					auto: "no_toast"
-					command: "/scoreboard players add @p hat_collected 1"
+					command: "/scoreboard players add @p minerals_collected 1"
 					id: "xxxidxxx"
 					silent: true
 					type: "command"
 				}
 				{
 					auto: "no_toast"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					command: "/tellraw @p [\"\",{\"text\":\"New mineral collected! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"minerals_collected\"}},{\"text\":\" unique mineral(s)!\"}]"
 					id: "xxxidxxx"
 					silent: true
 					type: "command"

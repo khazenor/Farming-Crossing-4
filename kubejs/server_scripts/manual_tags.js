@@ -39,4 +39,41 @@ ServerEvents.tags('item', event => {
     "villagersplus:spruce_horticulturist_table",
     "villagersplus:warped_horticulturist_table"
   ])
+
+  event.add('forge:minerals',[
+    "minecraft:cobblestone",
+    "minecraft:mossy_cobblestone",
+    "minecraft:cobbled_deepslate",
+    "minecraft:diorite",
+    "minecraft:granite",
+    "minecraft:andesite",
+    "minecraft:sandstone",
+    "minecraft:red_sandstone",
+    "minecraft:calcite",
+    "minecraft:dripstone_block",
+    "minecraft:pointed_dripstone",
+    "minecraft:blackstone",
+    "minecraft:smooth_basalt",
+    "minecraft:tuff",
+    "minecraft:obsidian",
+    "minecraft:raw_copper",
+    "minecraft:raw_gold",
+    "minecraft:raw_iron",
+    "minecraft:redstone",
+    "minecraft:diamond",
+    "create:crimsite",
+    "create:asurine",
+    "create:veridium",
+    "create:ochrum",
+    "create:scoria",
+    "create:limestone",
+    "create:scorchia",
+    "create:raw_zinc",
+    "minecraft:amethyst_shard",
+    "meadow:mossy_cobbled_limestone",
+    "meadow:cobbled_limestone",
+    "biomesoplenty:white_sandstone",
+    "biomesoplenty:orange_sandstone",
+    "biomesoplenty:black_sandstone"
+  ])
 })

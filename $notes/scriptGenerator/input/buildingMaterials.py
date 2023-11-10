@@ -23,18 +23,22 @@ buildingMaterials = [
     "minecraft:calcite",
     "minecraft:dripstone_block",
     "minecraft:blackstone",
-
     "create:crimsite",
     "create:asurine",
     "create:veridium",
-
     "minecraft:smooth_basalt",
     "create:ochrum",
     "create:scoria",
-
     "create:limestone",
-
     "create:scorchia",
+
+    # bop:
+    "biomesoplenty:white_sandstone",
+    "biomesoplenty:white_sand",
+    "biomesoplenty:orange_sandstone",
+    "biomesoplenty:orange_sand",
+    :"biomesoplenty:black_sandstone",
+    :"biomesoplenty:black_sand",
 
     # terracotta and concrete
     "minecraft:black_terracotta",
