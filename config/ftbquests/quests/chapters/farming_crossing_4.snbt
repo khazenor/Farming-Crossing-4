@@ -1323,6 +1323,189 @@
 			x: 3.5d
 			y: -1.5d
 		}
+		{
+			dependencies: ["0D0FDA6FBDCEFF3B"]
+			description: [
+				"Slower, but with two seats. Quite easy to maneuver, with acceptable speed thanks to the engine in the back."
+				""
+				"After this quest you can now craft your own Airship!"
+				""
+				"(Press \"R\" to dismount\")"
+			]
+			hide: true
+			icon: "immersive_aircraft:airship"
+			id: "40AC0531EEE3618A"
+			rewards: [
+				{
+					id: "1617385847D9061E"
+					item: "immersive_aircraft:airship"
+					type: "item"
+				}
+				{
+					auto: "invisible"
+					id: "227CAE340E7B7893"
+					ignore_reward_blocking: true
+					stage: "airship"
+					type: "gamestage"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 360L
+				id: "017095815B42163C"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			title: "Airship"
+			x: 1.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["0D0FDA6FBDCEFF3B"]
+			description: [
+				"After this quest you can now craft your own Cargo Airship!"
+				""
+				"(Press \"R\" to dismount\")"
+			]
+			hide: true
+			icon: "immersive_aircraft:cargo_airship"
+			id: "48AB1C6F6D70B600"
+			rewards: [
+				{
+					id: "2327733299DF472E"
+					item: "immersive_aircraft:cargo_airship"
+					type: "item"
+				}
+				{
+					auto: "invisible"
+					id: "702591C99ACFEBD1"
+					ignore_reward_blocking: true
+					stage: "cargo_airship"
+					type: "gamestage"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 360L
+				id: "14F0C040866DC2B1"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			title: "Cargo Airship"
+			x: 4.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["0D0FDA6FBDCEFF3B"]
+			description: [
+				"The classic biplane. Fast, one seat, medium difficulty."
+				""
+				"After this quest you can now craft your own Biplane!"
+				""
+				"(Press \"R\" to dismount\")"
+			]
+			hide: true
+			icon: "immersive_aircraft:biplane"
+			id: "35CF91183ECA57C9"
+			rewards: [
+				{
+					id: "638096CA68123222"
+					item: "immersive_aircraft:biplane"
+					type: "item"
+				}
+				{
+					auto: "invisible"
+					id: "7C6F406F5DCBEB79"
+					ignore_reward_blocking: true
+					stage: "biplane"
+					type: "gamestage"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 360L
+				id: "5C052AC3DCF6C5DB"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			title: "Biplane"
+			x: 0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["0D0FDA6FBDCEFF3B"]
+			description: [
+				"Human-powered primitive dual seater. Trusty, yet neither the fastest nor the easiest to fly. Needs a good initial push to get the rotor spinning."
+				""
+				"After this quest you can now craft your own Gyrodyne!"
+				""
+				"(Press \"R\" to dismount\")"
+			]
+			hide: true
+			icon: "immersive_aircraft:gyrodyne"
+			id: "1B423787DAE6322C"
+			rewards: [
+				{
+					id: "459FFB927717B06A"
+					item: "immersive_aircraft:gyrodyne"
+					type: "item"
+				}
+				{
+					auto: "invisible"
+					id: "1FDE9C2281DA0CA4"
+					ignore_reward_blocking: true
+					stage: "gyrodyne"
+					type: "gamestage"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 360L
+				id: "20F6C66419A0E2C4"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			title: "Gyrodyne"
+			x: 2.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["0D0FDA6FBDCEFF3B"]
+			description: [
+				"A masterwork of engineering! Four propellers strapped on a bunch of bamboos. It's quite handy for building."
+				""
+				"After this quest you can now craft your own Quadrocopter!"
+				""
+				"(Press \"R\" to dismount\")"
+			]
+			hide: true
+			icon: "immersive_aircraft:quadrocopter"
+			id: "36B8507E356F8FBF"
+			rewards: [
+				{
+					id: "5477B1B75EEE5987"
+					item: "immersive_aircraft:quadrocopter"
+					type: "item"
+				}
+				{
+					auto: "invisible"
+					id: "51D9090214FB636B"
+					ignore_reward_blocking: true
+					stage: "quadrocopter"
+					type: "gamestage"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 360L
+				id: "4AC34646417730E0"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			title: "Quadrocopter"
+			x: 3.5d
+			y: 2.5d
+		}
 	]
 	title: "Farming Crossing 4"
 }

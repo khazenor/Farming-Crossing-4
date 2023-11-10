@@ -23,3 +23,9 @@ mods.recipestages.Recipes.setRecipeStage("16k_storage_disk", <item:refinedstorag
 mods.recipestages.Recipes.setRecipeStage("64k_storage_disk", <item:refinedstorage:64k_storage_disk>);
 
 mods.recipestages.Recipes.setRecipeStage("bag_of_yurting", <item:bagofyurting:bag_of_yurting>);
+
+mods.recipestages.Recipes.setRecipeStage("airship", <item:immersive_aircraft:airship>);
+mods.recipestages.Recipes.setRecipeStage("cargo_airship", <item:immersive_aircraft:cargo_airship>);
+mods.recipestages.Recipes.setRecipeStage("biplane", <item:immersive_aircraft:biplane>);
+mods.recipestages.Recipes.setRecipeStage("gyrodyne", <item:immersive_aircraft:gyrodyne>);
+mods.recipestages.Recipes.setRecipeStage("quadrocopter", <item:immersive_aircraft:quadrocopter>);
