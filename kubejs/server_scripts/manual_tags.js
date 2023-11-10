@@ -78,12 +78,34 @@ ServerEvents.tags('item', event => {
   ])
 
   
+  // event.add('forge:nutrients/vegetables', [
+  // ])
+
+  // event.add('forge:nutrients/proteins', [
+  // ])
+
   event.add('forge:nutrients/fruits', [
     "vinery:jungle_grapes_red",
     "vinery:jungle_grapes_white",
     "vinery:savanna_grapes_red",
     "vinery:savanna_grapes_white",
     "vinery:taiga_grapes_red",
-    "vinery:taiga_grapes_white"
+    "vinery:taiga_grapes_white",
+    "vinery:cherry",
+    "vinery:apple_juice",
+    "vinery:jungle_red_grapejuice_bottle",
+    "vinery:jungle_white_grapejuice_bottle",
+    "vinery:red_grapejuice_wine_bottle",
+    "vinery:savanna_red_grapejuice_bottle",
+    "vinery:savanna_white_grapejuice_bottle",
+    "vinery:taiga_red_grapejuice_bottle",
+    "vinery:taiga_white_grapejuice_bottle",
+    "vinery:white_grapejuice_wine_bottle"
   ])
+
+  // event.add('forge:nutrients/sugars', [
+  // ])
+
+  // event.add('forge:nutrients/carbs', [
+  // ])
 })
