@@ -18,15 +18,6 @@
 		"license": "MIT (https://github.com/hammertater/treechop/blob/main/LICENSE)"
 	},
 	{
-		"id": "kubejs",
-		"name": "KubeJS",
-		"version": "2001.6.3-build.83",
-		"description": "Customize your modpack or server with JavaScript!",
-		"authors": "LatvianModder",
-		"issue_tracker": "https://kubejs.com/support?source=kubejs&mc=1902&loader=forge",
-		"license": "GNU LGPLv3"
-	},
-	{
 		"id": "betterdungeons",
 		"name": "YUNG's Better Dungeons",
 		"version": "1.20-Forge-4.0.3",
@@ -35,6 +26,15 @@
 		"homepage": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons",
 		"issue_tracker": "https://github.com/yungnickyoung/YUNGs-Better-Dungeons/issues",
 		"license": "LGPLv3"
+	},
+	{
+		"id": "kubejs",
+		"name": "KubeJS",
+		"version": "2001.6.3-build.83",
+		"description": "Customize your modpack or server with JavaScript!",
+		"authors": "LatvianModder",
+		"issue_tracker": "https://kubejs.com/support?source=kubejs&mc=1902&loader=forge",
+		"license": "GNU LGPLv3"
 	},
 	{
 		"id": "ftbessentials",
@@ -56,6 +56,16 @@
 		"license": "All rights reserved"
 	},
 	{
+		"id": "betterwitchhuts",
+		"name": "YUNG's Better Witch Huts",
+		"version": "1.20-Forge-3.0.3",
+		"description": "Adds new and improved witch huts to swamps!",
+		"authors": "YUNGNICKYOUNG, Acarii",
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts",
+		"issue_tracker": "https://github.com/yungnickyoung/YUNGs-Better-Witch-Huts/issues",
+		"license": "LGPLv3"
+	},
+	{
 		"id": "alexsmobs",
 		"name": "Alex's Mobs",
 		"version": "1.22.6",
@@ -66,14 +76,11 @@
 		"license": "GNU LESSER GENERAL PUBLIC LICENSE"
 	},
 	{
-		"id": "betterwitchhuts",
-		"name": "YUNG's Better Witch Huts",
-		"version": "1.20-Forge-3.0.3",
-		"description": "Adds new and improved witch huts to swamps!",
-		"authors": "YUNGNICKYOUNG, Acarii",
-		"homepage": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts",
-		"issue_tracker": "https://github.com/yungnickyoung/YUNGs-Better-Witch-Huts/issues",
-		"license": "LGPLv3"
+		"id": "globalpacks",
+		"name": "Global Packs",
+		"version": "1.16.2_forge",
+		"description": "Allows modpacks to add Datapacks & Resource Packs",
+		"license": "All rights reserved"
 	},
 	{
 		"id": "scena",
@@ -139,6 +146,16 @@
 		"license": "CC-0"
 	},
 	{
+		"id": "immersive_aircraft",
+		"name": "Immersive Aircraft",
+		"version": "0.6.2+1.20.1",
+		"description": "A bunch of rustic aircraft to travel, transport, and explore!",
+		"authors": "Luke100000",
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/immersive-aircraft",
+		"issue_tracker": "https://github.com/Luke100000/ImmersiveAircraft/issues",
+		"license": "GPL-3.0-only"
+	},
+	{
 		"id": "candlelight",
 		"name": "Candlelight Dinner",
 		"version": "1.2.6",
@@ -147,20 +164,20 @@
 		"license": "All Rights Reserved"
 	},
 	{
-		"id": "sophisticatedcore",
-		"name": "Sophisticated Core",
-		"version": "0.5.100.457",
-		"description": "Base mod of Sophisticated mods.",
-		"issue_tracker": "https://github.com/P3pp3rF1y/SophisticatedCore/issues",
-		"license": "GNU General Public License v3.0"
-	},
-	{
 		"id": "rubidium",
 		"name": "Rubidium",
 		"version": "0.7.1",
 		"description": "Rubidium is a Unofficial Fork of the Sodium maked to work on FML.",
 		"authors": "CaffeineMC",
 		"license": "LGPL-3.0-only"
+	},
+	{
+		"id": "sophisticatedcore",
+		"name": "Sophisticated Core",
+		"version": "0.5.100.457",
+		"description": "Base mod of Sophisticated mods.",
+		"issue_tracker": "https://github.com/P3pp3rF1y/SophisticatedCore/issues",
+		"license": "GNU General Public License v3.0"
 	},
 	{
 		"id": "gpumemleakfix",
@@ -209,16 +226,9 @@
 		"license": "MIT"
 	},
 	{
-		"id": "placebo",
-		"name": "Placebo",
-		"version": "8.3.7",
-		"description": "1 (one) library boi",
-		"license": "MIT License"
-	},
-	{
 		"id": "modernfix",
 		"name": "ModernFix",
-		"version": "5.9.0+mc1.20.1",
+		"version": "5.9.2+mc1.20.1",
 		"description": "Egregious, yet effective performance improvements for modern Minecraft",
 		"authors": "embeddedt",
 		"homepage": "https://modrinth.com/mod/modernfix",
@@ -226,9 +236,16 @@
 		"license": "GNU LGPL 3.0"
 	},
 	{
+		"id": "placebo",
+		"name": "Placebo",
+		"version": "8.3.7",
+		"description": "1 (one) library boi",
+		"license": "MIT License"
+	},
+	{
 		"id": "citadel",
 		"name": "Citadel",
-		"version": "2.4.7",
+		"version": "2.4.9",
 		"description": "A shared code library for many of Alexthe666's mods. Code used from LLibrary with permission.",
 		"authors": "Alexthe666",
 		"homepage": "https://github.com/Alex-the-666/Citadel",
@@ -331,6 +348,14 @@
 		"license": "ARR"
 	},
 	{
+		"id": "panoramica",
+		"name": "Panoramica",
+		"version": "1.2.1",
+		"description": "Panorama Cubes - Now 16% more cuby!\n\nPanoramica © Copyright 2020-2022 Keksuccino.\nPanoramica is licensed under DSMSL (DON'T SNATCH MA STUFF LICENSE).\nSee the mod's GitHub for more information about this license.",
+		"authors": "Keksuccino",
+		"license": "DSMSL (DON'T SNATCH MA STUFF LICENSE)"
+	},
+	{
 		"id": "balm",
 		"name": "Balm",
 		"version": "7.1.4",
@@ -415,12 +440,38 @@
 	{
 		"id": "refinedstorage",
 		"name": "Refined Storage",
-		"version": "1.12.3",
+		"version": "1.12.4",
 		"description": "An elegant solution to your hoarding problem",
 		"authors": "Refined Mods",
 		"homepage": "https://refinedmods.com/refined-storage",
 		"issue_tracker": "https://github.com/refinedmods/refinedstorage",
 		"license": "MIT"
+	},
+	{
+		"id": "konkrete",
+		"name": "Konkrete",
+		"version": "1.6.1",
+		"description": "COPYRIGHT:\n\nKonkrete Copyright © 2020-2023 Keksuccino.\nKonkrete is licensed under GPLv3.\n\nOpen Imaging Copyright © 2014 Dhyan Blum.\nOpen Imaging is licensed under Apache-2.0.\n\nJsonPath Copyright © 2017 Jayway.\nJsonPath is licensed under Apache-2.0.\n\nJson-smart Copyright © netplex.\nJson-smart is licensed under Apache-2.0.\n\nExp4j Copyright © Frank Asseg.\nExp4j is licensed under Apache-2.0.\nhttps://github.com/fasseg/exp4j",
+		"authors": "Keksuccino",
+		"license": "GPLv3"
+	},
+	{
+		"id": "entity_model_features",
+		"name": "Entity Model Features",
+		"version": "1.1.0",
+		"description": "This is an expansion of the ETF mod, it adds support for OptiFine format Custom Entity Model (CEM) resource packs.\nWhile still allowing to you disable this to use a different model mod :)",
+		"authors": "Traben",
+		"issue_tracker": "https://github.com/Traben-0/Entity_Texture_Features/issues",
+		"license": "LGPL-3.0"
+	},
+	{
+		"id": "entity_texture_features",
+		"name": "Entity Texture Features",
+		"version": "4.6.1",
+		"description": "Adds support for resource-pack driven features for entity textures including some OptiFine features\nSupports OptiFine:\n - Random & Custom textures\n - Emissive textures\nWith more features such as:\n - Blinking textures\n - Player Skin support\",",
+		"authors": "Traben",
+		"issue_tracker": "https://github.com/Traben-0/EmissiveMod/issues",
+		"license": "LGPL-3.0"
 	},
 	{
 		"id": "handcrafted",
@@ -443,6 +494,15 @@
 		"license": "https://github.com/TelepathicGrunt/RepurposedStructures/blob/latest-released/LICENSE"
 	},
 	{
+		"id": "biomesoplenty",
+		"name": "Biomes O' Plenty",
+		"version": "18.0.0.592",
+		"description": "Adds over 50 new biomes, blocks, and more!",
+		"authors": "Forstride, Adubbz",
+		"issue_tracker": "https://github.com/Glitchfiend/BiomesOPlenty/issues",
+		"license": "All Rights Reserved"
+	},
+	{
 		"id": "getittogetherdrops",
 		"name": "Get It Together, Drops!",
 		"version": "1.3",
@@ -451,15 +511,6 @@
 		"homepage": "http://minecraft.curseforge.com/projects/get-it-together-drops",
 		"issue_tracker": "http://github.com/bl4ckscor3/GetItTogetherDrops/issues",
 		"license": "MIT License http://github.com/bl4ckscor3/GetItTogetherDrops/blob/1.20/LICENSE"
-	},
-	{
-		"id": "biomesoplenty",
-		"name": "Biomes O' Plenty",
-		"version": "18.0.0.592",
-		"description": "Adds over 50 new biomes, blocks, and more!",
-		"authors": "Forstride, Adubbz",
-		"issue_tracker": "https://github.com/Glitchfiend/BiomesOPlenty/issues",
-		"license": "All Rights Reserved"
 	},
 	{
 		"id": "supermartijn642corelib",
@@ -550,7 +601,7 @@
 	{
 		"id": "collective",
 		"name": "Collective",
-		"version": "6.80",
+		"version": "7.3",
 		"description": "Collective is a shared library with common code for all of Serilum's mods.",
 		"authors": "Rick South",
 		"homepage": "https://curseforge.com/minecraft/mc-mods/collective",
@@ -568,16 +619,6 @@
 		"license": "All rights reserved"
 	},
 	{
-		"id": "simplehats",
-		"name": "SimpleHats",
-		"version": "1.20.1-0.2.2",
-		"description": "Simple, expandable, and user-customizable cosmetic hats mod.",
-		"authors": "Fonnymunkey, ArtsyDy",
-		"homepage": "https://www.curseforge.com/minecraft/mc-mods/simplehats",
-		"issue_tracker": "https://github.com/fonnymunkey/SimpleHats/issues",
-		"license": "https://github.com/fonnymunkey/SimpleHatsAux/blob/main/LICENSE"
-	},
-	{
 		"id": "searchables",
 		"name": "Searchables",
 		"version": "1.0.2",
@@ -586,6 +627,16 @@
 		"homepage": "https://minecraft.curseforge.com/projects/searchables",
 		"issue_tracker": "https://github.com/jaredlll08/searchables/issues",
 		"license": "MIT"
+	},
+	{
+		"id": "simplehats",
+		"name": "SimpleHats",
+		"version": "1.20.1-0.2.2",
+		"description": "Simple, expandable, and user-customizable cosmetic hats mod.",
+		"authors": "Fonnymunkey, ArtsyDy",
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/simplehats",
+		"issue_tracker": "https://github.com/fonnymunkey/SimpleHats/issues",
+		"license": "https://github.com/fonnymunkey/SimpleHatsAux/blob/main/LICENSE"
 	},
 	{
 		"id": "meadow",
@@ -605,6 +656,15 @@
 		"license": "LGPL v3"
 	},
 	{
+		"id": "bettervillage",
+		"name": "Better village",
+		"version": "3.1.0",
+		"description": "This mod improves the vanilla minecraft villages !",
+		"authors": "JTorLeon Studios",
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/better-village-forge",
+		"license": "All rights reserved"
+	},
+	{
 		"id": "drawerstooltip",
 		"name": "Drawers Tooltip",
 		"version": "8.0.0",
@@ -613,13 +673,12 @@
 		"license": "MIT"
 	},
 	{
-		"id": "bettervillage",
-		"name": "Better village",
-		"version": "3.1.0",
-		"description": "This mod improves the vanilla minecraft villages !",
-		"authors": "JTorLeon Studios",
-		"homepage": "https://www.curseforge.com/minecraft/mc-mods/better-village-forge",
-		"license": "All rights reserved"
+		"id": "seamless_loading_screen",
+		"name": "Seamless Loading Screen",
+		"version": "2.0.3+1.20.1",
+		"description": "Takes a screenshot of the game when you leave a world or server, and displays it when you rejoin it",
+		"authors": "Minenash",
+		"license": "MIT"
 	},
 	{
 		"id": "betterstrongholds",
@@ -643,7 +702,7 @@
 	{
 		"id": "resourcefullib",
 		"name": "Resourceful Lib",
-		"version": "2.1.13",
+		"version": "2.1.14",
 		"description": "Team Resourceful Library",
 		"authors": "ThatGravyBoat, Epic_Oreo",
 		"issue_tracker": "https://github.com/Team-Resourceful/ResoucefulLib/issues/new/choose",
@@ -667,14 +726,6 @@
 		"license": "MIT License https://github.com/BuiltBrokenModding/AI-Improvements/blob/1.20/LICENSE"
 	},
 	{
-		"id": "cupboard",
-		"name": "Cupboard utilities",
-		"version": "1.20.1-2.1",
-		"description": "Cupboard mod providing utilities",
-		"authors": "Someaddon",
-		"license": "ARR"
-	},
-	{
 		"id": "chimes",
 		"name": "Chimes",
 		"version": "2.0.1",
@@ -682,6 +733,14 @@
 		"authors": "BlewberryPie",
 		"homepage": "https://www.curseforge.com/minecraft/mc-mods/chimes",
 		"license": "All Rights Reserved"
+	},
+	{
+		"id": "cupboard",
+		"name": "Cupboard utilities",
+		"version": "1.20.1-2.1",
+		"description": "Cupboard mod providing utilities",
+		"authors": "Someaddon",
+		"license": "ARR"
 	},
 	{
 		"id": "lightoverlay",
@@ -694,7 +753,7 @@
 	{
 		"id": "jadeaddons",
 		"name": "Jade Addons",
-		"version": "5.2.0",
+		"version": "5.2.1",
 		"description": "Jade additional mod supports",
 		"authors": "Snownee",
 		"homepage": "https://www.curseforge.com/minecraft/mc-mods/jade-addons",
@@ -727,12 +786,20 @@
 		"license": "MIT License https://github.com/tom5454/Toms-Storage/blob/master/LICENSE"
 	},
 	{
-		"id": "t_and_t",
-		"name": "Towns and Towers",
-		"version": "0.0NONE",
-		"description": "Spice up your world with new villages, pillager outposts, and even new ships!",
-		"authors": "Kubek, Biban_Auriu, Cristelknight",
-		"license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+		"id": "exoticbirds",
+		"name": "Exotic Birds",
+		"version": "1.0.0",
+		"description": "The 'fowlest' mod around!\nAdds beautiful birds to the game, including peacocks, pelicans and hummingbirds. Hear woodpeckers pecking high up in the trees, see swans swimming about in rivers, or listen to the lyrebird mimicking its environment.\nThis mod helps to bring your world to life!\nA huge thanks to Pharrao, TKMT_Aniki, Sire Coot, JEREDEK, AOL, Pidrosax, Scroven, JopaNeBruta, laverie264 and Ryuje for translations!",
+		"authors": "Pavocado",
+		"license": "All Rights Reserved"
+	},
+	{
+		"id": "fastleafdecay",
+		"name": "Fast Leaf Decay",
+		"version": "31",
+		"description": "Increases leaves decay rate, so that you won't end up with a bunch of floating leaves.",
+		"authors": "Olafski",
+		"license": "All Rights Reserved"
 	},
 	{
 		"id": "moa_decor_art",
@@ -744,28 +811,20 @@
 		"license": "Academic Free License v3.0"
 	},
 	{
+		"id": "t_and_t",
+		"name": "Towns and Towers",
+		"version": "0.0NONE",
+		"description": "Spice up your world with new villages, pillager outposts, and even new ships!",
+		"authors": "Kubek, Biban_Auriu, Cristelknight",
+		"license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+	},
+	{
 		"id": "letmedespawn",
 		"name": "Let Me Despawn",
 		"version": "1.2.0",
 		"description": "Seeks to improve performance by changing mob despawn rules.",
 		"authors": "frikinjay",
 		"license": "GPL-3"
-	},
-	{
-		"id": "fastleafdecay",
-		"name": "Fast Leaf Decay",
-		"version": "31",
-		"description": "Increases leaves decay rate, so that you won't end up with a bunch of floating leaves.",
-		"authors": "Olafski",
-		"license": "All Rights Reserved"
-	},
-	{
-		"id": "exoticbirds",
-		"name": "Exotic Birds",
-		"version": "1.0.0",
-		"description": "The 'fowlest' mod around!\nAdds beautiful birds to the game, including peacocks, pelicans and hummingbirds. Hear woodpeckers pecking high up in the trees, see swans swimming about in rivers, or listen to the lyrebird mimicking its environment.\nThis mod helps to bring your world to life!\nA huge thanks to Pharrao, TKMT_Aniki, Sire Coot, JEREDEK, AOL, Pidrosax, Scroven, JopaNeBruta, laverie264 and Ryuje for translations!",
-		"authors": "Pavocado",
-		"license": "All Rights Reserved"
 	},
 	{
 		"id": "controllable",
@@ -790,7 +849,7 @@
 	{
 		"id": "nutritionalbalance",
 		"name": "Nutritional Balance",
-		"version": "1.20-5.1.0",
+		"version": "1.20-5.1.2",
 		"description": "A mod that enhances the food system to encourage a balanced diet by tracking nutrients, rewarding balance and discouraging imbalance.",
 		"authors": "Danny",
 		"license": "GNU General Public License v3.0"
@@ -823,7 +882,7 @@
 	{
 		"id": "rhino",
 		"name": "Rhino",
-		"version": "2001.2.2-build.11",
+		"version": "2001.2.2-build.13",
 		"description": "A fork of Mozilla's Rhino library, modified for use in mods",
 		"authors": "LatvianModder, Mozilla",
 		"issue_tracker": "https://github.com/KubeJS-Mods/Rhino/issues",
@@ -1091,7 +1150,7 @@
 	{
 		"id": "crafttweaker",
 		"name": "CraftTweaker",
-		"version": "14.0.17",
+		"version": "14.0.18",
 		"description": "Customize your minecraft experience!",
 		"authors": "Jaredlll08, Kindlich, StanHebben and TheSilkMiner",
 		"homepage": "https://minecraft.curseforge.com/projects/crafttweaker",
@@ -1196,7 +1255,7 @@
 	{
 		"id": "moonlight",
 		"name": "Moonlight Library",
-		"version": "1.20-2.8.56",
+		"version": "1.20-2.8.57",
 		"description": "A small library with many cool unique features, from dynamic asset generation to dynamic villager schedules and simple multi loader utilities",
 		"authors": "MehVahdJukaar",
 		"issue_tracker": "https://github.com/MehVahdJukaar/Moonlight/issues",
@@ -1213,6 +1272,15 @@
 		"license": "BSD-3-Clause"
 	},
 	{
+		"id": "ftbquests",
+		"name": "FTB Quests",
+		"version": "2001.1.7",
+		"description": "Lets you easily create and play with quests",
+		"authors": "LatvianModder",
+		"issue_tracker": "https://github.com/FTBTeam/FTB-Mods-Issues/issues",
+		"license": "All Rights Reserved"
+	},
+	{
 		"id": "toolbelt",
 		"name": "Tool Belt",
 		"version": "1.20.0",
@@ -1223,13 +1291,12 @@
 		"license": "BSD (3 clause)"
 	},
 	{
-		"id": "ftbquests",
-		"name": "FTB Quests",
-		"version": "2001.1.7",
-		"description": "Lets you easily create and play with quests",
-		"authors": "LatvianModder",
-		"issue_tracker": "https://github.com/FTBTeam/FTB-Mods-Issues/issues",
-		"license": "All Rights Reserved"
+		"id": "wands",
+		"name": "Building Wands",
+		"version": "2.6.8-release",
+		"description": "Building Wands!",
+		"authors": "nicguzzo",
+		"license": "Insert License Here"
 	},
 	{
 		"id": "mixinsquared",
@@ -1248,14 +1315,6 @@
 		"authors": "Snownee",
 		"homepage": "https://minecraft.curseforge.com/projects/jade",
 		"license": "CC BY-NC-SA 4.0"
-	},
-	{
-		"id": "wands",
-		"name": "Building Wands",
-		"version": "2.6.8-release",
-		"description": "Building Wands!",
-		"authors": "nicguzzo",
-		"license": "Insert License Here"
 	},
 	{
 		"id": "cleanswing",
@@ -1425,6 +1484,14 @@
 		"description": "Reduces memory usage.",
 		"authors": "malte0811",
 		"license": "MIT"
+	},
+	{
+		"id": "yet_another_config_lib_v3",
+		"name": "YetAnotherConfigLib",
+		"version": "3.0.1+1.20",
+		"description": "YetAnotherConfigLib (yacl) is just that. A builder-based configuration library for Minecraft.",
+		"authors": "isXander",
+		"license": "LGPL-3.0-or-later"
 	},
 	{
 		"id": "solcarrot",
