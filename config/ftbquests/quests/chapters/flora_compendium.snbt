@@ -15,14 +15,14 @@
 			id: "4B06A2E5963F65FE"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "4B05628259CBE24C"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "30A1F3D9B4304A8C"
 					silent: true
@@ -44,14 +44,14 @@
 			id: "2B3D84C5297A5B1A"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "01723BD8A80842F6"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "0D08AF47FF9C4F50"
 					silent: true
@@ -73,14 +73,14 @@
 			id: "66783EC70CC8F1B2"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "3F3993FF9E6AA8AB"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "1C8BD58641C888D3"
 					silent: true
@@ -102,14 +102,14 @@
 			id: "177F9FC08A93D588"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "599F71F494CCBA1B"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "17A12612C2F50FB1"
 					silent: true
@@ -131,14 +131,14 @@
 			id: "2AEAF968FDDDD219"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "197E6357C4BDA74C"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "3D52A781272A3630"
 					silent: true
@@ -160,14 +160,14 @@
 			id: "6A8430BF514192E5"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "1689172D42D5C6C9"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "57ADC4C10B290E28"
 					silent: true
@@ -189,14 +189,14 @@
 			id: "6DFC2388D82590AC"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "21F32FB99B94C71A"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "4911C642DAC785B2"
 					silent: true
@@ -218,14 +218,14 @@
 			id: "6B7737AE5962F434"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "3766E4210D6259F5"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "41398C8B762C01BF"
 					silent: true
@@ -247,14 +247,14 @@
 			id: "0E74AFC41934516C"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "41135061AD4B4031"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "19676C7FD81B5DED"
 					silent: true
@@ -276,14 +276,14 @@
 			id: "783BCDEDD8A796B1"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "2B0EA87579A59780"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "5DE2C0EC567A2795"
 					silent: true
@@ -305,14 +305,14 @@
 			id: "295C986A5701D4D1"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "530B60E8D9713E33"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "1B50644AE6FB9E44"
 					silent: true
@@ -334,14 +334,14 @@
 			id: "0192B9CEBEEFFD51"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "00EC8FA7E7AE05A4"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "64AC1939713D1639"
 					silent: true
@@ -363,14 +363,14 @@
 			id: "57F0A9F3C4BD821C"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "7AE0B8522FA2433C"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "464B47C759EE86A4"
 					silent: true
@@ -392,14 +392,14 @@
 			id: "130F6E411F0553D7"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "4D0613C0AA16360E"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "0508616432078C1F"
 					silent: true
@@ -421,14 +421,14 @@
 			id: "38536FCA89129906"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "1B4D794F6CAC960D"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "1118F27BAAC8010E"
 					silent: true
@@ -450,14 +450,14 @@
 			id: "51F98B45CC9CB5F0"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "5468093BCF8252B6"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "4837704FD9C86EFC"
 					silent: true
@@ -479,14 +479,14 @@
 			id: "061DFAE291106AA4"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "36C16F21CDF11DC2"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "119AB2977D511657"
 					silent: true
@@ -508,14 +508,14 @@
 			id: "62075DA7A06B46D4"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "26F47F7DF4914491"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "1621D6295309D63D"
 					silent: true
@@ -537,14 +537,14 @@
 			id: "1EA8C058BC90A11A"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "086268B93F62CA78"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "58626238065E8678"
 					silent: true
@@ -566,14 +566,14 @@
 			id: "0432906EDF13F7AE"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "7B7997604C9D0A7B"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "095B0B5E7706777F"
 					silent: true
@@ -595,14 +595,14 @@
 			id: "74432FDDC7A43EB1"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "2D6D82B36157FEBA"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "1857A0C0924848A2"
 					silent: true
@@ -624,14 +624,14 @@
 			id: "01039BEE9C443F44"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "469AF3D7FD5D8C60"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "7E9D6E9A9D7B9B2F"
 					silent: true
@@ -653,14 +653,14 @@
 			id: "14923E6F16BFB0F5"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "12B3599DC9403BBE"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "2196026F9C0C864E"
 					silent: true
@@ -682,14 +682,14 @@
 			id: "73B67F6594B5D135"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "04A4E67BFB95B526"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "0FF209FBC7DA4DBC"
 					silent: true
@@ -711,14 +711,14 @@
 			id: "62EAB361A186CFBB"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "52155791EDF776B3"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "7E0C150FA281CDA3"
 					silent: true
@@ -740,14 +740,14 @@
 			id: "70992E617941F9ED"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "5C2F15EE993B5D66"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "5D18280055162D0C"
 					silent: true
@@ -769,14 +769,14 @@
 			id: "0DCA8577B5138CCE"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "40FD8FD72F37C81F"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "53135E958ED94E77"
 					silent: true
@@ -798,14 +798,14 @@
 			id: "1157A27ECD8456B9"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "1EBB9E60974BC7AD"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "0B205509AEB01795"
 					silent: true
@@ -827,14 +827,14 @@
 			id: "572B24037DA8D9A1"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "63A1948AB0361F10"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "208A813BA310628E"
 					silent: true
@@ -856,14 +856,14 @@
 			id: "56C177020392056E"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "63FC1B8F0FAAB583"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "09D8E1009EDBEE47"
 					silent: true
@@ -885,14 +885,14 @@
 			id: "284455841F0D4161"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "0D56FF6383524F91"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "6897A34222012251"
 					silent: true
@@ -914,14 +914,14 @@
 			id: "1786F53376FCDD84"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "43A309D3F8C60C8E"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "60941165A27A13DC"
 					silent: true
@@ -943,14 +943,14 @@
 			id: "5D696F946046E000"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "5D64ACD1C7E60E68"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "43D450B73579E0D4"
 					silent: true
@@ -972,14 +972,14 @@
 			id: "6B9C0A4540043324"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "6C3300342991A9B0"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "7891483931E2BDBB"
 					silent: true
@@ -1001,14 +1001,14 @@
 			id: "422096E795E9F356"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "217E80AB5B421963"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "2A2B78F1AB89B43A"
 					silent: true
@@ -1030,14 +1030,14 @@
 			id: "36CF329C633B854A"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "184E226654CF1067"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "0B0DAC1BACF3CC38"
 					silent: true
@@ -1059,14 +1059,14 @@
 			id: "5DA6682FDB76CAC5"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "4346D2C43BA5B24B"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "607D1E81BF0FCF02"
 					silent: true
@@ -1088,14 +1088,14 @@
 			id: "66972D13BF52C4E3"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "12122DFCA4E57FAA"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "0FED87EC7EC94EBB"
 					silent: true
@@ -1117,14 +1117,14 @@
 			id: "57DB5C4DA1C832C4"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "3DCE09C3C1447DC4"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "010E1DD0852D8968"
 					silent: true
@@ -1146,14 +1146,14 @@
 			id: "55240FF5E6D766FD"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "0C9FDD9718758DF3"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "1C266310E0965738"
 					silent: true
@@ -1175,14 +1175,14 @@
 			id: "0DF144954783DFFF"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "3A0FB01EF0029E37"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "57EA139A77FFFA43"
 					silent: true
@@ -1204,14 +1204,14 @@
 			id: "1DDADB41C7BE7A61"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "582326EE3A3337B7"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "539704D7F15636B8"
 					silent: true
@@ -1233,14 +1233,14 @@
 			id: "4BF637FCE1D35228"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "3CADB4BA62B33357"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "2BAE347C0E40D1F9"
 					silent: true
@@ -1262,14 +1262,14 @@
 			id: "27589721E704D6FA"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "52976887F29B77B5"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "7F264C908B24DC40"
 					silent: true
@@ -1291,14 +1291,14 @@
 			id: "2F545825EA03CF14"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "421A12492BC5DCF4"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "556F2B807B96F7AB"
 					silent: true
@@ -1320,14 +1320,14 @@
 			id: "202968222EB96FF8"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "067079E47C79DE53"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "7D5CFEDBC9D175AC"
 					silent: true
@@ -1349,14 +1349,14 @@
 			id: "18D3728148EA5763"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "7A38F02E1BF35639"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "020F99E41919C997"
 					silent: true
@@ -1378,14 +1378,14 @@
 			id: "166252E0676BB34D"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "0C924330DCC6638B"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "1A685F2F9B5E2C44"
 					silent: true
@@ -1407,14 +1407,14 @@
 			id: "1D9EFFF3E0B0D673"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "210BC8E59CCBADB6"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "316A194C5F356F50"
 					silent: true
@@ -1436,14 +1436,14 @@
 			id: "5FB504FC2F0A93B1"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "5C34D16A9BEEE971"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "3980ECFD95F36BFE"
 					silent: true
@@ -1465,14 +1465,14 @@
 			id: "212F720BED082F09"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "09107A85E3192C20"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "492B61A5918B870E"
 					silent: true
@@ -1494,14 +1494,14 @@
 			id: "789E8A2F2E839823"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "58000E283B413459"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "08D7CB1A4E3CAACA"
 					silent: true
@@ -1523,14 +1523,14 @@
 			id: "10082BCA9BC2A258"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "4DB5D188A093327C"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "61507D70C55033F0"
 					silent: true
@@ -1552,14 +1552,14 @@
 			id: "413269B30863E8DA"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "3338E75E1C0E7D5C"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "1B639AC4C7895E3A"
 					silent: true
@@ -1581,14 +1581,14 @@
 			id: "07E6B1EE3C87BFBA"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "710DDE01BA51B80A"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "29E3005371B3B894"
 					silent: true
@@ -1610,14 +1610,14 @@
 			id: "22168C4752E78255"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "2BAD37BA60169D34"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "26CF3969856996A7"
 					silent: true
@@ -1639,14 +1639,14 @@
 			id: "152EFC3738879BB4"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "78FF59696A36E6BE"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "53C2CFD0CD161E9F"
 					silent: true
@@ -1668,14 +1668,14 @@
 			id: "364D7D0840AA35AA"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "38B4F4EE5FC40C5D"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "36881C88CEBE491B"
 					silent: true
@@ -1697,14 +1697,14 @@
 			id: "71D9E4E4ED52D7E6"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "308BA017813535FA"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "2B0B27E284B7F66C"
 					silent: true
@@ -1726,14 +1726,14 @@
 			id: "5CF386610E19E222"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "433274AFC7BAFAE5"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "45BDA28B02A0115E"
 					silent: true
@@ -1755,14 +1755,14 @@
 			id: "40470BC938109AB6"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "1DF12C5F69A7B978"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "10D24F136506C803"
 					silent: true
@@ -1784,14 +1784,14 @@
 			id: "7FDDC91547CCC951"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "720F3E5D7C9DA36D"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "6DBE34DDAAF00959"
 					silent: true
@@ -1813,14 +1813,14 @@
 			id: "2AF94A4E214247B7"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "0F206915B5D908AE"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "3F520C7D0DD7C331"
 					silent: true
@@ -1842,14 +1842,14 @@
 			id: "38AD33287133C75E"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "2B3172FF1E2020D6"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "40FE75A41BEA9822"
 					silent: true
@@ -1871,14 +1871,14 @@
 			id: "5BA5501A1DB04AC5"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "1DB9F9ABDC24CB6F"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "552F6AEB9428C82F"
 					silent: true
@@ -1900,14 +1900,14 @@
 			id: "1FEA9C4BA6D08AA0"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "5C9B6CEC5B01D757"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "0CF518510E6D38DA"
 					silent: true
@@ -1929,14 +1929,14 @@
 			id: "2A3B6512169895C5"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "634F8A3344FEDBE0"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "696D8FF1ED5099EE"
 					silent: true
@@ -1958,14 +1958,14 @@
 			id: "6F8028F064BB29FE"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "4F179E656C109A77"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "4108BBEB4EA1FE16"
 					silent: true
@@ -1987,14 +1987,14 @@
 			id: "4E34F495545EAEE3"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "56651182B06FE04D"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "5461A9F9CAB64C4E"
 					silent: true
@@ -2016,14 +2016,14 @@
 			id: "41CA2AAA6BA6981A"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "551240653EECD00F"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "58D603C13F09CAE0"
 					silent: true
@@ -2045,14 +2045,14 @@
 			id: "6B19E0D9D9894931"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "162237FADC43A8CB"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "4D1E4299B541422B"
 					silent: true
@@ -2074,14 +2074,14 @@
 			id: "0B92ACBFC5DA03FB"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "42110EC5FC3E0159"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "4FCD449506256ECC"
 					silent: true
@@ -2103,14 +2103,14 @@
 			id: "02F6CE1F1B1CF04E"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "2A199DD6624C64DD"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "75EA24EA2E4D6403"
 					silent: true
@@ -2132,14 +2132,14 @@
 			id: "67BDCFEB0922E814"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "76296C7D0ED0400A"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "3B2179CCD3F39D79"
 					silent: true
@@ -2161,14 +2161,14 @@
 			id: "76F1BB0AEF24410E"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "7ECF8D409D5DC6EF"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "5781F9678C4B2AB6"
 					silent: true
@@ -2190,14 +2190,14 @@
 			id: "46D567DE9AAD572B"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "213DAA3875121C1C"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "0F214603C6662557"
 					silent: true
@@ -2219,14 +2219,14 @@
 			id: "6993883D4B5E7BBB"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "198BC7548BE061D4"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "721B60285EE184A4"
 					silent: true
@@ -2248,14 +2248,14 @@
 			id: "002FE540D477E7E4"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "307A71505FAB7AE1"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "765A8D1BACCE8050"
 					silent: true
@@ -2277,14 +2277,14 @@
 			id: "69313A18A54335B5"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "461E6F22C5AB8FEC"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "48E645FEF708608C"
 					silent: true
@@ -2306,14 +2306,14 @@
 			id: "42AB19CCF5763144"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "56BE1F0210917F34"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "63243B7D8FFBC7D3"
 					silent: true
@@ -2335,14 +2335,14 @@
 			id: "495BAAF005B19B1E"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "3EBF6D6292DF7235"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "4E809279DFE62D17"
 					silent: true
@@ -2364,14 +2364,14 @@
 			id: "4F9DA97AA3358DA3"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "45E1C8855FBF9596"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "3412C1A7814E2E18"
 					silent: true
@@ -2393,14 +2393,14 @@
 			id: "0F47894A6D13590C"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "47C2241A797E1164"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "52DD37461A1023F6"
 					silent: true
@@ -2422,14 +2422,14 @@
 			id: "04AD6AD7F8268F51"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "6317C5D837843B72"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "24BB728C83818A05"
 					silent: true
@@ -2451,14 +2451,14 @@
 			id: "1B465A078DE95E01"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "347F805D827CDB21"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "30922DA5CDD4DF15"
 					silent: true
@@ -2480,14 +2480,14 @@
 			id: "33D4A7645EA94952"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "2A9075713EB985F2"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "19361F27E6DC6339"
 					silent: true
@@ -2509,14 +2509,14 @@
 			id: "4DF1A4BE62148D2B"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "657E2C342F622D2D"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "4F2ADB48E05AB485"
 					silent: true
@@ -2538,14 +2538,14 @@
 			id: "71F35D1D5A103717"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "1BD1887B4B6B70BC"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "458FEB56D446BB31"
 					silent: true
@@ -2567,14 +2567,14 @@
 			id: "4152F736164A5CC2"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
 					id: "14E282F219F56B2E"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
 					id: "0F254891B1CB8C5D"
 					silent: true

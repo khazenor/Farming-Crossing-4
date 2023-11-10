@@ -75,14 +75,14 @@
 					type: "item"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard objectives add meals_cooked dummy {\"text\": \"Meals Cooked\"}"
 					id: "61E3655236FD69AF"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players set @p meals_cooked 0"
 					id: "76209B45DC479F94"
 					silent: true
@@ -445,14 +445,14 @@
 					type: "item"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard objectives add fishes_caught dummy {\"text\": \"Fishes Caught\"}"
 					id: "45C7C07A5B8073F3"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players set @p fishes_caught 0"
 					id: "34E59E2844D76680"
 					silent: true
@@ -503,14 +503,14 @@
 					type: "item"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard objectives add minerals_collected dummy {\"text\": \"Minerals Collected\"}"
 					id: "494299BE3E6F883D"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players set @p minerals_collected 0"
 					id: "3D7AEC795A697798"
 					silent: true
@@ -559,42 +559,42 @@
 					type: "item"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard objectives add common_decoration dummy {\"text\": \"Common Decoration Purchased\"}"
 					id: "4AABC31590798D31"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players set @p common_decoration 0"
 					id: "26651F58DD1EB771"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard objectives add rare_decoration dummy {\"text\": \"Rare Decoration Purchased\"}"
 					id: "26645326E412E720"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players set @p rare_decoration 0"
 					id: "7E0E91D6390CCA52"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard objectives add hat_collected dummy {\"text\": \"Hat Collected\"}"
 					id: "375D719D60B86FB6"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players set @p hat_collected 0"
 					id: "2A43EE15214CB6F6"
 					silent: true
@@ -753,14 +753,14 @@
 					type: "item"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard objectives add animals_observed dummy {\"text\": \"Animals Observed\"}"
 					id: "4223BF5BD1A4E7EF"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players set @p animals_observed 0"
 					id: "0A1350400399CDE5"
 					silent: true
@@ -838,14 +838,14 @@
 					type: "item"
 				}
 				{
-					auto: "invisible"
+					auto: "no_toast"
 					id: "7D9CB893FBC2BB64"
 					ignore_reward_blocking: true
 					stage: "crafting_grid"
 					type: "gamestage"
 				}
 				{
-					auto: "invisible"
+					auto: "no_toast"
 					id: "4A564939D746E4A8"
 					ignore_reward_blocking: true
 					stage: "1k_storage_disk"
@@ -876,7 +876,7 @@
 					type: "item"
 				}
 				{
-					auto: "invisible"
+					auto: "no_toast"
 					id: "543B029F09BA36B8"
 					ignore_reward_blocking: true
 					stage: "4k_storage_disk"
@@ -907,7 +907,7 @@
 					type: "item"
 				}
 				{
-					auto: "invisible"
+					auto: "no_toast"
 					id: "75952577EC152C8B"
 					ignore_reward_blocking: true
 					stage: "16k_storage_disk"
@@ -938,7 +938,7 @@
 					type: "item"
 				}
 				{
-					auto: "invisible"
+					auto: "no_toast"
 					id: "4000E5C7BA71E044"
 					ignore_reward_blocking: true
 					stage: "64k_storage_disk"
@@ -1232,7 +1232,7 @@
 					type: "item"
 				}
 				{
-					auto: "invisible"
+					auto: "no_toast"
 					id: "03D91275017ECFF5"
 					ignore_reward_blocking: true
 					stage: "bag_of_yurting"
@@ -1267,14 +1267,14 @@
 					type: "item"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard objectives add flora_collected dummy {\"text\": \"Flora Collected\"}"
 					id: "195C2431BB9CB5A9"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players set @p flora_collected 0"
 					id: "7804712B3F04829B"
 					silent: true
@@ -1342,7 +1342,7 @@
 					type: "item"
 				}
 				{
-					auto: "invisible"
+					auto: "no_toast"
 					id: "227CAE340E7B7893"
 					ignore_reward_blocking: true
 					stage: "airship"
@@ -1377,7 +1377,7 @@
 					type: "item"
 				}
 				{
-					auto: "invisible"
+					auto: "no_toast"
 					id: "702591C99ACFEBD1"
 					ignore_reward_blocking: true
 					stage: "cargo_airship"
@@ -1414,7 +1414,7 @@
 					type: "item"
 				}
 				{
-					auto: "invisible"
+					auto: "no_toast"
 					id: "7C6F406F5DCBEB79"
 					ignore_reward_blocking: true
 					stage: "biplane"
@@ -1451,7 +1451,7 @@
 					type: "item"
 				}
 				{
-					auto: "invisible"
+					auto: "no_toast"
 					id: "1FDE9C2281DA0CA4"
 					ignore_reward_blocking: true
 					stage: "gyrodyne"
@@ -1488,7 +1488,7 @@
 					type: "item"
 				}
 				{
-					auto: "invisible"
+					auto: "no_toast"
 					id: "51D9090214FB636B"
 					ignore_reward_blocking: true
 					stage: "quadrocopter"

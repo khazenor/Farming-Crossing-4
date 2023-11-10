@@ -15,14 +15,14 @@
 			id: "63E76DF0009F4FAD"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "5BCEDA87E104055F"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "2554CF8C621CE57C"
 					silent: true
@@ -44,14 +44,14 @@
 			id: "1F1B9DE7AC2CDA3D"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "06D922DA4ADCFF58"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "4EAF9825284843F4"
 					silent: true
@@ -73,14 +73,14 @@
 			id: "080E06114495234C"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "6BFACB540CB05492"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "6583B8BFDEF615B5"
 					silent: true
@@ -102,14 +102,14 @@
 			id: "74677180DBB925E1"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "7F914228F486EFBF"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "322495E241C28181"
 					silent: true
@@ -131,14 +131,14 @@
 			id: "7A08BF49DAE900EB"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "50573EB20115CC0D"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "377AB54AC16C84FC"
 					silent: true
@@ -160,14 +160,14 @@
 			id: "6EFDFA40A927DA64"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "2D8A82B7E36B6222"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "028519FC0EB9B4DB"
 					silent: true
@@ -189,14 +189,14 @@
 			id: "502585DE98E9C746"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "2E370AEF40EF8EF9"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "43419C1B1CCDDE46"
 					silent: true
@@ -218,14 +218,14 @@
 			id: "1F0AFE84F64FFD54"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "3316A3E51CCF0FB0"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "65601F55520F1E1C"
 					silent: true
@@ -247,14 +247,14 @@
 			id: "6A64ECA14DC127C7"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "76BE48452F67DFEB"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "7A4173328556EE20"
 					silent: true
@@ -276,14 +276,14 @@
 			id: "6EE7F44E34C8C09A"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "1595C71E42336B71"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "55BBBD5948A8836B"
 					silent: true
@@ -305,14 +305,14 @@
 			id: "62821E070CBD8312"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "67AAC6AA22B64031"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "6FC1B46D420191AE"
 					silent: true
@@ -334,14 +334,14 @@
 			id: "22F6405431B17B3B"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "31CF2653A06FA2E8"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "7B9679F9900184B3"
 					silent: true
@@ -363,14 +363,14 @@
 			id: "0809A9237F05205A"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "4DD98BB3A1371CB4"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "3A030334961AC7EB"
 					silent: true
@@ -392,14 +392,14 @@
 			id: "23E18DF66D72C690"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "145CB4357D75AA86"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "5D18BFC56BA4F8F7"
 					silent: true
@@ -421,14 +421,14 @@
 			id: "384A5D41F300A0BC"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "46FC6A4B0F1031E9"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "5408976F92CBCF37"
 					silent: true
@@ -450,14 +450,14 @@
 			id: "0E54B87EA3337D21"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "76D1AA3AF7601148"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "64CEC44B52225A1E"
 					silent: true
@@ -479,14 +479,14 @@
 			id: "69CD2E4184EEF711"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "6E7BA6EDBF802668"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "32F8B1E88B1306E9"
 					silent: true
@@ -508,14 +508,14 @@
 			id: "7FC1CFCAF17BC8EE"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "6CEA766458F7EFEA"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "2B3FD309AC685E15"
 					silent: true
@@ -537,14 +537,14 @@
 			id: "1ADB42F6FFEEEE7D"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "2BB73D818450CFC8"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "62F77246D469F738"
 					silent: true
@@ -566,14 +566,14 @@
 			id: "07BD2E9F50B23F01"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "61760A1208306055"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "6AFD183B0FFAD45C"
 					silent: true
@@ -595,14 +595,14 @@
 			id: "261CC110652A68E2"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "014CABFA1EC6BAED"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "3A72039FF93A72E1"
 					silent: true
@@ -624,14 +624,14 @@
 			id: "1E5AD04F7E99FDF4"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "2911ACB3233A1F94"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "4DC752D15BECB567"
 					silent: true
@@ -653,14 +653,14 @@
 			id: "2443AADE1565FDEB"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "16943E3E5AFA225F"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "042AB28C65FA29D7"
 					silent: true
@@ -682,14 +682,14 @@
 			id: "57FFE612A60C7125"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "454D0B714F84A910"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "4C668C518EC1F370"
 					silent: true
@@ -711,14 +711,14 @@
 			id: "3536160081F124BA"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "076CFC56F822BEBF"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "3DC219A84D8D9BC0"
 					silent: true
@@ -740,14 +740,14 @@
 			id: "2AD4E1B8051C38F9"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "73D29898B95F1F32"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "5178987E219FF599"
 					silent: true
@@ -769,14 +769,14 @@
 			id: "54F4965D87C8F5C7"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "227C8B9A96499EC2"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "3776A1E9E4D92587"
 					silent: true
@@ -798,14 +798,14 @@
 			id: "00B3C432B1405102"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "180531A9F5EE5AF3"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "03D4EC3A5E6BDE06"
 					silent: true
@@ -827,14 +827,14 @@
 			id: "6805093097577877"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "43B4ED0D27A1D99F"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "06AF7BFB174A1C8E"
 					silent: true
@@ -856,14 +856,14 @@
 			id: "263F670B1DBAF786"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "21C531D464BBB81D"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "397003817C88856A"
 					silent: true
@@ -885,14 +885,14 @@
 			id: "04B69D191F5D0EFD"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "71C45BB61BDF4500"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "522AA1755C6C167C"
 					silent: true
@@ -914,14 +914,14 @@
 			id: "5CB6670F88B819DC"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "5CE3A6FFEFCD4B29"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "1573EE4808E2D679"
 					silent: true
@@ -943,14 +943,14 @@
 			id: "2BC0A60B0E1DCA95"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "76D21A68B0C9844E"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "0119491501989F2C"
 					silent: true
@@ -972,14 +972,14 @@
 			id: "36518E779DB42646"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "7F3724C10EA2785F"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "3068AD0ABCA6A83C"
 					silent: true
@@ -1001,14 +1001,14 @@
 			id: "7643C89A74BF5CA9"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "1903E945E55EC036"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "1E6E1AB066DBAA9E"
 					silent: true
@@ -1030,14 +1030,14 @@
 			id: "0539827DA1FB91FA"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "57AC4BB1A36E2A76"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "788AEA0C3F9193DE"
 					silent: true
@@ -1059,14 +1059,14 @@
 			id: "00F817F6A31E472C"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "5F00978F9740D2E1"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "34A52B9EC4BF234A"
 					silent: true
@@ -1088,14 +1088,14 @@
 			id: "54BB6EF832551CB5"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "0114FFAE8E719957"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "28D60054EAF97E7F"
 					silent: true
@@ -1117,14 +1117,14 @@
 			id: "4DFB3F1499433AB9"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "440F415D0BFC0BAA"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "1E8F7238479C2F20"
 					silent: true
@@ -1146,14 +1146,14 @@
 			id: "294D5614C5413BB3"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "111C68BB46922494"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "6F4090006E40053B"
 					silent: true
@@ -1175,14 +1175,14 @@
 			id: "74DE4AF0A9AF1E09"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "309554DCEFB15211"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "524E4A63E687631A"
 					silent: true
@@ -1204,14 +1204,14 @@
 			id: "565C11086023567D"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "305F83AB94055DAF"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "163105CCDEF5388D"
 					silent: true
@@ -1233,14 +1233,14 @@
 			id: "2E0E5B45F7D63A97"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "0ED5E3C4F4973214"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "3EC9DF052F7C4E34"
 					silent: true
@@ -1262,14 +1262,14 @@
 			id: "34989D790FF6B045"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "2C794E493151F044"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "2154625CF11EE9F6"
 					silent: true
@@ -1291,14 +1291,14 @@
 			id: "53EA6ED715BD867B"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "2CFE9B04500CBDAF"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "6E917D7071A46A4F"
 					silent: true
@@ -1320,14 +1320,14 @@
 			id: "75242C486AEA9C2F"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
 					id: "7EB5AC48603D1021"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
 					id: "3D076EE2D42BF6C9"
 					silent: true

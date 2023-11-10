@@ -15,14 +15,14 @@
 			id: "0D13A5CD7FB3E821"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "4C9C713B3F14E2B9"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "61FA802C2D678AC8"
 					silent: true
@@ -44,14 +44,14 @@
 			id: "693D86928A437BC0"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "60941D81CE399A51"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "07F5BFEB45F34ABA"
 					silent: true
@@ -73,14 +73,14 @@
 			id: "43C8996D95EC651A"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "4DBD3B13590C0960"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "6B2316DB6F609DCF"
 					silent: true
@@ -102,14 +102,14 @@
 			id: "271B303FA1543EF2"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "643C18E23ABBB374"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "7B3E7D03A786091F"
 					silent: true
@@ -131,14 +131,14 @@
 			id: "067FDC7420621D72"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "3B25098A92F95B36"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "37D38249B35E9B16"
 					silent: true
@@ -160,14 +160,14 @@
 			id: "620E3116655D1248"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "7252F8A345C4E6BF"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "544645E541FCD7B3"
 					silent: true
@@ -189,14 +189,14 @@
 			id: "4982D1DD743B48E1"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "7F65026F21EB27FC"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "3DB9BD7BA62D172A"
 					silent: true
@@ -218,14 +218,14 @@
 			id: "4927606D8274E75B"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "214FB270DF5AC613"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "0E495780507DCE1E"
 					silent: true
@@ -247,14 +247,14 @@
 			id: "3CF5CD4CE098596D"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "6695B1F585DCCB2B"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "5299056359652F54"
 					silent: true
@@ -276,14 +276,14 @@
 			id: "23CAF13DACCA6F7D"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "59E4C94538C57A7C"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "0C2DD631B5D6299A"
 					silent: true
@@ -305,14 +305,14 @@
 			id: "185117F590477F9D"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "43E6866A5E425EA4"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "427B88F6AE58DAB4"
 					silent: true
@@ -334,14 +334,14 @@
 			id: "2C4C69229CA8AB52"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "09C63B11D6D06389"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "3A7821EF01036370"
 					silent: true
@@ -363,14 +363,14 @@
 			id: "7698A406A677BC27"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "7439E5FFAE39BF30"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "54600339757E5A61"
 					silent: true
@@ -392,14 +392,14 @@
 			id: "13D7F353C5780D4D"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "47DA720423762508"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "7A90C6BAC3A6011B"
 					silent: true
@@ -421,14 +421,14 @@
 			id: "5283AA1842459E69"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "694ADD08AF53C992"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "64AD2722A599E820"
 					silent: true
@@ -450,14 +450,14 @@
 			id: "624E062718989329"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "2EE5A3197610EBBD"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "1D8B7C97CB57C008"
 					silent: true
@@ -479,14 +479,14 @@
 			id: "281FDF5209E3D064"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "0A798F4965909F94"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "392174A5D28DE0E4"
 					silent: true
@@ -508,14 +508,14 @@
 			id: "19C24780B9D02FD0"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "70CB8D59A3AFB0F9"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "1BAA6D6327186E8A"
 					silent: true
@@ -537,14 +537,14 @@
 			id: "44C550D67EF1BABF"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "72684F34FC2E1BAB"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "7F7B26064926F3E0"
 					silent: true
@@ -566,14 +566,14 @@
 			id: "27FA6276BD88AEE8"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "625077727CA1BD83"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "08698A5B5E3B20C6"
 					silent: true
@@ -595,14 +595,14 @@
 			id: "5B2F9058C55FDA93"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "36723B8F150E24A2"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "79774DE47E412623"
 					silent: true
@@ -624,14 +624,14 @@
 			id: "17B7F3D90C9BDFD3"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "3ABFBC47C8FFDD2E"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "41679A6ADC8362DE"
 					silent: true
@@ -653,14 +653,14 @@
 			id: "4C113608D399D010"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "41731536E0C3B77C"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "5F47001E134EDB2F"
 					silent: true
@@ -682,14 +682,14 @@
 			id: "7546D4A69C616B12"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "4C70A905DF31FF4C"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "761528BF5F60DCB4"
 					silent: true
@@ -711,14 +711,14 @@
 			id: "3EE046BAD3458D6E"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "2AA84EC1E7219171"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "73392AE205E273F0"
 					silent: true
@@ -740,14 +740,14 @@
 			id: "1087766C6AACA954"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "635021664D53471E"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "0B7E407337402404"
 					silent: true
@@ -769,14 +769,14 @@
 			id: "7EAE46A06160964E"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "1F41671479382829"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "581525FE42B135F7"
 					silent: true
@@ -798,14 +798,14 @@
 			id: "47EA005EC2456BF5"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "5D889E18338F9F5A"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "7E9C4A4B44602EEE"
 					silent: true
@@ -827,14 +827,14 @@
 			id: "11D51C247046BC54"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "74E27C3B27B66572"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "32B824330C7B2A9A"
 					silent: true
@@ -856,14 +856,14 @@
 			id: "71741EAD179FCC42"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "480D76EFFCCD6CF1"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "5D1B330A45BD670C"
 					silent: true
@@ -885,14 +885,14 @@
 			id: "4372E37E3D69FF47"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "60E52EAAC64B9534"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "52BA8153209C9F3F"
 					silent: true
@@ -914,14 +914,14 @@
 			id: "60E9B963EE29F416"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "0A0A72F013DAE875"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "52419F5DFFA6648F"
 					silent: true
@@ -943,14 +943,14 @@
 			id: "71AD4B991609DCA3"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "0D1DFD3F88223787"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "1895FC82A4172F8D"
 					silent: true
@@ -972,14 +972,14 @@
 			id: "2E2C1E0274FABEA0"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "40D3AFC588954B03"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "14B7572170E88C3B"
 					silent: true
@@ -1001,14 +1001,14 @@
 			id: "39F5B4AAEB6E9A66"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "4C2FD88FCBD0687D"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "4A9893D017C6116E"
 					silent: true
@@ -1030,14 +1030,14 @@
 			id: "3584A1D7237F3A93"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "06A93919A72A4DE1"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "5EE72411CE738E13"
 					silent: true
@@ -1059,14 +1059,14 @@
 			id: "298E4064355FE649"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "1FC51011AC41630B"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "4A50A34F4491D35C"
 					silent: true
@@ -1088,14 +1088,14 @@
 			id: "688741C279CA5BA4"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "1EAEC58820320220"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "0D7007C85AE316B2"
 					silent: true
@@ -1117,14 +1117,14 @@
 			id: "01D04A7F6C4FCABB"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "66E1CB3B2A48B466"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "466412B872205BBF"
 					silent: true
@@ -1146,14 +1146,14 @@
 			id: "2CC5985EABEA86AC"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "5E6696207BD48557"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "5AF6A73DC3873215"
 					silent: true
@@ -1175,14 +1175,14 @@
 			id: "19C2252CA5CB8DBC"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "40A24697A3B5E9C9"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "5A17EBF7417D8B64"
 					silent: true
@@ -1204,14 +1204,14 @@
 			id: "6085C20188F95B72"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "3A527E4EFCD68AA7"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "0D05970FDD59053A"
 					silent: true
@@ -1233,14 +1233,14 @@
 			id: "56E39C7581285A73"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "2D63C65B3C9B15E1"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "4E2752DFAEA63EE0"
 					silent: true
@@ -1262,14 +1262,14 @@
 			id: "24AC66588D27FFD9"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "031C3AD051D508C1"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "771A70BD4C83DFED"
 					silent: true
@@ -1291,14 +1291,14 @@
 			id: "5D6B5BACB225716F"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "13EE152713C2B897"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "747E21F7C29FE540"
 					silent: true
@@ -1320,14 +1320,14 @@
 			id: "637CAFFC692D0ED4"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "614059096B4E7C1D"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "59251BF3F1718FC5"
 					silent: true
@@ -1349,14 +1349,14 @@
 			id: "1905A2A6B2EA41A3"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "3ED46C545C48FFC9"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "652CAA04A061CD00"
 					silent: true
@@ -1378,14 +1378,14 @@
 			id: "242CD9A323311E5D"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "4DE08DCA9CDE33C0"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "773CA566A8ABEECC"
 					silent: true
@@ -1407,14 +1407,14 @@
 			id: "4D247CE446345806"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "392A44D983C66223"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "70DE486397FDB600"
 					silent: true
@@ -1436,14 +1436,14 @@
 			id: "5E9A50DCA354D057"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "482C16040A1C04DA"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "7849B1D1D8C96B26"
 					silent: true
@@ -1465,14 +1465,14 @@
 			id: "50B174939069BE97"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "1FF6540DE0C29E92"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "54BF04C38B80F10E"
 					silent: true
@@ -1494,14 +1494,14 @@
 			id: "6E2A4F12E1C5A3C6"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "542CE36F4129C78B"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "4C9D1BAD2DCEC6C6"
 					silent: true
@@ -1523,14 +1523,14 @@
 			id: "585ACD6BC4CA0C8C"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "4FDAF60DCBFCE5D8"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "06E2492A51E84078"
 					silent: true
@@ -1552,14 +1552,14 @@
 			id: "68DE37CFB7D39874"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "49A4DA064A2BD212"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "6F651065EF4CBE0C"
 					silent: true
@@ -1581,14 +1581,14 @@
 			id: "1B3898959A34C35A"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "4732ACA81B23714C"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "0E06B469C2028BA2"
 					silent: true
@@ -1610,14 +1610,14 @@
 			id: "16B5ACFE7CDE4371"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "21BA73D22CFC9D3F"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "7C2F398C789F60BD"
 					silent: true
@@ -1639,14 +1639,14 @@
 			id: "344E6134E6D8A6A1"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "49899AD94A70E16F"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "5BB67B85DAE36CB3"
 					silent: true
@@ -1668,14 +1668,14 @@
 			id: "7AFA0CDD0392A7F5"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "75844A7CDBCBFB4C"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "5D09E0172882318B"
 					silent: true
@@ -1697,14 +1697,14 @@
 			id: "294E0BE1C5AC7C4A"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "47A895ACFFD9245B"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "7F4F4182CAF74344"
 					silent: true
@@ -1726,14 +1726,14 @@
 			id: "5F67CDB1A4DAFB04"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "12EF86623D6D422F"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "12F7C90AD8FEFF6E"
 					silent: true
@@ -1755,14 +1755,14 @@
 			id: "5F2BB0949BFDB729"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "465E489315C40205"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "216B87E1F6A1671F"
 					silent: true
@@ -1784,14 +1784,14 @@
 			id: "00FB4B41D29855D5"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "7D2A193F372C3B14"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "58C47DF6F6FC9DD8"
 					silent: true
@@ -1813,14 +1813,14 @@
 			id: "331A3300CD059023"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "29AD52CB053A9177"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "359ADBDF4A8E72C5"
 					silent: true
@@ -1842,14 +1842,14 @@
 			id: "248DA6030C00E50E"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "2905F0010FD60358"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "05BC6C20B57AB949"
 					silent: true
@@ -1871,14 +1871,14 @@
 			id: "33EE0B5F456186AB"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "504CC6128B9CFFF9"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "60FA7F8CBABB5AB7"
 					silent: true
@@ -1900,14 +1900,14 @@
 			id: "7813B3F8A553921E"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "3372B780FAD6FB50"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "653E600615BF4711"
 					silent: true
@@ -1929,14 +1929,14 @@
 			id: "0A391C3AE2B78DDB"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "2B3848AFF4665AEF"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "32BFD3217B203A2B"
 					silent: true
@@ -1958,14 +1958,14 @@
 			id: "3FC113A4238CFEFA"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "2469EDF91213A670"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "67AF36D8CCBF55A9"
 					silent: true
@@ -1987,14 +1987,14 @@
 			id: "6C01FC4B55E82D53"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "270A6A3AA1555A83"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "01036F7EB26255BD"
 					silent: true
@@ -2016,14 +2016,14 @@
 			id: "627F6FC7C32DC999"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "207825684F114457"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "0976490AB4E30393"
 					silent: true
@@ -2045,14 +2045,14 @@
 			id: "5FB4B25B0E59E79B"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "5C0865FECAB55369"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "2C6717484E5A2878"
 					silent: true
@@ -2074,14 +2074,14 @@
 			id: "30BA7012E06C8957"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "502275FD9A87E1B3"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "7770742A39D8C4B9"
 					silent: true
@@ -2103,14 +2103,14 @@
 			id: "53A27A42FF87A4A0"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "26BC1505D314A9CA"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "654DE8490BD52C62"
 					silent: true
@@ -2132,14 +2132,14 @@
 			id: "7C9163F025FA064E"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "25CB79A4A2BE2ADC"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "3565030F686C73FA"
 					silent: true
@@ -2161,14 +2161,14 @@
 			id: "69F6DB3E1532FF4A"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "5FBFEB411507E0D3"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "55ABC3FD7F9F2B13"
 					silent: true
@@ -2190,14 +2190,14 @@
 			id: "78B89DEAE6C1222D"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "054A9CAB9BDCB1E8"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "722F97E26C7C6434"
 					silent: true
@@ -2219,14 +2219,14 @@
 			id: "6EC21445AB36151E"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "4F25A4F67F5D5D9F"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "5A5AD11943DEE7B8"
 					silent: true
@@ -2248,14 +2248,14 @@
 			id: "5888104E7AF66003"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "1D3BDB8E89218527"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "33209558675673B9"
 					silent: true
@@ -2277,14 +2277,14 @@
 			id: "7591DC31A36D02F0"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "5A3A33B81EF54FEC"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "34D5A5D2E5A14E2B"
 					silent: true
@@ -2306,14 +2306,14 @@
 			id: "74AD4A25B7C01AE2"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "47B9B6C618016ECD"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "1CD93534A50586DB"
 					silent: true
@@ -2335,14 +2335,14 @@
 			id: "6E5DC48A5F86D9BD"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "6B445CBC7194CDDB"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "3CF1564172E1A41D"
 					silent: true
@@ -2364,14 +2364,14 @@
 			id: "013399C2B9336343"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "0D526B4AF08A1E6E"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "4B24F865C30B85B5"
 					silent: true
@@ -2393,14 +2393,14 @@
 			id: "5A6FECB8FB33E547"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "01240D6EDF88592A"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "06319FB3CE8F439C"
 					silent: true
@@ -2422,14 +2422,14 @@
 			id: "2BE0A60D5B65F589"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "408841CC11D2271E"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "2708D2E00F7D6BF7"
 					silent: true
@@ -2451,14 +2451,14 @@
 			id: "23E475D833B43C98"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "72B15E550EBE5991"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "19EAB875D78D053E"
 					silent: true
@@ -2480,14 +2480,14 @@
 			id: "45AD28E233C92143"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "652BC850DD08C7AA"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "052D6038F41297CE"
 					silent: true
@@ -2509,14 +2509,14 @@
 			id: "1507C4FA7F0B03AD"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "5C5ACCBC8A8807C8"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "5AD97EE7AC226E5B"
 					silent: true
@@ -2538,14 +2538,14 @@
 			id: "2F75C56D7D143E65"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "7D27E8C5F9E055A2"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "45A7BA4593A932A3"
 					silent: true
@@ -2567,14 +2567,14 @@
 			id: "6078B7D4A50D953B"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "5B278C832F77F870"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "53C7A5F7ACFB50DF"
 					silent: true
@@ -2596,14 +2596,14 @@
 			id: "5BA8801EF2371E64"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "27445E73BCC630B1"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "1EA32E736CC51992"
 					silent: true
@@ -2625,14 +2625,14 @@
 			id: "7E9774E0AE593AEC"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "0A076D768C0C4388"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "59516C662CAF9D90"
 					silent: true
@@ -2654,14 +2654,14 @@
 			id: "7B7B4BE9A6024C8F"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "51DDCB6345F1458A"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "11E343A8B47B38DA"
 					silent: true
@@ -2683,14 +2683,14 @@
 			id: "517D3244A71ACEA2"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "31B73C3B95AEE715"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "6B8B1A695DCAF1BB"
 					silent: true
@@ -2712,14 +2712,14 @@
 			id: "12F5DB111195017F"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "1D0D8F06148DFE8B"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "09FED1BAB1E65E1E"
 					silent: true
@@ -2741,14 +2741,14 @@
 			id: "0713931866A2619D"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "5C06371BCE643E73"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "034AF3BFAD08DC2D"
 					silent: true
@@ -2770,14 +2770,14 @@
 			id: "6551E4A3094B4428"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "27BB78397AC36272"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "5BD7A995CF1130AC"
 					silent: true
@@ -2799,14 +2799,14 @@
 			id: "796CD53B72DB91C8"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "77D14EF148BE5C03"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "6A34B36E4B62F575"
 					silent: true
@@ -2828,14 +2828,14 @@
 			id: "7B34BD6E24C86B04"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "21D4AEA643EB53E6"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "05AFE8C669827222"
 					silent: true
@@ -2857,14 +2857,14 @@
 			id: "17A9629FD872DC47"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "5641486CC9943117"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "14ABB6C03AF35852"
 					silent: true
@@ -2886,14 +2886,14 @@
 			id: "533188676075D085"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "435AFE993F3553DE"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "007B5AF53CB55CC6"
 					silent: true
@@ -2915,14 +2915,14 @@
 			id: "176339151659BDAF"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "22A5F04C3A25ADC9"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "280D5FEA3C32C63B"
 					silent: true
@@ -2944,14 +2944,14 @@
 			id: "3F981BB71A0DD0D0"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "32546B8D1C41C4C2"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "23356D047AC04FDA"
 					silent: true
@@ -2973,14 +2973,14 @@
 			id: "5D7C29EF812B8A62"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "17CF7DC69526C547"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "7C4EBF62344E55B6"
 					silent: true
@@ -3002,14 +3002,14 @@
 			id: "6249225809559190"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "6C891758C6DAE88C"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "223E8B608AA5497D"
 					silent: true
@@ -3031,14 +3031,14 @@
 			id: "167CF03C90CFCA98"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "12111E5C011632AC"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "162D4E6D3E92FEE2"
 					silent: true
@@ -3060,14 +3060,14 @@
 			id: "4CD0A5AD6008A503"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "3E04BD12227CB60E"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "78C4E25D2CD62CF8"
 					silent: true
@@ -3089,14 +3089,14 @@
 			id: "563F6721DDC1DAA8"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "3D759EF9CC5EA00E"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "48F5FBE7B3B7B064"
 					silent: true
@@ -3118,14 +3118,14 @@
 			id: "10EEAF96F5D93780"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "1AA9BE9174151CE5"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "5BC2FBAC9661FAD0"
 					silent: true
@@ -3147,14 +3147,14 @@
 			id: "28F83AA205C3EF8F"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "2A633FCB68951AEF"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "65F81650B77C5C1D"
 					silent: true
@@ -3176,14 +3176,14 @@
 			id: "4A64DC8E3A2047F0"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "231A2F26B8C231E9"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "06B66CA7534CE8E5"
 					silent: true
@@ -3205,14 +3205,14 @@
 			id: "797077C8296F11BD"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "267AD0C42195FCE5"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "4792CD05301131B2"
 					silent: true
@@ -3234,14 +3234,14 @@
 			id: "2B2959BEE4A6CB5A"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "07EA6EBC0C373C52"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "72FD964392985C5D"
 					silent: true
@@ -3263,14 +3263,14 @@
 			id: "24E056382FC27D25"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "22B2D7DA0E5BA7C9"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "6B1824BA30024783"
 					silent: true
@@ -3292,14 +3292,14 @@
 			id: "34EC2020E76FD45E"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "586E654A7AF037CB"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "066A4F23CE98716B"
 					silent: true
@@ -3321,14 +3321,14 @@
 			id: "395C25D321DBEC9D"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "67188118EB936BFC"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "171EB208F93149EB"
 					silent: true
@@ -3350,14 +3350,14 @@
 			id: "5C04016817AFA76B"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "291064C3321ED956"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "4129B2FA7E5C5FBA"
 					silent: true
@@ -3379,14 +3379,14 @@
 			id: "74BA9FA4677DA589"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "086EA18C98C54207"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "12954415C092DD0C"
 					silent: true
@@ -3408,14 +3408,14 @@
 			id: "4E3D62A603D87281"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "2DBC0CCFD0124CF4"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "7998D6ADB8146240"
 					silent: true
@@ -3437,14 +3437,14 @@
 			id: "094B517B85DD5888"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "08254505FA01822E"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "483BC7E354D77E13"
 					silent: true
@@ -3466,14 +3466,14 @@
 			id: "59120496C987D9F9"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "401BE1A489F09577"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "1D60F13B238B2860"
 					silent: true
@@ -3495,14 +3495,14 @@
 			id: "228504F499055476"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "0B1CABF72B8CEE91"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "55F7CBE547BCA928"
 					silent: true
@@ -3524,14 +3524,14 @@
 			id: "062F6EF442C7E288"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "559653BBE289050E"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "5CF97120BA3795BB"
 					silent: true
@@ -3553,14 +3553,14 @@
 			id: "69DFC557E4D0003F"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "1C9F06711CDDF523"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "0E48CFA60F5C631C"
 					silent: true
@@ -3582,14 +3582,14 @@
 			id: "1B32DCA14FE0CE8E"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "0A3E43C17B09DD63"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "192EAF5A67935674"
 					silent: true
@@ -3611,14 +3611,14 @@
 			id: "2A4168FCB7D94AFE"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "519F17FFB276667E"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "480E0DA3A15010CD"
 					silent: true
@@ -3640,14 +3640,14 @@
 			id: "34BFA37FFA3F1920"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "78F19AC64E3C8C03"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "4A41BC5486C82F53"
 					silent: true
@@ -3669,14 +3669,14 @@
 			id: "63541E7F7C8E6626"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "1835AA5CA748DD0C"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "0652D9CDE34A80FC"
 					silent: true
@@ -3698,14 +3698,14 @@
 			id: "2A79EAE1A5E371A1"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "706E0529179E1898"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "27A61E9DBF453165"
 					silent: true
@@ -3727,14 +3727,14 @@
 			id: "3560DA1460965C5B"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "4BE42AC3671AB621"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "590FB8DD690D7DE0"
 					silent: true
@@ -3756,14 +3756,14 @@
 			id: "2BEED8685E8228DB"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "652E344E0663CACF"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "6D7C064621EEA836"
 					silent: true
@@ -3785,14 +3785,14 @@
 			id: "1189BD1D2AEC67B3"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "3296AA8795A35456"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "6DF8B08C25B2500C"
 					silent: true
@@ -3814,14 +3814,14 @@
 			id: "1223621EA037BF20"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "35E5AB75AEE4AC19"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "508669935969C0FE"
 					silent: true
@@ -3843,14 +3843,14 @@
 			id: "12DC9E25C10EFDA2"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "04F55C93850B3E8A"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "11BC9E67F9AE264D"
 					silent: true
@@ -3872,14 +3872,14 @@
 			id: "321538AFFFC51794"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "2C996E6391826B0A"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "259AE498FF4A2B6C"
 					silent: true
@@ -3901,14 +3901,14 @@
 			id: "63895554907065B4"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "6D0469C90C121016"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "41A666DF9E77D776"
 					silent: true
@@ -3930,14 +3930,14 @@
 			id: "68F1AF6E5EAA64B0"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "701EC2B32FA1293C"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "53A4CD4FE625744C"
 					silent: true
@@ -3959,14 +3959,14 @@
 			id: "5889969AAB15F58F"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "7EE1739F062C140C"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "1E80957C13891FD6"
 					silent: true
@@ -3988,14 +3988,14 @@
 			id: "6F7C650180D93345"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "6FEB9FB888D6701C"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "4A57AF612685147E"
 					silent: true
@@ -4017,14 +4017,14 @@
 			id: "169D3687DAB7ACD6"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "74A3F01B711EA5BB"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "1F067C57C062DFE9"
 					silent: true
@@ -4046,14 +4046,14 @@
 			id: "01F748B2F0265CE1"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "64391E4E7D2BD43E"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "4829B69529ACA647"
 					silent: true
@@ -4075,14 +4075,14 @@
 			id: "6BF4A3B7B65995E9"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "7347695A6E09620C"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "7B3684BC4CCC8F17"
 					silent: true
@@ -4104,14 +4104,14 @@
 			id: "439767BB2FDAA28D"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "312DC53D7E4A1582"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "522075115432B92D"
 					silent: true
@@ -4133,14 +4133,14 @@
 			id: "225EEA93CB960E53"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "0EA2C6CAD9F6EE0A"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "1E73B2D23AF5BC06"
 					silent: true
@@ -4162,14 +4162,14 @@
 			id: "3AFCDD8A4649A7B2"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "6BEF90675368253B"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "2172161343C07E7B"
 					silent: true
@@ -4191,14 +4191,14 @@
 			id: "0D70D3DA643CBEF0"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "723CD3F955EFB351"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "6721296C2A8964CB"
 					silent: true
@@ -4220,14 +4220,14 @@
 			id: "1657E5E684673451"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "0132B147CD4B368E"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "1D098AF9BC2ADB41"
 					silent: true
@@ -4249,14 +4249,14 @@
 			id: "215702EDEA854ED9"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "4794F9CF5BBFFF3E"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "46B83C024E5B78D3"
 					silent: true
@@ -4278,14 +4278,14 @@
 			id: "07C41A3684EC47A1"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "08B2B93039B763CB"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "5D0574894890FF66"
 					silent: true
@@ -4307,14 +4307,14 @@
 			id: "1F4A798D6004AA8A"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "77E141E11C016F45"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "70CDD09891A678E9"
 					silent: true
@@ -4336,14 +4336,14 @@
 			id: "5F04215C603A7817"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "52CDC6B4423B4EA7"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "53B60A266B05A07E"
 					silent: true
@@ -4365,14 +4365,14 @@
 			id: "462D700405D5D571"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "7E8BB6336F16DA41"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "540C32B0FB6B19F5"
 					silent: true
@@ -4394,14 +4394,14 @@
 			id: "0ECBDAE73CD4F95B"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "2041C159C3A9680B"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "229DECCCA21203C2"
 					silent: true
@@ -4423,14 +4423,14 @@
 			id: "1D42728FBA5CE91F"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "5CE27B9AF7243A6F"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "397A89CD903E3220"
 					silent: true
@@ -4452,14 +4452,14 @@
 			id: "58F2D9572FB8BE2E"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "60F36C40B637EAF7"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "454F44689B4A7EFD"
 					silent: true
@@ -4481,14 +4481,14 @@
 			id: "7173E1646EBB87AE"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "18CD0E3B95BD1FC0"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "7D346AB69D92CC08"
 					silent: true
@@ -4510,14 +4510,14 @@
 			id: "142AC7CD14F36401"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "79274704D63A225D"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "5A7438EAAAF67A2A"
 					silent: true
@@ -4539,14 +4539,14 @@
 			id: "7E25A35322975526"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "724D3F3799E597F0"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "14E6F8162D9EB04B"
 					silent: true
@@ -4568,14 +4568,14 @@
 			id: "2883592CD86F4268"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "4223C2F581912F20"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "12F7F3FAD8AB07E9"
 					silent: true
@@ -4597,14 +4597,14 @@
 			id: "485F5E4D809B5243"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "3038B7C62DA074F3"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "058041DE57A53D67"
 					silent: true
@@ -4626,14 +4626,14 @@
 			id: "3736BB370D038EE2"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "06E5B001F08C3DFE"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "6D38F38638935F7B"
 					silent: true
@@ -4655,14 +4655,14 @@
 			id: "74B357F3B47B9139"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "43BBEEE638B36A16"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "062416646835FBB8"
 					silent: true
@@ -4684,14 +4684,14 @@
 			id: "3AD9AA91D57149D9"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "12C4F1E1A2797BCB"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "2B185AD14C2CAB6F"
 					silent: true
@@ -4713,14 +4713,14 @@
 			id: "38894EBF9C83DC06"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "43240755A6407D16"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "7FA0267AE19336B4"
 					silent: true
@@ -4742,14 +4742,14 @@
 			id: "70564CEC662FE6F2"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "4E5C0D39702D292C"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "21E670CFECD8BD56"
 					silent: true
@@ -4771,14 +4771,14 @@
 			id: "6AA3059196B35F19"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "2895E838D5B622B8"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "4E60609317F4635E"
 					silent: true
@@ -4800,14 +4800,14 @@
 			id: "65CD40B886AAA331"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "2EEAAFAD61EF1470"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "1F258D30FDF307F1"
 					silent: true
@@ -4829,14 +4829,14 @@
 			id: "6B3F6A18232088DB"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "4ED73CEBA7067AEB"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "6390C588F028E235"
 					silent: true
@@ -4858,14 +4858,14 @@
 			id: "56F6E592A258DF41"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "46C47732D5CB2173"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "03CEE016144D1CEF"
 					silent: true
@@ -4887,14 +4887,14 @@
 			id: "6D0CEF53399FB9E2"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "215654C2F6C6018E"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "54A0F68A3D89A3F0"
 					silent: true
@@ -4916,14 +4916,14 @@
 			id: "4AE2A3192B9DD619"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "6170BC87A545C1AD"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "2421EAE9BE259661"
 					silent: true
@@ -4945,14 +4945,14 @@
 			id: "5D25AA6A80B854AF"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "1053CA1EA5547C0D"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "29943C9CCC9BDB42"
 					silent: true
@@ -4974,14 +4974,14 @@
 			id: "22A80CEC3C3D32E6"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "77E8F69232238131"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "4B6DE132841A1B7F"
 					silent: true
@@ -5003,14 +5003,14 @@
 			id: "33D86954691FA151"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "155EA65BFFF823D2"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "7A9E7D962B9BEFF3"
 					silent: true
@@ -5032,14 +5032,14 @@
 			id: "514FEAEB120E92AA"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "48F30B6550716DD0"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "04B013C614D0BE51"
 					silent: true
@@ -5061,14 +5061,14 @@
 			id: "2AFEED30B8086EDA"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "5E131D120256DB90"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "54587069A161DDA8"
 					silent: true
@@ -5090,14 +5090,14 @@
 			id: "7C25CCBBFDFDDAA8"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "165D8E3B07B246BD"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "0A0B396358F1EA27"
 					silent: true
@@ -5119,14 +5119,14 @@
 			id: "239A4756DA36EDCC"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "5F0E292BDCAEA583"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "7D9F6634945EBC03"
 					silent: true
@@ -5148,14 +5148,14 @@
 			id: "04F62F50074E8F0B"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "6666F8350DA58ECF"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "484F4D8347A11848"
 					silent: true
@@ -5177,14 +5177,14 @@
 			id: "6C57A1C57E07403F"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "77F8D2F3E5C64832"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "1259DEE0C2B7600A"
 					silent: true
@@ -5206,14 +5206,14 @@
 			id: "141AA7F11CB8B723"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "496A4DB5B878B797"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "3B84C7DAA1AD4749"
 					silent: true
@@ -5235,14 +5235,14 @@
 			id: "6C2EB1A4BC292F7A"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "02FA3AE5AC268EDC"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "25B56530F11D1D07"
 					silent: true
@@ -5264,14 +5264,14 @@
 			id: "30E0B658A650FF85"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "6F48F9553EFE1C28"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "472D4F9A7C5443A0"
 					silent: true
@@ -5293,14 +5293,14 @@
 			id: "1348025844389F4A"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "055CFC5F268AF4CF"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "1C9E299BAE232C01"
 					silent: true
@@ -5322,14 +5322,14 @@
 			id: "1E8E8E97C8184B94"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "3789B2D23F63837C"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "4BDE8BE13D8BBE00"
 					silent: true
@@ -5351,14 +5351,14 @@
 			id: "45ECB3355333487D"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "32D9D59A5B301858"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "20FAEADF6AC1A6A7"
 					silent: true
@@ -5380,14 +5380,14 @@
 			id: "23E9B558BC0827B4"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "6055D2B2703C0842"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "2A58664DE7BF1B9E"
 					silent: true
@@ -5409,14 +5409,14 @@
 			id: "2600013C52DA21BA"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "4A257BC1085D8892"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "1768D38B46332D96"
 					silent: true
@@ -5438,14 +5438,14 @@
 			id: "033EE70F29DE958C"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "2124452B9B93B968"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "7A3A3574E880361E"
 					silent: true
@@ -5467,14 +5467,14 @@
 			id: "79AE629B2D87327D"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "3FFED53D9A20F947"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "577029EEC6F2262F"
 					silent: true
@@ -5496,14 +5496,14 @@
 			id: "7BD79B100E29D38B"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "5E146B9AD5907DB6"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "2E5557B67D729633"
 					silent: true
@@ -5525,14 +5525,14 @@
 			id: "34E7E5973A7AAFDD"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "08AD43254BF06CDF"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "0E57C5D3C389638D"
 					silent: true
@@ -5554,14 +5554,14 @@
 			id: "43B04B4E1FACAA45"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "6F599048D0FC8D60"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "65D82F28B376ABA7"
 					silent: true
@@ -5583,14 +5583,14 @@
 			id: "2A57B7DB7945743E"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "7E023312F012081F"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "30E63A5ABFE182AB"
 					silent: true
@@ -5612,14 +5612,14 @@
 			id: "182808A698C20922"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "0A0EBD901CA71F6F"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "1AB07F4A54D9975C"
 					silent: true
@@ -5641,14 +5641,14 @@
 			id: "6301CB063ADB5692"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "72B70F60AE4DE213"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "158A5D15928471D4"
 					silent: true
@@ -5670,14 +5670,14 @@
 			id: "672803402E6BE137"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "246E6014756DDDC6"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "4F3E8034E9398939"
 					silent: true
@@ -5699,14 +5699,14 @@
 			id: "4C328859EFE18C4C"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "343C812B43BDDB7B"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "0F3677C3B8E29F4F"
 					silent: true
@@ -5728,14 +5728,14 @@
 			id: "0553E6779FF82600"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "4848091A027F15E4"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "636E180E21B1B454"
 					silent: true
@@ -5757,14 +5757,14 @@
 			id: "659494ADD9997656"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "58930AD7053E9680"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "54463483FE8D89D7"
 					silent: true
@@ -5786,14 +5786,14 @@
 			id: "60B02400A719E16D"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "125F64DF4A77C885"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "17EC742FF6D2EE59"
 					silent: true
@@ -5815,14 +5815,14 @@
 			id: "41AA993FA6FC83B8"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "3FE22FD4AEBDE255"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "555A546F66C3D39C"
 					silent: true
@@ -5844,14 +5844,14 @@
 			id: "48A611327F59BA38"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "555871DF826BDD63"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "4FECE934CA6ADD0F"
 					silent: true
@@ -5873,14 +5873,14 @@
 			id: "5158DB691EB06CEB"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "327C495488E44895"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "2F55E03F96A5C9B4"
 					silent: true
@@ -5902,14 +5902,14 @@
 			id: "520483CA812E5A56"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "61041230416D9B09"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "11B1D6CC91D18153"
 					silent: true
@@ -5931,14 +5931,14 @@
 			id: "3391CFF7D3FE6488"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "7A18E2769CFFCD02"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "6BE042949AD54143"
 					silent: true
@@ -5960,14 +5960,14 @@
 			id: "3799ABB1F971B941"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "4F9A6400490D4947"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "509FBDBF7FE03AAD"
 					silent: true
@@ -5989,14 +5989,14 @@
 			id: "2FA91AB1D1432410"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "7D868F81C3FD7034"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "0D9D9A6090186622"
 					silent: true
@@ -6018,14 +6018,14 @@
 			id: "75FC66507F7C012D"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "3B86D3839191D0D4"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "19C3606C5A394F70"
 					silent: true
@@ -6047,14 +6047,14 @@
 			id: "255F0C384C273413"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "416159BAFA9694F2"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "5562C55B9EECBDCA"
 					silent: true
@@ -6076,14 +6076,14 @@
 			id: "030601A63CCC1CCA"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "7CD39B99881ADB01"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "2A97BC6FE16F98F5"
 					silent: true
@@ -6105,14 +6105,14 @@
 			id: "73FCF5350AA456FF"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "620F17283806C1B8"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "317A0CE9005B15CB"
 					silent: true
@@ -6134,14 +6134,14 @@
 			id: "626198C17BA59687"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "3AFF193A203C701B"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "30E61DF9EEF79B4E"
 					silent: true
@@ -6163,14 +6163,14 @@
 			id: "744B7C4C7FAA269A"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "6821AA80F1B025F4"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "70E1DA0FFC1BE2E0"
 					silent: true
@@ -6192,14 +6192,14 @@
 			id: "50BD94717A38DDF6"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "56BC10C4357D148F"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "3834225EE53C95B2"
 					silent: true
@@ -6221,14 +6221,14 @@
 			id: "6228D04099B4F8C2"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "3D0FF4A3EC7619E9"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "0D04964C308CAFF5"
 					silent: true
@@ -6250,14 +6250,14 @@
 			id: "50052B3A63127273"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "20137E4C0F00EBD4"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "6747DDD25C04A519"
 					silent: true
@@ -6279,14 +6279,14 @@
 			id: "4B53FD99EF57989D"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "3011AC9780C68C4B"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "400F983397070D3E"
 					silent: true
@@ -6308,14 +6308,14 @@
 			id: "7D6D04467EBD7724"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "00B172CCDDA97D27"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "5F816FB565CF31A1"
 					silent: true
@@ -6337,14 +6337,14 @@
 			id: "1E011548BA4017B9"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "77A5E0BC49A2DD0B"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "2831C2DCB4541A05"
 					silent: true
@@ -6366,14 +6366,14 @@
 			id: "38D985F5A822F8F7"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "5DF1B1F9D857575C"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "3AD38F9A1E616012"
 					silent: true
@@ -6395,14 +6395,14 @@
 			id: "26138B9C0AA69CC8"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "5EB08504622ACF73"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "1D38204320700B8B"
 					silent: true
@@ -6424,14 +6424,14 @@
 			id: "19D022E8ED346C06"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "0E98106A823DF214"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "62E068857DAC3FF0"
 					silent: true
@@ -6453,14 +6453,14 @@
 			id: "3CF38363F47B9119"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "570BB439CB78C0AD"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "5F237BFA943C0EEA"
 					silent: true
@@ -6482,14 +6482,14 @@
 			id: "2F90264F437308A9"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "1E15638EF86A4E82"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "7359028B69D8F25D"
 					silent: true
@@ -6511,14 +6511,14 @@
 			id: "081C569A7FF8BC49"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "4162FA90EF0ED556"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "570019F0DC23978D"
 					silent: true
@@ -6540,14 +6540,14 @@
 			id: "017E16AEBA4E17F4"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "58F27C28B1F36F03"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "1B55A16266F06BC8"
 					silent: true
@@ -6569,14 +6569,14 @@
 			id: "09936F3150346B97"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "3574761DF2F7790E"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "70C69FB60930E06A"
 					silent: true
@@ -6598,14 +6598,14 @@
 			id: "09A8D85900AAA02F"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "5B6BA417917AF219"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "2954E6765BFA8156"
 					silent: true
@@ -6627,14 +6627,14 @@
 			id: "3FEC3B23404EDB31"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "3E07DF74C19DF447"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "4BC7D35921F5A9B0"
 					silent: true
@@ -6656,14 +6656,14 @@
 			id: "6CC3627CEDF22E97"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "27A629D2544123E0"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "208B15867DE18683"
 					silent: true
@@ -6685,14 +6685,14 @@
 			id: "261EDC67FD26F705"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "0A866B2CC1207A6E"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "179C56614EF9CD41"
 					silent: true
@@ -6714,14 +6714,14 @@
 			id: "511ED71DEA9EAC14"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "59FB2BE29819B435"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "6693A49ADB30F96C"
 					silent: true
@@ -6743,14 +6743,14 @@
 			id: "4A5027945D2FDFCD"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "34C9EE12ED8F29F7"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "6BEB4900EEE7B434"
 					silent: true
@@ -6772,14 +6772,14 @@
 			id: "26DEFE0907DE82D8"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "057EBF16311D1913"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "5E7CB3420E6BC85D"
 					silent: true
@@ -6801,14 +6801,14 @@
 			id: "0182AF33CEBA579D"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "479B6B003B572E49"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "79E912AA95E65F31"
 					silent: true
@@ -6830,14 +6830,14 @@
 			id: "019B3E16A83726D5"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "7BEA2FF1B428056A"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "0B475A6BDAF4FBC8"
 					silent: true
@@ -6859,14 +6859,14 @@
 			id: "4425265D219C9734"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "13643C57D361A034"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "7A69AE5145EA063A"
 					silent: true
@@ -6888,14 +6888,14 @@
 			id: "457A35318A4477EF"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "465229F2159F667F"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "4B18C1D931B4C06F"
 					silent: true
@@ -6917,14 +6917,14 @@
 			id: "57DC7227C457EE4A"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
 					id: "68DE2E47CF914773"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
 					id: "1EB4E2E041778A32"
 					silent: true

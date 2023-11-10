@@ -16,14 +16,14 @@
 			id: "125BCAAB6813FEA3"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "715ACA78D9B2A156"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "63FEB2C62F8E7266"
 					silent: true
@@ -50,14 +50,14 @@
 			id: "764BDE4A85A0212C"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "1133CF8A802F18EF"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "5487483D50438614"
 					silent: true
@@ -84,14 +84,14 @@
 			id: "1C308A4B365AB2AC"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "7302A21BB75590E1"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "31F865CC5354EB12"
 					silent: true
@@ -118,14 +118,14 @@
 			id: "2ED02BBA44D59614"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "74003AB302D69A94"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "7EA4641FABFF9441"
 					silent: true
@@ -152,14 +152,14 @@
 			id: "2580E07174B15B7C"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "55F3D60009CF259F"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "68610672A7E87EC5"
 					silent: true
@@ -186,14 +186,14 @@
 			id: "5A1AA1ED07AA7484"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "3553922236DFAA7E"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "1D5AFF3917E2ABCD"
 					silent: true
@@ -220,14 +220,14 @@
 			id: "45E88C194728946F"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "33FE5CBA96ADB08B"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "2E5CB9710EA1FFFB"
 					silent: true
@@ -254,14 +254,14 @@
 			id: "668AED9CC2ECC7B7"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "56377948CDD679CB"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "76EDB0DC234531AD"
 					silent: true
@@ -288,14 +288,14 @@
 			id: "5535151D93FCD623"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "0E9B938EF7074B53"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "5C6FE79B683B48AA"
 					silent: true
@@ -322,14 +322,14 @@
 			id: "7F90C6FB89CD568C"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "561367FB934B2D00"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "7F50C3AA2413B521"
 					silent: true
@@ -356,14 +356,14 @@
 			id: "4D92FA7401F8A0D0"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "7FEF57AD985151CC"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "2E3A2FDDB8D7594A"
 					silent: true
@@ -390,14 +390,14 @@
 			id: "04DF7D7AB883119F"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "7DDE1CD0E4965728"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "156FA97E41659744"
 					silent: true
@@ -430,14 +430,14 @@
 			id: "53286AD551CABD14"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "4A396DE6AC674DD7"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "1249F5603949BD20"
 					silent: true
@@ -464,14 +464,14 @@
 			id: "4E3594E422D3D48B"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "6A91BB2CCC70E453"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "5FB8347E6AA3137B"
 					silent: true
@@ -498,14 +498,14 @@
 			id: "01996FAFC6B37819"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "50FDDC73A70A4552"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "3A043B598F4A05F5"
 					silent: true
@@ -532,14 +532,14 @@
 			id: "057B7EFF4B937A8B"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "11D885F71E90E704"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "63DA8C40C7C348E9"
 					silent: true
@@ -566,14 +566,14 @@
 			id: "1A5DDE08129D2B74"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "06524401188FAE83"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "454560E734B480EB"
 					silent: true
@@ -600,14 +600,14 @@
 			id: "3FF2353A1C8EC062"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "62FC4A57EF1A6617"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "6E74AF7418582831"
 					silent: true
@@ -634,14 +634,14 @@
 			id: "17996CD0F358ED85"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "5E83922AC766277B"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "7831B5005D2F9CAD"
 					silent: true
@@ -668,14 +668,14 @@
 			id: "0FEEE61D79ABBEC0"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "66880D4503277248"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "12D0D3805AA7A95A"
 					silent: true
@@ -702,14 +702,14 @@
 			id: "0A466B2AA078D778"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "4DA07C0A9CE930D5"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "1FCD053C758BB33C"
 					silent: true
@@ -736,14 +736,14 @@
 			id: "0B3BE91809B12E7D"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "536D47012F8AFA55"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "1F7F9AF464AD3A1C"
 					silent: true
@@ -770,14 +770,14 @@
 			id: "4F6BFC64FA3A844E"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "124BD7575143CC0A"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "3289CF2D92E6D6FF"
 					silent: true
@@ -804,14 +804,14 @@
 			id: "6FCDFEF7D7C65984"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "79A1FA939EFC5333"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "349B860DA3D0326D"
 					silent: true
@@ -838,14 +838,14 @@
 			id: "4121A3C97363CC0E"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "00B9A380EAB88CAF"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "3386A363738F345D"
 					silent: true
@@ -872,14 +872,14 @@
 			id: "24FBB0FB0702F09A"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "0504B0A1EC6979D3"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "738E7C352F885FFD"
 					silent: true
@@ -906,14 +906,14 @@
 			id: "2244C20BF7B5972B"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "7B6D10FD7D220B4B"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "4176F67EBFBDA12F"
 					silent: true
@@ -940,14 +940,14 @@
 			id: "508094B0F0FCC2F9"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "3006BD7F0F770E3C"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "376F057E0CB881BA"
 					silent: true
@@ -974,14 +974,14 @@
 			id: "604399AD91C02263"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "1F7290EB8B9D23E2"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "5C66431F56638452"
 					silent: true
@@ -1008,14 +1008,14 @@
 			id: "12AD5909D23D777B"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "12BADA6F5697B07D"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "70C4CBD697734CB4"
 					silent: true
@@ -1042,14 +1042,14 @@
 			id: "2A58E0EEF8C6BBFE"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "19E6DC729DB8AE18"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "0455DCD5892720E3"
 					silent: true
@@ -1076,14 +1076,14 @@
 			id: "66CD5B0F435E1196"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "40BCC99AB9034C46"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "2A08C1DDA2953769"
 					silent: true
@@ -1110,14 +1110,14 @@
 			id: "0C2220C0FF56CFD2"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "55C34D44E4D3838D"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "00329D0DE506CD1D"
 					silent: true
@@ -1144,14 +1144,14 @@
 			id: "3586AE3E69F91237"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "1B20A4126B9EBCC7"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "008A397CA7BD66C2"
 					silent: true
@@ -1178,14 +1178,14 @@
 			id: "52F7D8A164A70333"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "5B6FBC23678D5DFF"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "412362B5F77D0473"
 					silent: true
@@ -1212,14 +1212,14 @@
 			id: "603B2F12CB7D34C4"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "7268345CD6B7EC94"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "034FD70F704C3C1C"
 					silent: true
@@ -1246,14 +1246,14 @@
 			id: "1F6589A98EE82573"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "7036D655BD203EC3"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "11D6281FA1B04F98"
 					silent: true
@@ -1280,14 +1280,14 @@
 			id: "79B4FA3973F0AAD8"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "554945AAAC6B1D3F"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "3A5289B6F70232CB"
 					silent: true
@@ -1314,14 +1314,14 @@
 			id: "3D675F46E2C5907F"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "3F205CC7CF50B9B1"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "39EAE03910CC1568"
 					silent: true
@@ -1348,14 +1348,14 @@
 			id: "145AF3E4DF07D9E7"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "636057432262CD92"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "7A979DE8CE1A7AE1"
 					silent: true
@@ -1382,14 +1382,14 @@
 			id: "032DFF5ADA2C3F57"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "04E239A9EBC8FBB2"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "3C357153B3C82649"
 					silent: true
@@ -1416,14 +1416,14 @@
 			id: "1199D8DF298F1203"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "1C9170E021920934"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "503BA9096CA63356"
 					silent: true
@@ -1450,14 +1450,14 @@
 			id: "720471F733468821"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "006DA59D311B0418"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "21FDB3BDA45C92B3"
 					silent: true
@@ -1484,14 +1484,14 @@
 			id: "54049D2BC37F3B6A"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "3A63D94E685FAA4E"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "4F2B74341C58CFC8"
 					silent: true
@@ -1518,14 +1518,14 @@
 			id: "3138CE479C03E1F4"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "63CB02746DEAB5B8"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "7EC7995792293047"
 					silent: true
@@ -1552,14 +1552,14 @@
 			id: "60C528BF27E580DD"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "616EC07767690990"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "3D42BA359EF04F52"
 					silent: true
@@ -1586,14 +1586,14 @@
 			id: "3D49FA9AF957FF25"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "0D4658019C0569D8"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "698096BFD8C495AA"
 					silent: true
@@ -1620,14 +1620,14 @@
 			id: "2BCCC2A2BC46770B"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "1BF947047E5D41B2"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "79084B8258AA1DBD"
 					silent: true
@@ -1655,14 +1655,14 @@
 			id: "562048B05A37936C"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "4C772EF975636BCA"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "72737E584CA07DF0"
 					silent: true
@@ -1690,14 +1690,14 @@
 			id: "2397D20B696DBB02"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "017C24F410025FEB"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "68A3DDD7C71C5106"
 					silent: true
@@ -1724,14 +1724,14 @@
 			id: "777F22C1CD2721B8"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "6A5DF03B073EB2F2"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "4F147050BA826BDA"
 					silent: true
@@ -1758,14 +1758,14 @@
 			id: "6EFB02CAFF70011F"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "0ABCD6A9E64503ED"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "37FFECB35C940E3A"
 					silent: true
@@ -1792,14 +1792,14 @@
 			id: "30F27E64B61D345B"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "42FD3BE507F00CE9"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "678A182090F4C269"
 					silent: true
@@ -1826,14 +1826,14 @@
 			id: "769470FC271516B9"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "1DC99CE3D594A182"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "03CBEFC0335CA467"
 					silent: true
@@ -1860,14 +1860,14 @@
 			id: "5EF20D2F3215C7E3"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "2FE5731D0323BB1A"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "05981BD189115974"
 					silent: true
@@ -1894,14 +1894,14 @@
 			id: "566886594591243B"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "75C0447E666972ED"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "2FAB000194787BD7"
 					silent: true
@@ -1928,14 +1928,14 @@
 			id: "7ECFFDB36946A838"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "319F4EB1F1A0A191"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "295AFD00997E7EDB"
 					silent: true
@@ -1966,14 +1966,14 @@
 			id: "416837A4EF7B3745"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "5DB7CCB4F0EBD42B"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "41ED48AEDC46B0E6"
 					silent: true
@@ -2000,14 +2000,14 @@
 			id: "19FD14BFEF79CDF6"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "609048F1D8EBA45A"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "2D28775F6FDE32FD"
 					silent: true
@@ -2034,14 +2034,14 @@
 			id: "34B25C82132101BC"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "47B7E7DCC454754F"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "3342F6D71D96AF82"
 					silent: true
@@ -2068,14 +2068,14 @@
 			id: "139D2D32232D1426"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "1D22AD46B15F16E3"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "68AD2F336D387540"
 					silent: true
@@ -2102,14 +2102,14 @@
 			id: "49FBCB3B84118D7B"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "7696AEC3DD510A12"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "1400026ACD5F6658"
 					silent: true
@@ -2136,14 +2136,14 @@
 			id: "5EA7074530B590D3"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "5AC96711B3581163"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "5FA1AFD6C3B2A08C"
 					silent: true
@@ -2170,14 +2170,14 @@
 			id: "01B36E02D4569273"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "6C92C96C44ACF754"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "5FF731210DFFE61B"
 					silent: true
@@ -2204,14 +2204,14 @@
 			id: "62794BBB18A1308B"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "37B985FB33FCEBC4"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "79B0BA370C25D7D0"
 					silent: true
@@ -2238,14 +2238,14 @@
 			id: "02722D071C611EAE"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "38255E7305BF2C6B"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "0D83E8DBB0B800D9"
 					silent: true
@@ -2272,14 +2272,14 @@
 			id: "266727D9017FD47E"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "5E0654844BC76E8D"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "65971CAAD5997D84"
 					silent: true
@@ -2306,14 +2306,14 @@
 			id: "0FB3CF416F4D0C5A"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "74D765101121777C"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "77DC4B071F97A7E8"
 					silent: true
@@ -2340,14 +2340,14 @@
 			id: "40DAFF983E2966F3"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "5D69709FD0ED22A4"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "315382C69F4ED906"
 					silent: true
@@ -2374,14 +2374,14 @@
 			id: "4D144D666EFF0D47"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "631A276A908F61AC"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "4637334EB1EE3A48"
 					silent: true
@@ -2408,14 +2408,14 @@
 			id: "5E7E5E340910884F"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "3659B9C86A36862B"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "7C750EC888217E9B"
 					silent: true
@@ -2442,14 +2442,14 @@
 			id: "2C34377B3662FC73"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "2366F9EDCE71168A"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "2777C37BAC6952B5"
 					silent: true
@@ -2476,14 +2476,14 @@
 			id: "3A0E38A640553F2C"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "22F259A9BE348752"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "016A16E1E1013B99"
 					silent: true
@@ -2510,14 +2510,14 @@
 			id: "5862996BFE43ECB7"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "165272A1C9C08231"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "6318F9E0BBE67D8D"
 					silent: true
@@ -2544,14 +2544,14 @@
 			id: "438C575EB46A1080"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "29D39DBB3937B7D2"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "742F4A1A07CE9E21"
 					silent: true
@@ -2578,14 +2578,14 @@
 			id: "35C05B2043DDFE56"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "32B4DA6B06D8A77E"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "6CC00A557FFA504B"
 					silent: true
@@ -2612,14 +2612,14 @@
 			id: "5B020AB8D14CDE98"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "2E13CB3188A9841F"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "4F53823BA9AB1D7D"
 					silent: true
@@ -2646,14 +2646,14 @@
 			id: "4846ABCBD585104D"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "7F3C36483FC5AEB5"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "1FD88E7A6FD2A1E1"
 					silent: true
@@ -3043,6 +3043,7 @@
 				"2D62FBEF18E6ABF6"
 				"4846ABCBD585104D"
 			]
+			hide: true
 			icon: {
 				Count: 1b
 				id: "minecraft:goat_horn"
@@ -3143,14 +3144,14 @@
 			id: "0FD54BFF05600C64"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "04B57DFD20110CC7"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "455EBFDB4D40C1C7"
 					silent: true
@@ -3176,14 +3177,14 @@
 			id: "1C98DA42FEF17D24"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "1671BC2C49E3BF98"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "37A7D4419AE1808F"
 					silent: true
@@ -3305,14 +3306,14 @@
 			id: "359BEC4AFEC849CC"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "6828B2FED0D8F75F"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "4B8707EB32F460FC"
 					silent: true
@@ -3338,14 +3339,14 @@
 			id: "50831635A884520C"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "42ABC31D76F4A806"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "1A6CBA370E67DF82"
 					silent: true
@@ -3371,14 +3372,14 @@
 			id: "0571CC0FC40BFD2A"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "1E3D92079D27D6EE"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "1C1E559590DF4DB2"
 					silent: true
@@ -3404,14 +3405,14 @@
 			id: "16F90C11BEA27616"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "4154F7E9DD5E39A6"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "6A28572C24B9432F"
 					silent: true
@@ -3437,14 +3438,14 @@
 			id: "32F54B6B57DB6F58"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "261F6B8865BF13DD"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "2ABF1F1300298A7F"
 					silent: true
@@ -3470,14 +3471,14 @@
 			id: "7F38BFDE8D8AF3A9"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "06041F5480D9FD00"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "1CE1B7A5A39C1495"
 					silent: true
@@ -3503,14 +3504,14 @@
 			id: "4D22F63E9B7F2857"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "4F3656088D613CBF"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "4E21F055E8FC5485"
 					silent: true
@@ -3536,14 +3537,14 @@
 			id: "7BF1E0AE295E15C8"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "5EA1D5B2BAC0FA7B"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "07CC4B971AF8C1BC"
 					silent: true
@@ -3569,14 +3570,14 @@
 			id: "02AE352CCC808F32"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "4259F4A8831FAB38"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "2CEC1639602E02C3"
 					silent: true
@@ -3602,14 +3603,14 @@
 			id: "089C3BD5B23A6C27"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "02FBCA262153B11C"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "193204050368770E"
 					silent: true
@@ -3635,14 +3636,14 @@
 			id: "30C903B2FA6D68C0"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "757706B98DB4CA40"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "29C43C4DD9772307"
 					silent: true
@@ -3668,14 +3669,14 @@
 			id: "318581CECEF1AFD0"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "70801DC86AFE46E5"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "1E5023F0A826A29F"
 					silent: true
@@ -3701,14 +3702,14 @@
 			id: "4440AFDE97EDEC87"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "5CE69E46D8DDA0F1"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "7FC3F99A86BFCDC2"
 					silent: true
@@ -3734,14 +3735,14 @@
 			id: "7DEE73F18FA1CA3B"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "6F67D56C7126E085"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "02402C47CCE95C64"
 					silent: true
@@ -3767,14 +3768,14 @@
 			id: "4934A91D621EF258"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "642D0A03FB006046"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "2719E88BA9620C47"
 					silent: true
@@ -3800,14 +3801,14 @@
 			id: "237CCC340E80705D"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "1A77927AE3AB1F5A"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "5CD5C7E56D53F882"
 					silent: true
@@ -3833,14 +3834,14 @@
 			id: "684AA641D4AF1F30"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "29A4A6B6D669F161"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "69C3A14BC006204B"
 					silent: true
@@ -3866,14 +3867,14 @@
 			id: "58A5A0509B2F81A6"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "604A72E43762AD7C"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "46C7E020F8E765CE"
 					silent: true
@@ -3899,14 +3900,14 @@
 			id: "06E25F73D2CF1259"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "5D2A79D7264A76C1"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "3C0A66555FF51BBD"
 					silent: true
@@ -3932,14 +3933,14 @@
 			id: "37EB9648C5646274"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "70F16F0674C3773A"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "592C6462468FD24E"
 					silent: true
@@ -3965,14 +3966,14 @@
 			id: "2744788F8DAD7ED8"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "4AAD2B1D4694D42C"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "287F34439E70AD14"
 					silent: true
@@ -3998,14 +3999,14 @@
 			id: "3C00D722BDCFD963"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "0978F09C47C0DAC3"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "38EC2202F081F043"
 					silent: true
@@ -4031,14 +4032,14 @@
 			id: "3490C1DA8E7174BF"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "60133669EBF54E1D"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "3DF299961FC6CA0C"
 					silent: true
@@ -4064,14 +4065,14 @@
 			id: "1F0D03EA0ECD7416"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "352C8923BCDF97E1"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "0953C46BACA134D5"
 					silent: true
@@ -4097,14 +4098,14 @@
 			id: "292D055D45475F6A"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "2075F78AA730365F"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "5AB39244A992BA9A"
 					silent: true
@@ -4130,14 +4131,14 @@
 			id: "5509BE4119BE3B6A"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "3603A37F0928AED2"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "35B177226355847A"
 					silent: true
@@ -4163,14 +4164,14 @@
 			id: "06D5DD66E7D5143C"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "09455952AF15D89D"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "44A42366D9995DC6"
 					silent: true
@@ -4196,14 +4197,14 @@
 			id: "6F472DE5A35111D3"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "70F17083D1B76266"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "7BA674E84C369A82"
 					silent: true
@@ -4229,14 +4230,14 @@
 			id: "139B87AC72083A31"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "7887D10C30487DAD"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "679A89F5A54D2D3E"
 					silent: true
@@ -4262,14 +4263,14 @@
 			id: "4FB084A1625FD1BB"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "5F6ED569AA440B20"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "5F64176FB41E46EA"
 					silent: true
@@ -4295,14 +4296,14 @@
 			id: "0D020C4C974AB19C"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "495E479A39CBAFE1"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "5EC846D4A96501B6"
 					silent: true
@@ -4328,14 +4329,14 @@
 			id: "0A1D0040C07D8885"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "437B8D997B495EDB"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "2268ED0A6DFDA3FD"
 					silent: true
@@ -4361,14 +4362,14 @@
 			id: "2C1A1A446C56ACD8"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "43C7C01560C48A00"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "6BFFF5D2CBF45A39"
 					silent: true
@@ -4394,14 +4395,14 @@
 			id: "7F57AD9A20DAB261"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "263CDA22A5B9F439"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "7DEA1DA092D667CA"
 					silent: true
@@ -4427,14 +4428,14 @@
 			id: "3E4836F1A4AA2859"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "318A0A9E5AB9D425"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "61D3F4D0F5487ADC"
 					silent: true
@@ -4460,14 +4461,14 @@
 			id: "426484111178BC6C"
 			rewards: [
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
 					id: "59D3EF01B0A568FF"
 					silent: true
 					type: "command"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
 					id: "32D605E8848E8785"
 					silent: true
