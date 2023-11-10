@@ -904,7 +904,7 @@
 				item: "biomesoplenty:white_sandstone"
 				type: "item"
 			}]
-			x: 1.5d
+			x: 1.0d
 			y: 2.5d
 		}
 		{
@@ -933,7 +933,7 @@
 				item: "biomesoplenty:orange_sandstone"
 				type: "item"
 			}]
-			x: 2.5d
+			x: 2.0d
 			y: 2.5d
 		}
 		{
@@ -962,7 +962,7 @@
 				item: "biomesoplenty:black_sandstone"
 				type: "item"
 			}]
-			x: 3.5d
+			x: 3.0d
 			y: 2.5d
 		}
 		{
@@ -991,8 +991,8 @@
 				item: "biomesoplenty:dried_salt"
 				type: "item"
 			}]
-			x: -13.5d
-			y: -12.5d
+			x: 4.0d
+			y: 2.5d
 		}
 	]
 	title: "Mineral Museum"
