@@ -78,7 +78,7 @@ ServerEvents.tags('item', event => {
   ])
 
   
-  event.add('forge:nutrients/vegetables', [
+  event.add('forge:nutrients/fruits', [
     "vinery:jungle_grapes_red",
     "vinery:jungle_grapes_white",
     "vinery:savanna_grapes_red",
