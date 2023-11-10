@@ -1762,7 +1762,6 @@
 			]
 			icon: "kubejs:cert_decocom_diamond"
 			id: "6045E2A7925B12D6"
-			min_required_dependencies: 78
 			rewards: [
 				{
 					id: "200674B267478BAD"
@@ -3482,7 +3481,7 @@
 			}]
 			title: "Observe 5 Unique Animals"
 			x: -3.0d
-			y: -1.0d
+			y: -2.0d
 		}
 		{
 			dependencies: [
@@ -3618,7 +3617,7 @@
 			}]
 			title: "Observe 17 Unique Animals"
 			x: -2.0d
-			y: -1.0d
+			y: -2.0d
 		}
 		{
 			dependencies: [
@@ -3765,7 +3764,7 @@
 			}]
 			title: "Observe 38 Unique Animals"
 			x: -1.0d
-			y: -1.0d
+			y: -2.0d
 		}
 		{
 			dependencies: [
@@ -3901,7 +3900,7 @@
 			}]
 			title: "Observe 70 Unique Animals"
 			x: 0.0d
-			y: -1.0d
+			y: -2.0d
 		}
 		{
 			dependencies: [
@@ -4043,7 +4042,7 @@
 			}]
 			title: "Animal Observation Completion!"
 			x: 1.0d
-			y: -1.0d
+			y: -2.0d
 		}
 		{
 			dependencies: [
@@ -4111,7 +4110,7 @@
 			}]
 			title: "Catch 4 Unique Fishes"
 			x: -3.0d
-			y: 1.0d
+			y: 0.0d
 		}
 		{
 			dependencies: [
@@ -4168,7 +4167,7 @@
 			}]
 			title: "Catch 9 Unique Fishes"
 			x: -2.0d
-			y: 1.0d
+			y: 0.0d
 		}
 		{
 			dependencies: [
@@ -4225,7 +4224,7 @@
 			}]
 			title: "Catch 16 Unique Fishes"
 			x: -1.0d
-			y: 1.0d
+			y: 0.0d
 		}
 		{
 			dependencies: [
@@ -4282,7 +4281,7 @@
 			}]
 			title: "Catch 26 Unique Fishes"
 			x: 0.0d
-			y: 1.0d
+			y: 0.0d
 		}
 		{
 			dependencies: [
@@ -4345,7 +4344,7 @@
 			}]
 			title: "Fishing Collection Completion!"
 			x: 1.0d
-			y: 1.0d
+			y: 0.0d
 		}
 		{
 			dependencies: [
@@ -4498,7 +4497,7 @@
 			}]
 			title: "Cooked 6 Unique Dishes"
 			x: -3.0d
-			y: 2.0d
+			y: 1.0d
 		}
 		{
 			dependencies: [
@@ -4640,7 +4639,7 @@
 			}]
 			title: "Cooked 18 Unique Dishes"
 			x: -2.0d
-			y: 2.0d
+			y: 1.0d
 		}
 		{
 			dependencies: [
@@ -4782,7 +4781,7 @@
 			}]
 			title: "Cooked 38 Unique Dishes"
 			x: -1.0d
-			y: 2.0d
+			y: 1.0d
 		}
 		{
 			dependencies: [
@@ -4924,7 +4923,7 @@
 			}]
 			title: "Cooked 70 Unique Dishes"
 			x: 0.0d
-			y: 2.0d
+			y: 1.0d
 		}
 		{
 			dependencies: [
@@ -5072,7 +5071,7 @@
 			}]
 			title: "Cooking Collection Completion"
 			x: 1.0d
-			y: 2.0d
+			y: 1.0d
 		}
 		{
 			dependencies: [
@@ -5186,7 +5185,7 @@
 			}]
 			title: "Logged 4 Unique Flora"
 			x: -3.0d
-			y: 0.0d
+			y: -1.0d
 		}
 		{
 			dependencies: [
@@ -5293,7 +5292,7 @@
 			}]
 			title: "Logged 12 Unique Flora"
 			x: -2.0d
-			y: 0.0d
+			y: -1.0d
 		}
 		{
 			dependencies: [
@@ -5400,7 +5399,7 @@
 			}]
 			title: "Logged 27 Unique Flora"
 			x: -1.0d
-			y: 0.0d
+			y: -1.0d
 		}
 		{
 			dependencies: [
@@ -5507,7 +5506,7 @@
 			}]
 			title: "Logged 51 Unique Flora"
 			x: 0.0d
-			y: 0.0d
+			y: -1.0d
 		}
 		{
 			dependencies: [
@@ -5616,7 +5615,278 @@
 			]
 			title: "Flora Compendium Completion!"
 			x: 1.0d
-			y: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"14A7653BDAE406CD"
+				"35CE4F262B0FF3C3"
+				"161C3CDECACA6D59"
+				"110FEBBF0E74F8B5"
+				"5C50C7C04CF0D8EA"
+				"23D7F4025FCBE3F6"
+				"6D5FB4FA3036142C"
+				"0AF3EFC89C30D7EF"
+				"39D93EA71F460286"
+				"4B10E9AAFDD10FCF"
+				"6AA5FF8100E3383D"
+				"422C8F816CADED31"
+				"7183117DE39ECC8F"
+				"65F126DD281A92B1"
+				"189EEB9E282FC509"
+				"7CCD45833A1B98D7"
+				"21CA08C378C36266"
+				"5940B22E489ED542"
+				"7ABBC1E10C3B2851"
+				"50D591074F4E94D2"
+				"5BB80CE81C70AB1C"
+				"092401B6AAD4A691"
+				"609771E0FEE48AC1"
+				"27B00400BB55DD13"
+				"0B38AAACC9DED081"
+				"00C99DF00490C45B"
+				"126DECB7B89BA628"
+				"1B3C5C0D25C2025E"
+				"516002E50F89FE8D"
+				"4824D051DFFE1510"
+				"5DCE0E1336A22548"
+				"098DBB931375DFF4"
+				"6F1671A2356CDE80"
+			]
+			icon: "kubejs:cert_mining_wood"
+			id: "3E2EC867616B127C"
+			min_required_dependencies: 4
+			rewards: [{
+				count: 4
+				id: "4ED0DCBF708C94FC"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4FA6120DAD736688"
+				type: "item"
+			}]
+			title: "Collected 4 Unique Minerals"
+			x: -3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"14A7653BDAE406CD"
+				"35CE4F262B0FF3C3"
+				"161C3CDECACA6D59"
+				"110FEBBF0E74F8B5"
+				"5C50C7C04CF0D8EA"
+				"23D7F4025FCBE3F6"
+				"6D5FB4FA3036142C"
+				"0AF3EFC89C30D7EF"
+				"39D93EA71F460286"
+				"4B10E9AAFDD10FCF"
+				"6AA5FF8100E3383D"
+				"422C8F816CADED31"
+				"7183117DE39ECC8F"
+				"65F126DD281A92B1"
+				"189EEB9E282FC509"
+				"7CCD45833A1B98D7"
+				"21CA08C378C36266"
+				"5940B22E489ED542"
+				"7ABBC1E10C3B2851"
+				"50D591074F4E94D2"
+				"5BB80CE81C70AB1C"
+				"092401B6AAD4A691"
+				"609771E0FEE48AC1"
+				"27B00400BB55DD13"
+				"0B38AAACC9DED081"
+				"00C99DF00490C45B"
+				"126DECB7B89BA628"
+				"1B3C5C0D25C2025E"
+				"516002E50F89FE8D"
+				"4824D051DFFE1510"
+				"5DCE0E1336A22548"
+				"098DBB931375DFF4"
+				"6F1671A2356CDE80"
+			]
+			icon: "kubejs:cert_mining_stone"
+			id: "39AE94D6270A6B63"
+			min_required_dependencies: 9
+			rewards: [{
+				count: 5
+				id: "6842840044D0F232"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "74A2333753B19B5C"
+				type: "item"
+			}]
+			title: "Collected 9 Unique Minerals"
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"14A7653BDAE406CD"
+				"35CE4F262B0FF3C3"
+				"161C3CDECACA6D59"
+				"110FEBBF0E74F8B5"
+				"5C50C7C04CF0D8EA"
+				"23D7F4025FCBE3F6"
+				"6D5FB4FA3036142C"
+				"0AF3EFC89C30D7EF"
+				"39D93EA71F460286"
+				"4B10E9AAFDD10FCF"
+				"6AA5FF8100E3383D"
+				"422C8F816CADED31"
+				"7183117DE39ECC8F"
+				"65F126DD281A92B1"
+				"189EEB9E282FC509"
+				"7CCD45833A1B98D7"
+				"21CA08C378C36266"
+				"5940B22E489ED542"
+				"7ABBC1E10C3B2851"
+				"50D591074F4E94D2"
+				"5BB80CE81C70AB1C"
+				"092401B6AAD4A691"
+				"609771E0FEE48AC1"
+				"27B00400BB55DD13"
+				"0B38AAACC9DED081"
+				"00C99DF00490C45B"
+				"126DECB7B89BA628"
+				"1B3C5C0D25C2025E"
+				"516002E50F89FE8D"
+				"4824D051DFFE1510"
+				"5DCE0E1336A22548"
+				"098DBB931375DFF4"
+				"6F1671A2356CDE80"
+			]
+			icon: "kubejs:cert_mining_iron"
+			id: "6FC19B76B64FAF44"
+			min_required_dependencies: 15
+			rewards: [{
+				count: 6
+				id: "4B8F70AAE7D20609"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4D3948BA3FB0FAC1"
+				type: "item"
+			}]
+			title: "Collected 15 Unique Minerals"
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"14A7653BDAE406CD"
+				"35CE4F262B0FF3C3"
+				"161C3CDECACA6D59"
+				"110FEBBF0E74F8B5"
+				"5C50C7C04CF0D8EA"
+				"23D7F4025FCBE3F6"
+				"6D5FB4FA3036142C"
+				"0AF3EFC89C30D7EF"
+				"39D93EA71F460286"
+				"4B10E9AAFDD10FCF"
+				"6AA5FF8100E3383D"
+				"422C8F816CADED31"
+				"7183117DE39ECC8F"
+				"65F126DD281A92B1"
+				"189EEB9E282FC509"
+				"7CCD45833A1B98D7"
+				"21CA08C378C36266"
+				"5940B22E489ED542"
+				"7ABBC1E10C3B2851"
+				"50D591074F4E94D2"
+				"5BB80CE81C70AB1C"
+				"092401B6AAD4A691"
+				"609771E0FEE48AC1"
+				"27B00400BB55DD13"
+				"0B38AAACC9DED081"
+				"00C99DF00490C45B"
+				"126DECB7B89BA628"
+				"1B3C5C0D25C2025E"
+				"516002E50F89FE8D"
+				"4824D051DFFE1510"
+				"5DCE0E1336A22548"
+				"098DBB931375DFF4"
+				"6F1671A2356CDE80"
+			]
+			icon: "kubejs:cert_mining_gold"
+			id: "4083C0AEDBCD1AC3"
+			min_required_dependencies: 23
+			rewards: [{
+				count: 16
+				id: "0AB6BEDA9949FCC0"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "36DAEC537F5F723C"
+				type: "item"
+			}]
+			title: "Collected 23 Unique Minerals"
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"14A7653BDAE406CD"
+				"35CE4F262B0FF3C3"
+				"161C3CDECACA6D59"
+				"110FEBBF0E74F8B5"
+				"5C50C7C04CF0D8EA"
+				"23D7F4025FCBE3F6"
+				"6D5FB4FA3036142C"
+				"0AF3EFC89C30D7EF"
+				"39D93EA71F460286"
+				"4B10E9AAFDD10FCF"
+				"6AA5FF8100E3383D"
+				"422C8F816CADED31"
+				"7183117DE39ECC8F"
+				"65F126DD281A92B1"
+				"189EEB9E282FC509"
+				"7CCD45833A1B98D7"
+				"21CA08C378C36266"
+				"5940B22E489ED542"
+				"7ABBC1E10C3B2851"
+				"50D591074F4E94D2"
+				"5BB80CE81C70AB1C"
+				"092401B6AAD4A691"
+				"609771E0FEE48AC1"
+				"27B00400BB55DD13"
+				"0B38AAACC9DED081"
+				"00C99DF00490C45B"
+				"126DECB7B89BA628"
+				"1B3C5C0D25C2025E"
+				"516002E50F89FE8D"
+				"4824D051DFFE1510"
+				"5DCE0E1336A22548"
+				"098DBB931375DFF4"
+				"6F1671A2356CDE80"
+			]
+			icon: "kubejs:cert_mining_diamond"
+			id: "2F58B3AF4C3E3F84"
+			rewards: [
+				{
+					id: "1AC8408C07922348"
+					item: "kubejs:cert_mining_diamond"
+					type: "item"
+				}
+				{
+					count: 50
+					id: "3CB8B074F06A7FFB"
+					item: "kubejs:miles_ticket"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "12C2BC7E9831B437"
+				type: "item"
+			}]
+			title: "Mineral Museum Completion!"
+			x: 1.0d
+			y: 2.0d
 		}
 	]
 	title: "Mileage Reward Program"
