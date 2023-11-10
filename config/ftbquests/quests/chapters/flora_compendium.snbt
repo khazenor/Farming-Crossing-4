@@ -2531,6 +2531,64 @@
 			x: 2.0d
 			y: 15.0d
 		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "71F35D1D5A103717"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "1BD1887B4B6B70BC"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "458FEB56D446BB31"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "3ADED90D29E8326D"
+				item: "biomesoplenty:toadstool"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "4152F736164A5CC2"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p flora_collected 1"
+					id: "14E282F219F56B2E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					id: "0F254891B1CB8C5D"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "5FD90954BEFA61CD"
+				item: "biomesoplenty:glowshroom"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 15.0d
+		}
 	]
 	title: "Flora Compendium"
 }
