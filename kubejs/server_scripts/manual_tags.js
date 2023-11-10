@@ -74,7 +74,8 @@ ServerEvents.tags('item', event => {
     "meadow:cobbled_limestone",
     "biomesoplenty:white_sandstone",
     "biomesoplenty:orange_sandstone",
-    "biomesoplenty:black_sandstone"
+    "biomesoplenty:black_sandstone",
+    "biomesoplenty:dried_salt"
   ])
 
   

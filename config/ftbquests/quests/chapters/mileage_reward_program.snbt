@@ -5742,6 +5742,7 @@
 				"5DCE0E1336A22548"
 				"098DBB931375DFF4"
 				"6F1671A2356CDE80"
+				"0F5A3B640A640BFE"
 			]
 			icon: "kubejs:cert_mining_wood"
 			id: "3E2EC867616B127C"
@@ -5795,6 +5796,7 @@
 				"5DCE0E1336A22548"
 				"098DBB931375DFF4"
 				"6F1671A2356CDE80"
+				"0F5A3B640A640BFE"
 			]
 			icon: "kubejs:cert_mining_stone"
 			id: "39AE94D6270A6B63"
@@ -5848,6 +5850,7 @@
 				"5DCE0E1336A22548"
 				"098DBB931375DFF4"
 				"6F1671A2356CDE80"
+				"0F5A3B640A640BFE"
 			]
 			icon: "kubejs:cert_mining_iron"
 			id: "6FC19B76B64FAF44"
@@ -5901,6 +5904,7 @@
 				"5DCE0E1336A22548"
 				"098DBB931375DFF4"
 				"6F1671A2356CDE80"
+				"0F5A3B640A640BFE"
 			]
 			icon: "kubejs:cert_mining_gold"
 			id: "4083C0AEDBCD1AC3"
@@ -5954,6 +5958,7 @@
 				"5DCE0E1336A22548"
 				"098DBB931375DFF4"
 				"6F1671A2356CDE80"
+				"0F5A3B640A640BFE"
 			]
 			icon: "kubejs:cert_mining_diamond"
 			id: "2F58B3AF4C3E3F84"
@@ -5964,7 +5969,7 @@
 					type: "item"
 				}
 				{
-					count: 50
+					count: 55
 					id: "3CB8B074F06A7FFB"
 					item: "kubejs:miles_ticket"
 					type: "item"

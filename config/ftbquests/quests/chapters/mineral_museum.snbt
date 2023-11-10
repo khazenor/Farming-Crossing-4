@@ -965,6 +965,35 @@
 			x: 3.5d
 			y: 2.5d
 		}
+		{
+			dependencies: ["44DB551B93AA28F9"]
+			disable_toast: true
+			hide: true
+			id: "0F5A3B640A640BFE"
+			rewards: [
+				{
+					auto: "no_toast"
+					command: "/scoreboard players add @p minerals_collected 1"
+					id: "14FC3DBEDE08C951"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/tellraw @p [\"\",{\"text\":\"New mineral collected! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"minerals_collected\"}},{\"text\":\" unique mineral(s)!\"}]"
+					id: "5C063736E5536EC7"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "69F4C4D4FE5A3640"
+				item: "biomesoplenty:dried_salt"
+				type: "item"
+			}]
+			x: -13.5d
+			y: -12.5d
+		}
 	]
 	title: "Mineral Museum"
 }
