@@ -11,7 +11,7 @@ ServerEvents.recipes(event => {
   ])
   event.remove({ output: 'villagersplus:birch_horticulturist_table' })
   event.shapeless('villagersplus:birch_horticulturist_table', [
-    "minecraft:stripped_birch_log",
+    "#minecraft:logs",
     'minecraft:paper'
   ])
   event.remove({ output: 'villagersplus:cherry_horticulturist_table' })
@@ -40,10 +40,10 @@ ServerEvents.recipes(event => {
     'minecraft:paper'
   ])
   event.remove({ output: 'villagersplus:oak_horticulturist_table' })
-  event.shapeless('villagersplus:oak_horticulturist_table', [
-    "minecraft:stripped_oak_log",
-    'minecraft:paper'
-  ])
+  // event.shapeless('villagersplus:oak_horticulturist_table', [
+  //   "minecraft:stripped_oak_log",
+  //   'minecraft:paper'
+  // ])
   event.remove({ output: 'villagersplus:spruce_horticulturist_table' })
   event.shapeless('villagersplus:spruce_horticulturist_table', [
     "minecraft:stripped_spruce_log",

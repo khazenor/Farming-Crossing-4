@@ -98,5 +98,7 @@ def clientSideModNames():
 		'controllable',
 		'entity_model_features_forge_1.20.1',
 		'entity_texture_features_forge_1.20.1',
-		'InventoryProfilesNext'
+		'InventoryProfilesNext',
+		'citresewn',
+		'inventorysorter'
 	]
