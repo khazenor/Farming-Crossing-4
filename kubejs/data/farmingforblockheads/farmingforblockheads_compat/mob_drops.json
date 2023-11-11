@@ -25,6 +25,10 @@
       "payment": { "item": "kubejs:miles_ticket", "count": 4 }, 
       "category": "mobdrops"
     },{
+      "output": { "item": "minecraft:feather" }, 
+      "payment": { "item": "kubejs:miles_ticket", "count": 2 }, 
+      "category": "mobdrops"
+    },{
       "output": { "item": "minecraft:bone" }, 
       "payment": { "item": "kubejs:miles_ticket", "count": 4 }, 
       "category": "mobdrops"
@@ -45,8 +49,8 @@
       "payment": { "item": "kubejs:miles_ticket", "count": 2 }, 
       "category": "mobdrops"
     },{
-      "output": { "item": "minecraft:gunpowder" }, 
-      "payment": { "item": "kubejs:miles_ticket", "count": 16 }, 
+      "output": { "item": "minecraft:slime_ball" }, 
+      "payment": { "item": "kubejs:miles_ticket", "count": 4 }, 
       "category": "mobdrops"
     },{
       "output": { "item": "minecraft:ender_pearl" }, 
