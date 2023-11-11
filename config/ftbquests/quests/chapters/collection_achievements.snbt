@@ -6,10 +6,10 @@
 	icon: "kubejs:miles_ticket"
 	id: "6D7DC7CECD7466B0"
 	order_index: 0
-	quest_links: []
+	quest_links: [ ]
 	quests: [
-{
-	dependencies: [
+		{
+			dependencies: [
 				"125BCAAB6813FEA3"
 				"764BDE4A85A0212C"
 				"1C308A4B365AB2AC"
@@ -126,28 +126,25 @@
 				"7F57AD9A20DAB261"
 				"3E4836F1A4AA2859"
 				"426484111178BC6C"
-	]
-	icon: "moa_decor_toys:lorocian"
-	id: "082D831CAA154AA7"
-	min_required_dependencies: 2
-	rewards: [
-		{
-			count: 1
-			id: "20D2C20AE3124409"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "moa_decor_toys:lorocian"
+			id: "082D831CAA154AA7"
+			min_required_dependencies: 2
+			rewards: [{
+				id: "20D2C20AE3124409"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6F8F19AF6A0CDFDB"
+				type: "item"
+			}]
+			title: "Observed 2 Unique Animals!"
+			x: 0.0d
+			y: 0.0d
 		}
-	]
-	tasks: [{
-		id: "6F8F19AF6A0CDFDB"
-		type: "item"
-	}]
-	title: "Observed 2 Unique Animals!"
-	x: 0.0d
-	y: 0.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"125BCAAB6813FEA3"
 				"764BDE4A85A0212C"
 				"1C308A4B365AB2AC"
@@ -264,28 +261,25 @@
 				"7F57AD9A20DAB261"
 				"3E4836F1A4AA2859"
 				"426484111178BC6C"
-	]
-	icon: "moa_decor_toys:lorocian"
-	id: "052F85AAC2ECA062"
-	min_required_dependencies: 5
-	rewards: [
-		{
-			count: 1
-			id: "50B7C19F7F54ECE1"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "moa_decor_toys:lorocian"
+			id: "052F85AAC2ECA062"
+			min_required_dependencies: 5
+			rewards: [{
+				id: "50B7C19F7F54ECE1"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "04E608B8DD032B22"
+				type: "item"
+			}]
+			title: "Observed 5 Unique Animals!"
+			x: 1.0d
+			y: 0.0d
 		}
-	]
-	tasks: [{
-		id: "04E608B8DD032B22"
-		type: "item"
-	}]
-	title: "Observed 5 Unique Animals!"
-	x: 1.0d
-	y: 0.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"125BCAAB6813FEA3"
 				"764BDE4A85A0212C"
 				"1C308A4B365AB2AC"
@@ -402,28 +396,26 @@
 				"7F57AD9A20DAB261"
 				"3E4836F1A4AA2859"
 				"426484111178BC6C"
-	]
-	icon: "moa_decor_toys:lorocian"
-	id: "60C2C0A8F1ADB05D"
-	min_required_dependencies: 10
-	rewards: [
-		{
-			count: 4
-			id: "14B721C949CB4A35"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "moa_decor_toys:lorocian"
+			id: "60C2C0A8F1ADB05D"
+			min_required_dependencies: 10
+			rewards: [{
+				count: 4
+				id: "14B721C949CB4A35"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6D14E0BEE9D05A4A"
+				type: "item"
+			}]
+			title: "Observed 10 Unique Animals!"
+			x: 2.0d
+			y: 0.0d
 		}
-	]
-	tasks: [{
-		id: "6D14E0BEE9D05A4A"
-		type: "item"
-	}]
-	title: "Observed 10 Unique Animals!"
-	x: 2.0d
-	y: 0.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"125BCAAB6813FEA3"
 				"764BDE4A85A0212C"
 				"1C308A4B365AB2AC"
@@ -540,28 +532,26 @@
 				"7F57AD9A20DAB261"
 				"3E4836F1A4AA2859"
 				"426484111178BC6C"
-	]
-	icon: "moa_decor_toys:lorocian"
-	id: "1B7A2876A8C12660"
-	min_required_dependencies: 20
-	rewards: [
-		{
-			count: 13
-			id: "3872A2A44FFC08FA"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "moa_decor_toys:lorocian"
+			id: "1B7A2876A8C12660"
+			min_required_dependencies: 20
+			rewards: [{
+				count: 13
+				id: "3872A2A44FFC08FA"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6740FA31BEBDAB6E"
+				type: "item"
+			}]
+			title: "Observed 20 Unique Animals!"
+			x: 3.0d
+			y: 0.0d
 		}
-	]
-	tasks: [{
-		id: "6740FA31BEBDAB6E"
-		type: "item"
-	}]
-	title: "Observed 20 Unique Animals!"
-	x: 3.0d
-	y: 0.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"125BCAAB6813FEA3"
 				"764BDE4A85A0212C"
 				"1C308A4B365AB2AC"
@@ -678,28 +668,26 @@
 				"7F57AD9A20DAB261"
 				"3E4836F1A4AA2859"
 				"426484111178BC6C"
-	]
-	icon: "moa_decor_toys:lorocian"
-	id: "565C1DC85CB2938A"
-	min_required_dependencies: 35
-	rewards: [
-		{
-			count: 32
-			id: "0C1C93EA7E8EB7E8"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "moa_decor_toys:lorocian"
+			id: "565C1DC85CB2938A"
+			min_required_dependencies: 35
+			rewards: [{
+				count: 32
+				id: "0C1C93EA7E8EB7E8"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "51530DF4F1F4AB71"
+				type: "item"
+			}]
+			title: "Observed 35 Unique Animals!"
+			x: 4.0d
+			y: 0.0d
 		}
-	]
-	tasks: [{
-		id: "51530DF4F1F4AB71"
-		type: "item"
-	}]
-	title: "Observed 35 Unique Animals!"
-	x: 4.0d
-	y: 0.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"125BCAAB6813FEA3"
 				"764BDE4A85A0212C"
 				"1C308A4B365AB2AC"
@@ -816,28 +804,26 @@
 				"7F57AD9A20DAB261"
 				"3E4836F1A4AA2859"
 				"426484111178BC6C"
-	]
-	icon: "moa_decor_toys:lorocian"
-	id: "790AC72895DBD10F"
-	min_required_dependencies: 55
-	rewards: [
-		{
-			count: 67
-			id: "2618569FE7923E86"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "moa_decor_toys:lorocian"
+			id: "790AC72895DBD10F"
+			min_required_dependencies: 55
+			rewards: [{
+				count: 67
+				id: "2618569FE7923E86"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1CDE31DDB4F46671"
+				type: "item"
+			}]
+			title: "Observed 55 Unique Animals!"
+			x: 5.0d
+			y: 0.0d
 		}
-	]
-	tasks: [{
-		id: "1CDE31DDB4F46671"
-		type: "item"
-	}]
-	title: "Observed 55 Unique Animals!"
-	x: 5.0d
-	y: 0.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"125BCAAB6813FEA3"
 				"764BDE4A85A0212C"
 				"1C308A4B365AB2AC"
@@ -954,28 +940,26 @@
 				"7F57AD9A20DAB261"
 				"3E4836F1A4AA2859"
 				"426484111178BC6C"
-	]
-	icon: "moa_decor_toys:lorocian"
-	id: "362C00DA017D9593"
-	min_required_dependencies: 80
-	rewards: [
-		{
-			count: 121
-			id: "4A60B4E7D7DC6C2F"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "moa_decor_toys:lorocian"
+			id: "362C00DA017D9593"
+			min_required_dependencies: 80
+			rewards: [{
+				count: 121
+				id: "4A60B4E7D7DC6C2F"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "094F343EB0EB9B6C"
+				type: "item"
+			}]
+			title: "Observed 80 Unique Animals!"
+			x: 6.0d
+			y: 0.0d
 		}
-	]
-	tasks: [{
-		id: "094F343EB0EB9B6C"
-		type: "item"
-	}]
-	title: "Observed 80 Unique Animals!"
-	x: 6.0d
-	y: 0.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"125BCAAB6813FEA3"
 				"764BDE4A85A0212C"
 				"1C308A4B365AB2AC"
@@ -1092,32 +1076,32 @@
 				"7F57AD9A20DAB261"
 				"3E4836F1A4AA2859"
 				"426484111178BC6C"
-	]
-	icon: "moa_decor_toys:lorocian"
-	id: "033A26C5D4F4052A"
-	rewards: [
-		{
-			id: "0347ED6C1143E241"
-			item: "kubejs:cert_ani_diamond"
-			type: "item"
+			]
+			icon: "moa_decor_toys:lorocian"
+			id: "033A26C5D4F4052A"
+			rewards: [
+				{
+					id: "0347ED6C1143E241"
+					item: "kubejs:cert_ani_diamond"
+					type: "item"
+				}
+				{
+					count: 252
+					id: "5E677DA4209ACB71"
+					item: "kubejs:miles_ticket"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "023797408DBB4D19"
+				type: "item"
+			}]
+			title: "Animal Observation Completion!"
+			x: 7.0d
+			y: 0.0d
 		}
 		{
-			count: 252
-			id: "5E677DA4209ACB71"
-			item: "kubejs:miles_ticket"
-			type: "item"
-		}
-	]
-	tasks: [{
-		id: "023797408DBB4D19"
-		type: "item"
-	}]
-	title: "Animal Observation Completion!"
-	x: 7.0d
-	y: 0.0d
-}
-{
-	dependencies: [
+			dependencies: [
 				"0000000000000029"
 				"000000000000002C"
 				"0000000000000030"
@@ -1155,28 +1139,26 @@
 				"261E46C3DF60F387"
 				"7575A810AD9896BA"
 				"3DD99FC8B82B7E1D"
-	]
-	icon: "aquaculture:atlantic_herring"
-	id: "5A0B092C5AE36C26"
-	min_required_dependencies: 2
-	rewards: [
-		{
-			count: 2
-			id: "3BDF95C08056B534"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "aquaculture:atlantic_herring"
+			id: "5A0B092C5AE36C26"
+			min_required_dependencies: 2
+			rewards: [{
+				count: 2
+				id: "3BDF95C08056B534"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1832B18B48D2833A"
+				type: "item"
+			}]
+			title: "Caught 2 Unique Fishes!"
+			x: 0.0d
+			y: 1.0d
 		}
-	]
-	tasks: [{
-		id: "1832B18B48D2833A"
-		type: "item"
-	}]
-	title: "Caught 2 Unique Fishes!"
-	x: 0.0d
-	y: 1.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"0000000000000029"
 				"000000000000002C"
 				"0000000000000030"
@@ -1214,28 +1196,26 @@
 				"261E46C3DF60F387"
 				"7575A810AD9896BA"
 				"3DD99FC8B82B7E1D"
-	]
-	icon: "aquaculture:atlantic_herring"
-	id: "49E70233ECB54C0D"
-	min_required_dependencies: 5
-	rewards: [
-		{
-			count: 5
-			id: "370D4258D5C9203C"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "aquaculture:atlantic_herring"
+			id: "49E70233ECB54C0D"
+			min_required_dependencies: 5
+			rewards: [{
+				count: 5
+				id: "370D4258D5C9203C"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "41699A04996D6F1D"
+				type: "item"
+			}]
+			title: "Caught 5 Unique Fishes!"
+			x: 1.0d
+			y: 1.0d
 		}
-	]
-	tasks: [{
-		id: "41699A04996D6F1D"
-		type: "item"
-	}]
-	title: "Caught 5 Unique Fishes!"
-	x: 1.0d
-	y: 1.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"0000000000000029"
 				"000000000000002C"
 				"0000000000000030"
@@ -1273,28 +1253,26 @@
 				"261E46C3DF60F387"
 				"7575A810AD9896BA"
 				"3DD99FC8B82B7E1D"
-	]
-	icon: "aquaculture:atlantic_herring"
-	id: "145172E6CDB262E1"
-	min_required_dependencies: 10
-	rewards: [
-		{
-			count: 17
-			id: "4061431DFCA5CD32"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "aquaculture:atlantic_herring"
+			id: "145172E6CDB262E1"
+			min_required_dependencies: 10
+			rewards: [{
+				count: 17
+				id: "4061431DFCA5CD32"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "06449BD89D52043E"
+				type: "item"
+			}]
+			title: "Caught 10 Unique Fishes!"
+			x: 2.0d
+			y: 1.0d
 		}
-	]
-	tasks: [{
-		id: "06449BD89D52043E"
-		type: "item"
-	}]
-	title: "Caught 10 Unique Fishes!"
-	x: 2.0d
-	y: 1.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"0000000000000029"
 				"000000000000002C"
 				"0000000000000030"
@@ -1332,28 +1310,26 @@
 				"261E46C3DF60F387"
 				"7575A810AD9896BA"
 				"3DD99FC8B82B7E1D"
-	]
-	icon: "aquaculture:atlantic_herring"
-	id: "3F0B9EB9A651B13F"
-	min_required_dependencies: 20
-	rewards: [
-		{
-			count: 65
-			id: "5D5327C43F7FAAD8"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "aquaculture:atlantic_herring"
+			id: "3F0B9EB9A651B13F"
+			min_required_dependencies: 20
+			rewards: [{
+				count: 65
+				id: "5D5327C43F7FAAD8"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5F57314B1445C575"
+				type: "item"
+			}]
+			title: "Caught 20 Unique Fishes!"
+			x: 3.0d
+			y: 1.0d
 		}
-	]
-	tasks: [{
-		id: "5F57314B1445C575"
-		type: "item"
-	}]
-	title: "Caught 20 Unique Fishes!"
-	x: 3.0d
-	y: 1.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"0000000000000029"
 				"000000000000002C"
 				"0000000000000030"
@@ -1391,32 +1367,32 @@
 				"261E46C3DF60F387"
 				"7575A810AD9896BA"
 				"3DD99FC8B82B7E1D"
-	]
-	icon: "aquaculture:atlantic_herring"
-	id: "70F48BE72DFCA1DD"
-	rewards: [
-		{
-			id: "1AEE031BBA7FA715"
-			item: "kubejs:cert_fish_diamond"
-			type: "item"
+			]
+			icon: "aquaculture:atlantic_herring"
+			id: "70F48BE72DFCA1DD"
+			rewards: [
+				{
+					id: "1AEE031BBA7FA715"
+					item: "kubejs:cert_fish_diamond"
+					type: "item"
+				}
+				{
+					count: 204
+					id: "2E6FD0B48B92B613"
+					item: "kubejs:miles_ticket"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "20FDCF265B7ADF3C"
+				type: "item"
+			}]
+			title: "Aquarium Completion!"
+			x: 4.0d
+			y: 1.0d
 		}
 		{
-			count: 204
-			id: "2E6FD0B48B92B613"
-			item: "kubejs:miles_ticket"
-			type: "item"
-		}
-	]
-	tasks: [{
-		id: "20FDCF265B7ADF3C"
-		type: "item"
-	}]
-	title: "Aquarium Completion!"
-	x: 4.0d
-	y: 1.0d
-}
-{
-	dependencies: [
+			dependencies: [
 				"6EF22AC33B4F8CB3"
 				"6D26D42BE37F844D"
 				"5F04C7419ED8096B"
@@ -1539,28 +1515,25 @@
 				"3A41E2C7A6B95D28"
 				"0DF4E7173E95E42F"
 				"530D390E2F102182"
-	]
-	icon: "bakery:strawberry_cupcake"
-	id: "1BC36823B5622DED"
-	min_required_dependencies: 2
-	rewards: [
-		{
-			count: 1
-			id: "71D139CCABB2A530"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "bakery:strawberry_cupcake"
+			id: "1BC36823B5622DED"
+			min_required_dependencies: 2
+			rewards: [{
+				id: "71D139CCABB2A530"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7CA169A94AFB71F4"
+				type: "item"
+			}]
+			title: "Cooked 2 Unique Dishes!"
+			x: 0.0d
+			y: 2.0d
 		}
-	]
-	tasks: [{
-		id: "7CA169A94AFB71F4"
-		type: "item"
-	}]
-	title: "Cooked 2 Unique Dishes!"
-	x: 0.0d
-	y: 2.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"6EF22AC33B4F8CB3"
 				"6D26D42BE37F844D"
 				"5F04C7419ED8096B"
@@ -1683,28 +1656,26 @@
 				"3A41E2C7A6B95D28"
 				"0DF4E7173E95E42F"
 				"530D390E2F102182"
-	]
-	icon: "bakery:strawberry_cupcake"
-	id: "3A7F7956EFAFEE8D"
-	min_required_dependencies: 5
-	rewards: [
-		{
-			count: 2
-			id: "42CE3AC4715DE879"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "bakery:strawberry_cupcake"
+			id: "3A7F7956EFAFEE8D"
+			min_required_dependencies: 5
+			rewards: [{
+				count: 2
+				id: "42CE3AC4715DE879"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "27D2C2BE45B449D4"
+				type: "item"
+			}]
+			title: "Cooked 5 Unique Dishes!"
+			x: 1.0d
+			y: 2.0d
 		}
-	]
-	tasks: [{
-		id: "27D2C2BE45B449D4"
-		type: "item"
-	}]
-	title: "Cooked 5 Unique Dishes!"
-	x: 1.0d
-	y: 2.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"6EF22AC33B4F8CB3"
 				"6D26D42BE37F844D"
 				"5F04C7419ED8096B"
@@ -1827,28 +1798,26 @@
 				"3A41E2C7A6B95D28"
 				"0DF4E7173E95E42F"
 				"530D390E2F102182"
-	]
-	icon: "bakery:strawberry_cupcake"
-	id: "2E87696196E055A5"
-	min_required_dependencies: 10
-	rewards: [
-		{
-			count: 4
-			id: "51371B625ED53173"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "bakery:strawberry_cupcake"
+			id: "2E87696196E055A5"
+			min_required_dependencies: 10
+			rewards: [{
+				count: 4
+				id: "51371B625ED53173"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "64795E4BC0F9DD54"
+				type: "item"
+			}]
+			title: "Cooked 10 Unique Dishes!"
+			x: 2.0d
+			y: 2.0d
 		}
-	]
-	tasks: [{
-		id: "64795E4BC0F9DD54"
-		type: "item"
-	}]
-	title: "Cooked 10 Unique Dishes!"
-	x: 2.0d
-	y: 2.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"6EF22AC33B4F8CB3"
 				"6D26D42BE37F844D"
 				"5F04C7419ED8096B"
@@ -1971,28 +1940,26 @@
 				"3A41E2C7A6B95D28"
 				"0DF4E7173E95E42F"
 				"530D390E2F102182"
-	]
-	icon: "bakery:strawberry_cupcake"
-	id: "379E46557F33950F"
-	min_required_dependencies: 20
-	rewards: [
-		{
-			count: 15
-			id: "677D28898746602D"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "bakery:strawberry_cupcake"
+			id: "379E46557F33950F"
+			min_required_dependencies: 20
+			rewards: [{
+				count: 15
+				id: "677D28898746602D"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4F25EA2D93E048A4"
+				type: "item"
+			}]
+			title: "Cooked 20 Unique Dishes!"
+			x: 3.0d
+			y: 2.0d
 		}
-	]
-	tasks: [{
-		id: "4F25EA2D93E048A4"
-		type: "item"
-	}]
-	title: "Cooked 20 Unique Dishes!"
-	x: 3.0d
-	y: 2.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"6EF22AC33B4F8CB3"
 				"6D26D42BE37F844D"
 				"5F04C7419ED8096B"
@@ -2115,28 +2082,26 @@
 				"3A41E2C7A6B95D28"
 				"0DF4E7173E95E42F"
 				"530D390E2F102182"
-	]
-	icon: "bakery:strawberry_cupcake"
-	id: "7E93FFBB37B88230"
-	min_required_dependencies: 35
-	rewards: [
-		{
-			count: 39
-			id: "5BEEC4575A6E47DB"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "bakery:strawberry_cupcake"
+			id: "7E93FFBB37B88230"
+			min_required_dependencies: 35
+			rewards: [{
+				count: 39
+				id: "5BEEC4575A6E47DB"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "658BCD07F774BEA0"
+				type: "item"
+			}]
+			title: "Cooked 35 Unique Dishes!"
+			x: 4.0d
+			y: 2.0d
 		}
-	]
-	tasks: [{
-		id: "658BCD07F774BEA0"
-		type: "item"
-	}]
-	title: "Cooked 35 Unique Dishes!"
-	x: 4.0d
-	y: 2.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"6EF22AC33B4F8CB3"
 				"6D26D42BE37F844D"
 				"5F04C7419ED8096B"
@@ -2259,28 +2224,26 @@
 				"3A41E2C7A6B95D28"
 				"0DF4E7173E95E42F"
 				"530D390E2F102182"
-	]
-	icon: "bakery:strawberry_cupcake"
-	id: "7AE1708485F55745"
-	min_required_dependencies: 55
-	rewards: [
-		{
-			count: 82
-			id: "4CF1CD8A427E92B5"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "bakery:strawberry_cupcake"
+			id: "7AE1708485F55745"
+			min_required_dependencies: 55
+			rewards: [{
+				count: 82
+				id: "4CF1CD8A427E92B5"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "68EF1174ED73F1B4"
+				type: "item"
+			}]
+			title: "Cooked 55 Unique Dishes!"
+			x: 5.0d
+			y: 2.0d
 		}
-	]
-	tasks: [{
-		id: "68EF1174ED73F1B4"
-		type: "item"
-	}]
-	title: "Cooked 55 Unique Dishes!"
-	x: 5.0d
-	y: 2.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"6EF22AC33B4F8CB3"
 				"6D26D42BE37F844D"
 				"5F04C7419ED8096B"
@@ -2403,28 +2366,26 @@
 				"3A41E2C7A6B95D28"
 				"0DF4E7173E95E42F"
 				"530D390E2F102182"
-	]
-	icon: "bakery:strawberry_cupcake"
-	id: "37022FF96AC66616"
-	min_required_dependencies: 80
-	rewards: [
-		{
-			count: 148
-			id: "48F94CA4742B7B3E"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "bakery:strawberry_cupcake"
+			id: "37022FF96AC66616"
+			min_required_dependencies: 80
+			rewards: [{
+				count: 148
+				id: "48F94CA4742B7B3E"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "00B1CA3569D7E96A"
+				type: "item"
+			}]
+			title: "Cooked 80 Unique Dishes!"
+			x: 6.0d
+			y: 2.0d
 		}
-	]
-	tasks: [{
-		id: "00B1CA3569D7E96A"
-		type: "item"
-	}]
-	title: "Cooked 80 Unique Dishes!"
-	x: 6.0d
-	y: 2.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"6EF22AC33B4F8CB3"
 				"6D26D42BE37F844D"
 				"5F04C7419ED8096B"
@@ -2547,32 +2508,32 @@
 				"3A41E2C7A6B95D28"
 				"0DF4E7173E95E42F"
 				"530D390E2F102182"
-	]
-	icon: "bakery:strawberry_cupcake"
-	id: "4F8FBB5EF244D1BC"
-	rewards: [
-		{
-			id: "766A0675487D4CC6"
-			item: "kubejs:cert_cook_diamond"
-			type: "item"
+			]
+			icon: "bakery:strawberry_cupcake"
+			id: "4F8FBB5EF244D1BC"
+			rewards: [
+				{
+					id: "766A0675487D4CC6"
+					item: "kubejs:cert_cook_diamond"
+					type: "item"
+				}
+				{
+					count: 378
+					id: "027571FAA6CC29C5"
+					item: "kubejs:miles_ticket"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "65A7B15DAE30F01C"
+				type: "item"
+			}]
+			title: "Cooking Collection Completion!"
+			x: 7.0d
+			y: 2.0d
 		}
 		{
-			count: 378
-			id: "027571FAA6CC29C5"
-			item: "kubejs:miles_ticket"
-			type: "item"
-		}
-	]
-	tasks: [{
-		id: "65A7B15DAE30F01C"
-		type: "item"
-	}]
-	title: "Cooking Collection Completion!"
-	x: 7.0d
-	y: 2.0d
-}
-{
-	dependencies: [
+			dependencies: [
 				"4B06A2E5963F65FE"
 				"2B3D84C5297A5B1A"
 				"66783EC70CC8F1B2"
@@ -2662,28 +2623,25 @@
 				"4DF1A4BE62148D2B"
 				"71F35D1D5A103717"
 				"4152F736164A5CC2"
-	]
-	icon: "meadow:alpine_poppy"
-	id: "1534A68767E0126F"
-	min_required_dependencies: 2
-	rewards: [
-		{
-			count: 1
-			id: "545FF73D3E2B24E7"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "meadow:alpine_poppy"
+			id: "1534A68767E0126F"
+			min_required_dependencies: 2
+			rewards: [{
+				id: "545FF73D3E2B24E7"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2777528937708BB3"
+				type: "item"
+			}]
+			title: "Collected 2 Unique Flora!"
+			x: 0.0d
+			y: 3.0d
 		}
-	]
-	tasks: [{
-		id: "2777528937708BB3"
-		type: "item"
-	}]
-	title: "Collected 2 Unique Flora!"
-	x: 0.0d
-	y: 3.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"4B06A2E5963F65FE"
 				"2B3D84C5297A5B1A"
 				"66783EC70CC8F1B2"
@@ -2773,28 +2731,25 @@
 				"4DF1A4BE62148D2B"
 				"71F35D1D5A103717"
 				"4152F736164A5CC2"
-	]
-	icon: "meadow:alpine_poppy"
-	id: "390282C7BAE6DF12"
-	min_required_dependencies: 5
-	rewards: [
-		{
-			count: 1
-			id: "033FC606B445982E"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "meadow:alpine_poppy"
+			id: "390282C7BAE6DF12"
+			min_required_dependencies: 5
+			rewards: [{
+				id: "033FC606B445982E"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "02828DEA34E49AF9"
+				type: "item"
+			}]
+			title: "Collected 5 Unique Flora!"
+			x: 1.0d
+			y: 3.0d
 		}
-	]
-	tasks: [{
-		id: "02828DEA34E49AF9"
-		type: "item"
-	}]
-	title: "Collected 5 Unique Flora!"
-	x: 1.0d
-	y: 3.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"4B06A2E5963F65FE"
 				"2B3D84C5297A5B1A"
 				"66783EC70CC8F1B2"
@@ -2884,28 +2839,26 @@
 				"4DF1A4BE62148D2B"
 				"71F35D1D5A103717"
 				"4152F736164A5CC2"
-	]
-	icon: "meadow:alpine_poppy"
-	id: "267EA22F7EC7C9A8"
-	min_required_dependencies: 10
-	rewards: [
-		{
-			count: 3
-			id: "03E44FD4E3847239"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "meadow:alpine_poppy"
+			id: "267EA22F7EC7C9A8"
+			min_required_dependencies: 10
+			rewards: [{
+				count: 3
+				id: "03E44FD4E3847239"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "54AD9271CBD1879E"
+				type: "item"
+			}]
+			title: "Collected 10 Unique Flora!"
+			x: 2.0d
+			y: 3.0d
 		}
-	]
-	tasks: [{
-		id: "54AD9271CBD1879E"
-		type: "item"
-	}]
-	title: "Collected 10 Unique Flora!"
-	x: 2.0d
-	y: 3.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"4B06A2E5963F65FE"
 				"2B3D84C5297A5B1A"
 				"66783EC70CC8F1B2"
@@ -2995,28 +2948,26 @@
 				"4DF1A4BE62148D2B"
 				"71F35D1D5A103717"
 				"4152F736164A5CC2"
-	]
-	icon: "meadow:alpine_poppy"
-	id: "3E266594A592CB7D"
-	min_required_dependencies: 20
-	rewards: [
-		{
-			count: 12
-			id: "750907ED599917E7"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "meadow:alpine_poppy"
+			id: "3E266594A592CB7D"
+			min_required_dependencies: 20
+			rewards: [{
+				count: 12
+				id: "750907ED599917E7"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "01B94D26E5043450"
+				type: "item"
+			}]
+			title: "Collected 20 Unique Flora!"
+			x: 3.0d
+			y: 3.0d
 		}
-	]
-	tasks: [{
-		id: "01B94D26E5043450"
-		type: "item"
-	}]
-	title: "Collected 20 Unique Flora!"
-	x: 3.0d
-	y: 3.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"4B06A2E5963F65FE"
 				"2B3D84C5297A5B1A"
 				"66783EC70CC8F1B2"
@@ -3106,28 +3057,26 @@
 				"4DF1A4BE62148D2B"
 				"71F35D1D5A103717"
 				"4152F736164A5CC2"
-	]
-	icon: "meadow:alpine_poppy"
-	id: "027EFB5DF3086CA0"
-	min_required_dependencies: 35
-	rewards: [
-		{
-			count: 30
-			id: "25695F0C4AFE9437"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "meadow:alpine_poppy"
+			id: "027EFB5DF3086CA0"
+			min_required_dependencies: 35
+			rewards: [{
+				count: 30
+				id: "25695F0C4AFE9437"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7A26B069FD1FE76C"
+				type: "item"
+			}]
+			title: "Collected 35 Unique Flora!"
+			x: 4.0d
+			y: 3.0d
 		}
-	]
-	tasks: [{
-		id: "7A26B069FD1FE76C"
-		type: "item"
-	}]
-	title: "Collected 35 Unique Flora!"
-	x: 4.0d
-	y: 3.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"4B06A2E5963F65FE"
 				"2B3D84C5297A5B1A"
 				"66783EC70CC8F1B2"
@@ -3217,28 +3166,26 @@
 				"4DF1A4BE62148D2B"
 				"71F35D1D5A103717"
 				"4152F736164A5CC2"
-	]
-	icon: "meadow:alpine_poppy"
-	id: "1CB36617658D9530"
-	min_required_dependencies: 55
-	rewards: [
-		{
-			count: 62
-			id: "48D20ACDB9EFC452"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "meadow:alpine_poppy"
+			id: "1CB36617658D9530"
+			min_required_dependencies: 55
+			rewards: [{
+				count: 62
+				id: "48D20ACDB9EFC452"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "62B610D5379B8595"
+				type: "item"
+			}]
+			title: "Collected 55 Unique Flora!"
+			x: 5.0d
+			y: 3.0d
 		}
-	]
-	tasks: [{
-		id: "62B610D5379B8595"
-		type: "item"
-	}]
-	title: "Collected 55 Unique Flora!"
-	x: 5.0d
-	y: 3.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"4B06A2E5963F65FE"
 				"2B3D84C5297A5B1A"
 				"66783EC70CC8F1B2"
@@ -3328,32 +3275,32 @@
 				"4DF1A4BE62148D2B"
 				"71F35D1D5A103717"
 				"4152F736164A5CC2"
-	]
-	icon: "meadow:alpine_poppy"
-	id: "71999C021B28261E"
-	rewards: [
-		{
-			id: "0498AD8566ED7058"
-			item: "kubejs:cert_flora_diamond"
-			type: "item"
+			]
+			icon: "meadow:alpine_poppy"
+			id: "71999C021B28261E"
+			rewards: [
+				{
+					id: "0498AD8566ED7058"
+					item: "kubejs:cert_flora_diamond"
+					type: "item"
+				}
+				{
+					count: 170
+					id: "6F1A916F4BBBAB13"
+					item: "kubejs:miles_ticket"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2A86A7F97AFBDBFF"
+				type: "item"
+			}]
+			title: "Flora Compendium Completion!"
+			x: 6.0d
+			y: 3.0d
 		}
 		{
-			count: 170
-			id: "6F1A916F4BBBAB13"
-			item: "kubejs:miles_ticket"
-			type: "item"
-		}
-	]
-	tasks: [{
-		id: "2A86A7F97AFBDBFF"
-		type: "item"
-	}]
-	title: "Flora Compendium Completion!"
-	x: 6.0d
-	y: 3.0d
-}
-{
-	dependencies: [
+			dependencies: [
 				"14A7653BDAE406CD"
 				"35CE4F262B0FF3C3"
 				"161C3CDECACA6D59"
@@ -3388,28 +3335,25 @@
 				"098DBB931375DFF4"
 				"6F1671A2356CDE80"
 				"0F5A3B640A640BFE"
-	]
-	icon: "minecraft:raw_gold"
-	id: "03C49F289335FB4B"
-	min_required_dependencies: 2
-	rewards: [
-		{
-			count: 1
-			id: "16B2D3D1E5716551"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "minecraft:raw_gold"
+			id: "03C49F289335FB4B"
+			min_required_dependencies: 2
+			rewards: [{
+				id: "16B2D3D1E5716551"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0537A17FCB5A14D7"
+				type: "item"
+			}]
+			title: "Collected 2 Unique Minerals!"
+			x: 0.0d
+			y: 4.0d
 		}
-	]
-	tasks: [{
-		id: "0537A17FCB5A14D7"
-		type: "item"
-	}]
-	title: "Collected 2 Unique Minerals!"
-	x: 0.0d
-	y: 4.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"14A7653BDAE406CD"
 				"35CE4F262B0FF3C3"
 				"161C3CDECACA6D59"
@@ -3444,28 +3388,26 @@
 				"098DBB931375DFF4"
 				"6F1671A2356CDE80"
 				"0F5A3B640A640BFE"
-	]
-	icon: "minecraft:raw_gold"
-	id: "182202B4EDE11725"
-	min_required_dependencies: 5
-	rewards: [
-		{
-			count: 3
-			id: "0C66291CEEF924DF"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "minecraft:raw_gold"
+			id: "182202B4EDE11725"
+			min_required_dependencies: 5
+			rewards: [{
+				count: 3
+				id: "0C66291CEEF924DF"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "33DB6CAB4B31C2E8"
+				type: "item"
+			}]
+			title: "Collected 5 Unique Minerals!"
+			x: 1.0d
+			y: 4.0d
 		}
-	]
-	tasks: [{
-		id: "33DB6CAB4B31C2E8"
-		type: "item"
-	}]
-	title: "Collected 5 Unique Minerals!"
-	x: 1.0d
-	y: 4.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"14A7653BDAE406CD"
 				"35CE4F262B0FF3C3"
 				"161C3CDECACA6D59"
@@ -3500,28 +3442,26 @@
 				"098DBB931375DFF4"
 				"6F1671A2356CDE80"
 				"0F5A3B640A640BFE"
-	]
-	icon: "minecraft:raw_gold"
-	id: "5AF2A05DDCE99BF7"
-	min_required_dependencies: 10
-	rewards: [
-		{
-			count: 8
-			id: "7AC28A7626AD1F5E"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "minecraft:raw_gold"
+			id: "5AF2A05DDCE99BF7"
+			min_required_dependencies: 10
+			rewards: [{
+				count: 8
+				id: "7AC28A7626AD1F5E"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "510E192C4A584342"
+				type: "item"
+			}]
+			title: "Collected 10 Unique Minerals!"
+			x: 2.0d
+			y: 4.0d
 		}
-	]
-	tasks: [{
-		id: "510E192C4A584342"
-		type: "item"
-	}]
-	title: "Collected 10 Unique Minerals!"
-	x: 2.0d
-	y: 4.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"14A7653BDAE406CD"
 				"35CE4F262B0FF3C3"
 				"161C3CDECACA6D59"
@@ -3556,32 +3496,32 @@
 				"098DBB931375DFF4"
 				"6F1671A2356CDE80"
 				"0F5A3B640A640BFE"
-	]
-	icon: "minecraft:raw_gold"
-	id: "5A6CF962984C8133"
-	rewards: [
-		{
-			id: "3E174C2AD391065A"
-			item: "kubejs:cert_mining_diamond"
-			type: "item"
+			]
+			icon: "minecraft:raw_gold"
+			id: "5A6CF962984C8133"
+			rewards: [
+				{
+					id: "3E174C2AD391065A"
+					item: "kubejs:cert_mining_diamond"
+					type: "item"
+				}
+				{
+					count: 50
+					id: "4BBADE820D9168D5"
+					item: "kubejs:miles_ticket"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5AC445A96DE8B8B7"
+				type: "item"
+			}]
+			title: "Mineral Museum Completion!"
+			x: 3.0d
+			y: 4.0d
 		}
 		{
-			count: 50
-			id: "4BBADE820D9168D5"
-			item: "kubejs:miles_ticket"
-			type: "item"
-		}
-	]
-	tasks: [{
-		id: "5AC445A96DE8B8B7"
-		type: "item"
-	}]
-	title: "Mineral Museum Completion!"
-	x: 3.0d
-	y: 4.0d
-}
-{
-	dependencies: [
+			dependencies: [
 				"35B4E3F56EC6B92F"
 				"3C8C0752427A9F40"
 				"79D1F1F80566D863"
@@ -3916,28 +3856,25 @@
 				"20EA79AA3F72EEEA"
 				"2F04C36692762654"
 				"15A9B71BEB9F53A5"
-	]
-	icon: "moa_decor_art:martilloycincel"
-	id: "0B05E1402467E537"
-	min_required_dependencies: 2
-	rewards: [
-		{
-			count: 1
-			id: "00453C76F512FB72"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "moa_decor_art:martilloycincel"
+			id: "0B05E1402467E537"
+			min_required_dependencies: 2
+			rewards: [{
+				id: "00453C76F512FB72"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6DBA1108F81FAC0A"
+				type: "item"
+			}]
+			title: "Purchased 2 Unique Common Decorations!"
+			x: 0.0d
+			y: 5.0d
 		}
-	]
-	tasks: [{
-		id: "6DBA1108F81FAC0A"
-		type: "item"
-	}]
-	title: "Purchased 2 Unique Common Decorations!"
-	x: 0.0d
-	y: 5.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"35B4E3F56EC6B92F"
 				"3C8C0752427A9F40"
 				"79D1F1F80566D863"
@@ -4272,28 +4209,25 @@
 				"20EA79AA3F72EEEA"
 				"2F04C36692762654"
 				"15A9B71BEB9F53A5"
-	]
-	icon: "moa_decor_art:martilloycincel"
-	id: "57E8B40D05E0FE5D"
-	min_required_dependencies: 5
-	rewards: [
-		{
-			count: 1
-			id: "6BFBAB9AA8C6505A"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "moa_decor_art:martilloycincel"
+			id: "57E8B40D05E0FE5D"
+			min_required_dependencies: 5
+			rewards: [{
+				id: "6BFBAB9AA8C6505A"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1F829A3858B0F82B"
+				type: "item"
+			}]
+			title: "Purchased 5 Unique Common Decorations!"
+			x: 1.0d
+			y: 5.0d
 		}
-	]
-	tasks: [{
-		id: "1F829A3858B0F82B"
-		type: "item"
-	}]
-	title: "Purchased 5 Unique Common Decorations!"
-	x: 1.0d
-	y: 5.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"35B4E3F56EC6B92F"
 				"3C8C0752427A9F40"
 				"79D1F1F80566D863"
@@ -4628,28 +4562,26 @@
 				"20EA79AA3F72EEEA"
 				"2F04C36692762654"
 				"15A9B71BEB9F53A5"
-	]
-	icon: "moa_decor_art:martilloycincel"
-	id: "2D11D285468F2B00"
-	min_required_dependencies: 10
-	rewards: [
-		{
-			count: 2
-			id: "7AF3E6A7A29DD785"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "moa_decor_art:martilloycincel"
+			id: "2D11D285468F2B00"
+			min_required_dependencies: 10
+			rewards: [{
+				count: 2
+				id: "7AF3E6A7A29DD785"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1B8897A24F3941C2"
+				type: "item"
+			}]
+			title: "Purchased 10 Unique Common Decorations!"
+			x: 2.0d
+			y: 5.0d
 		}
-	]
-	tasks: [{
-		id: "1B8897A24F3941C2"
-		type: "item"
-	}]
-	title: "Purchased 10 Unique Common Decorations!"
-	x: 2.0d
-	y: 5.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"35B4E3F56EC6B92F"
 				"3C8C0752427A9F40"
 				"79D1F1F80566D863"
@@ -4984,28 +4916,26 @@
 				"20EA79AA3F72EEEA"
 				"2F04C36692762654"
 				"15A9B71BEB9F53A5"
-	]
-	icon: "moa_decor_art:martilloycincel"
-	id: "737FC2269BC26CEF"
-	min_required_dependencies: 20
-	rewards: [
-		{
-			count: 6
-			id: "77DBDF2CF974EEF9"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "moa_decor_art:martilloycincel"
+			id: "737FC2269BC26CEF"
+			min_required_dependencies: 20
+			rewards: [{
+				count: 6
+				id: "77DBDF2CF974EEF9"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0E9F3AC281103976"
+				type: "item"
+			}]
+			title: "Purchased 20 Unique Common Decorations!"
+			x: 3.0d
+			y: 5.0d
 		}
-	]
-	tasks: [{
-		id: "0E9F3AC281103976"
-		type: "item"
-	}]
-	title: "Purchased 20 Unique Common Decorations!"
-	x: 3.0d
-	y: 5.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"35B4E3F56EC6B92F"
 				"3C8C0752427A9F40"
 				"79D1F1F80566D863"
@@ -5340,28 +5270,26 @@
 				"20EA79AA3F72EEEA"
 				"2F04C36692762654"
 				"15A9B71BEB9F53A5"
-	]
-	icon: "moa_decor_art:martilloycincel"
-	id: "1416E2EA33BE5227"
-	min_required_dependencies: 35
-	rewards: [
-		{
-			count: 16
-			id: "0A50836A29F236AC"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "moa_decor_art:martilloycincel"
+			id: "1416E2EA33BE5227"
+			min_required_dependencies: 35
+			rewards: [{
+				count: 16
+				id: "0A50836A29F236AC"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7D6293779241DCD4"
+				type: "item"
+			}]
+			title: "Purchased 35 Unique Common Decorations!"
+			x: 4.0d
+			y: 5.0d
 		}
-	]
-	tasks: [{
-		id: "7D6293779241DCD4"
-		type: "item"
-	}]
-	title: "Purchased 35 Unique Common Decorations!"
-	x: 4.0d
-	y: 5.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"35B4E3F56EC6B92F"
 				"3C8C0752427A9F40"
 				"79D1F1F80566D863"
@@ -5696,28 +5624,26 @@
 				"20EA79AA3F72EEEA"
 				"2F04C36692762654"
 				"15A9B71BEB9F53A5"
-	]
-	icon: "moa_decor_art:martilloycincel"
-	id: "69BCA6F5E8CAA1CB"
-	min_required_dependencies: 55
-	rewards: [
-		{
-			count: 33
-			id: "48C573C1475FA7FA"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "moa_decor_art:martilloycincel"
+			id: "69BCA6F5E8CAA1CB"
+			min_required_dependencies: 55
+			rewards: [{
+				count: 33
+				id: "48C573C1475FA7FA"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4F87EAF383771577"
+				type: "item"
+			}]
+			title: "Purchased 55 Unique Common Decorations!"
+			x: 5.0d
+			y: 5.0d
 		}
-	]
-	tasks: [{
-		id: "4F87EAF383771577"
-		type: "item"
-	}]
-	title: "Purchased 55 Unique Common Decorations!"
-	x: 5.0d
-	y: 5.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"35B4E3F56EC6B92F"
 				"3C8C0752427A9F40"
 				"79D1F1F80566D863"
@@ -6052,28 +5978,26 @@
 				"20EA79AA3F72EEEA"
 				"2F04C36692762654"
 				"15A9B71BEB9F53A5"
-	]
-	icon: "moa_decor_art:martilloycincel"
-	id: "62F0EA481AB7A0D8"
-	min_required_dependencies: 80
-	rewards: [
-		{
-			count: 60
-			id: "4B6F1844833DFA57"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "moa_decor_art:martilloycincel"
+			id: "62F0EA481AB7A0D8"
+			min_required_dependencies: 80
+			rewards: [{
+				count: 60
+				id: "4B6F1844833DFA57"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3F006DEB04E294AD"
+				type: "item"
+			}]
+			title: "Purchased 80 Unique Common Decorations!"
+			x: 6.0d
+			y: 5.0d
 		}
-	]
-	tasks: [{
-		id: "3F006DEB04E294AD"
-		type: "item"
-	}]
-	title: "Purchased 80 Unique Common Decorations!"
-	x: 6.0d
-	y: 5.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"35B4E3F56EC6B92F"
 				"3C8C0752427A9F40"
 				"79D1F1F80566D863"
@@ -6408,28 +6332,26 @@
 				"20EA79AA3F72EEEA"
 				"2F04C36692762654"
 				"15A9B71BEB9F53A5"
-	]
-	icon: "moa_decor_art:martilloycincel"
-	id: "3D47830A21F80225"
-	min_required_dependencies: 110
-	rewards: [
-		{
-			count: 99
-			id: "65C85B1A904B0D79"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "moa_decor_art:martilloycincel"
+			id: "3D47830A21F80225"
+			min_required_dependencies: 110
+			rewards: [{
+				count: 99
+				id: "65C85B1A904B0D79"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "22CB646C1A1D3F07"
+				type: "item"
+			}]
+			title: "Purchased 110 Unique Common Decorations!"
+			x: 7.0d
+			y: 5.0d
 		}
-	]
-	tasks: [{
-		id: "22CB646C1A1D3F07"
-		type: "item"
-	}]
-	title: "Purchased 110 Unique Common Decorations!"
-	x: 7.0d
-	y: 5.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"35B4E3F56EC6B92F"
 				"3C8C0752427A9F40"
 				"79D1F1F80566D863"
@@ -6764,28 +6686,26 @@
 				"20EA79AA3F72EEEA"
 				"2F04C36692762654"
 				"15A9B71BEB9F53A5"
-	]
-	icon: "moa_decor_art:martilloycincel"
-	id: "6738E858A85870E3"
-	min_required_dependencies: 145
-	rewards: [
-		{
-			count: 152
-			id: "3F309AD65147F504"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "moa_decor_art:martilloycincel"
+			id: "6738E858A85870E3"
+			min_required_dependencies: -111
+			rewards: [{
+				count: 152
+				id: "3F309AD65147F504"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "374A7729116F3904"
+				type: "item"
+			}]
+			title: "Purchased 145 Unique Common Decorations!"
+			x: 8.0d
+			y: 5.0d
 		}
-	]
-	tasks: [{
-		id: "374A7729116F3904"
-		type: "item"
-	}]
-	title: "Purchased 145 Unique Common Decorations!"
-	x: 8.0d
-	y: 5.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"35B4E3F56EC6B92F"
 				"3C8C0752427A9F40"
 				"79D1F1F80566D863"
@@ -7120,28 +7040,26 @@
 				"20EA79AA3F72EEEA"
 				"2F04C36692762654"
 				"15A9B71BEB9F53A5"
-	]
-	icon: "moa_decor_art:martilloycincel"
-	id: "457EDF630FBC3180"
-	min_required_dependencies: 185
-	rewards: [
-		{
-			count: 222
-			id: "6577434D9B23AE36"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "moa_decor_art:martilloycincel"
+			id: "457EDF630FBC3180"
+			min_required_dependencies: -71
+			rewards: [{
+				count: 222
+				id: "6577434D9B23AE36"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4A5439E6D02E44CF"
+				type: "item"
+			}]
+			title: "Purchased 185 Unique Common Decorations!"
+			x: 9.0d
+			y: 5.0d
 		}
-	]
-	tasks: [{
-		id: "4A5439E6D02E44CF"
-		type: "item"
-	}]
-	title: "Purchased 185 Unique Common Decorations!"
-	x: 9.0d
-	y: 5.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"35B4E3F56EC6B92F"
 				"3C8C0752427A9F40"
 				"79D1F1F80566D863"
@@ -7476,28 +7394,26 @@
 				"20EA79AA3F72EEEA"
 				"2F04C36692762654"
 				"15A9B71BEB9F53A5"
-	]
-	icon: "moa_decor_art:martilloycincel"
-	id: "1E0E173C182754F4"
-	min_required_dependencies: 230
-	rewards: [
-		{
-			count: 310
-			id: "6647A7D940536642"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "moa_decor_art:martilloycincel"
+			id: "1E0E173C182754F4"
+			min_required_dependencies: -26
+			rewards: [{
+				count: 310
+				id: "6647A7D940536642"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "11E53D6F6D1102BB"
+				type: "item"
+			}]
+			title: "Purchased 230 Unique Common Decorations!"
+			x: 10.0d
+			y: 5.0d
 		}
-	]
-	tasks: [{
-		id: "11E53D6F6D1102BB"
-		type: "item"
-	}]
-	title: "Purchased 230 Unique Common Decorations!"
-	x: 10.0d
-	y: 5.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"35B4E3F56EC6B92F"
 				"3C8C0752427A9F40"
 				"79D1F1F80566D863"
@@ -7832,32 +7748,32 @@
 				"20EA79AA3F72EEEA"
 				"2F04C36692762654"
 				"15A9B71BEB9F53A5"
-	]
-	icon: "moa_decor_art:martilloycincel"
-	id: "7455C1A64ECBB037"
-	rewards: [
-		{
-			id: "6994CA16999AF011"
-			item: "kubejs:cert_decocom_diamond"
-			type: "item"
+			]
+			icon: "moa_decor_art:martilloycincel"
+			id: "7455C1A64ECBB037"
+			rewards: [
+				{
+					id: "6994CA16999AF011"
+					item: "kubejs:cert_decocom_diamond"
+					type: "item"
+				}
+				{
+					count: 500
+					id: "03CB2424AB196F79"
+					item: "kubejs:miles_ticket"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "70EFF624C348B2D8"
+				type: "item"
+			}]
+			title: "Common Decoration Catalog Completion!"
+			x: 11.0d
+			y: 5.0d
 		}
 		{
-			count: 500
-			id: "03CB2424AB196F79"
-			item: "kubejs:miles_ticket"
-			type: "item"
-		}
-	]
-	tasks: [{
-		id: "70EFF624C348B2D8"
-		type: "item"
-	}]
-	title: "Common Decoration Catalog Completion!"
-	x: 11.0d
-	y: 5.0d
-}
-{
-	dependencies: [
+			dependencies: [
 				"63E76DF0009F4FAD"
 				"1F1B9DE7AC2CDA3D"
 				"080E06114495234C"
@@ -7904,28 +7820,26 @@
 				"34989D790FF6B045"
 				"53EA6ED715BD867B"
 				"75242C486AEA9C2F"
-	]
-	icon: "moa_decor_art:premiooscar"
-	id: "638C54FD219DCFCA"
-	min_required_dependencies: 2
-	rewards: [
-		{
-			count: 7
-			id: "7AC576011A61CFBD"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "moa_decor_art:premiooscar"
+			id: "638C54FD219DCFCA"
+			min_required_dependencies: 2
+			rewards: [{
+				count: 7
+				id: "7AC576011A61CFBD"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "58C907454E0149C9"
+				type: "item"
+			}]
+			title: "Purchased 2 Unique Rare Decorations!"
+			x: 0.0d
+			y: 6.0d
 		}
-	]
-	tasks: [{
-		id: "58C907454E0149C9"
-		type: "item"
-	}]
-	title: "Purchased 2 Unique Rare Decorations!"
-	x: 0.0d
-	y: 6.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"63E76DF0009F4FAD"
 				"1F1B9DE7AC2CDA3D"
 				"080E06114495234C"
@@ -7972,28 +7886,26 @@
 				"34989D790FF6B045"
 				"53EA6ED715BD867B"
 				"75242C486AEA9C2F"
-	]
-	icon: "moa_decor_art:premiooscar"
-	id: "107BE3DD821B6F1B"
-	min_required_dependencies: 5
-	rewards: [
-		{
-			count: 23
-			id: "082D42DA34E8E09E"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "moa_decor_art:premiooscar"
+			id: "107BE3DD821B6F1B"
+			min_required_dependencies: 5
+			rewards: [{
+				count: 23
+				id: "082D42DA34E8E09E"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "4F205307B29C76C3"
+				type: "item"
+			}]
+			title: "Purchased 5 Unique Rare Decorations!"
+			x: 1.0d
+			y: 6.0d
 		}
-	]
-	tasks: [{
-		id: "4F205307B29C76C3"
-		type: "item"
-	}]
-	title: "Purchased 5 Unique Rare Decorations!"
-	x: 1.0d
-	y: 6.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"63E76DF0009F4FAD"
 				"1F1B9DE7AC2CDA3D"
 				"080E06114495234C"
@@ -8040,28 +7952,26 @@
 				"34989D790FF6B045"
 				"53EA6ED715BD867B"
 				"75242C486AEA9C2F"
-	]
-	icon: "moa_decor_art:premiooscar"
-	id: "1EA3D6E65543C072"
-	min_required_dependencies: 10
-	rewards: [
-		{
-			count: 77
-			id: "413496799905B768"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "moa_decor_art:premiooscar"
+			id: "1EA3D6E65543C072"
+			min_required_dependencies: 10
+			rewards: [{
+				count: 77
+				id: "413496799905B768"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "61E920A8C0239D25"
+				type: "item"
+			}]
+			title: "Purchased 10 Unique Rare Decorations!"
+			x: 2.0d
+			y: 6.0d
 		}
-	]
-	tasks: [{
-		id: "61E920A8C0239D25"
-		type: "item"
-	}]
-	title: "Purchased 10 Unique Rare Decorations!"
-	x: 2.0d
-	y: 6.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"63E76DF0009F4FAD"
 				"1F1B9DE7AC2CDA3D"
 				"080E06114495234C"
@@ -8108,28 +8018,26 @@
 				"34989D790FF6B045"
 				"53EA6ED715BD867B"
 				"75242C486AEA9C2F"
-	]
-	icon: "moa_decor_art:premiooscar"
-	id: "65001F3880E0FECC"
-	min_required_dependencies: 20
-	rewards: [
-		{
-			count: 305
-			id: "0D62D94AA7AA94CA"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "moa_decor_art:premiooscar"
+			id: "65001F3880E0FECC"
+			min_required_dependencies: 20
+			rewards: [{
+				count: 305
+				id: "0D62D94AA7AA94CA"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2120D703C0D5C1F3"
+				type: "item"
+			}]
+			title: "Purchased 20 Unique Rare Decorations!"
+			x: 3.0d
+			y: 6.0d
 		}
-	]
-	tasks: [{
-		id: "2120D703C0D5C1F3"
-		type: "item"
-	}]
-	title: "Purchased 20 Unique Rare Decorations!"
-	x: 3.0d
-	y: 6.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"63E76DF0009F4FAD"
 				"1F1B9DE7AC2CDA3D"
 				"080E06114495234C"
@@ -8176,32 +8084,32 @@
 				"34989D790FF6B045"
 				"53EA6ED715BD867B"
 				"75242C486AEA9C2F"
-	]
-	icon: "moa_decor_art:premiooscar"
-	id: "303C0778C8AE7CDD"
-	rewards: [
-		{
-			id: "6EE05C508E388016"
-			item: "kubejs:cert_decorare_diamond"
-			type: "item"
+			]
+			icon: "moa_decor_art:premiooscar"
+			id: "303C0778C8AE7CDD"
+			rewards: [
+				{
+					id: "6EE05C508E388016"
+					item: "kubejs:cert_decorare_diamond"
+					type: "item"
+				}
+				{
+					count: 1820
+					id: "173AB67F82F7D3F5"
+					item: "kubejs:miles_ticket"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "35176DDE26C8F1BF"
+				type: "item"
+			}]
+			title: "Rare Decoration Catalog Completion!"
+			x: 4.0d
+			y: 6.0d
 		}
 		{
-			count: 1820
-			id: "173AB67F82F7D3F5"
-			item: "kubejs:miles_ticket"
-			type: "item"
-		}
-	]
-	tasks: [{
-		id: "35176DDE26C8F1BF"
-		type: "item"
-	}]
-	title: "Rare Decoration Catalog Completion!"
-	x: 4.0d
-	y: 6.0d
-}
-{
-	dependencies: [
+			dependencies: [
 				"0D13A5CD7FB3E821"
 				"693D86928A437BC0"
 				"43C8996D95EC651A"
@@ -8441,28 +8349,25 @@
 				"4425265D219C9734"
 				"457A35318A4477EF"
 				"57DC7227C457EE4A"
-	]
-	icon: "simplehats:haticon"
-	id: "29EA440F9E89EE11"
-	min_required_dependencies: 2
-	rewards: [
-		{
-			count: 1
-			id: "32685BD940A9B41A"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "simplehats:haticon"
+			id: "29EA440F9E89EE11"
+			min_required_dependencies: 2
+			rewards: [{
+				id: "32685BD940A9B41A"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "69E8F358442B8A55"
+				type: "item"
+			}]
+			title: "Collected 2 Unique Hats!"
+			x: 0.0d
+			y: 7.0d
 		}
-	]
-	tasks: [{
-		id: "69E8F358442B8A55"
-		type: "item"
-	}]
-	title: "Collected 2 Unique Hats!"
-	x: 0.0d
-	y: 7.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"0D13A5CD7FB3E821"
 				"693D86928A437BC0"
 				"43C8996D95EC651A"
@@ -8702,28 +8607,25 @@
 				"4425265D219C9734"
 				"457A35318A4477EF"
 				"57DC7227C457EE4A"
-	]
-	icon: "simplehats:haticon"
-	id: "0CDA2666B9462345"
-	min_required_dependencies: 5
-	rewards: [
-		{
-			count: 1
-			id: "62F5E2D91E1F6988"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "simplehats:haticon"
+			id: "0CDA2666B9462345"
+			min_required_dependencies: 5
+			rewards: [{
+				id: "62F5E2D91E1F6988"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3F925E6EB4AC8B59"
+				type: "item"
+			}]
+			title: "Collected 5 Unique Hats!"
+			x: 1.0d
+			y: 7.0d
 		}
-	]
-	tasks: [{
-		id: "3F925E6EB4AC8B59"
-		type: "item"
-	}]
-	title: "Collected 5 Unique Hats!"
-	x: 1.0d
-	y: 7.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"0D13A5CD7FB3E821"
 				"693D86928A437BC0"
 				"43C8996D95EC651A"
@@ -8963,28 +8865,26 @@
 				"4425265D219C9734"
 				"457A35318A4477EF"
 				"57DC7227C457EE4A"
-	]
-	icon: "simplehats:haticon"
-	id: "62E939A25919D7A3"
-	min_required_dependencies: 10
-	rewards: [
-		{
-			count: 2
-			id: "27523C6D531D55A3"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "simplehats:haticon"
+			id: "62E939A25919D7A3"
+			min_required_dependencies: 10
+			rewards: [{
+				count: 2
+				id: "27523C6D531D55A3"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "6E3C2D9E98F6FB01"
+				type: "item"
+			}]
+			title: "Collected 10 Unique Hats!"
+			x: 2.0d
+			y: 7.0d
 		}
-	]
-	tasks: [{
-		id: "6E3C2D9E98F6FB01"
-		type: "item"
-	}]
-	title: "Collected 10 Unique Hats!"
-	x: 2.0d
-	y: 7.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"0D13A5CD7FB3E821"
 				"693D86928A437BC0"
 				"43C8996D95EC651A"
@@ -9224,28 +9124,26 @@
 				"4425265D219C9734"
 				"457A35318A4477EF"
 				"57DC7227C457EE4A"
-	]
-	icon: "simplehats:haticon"
-	id: "1900579BE18FD0E9"
-	min_required_dependencies: 20
-	rewards: [
-		{
-			count: 6
-			id: "3E20EFA1626F01AA"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "simplehats:haticon"
+			id: "1900579BE18FD0E9"
+			min_required_dependencies: 20
+			rewards: [{
+				count: 6
+				id: "3E20EFA1626F01AA"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "5E8786CE264AC2CA"
+				type: "item"
+			}]
+			title: "Collected 20 Unique Hats!"
+			x: 3.0d
+			y: 7.0d
 		}
-	]
-	tasks: [{
-		id: "5E8786CE264AC2CA"
-		type: "item"
-	}]
-	title: "Collected 20 Unique Hats!"
-	x: 3.0d
-	y: 7.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"0D13A5CD7FB3E821"
 				"693D86928A437BC0"
 				"43C8996D95EC651A"
@@ -9485,28 +9383,26 @@
 				"4425265D219C9734"
 				"457A35318A4477EF"
 				"57DC7227C457EE4A"
-	]
-	icon: "simplehats:haticon"
-	id: "4759C5F1BFE0D10F"
-	min_required_dependencies: 35
-	rewards: [
-		{
-			count: 14
-			id: "6270936D1126A21F"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "simplehats:haticon"
+			id: "4759C5F1BFE0D10F"
+			min_required_dependencies: 35
+			rewards: [{
+				count: 14
+				id: "6270936D1126A21F"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "46AEC37B005E6552"
+				type: "item"
+			}]
+			title: "Collected 35 Unique Hats!"
+			x: 4.0d
+			y: 7.0d
 		}
-	]
-	tasks: [{
-		id: "46AEC37B005E6552"
-		type: "item"
-	}]
-	title: "Collected 35 Unique Hats!"
-	x: 4.0d
-	y: 7.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"0D13A5CD7FB3E821"
 				"693D86928A437BC0"
 				"43C8996D95EC651A"
@@ -9746,28 +9642,26 @@
 				"4425265D219C9734"
 				"457A35318A4477EF"
 				"57DC7227C457EE4A"
-	]
-	icon: "simplehats:haticon"
-	id: "50860490F8160EA2"
-	min_required_dependencies: 55
-	rewards: [
-		{
-			count: 28
-			id: "1D0F82363A967669"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "simplehats:haticon"
+			id: "50860490F8160EA2"
+			min_required_dependencies: 55
+			rewards: [{
+				count: 28
+				id: "1D0F82363A967669"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "1376FD31605E0C7E"
+				type: "item"
+			}]
+			title: "Collected 55 Unique Hats!"
+			x: 5.0d
+			y: 7.0d
 		}
-	]
-	tasks: [{
-		id: "1376FD31605E0C7E"
-		type: "item"
-	}]
-	title: "Collected 55 Unique Hats!"
-	x: 5.0d
-	y: 7.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"0D13A5CD7FB3E821"
 				"693D86928A437BC0"
 				"43C8996D95EC651A"
@@ -10007,28 +9901,26 @@
 				"4425265D219C9734"
 				"457A35318A4477EF"
 				"57DC7227C457EE4A"
-	]
-	icon: "simplehats:haticon"
-	id: "13FE54CBB09A833F"
-	min_required_dependencies: 80
-	rewards: [
-		{
-			count: 51
-			id: "73F02A8BFDF65A5E"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "simplehats:haticon"
+			id: "13FE54CBB09A833F"
+			min_required_dependencies: 80
+			rewards: [{
+				count: 51
+				id: "73F02A8BFDF65A5E"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "159757E6D938688E"
+				type: "item"
+			}]
+			title: "Collected 80 Unique Hats!"
+			x: 6.0d
+			y: 7.0d
 		}
-	]
-	tasks: [{
-		id: "159757E6D938688E"
-		type: "item"
-	}]
-	title: "Collected 80 Unique Hats!"
-	x: 6.0d
-	y: 7.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"0D13A5CD7FB3E821"
 				"693D86928A437BC0"
 				"43C8996D95EC651A"
@@ -10268,28 +10160,26 @@
 				"4425265D219C9734"
 				"457A35318A4477EF"
 				"57DC7227C457EE4A"
-	]
-	icon: "simplehats:haticon"
-	id: "21E59A8D44ED59B0"
-	min_required_dependencies: 110
-	rewards: [
-		{
-			count: 83
-			id: "6F28195E414A3484"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "simplehats:haticon"
+			id: "21E59A8D44ED59B0"
+			min_required_dependencies: 110
+			rewards: [{
+				count: 83
+				id: "6F28195E414A3484"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "743BEFA210B5FEE0"
+				type: "item"
+			}]
+			title: "Collected 110 Unique Hats!"
+			x: 7.0d
+			y: 7.0d
 		}
-	]
-	tasks: [{
-		id: "743BEFA210B5FEE0"
-		type: "item"
-	}]
-	title: "Collected 110 Unique Hats!"
-	x: 7.0d
-	y: 7.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"0D13A5CD7FB3E821"
 				"693D86928A437BC0"
 				"43C8996D95EC651A"
@@ -10529,28 +10419,26 @@
 				"4425265D219C9734"
 				"457A35318A4477EF"
 				"57DC7227C457EE4A"
-	]
-	icon: "simplehats:haticon"
-	id: "1C7FAD0DF9AED2A9"
-	min_required_dependencies: 145
-	rewards: [
-		{
-			count: 128
-			id: "754398BAD2FB0F59"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "simplehats:haticon"
+			id: "1C7FAD0DF9AED2A9"
+			min_required_dependencies: -111
+			rewards: [{
+				count: 128
+				id: "754398BAD2FB0F59"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7C3E2B16ECDC0434"
+				type: "item"
+			}]
+			title: "Collected 145 Unique Hats!"
+			x: 8.0d
+			y: 7.0d
 		}
-	]
-	tasks: [{
-		id: "7C3E2B16ECDC0434"
-		type: "item"
-	}]
-	title: "Collected 145 Unique Hats!"
-	x: 8.0d
-	y: 7.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"0D13A5CD7FB3E821"
 				"693D86928A437BC0"
 				"43C8996D95EC651A"
@@ -10790,28 +10678,26 @@
 				"4425265D219C9734"
 				"457A35318A4477EF"
 				"57DC7227C457EE4A"
-	]
-	icon: "simplehats:haticon"
-	id: "2CEFEFDF319776AE"
-	min_required_dependencies: 185
-	rewards: [
-		{
-			count: 186
-			id: "689E0BE219CCD17A"
-			item: "kubejs:miles_ticket"
-			type: "item"
+			]
+			icon: "simplehats:haticon"
+			id: "2CEFEFDF319776AE"
+			min_required_dependencies: -71
+			rewards: [{
+				count: 186
+				id: "689E0BE219CCD17A"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "0CAD879550492640"
+				type: "item"
+			}]
+			title: "Collected 185 Unique Hats!"
+			x: 9.0d
+			y: 7.0d
 		}
-	]
-	tasks: [{
-		id: "0CAD879550492640"
-		type: "item"
-	}]
-	title: "Collected 185 Unique Hats!"
-	x: 9.0d
-	y: 7.0d
-}
-{
-	dependencies: [
+		{
+			dependencies: [
 				"0D13A5CD7FB3E821"
 				"693D86928A437BC0"
 				"43C8996D95EC651A"
@@ -11051,29 +10937,30 @@
 				"4425265D219C9734"
 				"457A35318A4477EF"
 				"57DC7227C457EE4A"
-	]
-	icon: "simplehats:haticon"
-	id: "6848734CD7248820"
-	rewards: [
-		{
-			id: "68D214237F974824"
-			item: "kubejs:cert_hat_diamond"
-			type: "item"
+			]
+			icon: "simplehats:haticon"
+			id: "6848734CD7248820"
+			rewards: [
+				{
+					id: "68D214237F974824"
+					item: "kubejs:cert_hat_diamond"
+					type: "item"
+				}
+				{
+					count: 324
+					id: "215B2334B55B0CAD"
+					item: "kubejs:miles_ticket"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2637E4DB3EE36641"
+				type: "item"
+			}]
+			title: "Hat Catalog Completion!"
+			x: 10.0d
+			y: 7.0d
 		}
-		{
-			count: 324
-			id: "215B2334B55B0CAD"
-			item: "kubejs:miles_ticket"
-			type: "item"
-		}
 	]
-	tasks: [{
-		id: "2637E4DB3EE36641"
-		type: "item"
-	}]
-	title: "Hat Catalog Completion!"
-	x: 10.0d
-	y: 7.0d
+	title: "Collection Achievements"
 }
-	]
-	title: "Collection Achievements"}

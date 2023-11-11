@@ -5,7 +5,7 @@
 	group: ""
 	icon: "minecraft:peony"
 	id: "4362A64FA38E4BCF"
-	order_index: 0
+	order_index: 1
 	quest_links: [ ]
 	quests: [
 		{
@@ -377,9 +377,8 @@
 			id: "0D0FDA6FBDCEFF3B"
 			invisible: true
 			rewards: [{
-				count: 3
-				id: "3D8BEFCD42D7349A"
-				item: "minecraft:iron_ingot"
+				id: "276B88F4F93A6339"
+				item: "artifacts:running_shoes"
 				type: "item"
 			}]
 			tasks: [{
@@ -779,6 +778,15 @@
 					id: "0A1350400399CDE5"
 					silent: true
 					type: "command"
+				}
+				{
+					id: "57A7B5F5CCEE25C4"
+					item: {
+						Count: 1b
+						id: "utilitix:mob_yoinker"
+						tag: { }
+					}
+					type: "item"
 				}
 			]
 			tasks: [{
@@ -1276,11 +1284,6 @@
 			id: "0EABDA42EA87C46C"
 			rewards: [
 				{
-					id: "1909F35E49E6CC38"
-					item: "minecraft:bundle"
-					type: "item"
-				}
-				{
 					auto: "invisible"
 					command: "/scoreboard objectives add flora_collected dummy {\"text\": \"Flora Collected\"}"
 					elevate_perms: true
@@ -1295,6 +1298,11 @@
 					id: "7804712B3F04829B"
 					silent: true
 					type: "command"
+				}
+				{
+					id: "5EFF7EE1E4FA051F"
+					item: "paraglider:paraglider"
+					type: "item"
 				}
 			]
 			tasks: [{
