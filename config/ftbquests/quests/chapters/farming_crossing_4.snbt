@@ -77,6 +77,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard objectives add meals_cooked dummy {\"text\": \"Meals Cooked\"}"
+					elevate_perms: true
 					id: "61E3655236FD69AF"
 					silent: true
 					type: "command"
@@ -84,6 +85,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players set @p meals_cooked 0"
+					elevate_perms: true
 					id: "76209B45DC479F94"
 					silent: true
 					type: "command"
@@ -447,6 +449,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard objectives add fishes_caught dummy {\"text\": \"Fishes Caught\"}"
+					elevate_perms: true
 					id: "45C7C07A5B8073F3"
 					silent: true
 					type: "command"
@@ -454,6 +457,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players set @p fishes_caught 0"
+					elevate_perms: true
 					id: "34E59E2844D76680"
 					silent: true
 					type: "command"
@@ -505,6 +509,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard objectives add minerals_collected dummy {\"text\": \"Minerals Collected\"}"
+					elevate_perms: true
 					id: "494299BE3E6F883D"
 					silent: true
 					type: "command"
@@ -512,6 +517,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players set @p minerals_collected 0"
+					elevate_perms: true
 					id: "3D7AEC795A697798"
 					silent: true
 					type: "command"
@@ -561,6 +567,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard objectives add common_decoration dummy {\"text\": \"Common Decoration Purchased\"}"
+					elevate_perms: true
 					id: "4AABC31590798D31"
 					silent: true
 					type: "command"
@@ -568,6 +575,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players set @p common_decoration 0"
+					elevate_perms: true
 					id: "26651F58DD1EB771"
 					silent: true
 					type: "command"
@@ -575,6 +583,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard objectives add rare_decoration dummy {\"text\": \"Rare Decoration Purchased\"}"
+					elevate_perms: true
 					id: "26645326E412E720"
 					silent: true
 					type: "command"
@@ -582,6 +591,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players set @p rare_decoration 0"
+					elevate_perms: true
 					id: "7E0E91D6390CCA52"
 					silent: true
 					type: "command"
@@ -589,6 +599,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard objectives add hat_collected dummy {\"text\": \"Hat Collected\"}"
+					elevate_perms: true
 					id: "375D719D60B86FB6"
 					silent: true
 					type: "command"
@@ -596,6 +607,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players set @p hat_collected 0"
+					elevate_perms: true
 					id: "2A43EE15214CB6F6"
 					silent: true
 					type: "command"
@@ -755,6 +767,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard objectives add animals_observed dummy {\"text\": \"Animals Observed\"}"
+					elevate_perms: true
 					id: "4223BF5BD1A4E7EF"
 					silent: true
 					type: "command"
@@ -762,6 +775,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players set @p animals_observed 0"
+					elevate_perms: true
 					id: "0A1350400399CDE5"
 					silent: true
 					type: "command"
@@ -1269,6 +1283,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard objectives add flora_collected dummy {\"text\": \"Flora Collected\"}"
+					elevate_perms: true
 					id: "195C2431BB9CB5A9"
 					silent: true
 					type: "command"
@@ -1276,6 +1291,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players set @p flora_collected 0"
+					elevate_perms: true
 					id: "7804712B3F04829B"
 					silent: true
 					type: "command"
@@ -1312,6 +1328,7 @@
 			id: "11CD059C9CDB657E"
 			rewards: [{
 				command: "/scoreboard players list @p"
+				elevate_perms: true
 				id: "20088F80BE366761"
 				type: "command"
 			}]

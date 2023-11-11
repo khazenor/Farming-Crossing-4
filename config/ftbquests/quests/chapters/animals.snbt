@@ -18,6 +18,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "715ACA78D9B2A156"
 					silent: true
 					type: "command"
@@ -25,6 +26,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "63FEB2C62F8E7266"
 					silent: true
 					type: "command"
@@ -52,6 +54,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "1133CF8A802F18EF"
 					silent: true
 					type: "command"
@@ -59,6 +62,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "5487483D50438614"
 					silent: true
 					type: "command"
@@ -86,6 +90,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "7302A21BB75590E1"
 					silent: true
 					type: "command"
@@ -93,6 +98,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "31F865CC5354EB12"
 					silent: true
 					type: "command"
@@ -120,6 +126,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "74003AB302D69A94"
 					silent: true
 					type: "command"
@@ -127,6 +134,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "7EA4641FABFF9441"
 					silent: true
 					type: "command"
@@ -154,6 +162,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "55F3D60009CF259F"
 					silent: true
 					type: "command"
@@ -161,6 +170,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "68610672A7E87EC5"
 					silent: true
 					type: "command"
@@ -188,6 +198,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "3553922236DFAA7E"
 					silent: true
 					type: "command"
@@ -195,6 +206,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "1D5AFF3917E2ABCD"
 					silent: true
 					type: "command"
@@ -222,6 +234,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "33FE5CBA96ADB08B"
 					silent: true
 					type: "command"
@@ -229,6 +242,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "2E5CB9710EA1FFFB"
 					silent: true
 					type: "command"
@@ -256,6 +270,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "56377948CDD679CB"
 					silent: true
 					type: "command"
@@ -263,6 +278,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "76EDB0DC234531AD"
 					silent: true
 					type: "command"
@@ -290,6 +306,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "0E9B938EF7074B53"
 					silent: true
 					type: "command"
@@ -297,6 +314,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "5C6FE79B683B48AA"
 					silent: true
 					type: "command"
@@ -324,6 +342,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "561367FB934B2D00"
 					silent: true
 					type: "command"
@@ -331,6 +350,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "7F50C3AA2413B521"
 					silent: true
 					type: "command"
@@ -358,6 +378,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "7FEF57AD985151CC"
 					silent: true
 					type: "command"
@@ -365,6 +386,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "2E3A2FDDB8D7594A"
 					silent: true
 					type: "command"
@@ -392,6 +414,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "7DDE1CD0E4965728"
 					silent: true
 					type: "command"
@@ -399,6 +422,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "156FA97E41659744"
 					silent: true
 					type: "command"
@@ -432,6 +456,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "4A396DE6AC674DD7"
 					silent: true
 					type: "command"
@@ -439,6 +464,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "1249F5603949BD20"
 					silent: true
 					type: "command"
@@ -466,6 +492,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "6A91BB2CCC70E453"
 					silent: true
 					type: "command"
@@ -473,6 +500,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "5FB8347E6AA3137B"
 					silent: true
 					type: "command"
@@ -500,6 +528,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "50FDDC73A70A4552"
 					silent: true
 					type: "command"
@@ -507,6 +536,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "3A043B598F4A05F5"
 					silent: true
 					type: "command"
@@ -534,6 +564,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "11D885F71E90E704"
 					silent: true
 					type: "command"
@@ -541,6 +572,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "63DA8C40C7C348E9"
 					silent: true
 					type: "command"
@@ -568,6 +600,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "06524401188FAE83"
 					silent: true
 					type: "command"
@@ -575,6 +608,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "454560E734B480EB"
 					silent: true
 					type: "command"
@@ -602,6 +636,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "62FC4A57EF1A6617"
 					silent: true
 					type: "command"
@@ -609,6 +644,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "6E74AF7418582831"
 					silent: true
 					type: "command"
@@ -636,6 +672,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "5E83922AC766277B"
 					silent: true
 					type: "command"
@@ -643,6 +680,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "7831B5005D2F9CAD"
 					silent: true
 					type: "command"
@@ -670,6 +708,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "66880D4503277248"
 					silent: true
 					type: "command"
@@ -677,6 +716,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "12D0D3805AA7A95A"
 					silent: true
 					type: "command"
@@ -704,6 +744,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "4DA07C0A9CE930D5"
 					silent: true
 					type: "command"
@@ -711,6 +752,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "1FCD053C758BB33C"
 					silent: true
 					type: "command"
@@ -738,6 +780,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "536D47012F8AFA55"
 					silent: true
 					type: "command"
@@ -745,6 +788,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "1F7F9AF464AD3A1C"
 					silent: true
 					type: "command"
@@ -772,6 +816,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "124BD7575143CC0A"
 					silent: true
 					type: "command"
@@ -779,6 +824,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "3289CF2D92E6D6FF"
 					silent: true
 					type: "command"
@@ -806,6 +852,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "79A1FA939EFC5333"
 					silent: true
 					type: "command"
@@ -813,6 +860,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "349B860DA3D0326D"
 					silent: true
 					type: "command"
@@ -840,6 +888,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "00B9A380EAB88CAF"
 					silent: true
 					type: "command"
@@ -847,6 +896,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "3386A363738F345D"
 					silent: true
 					type: "command"
@@ -874,6 +924,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "0504B0A1EC6979D3"
 					silent: true
 					type: "command"
@@ -881,6 +932,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "738E7C352F885FFD"
 					silent: true
 					type: "command"
@@ -908,6 +960,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "7B6D10FD7D220B4B"
 					silent: true
 					type: "command"
@@ -915,6 +968,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "4176F67EBFBDA12F"
 					silent: true
 					type: "command"
@@ -942,6 +996,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "3006BD7F0F770E3C"
 					silent: true
 					type: "command"
@@ -949,6 +1004,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "376F057E0CB881BA"
 					silent: true
 					type: "command"
@@ -976,6 +1032,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "1F7290EB8B9D23E2"
 					silent: true
 					type: "command"
@@ -983,6 +1040,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "5C66431F56638452"
 					silent: true
 					type: "command"
@@ -1010,6 +1068,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "12BADA6F5697B07D"
 					silent: true
 					type: "command"
@@ -1017,6 +1076,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "70C4CBD697734CB4"
 					silent: true
 					type: "command"
@@ -1044,6 +1104,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "19E6DC729DB8AE18"
 					silent: true
 					type: "command"
@@ -1051,6 +1112,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "0455DCD5892720E3"
 					silent: true
 					type: "command"
@@ -1078,6 +1140,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "40BCC99AB9034C46"
 					silent: true
 					type: "command"
@@ -1085,6 +1148,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "2A08C1DDA2953769"
 					silent: true
 					type: "command"
@@ -1112,6 +1176,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "55C34D44E4D3838D"
 					silent: true
 					type: "command"
@@ -1119,6 +1184,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "00329D0DE506CD1D"
 					silent: true
 					type: "command"
@@ -1146,6 +1212,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "1B20A4126B9EBCC7"
 					silent: true
 					type: "command"
@@ -1153,6 +1220,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "008A397CA7BD66C2"
 					silent: true
 					type: "command"
@@ -1180,6 +1248,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "5B6FBC23678D5DFF"
 					silent: true
 					type: "command"
@@ -1187,6 +1256,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "412362B5F77D0473"
 					silent: true
 					type: "command"
@@ -1214,6 +1284,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "7268345CD6B7EC94"
 					silent: true
 					type: "command"
@@ -1221,6 +1292,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "034FD70F704C3C1C"
 					silent: true
 					type: "command"
@@ -1248,6 +1320,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "7036D655BD203EC3"
 					silent: true
 					type: "command"
@@ -1255,6 +1328,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "11D6281FA1B04F98"
 					silent: true
 					type: "command"
@@ -1282,6 +1356,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "554945AAAC6B1D3F"
 					silent: true
 					type: "command"
@@ -1289,6 +1364,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "3A5289B6F70232CB"
 					silent: true
 					type: "command"
@@ -1316,6 +1392,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "3F205CC7CF50B9B1"
 					silent: true
 					type: "command"
@@ -1323,6 +1400,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "39EAE03910CC1568"
 					silent: true
 					type: "command"
@@ -1350,6 +1428,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "636057432262CD92"
 					silent: true
 					type: "command"
@@ -1357,6 +1436,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "7A979DE8CE1A7AE1"
 					silent: true
 					type: "command"
@@ -1384,6 +1464,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "04E239A9EBC8FBB2"
 					silent: true
 					type: "command"
@@ -1391,6 +1472,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "3C357153B3C82649"
 					silent: true
 					type: "command"
@@ -1418,6 +1500,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "1C9170E021920934"
 					silent: true
 					type: "command"
@@ -1425,6 +1508,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "503BA9096CA63356"
 					silent: true
 					type: "command"
@@ -1452,6 +1536,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "006DA59D311B0418"
 					silent: true
 					type: "command"
@@ -1459,6 +1544,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "21FDB3BDA45C92B3"
 					silent: true
 					type: "command"
@@ -1486,6 +1572,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "3A63D94E685FAA4E"
 					silent: true
 					type: "command"
@@ -1493,6 +1580,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "4F2B74341C58CFC8"
 					silent: true
 					type: "command"
@@ -1520,6 +1608,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "63CB02746DEAB5B8"
 					silent: true
 					type: "command"
@@ -1527,6 +1616,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "7EC7995792293047"
 					silent: true
 					type: "command"
@@ -1554,6 +1644,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "616EC07767690990"
 					silent: true
 					type: "command"
@@ -1561,6 +1652,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "3D42BA359EF04F52"
 					silent: true
 					type: "command"
@@ -1588,6 +1680,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "0D4658019C0569D8"
 					silent: true
 					type: "command"
@@ -1595,6 +1688,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "698096BFD8C495AA"
 					silent: true
 					type: "command"
@@ -1622,6 +1716,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "1BF947047E5D41B2"
 					silent: true
 					type: "command"
@@ -1629,6 +1724,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "79084B8258AA1DBD"
 					silent: true
 					type: "command"
@@ -1657,6 +1753,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "4C772EF975636BCA"
 					silent: true
 					type: "command"
@@ -1664,6 +1761,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "72737E584CA07DF0"
 					silent: true
 					type: "command"
@@ -1692,6 +1790,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "017C24F410025FEB"
 					silent: true
 					type: "command"
@@ -1699,6 +1798,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "68A3DDD7C71C5106"
 					silent: true
 					type: "command"
@@ -1726,6 +1826,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "6A5DF03B073EB2F2"
 					silent: true
 					type: "command"
@@ -1733,6 +1834,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "4F147050BA826BDA"
 					silent: true
 					type: "command"
@@ -1760,6 +1862,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "0ABCD6A9E64503ED"
 					silent: true
 					type: "command"
@@ -1767,6 +1870,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "37FFECB35C940E3A"
 					silent: true
 					type: "command"
@@ -1794,6 +1898,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "42FD3BE507F00CE9"
 					silent: true
 					type: "command"
@@ -1801,6 +1906,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "678A182090F4C269"
 					silent: true
 					type: "command"
@@ -1828,6 +1934,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "1DC99CE3D594A182"
 					silent: true
 					type: "command"
@@ -1835,6 +1942,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "03CBEFC0335CA467"
 					silent: true
 					type: "command"
@@ -1862,6 +1970,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "2FE5731D0323BB1A"
 					silent: true
 					type: "command"
@@ -1869,6 +1978,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "05981BD189115974"
 					silent: true
 					type: "command"
@@ -1896,6 +2006,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "75C0447E666972ED"
 					silent: true
 					type: "command"
@@ -1903,6 +2014,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "2FAB000194787BD7"
 					silent: true
 					type: "command"
@@ -1930,6 +2042,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "319F4EB1F1A0A191"
 					silent: true
 					type: "command"
@@ -1937,6 +2050,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "295AFD00997E7EDB"
 					silent: true
 					type: "command"
@@ -1968,6 +2082,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "5DB7CCB4F0EBD42B"
 					silent: true
 					type: "command"
@@ -1975,6 +2090,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "41ED48AEDC46B0E6"
 					silent: true
 					type: "command"
@@ -2002,6 +2118,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "609048F1D8EBA45A"
 					silent: true
 					type: "command"
@@ -2009,6 +2126,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "2D28775F6FDE32FD"
 					silent: true
 					type: "command"
@@ -2036,6 +2154,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "47B7E7DCC454754F"
 					silent: true
 					type: "command"
@@ -2043,6 +2162,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "3342F6D71D96AF82"
 					silent: true
 					type: "command"
@@ -2070,6 +2190,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "1D22AD46B15F16E3"
 					silent: true
 					type: "command"
@@ -2077,6 +2198,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "68AD2F336D387540"
 					silent: true
 					type: "command"
@@ -2104,6 +2226,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "7696AEC3DD510A12"
 					silent: true
 					type: "command"
@@ -2111,6 +2234,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "1400026ACD5F6658"
 					silent: true
 					type: "command"
@@ -2138,6 +2262,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "5AC96711B3581163"
 					silent: true
 					type: "command"
@@ -2145,6 +2270,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "5FA1AFD6C3B2A08C"
 					silent: true
 					type: "command"
@@ -2172,6 +2298,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "6C92C96C44ACF754"
 					silent: true
 					type: "command"
@@ -2179,6 +2306,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "5FF731210DFFE61B"
 					silent: true
 					type: "command"
@@ -2206,6 +2334,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "37B985FB33FCEBC4"
 					silent: true
 					type: "command"
@@ -2213,6 +2342,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "79B0BA370C25D7D0"
 					silent: true
 					type: "command"
@@ -2240,6 +2370,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "38255E7305BF2C6B"
 					silent: true
 					type: "command"
@@ -2247,6 +2378,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "0D83E8DBB0B800D9"
 					silent: true
 					type: "command"
@@ -2274,6 +2406,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "5E0654844BC76E8D"
 					silent: true
 					type: "command"
@@ -2281,6 +2414,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "65971CAAD5997D84"
 					silent: true
 					type: "command"
@@ -2308,6 +2442,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "74D765101121777C"
 					silent: true
 					type: "command"
@@ -2315,6 +2450,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "77DC4B071F97A7E8"
 					silent: true
 					type: "command"
@@ -2342,6 +2478,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "5D69709FD0ED22A4"
 					silent: true
 					type: "command"
@@ -2349,6 +2486,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "315382C69F4ED906"
 					silent: true
 					type: "command"
@@ -2376,6 +2514,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "631A276A908F61AC"
 					silent: true
 					type: "command"
@@ -2383,6 +2522,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "4637334EB1EE3A48"
 					silent: true
 					type: "command"
@@ -2410,6 +2550,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "3659B9C86A36862B"
 					silent: true
 					type: "command"
@@ -2417,6 +2558,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "7C750EC888217E9B"
 					silent: true
 					type: "command"
@@ -2444,6 +2586,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "2366F9EDCE71168A"
 					silent: true
 					type: "command"
@@ -2451,6 +2594,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "2777C37BAC6952B5"
 					silent: true
 					type: "command"
@@ -2478,6 +2622,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "22F259A9BE348752"
 					silent: true
 					type: "command"
@@ -2485,6 +2630,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "016A16E1E1013B99"
 					silent: true
 					type: "command"
@@ -2512,6 +2658,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "165272A1C9C08231"
 					silent: true
 					type: "command"
@@ -2519,6 +2666,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "6318F9E0BBE67D8D"
 					silent: true
 					type: "command"
@@ -2546,6 +2694,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "29D39DBB3937B7D2"
 					silent: true
 					type: "command"
@@ -2553,6 +2702,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "742F4A1A07CE9E21"
 					silent: true
 					type: "command"
@@ -2580,6 +2730,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "32B4DA6B06D8A77E"
 					silent: true
 					type: "command"
@@ -2587,6 +2738,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "6CC00A557FFA504B"
 					silent: true
 					type: "command"
@@ -2614,6 +2766,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "2E13CB3188A9841F"
 					silent: true
 					type: "command"
@@ -2621,6 +2774,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "4F53823BA9AB1D7D"
 					silent: true
 					type: "command"
@@ -2648,6 +2802,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "7F3C36483FC5AEB5"
 					silent: true
 					type: "command"
@@ -2655,6 +2810,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "1FD88E7A6FD2A1E1"
 					silent: true
 					type: "command"
@@ -3146,6 +3302,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "04B57DFD20110CC7"
 					silent: true
 					type: "command"
@@ -3153,6 +3310,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "455EBFDB4D40C1C7"
 					silent: true
 					type: "command"
@@ -3179,6 +3337,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "1671BC2C49E3BF98"
 					silent: true
 					type: "command"
@@ -3186,6 +3345,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "37A7D4419AE1808F"
 					silent: true
 					type: "command"
@@ -3308,6 +3468,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "6828B2FED0D8F75F"
 					silent: true
 					type: "command"
@@ -3315,6 +3476,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "4B8707EB32F460FC"
 					silent: true
 					type: "command"
@@ -3341,6 +3503,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "42ABC31D76F4A806"
 					silent: true
 					type: "command"
@@ -3348,6 +3511,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "1A6CBA370E67DF82"
 					silent: true
 					type: "command"
@@ -3374,6 +3538,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "1E3D92079D27D6EE"
 					silent: true
 					type: "command"
@@ -3381,6 +3546,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "1C1E559590DF4DB2"
 					silent: true
 					type: "command"
@@ -3407,6 +3573,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "4154F7E9DD5E39A6"
 					silent: true
 					type: "command"
@@ -3414,6 +3581,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "6A28572C24B9432F"
 					silent: true
 					type: "command"
@@ -3440,6 +3608,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "261F6B8865BF13DD"
 					silent: true
 					type: "command"
@@ -3447,6 +3616,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "2ABF1F1300298A7F"
 					silent: true
 					type: "command"
@@ -3473,6 +3643,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "06041F5480D9FD00"
 					silent: true
 					type: "command"
@@ -3480,6 +3651,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "1CE1B7A5A39C1495"
 					silent: true
 					type: "command"
@@ -3506,6 +3678,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "4F3656088D613CBF"
 					silent: true
 					type: "command"
@@ -3513,6 +3686,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "4E21F055E8FC5485"
 					silent: true
 					type: "command"
@@ -3539,6 +3713,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "5EA1D5B2BAC0FA7B"
 					silent: true
 					type: "command"
@@ -3546,6 +3721,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "07CC4B971AF8C1BC"
 					silent: true
 					type: "command"
@@ -3572,6 +3748,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "4259F4A8831FAB38"
 					silent: true
 					type: "command"
@@ -3579,6 +3756,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "2CEC1639602E02C3"
 					silent: true
 					type: "command"
@@ -3605,6 +3783,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "02FBCA262153B11C"
 					silent: true
 					type: "command"
@@ -3612,6 +3791,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "193204050368770E"
 					silent: true
 					type: "command"
@@ -3638,6 +3818,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "757706B98DB4CA40"
 					silent: true
 					type: "command"
@@ -3645,6 +3826,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "29C43C4DD9772307"
 					silent: true
 					type: "command"
@@ -3671,6 +3853,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "70801DC86AFE46E5"
 					silent: true
 					type: "command"
@@ -3678,6 +3861,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "1E5023F0A826A29F"
 					silent: true
 					type: "command"
@@ -3704,6 +3888,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "5CE69E46D8DDA0F1"
 					silent: true
 					type: "command"
@@ -3711,6 +3896,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "7FC3F99A86BFCDC2"
 					silent: true
 					type: "command"
@@ -3737,6 +3923,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "6F67D56C7126E085"
 					silent: true
 					type: "command"
@@ -3744,6 +3931,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "02402C47CCE95C64"
 					silent: true
 					type: "command"
@@ -3770,6 +3958,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "642D0A03FB006046"
 					silent: true
 					type: "command"
@@ -3777,6 +3966,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "2719E88BA9620C47"
 					silent: true
 					type: "command"
@@ -3803,6 +3993,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "1A77927AE3AB1F5A"
 					silent: true
 					type: "command"
@@ -3810,6 +4001,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "5CD5C7E56D53F882"
 					silent: true
 					type: "command"
@@ -3836,6 +4028,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "29A4A6B6D669F161"
 					silent: true
 					type: "command"
@@ -3843,6 +4036,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "69C3A14BC006204B"
 					silent: true
 					type: "command"
@@ -3869,6 +4063,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "604A72E43762AD7C"
 					silent: true
 					type: "command"
@@ -3876,6 +4071,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "46C7E020F8E765CE"
 					silent: true
 					type: "command"
@@ -3902,6 +4098,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "5D2A79D7264A76C1"
 					silent: true
 					type: "command"
@@ -3909,6 +4106,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "3C0A66555FF51BBD"
 					silent: true
 					type: "command"
@@ -3935,6 +4133,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "70F16F0674C3773A"
 					silent: true
 					type: "command"
@@ -3942,6 +4141,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "592C6462468FD24E"
 					silent: true
 					type: "command"
@@ -3968,6 +4168,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "4AAD2B1D4694D42C"
 					silent: true
 					type: "command"
@@ -3975,6 +4176,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "287F34439E70AD14"
 					silent: true
 					type: "command"
@@ -4001,6 +4203,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "0978F09C47C0DAC3"
 					silent: true
 					type: "command"
@@ -4008,6 +4211,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "38EC2202F081F043"
 					silent: true
 					type: "command"
@@ -4034,6 +4238,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "60133669EBF54E1D"
 					silent: true
 					type: "command"
@@ -4041,6 +4246,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "3DF299961FC6CA0C"
 					silent: true
 					type: "command"
@@ -4067,6 +4273,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "352C8923BCDF97E1"
 					silent: true
 					type: "command"
@@ -4074,6 +4281,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "0953C46BACA134D5"
 					silent: true
 					type: "command"
@@ -4100,6 +4308,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "2075F78AA730365F"
 					silent: true
 					type: "command"
@@ -4107,6 +4316,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "5AB39244A992BA9A"
 					silent: true
 					type: "command"
@@ -4133,6 +4343,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "3603A37F0928AED2"
 					silent: true
 					type: "command"
@@ -4140,6 +4351,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "35B177226355847A"
 					silent: true
 					type: "command"
@@ -4166,6 +4378,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "09455952AF15D89D"
 					silent: true
 					type: "command"
@@ -4173,6 +4386,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "44A42366D9995DC6"
 					silent: true
 					type: "command"
@@ -4199,6 +4413,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "70F17083D1B76266"
 					silent: true
 					type: "command"
@@ -4206,6 +4421,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "7BA674E84C369A82"
 					silent: true
 					type: "command"
@@ -4232,6 +4448,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "7887D10C30487DAD"
 					silent: true
 					type: "command"
@@ -4239,6 +4456,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "679A89F5A54D2D3E"
 					silent: true
 					type: "command"
@@ -4265,6 +4483,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "5F6ED569AA440B20"
 					silent: true
 					type: "command"
@@ -4272,6 +4491,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "5F64176FB41E46EA"
 					silent: true
 					type: "command"
@@ -4298,6 +4518,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "495E479A39CBAFE1"
 					silent: true
 					type: "command"
@@ -4305,6 +4526,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "5EC846D4A96501B6"
 					silent: true
 					type: "command"
@@ -4331,6 +4553,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "437B8D997B495EDB"
 					silent: true
 					type: "command"
@@ -4338,6 +4561,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "2268ED0A6DFDA3FD"
 					silent: true
 					type: "command"
@@ -4364,6 +4588,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "43C7C01560C48A00"
 					silent: true
 					type: "command"
@@ -4371,6 +4596,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "6BFFF5D2CBF45A39"
 					silent: true
 					type: "command"
@@ -4397,6 +4623,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "263CDA22A5B9F439"
 					silent: true
 					type: "command"
@@ -4404,6 +4631,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "7DEA1DA092D667CA"
 					silent: true
 					type: "command"
@@ -4430,6 +4658,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "318A0A9E5AB9D425"
 					silent: true
 					type: "command"
@@ -4437,6 +4666,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "61D3F4D0F5487ADC"
 					silent: true
 					type: "command"
@@ -4463,6 +4693,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
 					id: "59D3EF01B0A568FF"
 					silent: true
 					type: "command"
@@ -4470,6 +4701,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
 					id: "32D605E8848E8785"
 					silent: true
 					type: "command"

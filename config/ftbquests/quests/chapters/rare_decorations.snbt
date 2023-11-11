@@ -17,6 +17,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "5BCEDA87E104055F"
 					silent: true
 					type: "command"
@@ -24,6 +25,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "2554CF8C621CE57C"
 					silent: true
 					type: "command"
@@ -46,6 +48,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "06D922DA4ADCFF58"
 					silent: true
 					type: "command"
@@ -53,6 +56,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "4EAF9825284843F4"
 					silent: true
 					type: "command"
@@ -75,6 +79,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "6BFACB540CB05492"
 					silent: true
 					type: "command"
@@ -82,6 +87,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "6583B8BFDEF615B5"
 					silent: true
 					type: "command"
@@ -104,6 +110,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "7F914228F486EFBF"
 					silent: true
 					type: "command"
@@ -111,6 +118,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "322495E241C28181"
 					silent: true
 					type: "command"
@@ -133,6 +141,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "50573EB20115CC0D"
 					silent: true
 					type: "command"
@@ -140,6 +149,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "377AB54AC16C84FC"
 					silent: true
 					type: "command"
@@ -162,6 +172,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "2D8A82B7E36B6222"
 					silent: true
 					type: "command"
@@ -169,6 +180,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "028519FC0EB9B4DB"
 					silent: true
 					type: "command"
@@ -191,6 +203,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "2E370AEF40EF8EF9"
 					silent: true
 					type: "command"
@@ -198,6 +211,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "43419C1B1CCDDE46"
 					silent: true
 					type: "command"
@@ -220,6 +234,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "3316A3E51CCF0FB0"
 					silent: true
 					type: "command"
@@ -227,6 +242,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "65601F55520F1E1C"
 					silent: true
 					type: "command"
@@ -249,6 +265,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "76BE48452F67DFEB"
 					silent: true
 					type: "command"
@@ -256,6 +273,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "7A4173328556EE20"
 					silent: true
 					type: "command"
@@ -278,6 +296,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "1595C71E42336B71"
 					silent: true
 					type: "command"
@@ -285,6 +304,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "55BBBD5948A8836B"
 					silent: true
 					type: "command"
@@ -307,6 +327,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "67AAC6AA22B64031"
 					silent: true
 					type: "command"
@@ -314,6 +335,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "6FC1B46D420191AE"
 					silent: true
 					type: "command"
@@ -336,6 +358,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "31CF2653A06FA2E8"
 					silent: true
 					type: "command"
@@ -343,6 +366,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "7B9679F9900184B3"
 					silent: true
 					type: "command"
@@ -365,6 +389,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "4DD98BB3A1371CB4"
 					silent: true
 					type: "command"
@@ -372,6 +397,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "3A030334961AC7EB"
 					silent: true
 					type: "command"
@@ -394,6 +420,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "145CB4357D75AA86"
 					silent: true
 					type: "command"
@@ -401,6 +428,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "5D18BFC56BA4F8F7"
 					silent: true
 					type: "command"
@@ -423,6 +451,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "46FC6A4B0F1031E9"
 					silent: true
 					type: "command"
@@ -430,6 +459,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "5408976F92CBCF37"
 					silent: true
 					type: "command"
@@ -452,6 +482,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "76D1AA3AF7601148"
 					silent: true
 					type: "command"
@@ -459,6 +490,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "64CEC44B52225A1E"
 					silent: true
 					type: "command"
@@ -481,6 +513,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "6E7BA6EDBF802668"
 					silent: true
 					type: "command"
@@ -488,6 +521,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "32F8B1E88B1306E9"
 					silent: true
 					type: "command"
@@ -510,6 +544,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "6CEA766458F7EFEA"
 					silent: true
 					type: "command"
@@ -517,6 +552,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "2B3FD309AC685E15"
 					silent: true
 					type: "command"
@@ -539,6 +575,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "2BB73D818450CFC8"
 					silent: true
 					type: "command"
@@ -546,6 +583,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "62F77246D469F738"
 					silent: true
 					type: "command"
@@ -568,6 +606,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "61760A1208306055"
 					silent: true
 					type: "command"
@@ -575,6 +614,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "6AFD183B0FFAD45C"
 					silent: true
 					type: "command"
@@ -597,6 +637,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "014CABFA1EC6BAED"
 					silent: true
 					type: "command"
@@ -604,6 +645,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "3A72039FF93A72E1"
 					silent: true
 					type: "command"
@@ -626,6 +668,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "2911ACB3233A1F94"
 					silent: true
 					type: "command"
@@ -633,6 +676,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "4DC752D15BECB567"
 					silent: true
 					type: "command"
@@ -655,6 +699,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "16943E3E5AFA225F"
 					silent: true
 					type: "command"
@@ -662,6 +707,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "042AB28C65FA29D7"
 					silent: true
 					type: "command"
@@ -684,6 +730,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "454D0B714F84A910"
 					silent: true
 					type: "command"
@@ -691,6 +738,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "4C668C518EC1F370"
 					silent: true
 					type: "command"
@@ -713,6 +761,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "076CFC56F822BEBF"
 					silent: true
 					type: "command"
@@ -720,6 +769,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "3DC219A84D8D9BC0"
 					silent: true
 					type: "command"
@@ -742,6 +792,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "73D29898B95F1F32"
 					silent: true
 					type: "command"
@@ -749,6 +800,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "5178987E219FF599"
 					silent: true
 					type: "command"
@@ -771,6 +823,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "227C8B9A96499EC2"
 					silent: true
 					type: "command"
@@ -778,6 +831,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "3776A1E9E4D92587"
 					silent: true
 					type: "command"
@@ -800,6 +854,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "180531A9F5EE5AF3"
 					silent: true
 					type: "command"
@@ -807,6 +862,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "03D4EC3A5E6BDE06"
 					silent: true
 					type: "command"
@@ -829,6 +885,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "43B4ED0D27A1D99F"
 					silent: true
 					type: "command"
@@ -836,6 +893,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "06AF7BFB174A1C8E"
 					silent: true
 					type: "command"
@@ -858,6 +916,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "21C531D464BBB81D"
 					silent: true
 					type: "command"
@@ -865,6 +924,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "397003817C88856A"
 					silent: true
 					type: "command"
@@ -887,6 +947,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "71C45BB61BDF4500"
 					silent: true
 					type: "command"
@@ -894,6 +955,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "522AA1755C6C167C"
 					silent: true
 					type: "command"
@@ -916,6 +978,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "5CE3A6FFEFCD4B29"
 					silent: true
 					type: "command"
@@ -923,6 +986,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "1573EE4808E2D679"
 					silent: true
 					type: "command"
@@ -945,6 +1009,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "76D21A68B0C9844E"
 					silent: true
 					type: "command"
@@ -952,6 +1017,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "0119491501989F2C"
 					silent: true
 					type: "command"
@@ -974,6 +1040,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "7F3724C10EA2785F"
 					silent: true
 					type: "command"
@@ -981,6 +1048,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "3068AD0ABCA6A83C"
 					silent: true
 					type: "command"
@@ -1003,6 +1071,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "1903E945E55EC036"
 					silent: true
 					type: "command"
@@ -1010,6 +1079,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "1E6E1AB066DBAA9E"
 					silent: true
 					type: "command"
@@ -1032,6 +1102,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "57AC4BB1A36E2A76"
 					silent: true
 					type: "command"
@@ -1039,6 +1110,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "788AEA0C3F9193DE"
 					silent: true
 					type: "command"
@@ -1061,6 +1133,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "5F00978F9740D2E1"
 					silent: true
 					type: "command"
@@ -1068,6 +1141,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "34A52B9EC4BF234A"
 					silent: true
 					type: "command"
@@ -1090,6 +1164,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "0114FFAE8E719957"
 					silent: true
 					type: "command"
@@ -1097,6 +1172,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "28D60054EAF97E7F"
 					silent: true
 					type: "command"
@@ -1119,6 +1195,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "440F415D0BFC0BAA"
 					silent: true
 					type: "command"
@@ -1126,6 +1203,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "1E8F7238479C2F20"
 					silent: true
 					type: "command"
@@ -1148,6 +1226,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "111C68BB46922494"
 					silent: true
 					type: "command"
@@ -1155,6 +1234,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "6F4090006E40053B"
 					silent: true
 					type: "command"
@@ -1177,6 +1257,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "309554DCEFB15211"
 					silent: true
 					type: "command"
@@ -1184,6 +1265,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "524E4A63E687631A"
 					silent: true
 					type: "command"
@@ -1206,6 +1288,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "305F83AB94055DAF"
 					silent: true
 					type: "command"
@@ -1213,6 +1296,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "163105CCDEF5388D"
 					silent: true
 					type: "command"
@@ -1235,6 +1319,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "0ED5E3C4F4973214"
 					silent: true
 					type: "command"
@@ -1242,6 +1327,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "3EC9DF052F7C4E34"
 					silent: true
 					type: "command"
@@ -1264,6 +1350,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "2C794E493151F044"
 					silent: true
 					type: "command"
@@ -1271,6 +1358,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "2154625CF11EE9F6"
 					silent: true
 					type: "command"
@@ -1293,6 +1381,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "2CFE9B04500CBDAF"
 					silent: true
 					type: "command"
@@ -1300,6 +1389,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "6E917D7071A46A4F"
 					silent: true
 					type: "command"
@@ -1322,6 +1412,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
 					id: "7EB5AC48603D1021"
 					silent: true
 					type: "command"
@@ -1329,6 +1420,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
 					id: "3D076EE2D42BF6C9"
 					silent: true
 					type: "command"

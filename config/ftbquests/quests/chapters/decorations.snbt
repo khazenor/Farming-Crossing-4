@@ -17,6 +17,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "1FFA491AD2E7BC18"
 					silent: true
 					type: "command"
@@ -24,6 +25,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "62072266A7771B3B"
 					silent: true
 					type: "command"
@@ -46,6 +48,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "71925E098E132EDB"
 					silent: true
 					type: "command"
@@ -53,6 +56,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "262F3636650A78A0"
 					silent: true
 					type: "command"
@@ -75,6 +79,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "22B8187D0A77BF99"
 					silent: true
 					type: "command"
@@ -82,6 +87,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "6075E49CD8AE1032"
 					silent: true
 					type: "command"
@@ -104,6 +110,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "5DEB8928C75DD976"
 					silent: true
 					type: "command"
@@ -111,6 +118,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "6D6F98CADC8AC8A3"
 					silent: true
 					type: "command"
@@ -133,6 +141,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "6874F94C7875ED78"
 					silent: true
 					type: "command"
@@ -140,6 +149,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "7CF138B7B0A6E85C"
 					silent: true
 					type: "command"
@@ -162,6 +172,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "7B51666C29029727"
 					silent: true
 					type: "command"
@@ -169,6 +180,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "327D42E4057698E8"
 					silent: true
 					type: "command"
@@ -191,6 +203,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "3D94114BC2EA0AC5"
 					silent: true
 					type: "command"
@@ -198,6 +211,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "182D6A7DE04B9EA4"
 					silent: true
 					type: "command"
@@ -220,6 +234,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "4EB6DFA449B7A530"
 					silent: true
 					type: "command"
@@ -227,6 +242,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "34A17F4C273875BE"
 					silent: true
 					type: "command"
@@ -249,6 +265,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "415BF878FD35670F"
 					silent: true
 					type: "command"
@@ -256,6 +273,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "3BECEB788C267FB8"
 					silent: true
 					type: "command"
@@ -278,6 +296,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "1AB7CA0C9A1168D4"
 					silent: true
 					type: "command"
@@ -285,6 +304,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "49DB501579C95DD3"
 					silent: true
 					type: "command"
@@ -307,6 +327,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "2A591719C3B35A3C"
 					silent: true
 					type: "command"
@@ -314,6 +335,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "2EE02B0337912468"
 					silent: true
 					type: "command"
@@ -336,6 +358,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "1BBC5506F52A12AA"
 					silent: true
 					type: "command"
@@ -343,6 +366,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "70EB685E8EE279A8"
 					silent: true
 					type: "command"
@@ -365,6 +389,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "1F90CE5A7D358418"
 					silent: true
 					type: "command"
@@ -372,6 +397,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "09264FC84EBBE808"
 					silent: true
 					type: "command"
@@ -394,6 +420,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "32BC7E7F906736DE"
 					silent: true
 					type: "command"
@@ -401,6 +428,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "3772A7E485449FD2"
 					silent: true
 					type: "command"
@@ -423,6 +451,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "7ADABF3AC364A089"
 					silent: true
 					type: "command"
@@ -430,6 +459,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "79434473A237530A"
 					silent: true
 					type: "command"
@@ -452,6 +482,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "6A81A5E1F84AF036"
 					silent: true
 					type: "command"
@@ -459,6 +490,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "0924353A670178E6"
 					silent: true
 					type: "command"
@@ -481,6 +513,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "3E424638D2F6B214"
 					silent: true
 					type: "command"
@@ -488,6 +521,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "6E8536B19F507F0F"
 					silent: true
 					type: "command"
@@ -510,6 +544,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "183E8B16BCF8116D"
 					silent: true
 					type: "command"
@@ -517,6 +552,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "152B1F11260D5667"
 					silent: true
 					type: "command"
@@ -539,6 +575,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "787C5841E1149549"
 					silent: true
 					type: "command"
@@ -546,6 +583,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "3A6E82DF6DE5D13B"
 					silent: true
 					type: "command"
@@ -568,6 +606,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "78AB7B0496527616"
 					silent: true
 					type: "command"
@@ -575,6 +614,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "14FB693409CD0A64"
 					silent: true
 					type: "command"
@@ -597,6 +637,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "2C2EC9FD66BEAAF8"
 					silent: true
 					type: "command"
@@ -604,6 +645,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "229F5BDFAD691D6D"
 					silent: true
 					type: "command"
@@ -626,6 +668,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "0D3C424D2D0C2207"
 					silent: true
 					type: "command"
@@ -633,6 +676,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "62B622639D63740D"
 					silent: true
 					type: "command"
@@ -655,6 +699,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "4BE0BEE50F6A2D26"
 					silent: true
 					type: "command"
@@ -662,6 +707,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "0DC83F187F14B949"
 					silent: true
 					type: "command"
@@ -684,6 +730,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "7D29018EE41E1A55"
 					silent: true
 					type: "command"
@@ -691,6 +738,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "1F948E3FACF0BFDD"
 					silent: true
 					type: "command"
@@ -713,6 +761,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "74D6675412E0D8C6"
 					silent: true
 					type: "command"
@@ -720,6 +769,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "4BEC9E4DC9D6F310"
 					silent: true
 					type: "command"
@@ -742,6 +792,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "632FAFC53FEA06BA"
 					silent: true
 					type: "command"
@@ -749,6 +800,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "49AC7546864AFBEA"
 					silent: true
 					type: "command"
@@ -771,6 +823,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "6CCA164F75917C2D"
 					silent: true
 					type: "command"
@@ -778,6 +831,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "53CC4BA0AAAB1EB3"
 					silent: true
 					type: "command"
@@ -800,6 +854,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "53992F2424968AAA"
 					silent: true
 					type: "command"
@@ -807,6 +862,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "76EFE14F945021AD"
 					silent: true
 					type: "command"
@@ -829,6 +885,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "77D2462D2DBA3827"
 					silent: true
 					type: "command"
@@ -836,6 +893,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "042E18F241AEDEE6"
 					silent: true
 					type: "command"
@@ -858,6 +916,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "314F5DAFBBBEA74A"
 					silent: true
 					type: "command"
@@ -865,6 +924,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "1B4C65B77A084E6C"
 					silent: true
 					type: "command"
@@ -887,6 +947,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "5AA241C55F058CAC"
 					silent: true
 					type: "command"
@@ -894,6 +955,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "4A6C205D3B90572E"
 					silent: true
 					type: "command"
@@ -916,6 +978,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "777A83027E0679EF"
 					silent: true
 					type: "command"
@@ -923,6 +986,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "4427DCFCC83CDFA4"
 					silent: true
 					type: "command"
@@ -945,6 +1009,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "1983BA8E895478B0"
 					silent: true
 					type: "command"
@@ -952,6 +1017,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "065A47A78DF4FD74"
 					silent: true
 					type: "command"
@@ -974,6 +1040,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "073A47A2DE9B89FE"
 					silent: true
 					type: "command"
@@ -981,6 +1048,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "7D579DDB7B9DF4B5"
 					silent: true
 					type: "command"
@@ -1003,6 +1071,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "2D5A6BA8442EA247"
 					silent: true
 					type: "command"
@@ -1010,6 +1079,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "00D820DD9CA8B845"
 					silent: true
 					type: "command"
@@ -1032,6 +1102,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "116BE2205E0D2698"
 					silent: true
 					type: "command"
@@ -1039,6 +1110,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "65376D8CF9CD05AB"
 					silent: true
 					type: "command"
@@ -1061,6 +1133,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "2FB8E0B2458647B5"
 					silent: true
 					type: "command"
@@ -1068,6 +1141,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "7ED6F4BF4E0A6645"
 					silent: true
 					type: "command"
@@ -1090,6 +1164,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "7A8098F25D209006"
 					silent: true
 					type: "command"
@@ -1097,6 +1172,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "38D184313778A8DD"
 					silent: true
 					type: "command"
@@ -1119,6 +1195,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "27E3B446D6E9CF8E"
 					silent: true
 					type: "command"
@@ -1126,6 +1203,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "1497B61FEC276307"
 					silent: true
 					type: "command"
@@ -1148,6 +1226,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "02DC38CA0B416445"
 					silent: true
 					type: "command"
@@ -1155,6 +1234,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "69DBE51440865591"
 					silent: true
 					type: "command"
@@ -1177,6 +1257,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "471272C2C30A1178"
 					silent: true
 					type: "command"
@@ -1184,6 +1265,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "719F18FBB948E3FD"
 					silent: true
 					type: "command"
@@ -1206,6 +1288,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "3D3F2DFC0A964B14"
 					silent: true
 					type: "command"
@@ -1213,6 +1296,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "6AED7B2D44D7432D"
 					silent: true
 					type: "command"
@@ -1235,6 +1319,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "1374472B2A362BAE"
 					silent: true
 					type: "command"
@@ -1242,6 +1327,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "66258D023618CD11"
 					silent: true
 					type: "command"
@@ -1264,6 +1350,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "5848EBE1BE707234"
 					silent: true
 					type: "command"
@@ -1271,6 +1358,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "2979EFE529244608"
 					silent: true
 					type: "command"
@@ -1293,6 +1381,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "1BB5944F2A5B5461"
 					silent: true
 					type: "command"
@@ -1300,6 +1389,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "393B0420BFD5261A"
 					silent: true
 					type: "command"
@@ -1322,6 +1412,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "4247ECCAA7CAA8DD"
 					silent: true
 					type: "command"
@@ -1329,6 +1420,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "2E9F3FA600AB44F7"
 					silent: true
 					type: "command"
@@ -1351,6 +1443,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "4D1E96621699B7D8"
 					silent: true
 					type: "command"
@@ -1358,6 +1451,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "0134084098C3965D"
 					silent: true
 					type: "command"
@@ -1380,6 +1474,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "4374958DBB5C04A6"
 					silent: true
 					type: "command"
@@ -1387,6 +1482,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "600E8B49099092E6"
 					silent: true
 					type: "command"
@@ -1409,6 +1505,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "160834FDC9347C19"
 					silent: true
 					type: "command"
@@ -1416,6 +1513,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "2FD8B63FCAA5386D"
 					silent: true
 					type: "command"
@@ -1438,6 +1536,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "7789045FFD725820"
 					silent: true
 					type: "command"
@@ -1445,6 +1544,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "754C7670E4063CFF"
 					silent: true
 					type: "command"
@@ -1467,6 +1567,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "25107FCEC7060EA1"
 					silent: true
 					type: "command"
@@ -1474,6 +1575,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "638F6FA795BFBEB4"
 					silent: true
 					type: "command"
@@ -1496,6 +1598,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "4C72B2523FB58761"
 					silent: true
 					type: "command"
@@ -1503,6 +1606,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "71417ED1EDAD29C7"
 					silent: true
 					type: "command"
@@ -1525,6 +1629,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "1BBBFAAE3CD12BBC"
 					silent: true
 					type: "command"
@@ -1532,6 +1637,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "1CA35F9CC03895F7"
 					silent: true
 					type: "command"
@@ -1554,6 +1660,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "0CF8F3B63ECD19F0"
 					silent: true
 					type: "command"
@@ -1561,6 +1668,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "11FEF37D6E807FAB"
 					silent: true
 					type: "command"
@@ -1583,6 +1691,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "0040709A27C78E05"
 					silent: true
 					type: "command"
@@ -1590,6 +1699,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "68B0630BE399DF47"
 					silent: true
 					type: "command"
@@ -1612,6 +1722,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "76A3779CFE843684"
 					silent: true
 					type: "command"
@@ -1619,6 +1730,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "5009EDE047AD1FE7"
 					silent: true
 					type: "command"
@@ -1641,6 +1753,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "4019318264E03B95"
 					silent: true
 					type: "command"
@@ -1648,6 +1761,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "4823DE0DFE1116B9"
 					silent: true
 					type: "command"
@@ -1670,6 +1784,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "0EEDECC99614D798"
 					silent: true
 					type: "command"
@@ -1677,6 +1792,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "0EB2C67998B446BD"
 					silent: true
 					type: "command"
@@ -1699,6 +1815,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "2C082C85B0752041"
 					silent: true
 					type: "command"
@@ -1706,6 +1823,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "27077D1CE7F77CDF"
 					silent: true
 					type: "command"
@@ -1728,6 +1846,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "541740E46D045D40"
 					silent: true
 					type: "command"
@@ -1735,6 +1854,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "5E8E1BE7E52766D4"
 					silent: true
 					type: "command"
@@ -1757,6 +1877,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "000E2A0E1CE37147"
 					silent: true
 					type: "command"
@@ -1764,6 +1885,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "5B2E5DBEAF7EC520"
 					silent: true
 					type: "command"
@@ -1786,6 +1908,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "3D15AAC2E8796332"
 					silent: true
 					type: "command"
@@ -1793,6 +1916,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "0EF3C20D0B71ECC6"
 					silent: true
 					type: "command"
@@ -1815,6 +1939,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "5537F33C8D48D0A6"
 					silent: true
 					type: "command"
@@ -1822,6 +1947,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "3062566FD6838833"
 					silent: true
 					type: "command"
@@ -1844,6 +1970,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "7B8DF23B28313CA5"
 					silent: true
 					type: "command"
@@ -1851,6 +1978,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "16E14121E54AB20C"
 					silent: true
 					type: "command"
@@ -1873,6 +2001,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "446C072A4AD619A8"
 					silent: true
 					type: "command"
@@ -1880,6 +2009,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "7C02155794035127"
 					silent: true
 					type: "command"
@@ -1902,6 +2032,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "0DF346D712F5AD8D"
 					silent: true
 					type: "command"
@@ -1909,6 +2040,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "39F8FE71B1427A67"
 					silent: true
 					type: "command"
@@ -1931,6 +2063,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "1B14FF82E6E51408"
 					silent: true
 					type: "command"
@@ -1938,6 +2071,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "6A43E9FA6AD52626"
 					silent: true
 					type: "command"
@@ -1960,6 +2094,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "4722C4E2F1CC5E34"
 					silent: true
 					type: "command"
@@ -1967,6 +2102,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "4DC37B6691068A07"
 					silent: true
 					type: "command"
@@ -1989,6 +2125,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "5891896CF18DE2D1"
 					silent: true
 					type: "command"
@@ -1996,6 +2133,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "42E7B51D6FB1B2BA"
 					silent: true
 					type: "command"
@@ -2018,6 +2156,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "29A57DCEAF67A903"
 					silent: true
 					type: "command"
@@ -2025,6 +2164,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "37AEBB7C569B2ADF"
 					silent: true
 					type: "command"
@@ -2047,6 +2187,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "734ED63C54D9A14C"
 					silent: true
 					type: "command"
@@ -2054,6 +2195,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "47E6C7C0B29FEDF6"
 					silent: true
 					type: "command"
@@ -2076,6 +2218,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "210BBCB43DAED6EC"
 					silent: true
 					type: "command"
@@ -2083,6 +2226,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "06486909357AF5B9"
 					silent: true
 					type: "command"
@@ -2105,6 +2249,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "7737D42A005C420B"
 					silent: true
 					type: "command"
@@ -2112,6 +2257,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "48EA40D23282FFBA"
 					silent: true
 					type: "command"
@@ -2134,6 +2280,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "6F4FD8E52457A944"
 					silent: true
 					type: "command"
@@ -2141,6 +2288,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "3CD08327D6F7E1F0"
 					silent: true
 					type: "command"
@@ -2163,6 +2311,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "1469E631078798D5"
 					silent: true
 					type: "command"
@@ -2170,6 +2319,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "2986687D952401D0"
 					silent: true
 					type: "command"
@@ -2192,6 +2342,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "01E3F372DDFC6AD9"
 					silent: true
 					type: "command"
@@ -2199,6 +2350,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "0E8E0E1F3761A675"
 					silent: true
 					type: "command"
@@ -2221,6 +2373,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "76AE2E4204118CED"
 					silent: true
 					type: "command"
@@ -2228,6 +2381,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "3D9AB79DF1D388B9"
 					silent: true
 					type: "command"
@@ -2250,6 +2404,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "55A1089B33E5E71F"
 					silent: true
 					type: "command"
@@ -2257,6 +2412,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "642164320241D81E"
 					silent: true
 					type: "command"
@@ -2279,6 +2435,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "7812F1810F97AC97"
 					silent: true
 					type: "command"
@@ -2286,6 +2443,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "2D4FBC7EBA95E6F6"
 					silent: true
 					type: "command"
@@ -2308,6 +2466,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "01DBA580CDF0998F"
 					silent: true
 					type: "command"
@@ -2315,6 +2474,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "7D30649C486A4115"
 					silent: true
 					type: "command"
@@ -2337,6 +2497,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "4B354A28EDF07C2A"
 					silent: true
 					type: "command"
@@ -2344,6 +2505,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "587D54896387F16D"
 					silent: true
 					type: "command"
@@ -2366,6 +2528,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "24E6A5BEEC825BA6"
 					silent: true
 					type: "command"
@@ -2373,6 +2536,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "431151FD66FC28CA"
 					silent: true
 					type: "command"
@@ -2395,6 +2559,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "6A931E36A0E4E028"
 					silent: true
 					type: "command"
@@ -2402,6 +2567,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "023DC00D312B9E07"
 					silent: true
 					type: "command"
@@ -2424,6 +2590,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "5467CC0003D4B062"
 					silent: true
 					type: "command"
@@ -2431,6 +2598,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "7DBEF9CAC5C4DF8B"
 					silent: true
 					type: "command"
@@ -2453,6 +2621,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "69FDB08CD84AC9EF"
 					silent: true
 					type: "command"
@@ -2460,6 +2629,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "136AAF591BFCCF58"
 					silent: true
 					type: "command"
@@ -2482,6 +2652,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "13408BD1677551C9"
 					silent: true
 					type: "command"
@@ -2489,6 +2660,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "18EEF3546935FADD"
 					silent: true
 					type: "command"
@@ -2511,6 +2683,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "33EF4260C6BEEDBA"
 					silent: true
 					type: "command"
@@ -2518,6 +2691,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "66ED26841920E6F7"
 					silent: true
 					type: "command"
@@ -2540,6 +2714,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "0C314FE4736B8034"
 					silent: true
 					type: "command"
@@ -2547,6 +2722,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "656DF046A41BD930"
 					silent: true
 					type: "command"
@@ -2569,6 +2745,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "4406C68A04151C51"
 					silent: true
 					type: "command"
@@ -2576,6 +2753,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "508F49082A97092B"
 					silent: true
 					type: "command"
@@ -2598,6 +2776,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "5D91370DC2D4D9AA"
 					silent: true
 					type: "command"
@@ -2605,6 +2784,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "10AA5B13C9B039D2"
 					silent: true
 					type: "command"
@@ -2627,6 +2807,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "42E1F715CD1D12D1"
 					silent: true
 					type: "command"
@@ -2634,6 +2815,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "0C4902391A4A8CCD"
 					silent: true
 					type: "command"
@@ -2656,6 +2838,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "1670DB0DFD5CBC70"
 					silent: true
 					type: "command"
@@ -2663,6 +2846,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "3CA656BA826645DC"
 					silent: true
 					type: "command"
@@ -2685,6 +2869,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "73C80CF2CD65574A"
 					silent: true
 					type: "command"
@@ -2692,6 +2877,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "3A75CDB9BA88DF75"
 					silent: true
 					type: "command"
@@ -2714,6 +2900,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "204A8F76C73125AB"
 					silent: true
 					type: "command"
@@ -2721,6 +2908,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "16B8675C36F77211"
 					silent: true
 					type: "command"
@@ -2743,6 +2931,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "56C82C28246A2148"
 					silent: true
 					type: "command"
@@ -2750,6 +2939,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "2B2E48A62A026302"
 					silent: true
 					type: "command"
@@ -2772,6 +2962,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "5990B6E34E0D0D0D"
 					silent: true
 					type: "command"
@@ -2779,6 +2970,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "2169038681D36E84"
 					silent: true
 					type: "command"
@@ -2801,6 +2993,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "766B8DE9F58CD0F9"
 					silent: true
 					type: "command"
@@ -2808,6 +3001,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "2543A5E6E6A68097"
 					silent: true
 					type: "command"
@@ -2830,6 +3024,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "1A65195A340A7DC5"
 					silent: true
 					type: "command"
@@ -2837,6 +3032,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "58257135B0AF0C4A"
 					silent: true
 					type: "command"
@@ -2859,6 +3055,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "1EE88F9D3401F445"
 					silent: true
 					type: "command"
@@ -2866,6 +3063,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "4F53A1899317A60A"
 					silent: true
 					type: "command"
@@ -2888,6 +3086,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "6F60156925319F13"
 					silent: true
 					type: "command"
@@ -2895,6 +3094,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "5C6D088EB263D362"
 					silent: true
 					type: "command"
@@ -2917,6 +3117,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "149441E462807A68"
 					silent: true
 					type: "command"
@@ -2924,6 +3125,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "6B4BAED9FD86411B"
 					silent: true
 					type: "command"
@@ -2946,6 +3148,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "73EFBD2A5A2F2F33"
 					silent: true
 					type: "command"
@@ -2953,6 +3156,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "7F8982F06A7E29D7"
 					silent: true
 					type: "command"
@@ -2975,6 +3179,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "7DFA8F90B53C087A"
 					silent: true
 					type: "command"
@@ -2982,6 +3187,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "30868C4B49340F41"
 					silent: true
 					type: "command"
@@ -3004,6 +3210,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "49ABE6A3192C0970"
 					silent: true
 					type: "command"
@@ -3011,6 +3218,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "0645EF3A7D195EC4"
 					silent: true
 					type: "command"
@@ -3033,6 +3241,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "4B485E53F3A03B84"
 					silent: true
 					type: "command"
@@ -3040,6 +3249,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "135AE3AFB6641B8C"
 					silent: true
 					type: "command"
@@ -3062,6 +3272,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "2C89196B8BE3E9E4"
 					silent: true
 					type: "command"
@@ -3069,6 +3280,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "080A8A51A464A036"
 					silent: true
 					type: "command"
@@ -3091,6 +3303,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "749AD0C401A51AD6"
 					silent: true
 					type: "command"
@@ -3098,6 +3311,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "405CDD6556F82A93"
 					silent: true
 					type: "command"
@@ -3120,6 +3334,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "42C434DF094B3106"
 					silent: true
 					type: "command"
@@ -3127,6 +3342,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "5164685972490F14"
 					silent: true
 					type: "command"
@@ -3149,6 +3365,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "4F31513ACA6C3E19"
 					silent: true
 					type: "command"
@@ -3156,6 +3373,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "4596F9BF62935DC6"
 					silent: true
 					type: "command"
@@ -3178,6 +3396,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "3CDB6143DB295AAC"
 					silent: true
 					type: "command"
@@ -3185,6 +3404,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "0C53A87BDD21E0DC"
 					silent: true
 					type: "command"
@@ -3207,6 +3427,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "344383CFC7D9E81D"
 					silent: true
 					type: "command"
@@ -3214,6 +3435,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "69C67F6EC7FE1109"
 					silent: true
 					type: "command"
@@ -3236,6 +3458,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "29737440600E9B92"
 					silent: true
 					type: "command"
@@ -3243,6 +3466,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "46D63688C53C1077"
 					silent: true
 					type: "command"
@@ -3265,6 +3489,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "559E9B428ACE270A"
 					silent: true
 					type: "command"
@@ -3272,6 +3497,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "23188398C463690E"
 					silent: true
 					type: "command"
@@ -3294,6 +3520,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "6634252D4B08ED42"
 					silent: true
 					type: "command"
@@ -3301,6 +3528,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "727C0EF742248E1F"
 					silent: true
 					type: "command"
@@ -3323,6 +3551,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "51E536D6FB5BCFE1"
 					silent: true
 					type: "command"
@@ -3330,6 +3559,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "5E19061E3F40006C"
 					silent: true
 					type: "command"
@@ -3352,6 +3582,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "7572CA97F7543047"
 					silent: true
 					type: "command"
@@ -3359,6 +3590,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "73B2E7B0F4C6B804"
 					silent: true
 					type: "command"
@@ -3381,6 +3613,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "3C7B9548605490FC"
 					silent: true
 					type: "command"
@@ -3388,6 +3621,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "0DA29EC1F1C3839B"
 					silent: true
 					type: "command"
@@ -3410,6 +3644,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "553AF3120960C666"
 					silent: true
 					type: "command"
@@ -3417,6 +3652,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "278FAE2EDDD49252"
 					silent: true
 					type: "command"
@@ -3439,6 +3675,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "37B815DB430AF401"
 					silent: true
 					type: "command"
@@ -3446,6 +3683,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "5109CD8E1FAA245C"
 					silent: true
 					type: "command"
@@ -3468,6 +3706,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "18A5C62A26CDFA5F"
 					silent: true
 					type: "command"
@@ -3475,6 +3714,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "6BAC8D1C2AA73536"
 					silent: true
 					type: "command"
@@ -3497,6 +3737,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "47C74256B888E425"
 					silent: true
 					type: "command"
@@ -3504,6 +3745,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "05762119D34C7B6A"
 					silent: true
 					type: "command"
@@ -3526,6 +3768,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "58658465B67A17A7"
 					silent: true
 					type: "command"
@@ -3533,6 +3776,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "0D27995C1D1FD821"
 					silent: true
 					type: "command"
@@ -3555,6 +3799,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "4C87C8456D11D629"
 					silent: true
 					type: "command"
@@ -3562,6 +3807,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "7243468FDE0EED55"
 					silent: true
 					type: "command"
@@ -3584,6 +3830,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "1846D1552D299CAD"
 					silent: true
 					type: "command"
@@ -3591,6 +3838,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "5469F9DD007D089E"
 					silent: true
 					type: "command"
@@ -3613,6 +3861,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "744B7FCBCB8C6E54"
 					silent: true
 					type: "command"
@@ -3620,6 +3869,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "09507AF4DA9E175F"
 					silent: true
 					type: "command"
@@ -3642,6 +3892,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "552C848406622A2D"
 					silent: true
 					type: "command"
@@ -3649,6 +3900,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "1E99EE55AAC3FA7B"
 					silent: true
 					type: "command"
@@ -3671,6 +3923,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "4F1A15E9EB069F9F"
 					silent: true
 					type: "command"
@@ -3678,6 +3931,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "52A31834D692A878"
 					silent: true
 					type: "command"
@@ -3700,6 +3954,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "787715C0779E617B"
 					silent: true
 					type: "command"
@@ -3707,6 +3962,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "1B3CF07E13C7E68C"
 					silent: true
 					type: "command"
@@ -3729,6 +3985,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "2BD7148A88604B63"
 					silent: true
 					type: "command"
@@ -3736,6 +3993,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "19255F2B80F4CFF9"
 					silent: true
 					type: "command"
@@ -3758,6 +4016,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "1E1BD1B8D4631956"
 					silent: true
 					type: "command"
@@ -3765,6 +4024,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "09BFC1FF39F4AA4F"
 					silent: true
 					type: "command"
@@ -3787,6 +4047,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "029773EA9AE88C66"
 					silent: true
 					type: "command"
@@ -3794,6 +4055,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "506F56000F6E542A"
 					silent: true
 					type: "command"
@@ -3816,6 +4078,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "02E69BE89C4B8978"
 					silent: true
 					type: "command"
@@ -3823,6 +4086,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "3569AB7863E9759A"
 					silent: true
 					type: "command"
@@ -3845,6 +4109,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "17E7A963258A08D8"
 					silent: true
 					type: "command"
@@ -3852,6 +4117,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "24F30BEF7992FEEE"
 					silent: true
 					type: "command"
@@ -3874,6 +4140,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "4C2849FC27BC1808"
 					silent: true
 					type: "command"
@@ -3881,6 +4148,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "3544EB285BAD1C34"
 					silent: true
 					type: "command"
@@ -3903,6 +4171,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "3D42FD9CFA6FB241"
 					silent: true
 					type: "command"
@@ -3910,6 +4179,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "6697A76629B4EC6D"
 					silent: true
 					type: "command"
@@ -3932,6 +4202,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "6F0E896A7C3DF96C"
 					silent: true
 					type: "command"
@@ -3939,6 +4210,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "386D3740CF304120"
 					silent: true
 					type: "command"
@@ -3961,6 +4233,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "6F957E1F116B6038"
 					silent: true
 					type: "command"
@@ -3968,6 +4241,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "70549B187A62368D"
 					silent: true
 					type: "command"
@@ -3990,6 +4264,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "71B8867C901B1A87"
 					silent: true
 					type: "command"
@@ -3997,6 +4272,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "69091801BF2214E1"
 					silent: true
 					type: "command"
@@ -4019,6 +4295,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "2BA0E6D94C36E8A2"
 					silent: true
 					type: "command"
@@ -4026,6 +4303,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "2BA2CA703294EF6D"
 					silent: true
 					type: "command"
@@ -4048,6 +4326,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "4D1B1F8F295E2369"
 					silent: true
 					type: "command"
@@ -4055,6 +4334,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "1CDE83711F99ABEF"
 					silent: true
 					type: "command"
@@ -4077,6 +4357,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "064DEBF76F5BA221"
 					silent: true
 					type: "command"
@@ -4084,6 +4365,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "69DAFD553057EE4C"
 					silent: true
 					type: "command"
@@ -4106,6 +4388,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "7C71721E52E0916C"
 					silent: true
 					type: "command"
@@ -4113,6 +4396,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "64926ADF69D660BB"
 					silent: true
 					type: "command"
@@ -4135,6 +4419,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "3E20AA793DF27EB3"
 					silent: true
 					type: "command"
@@ -4142,6 +4427,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "65CEEF249ACDDF1D"
 					silent: true
 					type: "command"
@@ -4164,6 +4450,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "1A6FA2A4879D5821"
 					silent: true
 					type: "command"
@@ -4171,6 +4458,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "05C0EF52EA31217F"
 					silent: true
 					type: "command"
@@ -4193,6 +4481,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "6E73485A0EDDED46"
 					silent: true
 					type: "command"
@@ -4200,6 +4489,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "55AD98C07E6AC8BA"
 					silent: true
 					type: "command"
@@ -4222,6 +4512,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "75B1AB69C4FF14DB"
 					silent: true
 					type: "command"
@@ -4229,6 +4520,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "1540104962595E68"
 					silent: true
 					type: "command"
@@ -4251,6 +4543,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "0AB9D964712A12B7"
 					silent: true
 					type: "command"
@@ -4258,6 +4551,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "59BF8AD5A186CC29"
 					silent: true
 					type: "command"
@@ -4280,6 +4574,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "09E1CE7A738505DB"
 					silent: true
 					type: "command"
@@ -4287,6 +4582,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "2BBE5D442EE7415B"
 					silent: true
 					type: "command"
@@ -4309,6 +4605,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "757C1DBAD2521E0F"
 					silent: true
 					type: "command"
@@ -4316,6 +4613,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "6B9E32FC10159A7F"
 					silent: true
 					type: "command"
@@ -4338,6 +4636,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "47B794A1FC1D46A0"
 					silent: true
 					type: "command"
@@ -4345,6 +4644,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "71F631ABC52C857D"
 					silent: true
 					type: "command"
@@ -4367,6 +4667,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "108C2820D524930A"
 					silent: true
 					type: "command"
@@ -4374,6 +4675,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "325B92154F2DDC00"
 					silent: true
 					type: "command"
@@ -4396,6 +4698,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "16DBF4F946D53C60"
 					silent: true
 					type: "command"
@@ -4403,6 +4706,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "54538C0DB9360544"
 					silent: true
 					type: "command"
@@ -4425,6 +4729,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "54D8AB97D3783387"
 					silent: true
 					type: "command"
@@ -4432,6 +4737,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "6797858ED34667BE"
 					silent: true
 					type: "command"
@@ -4454,6 +4760,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "2B28DFE228D7B8B8"
 					silent: true
 					type: "command"
@@ -4461,6 +4768,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "260ED8582000C4FB"
 					silent: true
 					type: "command"
@@ -4483,6 +4791,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "3E6F9E513A73520D"
 					silent: true
 					type: "command"
@@ -4490,6 +4799,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "50F5C35462C27995"
 					silent: true
 					type: "command"
@@ -4512,6 +4822,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "5FD16E957BF692D4"
 					silent: true
 					type: "command"
@@ -4519,6 +4830,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "4DEB7CAEAFE90A23"
 					silent: true
 					type: "command"
@@ -4541,6 +4853,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "1D256D5A06333289"
 					silent: true
 					type: "command"
@@ -4548,6 +4861,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "1F25E539E07E7A5E"
 					silent: true
 					type: "command"
@@ -4570,6 +4884,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "41AC6659346C01EF"
 					silent: true
 					type: "command"
@@ -4577,6 +4892,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "44DB3FA0E6C79E72"
 					silent: true
 					type: "command"
@@ -4599,6 +4915,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "75181EDA434E63DB"
 					silent: true
 					type: "command"
@@ -4606,6 +4923,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "56953FBD0FD9B2BE"
 					silent: true
 					type: "command"
@@ -4628,6 +4946,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "4C9A425FF02909D6"
 					silent: true
 					type: "command"
@@ -4635,6 +4954,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "6EC10C6C9758174C"
 					silent: true
 					type: "command"
@@ -4657,6 +4977,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "7ADB424FB95EB58B"
 					silent: true
 					type: "command"
@@ -4664,6 +4985,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "685ABF3AF81F7A71"
 					silent: true
 					type: "command"
@@ -4686,6 +5008,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "47282914C7A1D906"
 					silent: true
 					type: "command"
@@ -4693,6 +5016,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "60357B2DBF0106EE"
 					silent: true
 					type: "command"
@@ -4715,6 +5039,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "661EEEACB7464452"
 					silent: true
 					type: "command"
@@ -4722,6 +5047,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "4ADE6D4FFC5668CC"
 					silent: true
 					type: "command"
@@ -4744,6 +5070,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "2C0481EBDF79F1BB"
 					silent: true
 					type: "command"
@@ -4751,6 +5078,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "3B10F47E8D1FFC47"
 					silent: true
 					type: "command"
@@ -4773,6 +5101,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "6EC12F3C71C290A8"
 					silent: true
 					type: "command"
@@ -4780,6 +5109,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "35E0438CB0103C16"
 					silent: true
 					type: "command"
@@ -4802,6 +5132,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "670A558172A8F4CF"
 					silent: true
 					type: "command"
@@ -4809,6 +5140,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "73C9C50AC929FA01"
 					silent: true
 					type: "command"
@@ -4831,6 +5163,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "4F48584C9E4183FB"
 					silent: true
 					type: "command"
@@ -4838,6 +5171,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "4919797E6C54B6F8"
 					silent: true
 					type: "command"
@@ -4860,6 +5194,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "4D28B077A48F7723"
 					silent: true
 					type: "command"
@@ -4867,6 +5202,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "77A6184225D674A0"
 					silent: true
 					type: "command"
@@ -4889,6 +5225,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "04D73A08DD4E306C"
 					silent: true
 					type: "command"
@@ -4896,6 +5233,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "0C3F838861944577"
 					silent: true
 					type: "command"
@@ -4918,6 +5256,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "4D9E94DE522EB426"
 					silent: true
 					type: "command"
@@ -4925,6 +5264,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "32946F5E1B92E4CD"
 					silent: true
 					type: "command"
@@ -4947,6 +5287,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "752294D03AEE194B"
 					silent: true
 					type: "command"
@@ -4954,6 +5295,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "5F47FB9ED9AC03D5"
 					silent: true
 					type: "command"
@@ -4976,6 +5318,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "3D4F4AA0F25FDD87"
 					silent: true
 					type: "command"
@@ -4983,6 +5326,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "071703F67FEF8655"
 					silent: true
 					type: "command"
@@ -5005,6 +5349,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "261A72606C86FA99"
 					silent: true
 					type: "command"
@@ -5012,6 +5357,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "7EBBB6EB64F5E194"
 					silent: true
 					type: "command"
@@ -5034,6 +5380,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "00E7DDE36E688794"
 					silent: true
 					type: "command"
@@ -5041,6 +5388,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "0C4459E9C1B46C1A"
 					silent: true
 					type: "command"
@@ -5063,6 +5411,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "32C1D56B82D27B5B"
 					silent: true
 					type: "command"
@@ -5070,6 +5419,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "3027FE9E66852C7C"
 					silent: true
 					type: "command"
@@ -5092,6 +5442,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "713DF3ED94E289A0"
 					silent: true
 					type: "command"
@@ -5099,6 +5450,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "2EE671A0F2A9EE9F"
 					silent: true
 					type: "command"
@@ -5121,6 +5473,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "16180083434B7E0F"
 					silent: true
 					type: "command"
@@ -5128,6 +5481,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "0B893F94C69C6494"
 					silent: true
 					type: "command"
@@ -5150,6 +5504,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "66781F3CC629F0A5"
 					silent: true
 					type: "command"
@@ -5157,6 +5512,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "4B3C752B3CB300A4"
 					silent: true
 					type: "command"
@@ -5179,6 +5535,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "190E10B1B6A981DB"
 					silent: true
 					type: "command"
@@ -5186,6 +5543,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "50F049ED1BE158D0"
 					silent: true
 					type: "command"
@@ -5208,6 +5566,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "7CC3D1906F6F9BAB"
 					silent: true
 					type: "command"
@@ -5215,6 +5574,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "117CAE3BF782D2D8"
 					silent: true
 					type: "command"
@@ -5237,6 +5597,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "2F9A11D0E0F8381D"
 					silent: true
 					type: "command"
@@ -5244,6 +5605,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "563F9AFB170FA93D"
 					silent: true
 					type: "command"
@@ -5266,6 +5628,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "31F45EE56A297488"
 					silent: true
 					type: "command"
@@ -5273,6 +5636,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "7EDA112A356716F5"
 					silent: true
 					type: "command"
@@ -5295,6 +5659,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "45EC0040B3647C98"
 					silent: true
 					type: "command"
@@ -5302,6 +5667,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "630494E1E71BC712"
 					silent: true
 					type: "command"
@@ -5324,6 +5690,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "5C95EB9DBF50E3FC"
 					silent: true
 					type: "command"
@@ -5331,6 +5698,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "31A6E129101DE26D"
 					silent: true
 					type: "command"
@@ -5353,6 +5721,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "2C40F3DD00E24E68"
 					silent: true
 					type: "command"
@@ -5360,6 +5729,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "048D2AB34ABABA22"
 					silent: true
 					type: "command"
@@ -5382,6 +5752,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "6AF3CAE32F953667"
 					silent: true
 					type: "command"
@@ -5389,6 +5760,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "668C825437A79349"
 					silent: true
 					type: "command"
@@ -5411,6 +5783,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "502F6737C441B02B"
 					silent: true
 					type: "command"
@@ -5418,6 +5791,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "07B7637E7D4B333C"
 					silent: true
 					type: "command"
@@ -5440,6 +5814,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "6F975F43E8DD0434"
 					silent: true
 					type: "command"
@@ -5447,6 +5822,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "69ED8EE88F7FEDDF"
 					silent: true
 					type: "command"
@@ -5469,6 +5845,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "712CE22545B2B867"
 					silent: true
 					type: "command"
@@ -5476,6 +5853,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "6591B59637153166"
 					silent: true
 					type: "command"
@@ -5498,6 +5876,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "5B2F754CA232F878"
 					silent: true
 					type: "command"
@@ -5505,6 +5884,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "3D4D89877F859D9D"
 					silent: true
 					type: "command"
@@ -5527,6 +5907,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "0AF451216AA13978"
 					silent: true
 					type: "command"
@@ -5534,6 +5915,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "7BC93D59C29DF718"
 					silent: true
 					type: "command"
@@ -5556,6 +5938,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "1CFD030C5CED2B3E"
 					silent: true
 					type: "command"
@@ -5563,6 +5946,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "122A1BA0B8B69AF1"
 					silent: true
 					type: "command"
@@ -5585,6 +5969,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "71AB1C674A4056AA"
 					silent: true
 					type: "command"
@@ -5592,6 +5977,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "62F002FE48568A83"
 					silent: true
 					type: "command"
@@ -5614,6 +6000,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "09931169ABDA4534"
 					silent: true
 					type: "command"
@@ -5621,6 +6008,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "3B831AEBA9A530D5"
 					silent: true
 					type: "command"
@@ -5643,6 +6031,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "6EF0C13CFE5BFBED"
 					silent: true
 					type: "command"
@@ -5650,6 +6039,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "500711A37B8F6248"
 					silent: true
 					type: "command"
@@ -5672,6 +6062,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "57D00DD8288DFC45"
 					silent: true
 					type: "command"
@@ -5679,6 +6070,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "12A8BC3407F6E92A"
 					silent: true
 					type: "command"
@@ -5701,6 +6093,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "22C8AA47E47BA178"
 					silent: true
 					type: "command"
@@ -5708,6 +6101,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "6FAF2D4373F7130F"
 					silent: true
 					type: "command"
@@ -5730,6 +6124,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "38DC5BAD9E8657BC"
 					silent: true
 					type: "command"
@@ -5737,6 +6132,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "7F3D0E9C34F6262B"
 					silent: true
 					type: "command"
@@ -5759,6 +6155,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "1B709280229AB741"
 					silent: true
 					type: "command"
@@ -5766,6 +6163,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "701296546B1D02C6"
 					silent: true
 					type: "command"
@@ -5788,6 +6186,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "15F851774B2AE85F"
 					silent: true
 					type: "command"
@@ -5795,6 +6194,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "01F1FEE286E101B6"
 					silent: true
 					type: "command"
@@ -5817,6 +6217,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "24C2D3D1299D296E"
 					silent: true
 					type: "command"
@@ -5824,6 +6225,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "62C060AB8F4A0B9C"
 					silent: true
 					type: "command"
@@ -5846,6 +6248,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "5655B05E41ECDA65"
 					silent: true
 					type: "command"
@@ -5853,6 +6256,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "3A3290371A8A44E9"
 					silent: true
 					type: "command"
@@ -5875,6 +6279,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "00D4899491D2C51D"
 					silent: true
 					type: "command"
@@ -5882,6 +6287,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "758ABF2D9F077970"
 					silent: true
 					type: "command"
@@ -5904,6 +6310,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "7043E75C05AFB3D6"
 					silent: true
 					type: "command"
@@ -5911,6 +6318,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "3B602FB6CC525FF7"
 					silent: true
 					type: "command"
@@ -5933,6 +6341,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "36AF8B44B9E92309"
 					silent: true
 					type: "command"
@@ -5940,6 +6349,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "4E336DE7681964ED"
 					silent: true
 					type: "command"
@@ -5962,6 +6372,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "117CCCCA9EADCFED"
 					silent: true
 					type: "command"
@@ -5969,6 +6380,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "77563C24E0491F30"
 					silent: true
 					type: "command"
@@ -5991,6 +6403,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "688E89F2F076A0C4"
 					silent: true
 					type: "command"
@@ -5998,6 +6411,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "544489EB923791FA"
 					silent: true
 					type: "command"
@@ -6020,6 +6434,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "7B1F8FFAAC4C4427"
 					silent: true
 					type: "command"
@@ -6027,6 +6442,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "19F54BB604ACAD8F"
 					silent: true
 					type: "command"
@@ -6049,6 +6465,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "214207A3A6F9C5F6"
 					silent: true
 					type: "command"
@@ -6056,6 +6473,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "27DD77853596F321"
 					silent: true
 					type: "command"
@@ -6078,6 +6496,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "43D7743403F87709"
 					silent: true
 					type: "command"
@@ -6085,6 +6504,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "447F250CEFD39EF8"
 					silent: true
 					type: "command"
@@ -6107,6 +6527,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "1F25C0F70903C3D0"
 					silent: true
 					type: "command"
@@ -6114,6 +6535,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "33B9398BB50F17F3"
 					silent: true
 					type: "command"
@@ -6136,6 +6558,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "6AC67AB33F8E7381"
 					silent: true
 					type: "command"
@@ -6143,6 +6566,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "58437E9753099A63"
 					silent: true
 					type: "command"
@@ -6165,6 +6589,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "58AFDAC5DCBB952F"
 					silent: true
 					type: "command"
@@ -6172,6 +6597,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "66F60AD27FA6CE36"
 					silent: true
 					type: "command"
@@ -6194,6 +6620,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "47541BCBA9F99152"
 					silent: true
 					type: "command"
@@ -6201,6 +6628,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "35B572E54A77A588"
 					silent: true
 					type: "command"
@@ -6223,6 +6651,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "7C7305D2A47E80E5"
 					silent: true
 					type: "command"
@@ -6230,6 +6659,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "77C303DBC48360C4"
 					silent: true
 					type: "command"
@@ -6252,6 +6682,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "4CD74FE190300182"
 					silent: true
 					type: "command"
@@ -6259,6 +6690,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "12457F7BF395B9A1"
 					silent: true
 					type: "command"
@@ -6281,6 +6713,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "61212B4A95753794"
 					silent: true
 					type: "command"
@@ -6288,6 +6721,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "3A1C17957CE28FEB"
 					silent: true
 					type: "command"
@@ -6310,6 +6744,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "7736A7BD81893522"
 					silent: true
 					type: "command"
@@ -6317,6 +6752,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "22D5ADD43FAA5D25"
 					silent: true
 					type: "command"
@@ -6339,6 +6775,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "5E63EA0071ECBB6A"
 					silent: true
 					type: "command"
@@ -6346,6 +6783,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "443DF3FC8C7B2B80"
 					silent: true
 					type: "command"
@@ -6368,6 +6806,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "4E61C6242F8D94A6"
 					silent: true
 					type: "command"
@@ -6375,6 +6814,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "15612EDBD973740F"
 					silent: true
 					type: "command"
@@ -6397,6 +6837,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "61F797B224FF980E"
 					silent: true
 					type: "command"
@@ -6404,6 +6845,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "0BFB1B516F2648D8"
 					silent: true
 					type: "command"
@@ -6426,6 +6868,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "5305168F980E215F"
 					silent: true
 					type: "command"
@@ -6433,6 +6876,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "233AE220F667022C"
 					silent: true
 					type: "command"
@@ -6455,6 +6899,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "3994C8A58E730915"
 					silent: true
 					type: "command"
@@ -6462,6 +6907,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "26F63BB5366DC71A"
 					silent: true
 					type: "command"
@@ -6484,6 +6930,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "722A5E326E125B22"
 					silent: true
 					type: "command"
@@ -6491,6 +6938,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "530A88C595E7B608"
 					silent: true
 					type: "command"
@@ -6513,6 +6961,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "56ABA6B534458705"
 					silent: true
 					type: "command"
@@ -6520,6 +6969,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "0BBDEE8A1AE77FCF"
 					silent: true
 					type: "command"
@@ -6542,6 +6992,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "26B15CDADFDB2575"
 					silent: true
 					type: "command"
@@ -6549,6 +7000,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "4FE3C308C80F565B"
 					silent: true
 					type: "command"
@@ -6571,6 +7023,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "5881E4B87A5EAB2C"
 					silent: true
 					type: "command"
@@ -6578,6 +7031,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "7D58C83965D1D7AC"
 					silent: true
 					type: "command"
@@ -6600,6 +7054,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "1D63EE5AA7A11218"
 					silent: true
 					type: "command"
@@ -6607,6 +7062,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "7E5E2C76B4D8E882"
 					silent: true
 					type: "command"
@@ -6629,6 +7085,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "4E62CF4B1D149784"
 					silent: true
 					type: "command"
@@ -6636,6 +7093,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "20D484FA7D40EE61"
 					silent: true
 					type: "command"
@@ -6658,6 +7116,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "478DF7BB27138B49"
 					silent: true
 					type: "command"
@@ -6665,6 +7124,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "1737661BC1104A0E"
 					silent: true
 					type: "command"
@@ -6687,6 +7147,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "0E6399F3DDD08B66"
 					silent: true
 					type: "command"
@@ -6694,6 +7155,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "53DA496529CB38B6"
 					silent: true
 					type: "command"
@@ -6716,6 +7178,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "6A0EF6399AC097D7"
 					silent: true
 					type: "command"
@@ -6723,6 +7186,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "629A2254DFE20DF0"
 					silent: true
 					type: "command"
@@ -6745,6 +7209,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "1807E6C9B6277A0C"
 					silent: true
 					type: "command"
@@ -6752,6 +7217,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "2315BD18872CEE27"
 					silent: true
 					type: "command"
@@ -6774,6 +7240,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "4306499D48000FE0"
 					silent: true
 					type: "command"
@@ -6781,6 +7248,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "65E2EC0136020910"
 					silent: true
 					type: "command"
@@ -6803,6 +7271,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "4E8E82B34CA53EFA"
 					silent: true
 					type: "command"
@@ -6810,6 +7279,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "260FA96BE10997A1"
 					silent: true
 					type: "command"
@@ -6832,6 +7302,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "703881E2769FC9B7"
 					silent: true
 					type: "command"
@@ -6839,6 +7310,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "528ABD812899E337"
 					silent: true
 					type: "command"
@@ -6861,6 +7333,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "044CD8E8FCFB5CE8"
 					silent: true
 					type: "command"
@@ -6868,6 +7341,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "048B3BB86446E593"
 					silent: true
 					type: "command"
@@ -6890,6 +7364,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "121FF79D45C08209"
 					silent: true
 					type: "command"
@@ -6897,6 +7372,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "21DCF319CC74B63D"
 					silent: true
 					type: "command"
@@ -6919,6 +7395,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "627CC5E782218A01"
 					silent: true
 					type: "command"
@@ -6926,6 +7403,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "291D3662ED73A0FC"
 					silent: true
 					type: "command"
@@ -6948,6 +7426,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "456AE18E9FCCAC35"
 					silent: true
 					type: "command"
@@ -6955,6 +7434,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "637C61244CD508B3"
 					silent: true
 					type: "command"
@@ -6977,6 +7457,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "767255CBE03EE51E"
 					silent: true
 					type: "command"
@@ -6984,6 +7465,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "6272297D9E41CB5F"
 					silent: true
 					type: "command"
@@ -7006,6 +7488,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "4A1A5D961AEE06BA"
 					silent: true
 					type: "command"
@@ -7013,6 +7496,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "6A1EBF4532B80B7B"
 					silent: true
 					type: "command"
@@ -7035,6 +7519,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "604C9C4DB2FD02C4"
 					silent: true
 					type: "command"
@@ -7042,6 +7527,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "0E4B14D6D5892725"
 					silent: true
 					type: "command"
@@ -7064,6 +7550,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "6B9DA8B1F036B937"
 					silent: true
 					type: "command"
@@ -7071,6 +7558,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "75A9D51C1B44B665"
 					silent: true
 					type: "command"
@@ -7093,6 +7581,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "0CD4F07765180D74"
 					silent: true
 					type: "command"
@@ -7100,6 +7589,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "40088DF0A4715305"
 					silent: true
 					type: "command"
@@ -7122,6 +7612,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "744F407ECFB8732A"
 					silent: true
 					type: "command"
@@ -7129,6 +7620,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "31F3C3EBE39615A6"
 					silent: true
 					type: "command"
@@ -7151,6 +7643,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "072F9550033D5D45"
 					silent: true
 					type: "command"
@@ -7158,6 +7651,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "1334BCA843C7C3CD"
 					silent: true
 					type: "command"
@@ -7180,6 +7674,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "1D357B34F0FAEE8A"
 					silent: true
 					type: "command"
@@ -7187,6 +7682,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "1EB0B68A5F252973"
 					silent: true
 					type: "command"
@@ -7209,6 +7705,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "46E0FEBB7B3442FA"
 					silent: true
 					type: "command"
@@ -7216,6 +7713,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "7EB516EB1495A442"
 					silent: true
 					type: "command"
@@ -7238,6 +7736,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "53CEA655640D850F"
 					silent: true
 					type: "command"
@@ -7245,6 +7744,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "08457BC876901A9C"
 					silent: true
 					type: "command"
@@ -7267,6 +7767,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "1E83EA66E154F495"
 					silent: true
 					type: "command"
@@ -7274,6 +7775,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "02E0A550359687AC"
 					silent: true
 					type: "command"
@@ -7296,6 +7798,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "06FDAAF9EE5E8FD5"
 					silent: true
 					type: "command"
@@ -7303,6 +7806,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "6E3A6C381857EEE9"
 					silent: true
 					type: "command"
@@ -7325,6 +7829,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "3F2558FB628B606D"
 					silent: true
 					type: "command"
@@ -7332,6 +7837,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "206402967919C6D3"
 					silent: true
 					type: "command"
@@ -7354,6 +7860,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "5CA73EDA6248FD46"
 					silent: true
 					type: "command"
@@ -7361,6 +7868,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "190A3E83530DD62F"
 					silent: true
 					type: "command"
@@ -7383,6 +7891,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "6C08AD5D5D870D29"
 					silent: true
 					type: "command"
@@ -7390,6 +7899,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "6DA3569A55A80B66"
 					silent: true
 					type: "command"
@@ -7412,6 +7922,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "1129E698BAF8FE02"
 					silent: true
 					type: "command"
@@ -7419,6 +7930,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "2725A0FCD3C6DDE4"
 					silent: true
 					type: "command"
@@ -7441,6 +7953,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "0947EC49532513A3"
 					silent: true
 					type: "command"
@@ -7448,6 +7961,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "422CC5085C633B48"
 					silent: true
 					type: "command"
@@ -7470,6 +7984,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "4700B66C4BA47D0D"
 					silent: true
 					type: "command"
@@ -7477,6 +7992,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "44BD970A0DEDA6D4"
 					silent: true
 					type: "command"
@@ -7499,6 +8015,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "20714CA21B9EC896"
 					silent: true
 					type: "command"
@@ -7506,6 +8023,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "00BA01AD03ACD139"
 					silent: true
 					type: "command"
@@ -7528,6 +8046,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "1C143280D16F9166"
 					silent: true
 					type: "command"
@@ -7535,6 +8054,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "3269D14C1A47FE09"
 					silent: true
 					type: "command"
@@ -7557,6 +8077,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "51DE0D3B12FAE400"
 					silent: true
 					type: "command"
@@ -7564,6 +8085,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "3A41169F02EE2B1D"
 					silent: true
 					type: "command"
@@ -7586,6 +8108,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "0337FB46D23190E6"
 					silent: true
 					type: "command"
@@ -7593,6 +8116,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "1A08AD5EA1D42013"
 					silent: true
 					type: "command"
@@ -7615,6 +8139,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "00425A70783A7C0E"
 					silent: true
 					type: "command"
@@ -7622,6 +8147,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "519E7F589CEBC80E"
 					silent: true
 					type: "command"
@@ -7644,6 +8170,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "1397C1FD1943F18A"
 					silent: true
 					type: "command"
@@ -7651,6 +8178,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "54A0F5F9663667AB"
 					silent: true
 					type: "command"
@@ -7673,6 +8201,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "1425BBB9F3266DA6"
 					silent: true
 					type: "command"
@@ -7680,6 +8209,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "27088A337673D3AE"
 					silent: true
 					type: "command"
@@ -7702,6 +8232,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "616E4897638E4690"
 					silent: true
 					type: "command"
@@ -7709,6 +8240,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "354C8D9016CB6500"
 					silent: true
 					type: "command"
@@ -7731,6 +8263,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "51C0A488B2314EFA"
 					silent: true
 					type: "command"
@@ -7738,6 +8271,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "52114EDB3C6E6722"
 					silent: true
 					type: "command"
@@ -7760,6 +8294,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "11C4DB2DF1C27720"
 					silent: true
 					type: "command"
@@ -7767,6 +8302,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "02522ACEE887BACB"
 					silent: true
 					type: "command"
@@ -7789,6 +8325,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "0B09AA81FDAD19C9"
 					silent: true
 					type: "command"
@@ -7796,6 +8333,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "2AAA032B288F1731"
 					silent: true
 					type: "command"
@@ -7818,6 +8356,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "1ADF3DAEE3D32215"
 					silent: true
 					type: "command"
@@ -7825,6 +8364,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "17ACA178B8B0AD42"
 					silent: true
 					type: "command"
@@ -7847,6 +8387,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "24DE0BD30D4C8AE1"
 					silent: true
 					type: "command"
@@ -7854,6 +8395,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "4575D3BF5761C612"
 					silent: true
 					type: "command"
@@ -7876,6 +8418,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "05B096254608F01F"
 					silent: true
 					type: "command"
@@ -7883,6 +8426,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "5116659B88A4CC8B"
 					silent: true
 					type: "command"
@@ -7905,6 +8449,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "5561F4BCFFD80621"
 					silent: true
 					type: "command"
@@ -7912,6 +8457,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "2B3EE1EC565CC224"
 					silent: true
 					type: "command"
@@ -7934,6 +8480,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "7BF4356309E61CFB"
 					silent: true
 					type: "command"
@@ -7941,6 +8488,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "0C441D5D6B1FD200"
 					silent: true
 					type: "command"
@@ -7963,6 +8511,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "3253E40C83128A1D"
 					silent: true
 					type: "command"
@@ -7970,6 +8519,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "7BE3A7DDA0E60EB1"
 					silent: true
 					type: "command"
@@ -7992,6 +8542,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "5C2D958C7DACCEBB"
 					silent: true
 					type: "command"
@@ -7999,6 +8550,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "3AE4F3A88BB3C3B4"
 					silent: true
 					type: "command"
@@ -8021,6 +8573,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "317C4886E5D3E5B5"
 					silent: true
 					type: "command"
@@ -8028,6 +8581,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "6A370C03CD96D792"
 					silent: true
 					type: "command"
@@ -8050,6 +8604,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "6761030E0789F188"
 					silent: true
 					type: "command"
@@ -8057,6 +8612,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "09A6D9EA5EC7F6C3"
 					silent: true
 					type: "command"
@@ -8079,6 +8635,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "735A28E0285184EF"
 					silent: true
 					type: "command"
@@ -8086,6 +8643,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "33AC5A57103277B9"
 					silent: true
 					type: "command"
@@ -8108,6 +8666,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "255F6769F77C3ABC"
 					silent: true
 					type: "command"
@@ -8115,6 +8674,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "51F21A98649BAE18"
 					silent: true
 					type: "command"
@@ -8137,6 +8697,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "4D35A2337A050E4D"
 					silent: true
 					type: "command"
@@ -8144,6 +8705,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "2D7026C0074A4DA7"
 					silent: true
 					type: "command"
@@ -8166,6 +8728,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "559086B23E8F3A56"
 					silent: true
 					type: "command"
@@ -8173,6 +8736,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "4AA541763B243530"
 					silent: true
 					type: "command"
@@ -8195,6 +8759,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "4EB2FF58F7DE0773"
 					silent: true
 					type: "command"
@@ -8202,6 +8767,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "0FCD94F28BB304C3"
 					silent: true
 					type: "command"
@@ -8224,6 +8790,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "2AF8C006EE12047B"
 					silent: true
 					type: "command"
@@ -8231,6 +8798,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "530B84EC4384F8CF"
 					silent: true
 					type: "command"
@@ -8253,6 +8821,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "3BB885E05F964EA8"
 					silent: true
 					type: "command"
@@ -8260,6 +8829,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "4FEE04B590006E40"
 					silent: true
 					type: "command"
@@ -8282,6 +8852,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "7DDD119A17768337"
 					silent: true
 					type: "command"
@@ -8289,6 +8860,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "360561A20A94BED9"
 					silent: true
 					type: "command"
@@ -8311,6 +8883,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "089791DA580B17E0"
 					silent: true
 					type: "command"
@@ -8318,6 +8891,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "2890CAAC529E29FC"
 					silent: true
 					type: "command"
@@ -8340,6 +8914,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "567165AF29B83193"
 					silent: true
 					type: "command"
@@ -8347,6 +8922,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "3B580E53EEDB970F"
 					silent: true
 					type: "command"
@@ -8369,6 +8945,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "6BCE7E9CA2887C9B"
 					silent: true
 					type: "command"
@@ -8376,6 +8953,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "06BD67AB8B708D6A"
 					silent: true
 					type: "command"
@@ -8398,6 +8976,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "61D272721E2F3249"
 					silent: true
 					type: "command"
@@ -8405,6 +8984,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "24509F6553754BA2"
 					silent: true
 					type: "command"
@@ -8427,6 +9007,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "0F1F59E6FE41537E"
 					silent: true
 					type: "command"
@@ -8434,6 +9015,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "3B1244D7370AB530"
 					silent: true
 					type: "command"
@@ -8456,6 +9038,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "504D52BC83756902"
 					silent: true
 					type: "command"
@@ -8463,6 +9046,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "5CD069D0A548D0D1"
 					silent: true
 					type: "command"
@@ -8485,6 +9069,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "0B6F80571CC32F5A"
 					silent: true
 					type: "command"
@@ -8492,6 +9077,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "34E0057CB115D791"
 					silent: true
 					type: "command"
@@ -8514,6 +9100,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "4FA40A6A58F7F44D"
 					silent: true
 					type: "command"
@@ -8521,6 +9108,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "5EA97F833A46C600"
 					silent: true
 					type: "command"
@@ -8543,6 +9131,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "1D7ECA21AAA5DE42"
 					silent: true
 					type: "command"
@@ -8550,6 +9139,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "62E3823D3CD93CB3"
 					silent: true
 					type: "command"
@@ -8572,6 +9162,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "5190EC4C67777F40"
 					silent: true
 					type: "command"
@@ -8579,6 +9170,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "7D6AFBC917E0C8C3"
 					silent: true
 					type: "command"
@@ -8601,6 +9193,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "6D25E29218D02B6C"
 					silent: true
 					type: "command"
@@ -8608,6 +9201,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "222B4BE320E95983"
 					silent: true
 					type: "command"
@@ -8630,6 +9224,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "5FF13BDAE3618B4A"
 					silent: true
 					type: "command"
@@ -8637,6 +9232,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "1991191E4C11C7C9"
 					silent: true
 					type: "command"
@@ -8659,6 +9255,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "3458F36E755961FB"
 					silent: true
 					type: "command"
@@ -8666,6 +9263,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "5D1174E55B33E129"
 					silent: true
 					type: "command"
@@ -8688,6 +9286,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "5B3BE3BDBD5F2DB0"
 					silent: true
 					type: "command"
@@ -8695,6 +9294,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "2EA9797592499AE4"
 					silent: true
 					type: "command"
@@ -8717,6 +9317,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "0DFBCBCF93E2EEF0"
 					silent: true
 					type: "command"
@@ -8724,6 +9325,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "5F5FF0CB1CF46979"
 					silent: true
 					type: "command"
@@ -8746,6 +9348,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "07DC896CCAF963C2"
 					silent: true
 					type: "command"
@@ -8753,6 +9356,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "264FE51B88A54602"
 					silent: true
 					type: "command"
@@ -8775,6 +9379,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "49EFDAA843EDD03A"
 					silent: true
 					type: "command"
@@ -8782,6 +9387,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "2C361D5B5E622CFB"
 					silent: true
 					type: "command"
@@ -8804,6 +9410,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "3D43FCCB87A4450A"
 					silent: true
 					type: "command"
@@ -8811,6 +9418,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "4971143B0CC6315D"
 					silent: true
 					type: "command"
@@ -8833,6 +9441,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "79B0A637E22B1E39"
 					silent: true
 					type: "command"
@@ -8840,6 +9449,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "5179AEDE6C8F5E85"
 					silent: true
 					type: "command"
@@ -8862,6 +9472,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "0B2C2357A580C90C"
 					silent: true
 					type: "command"
@@ -8869,6 +9480,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "09FDCB84B5EDD28A"
 					silent: true
 					type: "command"
@@ -8891,6 +9503,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "0F5F362399A50533"
 					silent: true
 					type: "command"
@@ -8898,6 +9511,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "479604ED3EFF44D8"
 					silent: true
 					type: "command"
@@ -8920,6 +9534,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "4C946185D5A4CA0F"
 					silent: true
 					type: "command"
@@ -8927,6 +9542,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "6AC2ABD50D9C859C"
 					silent: true
 					type: "command"
@@ -8949,6 +9565,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "697FC9C354906F09"
 					silent: true
 					type: "command"
@@ -8956,6 +9573,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "5AB86B337F14CC58"
 					silent: true
 					type: "command"
@@ -8978,6 +9596,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "3E4204E4DD533F1E"
 					silent: true
 					type: "command"
@@ -8985,6 +9604,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "4106E561C0AF0BC1"
 					silent: true
 					type: "command"
@@ -9007,6 +9627,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "5530CF7F5035ACC2"
 					silent: true
 					type: "command"
@@ -9014,6 +9635,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "10344B56E59B63ED"
 					silent: true
 					type: "command"
@@ -9036,6 +9658,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "05BC2042B924A718"
 					silent: true
 					type: "command"
@@ -9043,6 +9666,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "6BB912C0624C0039"
 					silent: true
 					type: "command"
@@ -9065,6 +9689,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "499A4B062DFFB706"
 					silent: true
 					type: "command"
@@ -9072,6 +9697,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "1029B5362B6F140D"
 					silent: true
 					type: "command"
@@ -9094,6 +9720,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "0CFCAEBDC47E5123"
 					silent: true
 					type: "command"
@@ -9101,6 +9728,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "5F784919F180D640"
 					silent: true
 					type: "command"
@@ -9123,6 +9751,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "19B0B7881DA0C4A2"
 					silent: true
 					type: "command"
@@ -9130,6 +9759,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "4EBE94EF8DC8EF7E"
 					silent: true
 					type: "command"
@@ -9152,6 +9782,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "29BA2ADB603D24EE"
 					silent: true
 					type: "command"
@@ -9159,6 +9790,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "28D041EEB00E2F13"
 					silent: true
 					type: "command"
@@ -9181,6 +9813,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "0B5CA78BA9A0C6C7"
 					silent: true
 					type: "command"
@@ -9188,6 +9821,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "7DDA16CDB07DAC01"
 					silent: true
 					type: "command"
@@ -9210,6 +9844,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "70784BE211C67E81"
 					silent: true
 					type: "command"
@@ -9217,6 +9852,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "0394E112F563B2FC"
 					silent: true
 					type: "command"
@@ -9239,6 +9875,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "0A2FAE7A4F0BA7CC"
 					silent: true
 					type: "command"
@@ -9246,6 +9883,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "25FEE94CDE2FCFA6"
 					silent: true
 					type: "command"
@@ -9268,6 +9906,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "70A3CF59691F3171"
 					silent: true
 					type: "command"
@@ -9275,6 +9914,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "46DFDE1B1E63DBCA"
 					silent: true
 					type: "command"
@@ -9297,6 +9937,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "5617931ECAE408EE"
 					silent: true
 					type: "command"
@@ -9304,6 +9945,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "1B4A66B04226FFAB"
 					silent: true
 					type: "command"
@@ -9326,6 +9968,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "4856DBD1ED88F03A"
 					silent: true
 					type: "command"
@@ -9333,6 +9976,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "453E6B9CE97386DB"
 					silent: true
 					type: "command"
@@ -9355,6 +9999,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "7DEA373461B3F42A"
 					silent: true
 					type: "command"
@@ -9362,6 +10007,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "38D6E7A4B715FCFC"
 					silent: true
 					type: "command"
@@ -9384,6 +10030,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "27D098100151DCF9"
 					silent: true
 					type: "command"
@@ -9391,6 +10038,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "67D008731883A4BB"
 					silent: true
 					type: "command"
@@ -9413,6 +10061,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "5873CEF5D336F1A8"
 					silent: true
 					type: "command"
@@ -9420,6 +10069,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "2BB7060B1710BE17"
 					silent: true
 					type: "command"
@@ -9442,6 +10092,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "13AE4ACC472FDAE4"
 					silent: true
 					type: "command"
@@ -9449,6 +10100,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "3A13686B57C989B9"
 					silent: true
 					type: "command"
@@ -9471,6 +10123,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "6E28E5D710DA72B3"
 					silent: true
 					type: "command"
@@ -9478,6 +10131,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "50D90C029235A564"
 					silent: true
 					type: "command"
@@ -9500,6 +10154,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "0EC39B7B891C0BDC"
 					silent: true
 					type: "command"
@@ -9507,6 +10162,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "062A6E730767394C"
 					silent: true
 					type: "command"
@@ -9529,6 +10185,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "4B1464DB8F9C403C"
 					silent: true
 					type: "command"
@@ -9536,6 +10193,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "4C854A8465B22A44"
 					silent: true
 					type: "command"
@@ -9558,6 +10216,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "19CF9D656DE3A47E"
 					silent: true
 					type: "command"
@@ -9565,6 +10224,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "7D8D4F21CB784321"
 					silent: true
 					type: "command"
@@ -9587,6 +10247,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "57239E51BDB4B0D6"
 					silent: true
 					type: "command"
@@ -9594,6 +10255,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "359E8196D4A507CC"
 					silent: true
 					type: "command"
@@ -9616,6 +10278,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "4077C5D02F8DA0C0"
 					silent: true
 					type: "command"
@@ -9623,6 +10286,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "40DB7097A4B738BD"
 					silent: true
 					type: "command"
@@ -9645,6 +10309,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "071E2D917A8CA8A8"
 					silent: true
 					type: "command"
@@ -9652,6 +10317,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "33184C64A4217755"
 					silent: true
 					type: "command"
@@ -9674,6 +10340,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p common_decoration 1"
+					elevate_perms: true
 					id: "42EFE5F993647FDE"
 					silent: true
 					type: "command"
@@ -9681,6 +10348,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new common decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"common_decoration\"}},{\"text\":\" unique common decoration(s)!\"}]"
+					elevate_perms: true
 					id: "066607B7D4AD2A21"
 					silent: true
 					type: "command"

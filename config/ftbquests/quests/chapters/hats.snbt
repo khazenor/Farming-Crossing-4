@@ -17,6 +17,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "4C9C713B3F14E2B9"
 					silent: true
 					type: "command"
@@ -24,6 +25,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "61FA802C2D678AC8"
 					silent: true
 					type: "command"
@@ -46,6 +48,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "60941D81CE399A51"
 					silent: true
 					type: "command"
@@ -53,6 +56,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "07F5BFEB45F34ABA"
 					silent: true
 					type: "command"
@@ -75,6 +79,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "4DBD3B13590C0960"
 					silent: true
 					type: "command"
@@ -82,6 +87,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "6B2316DB6F609DCF"
 					silent: true
 					type: "command"
@@ -104,6 +110,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "643C18E23ABBB374"
 					silent: true
 					type: "command"
@@ -111,6 +118,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "7B3E7D03A786091F"
 					silent: true
 					type: "command"
@@ -133,6 +141,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "3B25098A92F95B36"
 					silent: true
 					type: "command"
@@ -140,6 +149,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "37D38249B35E9B16"
 					silent: true
 					type: "command"
@@ -162,6 +172,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "7252F8A345C4E6BF"
 					silent: true
 					type: "command"
@@ -169,6 +180,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "544645E541FCD7B3"
 					silent: true
 					type: "command"
@@ -191,6 +203,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "7F65026F21EB27FC"
 					silent: true
 					type: "command"
@@ -198,6 +211,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "3DB9BD7BA62D172A"
 					silent: true
 					type: "command"
@@ -220,6 +234,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "214FB270DF5AC613"
 					silent: true
 					type: "command"
@@ -227,6 +242,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "0E495780507DCE1E"
 					silent: true
 					type: "command"
@@ -249,6 +265,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "6695B1F585DCCB2B"
 					silent: true
 					type: "command"
@@ -256,6 +273,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "5299056359652F54"
 					silent: true
 					type: "command"
@@ -278,6 +296,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "59E4C94538C57A7C"
 					silent: true
 					type: "command"
@@ -285,6 +304,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "0C2DD631B5D6299A"
 					silent: true
 					type: "command"
@@ -307,6 +327,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "43E6866A5E425EA4"
 					silent: true
 					type: "command"
@@ -314,6 +335,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "427B88F6AE58DAB4"
 					silent: true
 					type: "command"
@@ -336,6 +358,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "09C63B11D6D06389"
 					silent: true
 					type: "command"
@@ -343,6 +366,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "3A7821EF01036370"
 					silent: true
 					type: "command"
@@ -365,6 +389,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "7439E5FFAE39BF30"
 					silent: true
 					type: "command"
@@ -372,6 +397,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "54600339757E5A61"
 					silent: true
 					type: "command"
@@ -394,6 +420,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "47DA720423762508"
 					silent: true
 					type: "command"
@@ -401,6 +428,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "7A90C6BAC3A6011B"
 					silent: true
 					type: "command"
@@ -423,6 +451,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "694ADD08AF53C992"
 					silent: true
 					type: "command"
@@ -430,6 +459,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "64AD2722A599E820"
 					silent: true
 					type: "command"
@@ -452,6 +482,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "2EE5A3197610EBBD"
 					silent: true
 					type: "command"
@@ -459,6 +490,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "1D8B7C97CB57C008"
 					silent: true
 					type: "command"
@@ -481,6 +513,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "0A798F4965909F94"
 					silent: true
 					type: "command"
@@ -488,6 +521,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "392174A5D28DE0E4"
 					silent: true
 					type: "command"
@@ -510,6 +544,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "70CB8D59A3AFB0F9"
 					silent: true
 					type: "command"
@@ -517,6 +552,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "1BAA6D6327186E8A"
 					silent: true
 					type: "command"
@@ -539,6 +575,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "72684F34FC2E1BAB"
 					silent: true
 					type: "command"
@@ -546,6 +583,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "7F7B26064926F3E0"
 					silent: true
 					type: "command"
@@ -568,6 +606,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "625077727CA1BD83"
 					silent: true
 					type: "command"
@@ -575,6 +614,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "08698A5B5E3B20C6"
 					silent: true
 					type: "command"
@@ -597,6 +637,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "36723B8F150E24A2"
 					silent: true
 					type: "command"
@@ -604,6 +645,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "79774DE47E412623"
 					silent: true
 					type: "command"
@@ -626,6 +668,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "3ABFBC47C8FFDD2E"
 					silent: true
 					type: "command"
@@ -633,6 +676,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "41679A6ADC8362DE"
 					silent: true
 					type: "command"
@@ -655,6 +699,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "41731536E0C3B77C"
 					silent: true
 					type: "command"
@@ -662,6 +707,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "5F47001E134EDB2F"
 					silent: true
 					type: "command"
@@ -684,6 +730,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "4C70A905DF31FF4C"
 					silent: true
 					type: "command"
@@ -691,6 +738,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "761528BF5F60DCB4"
 					silent: true
 					type: "command"
@@ -713,6 +761,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "2AA84EC1E7219171"
 					silent: true
 					type: "command"
@@ -720,6 +769,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "73392AE205E273F0"
 					silent: true
 					type: "command"
@@ -742,6 +792,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "635021664D53471E"
 					silent: true
 					type: "command"
@@ -749,6 +800,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "0B7E407337402404"
 					silent: true
 					type: "command"
@@ -771,6 +823,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "1F41671479382829"
 					silent: true
 					type: "command"
@@ -778,6 +831,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "581525FE42B135F7"
 					silent: true
 					type: "command"
@@ -800,6 +854,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "5D889E18338F9F5A"
 					silent: true
 					type: "command"
@@ -807,6 +862,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "7E9C4A4B44602EEE"
 					silent: true
 					type: "command"
@@ -829,6 +885,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "74E27C3B27B66572"
 					silent: true
 					type: "command"
@@ -836,6 +893,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "32B824330C7B2A9A"
 					silent: true
 					type: "command"
@@ -858,6 +916,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "480D76EFFCCD6CF1"
 					silent: true
 					type: "command"
@@ -865,6 +924,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "5D1B330A45BD670C"
 					silent: true
 					type: "command"
@@ -887,6 +947,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "60E52EAAC64B9534"
 					silent: true
 					type: "command"
@@ -894,6 +955,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "52BA8153209C9F3F"
 					silent: true
 					type: "command"
@@ -916,6 +978,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "0A0A72F013DAE875"
 					silent: true
 					type: "command"
@@ -923,6 +986,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "52419F5DFFA6648F"
 					silent: true
 					type: "command"
@@ -945,6 +1009,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "0D1DFD3F88223787"
 					silent: true
 					type: "command"
@@ -952,6 +1017,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "1895FC82A4172F8D"
 					silent: true
 					type: "command"
@@ -974,6 +1040,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "40D3AFC588954B03"
 					silent: true
 					type: "command"
@@ -981,6 +1048,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "14B7572170E88C3B"
 					silent: true
 					type: "command"
@@ -1003,6 +1071,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "4C2FD88FCBD0687D"
 					silent: true
 					type: "command"
@@ -1010,6 +1079,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "4A9893D017C6116E"
 					silent: true
 					type: "command"
@@ -1032,6 +1102,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "06A93919A72A4DE1"
 					silent: true
 					type: "command"
@@ -1039,6 +1110,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "5EE72411CE738E13"
 					silent: true
 					type: "command"
@@ -1061,6 +1133,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "1FC51011AC41630B"
 					silent: true
 					type: "command"
@@ -1068,6 +1141,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "4A50A34F4491D35C"
 					silent: true
 					type: "command"
@@ -1090,6 +1164,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "1EAEC58820320220"
 					silent: true
 					type: "command"
@@ -1097,6 +1172,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "0D7007C85AE316B2"
 					silent: true
 					type: "command"
@@ -1119,6 +1195,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "66E1CB3B2A48B466"
 					silent: true
 					type: "command"
@@ -1126,6 +1203,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "466412B872205BBF"
 					silent: true
 					type: "command"
@@ -1148,6 +1226,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "5E6696207BD48557"
 					silent: true
 					type: "command"
@@ -1155,6 +1234,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "5AF6A73DC3873215"
 					silent: true
 					type: "command"
@@ -1177,6 +1257,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "40A24697A3B5E9C9"
 					silent: true
 					type: "command"
@@ -1184,6 +1265,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "5A17EBF7417D8B64"
 					silent: true
 					type: "command"
@@ -1206,6 +1288,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "3A527E4EFCD68AA7"
 					silent: true
 					type: "command"
@@ -1213,6 +1296,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "0D05970FDD59053A"
 					silent: true
 					type: "command"
@@ -1235,6 +1319,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "2D63C65B3C9B15E1"
 					silent: true
 					type: "command"
@@ -1242,6 +1327,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "4E2752DFAEA63EE0"
 					silent: true
 					type: "command"
@@ -1264,6 +1350,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "031C3AD051D508C1"
 					silent: true
 					type: "command"
@@ -1271,6 +1358,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "771A70BD4C83DFED"
 					silent: true
 					type: "command"
@@ -1293,6 +1381,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "13EE152713C2B897"
 					silent: true
 					type: "command"
@@ -1300,6 +1389,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "747E21F7C29FE540"
 					silent: true
 					type: "command"
@@ -1322,6 +1412,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "614059096B4E7C1D"
 					silent: true
 					type: "command"
@@ -1329,6 +1420,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "59251BF3F1718FC5"
 					silent: true
 					type: "command"
@@ -1351,6 +1443,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "3ED46C545C48FFC9"
 					silent: true
 					type: "command"
@@ -1358,6 +1451,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "652CAA04A061CD00"
 					silent: true
 					type: "command"
@@ -1380,6 +1474,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "4DE08DCA9CDE33C0"
 					silent: true
 					type: "command"
@@ -1387,6 +1482,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "773CA566A8ABEECC"
 					silent: true
 					type: "command"
@@ -1409,6 +1505,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "392A44D983C66223"
 					silent: true
 					type: "command"
@@ -1416,6 +1513,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "70DE486397FDB600"
 					silent: true
 					type: "command"
@@ -1438,6 +1536,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "482C16040A1C04DA"
 					silent: true
 					type: "command"
@@ -1445,6 +1544,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "7849B1D1D8C96B26"
 					silent: true
 					type: "command"
@@ -1467,6 +1567,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "1FF6540DE0C29E92"
 					silent: true
 					type: "command"
@@ -1474,6 +1575,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "54BF04C38B80F10E"
 					silent: true
 					type: "command"
@@ -1496,6 +1598,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "542CE36F4129C78B"
 					silent: true
 					type: "command"
@@ -1503,6 +1606,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "4C9D1BAD2DCEC6C6"
 					silent: true
 					type: "command"
@@ -1525,6 +1629,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "4FDAF60DCBFCE5D8"
 					silent: true
 					type: "command"
@@ -1532,6 +1637,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "06E2492A51E84078"
 					silent: true
 					type: "command"
@@ -1554,6 +1660,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "49A4DA064A2BD212"
 					silent: true
 					type: "command"
@@ -1561,6 +1668,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "6F651065EF4CBE0C"
 					silent: true
 					type: "command"
@@ -1583,6 +1691,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "4732ACA81B23714C"
 					silent: true
 					type: "command"
@@ -1590,6 +1699,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "0E06B469C2028BA2"
 					silent: true
 					type: "command"
@@ -1612,6 +1722,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "21BA73D22CFC9D3F"
 					silent: true
 					type: "command"
@@ -1619,6 +1730,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "7C2F398C789F60BD"
 					silent: true
 					type: "command"
@@ -1641,6 +1753,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "49899AD94A70E16F"
 					silent: true
 					type: "command"
@@ -1648,6 +1761,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "5BB67B85DAE36CB3"
 					silent: true
 					type: "command"
@@ -1670,6 +1784,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "75844A7CDBCBFB4C"
 					silent: true
 					type: "command"
@@ -1677,6 +1792,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "5D09E0172882318B"
 					silent: true
 					type: "command"
@@ -1699,6 +1815,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "47A895ACFFD9245B"
 					silent: true
 					type: "command"
@@ -1706,6 +1823,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "7F4F4182CAF74344"
 					silent: true
 					type: "command"
@@ -1728,6 +1846,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "12EF86623D6D422F"
 					silent: true
 					type: "command"
@@ -1735,6 +1854,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "12F7C90AD8FEFF6E"
 					silent: true
 					type: "command"
@@ -1757,6 +1877,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "465E489315C40205"
 					silent: true
 					type: "command"
@@ -1764,6 +1885,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "216B87E1F6A1671F"
 					silent: true
 					type: "command"
@@ -1786,6 +1908,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "7D2A193F372C3B14"
 					silent: true
 					type: "command"
@@ -1793,6 +1916,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "58C47DF6F6FC9DD8"
 					silent: true
 					type: "command"
@@ -1815,6 +1939,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "29AD52CB053A9177"
 					silent: true
 					type: "command"
@@ -1822,6 +1947,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "359ADBDF4A8E72C5"
 					silent: true
 					type: "command"
@@ -1844,6 +1970,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "2905F0010FD60358"
 					silent: true
 					type: "command"
@@ -1851,6 +1978,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "05BC6C20B57AB949"
 					silent: true
 					type: "command"
@@ -1873,6 +2001,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "504CC6128B9CFFF9"
 					silent: true
 					type: "command"
@@ -1880,6 +2009,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "60FA7F8CBABB5AB7"
 					silent: true
 					type: "command"
@@ -1902,6 +2032,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "3372B780FAD6FB50"
 					silent: true
 					type: "command"
@@ -1909,6 +2040,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "653E600615BF4711"
 					silent: true
 					type: "command"
@@ -1931,6 +2063,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "2B3848AFF4665AEF"
 					silent: true
 					type: "command"
@@ -1938,6 +2071,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "32BFD3217B203A2B"
 					silent: true
 					type: "command"
@@ -1960,6 +2094,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "2469EDF91213A670"
 					silent: true
 					type: "command"
@@ -1967,6 +2102,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "67AF36D8CCBF55A9"
 					silent: true
 					type: "command"
@@ -1989,6 +2125,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "270A6A3AA1555A83"
 					silent: true
 					type: "command"
@@ -1996,6 +2133,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "01036F7EB26255BD"
 					silent: true
 					type: "command"
@@ -2018,6 +2156,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "207825684F114457"
 					silent: true
 					type: "command"
@@ -2025,6 +2164,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "0976490AB4E30393"
 					silent: true
 					type: "command"
@@ -2047,6 +2187,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "5C0865FECAB55369"
 					silent: true
 					type: "command"
@@ -2054,6 +2195,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "2C6717484E5A2878"
 					silent: true
 					type: "command"
@@ -2076,6 +2218,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "502275FD9A87E1B3"
 					silent: true
 					type: "command"
@@ -2083,6 +2226,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "7770742A39D8C4B9"
 					silent: true
 					type: "command"
@@ -2105,6 +2249,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "26BC1505D314A9CA"
 					silent: true
 					type: "command"
@@ -2112,6 +2257,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "654DE8490BD52C62"
 					silent: true
 					type: "command"
@@ -2134,6 +2280,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "25CB79A4A2BE2ADC"
 					silent: true
 					type: "command"
@@ -2141,6 +2288,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "3565030F686C73FA"
 					silent: true
 					type: "command"
@@ -2163,6 +2311,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "5FBFEB411507E0D3"
 					silent: true
 					type: "command"
@@ -2170,6 +2319,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "55ABC3FD7F9F2B13"
 					silent: true
 					type: "command"
@@ -2192,6 +2342,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "054A9CAB9BDCB1E8"
 					silent: true
 					type: "command"
@@ -2199,6 +2350,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "722F97E26C7C6434"
 					silent: true
 					type: "command"
@@ -2221,6 +2373,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "4F25A4F67F5D5D9F"
 					silent: true
 					type: "command"
@@ -2228,6 +2381,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "5A5AD11943DEE7B8"
 					silent: true
 					type: "command"
@@ -2250,6 +2404,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "1D3BDB8E89218527"
 					silent: true
 					type: "command"
@@ -2257,6 +2412,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "33209558675673B9"
 					silent: true
 					type: "command"
@@ -2279,6 +2435,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "5A3A33B81EF54FEC"
 					silent: true
 					type: "command"
@@ -2286,6 +2443,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "34D5A5D2E5A14E2B"
 					silent: true
 					type: "command"
@@ -2308,6 +2466,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "47B9B6C618016ECD"
 					silent: true
 					type: "command"
@@ -2315,6 +2474,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "1CD93534A50586DB"
 					silent: true
 					type: "command"
@@ -2337,6 +2497,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "6B445CBC7194CDDB"
 					silent: true
 					type: "command"
@@ -2344,6 +2505,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "3CF1564172E1A41D"
 					silent: true
 					type: "command"
@@ -2366,6 +2528,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "0D526B4AF08A1E6E"
 					silent: true
 					type: "command"
@@ -2373,6 +2536,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "4B24F865C30B85B5"
 					silent: true
 					type: "command"
@@ -2395,6 +2559,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "01240D6EDF88592A"
 					silent: true
 					type: "command"
@@ -2402,6 +2567,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "06319FB3CE8F439C"
 					silent: true
 					type: "command"
@@ -2424,6 +2590,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "408841CC11D2271E"
 					silent: true
 					type: "command"
@@ -2431,6 +2598,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "2708D2E00F7D6BF7"
 					silent: true
 					type: "command"
@@ -2453,6 +2621,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "72B15E550EBE5991"
 					silent: true
 					type: "command"
@@ -2460,6 +2629,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "19EAB875D78D053E"
 					silent: true
 					type: "command"
@@ -2482,6 +2652,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "652BC850DD08C7AA"
 					silent: true
 					type: "command"
@@ -2489,6 +2660,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "052D6038F41297CE"
 					silent: true
 					type: "command"
@@ -2511,6 +2683,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "5C5ACCBC8A8807C8"
 					silent: true
 					type: "command"
@@ -2518,6 +2691,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "5AD97EE7AC226E5B"
 					silent: true
 					type: "command"
@@ -2540,6 +2714,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "7D27E8C5F9E055A2"
 					silent: true
 					type: "command"
@@ -2547,6 +2722,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "45A7BA4593A932A3"
 					silent: true
 					type: "command"
@@ -2569,6 +2745,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "5B278C832F77F870"
 					silent: true
 					type: "command"
@@ -2576,6 +2753,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "53C7A5F7ACFB50DF"
 					silent: true
 					type: "command"
@@ -2598,6 +2776,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "27445E73BCC630B1"
 					silent: true
 					type: "command"
@@ -2605,6 +2784,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "1EA32E736CC51992"
 					silent: true
 					type: "command"
@@ -2627,6 +2807,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "0A076D768C0C4388"
 					silent: true
 					type: "command"
@@ -2634,6 +2815,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "59516C662CAF9D90"
 					silent: true
 					type: "command"
@@ -2656,6 +2838,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "51DDCB6345F1458A"
 					silent: true
 					type: "command"
@@ -2663,6 +2846,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "11E343A8B47B38DA"
 					silent: true
 					type: "command"
@@ -2685,6 +2869,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "31B73C3B95AEE715"
 					silent: true
 					type: "command"
@@ -2692,6 +2877,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "6B8B1A695DCAF1BB"
 					silent: true
 					type: "command"
@@ -2714,6 +2900,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "1D0D8F06148DFE8B"
 					silent: true
 					type: "command"
@@ -2721,6 +2908,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "09FED1BAB1E65E1E"
 					silent: true
 					type: "command"
@@ -2743,6 +2931,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "5C06371BCE643E73"
 					silent: true
 					type: "command"
@@ -2750,6 +2939,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "034AF3BFAD08DC2D"
 					silent: true
 					type: "command"
@@ -2772,6 +2962,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "27BB78397AC36272"
 					silent: true
 					type: "command"
@@ -2779,6 +2970,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "5BD7A995CF1130AC"
 					silent: true
 					type: "command"
@@ -2801,6 +2993,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "77D14EF148BE5C03"
 					silent: true
 					type: "command"
@@ -2808,6 +3001,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "6A34B36E4B62F575"
 					silent: true
 					type: "command"
@@ -2830,6 +3024,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "21D4AEA643EB53E6"
 					silent: true
 					type: "command"
@@ -2837,6 +3032,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "05AFE8C669827222"
 					silent: true
 					type: "command"
@@ -2859,6 +3055,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "5641486CC9943117"
 					silent: true
 					type: "command"
@@ -2866,6 +3063,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "14ABB6C03AF35852"
 					silent: true
 					type: "command"
@@ -2888,6 +3086,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "435AFE993F3553DE"
 					silent: true
 					type: "command"
@@ -2895,6 +3094,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "007B5AF53CB55CC6"
 					silent: true
 					type: "command"
@@ -2917,6 +3117,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "22A5F04C3A25ADC9"
 					silent: true
 					type: "command"
@@ -2924,6 +3125,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "280D5FEA3C32C63B"
 					silent: true
 					type: "command"
@@ -2946,6 +3148,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "32546B8D1C41C4C2"
 					silent: true
 					type: "command"
@@ -2953,6 +3156,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "23356D047AC04FDA"
 					silent: true
 					type: "command"
@@ -2975,6 +3179,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "17CF7DC69526C547"
 					silent: true
 					type: "command"
@@ -2982,6 +3187,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "7C4EBF62344E55B6"
 					silent: true
 					type: "command"
@@ -3004,6 +3210,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "6C891758C6DAE88C"
 					silent: true
 					type: "command"
@@ -3011,6 +3218,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "223E8B608AA5497D"
 					silent: true
 					type: "command"
@@ -3033,6 +3241,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "12111E5C011632AC"
 					silent: true
 					type: "command"
@@ -3040,6 +3249,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "162D4E6D3E92FEE2"
 					silent: true
 					type: "command"
@@ -3062,6 +3272,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "3E04BD12227CB60E"
 					silent: true
 					type: "command"
@@ -3069,6 +3280,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "78C4E25D2CD62CF8"
 					silent: true
 					type: "command"
@@ -3091,6 +3303,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "3D759EF9CC5EA00E"
 					silent: true
 					type: "command"
@@ -3098,6 +3311,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "48F5FBE7B3B7B064"
 					silent: true
 					type: "command"
@@ -3120,6 +3334,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "1AA9BE9174151CE5"
 					silent: true
 					type: "command"
@@ -3127,6 +3342,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "5BC2FBAC9661FAD0"
 					silent: true
 					type: "command"
@@ -3149,6 +3365,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "2A633FCB68951AEF"
 					silent: true
 					type: "command"
@@ -3156,6 +3373,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "65F81650B77C5C1D"
 					silent: true
 					type: "command"
@@ -3178,6 +3396,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "231A2F26B8C231E9"
 					silent: true
 					type: "command"
@@ -3185,6 +3404,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "06B66CA7534CE8E5"
 					silent: true
 					type: "command"
@@ -3207,6 +3427,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "267AD0C42195FCE5"
 					silent: true
 					type: "command"
@@ -3214,6 +3435,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "4792CD05301131B2"
 					silent: true
 					type: "command"
@@ -3236,6 +3458,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "07EA6EBC0C373C52"
 					silent: true
 					type: "command"
@@ -3243,6 +3466,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "72FD964392985C5D"
 					silent: true
 					type: "command"
@@ -3265,6 +3489,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "22B2D7DA0E5BA7C9"
 					silent: true
 					type: "command"
@@ -3272,6 +3497,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "6B1824BA30024783"
 					silent: true
 					type: "command"
@@ -3294,6 +3520,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "586E654A7AF037CB"
 					silent: true
 					type: "command"
@@ -3301,6 +3528,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "066A4F23CE98716B"
 					silent: true
 					type: "command"
@@ -3323,6 +3551,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "67188118EB936BFC"
 					silent: true
 					type: "command"
@@ -3330,6 +3559,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "171EB208F93149EB"
 					silent: true
 					type: "command"
@@ -3352,6 +3582,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "291064C3321ED956"
 					silent: true
 					type: "command"
@@ -3359,6 +3590,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "4129B2FA7E5C5FBA"
 					silent: true
 					type: "command"
@@ -3381,6 +3613,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "086EA18C98C54207"
 					silent: true
 					type: "command"
@@ -3388,6 +3621,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "12954415C092DD0C"
 					silent: true
 					type: "command"
@@ -3410,6 +3644,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "2DBC0CCFD0124CF4"
 					silent: true
 					type: "command"
@@ -3417,6 +3652,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "7998D6ADB8146240"
 					silent: true
 					type: "command"
@@ -3439,6 +3675,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "08254505FA01822E"
 					silent: true
 					type: "command"
@@ -3446,6 +3683,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "483BC7E354D77E13"
 					silent: true
 					type: "command"
@@ -3468,6 +3706,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "401BE1A489F09577"
 					silent: true
 					type: "command"
@@ -3475,6 +3714,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "1D60F13B238B2860"
 					silent: true
 					type: "command"
@@ -3497,6 +3737,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "0B1CABF72B8CEE91"
 					silent: true
 					type: "command"
@@ -3504,6 +3745,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "55F7CBE547BCA928"
 					silent: true
 					type: "command"
@@ -3526,6 +3768,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "559653BBE289050E"
 					silent: true
 					type: "command"
@@ -3533,6 +3776,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "5CF97120BA3795BB"
 					silent: true
 					type: "command"
@@ -3555,6 +3799,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "1C9F06711CDDF523"
 					silent: true
 					type: "command"
@@ -3562,6 +3807,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "0E48CFA60F5C631C"
 					silent: true
 					type: "command"
@@ -3584,6 +3830,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "0A3E43C17B09DD63"
 					silent: true
 					type: "command"
@@ -3591,6 +3838,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "192EAF5A67935674"
 					silent: true
 					type: "command"
@@ -3613,6 +3861,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "519F17FFB276667E"
 					silent: true
 					type: "command"
@@ -3620,6 +3869,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "480E0DA3A15010CD"
 					silent: true
 					type: "command"
@@ -3642,6 +3892,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "78F19AC64E3C8C03"
 					silent: true
 					type: "command"
@@ -3649,6 +3900,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "4A41BC5486C82F53"
 					silent: true
 					type: "command"
@@ -3671,6 +3923,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "1835AA5CA748DD0C"
 					silent: true
 					type: "command"
@@ -3678,6 +3931,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "0652D9CDE34A80FC"
 					silent: true
 					type: "command"
@@ -3700,6 +3954,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "706E0529179E1898"
 					silent: true
 					type: "command"
@@ -3707,6 +3962,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "27A61E9DBF453165"
 					silent: true
 					type: "command"
@@ -3729,6 +3985,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "4BE42AC3671AB621"
 					silent: true
 					type: "command"
@@ -3736,6 +3993,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "590FB8DD690D7DE0"
 					silent: true
 					type: "command"
@@ -3758,6 +4016,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "652E344E0663CACF"
 					silent: true
 					type: "command"
@@ -3765,6 +4024,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "6D7C064621EEA836"
 					silent: true
 					type: "command"
@@ -3787,6 +4047,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "3296AA8795A35456"
 					silent: true
 					type: "command"
@@ -3794,6 +4055,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "6DF8B08C25B2500C"
 					silent: true
 					type: "command"
@@ -3816,6 +4078,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "35E5AB75AEE4AC19"
 					silent: true
 					type: "command"
@@ -3823,6 +4086,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "508669935969C0FE"
 					silent: true
 					type: "command"
@@ -3845,6 +4109,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "04F55C93850B3E8A"
 					silent: true
 					type: "command"
@@ -3852,6 +4117,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "11BC9E67F9AE264D"
 					silent: true
 					type: "command"
@@ -3874,6 +4140,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "2C996E6391826B0A"
 					silent: true
 					type: "command"
@@ -3881,6 +4148,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "259AE498FF4A2B6C"
 					silent: true
 					type: "command"
@@ -3903,6 +4171,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "6D0469C90C121016"
 					silent: true
 					type: "command"
@@ -3910,6 +4179,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "41A666DF9E77D776"
 					silent: true
 					type: "command"
@@ -3932,6 +4202,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "701EC2B32FA1293C"
 					silent: true
 					type: "command"
@@ -3939,6 +4210,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "53A4CD4FE625744C"
 					silent: true
 					type: "command"
@@ -3961,6 +4233,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "7EE1739F062C140C"
 					silent: true
 					type: "command"
@@ -3968,6 +4241,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "1E80957C13891FD6"
 					silent: true
 					type: "command"
@@ -3990,6 +4264,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "6FEB9FB888D6701C"
 					silent: true
 					type: "command"
@@ -3997,6 +4272,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "4A57AF612685147E"
 					silent: true
 					type: "command"
@@ -4019,6 +4295,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "74A3F01B711EA5BB"
 					silent: true
 					type: "command"
@@ -4026,6 +4303,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "1F067C57C062DFE9"
 					silent: true
 					type: "command"
@@ -4048,6 +4326,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "64391E4E7D2BD43E"
 					silent: true
 					type: "command"
@@ -4055,6 +4334,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "4829B69529ACA647"
 					silent: true
 					type: "command"
@@ -4077,6 +4357,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "7347695A6E09620C"
 					silent: true
 					type: "command"
@@ -4084,6 +4365,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "7B3684BC4CCC8F17"
 					silent: true
 					type: "command"
@@ -4106,6 +4388,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "312DC53D7E4A1582"
 					silent: true
 					type: "command"
@@ -4113,6 +4396,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "522075115432B92D"
 					silent: true
 					type: "command"
@@ -4135,6 +4419,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "0EA2C6CAD9F6EE0A"
 					silent: true
 					type: "command"
@@ -4142,6 +4427,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "1E73B2D23AF5BC06"
 					silent: true
 					type: "command"
@@ -4164,6 +4450,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "6BEF90675368253B"
 					silent: true
 					type: "command"
@@ -4171,6 +4458,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "2172161343C07E7B"
 					silent: true
 					type: "command"
@@ -4193,6 +4481,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "723CD3F955EFB351"
 					silent: true
 					type: "command"
@@ -4200,6 +4489,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "6721296C2A8964CB"
 					silent: true
 					type: "command"
@@ -4222,6 +4512,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "0132B147CD4B368E"
 					silent: true
 					type: "command"
@@ -4229,6 +4520,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "1D098AF9BC2ADB41"
 					silent: true
 					type: "command"
@@ -4251,6 +4543,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "4794F9CF5BBFFF3E"
 					silent: true
 					type: "command"
@@ -4258,6 +4551,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "46B83C024E5B78D3"
 					silent: true
 					type: "command"
@@ -4280,6 +4574,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "08B2B93039B763CB"
 					silent: true
 					type: "command"
@@ -4287,6 +4582,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "5D0574894890FF66"
 					silent: true
 					type: "command"
@@ -4309,6 +4605,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "77E141E11C016F45"
 					silent: true
 					type: "command"
@@ -4316,6 +4613,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "70CDD09891A678E9"
 					silent: true
 					type: "command"
@@ -4338,6 +4636,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "52CDC6B4423B4EA7"
 					silent: true
 					type: "command"
@@ -4345,6 +4644,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "53B60A266B05A07E"
 					silent: true
 					type: "command"
@@ -4367,6 +4667,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "7E8BB6336F16DA41"
 					silent: true
 					type: "command"
@@ -4374,6 +4675,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "540C32B0FB6B19F5"
 					silent: true
 					type: "command"
@@ -4396,6 +4698,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "2041C159C3A9680B"
 					silent: true
 					type: "command"
@@ -4403,6 +4706,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "229DECCCA21203C2"
 					silent: true
 					type: "command"
@@ -4425,6 +4729,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "5CE27B9AF7243A6F"
 					silent: true
 					type: "command"
@@ -4432,6 +4737,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "397A89CD903E3220"
 					silent: true
 					type: "command"
@@ -4454,6 +4760,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "60F36C40B637EAF7"
 					silent: true
 					type: "command"
@@ -4461,6 +4768,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "454F44689B4A7EFD"
 					silent: true
 					type: "command"
@@ -4483,6 +4791,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "18CD0E3B95BD1FC0"
 					silent: true
 					type: "command"
@@ -4490,6 +4799,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "7D346AB69D92CC08"
 					silent: true
 					type: "command"
@@ -4512,6 +4822,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "79274704D63A225D"
 					silent: true
 					type: "command"
@@ -4519,6 +4830,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "5A7438EAAAF67A2A"
 					silent: true
 					type: "command"
@@ -4541,6 +4853,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "724D3F3799E597F0"
 					silent: true
 					type: "command"
@@ -4548,6 +4861,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "14E6F8162D9EB04B"
 					silent: true
 					type: "command"
@@ -4570,6 +4884,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "4223C2F581912F20"
 					silent: true
 					type: "command"
@@ -4577,6 +4892,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "12F7F3FAD8AB07E9"
 					silent: true
 					type: "command"
@@ -4599,6 +4915,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "3038B7C62DA074F3"
 					silent: true
 					type: "command"
@@ -4606,6 +4923,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "058041DE57A53D67"
 					silent: true
 					type: "command"
@@ -4628,6 +4946,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "06E5B001F08C3DFE"
 					silent: true
 					type: "command"
@@ -4635,6 +4954,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "6D38F38638935F7B"
 					silent: true
 					type: "command"
@@ -4657,6 +4977,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "43BBEEE638B36A16"
 					silent: true
 					type: "command"
@@ -4664,6 +4985,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "062416646835FBB8"
 					silent: true
 					type: "command"
@@ -4686,6 +5008,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "12C4F1E1A2797BCB"
 					silent: true
 					type: "command"
@@ -4693,6 +5016,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "2B185AD14C2CAB6F"
 					silent: true
 					type: "command"
@@ -4715,6 +5039,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "43240755A6407D16"
 					silent: true
 					type: "command"
@@ -4722,6 +5047,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "7FA0267AE19336B4"
 					silent: true
 					type: "command"
@@ -4744,6 +5070,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "4E5C0D39702D292C"
 					silent: true
 					type: "command"
@@ -4751,6 +5078,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "21E670CFECD8BD56"
 					silent: true
 					type: "command"
@@ -4773,6 +5101,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "2895E838D5B622B8"
 					silent: true
 					type: "command"
@@ -4780,6 +5109,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "4E60609317F4635E"
 					silent: true
 					type: "command"
@@ -4802,6 +5132,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "2EEAAFAD61EF1470"
 					silent: true
 					type: "command"
@@ -4809,6 +5140,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "1F258D30FDF307F1"
 					silent: true
 					type: "command"
@@ -4831,6 +5163,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "4ED73CEBA7067AEB"
 					silent: true
 					type: "command"
@@ -4838,6 +5171,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "6390C588F028E235"
 					silent: true
 					type: "command"
@@ -4860,6 +5194,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "46C47732D5CB2173"
 					silent: true
 					type: "command"
@@ -4867,6 +5202,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "03CEE016144D1CEF"
 					silent: true
 					type: "command"
@@ -4889,6 +5225,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "215654C2F6C6018E"
 					silent: true
 					type: "command"
@@ -4896,6 +5233,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "54A0F68A3D89A3F0"
 					silent: true
 					type: "command"
@@ -4918,6 +5256,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "6170BC87A545C1AD"
 					silent: true
 					type: "command"
@@ -4925,6 +5264,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "2421EAE9BE259661"
 					silent: true
 					type: "command"
@@ -4947,6 +5287,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "1053CA1EA5547C0D"
 					silent: true
 					type: "command"
@@ -4954,6 +5295,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "29943C9CCC9BDB42"
 					silent: true
 					type: "command"
@@ -4976,6 +5318,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "77E8F69232238131"
 					silent: true
 					type: "command"
@@ -4983,6 +5326,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "4B6DE132841A1B7F"
 					silent: true
 					type: "command"
@@ -5005,6 +5349,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "155EA65BFFF823D2"
 					silent: true
 					type: "command"
@@ -5012,6 +5357,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "7A9E7D962B9BEFF3"
 					silent: true
 					type: "command"
@@ -5034,6 +5380,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "48F30B6550716DD0"
 					silent: true
 					type: "command"
@@ -5041,6 +5388,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "04B013C614D0BE51"
 					silent: true
 					type: "command"
@@ -5063,6 +5411,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "5E131D120256DB90"
 					silent: true
 					type: "command"
@@ -5070,6 +5419,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "54587069A161DDA8"
 					silent: true
 					type: "command"
@@ -5092,6 +5442,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "165D8E3B07B246BD"
 					silent: true
 					type: "command"
@@ -5099,6 +5450,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "0A0B396358F1EA27"
 					silent: true
 					type: "command"
@@ -5121,6 +5473,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "5F0E292BDCAEA583"
 					silent: true
 					type: "command"
@@ -5128,6 +5481,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "7D9F6634945EBC03"
 					silent: true
 					type: "command"
@@ -5150,6 +5504,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "6666F8350DA58ECF"
 					silent: true
 					type: "command"
@@ -5157,6 +5512,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "484F4D8347A11848"
 					silent: true
 					type: "command"
@@ -5179,6 +5535,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "77F8D2F3E5C64832"
 					silent: true
 					type: "command"
@@ -5186,6 +5543,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "1259DEE0C2B7600A"
 					silent: true
 					type: "command"
@@ -5208,6 +5566,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "496A4DB5B878B797"
 					silent: true
 					type: "command"
@@ -5215,6 +5574,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "3B84C7DAA1AD4749"
 					silent: true
 					type: "command"
@@ -5237,6 +5597,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "02FA3AE5AC268EDC"
 					silent: true
 					type: "command"
@@ -5244,6 +5605,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "25B56530F11D1D07"
 					silent: true
 					type: "command"
@@ -5266,6 +5628,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "6F48F9553EFE1C28"
 					silent: true
 					type: "command"
@@ -5273,6 +5636,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "472D4F9A7C5443A0"
 					silent: true
 					type: "command"
@@ -5295,6 +5659,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "055CFC5F268AF4CF"
 					silent: true
 					type: "command"
@@ -5302,6 +5667,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "1C9E299BAE232C01"
 					silent: true
 					type: "command"
@@ -5324,6 +5690,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "3789B2D23F63837C"
 					silent: true
 					type: "command"
@@ -5331,6 +5698,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "4BDE8BE13D8BBE00"
 					silent: true
 					type: "command"
@@ -5353,6 +5721,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "32D9D59A5B301858"
 					silent: true
 					type: "command"
@@ -5360,6 +5729,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "20FAEADF6AC1A6A7"
 					silent: true
 					type: "command"
@@ -5382,6 +5752,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "6055D2B2703C0842"
 					silent: true
 					type: "command"
@@ -5389,6 +5760,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "2A58664DE7BF1B9E"
 					silent: true
 					type: "command"
@@ -5411,6 +5783,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "4A257BC1085D8892"
 					silent: true
 					type: "command"
@@ -5418,6 +5791,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "1768D38B46332D96"
 					silent: true
 					type: "command"
@@ -5440,6 +5814,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "2124452B9B93B968"
 					silent: true
 					type: "command"
@@ -5447,6 +5822,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "7A3A3574E880361E"
 					silent: true
 					type: "command"
@@ -5469,6 +5845,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "3FFED53D9A20F947"
 					silent: true
 					type: "command"
@@ -5476,6 +5853,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "577029EEC6F2262F"
 					silent: true
 					type: "command"
@@ -5498,6 +5876,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "5E146B9AD5907DB6"
 					silent: true
 					type: "command"
@@ -5505,6 +5884,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "2E5557B67D729633"
 					silent: true
 					type: "command"
@@ -5527,6 +5907,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "08AD43254BF06CDF"
 					silent: true
 					type: "command"
@@ -5534,6 +5915,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "0E57C5D3C389638D"
 					silent: true
 					type: "command"
@@ -5556,6 +5938,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "6F599048D0FC8D60"
 					silent: true
 					type: "command"
@@ -5563,6 +5946,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "65D82F28B376ABA7"
 					silent: true
 					type: "command"
@@ -5585,6 +5969,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "7E023312F012081F"
 					silent: true
 					type: "command"
@@ -5592,6 +5977,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "30E63A5ABFE182AB"
 					silent: true
 					type: "command"
@@ -5614,6 +6000,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "0A0EBD901CA71F6F"
 					silent: true
 					type: "command"
@@ -5621,6 +6008,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "1AB07F4A54D9975C"
 					silent: true
 					type: "command"
@@ -5643,6 +6031,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "72B70F60AE4DE213"
 					silent: true
 					type: "command"
@@ -5650,6 +6039,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "158A5D15928471D4"
 					silent: true
 					type: "command"
@@ -5672,6 +6062,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "246E6014756DDDC6"
 					silent: true
 					type: "command"
@@ -5679,6 +6070,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "4F3E8034E9398939"
 					silent: true
 					type: "command"
@@ -5701,6 +6093,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "343C812B43BDDB7B"
 					silent: true
 					type: "command"
@@ -5708,6 +6101,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "0F3677C3B8E29F4F"
 					silent: true
 					type: "command"
@@ -5730,6 +6124,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "4848091A027F15E4"
 					silent: true
 					type: "command"
@@ -5737,6 +6132,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "636E180E21B1B454"
 					silent: true
 					type: "command"
@@ -5759,6 +6155,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "58930AD7053E9680"
 					silent: true
 					type: "command"
@@ -5766,6 +6163,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "54463483FE8D89D7"
 					silent: true
 					type: "command"
@@ -5788,6 +6186,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "125F64DF4A77C885"
 					silent: true
 					type: "command"
@@ -5795,6 +6194,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "17EC742FF6D2EE59"
 					silent: true
 					type: "command"
@@ -5817,6 +6217,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "3FE22FD4AEBDE255"
 					silent: true
 					type: "command"
@@ -5824,6 +6225,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "555A546F66C3D39C"
 					silent: true
 					type: "command"
@@ -5846,6 +6248,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "555871DF826BDD63"
 					silent: true
 					type: "command"
@@ -5853,6 +6256,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "4FECE934CA6ADD0F"
 					silent: true
 					type: "command"
@@ -5875,6 +6279,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "327C495488E44895"
 					silent: true
 					type: "command"
@@ -5882,6 +6287,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "2F55E03F96A5C9B4"
 					silent: true
 					type: "command"
@@ -5904,6 +6310,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "61041230416D9B09"
 					silent: true
 					type: "command"
@@ -5911,6 +6318,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "11B1D6CC91D18153"
 					silent: true
 					type: "command"
@@ -5933,6 +6341,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "7A18E2769CFFCD02"
 					silent: true
 					type: "command"
@@ -5940,6 +6349,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "6BE042949AD54143"
 					silent: true
 					type: "command"
@@ -5962,6 +6372,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "4F9A6400490D4947"
 					silent: true
 					type: "command"
@@ -5969,6 +6380,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "509FBDBF7FE03AAD"
 					silent: true
 					type: "command"
@@ -5991,6 +6403,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "7D868F81C3FD7034"
 					silent: true
 					type: "command"
@@ -5998,6 +6411,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "0D9D9A6090186622"
 					silent: true
 					type: "command"
@@ -6020,6 +6434,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "3B86D3839191D0D4"
 					silent: true
 					type: "command"
@@ -6027,6 +6442,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "19C3606C5A394F70"
 					silent: true
 					type: "command"
@@ -6049,6 +6465,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "416159BAFA9694F2"
 					silent: true
 					type: "command"
@@ -6056,6 +6473,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "5562C55B9EECBDCA"
 					silent: true
 					type: "command"
@@ -6078,6 +6496,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "7CD39B99881ADB01"
 					silent: true
 					type: "command"
@@ -6085,6 +6504,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "2A97BC6FE16F98F5"
 					silent: true
 					type: "command"
@@ -6107,6 +6527,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "620F17283806C1B8"
 					silent: true
 					type: "command"
@@ -6114,6 +6535,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "317A0CE9005B15CB"
 					silent: true
 					type: "command"
@@ -6136,6 +6558,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "3AFF193A203C701B"
 					silent: true
 					type: "command"
@@ -6143,6 +6566,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "30E61DF9EEF79B4E"
 					silent: true
 					type: "command"
@@ -6165,6 +6589,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "6821AA80F1B025F4"
 					silent: true
 					type: "command"
@@ -6172,6 +6597,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "70E1DA0FFC1BE2E0"
 					silent: true
 					type: "command"
@@ -6194,6 +6620,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "56BC10C4357D148F"
 					silent: true
 					type: "command"
@@ -6201,6 +6628,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "3834225EE53C95B2"
 					silent: true
 					type: "command"
@@ -6223,6 +6651,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "3D0FF4A3EC7619E9"
 					silent: true
 					type: "command"
@@ -6230,6 +6659,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "0D04964C308CAFF5"
 					silent: true
 					type: "command"
@@ -6252,6 +6682,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "20137E4C0F00EBD4"
 					silent: true
 					type: "command"
@@ -6259,6 +6690,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "6747DDD25C04A519"
 					silent: true
 					type: "command"
@@ -6281,6 +6713,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "3011AC9780C68C4B"
 					silent: true
 					type: "command"
@@ -6288,6 +6721,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "400F983397070D3E"
 					silent: true
 					type: "command"
@@ -6310,6 +6744,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "00B172CCDDA97D27"
 					silent: true
 					type: "command"
@@ -6317,6 +6752,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "5F816FB565CF31A1"
 					silent: true
 					type: "command"
@@ -6339,6 +6775,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "77A5E0BC49A2DD0B"
 					silent: true
 					type: "command"
@@ -6346,6 +6783,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "2831C2DCB4541A05"
 					silent: true
 					type: "command"
@@ -6368,6 +6806,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "5DF1B1F9D857575C"
 					silent: true
 					type: "command"
@@ -6375,6 +6814,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "3AD38F9A1E616012"
 					silent: true
 					type: "command"
@@ -6397,6 +6837,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "5EB08504622ACF73"
 					silent: true
 					type: "command"
@@ -6404,6 +6845,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "1D38204320700B8B"
 					silent: true
 					type: "command"
@@ -6426,6 +6868,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "0E98106A823DF214"
 					silent: true
 					type: "command"
@@ -6433,6 +6876,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "62E068857DAC3FF0"
 					silent: true
 					type: "command"
@@ -6455,6 +6899,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "570BB439CB78C0AD"
 					silent: true
 					type: "command"
@@ -6462,6 +6907,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "5F237BFA943C0EEA"
 					silent: true
 					type: "command"
@@ -6484,6 +6930,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "1E15638EF86A4E82"
 					silent: true
 					type: "command"
@@ -6491,6 +6938,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "7359028B69D8F25D"
 					silent: true
 					type: "command"
@@ -6513,6 +6961,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "4162FA90EF0ED556"
 					silent: true
 					type: "command"
@@ -6520,6 +6969,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "570019F0DC23978D"
 					silent: true
 					type: "command"
@@ -6542,6 +6992,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "58F27C28B1F36F03"
 					silent: true
 					type: "command"
@@ -6549,6 +7000,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "1B55A16266F06BC8"
 					silent: true
 					type: "command"
@@ -6571,6 +7023,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "3574761DF2F7790E"
 					silent: true
 					type: "command"
@@ -6578,6 +7031,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "70C69FB60930E06A"
 					silent: true
 					type: "command"
@@ -6600,6 +7054,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "5B6BA417917AF219"
 					silent: true
 					type: "command"
@@ -6607,6 +7062,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "2954E6765BFA8156"
 					silent: true
 					type: "command"
@@ -6629,6 +7085,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "3E07DF74C19DF447"
 					silent: true
 					type: "command"
@@ -6636,6 +7093,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "4BC7D35921F5A9B0"
 					silent: true
 					type: "command"
@@ -6658,6 +7116,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "27A629D2544123E0"
 					silent: true
 					type: "command"
@@ -6665,6 +7124,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "208B15867DE18683"
 					silent: true
 					type: "command"
@@ -6687,6 +7147,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "0A866B2CC1207A6E"
 					silent: true
 					type: "command"
@@ -6694,6 +7155,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "179C56614EF9CD41"
 					silent: true
 					type: "command"
@@ -6716,6 +7178,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "59FB2BE29819B435"
 					silent: true
 					type: "command"
@@ -6723,6 +7186,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "6693A49ADB30F96C"
 					silent: true
 					type: "command"
@@ -6745,6 +7209,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "34C9EE12ED8F29F7"
 					silent: true
 					type: "command"
@@ -6752,6 +7217,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "6BEB4900EEE7B434"
 					silent: true
 					type: "command"
@@ -6774,6 +7240,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "057EBF16311D1913"
 					silent: true
 					type: "command"
@@ -6781,6 +7248,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "5E7CB3420E6BC85D"
 					silent: true
 					type: "command"
@@ -6803,6 +7271,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "479B6B003B572E49"
 					silent: true
 					type: "command"
@@ -6810,6 +7279,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "79E912AA95E65F31"
 					silent: true
 					type: "command"
@@ -6832,6 +7302,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "7BEA2FF1B428056A"
 					silent: true
 					type: "command"
@@ -6839,6 +7310,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "0B475A6BDAF4FBC8"
 					silent: true
 					type: "command"
@@ -6861,6 +7333,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "13643C57D361A034"
 					silent: true
 					type: "command"
@@ -6868,6 +7341,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "7A69AE5145EA063A"
 					silent: true
 					type: "command"
@@ -6890,6 +7364,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "465229F2159F667F"
 					silent: true
 					type: "command"
@@ -6897,6 +7372,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "4B18C1D931B4C06F"
 					silent: true
 					type: "command"
@@ -6919,6 +7395,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p hat_collected 1"
+					elevate_perms: true
 					id: "68DE2E47CF914773"
 					silent: true
 					type: "command"
@@ -6926,6 +7403,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new hat! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"hat_collected\"}},{\"text\":\" unique hat(s)!\"}]"
+					elevate_perms: true
 					id: "1EB4E2E041778A32"
 					silent: true
 					type: "command"

@@ -17,6 +17,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p fishes_caught 1"
+					elevate_perms: true
 					id: "2EC95DC8ACAEDD88"
 					silent: true
 					type: "command"
@@ -24,6 +25,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've caught a new fish! You have now caught \"},{\"score\":{\"name\":\"@p\",\"objective\":\"fishes_caught\"}},{\"text\":\" unique fish(es)!\"}]"
+					elevate_perms: true
 					id: "6966A653DCE9B584"
 					silent: true
 					type: "command"
@@ -46,6 +48,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p fishes_caught 1"
+					elevate_perms: true
 					id: "3ACEE0ACE0A5F811"
 					silent: true
 					type: "command"
@@ -53,6 +56,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've caught a new fish! You have now caught \"},{\"score\":{\"name\":\"@p\",\"objective\":\"fishes_caught\"}},{\"text\":\" unique fish(es)!\"}]"
+					elevate_perms: true
 					id: "588F1CEAD0B73211"
 					silent: true
 					type: "command"
@@ -75,6 +79,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p fishes_caught 1"
+					elevate_perms: true
 					id: "60F525E16375E69B"
 					silent: true
 					type: "command"
@@ -82,6 +87,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've caught a new fish! You have now caught \"},{\"score\":{\"name\":\"@p\",\"objective\":\"fishes_caught\"}},{\"text\":\" unique fish(es)!\"}]"
+					elevate_perms: true
 					id: "5A5FD4171E3CE323"
 					silent: true
 					type: "command"
@@ -110,6 +116,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p fishes_caught 1"
+					elevate_perms: true
 					id: "39FFA42D8114FD2E"
 					silent: true
 					type: "command"
@@ -117,6 +124,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've caught a new fish! You have now caught \"},{\"score\":{\"name\":\"@p\",\"objective\":\"fishes_caught\"}},{\"text\":\" unique fish(es)!\"}]"
+					elevate_perms: true
 					id: "238062A5A0A9B0AB"
 					silent: true
 					type: "command"
@@ -139,6 +147,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p fishes_caught 1"
+					elevate_perms: true
 					id: "55CDD7A77DD4BDBD"
 					silent: true
 					type: "command"
@@ -146,6 +155,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've caught a new fish! You have now caught \"},{\"score\":{\"name\":\"@p\",\"objective\":\"fishes_caught\"}},{\"text\":\" unique fish(es)!\"}]"
+					elevate_perms: true
 					id: "4E4794AD2DDAB34B"
 					silent: true
 					type: "command"
@@ -168,6 +178,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p fishes_caught 1"
+					elevate_perms: true
 					id: "1DD7362DB0FCCD6D"
 					silent: true
 					type: "command"
@@ -175,6 +186,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've caught a new fish! You have now caught \"},{\"score\":{\"name\":\"@p\",\"objective\":\"fishes_caught\"}},{\"text\":\" unique fish(es)!\"}]"
+					elevate_perms: true
 					id: "16645FF3040A18DC"
 					silent: true
 					type: "command"
@@ -197,6 +209,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p fishes_caught 1"
+					elevate_perms: true
 					id: "60FE4A093AA18435"
 					silent: true
 					type: "command"
@@ -204,6 +217,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've caught a new fish! You have now caught \"},{\"score\":{\"name\":\"@p\",\"objective\":\"fishes_caught\"}},{\"text\":\" unique fish(es)!\"}]"
+					elevate_perms: true
 					id: "24FAE7E64D73F510"
 					silent: true
 					type: "command"
@@ -226,6 +240,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p fishes_caught 1"
+					elevate_perms: true
 					id: "3CEC99536E58D5EC"
 					silent: true
 					type: "command"
@@ -233,6 +248,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've caught a new fish! You have now caught \"},{\"score\":{\"name\":\"@p\",\"objective\":\"fishes_caught\"}},{\"text\":\" unique fish(es)!\"}]"
+					elevate_perms: true
 					id: "615A340A6CB831AB"
 					silent: true
 					type: "command"
@@ -255,6 +271,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p fishes_caught 1"
+					elevate_perms: true
 					id: "0059E075A01BB3ED"
 					silent: true
 					type: "command"
@@ -262,6 +279,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've caught a new fish! You have now caught \"},{\"score\":{\"name\":\"@p\",\"objective\":\"fishes_caught\"}},{\"text\":\" unique fish(es)!\"}]"
+					elevate_perms: true
 					id: "4D4FE337C48A0408"
 					silent: true
 					type: "command"
@@ -284,6 +302,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p fishes_caught 1"
+					elevate_perms: true
 					id: "0FC93F059DFAAD52"
 					silent: true
 					type: "command"
@@ -291,6 +310,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've caught a new fish! You have now caught \"},{\"score\":{\"name\":\"@p\",\"objective\":\"fishes_caught\"}},{\"text\":\" unique fish(es)!\"}]"
+					elevate_perms: true
 					id: "498F5E72D08E1509"
 					silent: true
 					type: "command"
@@ -313,6 +333,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p fishes_caught 1"
+					elevate_perms: true
 					id: "5ACE48592822E97D"
 					silent: true
 					type: "command"
@@ -320,6 +341,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've caught a new fish! You have now caught \"},{\"score\":{\"name\":\"@p\",\"objective\":\"fishes_caught\"}},{\"text\":\" unique fish(es)!\"}]"
+					elevate_perms: true
 					id: "69F7E1AFC2268FE2"
 					silent: true
 					type: "command"
@@ -342,6 +364,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p fishes_caught 1"
+					elevate_perms: true
 					id: "6A223EA5022581E1"
 					silent: true
 					type: "command"
@@ -349,6 +372,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've caught a new fish! You have now caught \"},{\"score\":{\"name\":\"@p\",\"objective\":\"fishes_caught\"}},{\"text\":\" unique fish(es)!\"}]"
+					elevate_perms: true
 					id: "31B8B2FD077C5AEF"
 					silent: true
 					type: "command"
@@ -371,6 +395,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p fishes_caught 1"
+					elevate_perms: true
 					id: "05D453655EECFCFC"
 					silent: true
 					type: "command"
@@ -378,6 +403,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've caught a new fish! You have now caught \"},{\"score\":{\"name\":\"@p\",\"objective\":\"fishes_caught\"}},{\"text\":\" unique fish(es)!\"}]"
+					elevate_perms: true
 					id: "09246A971864155E"
 					silent: true
 					type: "command"
@@ -400,6 +426,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p fishes_caught 1"
+					elevate_perms: true
 					id: "013C466153411291"
 					silent: true
 					type: "command"
@@ -407,6 +434,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've caught a new fish! You have now caught \"},{\"score\":{\"name\":\"@p\",\"objective\":\"fishes_caught\"}},{\"text\":\" unique fish(es)!\"}]"
+					elevate_perms: true
 					id: "17C134422D48B061"
 					silent: true
 					type: "command"
@@ -429,6 +457,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p fishes_caught 1"
+					elevate_perms: true
 					id: "70F2D8C1B5478E2D"
 					silent: true
 					type: "command"
@@ -436,6 +465,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've caught a new fish! You have now caught \"},{\"score\":{\"name\":\"@p\",\"objective\":\"fishes_caught\"}},{\"text\":\" unique fish(es)!\"}]"
+					elevate_perms: true
 					id: "4A2E07C9848D858F"
 					silent: true
 					type: "command"
@@ -458,6 +488,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p fishes_caught 1"
+					elevate_perms: true
 					id: "2EE3D2679043D83E"
 					silent: true
 					type: "command"
@@ -465,6 +496,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've caught a new fish! You have now caught \"},{\"score\":{\"name\":\"@p\",\"objective\":\"fishes_caught\"}},{\"text\":\" unique fish(es)!\"}]"
+					elevate_perms: true
 					id: "322AD9CEADE5808E"
 					silent: true
 					type: "command"
@@ -487,6 +519,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p fishes_caught 1"
+					elevate_perms: true
 					id: "0E95150BD286BD31"
 					silent: true
 					type: "command"
@@ -494,6 +527,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've caught a new fish! You have now caught \"},{\"score\":{\"name\":\"@p\",\"objective\":\"fishes_caught\"}},{\"text\":\" unique fish(es)!\"}]"
+					elevate_perms: true
 					id: "0A212C073DCD6E54"
 					silent: true
 					type: "command"
@@ -516,6 +550,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p fishes_caught 1"
+					elevate_perms: true
 					id: "0BF827518B972247"
 					silent: true
 					type: "command"
@@ -523,6 +558,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've caught a new fish! You have now caught \"},{\"score\":{\"name\":\"@p\",\"objective\":\"fishes_caught\"}},{\"text\":\" unique fish(es)!\"}]"
+					elevate_perms: true
 					id: "6D2CE6F2317AFBB8"
 					silent: true
 					type: "command"
@@ -545,6 +581,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p fishes_caught 1"
+					elevate_perms: true
 					id: "3165DFEECAC56D2E"
 					silent: true
 					type: "command"
@@ -552,6 +589,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've caught a new fish! You have now caught \"},{\"score\":{\"name\":\"@p\",\"objective\":\"fishes_caught\"}},{\"text\":\" unique fish(es)!\"}]"
+					elevate_perms: true
 					id: "2F945A9E9E404B9A"
 					silent: true
 					type: "command"
@@ -574,6 +612,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p fishes_caught 1"
+					elevate_perms: true
 					id: "53D94DE08847991B"
 					silent: true
 					type: "command"
@@ -581,6 +620,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've caught a new fish! You have now caught \"},{\"score\":{\"name\":\"@p\",\"objective\":\"fishes_caught\"}},{\"text\":\" unique fish(es)!\"}]"
+					elevate_perms: true
 					id: "4B89B39B0A9A7AE5"
 					silent: true
 					type: "command"
@@ -603,6 +643,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p fishes_caught 1"
+					elevate_perms: true
 					id: "7737918FFA6F5D7F"
 					silent: true
 					type: "command"
@@ -610,6 +651,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've caught a new fish! You have now caught \"},{\"score\":{\"name\":\"@p\",\"objective\":\"fishes_caught\"}},{\"text\":\" unique fish(es)!\"}]"
+					elevate_perms: true
 					id: "0819E592E3AD5318"
 					silent: true
 					type: "command"
@@ -632,6 +674,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p fishes_caught 1"
+					elevate_perms: true
 					id: "51CE5F7407A55DB5"
 					silent: true
 					type: "command"
@@ -639,6 +682,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've caught a new fish! You have now caught \"},{\"score\":{\"name\":\"@p\",\"objective\":\"fishes_caught\"}},{\"text\":\" unique fish(es)!\"}]"
+					elevate_perms: true
 					id: "008779E274370279"
 					silent: true
 					type: "command"
@@ -661,6 +705,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p fishes_caught 1"
+					elevate_perms: true
 					id: "2023E45660D3F46C"
 					silent: true
 					type: "command"
@@ -668,6 +713,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've caught a new fish! You have now caught \"},{\"score\":{\"name\":\"@p\",\"objective\":\"fishes_caught\"}},{\"text\":\" unique fish(es)!\"}]"
+					elevate_perms: true
 					id: "1A6E76322EC47C02"
 					silent: true
 					type: "command"
@@ -690,6 +736,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p fishes_caught 1"
+					elevate_perms: true
 					id: "3117180906F3D72E"
 					silent: true
 					type: "command"
@@ -697,6 +744,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've caught a new fish! You have now caught \"},{\"score\":{\"name\":\"@p\",\"objective\":\"fishes_caught\"}},{\"text\":\" unique fish(es)!\"}]"
+					elevate_perms: true
 					id: "5D39CA64D8F9D8BE"
 					silent: true
 					type: "command"
@@ -725,6 +773,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p fishes_caught 1"
+					elevate_perms: true
 					id: "70C06279510EDDA2"
 					silent: true
 					type: "command"
@@ -732,6 +781,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've caught a new fish! You have now caught \"},{\"score\":{\"name\":\"@p\",\"objective\":\"fishes_caught\"}},{\"text\":\" unique fish(es)!\"}]"
+					elevate_perms: true
 					id: "703B2CA00318F06A"
 					silent: true
 					type: "command"
@@ -754,6 +804,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p fishes_caught 1"
+					elevate_perms: true
 					id: "0355D100E72B0B15"
 					silent: true
 					type: "command"
@@ -761,6 +812,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've caught a new fish! You have now caught \"},{\"score\":{\"name\":\"@p\",\"objective\":\"fishes_caught\"}},{\"text\":\" unique fish(es)!\"}]"
+					elevate_perms: true
 					id: "72D1E7176DD1297A"
 					silent: true
 					type: "command"
@@ -783,6 +835,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p fishes_caught 1"
+					elevate_perms: true
 					id: "02E20F32E15A0777"
 					silent: true
 					type: "command"
@@ -790,6 +843,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've caught a new fish! You have now caught \"},{\"score\":{\"name\":\"@p\",\"objective\":\"fishes_caught\"}},{\"text\":\" unique fish(es)!\"}]"
+					elevate_perms: true
 					id: "7BBB067929CE2A52"
 					silent: true
 					type: "command"
@@ -812,6 +866,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p fishes_caught 1"
+					elevate_perms: true
 					id: "55E1C1A0D3CD018D"
 					silent: true
 					type: "command"
@@ -819,6 +874,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've caught a new fish! You have now caught \"},{\"score\":{\"name\":\"@p\",\"objective\":\"fishes_caught\"}},{\"text\":\" unique fish(es)!\"}]"
+					elevate_perms: true
 					id: "6E03135ABBD2BE3C"
 					silent: true
 					type: "command"
@@ -841,6 +897,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p fishes_caught 1"
+					elevate_perms: true
 					id: "06B74CA77BFA35DD"
 					silent: true
 					type: "command"
@@ -848,6 +905,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've caught a new fish! You have now caught \"},{\"score\":{\"name\":\"@p\",\"objective\":\"fishes_caught\"}},{\"text\":\" unique fish(es)!\"}]"
+					elevate_perms: true
 					id: "0EF7AAFB6E13D3C9"
 					silent: true
 					type: "command"
@@ -870,6 +928,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p fishes_caught 1"
+					elevate_perms: true
 					id: "39D851273FED5A3C"
 					silent: true
 					type: "command"
@@ -877,6 +936,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've caught a new fish! You have now caught \"},{\"score\":{\"name\":\"@p\",\"objective\":\"fishes_caught\"}},{\"text\":\" unique fish(es)!\"}]"
+					elevate_perms: true
 					id: "7AFB16F8FA1A674F"
 					silent: true
 					type: "command"
@@ -899,6 +959,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p fishes_caught 1"
+					elevate_perms: true
 					id: "4F93F5276E8A587E"
 					silent: true
 					type: "command"
@@ -906,6 +967,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've caught a new fish! You have now caught \"},{\"score\":{\"name\":\"@p\",\"objective\":\"fishes_caught\"}},{\"text\":\" unique fish(es)!\"}]"
+					elevate_perms: true
 					id: "05D61AB44EB6C1F4"
 					silent: true
 					type: "command"
@@ -928,6 +990,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p fishes_caught 1"
+					elevate_perms: true
 					id: "3E534C4F1C0F7EED"
 					silent: true
 					type: "command"
@@ -935,6 +998,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've caught a new fish! You have now caught \"},{\"score\":{\"name\":\"@p\",\"objective\":\"fishes_caught\"}},{\"text\":\" unique fish(es)!\"}]"
+					elevate_perms: true
 					id: "7D16E7E7413F1F57"
 					silent: true
 					type: "command"
@@ -957,6 +1021,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p fishes_caught 1"
+					elevate_perms: true
 					id: "5725CD37D3410622"
 					silent: true
 					type: "command"
@@ -964,6 +1029,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've caught a new fish! You have now caught \"},{\"score\":{\"name\":\"@p\",\"objective\":\"fishes_caught\"}},{\"text\":\" unique fish(es)!\"}]"
+					elevate_perms: true
 					id: "6E7A955E639EB569"
 					silent: true
 					type: "command"
@@ -1578,6 +1644,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p fishes_caught 1"
+					elevate_perms: true
 					id: "1657E55D2C71E6CC"
 					silent: true
 					type: "command"
@@ -1585,6 +1652,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've caught a new fish! You have now caught \"},{\"score\":{\"name\":\"@p\",\"objective\":\"fishes_caught\"}},{\"text\":\" unique fish(es)!\"}]"
+					elevate_perms: true
 					id: "5614756B22DFB70A"
 					silent: true
 					type: "command"
@@ -1607,6 +1675,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p fishes_caught 1"
+					elevate_perms: true
 					id: "6114BDB9BB2307E9"
 					silent: true
 					type: "command"
@@ -1614,6 +1683,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've caught a new fish! You have now caught \"},{\"score\":{\"name\":\"@p\",\"objective\":\"fishes_caught\"}},{\"text\":\" unique fish(es)!\"}]"
+					elevate_perms: true
 					id: "2B72EF3677F150E2"
 					silent: true
 					type: "command"
@@ -1636,6 +1706,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p fishes_caught 1"
+					elevate_perms: true
 					id: "3D006D1E23C94D3D"
 					silent: true
 					type: "command"
@@ -1643,6 +1714,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've caught a new fish! You have now caught \"},{\"score\":{\"name\":\"@p\",\"objective\":\"fishes_caught\"}},{\"text\":\" unique fish(es)!\"}]"
+					elevate_perms: true
 					id: "095EA57B922409F7"
 					silent: true
 					type: "command"
@@ -1665,6 +1737,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p fishes_caught 1"
+					elevate_perms: true
 					id: "78FB118F212D8197"
 					silent: true
 					type: "command"
@@ -1672,6 +1745,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've caught a new fish! You have now caught \"},{\"score\":{\"name\":\"@p\",\"objective\":\"fishes_caught\"}},{\"text\":\" unique fish(es)!\"}]"
+					elevate_perms: true
 					id: "065F40600F65760D"
 					silent: true
 					type: "command"

@@ -17,6 +17,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "73B29C34FD1EAB5A"
 					silent: true
 					type: "command"
@@ -24,6 +25,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "3E3AAB5EFA41FCCB"
 					silent: true
 					type: "command"
@@ -46,6 +48,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "5A819FD6C91BC95F"
 					silent: true
 					type: "command"
@@ -53,6 +56,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "140BF622668414C7"
 					silent: true
 					type: "command"
@@ -75,6 +79,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "64935DB0B379C6BB"
 					silent: true
 					type: "command"
@@ -82,6 +87,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "796EBAB17B97C5CD"
 					silent: true
 					type: "command"
@@ -104,6 +110,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "6BAEF22D0FBB2557"
 					silent: true
 					type: "command"
@@ -111,6 +118,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "4EB8CE681020DC79"
 					silent: true
 					type: "command"
@@ -133,6 +141,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "32C327E5B1CC7085"
 					silent: true
 					type: "command"
@@ -140,6 +149,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "2EFE850F7F6C9D7A"
 					silent: true
 					type: "command"
@@ -162,6 +172,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "42DE4ECC16DBE6F4"
 					silent: true
 					type: "command"
@@ -169,6 +180,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "59BE4775574AF19F"
 					silent: true
 					type: "command"
@@ -191,6 +203,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "0F51E4DBC12DDE2D"
 					silent: true
 					type: "command"
@@ -198,6 +211,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "0D6FA840CD45053F"
 					silent: true
 					type: "command"
@@ -220,6 +234,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "578AFF8EDA255A48"
 					silent: true
 					type: "command"
@@ -227,6 +242,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "51F5F789E6D4BFDF"
 					silent: true
 					type: "command"
@@ -249,6 +265,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "6DEC5B5E08D2E0EF"
 					silent: true
 					type: "command"
@@ -256,6 +273,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "6FBE8B44288B5A67"
 					silent: true
 					type: "command"
@@ -278,6 +296,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "54F36AB2CCE07EAB"
 					silent: true
 					type: "command"
@@ -285,6 +304,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "2805DC4261FB37C9"
 					silent: true
 					type: "command"
@@ -342,6 +362,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "4FA66CDD825EA9EC"
 					silent: true
 					type: "command"
@@ -349,6 +370,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "12DD1D18959D55C2"
 					silent: true
 					type: "command"
@@ -371,6 +393,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "3762584EE163BA0A"
 					silent: true
 					type: "command"
@@ -378,6 +401,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "2023D80A14FF3933"
 					silent: true
 					type: "command"
@@ -400,6 +424,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "751CF066636D2351"
 					silent: true
 					type: "command"
@@ -407,6 +432,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "33F9FFB9F2154BB6"
 					silent: true
 					type: "command"
@@ -429,6 +455,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "61E24F16FA8D8CE0"
 					silent: true
 					type: "command"
@@ -436,6 +463,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "113DBEE2461961C0"
 					silent: true
 					type: "command"
@@ -458,6 +486,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "7C0FF96880273686"
 					silent: true
 					type: "command"
@@ -465,6 +494,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "67BC2C2FA031A1AC"
 					silent: true
 					type: "command"
@@ -487,6 +517,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "453447BA1DF3E130"
 					silent: true
 					type: "command"
@@ -494,6 +525,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "45D828464FDCACF3"
 					silent: true
 					type: "command"
@@ -516,6 +548,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "51DB3F6B39DE56B9"
 					silent: true
 					type: "command"
@@ -523,6 +556,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "204D52B0D18C0E38"
 					silent: true
 					type: "command"
@@ -545,6 +579,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "1482449373835F9D"
 					silent: true
 					type: "command"
@@ -552,6 +587,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "79CF1CA6988A0C72"
 					silent: true
 					type: "command"
@@ -574,6 +610,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "241A3A79A165E903"
 					silent: true
 					type: "command"
@@ -581,6 +618,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "6B0C97EA842DBC7D"
 					silent: true
 					type: "command"
@@ -603,6 +641,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "3AA59E443887DCB7"
 					silent: true
 					type: "command"
@@ -610,6 +649,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "2D42EC59B9C195C4"
 					silent: true
 					type: "command"
@@ -632,6 +672,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "4557F6207B2D406E"
 					silent: true
 					type: "command"
@@ -639,6 +680,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "7E2794DD1D7B34D5"
 					silent: true
 					type: "command"
@@ -661,6 +703,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "7FBC1E81196F7E81"
 					silent: true
 					type: "command"
@@ -668,6 +711,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "63E56675CA79C1F1"
 					silent: true
 					type: "command"
@@ -690,6 +734,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "72D89EEB019F9518"
 					silent: true
 					type: "command"
@@ -697,6 +742,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "3DAD7D0A918D7A74"
 					silent: true
 					type: "command"
@@ -746,6 +792,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "213411622F00608A"
 					silent: true
 					type: "command"
@@ -753,6 +800,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "760BE326CE469B51"
 					silent: true
 					type: "command"
@@ -775,6 +823,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "05EA926EE2A44A7F"
 					silent: true
 					type: "command"
@@ -782,6 +831,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "21CDD972BCAADDBF"
 					silent: true
 					type: "command"
@@ -804,6 +854,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "5A287EB159D22371"
 					silent: true
 					type: "command"
@@ -811,6 +862,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "54ABF531A6723445"
 					silent: true
 					type: "command"
@@ -833,6 +885,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "44643458B084DB7E"
 					silent: true
 					type: "command"
@@ -840,6 +893,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "02F91965AC4AA324"
 					silent: true
 					type: "command"
@@ -862,6 +916,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "7FFAAE1D8A688F1C"
 					silent: true
 					type: "command"
@@ -869,6 +924,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "26E5AF5FB3F946C1"
 					silent: true
 					type: "command"
@@ -891,6 +947,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "715FA561EA36FF93"
 					silent: true
 					type: "command"
@@ -898,6 +955,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "57BE4A147BDF337F"
 					silent: true
 					type: "command"
@@ -920,6 +978,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "0672BBF09F3AEE96"
 					silent: true
 					type: "command"
@@ -927,6 +986,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "24C8C1A65DE5A7CD"
 					silent: true
 					type: "command"
@@ -949,6 +1009,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "2D261A31F76E31AD"
 					silent: true
 					type: "command"
@@ -956,6 +1017,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "29B7C1C052A899DB"
 					silent: true
 					type: "command"
@@ -978,6 +1040,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "0650A155F793537B"
 					silent: true
 					type: "command"
@@ -985,6 +1048,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "591EA9FEDA214343"
 					silent: true
 					type: "command"
@@ -1007,6 +1071,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "7B3C91E4137D7F8A"
 					silent: true
 					type: "command"
@@ -1014,6 +1079,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "5E9E5568FF2F8A0F"
 					silent: true
 					type: "command"
@@ -1064,6 +1130,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "038F8C32E9CC162D"
 					silent: true
 					type: "command"
@@ -1071,6 +1138,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "4B9A9D9F7DA7C8C5"
 					silent: true
 					type: "command"
@@ -1093,6 +1161,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "156793802474E8FA"
 					silent: true
 					type: "command"
@@ -1100,6 +1169,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "4E62E83B4F562448"
 					silent: true
 					type: "command"
@@ -1122,6 +1192,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "0AAAC43DDAE1008A"
 					silent: true
 					type: "command"
@@ -1129,6 +1200,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "3F9D19C6F5531B3E"
 					silent: true
 					type: "command"
@@ -1151,6 +1223,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "73513A15AE748F7E"
 					silent: true
 					type: "command"
@@ -1158,6 +1231,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "7A3D277B3BF38A55"
 					silent: true
 					type: "command"
@@ -1180,6 +1254,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "5FBB447280E82E0C"
 					silent: true
 					type: "command"
@@ -1187,6 +1262,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "7DDDDBED200EC0D4"
 					silent: true
 					type: "command"
@@ -1209,6 +1285,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "0E317575BF6DD8C3"
 					silent: true
 					type: "command"
@@ -1216,6 +1293,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "2998DA62A27D8C35"
 					silent: true
 					type: "command"
@@ -1238,6 +1316,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "6CFD22FF2A5EE113"
 					silent: true
 					type: "command"
@@ -1245,6 +1324,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "1CE743B9C0272344"
 					silent: true
 					type: "command"
@@ -1267,6 +1347,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "1141B92B9A2ADE1E"
 					silent: true
 					type: "command"
@@ -1274,6 +1355,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "631FAD500F83B13D"
 					silent: true
 					type: "command"
@@ -1323,6 +1405,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "516B8515F611E7E8"
 					silent: true
 					type: "command"
@@ -1330,6 +1413,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "2B0D78B927BAA8D8"
 					silent: true
 					type: "command"
@@ -1352,6 +1436,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "7CD9266C08BA2C3E"
 					silent: true
 					type: "command"
@@ -1359,6 +1444,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "449B88352703B0EC"
 					silent: true
 					type: "command"
@@ -1387,6 +1473,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "449668058C41B78A"
 					silent: true
 					type: "command"
@@ -1394,6 +1481,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "47BAFA0BC2E4BDCE"
 					silent: true
 					type: "command"
@@ -1422,6 +1510,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "3E42DB1E7BD2EEA6"
 					silent: true
 					type: "command"
@@ -1429,6 +1518,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "212E0C08AEA4A908"
 					silent: true
 					type: "command"
@@ -1457,6 +1547,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "31FF332438CBCA9B"
 					silent: true
 					type: "command"
@@ -1464,6 +1555,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "63BD4ED29846BCF9"
 					silent: true
 					type: "command"
@@ -1492,6 +1584,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "0420BFD2602F5FC3"
 					silent: true
 					type: "command"
@@ -1499,6 +1592,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "2F6405C4B67E2F66"
 					silent: true
 					type: "command"
@@ -1527,6 +1621,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "3CB006E319FB9101"
 					silent: true
 					type: "command"
@@ -1534,6 +1629,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "3E2FECA1C6AF9ED0"
 					silent: true
 					type: "command"
@@ -1562,6 +1658,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "4A666B249B5C966B"
 					silent: true
 					type: "command"
@@ -1569,6 +1666,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "497943C8287C5631"
 					silent: true
 					type: "command"
@@ -1597,6 +1695,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "1EC50C04DADB7AC1"
 					silent: true
 					type: "command"
@@ -1604,6 +1703,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "5F7C85534D9141C6"
 					silent: true
 					type: "command"
@@ -1632,6 +1732,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "7C148719C333EA99"
 					silent: true
 					type: "command"
@@ -1639,6 +1740,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "1E82D27B9C0E361E"
 					silent: true
 					type: "command"
@@ -1667,6 +1769,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "728B41D18ED6BF20"
 					silent: true
 					type: "command"
@@ -1674,6 +1777,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "109EF87C312BC118"
 					silent: true
 					type: "command"
@@ -1702,6 +1806,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "088F610C5BF6D9FB"
 					silent: true
 					type: "command"
@@ -1709,6 +1814,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "68D413EA9DA2D154"
 					silent: true
 					type: "command"
@@ -1737,6 +1843,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "20C7F072F21DD349"
 					silent: true
 					type: "command"
@@ -1744,6 +1851,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "0C57EB871B8F5999"
 					silent: true
 					type: "command"
@@ -1772,6 +1880,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "2E5A952242710714"
 					silent: true
 					type: "command"
@@ -1779,6 +1888,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "63DBB7D448E7B0C3"
 					silent: true
 					type: "command"
@@ -1807,6 +1917,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "1359DF006CC2E9C4"
 					silent: true
 					type: "command"
@@ -1814,6 +1925,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "58EF232177D2BCFB"
 					silent: true
 					type: "command"
@@ -1842,6 +1954,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "02E2A76196B1D7AE"
 					silent: true
 					type: "command"
@@ -1849,6 +1962,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "0C6D94E4BF7E439B"
 					silent: true
 					type: "command"
@@ -1877,6 +1991,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "04C5C307EB2ED670"
 					silent: true
 					type: "command"
@@ -1884,6 +1999,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "1684F888F1B0F942"
 					silent: true
 					type: "command"
@@ -1912,6 +2028,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "1A425D512F4F53A0"
 					silent: true
 					type: "command"
@@ -1919,6 +2036,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "521261B4B186AE55"
 					silent: true
 					type: "command"
@@ -1947,6 +2065,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "1A1086430BED13FA"
 					silent: true
 					type: "command"
@@ -1954,6 +2073,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "13889DF011410BDD"
 					silent: true
 					type: "command"
@@ -1982,6 +2102,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "1E92BDCB1D3ABAB3"
 					silent: true
 					type: "command"
@@ -1989,6 +2110,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "548BC6435F5BF666"
 					silent: true
 					type: "command"
@@ -2017,6 +2139,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "0BF39B362F1470B3"
 					silent: true
 					type: "command"
@@ -2024,6 +2147,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "7801D3AD0E599326"
 					silent: true
 					type: "command"
@@ -2052,6 +2176,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "3D6E22A6E70B7B08"
 					silent: true
 					type: "command"
@@ -2059,6 +2184,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "2830901071593739"
 					silent: true
 					type: "command"
@@ -2087,6 +2213,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "2B7755D237363D17"
 					silent: true
 					type: "command"
@@ -2094,6 +2221,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "20600210AC1AF15F"
 					silent: true
 					type: "command"
@@ -2122,6 +2250,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "0E342A74503A9B8A"
 					silent: true
 					type: "command"
@@ -2129,6 +2258,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "4277D7B1803C1F87"
 					silent: true
 					type: "command"
@@ -2157,6 +2287,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "590361A74146C99A"
 					silent: true
 					type: "command"
@@ -2164,6 +2295,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "10EA8C58C2E2F194"
 					silent: true
 					type: "command"
@@ -2192,6 +2324,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "5A1E5CEAF4BB6B8C"
 					silent: true
 					type: "command"
@@ -2199,6 +2332,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "48179ED01760E741"
 					silent: true
 					type: "command"
@@ -2227,6 +2361,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "50B3D1B3646D86BD"
 					silent: true
 					type: "command"
@@ -2234,6 +2369,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "13F6313AF1A1C89E"
 					silent: true
 					type: "command"
@@ -2262,6 +2398,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "24581FE84679AD7D"
 					silent: true
 					type: "command"
@@ -2269,6 +2406,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "5C9DA3FD3753C487"
 					silent: true
 					type: "command"
@@ -2390,6 +2528,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "69B7C8F105CF1871"
 					silent: true
 					type: "command"
@@ -2397,6 +2536,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "76737236B32A1EAB"
 					silent: true
 					type: "command"
@@ -2419,6 +2559,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "787E3568B41A04D4"
 					silent: true
 					type: "command"
@@ -2426,6 +2567,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "644F76A579AE7293"
 					silent: true
 					type: "command"
@@ -2448,6 +2590,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "37524B0D6ABCE04C"
 					silent: true
 					type: "command"
@@ -2455,6 +2598,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "4882C177C5E73F92"
 					silent: true
 					type: "command"
@@ -2477,6 +2621,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "238A48EA3B4B6F91"
 					silent: true
 					type: "command"
@@ -2484,6 +2629,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "3B17279F30524F32"
 					silent: true
 					type: "command"
@@ -2506,6 +2652,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "46E2845B1F5A754F"
 					silent: true
 					type: "command"
@@ -2513,6 +2660,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "7F9B4248E14809C7"
 					silent: true
 					type: "command"
@@ -2535,6 +2683,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "642149E5DAEFB1D0"
 					silent: true
 					type: "command"
@@ -2542,6 +2691,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "5EB390C80FA0F411"
 					silent: true
 					type: "command"
@@ -2639,6 +2789,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "0015153D99F00348"
 					silent: true
 					type: "command"
@@ -2646,6 +2797,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "2C43B36CBD8E3262"
 					silent: true
 					type: "command"
@@ -2668,6 +2820,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "502534D09A58F8DE"
 					silent: true
 					type: "command"
@@ -2675,6 +2828,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "37B3C87BEF6A1D3C"
 					silent: true
 					type: "command"
@@ -2697,6 +2851,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "5719FB4D555255F4"
 					silent: true
 					type: "command"
@@ -2704,6 +2859,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "7BEB8427E217624C"
 					silent: true
 					type: "command"
@@ -2726,6 +2882,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "154D699BD32838FB"
 					silent: true
 					type: "command"
@@ -2733,6 +2890,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "3003C09D940B76E7"
 					silent: true
 					type: "command"
@@ -2755,6 +2913,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "5D749F1CE5C23093"
 					silent: true
 					type: "command"
@@ -2762,6 +2921,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "096C300C933D238F"
 					silent: true
 					type: "command"
@@ -2784,6 +2944,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "6D27D7E278C47D2B"
 					silent: true
 					type: "command"
@@ -2791,6 +2952,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "3AF32B4C55AADA63"
 					silent: true
 					type: "command"
@@ -2813,6 +2975,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "684A1C57DB1DBFD2"
 					silent: true
 					type: "command"
@@ -2820,6 +2983,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "219F304BF69F496D"
 					silent: true
 					type: "command"
@@ -2842,6 +3006,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "01EBE70215186264"
 					silent: true
 					type: "command"
@@ -2849,6 +3014,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "31F879A539364E2F"
 					silent: true
 					type: "command"
@@ -2871,6 +3037,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "1ECA1541FFC126EF"
 					silent: true
 					type: "command"
@@ -2878,6 +3045,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "1762DFDDB73C6963"
 					silent: true
 					type: "command"
@@ -2900,6 +3068,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "1D18BA9787E8E804"
 					silent: true
 					type: "command"
@@ -2907,6 +3076,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "35911F27EF8ABC09"
 					silent: true
 					type: "command"
@@ -2929,6 +3099,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "2F0E9F0213A5AA7B"
 					silent: true
 					type: "command"
@@ -2936,6 +3107,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "29FE49ECA78577C2"
 					silent: true
 					type: "command"
@@ -2958,6 +3130,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "0A6BB1D59D7C4B74"
 					silent: true
 					type: "command"
@@ -2965,6 +3138,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "5FC99560F9899A34"
 					silent: true
 					type: "command"
@@ -2987,6 +3161,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "3A797EA275C523B9"
 					silent: true
 					type: "command"
@@ -2994,6 +3169,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "33D27C5D9464C889"
 					silent: true
 					type: "command"
@@ -3044,6 +3220,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "5621CECDE0325B09"
 					silent: true
 					type: "command"
@@ -3051,6 +3228,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "5784E4A03A97E658"
 					silent: true
 					type: "command"
@@ -3073,6 +3251,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "7492AF05AC4EF6EC"
 					silent: true
 					type: "command"
@@ -3080,6 +3259,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "70A417064D53F02C"
 					silent: true
 					type: "command"
@@ -3102,6 +3282,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "2DB00A92F4C79042"
 					silent: true
 					type: "command"
@@ -3109,6 +3290,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "77CA24E7B3DC846E"
 					silent: true
 					type: "command"
@@ -3131,6 +3313,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "79A445826E2F0DCF"
 					silent: true
 					type: "command"
@@ -3138,6 +3321,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "70CC22D8FEFCAACF"
 					silent: true
 					type: "command"
@@ -3160,6 +3344,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "6BB95E45476ABD05"
 					silent: true
 					type: "command"
@@ -3167,6 +3352,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "21C6287971723B9D"
 					silent: true
 					type: "command"
@@ -3189,6 +3375,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "44FA443AD162F736"
 					silent: true
 					type: "command"
@@ -3196,6 +3383,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "6F3A650B1946E5AB"
 					silent: true
 					type: "command"
@@ -3218,6 +3406,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "78736127AD98E07F"
 					silent: true
 					type: "command"
@@ -3225,6 +3414,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "557BA70932A1A62B"
 					silent: true
 					type: "command"
@@ -3247,6 +3437,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "6A98BF2E729BED50"
 					silent: true
 					type: "command"
@@ -3254,6 +3445,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "15444B518D48F8CE"
 					silent: true
 					type: "command"
@@ -3276,6 +3468,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "5EFA0CD1FE5F0AA3"
 					silent: true
 					type: "command"
@@ -3283,6 +3476,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "5A0909727B48D7EF"
 					silent: true
 					type: "command"
@@ -3305,6 +3499,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "2C3D64D3A1E45D11"
 					silent: true
 					type: "command"
@@ -3312,6 +3507,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "23D3FE28BBE75B4A"
 					silent: true
 					type: "command"
@@ -3334,6 +3530,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "586910285E7ADC93"
 					silent: true
 					type: "command"
@@ -3341,6 +3538,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "769CFC76387C9CC4"
 					silent: true
 					type: "command"
@@ -3445,6 +3643,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "0868530F96D6FE39"
 					silent: true
 					type: "command"
@@ -3452,6 +3651,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "2F07C72E854F7941"
 					silent: true
 					type: "command"
@@ -3474,6 +3674,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "057C2B8F4BF3ACB1"
 					silent: true
 					type: "command"
@@ -3481,6 +3682,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "212580E57A81D482"
 					silent: true
 					type: "command"
@@ -3503,6 +3705,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "0579AA1A1F67D520"
 					silent: true
 					type: "command"
@@ -3510,6 +3713,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "0E6BFFEDCA02F3EB"
 					silent: true
 					type: "command"
@@ -3533,6 +3737,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "6EDF2A8FB357E8BB"
 					silent: true
 					type: "command"
@@ -3540,6 +3745,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "761C5F97DDBE684B"
 					silent: true
 					type: "command"
@@ -3562,6 +3768,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "2A263FC4B24703A9"
 					silent: true
 					type: "command"
@@ -3569,6 +3776,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "4F9F560C372E3A68"
 					silent: true
 					type: "command"
@@ -3591,6 +3799,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "6D0B13A2C39CAC02"
 					silent: true
 					type: "command"
@@ -3598,6 +3807,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "2D44724F07B61BAE"
 					silent: true
 					type: "command"
@@ -3645,6 +3855,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "0A871FC96B44B278"
 					silent: true
 					type: "command"
@@ -3652,6 +3863,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "5F7DF972780FBD2F"
 					silent: true
 					type: "command"
@@ -3674,6 +3886,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "4089C3836208ADF2"
 					silent: true
 					type: "command"
@@ -3681,6 +3894,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "53110E9288F01ADC"
 					silent: true
 					type: "command"
@@ -3703,6 +3917,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "534C17755856BF46"
 					silent: true
 					type: "command"
@@ -3710,6 +3925,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "03940F816D380ED1"
 					silent: true
 					type: "command"
@@ -3732,6 +3948,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "44F9249F586E7B80"
 					silent: true
 					type: "command"
@@ -3739,6 +3956,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "46A18B8B061F6889"
 					silent: true
 					type: "command"
@@ -3761,6 +3979,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "614DD660BC436B8D"
 					silent: true
 					type: "command"
@@ -3768,6 +3987,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "470EEC6CFF4F1DC3"
 					silent: true
 					type: "command"
@@ -3790,6 +4010,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "41EE4C04CC467E03"
 					silent: true
 					type: "command"
@@ -3797,6 +4018,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "6D268EC84434E2A1"
 					silent: true
 					type: "command"
@@ -3819,6 +4041,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "7945E0D6DCD7B0F8"
 					silent: true
 					type: "command"
@@ -3826,6 +4049,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "28FD64466F3B0C33"
 					silent: true
 					type: "command"
@@ -3848,6 +4072,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "40A7E11933F0EA1A"
 					silent: true
 					type: "command"
@@ -3855,6 +4080,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "56AE7FC35FE56ECB"
 					silent: true
 					type: "command"
@@ -3904,6 +4130,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "219D2927731978A1"
 					silent: true
 					type: "command"
@@ -3911,6 +4138,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "0A6760128FC2582D"
 					silent: true
 					type: "command"
@@ -3933,6 +4161,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "6C0B3E27A36B2FE7"
 					silent: true
 					type: "command"
@@ -3940,6 +4169,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "065FF344A86414AE"
 					silent: true
 					type: "command"
@@ -3962,6 +4192,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "3072C9CEE4254FB4"
 					silent: true
 					type: "command"
@@ -3969,6 +4200,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "28F0C1F90E6A864D"
 					silent: true
 					type: "command"
@@ -3991,6 +4223,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "65C79D9FB1DD39F0"
 					silent: true
 					type: "command"
@@ -3998,6 +4231,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "0F6FFBB561288073"
 					silent: true
 					type: "command"
@@ -4020,6 +4254,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "2FFE125EC99E73E4"
 					silent: true
 					type: "command"
@@ -4027,6 +4262,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "25899423C5CE11F8"
 					silent: true
 					type: "command"
@@ -4049,6 +4285,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "5550BA781243958B"
 					silent: true
 					type: "command"
@@ -4056,6 +4293,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "388D03E925DB12F3"
 					silent: true
 					type: "command"
@@ -4078,6 +4316,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "3315907F2B4E1994"
 					silent: true
 					type: "command"
@@ -4085,6 +4324,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "314B4FE701DD663C"
 					silent: true
 					type: "command"
@@ -4107,6 +4347,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "30AC4A5B69916AB8"
 					silent: true
 					type: "command"
@@ -4114,6 +4355,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "5A088FC911FA3A11"
 					silent: true
 					type: "command"
@@ -4136,6 +4378,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
 					id: "64A6491627118795"
 					silent: true
 					type: "command"
@@ -4143,6 +4386,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
 					id: "3BC6575AAA9DD76E"
 					silent: true
 					type: "command"

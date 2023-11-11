@@ -2,6 +2,7 @@
 {
 	auto: "no_toast"
 	command: "/scoreboard objectives add minerals_collected dummy {\"text\": \"Minerals Collected\"}"
+	elevate_perms: true
 	id: "xxxidxxx"
 	silent: true
 	type: "command"
@@ -9,6 +10,7 @@
 {
 	auto: "no_toast"
 	command: "/scoreboard players set @p minerals_collected 0"
+	elevate_perms: true
 	id: "xxxidxxx"
 	silent: true
 	type: "command"
@@ -19,6 +21,7 @@ disable_toast: true
 				{
 					auto: "no_toast"
 					command: "/scoreboard players add @p minerals_collected 1"
+					elevate_perms: true
 					id: "xxxidxxx"
 					silent: true
 					type: "command"
@@ -26,6 +29,7 @@ disable_toast: true
 				{
 					auto: "no_toast"
 					command: "/tellraw @p [\"\",{\"text\":\"New mineral collected! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"minerals_collected\"}},{\"text\":\" unique mineral(s)!\"}]"
+					elevate_perms: true
 					id: "xxxidxxx"
 					silent: true
 					type: "command"

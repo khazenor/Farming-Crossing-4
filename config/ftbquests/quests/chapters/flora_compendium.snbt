@@ -17,6 +17,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "4B05628259CBE24C"
 					silent: true
 					type: "command"
@@ -24,6 +25,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "30A1F3D9B4304A8C"
 					silent: true
 					type: "command"
@@ -46,6 +48,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "01723BD8A80842F6"
 					silent: true
 					type: "command"
@@ -53,6 +56,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "0D08AF47FF9C4F50"
 					silent: true
 					type: "command"
@@ -75,6 +79,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "3F3993FF9E6AA8AB"
 					silent: true
 					type: "command"
@@ -82,6 +87,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "1C8BD58641C888D3"
 					silent: true
 					type: "command"
@@ -104,6 +110,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "599F71F494CCBA1B"
 					silent: true
 					type: "command"
@@ -111,6 +118,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "17A12612C2F50FB1"
 					silent: true
 					type: "command"
@@ -133,6 +141,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "197E6357C4BDA74C"
 					silent: true
 					type: "command"
@@ -140,6 +149,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "3D52A781272A3630"
 					silent: true
 					type: "command"
@@ -162,6 +172,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "1689172D42D5C6C9"
 					silent: true
 					type: "command"
@@ -169,6 +180,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "57ADC4C10B290E28"
 					silent: true
 					type: "command"
@@ -191,6 +203,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "21F32FB99B94C71A"
 					silent: true
 					type: "command"
@@ -198,6 +211,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "4911C642DAC785B2"
 					silent: true
 					type: "command"
@@ -220,6 +234,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "3766E4210D6259F5"
 					silent: true
 					type: "command"
@@ -227,6 +242,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "41398C8B762C01BF"
 					silent: true
 					type: "command"
@@ -249,6 +265,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "41135061AD4B4031"
 					silent: true
 					type: "command"
@@ -256,6 +273,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "19676C7FD81B5DED"
 					silent: true
 					type: "command"
@@ -278,6 +296,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "2B0EA87579A59780"
 					silent: true
 					type: "command"
@@ -285,6 +304,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "5DE2C0EC567A2795"
 					silent: true
 					type: "command"
@@ -307,6 +327,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "530B60E8D9713E33"
 					silent: true
 					type: "command"
@@ -314,6 +335,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "1B50644AE6FB9E44"
 					silent: true
 					type: "command"
@@ -336,6 +358,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "00EC8FA7E7AE05A4"
 					silent: true
 					type: "command"
@@ -343,6 +366,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "64AC1939713D1639"
 					silent: true
 					type: "command"
@@ -365,6 +389,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "7AE0B8522FA2433C"
 					silent: true
 					type: "command"
@@ -372,6 +397,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "464B47C759EE86A4"
 					silent: true
 					type: "command"
@@ -394,6 +420,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "4D0613C0AA16360E"
 					silent: true
 					type: "command"
@@ -401,6 +428,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "0508616432078C1F"
 					silent: true
 					type: "command"
@@ -423,6 +451,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "1B4D794F6CAC960D"
 					silent: true
 					type: "command"
@@ -430,6 +459,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "1118F27BAAC8010E"
 					silent: true
 					type: "command"
@@ -452,6 +482,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "5468093BCF8252B6"
 					silent: true
 					type: "command"
@@ -459,6 +490,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "4837704FD9C86EFC"
 					silent: true
 					type: "command"
@@ -481,6 +513,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "36C16F21CDF11DC2"
 					silent: true
 					type: "command"
@@ -488,6 +521,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "119AB2977D511657"
 					silent: true
 					type: "command"
@@ -510,6 +544,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "26F47F7DF4914491"
 					silent: true
 					type: "command"
@@ -517,6 +552,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "1621D6295309D63D"
 					silent: true
 					type: "command"
@@ -539,6 +575,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "086268B93F62CA78"
 					silent: true
 					type: "command"
@@ -546,6 +583,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "58626238065E8678"
 					silent: true
 					type: "command"
@@ -568,6 +606,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "7B7997604C9D0A7B"
 					silent: true
 					type: "command"
@@ -575,6 +614,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "095B0B5E7706777F"
 					silent: true
 					type: "command"
@@ -597,6 +637,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "2D6D82B36157FEBA"
 					silent: true
 					type: "command"
@@ -604,6 +645,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "1857A0C0924848A2"
 					silent: true
 					type: "command"
@@ -626,6 +668,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "469AF3D7FD5D8C60"
 					silent: true
 					type: "command"
@@ -633,6 +676,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "7E9D6E9A9D7B9B2F"
 					silent: true
 					type: "command"
@@ -655,6 +699,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "12B3599DC9403BBE"
 					silent: true
 					type: "command"
@@ -662,6 +707,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "2196026F9C0C864E"
 					silent: true
 					type: "command"
@@ -684,6 +730,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "04A4E67BFB95B526"
 					silent: true
 					type: "command"
@@ -691,6 +738,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "0FF209FBC7DA4DBC"
 					silent: true
 					type: "command"
@@ -713,6 +761,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "52155791EDF776B3"
 					silent: true
 					type: "command"
@@ -720,6 +769,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "7E0C150FA281CDA3"
 					silent: true
 					type: "command"
@@ -742,6 +792,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "5C2F15EE993B5D66"
 					silent: true
 					type: "command"
@@ -749,6 +800,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "5D18280055162D0C"
 					silent: true
 					type: "command"
@@ -771,6 +823,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "40FD8FD72F37C81F"
 					silent: true
 					type: "command"
@@ -778,6 +831,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "53135E958ED94E77"
 					silent: true
 					type: "command"
@@ -800,6 +854,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "1EBB9E60974BC7AD"
 					silent: true
 					type: "command"
@@ -807,6 +862,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "0B205509AEB01795"
 					silent: true
 					type: "command"
@@ -829,6 +885,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "63A1948AB0361F10"
 					silent: true
 					type: "command"
@@ -836,6 +893,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "208A813BA310628E"
 					silent: true
 					type: "command"
@@ -858,6 +916,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "63FC1B8F0FAAB583"
 					silent: true
 					type: "command"
@@ -865,6 +924,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "09D8E1009EDBEE47"
 					silent: true
 					type: "command"
@@ -887,6 +947,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "0D56FF6383524F91"
 					silent: true
 					type: "command"
@@ -894,6 +955,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "6897A34222012251"
 					silent: true
 					type: "command"
@@ -916,6 +978,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "43A309D3F8C60C8E"
 					silent: true
 					type: "command"
@@ -923,6 +986,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "60941165A27A13DC"
 					silent: true
 					type: "command"
@@ -945,6 +1009,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "5D64ACD1C7E60E68"
 					silent: true
 					type: "command"
@@ -952,6 +1017,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "43D450B73579E0D4"
 					silent: true
 					type: "command"
@@ -974,6 +1040,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "6C3300342991A9B0"
 					silent: true
 					type: "command"
@@ -981,6 +1048,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "7891483931E2BDBB"
 					silent: true
 					type: "command"
@@ -1003,6 +1071,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "217E80AB5B421963"
 					silent: true
 					type: "command"
@@ -1010,6 +1079,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "2A2B78F1AB89B43A"
 					silent: true
 					type: "command"
@@ -1032,6 +1102,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "184E226654CF1067"
 					silent: true
 					type: "command"
@@ -1039,6 +1110,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "0B0DAC1BACF3CC38"
 					silent: true
 					type: "command"
@@ -1061,6 +1133,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "4346D2C43BA5B24B"
 					silent: true
 					type: "command"
@@ -1068,6 +1141,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "607D1E81BF0FCF02"
 					silent: true
 					type: "command"
@@ -1090,6 +1164,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "12122DFCA4E57FAA"
 					silent: true
 					type: "command"
@@ -1097,6 +1172,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "0FED87EC7EC94EBB"
 					silent: true
 					type: "command"
@@ -1119,6 +1195,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "3DCE09C3C1447DC4"
 					silent: true
 					type: "command"
@@ -1126,6 +1203,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "010E1DD0852D8968"
 					silent: true
 					type: "command"
@@ -1148,6 +1226,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "0C9FDD9718758DF3"
 					silent: true
 					type: "command"
@@ -1155,6 +1234,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "1C266310E0965738"
 					silent: true
 					type: "command"
@@ -1177,6 +1257,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "3A0FB01EF0029E37"
 					silent: true
 					type: "command"
@@ -1184,6 +1265,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "57EA139A77FFFA43"
 					silent: true
 					type: "command"
@@ -1206,6 +1288,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "582326EE3A3337B7"
 					silent: true
 					type: "command"
@@ -1213,6 +1296,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "539704D7F15636B8"
 					silent: true
 					type: "command"
@@ -1235,6 +1319,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "3CADB4BA62B33357"
 					silent: true
 					type: "command"
@@ -1242,6 +1327,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "2BAE347C0E40D1F9"
 					silent: true
 					type: "command"
@@ -1264,6 +1350,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "52976887F29B77B5"
 					silent: true
 					type: "command"
@@ -1271,6 +1358,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "7F264C908B24DC40"
 					silent: true
 					type: "command"
@@ -1293,6 +1381,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "421A12492BC5DCF4"
 					silent: true
 					type: "command"
@@ -1300,6 +1389,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "556F2B807B96F7AB"
 					silent: true
 					type: "command"
@@ -1322,6 +1412,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "067079E47C79DE53"
 					silent: true
 					type: "command"
@@ -1329,6 +1420,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "7D5CFEDBC9D175AC"
 					silent: true
 					type: "command"
@@ -1351,6 +1443,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "7A38F02E1BF35639"
 					silent: true
 					type: "command"
@@ -1358,6 +1451,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "020F99E41919C997"
 					silent: true
 					type: "command"
@@ -1380,6 +1474,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "0C924330DCC6638B"
 					silent: true
 					type: "command"
@@ -1387,6 +1482,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "1A685F2F9B5E2C44"
 					silent: true
 					type: "command"
@@ -1409,6 +1505,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "210BC8E59CCBADB6"
 					silent: true
 					type: "command"
@@ -1416,6 +1513,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "316A194C5F356F50"
 					silent: true
 					type: "command"
@@ -1438,6 +1536,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "5C34D16A9BEEE971"
 					silent: true
 					type: "command"
@@ -1445,6 +1544,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "3980ECFD95F36BFE"
 					silent: true
 					type: "command"
@@ -1467,6 +1567,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "09107A85E3192C20"
 					silent: true
 					type: "command"
@@ -1474,6 +1575,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "492B61A5918B870E"
 					silent: true
 					type: "command"
@@ -1496,6 +1598,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "58000E283B413459"
 					silent: true
 					type: "command"
@@ -1503,6 +1606,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "08D7CB1A4E3CAACA"
 					silent: true
 					type: "command"
@@ -1525,6 +1629,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "4DB5D188A093327C"
 					silent: true
 					type: "command"
@@ -1532,6 +1637,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "61507D70C55033F0"
 					silent: true
 					type: "command"
@@ -1554,6 +1660,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "3338E75E1C0E7D5C"
 					silent: true
 					type: "command"
@@ -1561,6 +1668,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "1B639AC4C7895E3A"
 					silent: true
 					type: "command"
@@ -1583,6 +1691,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "710DDE01BA51B80A"
 					silent: true
 					type: "command"
@@ -1590,6 +1699,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "29E3005371B3B894"
 					silent: true
 					type: "command"
@@ -1612,6 +1722,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "2BAD37BA60169D34"
 					silent: true
 					type: "command"
@@ -1619,6 +1730,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "26CF3969856996A7"
 					silent: true
 					type: "command"
@@ -1641,6 +1753,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "78FF59696A36E6BE"
 					silent: true
 					type: "command"
@@ -1648,6 +1761,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "53C2CFD0CD161E9F"
 					silent: true
 					type: "command"
@@ -1670,6 +1784,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "38B4F4EE5FC40C5D"
 					silent: true
 					type: "command"
@@ -1677,6 +1792,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "36881C88CEBE491B"
 					silent: true
 					type: "command"
@@ -1699,6 +1815,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "308BA017813535FA"
 					silent: true
 					type: "command"
@@ -1706,6 +1823,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "2B0B27E284B7F66C"
 					silent: true
 					type: "command"
@@ -1728,6 +1846,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "433274AFC7BAFAE5"
 					silent: true
 					type: "command"
@@ -1735,6 +1854,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "45BDA28B02A0115E"
 					silent: true
 					type: "command"
@@ -1757,6 +1877,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "1DF12C5F69A7B978"
 					silent: true
 					type: "command"
@@ -1764,6 +1885,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "10D24F136506C803"
 					silent: true
 					type: "command"
@@ -1786,6 +1908,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "720F3E5D7C9DA36D"
 					silent: true
 					type: "command"
@@ -1793,6 +1916,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "6DBE34DDAAF00959"
 					silent: true
 					type: "command"
@@ -1815,6 +1939,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "0F206915B5D908AE"
 					silent: true
 					type: "command"
@@ -1822,6 +1947,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "3F520C7D0DD7C331"
 					silent: true
 					type: "command"
@@ -1844,6 +1970,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "2B3172FF1E2020D6"
 					silent: true
 					type: "command"
@@ -1851,6 +1978,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "40FE75A41BEA9822"
 					silent: true
 					type: "command"
@@ -1873,6 +2001,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "1DB9F9ABDC24CB6F"
 					silent: true
 					type: "command"
@@ -1880,6 +2009,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "552F6AEB9428C82F"
 					silent: true
 					type: "command"
@@ -1902,6 +2032,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "5C9B6CEC5B01D757"
 					silent: true
 					type: "command"
@@ -1909,6 +2040,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "0CF518510E6D38DA"
 					silent: true
 					type: "command"
@@ -1931,6 +2063,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "634F8A3344FEDBE0"
 					silent: true
 					type: "command"
@@ -1938,6 +2071,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "696D8FF1ED5099EE"
 					silent: true
 					type: "command"
@@ -1960,6 +2094,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "4F179E656C109A77"
 					silent: true
 					type: "command"
@@ -1967,6 +2102,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "4108BBEB4EA1FE16"
 					silent: true
 					type: "command"
@@ -1989,6 +2125,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "56651182B06FE04D"
 					silent: true
 					type: "command"
@@ -1996,6 +2133,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "5461A9F9CAB64C4E"
 					silent: true
 					type: "command"
@@ -2018,6 +2156,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "551240653EECD00F"
 					silent: true
 					type: "command"
@@ -2025,6 +2164,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "58D603C13F09CAE0"
 					silent: true
 					type: "command"
@@ -2047,6 +2187,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "162237FADC43A8CB"
 					silent: true
 					type: "command"
@@ -2054,6 +2195,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "4D1E4299B541422B"
 					silent: true
 					type: "command"
@@ -2076,6 +2218,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "42110EC5FC3E0159"
 					silent: true
 					type: "command"
@@ -2083,6 +2226,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "4FCD449506256ECC"
 					silent: true
 					type: "command"
@@ -2105,6 +2249,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "2A199DD6624C64DD"
 					silent: true
 					type: "command"
@@ -2112,6 +2257,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "75EA24EA2E4D6403"
 					silent: true
 					type: "command"
@@ -2134,6 +2280,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "76296C7D0ED0400A"
 					silent: true
 					type: "command"
@@ -2141,6 +2288,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "3B2179CCD3F39D79"
 					silent: true
 					type: "command"
@@ -2163,6 +2311,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "7ECF8D409D5DC6EF"
 					silent: true
 					type: "command"
@@ -2170,6 +2319,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "5781F9678C4B2AB6"
 					silent: true
 					type: "command"
@@ -2192,6 +2342,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "213DAA3875121C1C"
 					silent: true
 					type: "command"
@@ -2199,6 +2350,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "0F214603C6662557"
 					silent: true
 					type: "command"
@@ -2221,6 +2373,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "198BC7548BE061D4"
 					silent: true
 					type: "command"
@@ -2228,6 +2381,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "721B60285EE184A4"
 					silent: true
 					type: "command"
@@ -2250,6 +2404,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "307A71505FAB7AE1"
 					silent: true
 					type: "command"
@@ -2257,6 +2412,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "765A8D1BACCE8050"
 					silent: true
 					type: "command"
@@ -2279,6 +2435,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "461E6F22C5AB8FEC"
 					silent: true
 					type: "command"
@@ -2286,6 +2443,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "48E645FEF708608C"
 					silent: true
 					type: "command"
@@ -2308,6 +2466,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "56BE1F0210917F34"
 					silent: true
 					type: "command"
@@ -2315,6 +2474,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "63243B7D8FFBC7D3"
 					silent: true
 					type: "command"
@@ -2337,6 +2497,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "3EBF6D6292DF7235"
 					silent: true
 					type: "command"
@@ -2344,6 +2505,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "4E809279DFE62D17"
 					silent: true
 					type: "command"
@@ -2366,6 +2528,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "45E1C8855FBF9596"
 					silent: true
 					type: "command"
@@ -2373,6 +2536,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "3412C1A7814E2E18"
 					silent: true
 					type: "command"
@@ -2395,6 +2559,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "47C2241A797E1164"
 					silent: true
 					type: "command"
@@ -2402,6 +2567,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "52DD37461A1023F6"
 					silent: true
 					type: "command"
@@ -2424,6 +2590,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "6317C5D837843B72"
 					silent: true
 					type: "command"
@@ -2431,6 +2598,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "24BB728C83818A05"
 					silent: true
 					type: "command"
@@ -2453,6 +2621,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "347F805D827CDB21"
 					silent: true
 					type: "command"
@@ -2460,6 +2629,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "30922DA5CDD4DF15"
 					silent: true
 					type: "command"
@@ -2482,6 +2652,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "2A9075713EB985F2"
 					silent: true
 					type: "command"
@@ -2489,6 +2660,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "19361F27E6DC6339"
 					silent: true
 					type: "command"
@@ -2511,6 +2683,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "657E2C342F622D2D"
 					silent: true
 					type: "command"
@@ -2518,6 +2691,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "4F2ADB48E05AB485"
 					silent: true
 					type: "command"
@@ -2540,6 +2714,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "1BD1887B4B6B70BC"
 					silent: true
 					type: "command"
@@ -2547,6 +2722,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "458FEB56D446BB31"
 					silent: true
 					type: "command"
@@ -2569,6 +2745,7 @@
 				{
 					auto: "invisible"
 					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
 					id: "14E282F219F56B2E"
 					silent: true
 					type: "command"
@@ -2576,6 +2753,7 @@
 				{
 					auto: "invisible"
 					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
 					id: "0F254891B1CB8C5D"
 					silent: true
 					type: "command"
