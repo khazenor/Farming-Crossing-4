@@ -35,7 +35,7 @@ def mileageRewardQuestContent(icon, numTickets, dependents, numRequired=0, title
 	outStr += f'	icon: "{icon}"\n'
 	outStr += f'	id: "{randomId()}"\n'
 	if numRequired:
-		outStr += f'			min_required_dependencies: {numRequired}'
+		outStr += f'	min_required_dependencies: {numRequired}\n'
 	outStr += f'	rewards: [\n'
 	if lastQuestItem:
 		outStr += f'		{{\n'
