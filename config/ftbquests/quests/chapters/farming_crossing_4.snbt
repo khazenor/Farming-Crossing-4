@@ -753,17 +753,6 @@
 			id: "2D62FBEF18E6ABF6"
 			rewards: [
 				{
-					id: "01A4EA2D750DA262"
-					item: {
-						Count: 1b
-						id: "minecraft:shears"
-						tag: {
-							Damage: 0
-						}
-					}
-					type: "item"
-				}
-				{
 					auto: "invisible"
 					command: "/scoreboard objectives add animals_observed dummy {\"text\": \"Animals Observed\"}"
 					elevate_perms: true
@@ -780,10 +769,10 @@
 					type: "command"
 				}
 				{
-					id: "57A7B5F5CCEE25C4"
+					id: "067F85B892561726"
 					item: {
 						Count: 1b
-						id: "utilitix:mob_yoinker"
+						id: "mobcapturingtool:mob_capturing_tool"
 						tag: { }
 					}
 					type: "item"
