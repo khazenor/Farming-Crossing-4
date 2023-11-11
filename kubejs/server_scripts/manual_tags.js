@@ -26,6 +26,7 @@ ServerEvents.tags('item', event => {
     'kubejs:fresh_water'
   ])
   event.add('meadow:water_bottles', 'kubejs:fresh_water')
+  event.add('candlelight:water_bottles', 'kubejs:fresh_water')
 
   event.add('forge:customer_tables',[
     "villagersplus:acacia_horticulturist_table",
