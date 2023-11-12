@@ -87,6 +87,24 @@ ServerEvents.recipes(event => {
     Item.of('create:scorchia', 32),
     ['create:scorchia', 'kubejs:miles_ticket'])
   event.shapeless(
+    Item.of('biomesoplenty:white_sandstone', 32),
+    ['biomesoplenty:white_sandstone', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('biomesoplenty:white_sand', 32),
+    ['biomesoplenty:white_sand', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('biomesoplenty:orange_sandstone', 32),
+    ['biomesoplenty:orange_sandstone', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('biomesoplenty:orange_sand', 32),
+    ['biomesoplenty:orange_sand', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('biomesoplenty:black_sandstone', 32),
+    ['biomesoplenty:black_sandstone', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('biomesoplenty:black_sand', 32),
+    ['biomesoplenty:black_sand', 'kubejs:miles_ticket'])
+  event.shapeless(
     Item.of('minecraft:black_terracotta', 32),
     ['minecraft:black_terracotta', 'kubejs:miles_ticket'])
   event.shapeless(
