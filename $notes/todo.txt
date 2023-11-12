@@ -1,4 +1,3 @@
-- remove depend on tutorials and separate tutorials
 - add mineral
   - coal
 - add flora:
@@ -7,6 +6,15 @@
   - mushroom red and brown
   - glow berry and kelp
   - azaela and flowering azaela
+  - moss and moss carpet
+  - cactus
+  - pink petals
+  - spore blossom
+  - bamboo
+  - drip leaf
+  - sea pickle
+  - sweet berry
+  - lily pad
 
 skins:
 - https://namemc.com/skin/5ecf54ed4460566f
@@ -28,8 +36,6 @@ sounds:
   - https://github.com/Asek3/Rubidium/issues/629
 
 Tutorials:
-  - block duplication with tickets
-  - flower duplication with bonemeal
 Backlog:
   - export hot keys
   - Find and implement a biome mod

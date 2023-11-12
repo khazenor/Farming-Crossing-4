@@ -97,6 +97,8 @@
 		slide_on_fall = true
 		#In case you want to disable supplementaries ropes you can specify here another mod rope and they will be used for rope arrows and in mineshafts instead
 		rope_override = "supplementaries:rope"
+		#Enables horizontal placement of ropes
+		horizontal_ropes = true
 
 	[functional.jar]
 		enabled = true
@@ -417,6 +419,8 @@
 		allow_fire_charges = false
 		#Allows snowballs to be thrown by slingshots
 		allow_snowballs = false
+		#Allows enderpearls to be thrown by slingshots
+		allow_enderpearls = false
 
 	[tools.antique_ink]
 		enabled = true
