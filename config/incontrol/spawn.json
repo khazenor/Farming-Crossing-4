@@ -17,7 +17,7 @@
       "minecraft:ravager",
       "minecraft:slime"
     ],
-    "spawner": false,
+    "when": "onjoin",
     "difficulty": "easy",
     "dimension": "minecraft:overworld",
     "result": "deny"
@@ -40,22 +40,8 @@
       "minecraft:ravager",
       "minecraft:slime"
     ],
-    "spawner": false,
-    "difficulty": "normal",
-    "dimension": "minecraft:overworld",
-    "result": "deny"
-  },
-  {
-    "mob": ["minecraft:zombie"],
-    "difficulty": "normal",
     "when": "onjoin",
-    "dimension": "minecraft:overworld",
-    "result": "deny"
-  },
-  {
-    "mob": ["minecraft:zombie"],
-    "difficulty": "easy",
-    "when": "onjoin",
+    "difficulty": "normal",
     "dimension": "minecraft:overworld",
     "result": "deny"
   }

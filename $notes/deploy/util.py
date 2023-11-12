@@ -27,15 +27,18 @@ def copyFolderRecur(src, destFolder):
 			pass
 
 def removeExtraFilesRecur(src, dest):
-	if Path(dest).is_dir() and Path(src).is_dir():
-		for item in os.listdir(dest):
-			destItemPath = os.path.join(dest, item)
-			srcItemPath = os.path.join(src, item)
-			if Path(destItemPath).is_file():
-				if not os.path.exists(srcItemPath):
-					os.remove(destItemPath)
-			elif Path(destItemPath).is_dir():
-				removeExtraFilesRecur(srcItemPath, destItemPath)
+	if Path(dest).is_dir():
+		if Path(src).is_dir():
+			for item in os.listdir(dest):
+				destItemPath = os.path.join(dest, item)
+				srcItemPath = os.path.join(src, item)
+				if Path(destItemPath).is_file():
+					if not os.path.exists(srcItemPath):
+						os.remove(destItemPath)
+				elif Path(destItemPath).is_dir():
+					removeExtraFilesRecur(srcItemPath, destItemPath)
+		else:
+			shutil.rmtree(dest)
 
 def subFolders(location, folderArray):
 	paths = []
