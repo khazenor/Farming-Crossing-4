@@ -47,7 +47,6 @@
   },
   {
     "mob": ["minecraft:zombie"],
-    "spawner": false,
     "difficulty": "normal",
     "when": "onjoin",
     "dimension": "minecraft:overworld",
@@ -55,7 +54,6 @@
   },
   {
     "mob": ["minecraft:zombie"],
-    "spawner": false,
     "difficulty": "easy",
     "when": "onjoin",
     "dimension": "minecraft:overworld",
