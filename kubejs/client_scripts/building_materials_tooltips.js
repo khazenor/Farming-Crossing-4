@@ -88,7 +88,7 @@ ItemEvents.tooltip(event => {
       'minecraft:snow_block'
     ],
     [
-      'You can craft more with this block', 
+      'You can craft more of this block', 
       'with Miles Tickets in a crafting table'
     ])
 

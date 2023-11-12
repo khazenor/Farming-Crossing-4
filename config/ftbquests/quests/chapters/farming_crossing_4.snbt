@@ -667,6 +667,10 @@
 				"You can attract a customer by putting a customer table near a minecraft villager. "
 				""
 				"Customer villagers will buy meals from you in exchange for miles tickets."
+				""
+				"Villager trades are also dynamic:"
+				""
+				"Villagers change their trades every time they restock/every day. This makes it so that you won't have to get rid of villagers with bad trades after having spent resources on them, and it won't be necessary to breed a large number of them either."
 			]
 			hide: true
 			icon: "villagersplus:oak_horticulturist_table"

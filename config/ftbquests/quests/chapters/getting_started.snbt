@@ -5,7 +5,7 @@
 	group: "7D82F7542E441BF2"
 	icon: "minecraft:writable_book"
 	id: "61E9F8FCB1C14B9B"
-	order_index: 1
+	order_index: 0
 	quest_links: [ ]
 	quests: [
 		{
@@ -35,7 +35,7 @@
 				title: "Any #minecraft:logs"
 				type: "item"
 			}]
-			title: "Info: Useful Commands"
+			title: "Info: Remember to /sethome!"
 			x: 0.5d
 			y: 0.0d
 		}
@@ -148,6 +148,75 @@
 			x: 2.5d
 			y: 0.0d
 		}
+		{
+			description: [
+				"Most hostile mobs in the overworld (that are not from spawners) are disabled this modpack under easy and normal difficulty."
+				""
+				"If you want the hostile mobs to spawn like normal, you can simply change the difficulty to hard."
+			]
+			icon: "minecraft:rotten_flesh"
+			id: "75C758F7FC1F000D"
+			tasks: [{
+				id: "4AB99F015EE6D335"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "minecraft:swords"
+					}
+				}
+				title: "Any #minecraft:swords"
+				type: "item"
+			}]
+			title: "Info: Hostile Mob Spawning"
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			description: [
+				"This modpack has the following gamerule changes by default:"
+				""
+				"- doInsomnia = false"
+				"- doPatrolSpawning = false"
+				"- disableRaids = true"
+				"- playersSleepingPercentage = 0"
+				""
+				"If you want to change this you can go to the file \"kubejs\\server_scripts\\global_game_rules.js\""
+				""
+				"and delete the line with the gamerules you would like to change."
+				""
+				"Keep in mind you might have to do this every time you update the modpack since the files would be replaced."
+			]
+			icon: "candlelight:note_paper_writeable"
+			id: "58B915F1180D20B9"
+			tasks: [{
+				id: "1FD50E0F67B93050"
+				title: "Default Gamerules"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			description: [
+				"This modpack contains the mod Dynamic Villager Trades:"
+				""
+				"Villagers choose their trades based on previous player interactions. For instance, a librarian you've bought many Looting books from is more likely to offer sword enchantments and luck related enchantments in the future."
+				""
+				"Villagers change their trades every time they restock/every day (configurable). This makes it so that you won't have to get rid of villagers with bad trades after having spent resources on them, and it won't be necessary to breed a large number of them either."
+			]
+			id: "0FD18A3800A5A7FB"
+			tasks: [{
+				advancement: "minecraft:adventure/trade"
+				criterion: ""
+				icon: "minecraft:emerald"
+				id: "1902CD0F4767ADDB"
+				type: "advancement"
+			}]
+			title: "Info: Dynamic Villager Trades"
+			x: -0.5d
+			y: 1.0d
+		}
 	]
-	title: "Getting Started"
+	title: "Getting Started / FAQ's"
 }

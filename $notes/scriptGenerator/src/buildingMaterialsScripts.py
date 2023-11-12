@@ -17,5 +17,5 @@ def exportScripts():
 
 	with open(os.path.join(const.clientScripts(), 'building_materials_tooltips.js'), 'w') as tooltipFile:
 		tooltipFile.write(kubejs.tooltipFileContent(kubejs.eventAdd(buildingMaterials.buildingMaterials, [
-			"You can craft more with this block", "with Miles Tickets in a crafting table"
+			"You can craft more of this block", "with Miles Tickets in a crafting table"
 		])))
