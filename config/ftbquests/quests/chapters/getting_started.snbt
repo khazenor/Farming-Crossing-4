@@ -1,0 +1,153 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "getting_started"
+	group: "7D82F7542E441BF2"
+	icon: "minecraft:writable_book"
+	id: "61E9F8FCB1C14B9B"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"Here are some useful commands available in this modpack!"
+				""
+				"/sethome - sets your current location as home to teleport back to."
+				""
+				"/home - teleport back to the home location you have set"
+				""
+				"/back - teleport you back to the location you were before you last teleported"
+				""
+				"/tpa {player_name} - request permission to teleport to another player in the server"
+			]
+			icon: "moa_decor_garden_:casa_p_roble"
+			id: "38597CE6BB709431"
+			tasks: [{
+				count: 16L
+				id: "356D013846BD6115"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "minecraft:logs"
+					}
+				}
+				title: "Any #minecraft:logs"
+				type: "item"
+			}]
+			title: "Info: Useful Commands"
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			description: [
+				"{image:khazenor:textures/crafting_on_a_stick/items.png width:100 height:50 align:1}"
+				""
+				"You can make crafting stations on a stick."
+				""
+				"{image:khazenor:textures/crafting_on_a_stick/crafting_table.png width:140 height:70 align:1}"
+				""
+				"You can also put one of these in the bauble slot to open the station using a hot key"
+				""
+				"(\"v\" on a new install. On a modpack update, you will have to resolve the key bind conflict in the settings)"
+				""
+				"{image:khazenor:textures/crafting_on_a_stick/baubles.png width:100 height:80 align:1}"
+			]
+			icon: "crafting_on_a_stick:crafting_table"
+			id: "31699B0FED6F83E6"
+			tasks: [{
+				id: "444FAEA6B58F6AD9"
+				item: "minecraft:crafting_table"
+				type: "item"
+			}]
+			title: "Info: Crafting on a Stick"
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			description: [
+				"Quests in this chapter are purly informational and do not have rewards."
+				""
+				"If you are having trouble figuring something out in this modpack, hopefully you will be able to find relavent information here."
+			]
+			icon: "minecraft:writable_book"
+			id: "3040D972C5FB1772"
+			tasks: [{
+				id: "75A082A764105091"
+				type: "item"
+			}]
+			title: "Press \" ~ \" to Access Quests"
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			description: [
+				"In this modpack trees can be chopped down by repeatedly breaking a single block."
+				""
+				"You can disable this by holding down shift, or by pressing the \" , \" (comma) key to confiure your preferences."
+				""
+				"You would know if this is active when the cursor changes from a cross to an axe."
+			]
+			icon: {
+				Count: 1b
+				id: "minecraft:iron_axe"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "5D04C8CE5BEF3750"
+			subtitle: "Chopping large trees is now easier!"
+			tasks: [{
+				consume_items: false
+				id: "265071FAF2CFD637"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "minecraft:logs"
+					}
+				}
+				title: "Any #minecraft:logs"
+				type: "item"
+			}]
+			title: "Info: Cutting Trees"
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			description: [
+				"When you mouse over edible items. You can see two additional tooltips:"
+				""
+				"{image:khazenor:textures/nutrition/nutrition_tooltip.png width:200 height:100 align:1}"
+				""
+				"The first tooltip indicates that you haven't eat this dish yet.  Eat as many new dishes as possible to get more hearts!"
+				""
+				"The second tooltip shows the nutrition of the dish.  Keep a good balance of all macro nutrients to get buffs! if you have too much or too little of some macro nutrients you will get a minor negative effect."
+				""
+				"You can see how your diet is doing by either pressing the \"N\" key or this button:"
+				""
+				"{image:khazenor:textures/nutrition/nutrition_button.png width:130 height:100 align:1}"
+				"{image:khazenor:textures/nutrition/nutrition_page.png width:150 height:100 align:1}"
+				""
+				"The goal is to have all bars go between both green lines and below the last red line."
+				""
+				"You can also craft a Food Book to keep track of how many more new dishes you would need to eat to gain an extra heart."
+				""
+				"{image:khazenor:textures/sol_carrot/food_book.png width:200 height:100 align:1}"
+			]
+			icon: "solcarrot:food_book"
+			id: "0469D7FD053D523E"
+			subtitle: "Have a great diet with Balanced Nutrition and Spice of Life: Carrot"
+			tasks: [{
+				advancement: "minecraft:husbandry/plant_seed"
+				criterion: ""
+				id: "2EED4003F3819918"
+				type: "advancement"
+			}]
+			title: "Info: Getting a Balanced Diet"
+			x: 2.5d
+			y: 0.0d
+		}
+	]
+	title: "Getting Started"
+}

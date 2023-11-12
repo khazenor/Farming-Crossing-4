@@ -1,0 +1,149 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "quality_of_life"
+	group: "7D82F7542E441BF2"
+	icon: {
+		Count: 1b
+		id: "simplemagnets:basicmagnet"
+		tag: { }
+	}
+	id: "7130D2BA8BBE54FD"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			description: [
+				"The Basic Magnet picks up Items and Experience within a 5 block range of the player"
+				""
+				"{image:khazenor:textures/simple_magnet/simple_magnet_recipe.png width:200 height:100 align:1}"
+				""
+				"There is also an advanced magnet that can attract up to 11 blocks and can be filtered."
+				""
+				"{image:khazenor:textures/simple_magnet/simple_magnet_recipe_advanced.png width:200 height:100 align:1}"
+			]
+			icon: {
+				Count: 1b
+				id: "simplemagnets:basicmagnet"
+				tag: { }
+			}
+			id: "4FEBDBA252372FFB"
+			subtitle: "Colleting items with magnets!"
+			tasks: [
+				{
+					consume_items: false
+					disable_toast: true
+					id: "0B03E1111798CD0B"
+					item: "minecraft:redstone"
+					type: "item"
+				}
+				{
+					consume_items: false
+					disable_toast: true
+					id: "07C8327FA17315EE"
+					item: "minecraft:iron_ingot"
+					type: "item"
+				}
+				{
+					consume_items: false
+					disable_toast: true
+					id: "0D6D8539385D879A"
+					item: "minecraft:lapis_lazuli"
+					type: "item"
+				}
+				{
+					id: "25538FC4C3D491B3"
+					item: "minecraft:ender_pearl"
+					type: "item"
+				}
+			]
+			title: "Info: Simple Magnets"
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			description: [
+				"The crude furnace smelts items with double speed and half xp if the item doesn't fit in smoker or blast furnace"
+				""
+				"{image:khazenor:textures/utilitix/crude_furnace_recipe.png width:200 height:100 align:1}"
+			]
+			icon: "utilitix:crude_furnace"
+			id: "43719B15350DD2B0"
+			tasks: [{
+				consume_items: false
+				id: "0AC9C427975A187F"
+				item: "minecraft:furnace"
+				type: "item"
+			}]
+			title: "Info: Crude Furnace"
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			description: [
+				"The Compressed mod allows you to compress many common items by putting 9 of them in the crafting table:"
+				"{image:khazenor:textures/compressed/compressed_cobble.png width:200 height:100 align:1}"
+			]
+			icon: "compressedblocks:c6_cobblestone"
+			id: "42313E6F3D7ACAF6"
+			subtitle: "Compress common items to save your inventory space!"
+			tasks: [{
+				consume_items: false
+				count: 64L
+				id: "7506573540FF68F4"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "forge:cobblestone"
+					}
+				}
+				title: "Any #forge:cobblestone"
+				type: "item"
+			}]
+			title: "Info: Compressed Items"
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			description: [
+				"{image:khazenor:textures/tool_belt/tool_belt_recipe.png width:160 height:80 align:1}"
+				""
+				"{image:khazenor:textures/tool_belt/tool_belt_upgrade.png width:160 height:80 align:1}"
+				""
+				"The belt can be placed in the belt slot"
+				""
+				"2 stock slots, upgradeable to 9 by combining with tool pouches in an anvil!"
+				""
+				"Quickly switch between tools using the handy Radial Menu! (Hold R down -- or change the keybind to your preference)"
+				""
+				"It holds any non-stackable item!"
+				""
+				"Item Display on Players -- show off your tools at all times! (only the first 2 slots are shown)"
+			]
+			icon: "toolbelt:belt"
+			id: "7E6FDA26451038B4"
+			tasks: [
+				{
+					id: "644C4D9B1D0C9A08"
+					item: "minecraft:leather"
+					type: "item"
+				}
+				{
+					id: "69C6BC5E31C3883B"
+					item: "minecraft:iron_ingot"
+					type: "item"
+				}
+				{
+					id: "590482D3F347F95A"
+					item: "minecraft:string"
+					type: "item"
+				}
+			]
+			title: "Info: Tool belt"
+			x: 2.5d
+			y: 0.0d
+		}
+	]
+	title: "Quality of Life"
+}
