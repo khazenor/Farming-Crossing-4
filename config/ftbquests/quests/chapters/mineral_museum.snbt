@@ -1062,6 +1062,37 @@
 			x: 4.0d
 			y: 2.5d
 		}
+		{
+			dependencies: ["44DB551B93AA28F9"]
+			disable_toast: true
+			hide: true
+			id: "66CA08F036D618E0"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p minerals_collected 1"
+					elevate_perms: true
+					id: "6510C0DB6E8F2219"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"New mineral collected! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"minerals_collected\"}},{\"text\":\" unique mineral(s)!\"}]"
+					elevate_perms: true
+					id: "31E350046DDC4D5D"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "1E67454CEF6EB0E3"
+				item: "minecraft:coal"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.5d
+		}
 	]
 	title: "Mineral Museum"
 }
