@@ -2767,6 +2767,595 @@
 			x: 4.0d
 			y: 15.0d
 		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "3935BE9EA98423CA"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "3880B10A13E3E8B1"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "09EE8240292258F4"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "725CB2460846FE29"
+				item: "minecraft:apple"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "6C603A12A8046BF5"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "508E83A483827515"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "09C965C6D7EA4688"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "0509A766077FAC9A"
+				item: "minecraft:sugar_cane"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "0C984BBEAD12AB80"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "365724EE0467785F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "11CF2BD17B23542C"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "5F5D0B472D4B11EB"
+				item: "minecraft:brown_mushroom"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "54350AF0E0576AB7"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "14C615493A251F6C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "4EB7D96199733504"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "4AB1AB7B249078F6"
+				item: "minecraft:red_mushroom"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "708DA8F0F8FB04C8"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "0F8DD293B90FAF64"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "63C5DB7EC4DC345C"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "79606001DF9E0DC4"
+				item: "minecraft:glow_berries"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "4DE0EB3B5D3A4FE0"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "77961D34F161E51B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "3626D5310CFC6F02"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "0665C0BB79850A26"
+				item: "minecraft:kelp"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "57A9B84C2A5EB509"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "34CFD93306E12240"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "4FAD6CDDD8CABA59"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "279EB69C1B1C887C"
+				item: "minecraft:azalea"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "6B8EDA5F55DA3640"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "234A32085EF51B31"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "4C9A2964EAC6EBF8"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "7B1B84184D3AAE0F"
+				item: "minecraft:flowering_azalea"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "613FACD98EF5D2FC"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "6A1DD44BC11D4C70"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "272B20B9CE6DDA3A"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "103ADEAB3DB1902B"
+				item: "minecraft:moss_block"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "1FE011E490CD37C6"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "319C1F160387C512"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "591B9C492812E32E"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "6F3722CECACA32B3"
+				item: "minecraft:moss_carpet"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "1B0A7915E723939A"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "30A17B8FE66643B7"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "16D3F47BD71D5CED"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "24B55BF4C13A6923"
+				item: "minecraft:cactus"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "497BABF4FBD17A70"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "48E3E30B1D12EF90"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "5874A53DC0456DD0"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "04FCDA91E4F66368"
+				item: "minecraft:pink_petals"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "53677C7237E4B8C1"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "055F0A2B5C757097"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "1D1274F2B39FE9BA"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "47F0D69A12E24AF1"
+				item: "minecraft:spore_blossom"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "17C58EE62193AF0B"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "692E5E50D2CADA7F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "11E3821EBDB8C45F"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "794E13EEDE3724CB"
+				item: "minecraft:bamboo"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "68375174D5636C34"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "1F8A1F51B48B3F2A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "2B63BFE3CC885C7E"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "11F822EAFC5698F3"
+				item: "minecraft:big_dripleaf"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "2D9A2C72802B83B8"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "5099278AA82B5462"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "75603003496A27DE"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "165DC9EC25409EA6"
+				item: "minecraft:sea_pickle"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "76F92D2397B78795"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "0C1812A2316E0F5C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "4BCBA6AC8C79F613"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "581EF5517253C48C"
+				item: "minecraft:sweet_berries"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "273CB1EFF5AE3707"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "1AFD0E288F8A9A26"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "6FBD9F2D00CF1D0B"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "1C9AB52EC6167A83"
+				item: "minecraft:lily_pad"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "1DBF028F08776DF3"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "5C6517E5E0F0488C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "35F60220DD201722"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "589C0782DD71D410"
+				item: "biomesoplenty:huge_lily_pad"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 18.0d
+		}
 	]
 	title: "Flora Compendium"
 }
