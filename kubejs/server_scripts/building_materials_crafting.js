@@ -254,5 +254,14 @@ ServerEvents.recipes(event => {
   event.shapeless(
     Item.of('minecraft:snow_block', 32),
     ['minecraft:snow_block', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:prismarine', 32),
+    ['minecraft:prismarine', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:prismarine_bricks', 32),
+    ['minecraft:prismarine_bricks', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:dark_prismarine', 32),
+    ['minecraft:dark_prismarine', 'kubejs:miles_ticket'])
 
 })

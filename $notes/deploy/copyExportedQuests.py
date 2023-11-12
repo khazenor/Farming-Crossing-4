@@ -1,6 +1,8 @@
 import config
 import util
 import os
+from pathlib import Path
+import shutil
 
 def copyServerQuests():
 	print('copying quest back to config source')
@@ -10,8 +12,12 @@ def copyServerQuests():
 	latestSavedName = savedQuestFolders[len(savedQuestFolders) - 1]
 	questSrc = os.path.join(savedQuestPath, latestSavedName)
 	questDest = config.questFolder(config.configSrc())
-	util.copyFolder(questSrc, questDest)
-
+	for item in os.listdir(questSrc):
+		itemPath = os.path.join(questSrc, item)
+		if Path(itemPath).is_dir():
+			util.copyFolder(itemPath, os.path.join(questDest, item))
+		else:
+			shutil.copy2(itemPath, questDest)
 
 if __name__ == '__main__':
 	copyServerQuests()

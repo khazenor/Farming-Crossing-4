@@ -1,45 +1,13 @@
 [
   {
-    "mob": [
-      "minecraft:zombie",
-      "minecraft:cave_spider",
-      "minecraft:creeper",
-      "minecraft:drowned",
-      "minecraft:enderman",
-      "minecraft:husk",
-      "minecraft:skeleton",
-      "minecraft:spider",
-      "minecraft:stray",
-      "minecraft:zombie_villager",
-      "minecraft:witch",
-      "minecraft:phantom",
-      "minecraft:pillager",
-      "minecraft:ravager",
-      "minecraft:slime"
-    ],
+    "hostile": true,
     "when": "onjoin",
     "difficulty": "easy",
     "dimension": "minecraft:overworld",
     "result": "deny"
   },
   {
-    "mob": [
-      "minecraft:zombie",
-      "minecraft:cave_spider",
-      "minecraft:creeper",
-      "minecraft:drowned",
-      "minecraft:enderman",
-      "minecraft:husk",
-      "minecraft:skeleton",
-      "minecraft:spider",
-      "minecraft:stray",
-      "minecraft:zombie_villager",
-      "minecraft:witch",
-      "minecraft:phantom",
-      "minecraft:pillager",
-      "minecraft:ravager",
-      "minecraft:slime"
-    ],
+    "hostile": true,
     "when": "onjoin",
     "difficulty": "normal",
     "dimension": "minecraft:overworld",

@@ -85,7 +85,10 @@ ItemEvents.tooltip(event => {
       'minecraft:white_concrete_powder', 
       'minecraft:yellow_concrete', 
       'minecraft:yellow_concrete_powder', 
-      'minecraft:snow_block'
+      'minecraft:snow_block', 
+      'minecraft:prismarine', 
+      'minecraft:prismarine_bricks', 
+      'minecraft:dark_prismarine'
     ],
     [
       'You can craft more of this block', 

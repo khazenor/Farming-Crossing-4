@@ -76,6 +76,18 @@
       "output": { "item": "alexsmobs:bone_serpent_tooth", "count": 1 }, 
       "payment": { "item": "kubejs:miles_ticket", "count": 4 }, 
       "category": "mobdrops"
+    },{
+      "output": { "item": "alexsmobs:skreecher_soul", "count": 1 }, 
+      "payment": { "item": "kubejs:miles_ticket", "count": 16 }, 
+      "category": "mobdrops"
+    },{
+      "output": { "item": "minecraft:prismarine_shard", "count": 1 }, 
+      "payment": { "item": "kubejs:miles_ticket", "count": 8 }, 
+      "category": "mobdrops"
+    },{
+      "output": { "item": "minecraft:prismarine_crystals", "count": 1 }, 
+      "payment": { "item": "kubejs:miles_ticket", "count": 8 }, 
+      "category": "mobdrops"
     }
   ]
 }
