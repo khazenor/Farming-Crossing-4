@@ -3384,8 +3384,8 @@
 				item: "biomesoplenty:rose"
 				type: "item"
 			}]
-			x: -15.0d
-			y: -18.0d
+			x: 0.0d
+			y: 19.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3415,8 +3415,8 @@
 				item: "alexsmobs:acacia_blossom"
 				type: "item"
 			}]
-			x: -15.0d
-			y: -18.0d
+			x: 1.0d
+			y: 19.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3446,8 +3446,8 @@
 				item: "beachparty:coconut"
 				type: "item"
 			}]
-			x: -15.0d
-			y: -18.0d
+			x: 2.0d
+			y: 19.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3477,8 +3477,8 @@
 				item: "alexsmobs:banana"
 				type: "item"
 			}]
-			x: -15.0d
-			y: -18.0d
+			x: 3.0d
+			y: 19.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3508,8 +3508,8 @@
 				item: "minecraft:wither_rose"
 				type: "item"
 			}]
-			x: -15.0d
-			y: -18.0d
+			x: 4.0d
+			y: 19.0d
 		}
 	]
 	title: "Flora Compendium"
