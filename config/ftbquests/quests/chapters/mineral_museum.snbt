@@ -1093,6 +1093,37 @@
 			x: 4.0d
 			y: 2.5d
 		}
+		{
+			dependencies: ["44DB551B93AA28F9"]
+			disable_toast: true
+			hide: true
+			id: "5ABA835999F93011"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p minerals_collected 1"
+					elevate_perms: true
+					id: "07C6934A2242CBA5"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"New mineral collected! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"minerals_collected\"}},{\"text\":\" unique mineral(s)!\"}]"
+					elevate_perms: true
+					id: "73170309A9A21649"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "723B3A2CC9665C42"
+				item: "minecraft:lapis_lazuli"
+				type: "item"
+			}]
+			x: -4.0d
+			y: -2.5d
+		}
 	]
 	title: "Mineral Museum"
 }

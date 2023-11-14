@@ -15,5 +15,8 @@
         "refill_before_tool_break": {
             "value": false
         }
+    },
+    "ScrollSettings": {
+        "scroll_auto_pickup_next_for_single": false
     }
 }

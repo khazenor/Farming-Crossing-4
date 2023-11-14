@@ -3356,6 +3356,161 @@
 			x: 5.0d
 			y: 18.0d
 		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "36C9DFE963AF665C"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "555C5629019F5357"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "16F733FD2D5E4889"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "3C11EEC6C67A7EEC"
+				item: "biomesoplenty:rose"
+				type: "item"
+			}]
+			x: -15.0d
+			y: -18.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "1FE94FBBF1515314"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "5C9352F7E27F5FEC"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "1D86246EAC5191B9"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "5859C454CCEBF3BD"
+				item: "alexsmobs:acacia_blossom"
+				type: "item"
+			}]
+			x: -15.0d
+			y: -18.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "5E03682FBFD3F32F"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "30B0E0BCE9331E1B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "4981429931AE39B0"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "2CDDAF54DF1F41D1"
+				item: "beachparty:coconut"
+				type: "item"
+			}]
+			x: -15.0d
+			y: -18.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "5F70923B6C8EE309"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "643A6256FEAD318B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "46C611E01448EA37"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "1077B7DC21D96EBD"
+				item: "alexsmobs:banana"
+				type: "item"
+			}]
+			x: -15.0d
+			y: -18.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "761CFFBD1F905297"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "73512527AD356842"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "00CA286CC425E96D"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "3FD47E6E4E0D79C1"
+				item: "minecraft:wither_rose"
+				type: "item"
+			}]
+			x: -15.0d
+			y: -18.0d
+		}
 	]
 	title: "Flora Compendium"
 }

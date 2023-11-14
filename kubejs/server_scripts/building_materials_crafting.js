@@ -263,5 +263,8 @@ ServerEvents.recipes(event => {
   event.shapeless(
     Item.of('minecraft:dark_prismarine', 32),
     ['minecraft:dark_prismarine', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('meadow:limestone', 32),
+    ['meadow:limestone', 'kubejs:miles_ticket'])
 
 })

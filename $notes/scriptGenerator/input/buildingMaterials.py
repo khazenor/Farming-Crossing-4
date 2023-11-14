@@ -93,5 +93,6 @@ buildingMaterials = [
     "minecraft:snow_block",
     "minecraft:prismarine",
     "minecraft:prismarine_bricks",
-    "minecraft:dark_prismarine"
+    "minecraft:dark_prismarine",
+    "meadow:limestone"
 ]
