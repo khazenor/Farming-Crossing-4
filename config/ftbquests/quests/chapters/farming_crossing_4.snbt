@@ -5,7 +5,7 @@
 	group: ""
 	icon: "minecraft:peony"
 	id: "4362A64FA38E4BCF"
-	order_index: 1
+	order_index: 0
 	quest_links: [ ]
 	quests: [
 		{
@@ -35,7 +35,7 @@
 				item: "bakery:bread"
 				type: "item"
 			}]
-			x: 0.5d
+			x: 1.5d
 			y: -3.5d
 		}
 		{
@@ -129,7 +129,7 @@
 				item: "bakery:strawberry_jam"
 				type: "item"
 			}]
-			x: 1.5d
+			x: 2.5d
 			y: -3.5d
 		}
 		{
@@ -154,7 +154,7 @@
 				item: "bakery:strawberry_cake"
 				type: "item"
 			}]
-			x: 2.5d
+			x: 3.5d
 			y: -3.5d
 		}
 		{
@@ -185,7 +185,7 @@
 				item: "vinery:red_grapejuice_wine_bottle"
 				type: "item"
 			}]
-			x: 3.5d
+			x: 4.5d
 			y: -3.5d
 		}
 		{
@@ -231,7 +231,7 @@
 				}
 				type: "item"
 			}]
-			x: 4.5d
+			x: 5.5d
 			y: -3.5d
 		}
 		{
@@ -248,7 +248,7 @@
 				item: "meadow:cheese_block"
 				type: "item"
 			}]
-			x: -0.5d
+			x: 2.5d
 			y: -4.5d
 		}
 		{
@@ -272,7 +272,7 @@
 				item: "meadow:cheese_stick"
 				type: "item"
 			}]
-			x: 0.5d
+			x: 3.5d
 			y: -4.5d
 		}
 		{
@@ -302,7 +302,7 @@
 				item: "candlelight:mushroom_soup"
 				type: "item"
 			}]
-			x: 1.5d
+			x: 4.5d
 			y: -4.5d
 		}
 		{
@@ -327,7 +327,7 @@
 				item: "candlelight:pizza"
 				type: "item"
 			}]
-			x: 2.5d
+			x: 5.5d
 			y: -4.5d
 		}
 		{
@@ -344,8 +344,8 @@
 				item: "beachparty:icecream_coconut"
 				type: "item"
 			}]
-			x: 3.5d
-			y: -4.5d
+			x: 4.5d
+			y: -5.5d
 		}
 		{
 			dependencies: ["2D0063702FDE9B52"]
@@ -362,8 +362,8 @@
 				item: "beachparty:coconut_cocktail"
 				type: "item"
 			}]
-			x: 4.5d
-			y: -4.5d
+			x: 5.5d
+			y: -5.5d
 		}
 		{
 			dependencies: ["7CF35DAE02E4B6C0"]
@@ -693,8 +693,8 @@
 				type: "item"
 			}]
 			title: "Starting a Restaurant"
-			x: -0.5d
-			y: -3.5d
+			x: 1.5d
+			y: -4.5d
 		}
 		{
 			dependencies: ["7CF35DAE02E4B6C0"]
@@ -733,7 +733,7 @@
 			}]
 			title: "Furniture Cutting"
 			x: 0.5d
-			y: -0.5d
+			y: -2.5d
 		}
 		{
 			dependencies: ["7CF35DAE02E4B6C0"]
@@ -1255,7 +1255,15 @@
 		}
 		{
 			dependencies: ["7CF35DAE02E4B6C0"]
-			description: ["After you have collected enough flora, you will be able to redeem some Miles Tickets from the Miles Reward Program chapter."]
+			description: [
+				"Ha! Love picking fruits in this new area! Nature's bounty is amazing and you should savor it with me by collecting all the flora!"
+				""
+				"- Yukkie the bat"
+				""
+				"----------"
+				""
+				"After you have collected enough flora, you will be able to redeem some Miles Tickets from the Miles Reward Program chapter."
+			]
 			hide: true
 			icon: "minecraft:cherry_sapling"
 			id: "0EABDA42EA87C46C"
@@ -1296,7 +1304,7 @@
 			}]
 			title: "Collecting Flora"
 			x: 0.5d
-			y: -2.5d
+			y: -0.5d
 		}
 		{
 			can_repeat: true

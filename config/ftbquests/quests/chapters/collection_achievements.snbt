@@ -5,7 +5,7 @@
 	group: ""
 	icon: "kubejs:miles_ticket"
 	id: "584D3A3E9C9D19F6"
-	order_index: 0
+	order_index: 1
 	quest_links: [ ]
 	quests: [
 		{
@@ -7054,7 +7054,6 @@
 			]
 			icon: "moa_decor_art:martilloycincel"
 			id: "1E0E173C182754F4"
-			min_required_dependencies: -111
 			rewards: [{
 				count: 152
 				id: "6647A7D940536642"
@@ -7408,7 +7407,6 @@
 			]
 			icon: "moa_decor_art:martilloycincel"
 			id: "7455C1A64ECBB037"
-			min_required_dependencies: -71
 			rewards: [{
 				count: 222
 				id: "6994CA16999AF011"
@@ -7762,7 +7760,6 @@
 			]
 			icon: "moa_decor_art:martilloycincel"
 			id: "70EFF624C348B2D8"
-			min_required_dependencies: -26
 			rewards: [{
 				count: 310
 				id: "638C54FD219DCFCA"
@@ -10787,7 +10784,6 @@
 			]
 			icon: "simplehats:haticon"
 			id: "6848734CD7248820"
-			min_required_dependencies: -111
 			rewards: [{
 				count: 128
 				id: "68D214237F974824"
@@ -11046,7 +11042,6 @@
 			]
 			icon: "simplehats:haticon"
 			id: "2637E4DB3EE36641"
-			min_required_dependencies: -71
 			rewards: [{
 				count: 186
 				id: "6D7DC7CECD7466B0"
