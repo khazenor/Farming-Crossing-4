@@ -18,5 +18,12 @@
     },
     "ScrollSettings": {
         "scroll_auto_pickup_next_for_single": false
+    },
+    "Hotkeys": {
+        "sort_inventory": {
+            "main": {
+                "keys": "PAGE_UP"
+            }
+        }
     }
 }
