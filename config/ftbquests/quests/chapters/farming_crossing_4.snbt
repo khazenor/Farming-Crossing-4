@@ -1788,6 +1788,7 @@
 		}
 		{
 			can_repeat: true
+			dependencies: ["319E027107D89BD3"]
 			description: [
 				"Place down the following blocks to help Sam move in!"
 				""
@@ -1858,6 +1859,7 @@
 		}
 		{
 			can_repeat: true
+			dependencies: ["28FE86BC236BE12C"]
 			description: [
 				"Place down the following blocks to help Andre move in!"
 				""
@@ -1928,6 +1930,7 @@
 		}
 		{
 			can_repeat: true
+			dependencies: ["659A021698183855"]
 			description: [
 				"Place down the following blocks to help Yukkie move in!"
 				""
@@ -1993,11 +1996,12 @@
 				}
 			]
 			title: "Help Yukkie Move In"
-			x: 3.5d
-			y: -5.5d
+			x: 0.5d
+			y: -4.5d
 		}
 		{
 			can_repeat: true
+			dependencies: ["08388AA117508849"]
 			description: [
 				"Place down the following blocks to help Laly move in!"
 				""
@@ -2068,6 +2072,7 @@
 		}
 		{
 			can_repeat: true
+			dependencies: ["6EE60641D96F0EC2"]
 			description: [
 				"Place down the following blocks to help Pamela move in!"
 				""
@@ -2138,7 +2143,7 @@
 		}
 		{
 			can_repeat: true
-			dependencies: ["7CE7B5249150EEC7"]
+			dependencies: ["7D4271AE1BB8E3F2"]
 			description: [
 				"Place down the following blocks to help Jess move in!"
 				""
@@ -2204,15 +2209,18 @@
 				}
 			]
 			title: "Help Jess Move In"
-			x: 0.5d
-			y: -4.5d
+			x: 2.5d
+			y: -5.5d
 		}
 		{
 			can_repeat: true
+			dependencies: ["7CE7B5249150EEC7"]
 			description: [
 				"Place down the following blocks to help Ren move in!"
 				""
 				"While you are at it, also feel free to build a room or house for Ren!  Make sure you include a bed so he can have a good place to rest!"
+				""
+				"You can help other villagers move in as well by completing collection achievements!"
 			]
 			icon: "corail_woodcutter:oak_woodcutter"
 			id: "468E43123E8DB4F9"
@@ -2274,8 +2282,8 @@
 				}
 			]
 			title: "Help Ren Move In"
-			x: 2.5d
-			y: -5.5d
+			x: -0.5d
+			y: -3.5d
 		}
 	]
 	title: "Farming Crossing 4"
