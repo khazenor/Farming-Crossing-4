@@ -876,7 +876,7 @@
 			}]
 			title: "Tent Storage"
 			x: 0.5d
-			y: 1.5d
+			y: 0.5d
 		}
 		{
 			dependencies: ["4BE09EB12590E2AD"]
@@ -907,7 +907,7 @@
 			}]
 			title: "Medium Storage Expansion"
 			x: 1.5d
-			y: 1.5d
+			y: 0.5d
 		}
 		{
 			dependencies: ["5F6FABA9D3E852BF"]
@@ -938,7 +938,7 @@
 			}]
 			title: "Large Storage Expansion"
 			x: 2.5d
-			y: 1.5d
+			y: 0.5d
 		}
 		{
 			dependencies: ["5CCBDC6C39923A34"]
@@ -970,287 +970,6 @@
 			}]
 			title: "Mega Storage Expansion"
 			x: 3.5d
-			y: 1.5d
-		}
-		{
-			dependencies: ["0D0FDA6FBDCEFF3B"]
-			description: [
-				"Design your own \"tent\" in a 3x3x3 area and use this yurt bag to travel with it around!"
-				""
-				"All blocks captured will retain their contents."
-			]
-			hide: true
-			icon: {
-				Count: 1b
-				id: "bagofyurting:bag_of_yurting"
-				tag: {
-					RepairCost: 0
-					display: {
-						Name: "{\"text\":\"Stone Bag of Yurting\"}"
-						color: 7567221
-					}
-					radius: 1
-				}
-			}
-			id: "0318918D643D4DC0"
-			rewards: [{
-				id: "2078550481CAB044"
-				item: {
-					Count: 1b
-					id: "bagofyurting:bag_of_yurting"
-					tag: {
-						RepairCost: 0
-						display: {
-							Name: "{\"text\":\"Stone Bag of Yurting\"}"
-							color: 7567221
-						}
-						radius: 1
-					}
-				}
-				type: "item"
-			}]
-			tasks: [{
-				consume_items: true
-				count: 14L
-				id: "2BDB4C78A983530A"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			title: "Stone Tent"
-			x: 0.5d
-			y: 0.5d
-		}
-		{
-			dependencies: ["0318918D643D4DC0"]
-			description: ["This tent will capture a 5*5*5 area."]
-			hide: true
-			icon: {
-				Count: 1b
-				id: "bagofyurting:bag_of_yurting"
-				tag: {
-					RepairCost: 0
-					display: {
-						Name: "{\"text\":\"Copper Bag of Yurting\"}"
-						color: 16424231
-					}
-					radius: 2
-				}
-			}
-			id: "567D212033401B3C"
-			rewards: [{
-				id: "78FF22F2AA09954A"
-				item: {
-					Count: 1b
-					id: "bagofyurting:bag_of_yurting"
-					tag: {
-						RepairCost: 0
-						display: {
-							Name: "{\"text\":\"Copper Bag of Yurting\"}"
-							color: 16424231
-						}
-						radius: 2
-					}
-				}
-				type: "item"
-			}]
-			tasks: [{
-				consume_items: true
-				count: 63L
-				id: "64249D042CE9C2F2"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			title: "Copper Tent"
-			x: 1.5d
-			y: 0.5d
-		}
-		{
-			dependencies: ["567D212033401B3C"]
-			description: ["This tent will capture a 7*7*7 area."]
-			hide: true
-			icon: {
-				Count: 1b
-				id: "bagofyurting:bag_of_yurting"
-				tag: {
-					RepairCost: 0
-					display: {
-						Name: "{\"text\":\"Iron Bag of Yurting\"}"
-						color: 16383998
-					}
-					radius: 3
-				}
-			}
-			id: "6CC822DEC1247A6A"
-			rewards: [{
-				id: "5DE282A6218ED9C9"
-				item: {
-					Count: 1b
-					id: "bagofyurting:bag_of_yurting"
-					tag: {
-						RepairCost: 0
-						display: {
-							Name: "{\"text\":\"Iron Bag of Yurting\"}"
-							color: 16383998
-						}
-						radius: 3
-					}
-				}
-				type: "item"
-			}]
-			tasks: [{
-				consume_items: true
-				count: 172L
-				id: "0019CCAFBFF36FB2"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			title: "Iron Tent"
-			x: 2.5d
-			y: 0.5d
-		}
-		{
-			dependencies: ["6CC822DEC1247A6A"]
-			description: ["This tent will capture a 9*9*9 area."]
-			hide: true
-			icon: {
-				Count: 1b
-				id: "bagofyurting:bag_of_yurting"
-				tag: {
-					RepairCost: 0
-					display: {
-						Name: "{\"text\":\"Golden Bag of Yurting\"}"
-						color: 16702805
-					}
-					radius: 4
-				}
-			}
-			id: "67C21BB1DF7905AD"
-			rewards: [{
-				id: "7EEACCD74C218404"
-				item: {
-					Count: 1b
-					id: "bagofyurting:bag_of_yurting"
-					tag: {
-						RepairCost: 0
-						display: {
-							Name: "{\"text\":\"Golden Bag of Yurting\"}"
-							color: 16702805
-						}
-						radius: 4
-					}
-				}
-				type: "item"
-			}]
-			tasks: [{
-				consume_items: true
-				count: 365L
-				id: "5537B896A521A287"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			title: "Golden Tent"
-			x: 3.5d
-			y: 0.5d
-		}
-		{
-			dependencies: ["67C21BB1DF7905AD"]
-			description: ["This tent will capture a 11*11*11 area."]
-			hide: true
-			icon: {
-				Count: 1b
-				id: "bagofyurting:bag_of_yurting"
-				tag: {
-					RepairCost: 0
-					display: {
-						Name: "{\"text\":\"Diamond Bag of Yurting\"}"
-						color: 6405564
-					}
-					radius: 5
-				}
-			}
-			id: "00C04AF792DB5784"
-			rewards: [{
-				id: "3770EEFFB30D1770"
-				item: {
-					Count: 1b
-					id: "bagofyurting:bag_of_yurting"
-					tag: {
-						RepairCost: 0
-						display: {
-							Name: "{\"text\":\"Diamond Bag of Yurting\"}"
-							color: 6405564
-						}
-						radius: 5
-					}
-				}
-				type: "item"
-			}]
-			tasks: [{
-				consume_items: true
-				count: 665L
-				id: "16A0E6FD993A54A2"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			title: "Diamond Tent"
-			x: 4.5d
-			y: 0.5d
-		}
-		{
-			dependencies: ["00C04AF792DB5784"]
-			description: [
-				"This tent will capture a 13*13*13 area."
-				""
-				"After this quest completion you would now be able to craft all bags of yurting normally."
-			]
-			hide: true
-			icon: {
-				Count: 1b
-				id: "bagofyurting:bag_of_yurting"
-				tag: {
-					RepairCost: 0
-					display: {
-						Name: "{\"text\":\"Netherite Bag of Yurting\"}"
-						color: 3290681
-					}
-					radius: 6
-				}
-			}
-			id: "6858578DB533162D"
-			rewards: [
-				{
-					id: "379C72666566F9B7"
-					item: {
-						Count: 1b
-						id: "bagofyurting:bag_of_yurting"
-						tag: {
-							RepairCost: 0
-							display: {
-								Name: "{\"text\":\"Netherite Bag of Yurting\"}"
-								color: 3290681
-							}
-							radius: 6
-						}
-					}
-					type: "item"
-				}
-				{
-					auto: "no_toast"
-					id: "03D91275017ECFF5"
-					ignore_reward_blocking: true
-					stage: "bag_of_yurting"
-					type: "gamestage"
-				}
-			]
-			tasks: [{
-				consume_items: true
-				count: 1099L
-				id: "6BC95533D83ADB02"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
-			title: "Netherite Tent"
-			x: 5.5d
 			y: 0.5d
 		}
 		{
@@ -1368,7 +1087,7 @@
 			}]
 			title: "Airship"
 			x: 1.5d
-			y: 2.5d
+			y: 1.5d
 		}
 		{
 			dependencies: ["0D0FDA6FBDCEFF3B"]
@@ -1403,7 +1122,7 @@
 			}]
 			title: "Cargo Airship"
 			x: 4.5d
-			y: 2.5d
+			y: 1.5d
 		}
 		{
 			dependencies: ["0D0FDA6FBDCEFF3B"]
@@ -1440,7 +1159,7 @@
 			}]
 			title: "Biplane"
 			x: 0.5d
-			y: 2.5d
+			y: 1.5d
 		}
 		{
 			dependencies: ["0D0FDA6FBDCEFF3B"]
@@ -1477,7 +1196,7 @@
 			}]
 			title: "Gyrodyne"
 			x: 2.5d
-			y: 2.5d
+			y: 1.5d
 		}
 		{
 			dependencies: ["0D0FDA6FBDCEFF3B"]
@@ -1514,7 +1233,7 @@
 			}]
 			title: "Quadrocopter"
 			x: 3.5d
-			y: 2.5d
+			y: 1.5d
 		}
 		{
 			dependencies: ["20D49BB4FC20F70F"]
@@ -1765,7 +1484,7 @@
 			}]
 			title: "Double Hook"
 			x: 0.5d
-			y: 3.5d
+			y: 2.5d
 		}
 		{
 			dependencies: ["235E1172DE18A057"]
@@ -1888,7 +1607,7 @@
 			}]
 			title: "Nether Star Hook"
 			x: 1.5d
-			y: 3.5d
+			y: 2.5d
 		}
 		{
 			dependencies: ["51AC164BB0124EBA"]
