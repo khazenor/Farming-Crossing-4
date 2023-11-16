@@ -5,7 +5,7 @@ summon ssls_npc_maker_mod:npc ~ ~ ~ {
     Recipes: [
       {
         buy: {
-          id: "meadow:grain_cheese_block", Count: 57
+          id: "meadow:cheese_block", Count: 8
         },
         sell: {
           id: "kubejs:miles_ticket", Count: 3
