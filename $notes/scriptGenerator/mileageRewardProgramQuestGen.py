@@ -44,6 +44,7 @@ def getQuestContent():
 			action = collection[mrc.actionKey]
 			itemName = collection[mrc.nameKey] + collection[mrc.pluralKey]
 
+			seed(collection[mrc.iconKey], numRequired)
 			questContent += ftbQuest.mileageRewardQuestContent(
 				collection[mrc.iconKey],
 				ticketValue,
@@ -69,6 +70,7 @@ def getQuestContent():
 			x += 1
 
 		# final completion quest
+		seed(collection[mrc.iconKey], -1)
 		questContent += ftbQuest.mileageRewardQuestContent(
 			collection[mrc.iconKey],
 			numUnpaidQuests * finalTicketValue,
@@ -80,6 +82,10 @@ def getQuestContent():
 		)
 		print(totalNumQuests)
 	return questContent
+
+def seed(icon, numRequired):
+	seedStr = f"{icon}{numRequired}"
+	random.seed(seedStr)
 
 if __name__ == "__main__":
 	genMileageRewardProgramQuests()

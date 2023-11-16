@@ -17,7 +17,7 @@ def questFileContent(icon, filename, title, questContent):
 	outStr += f'	group: ""\n'
 	outStr += f'	icon: "{icon}"\n'
 	outStr += f'	id: "{randomId()}"\n'
-	outStr += f'	order_index: 0\n'
+	outStr += f'	order_index: 1\n'
 	outStr += f'	quest_links: []\n'
 	outStr += f'	quests: [\n'
 	outStr += questContent
