@@ -1,0 +1,66 @@
+summon ssls_npc_maker_mod:npc ~ ~ ~ {
+  texture_name: "rabbit",
+  CustomName: "{\"text\":\"Pamela\"}",
+  Offers: {
+    Recipes: [
+      {
+        buy: {
+          id: "bakery:toast", Count: 64
+        },
+        sell: {
+          id: "kubejs:miles_ticket", Count: 4
+        },
+        maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
+      }, {
+        buy: {
+          id: "bakery:bun", Count: 64
+        },
+        sell: {
+          id: "kubejs:miles_ticket", Count: 4
+        },
+        maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
+      }, {
+        buy: {
+          id: "bakery:strawberry_jam", Count: 64
+        },
+        sell: {
+          id: "kubejs:miles_ticket", Count: 8
+        },
+        maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
+      }, {
+        buy: {
+          id: "bakery:apple_jam", Count: 64
+        },
+        sell: {
+          id: "kubejs:miles_ticket", Count: 8
+        },
+        maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
+      }, {
+        buy: {
+          id: "bakery:sweetberry_jam", Count: 64
+        },
+        sell: {
+          id: "kubejs:miles_ticket", Count: 8
+        },
+        maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
+      }, {
+        buy: {
+          id: "bakery:chocolate_jam", Count: 64
+        },
+        sell: {
+          id: "kubejs:miles_ticket", Count: 8
+        },
+        maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
+      }, {
+        buy: {
+          id: "bakery:glowberry_jam", Count: 64
+        },
+        sell: {
+          id: "kubejs:miles_ticket", Count: 12
+        },
+        maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
+      }
+    ]
+  },
+  VillagerData: { profession: "minecraft:nitwit", level: 5, type: "minecraft:plains" }
+}

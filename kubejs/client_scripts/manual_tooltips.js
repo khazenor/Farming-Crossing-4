@@ -15,7 +15,6 @@ ItemEvents.tooltip(event => {
       "refinedstorage:4k_storage_disk",
       "refinedstorage:16k_storage_disk",
       "refinedstorage:64k_storage_disk",
-      "bagofyurting:bag_of_yurting",
       "immersive_aircraft:airship",
       "immersive_aircraft:cargo_airship",
       "immersive_aircraft:biplane",
