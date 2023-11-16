@@ -1941,6 +1941,132 @@
 			x: -0.5d
 			y: -1.5d
 		}
+		{
+			dependencies: ["6FA340C0FFE7FB26"]
+			description: [
+				"Images can be taken by right-clicking a camera. This brings you to the viewfinder of the camera. Right-clicking again takes an image of the perspective you are currently seeing. Images are saved with the same ratio as your Minecraft window."
+				""
+				"You can zoom in and out by scrolling."
+				""
+				"You can either look at the image by right-clicking the image item or by putting it in an image frame."
+				""
+				"== ALBUM =="
+				""
+				"The album can hold up to 54 images. You can add images by sneak + right-clicking the album. You can view the contained images by right-clicking the album. By scrolling up and down or pressing the arrow-up/down key, you can switch the currently viewed image."
+				""
+				"== ITEM FRAME =="
+				""
+				"The image frame allows you to place your image in the world. Just place the image frame item on a wall. Sneak + right-clicking the image frame opens a GUI that allows you to resize the frame. Just clicking the resize buttons enlarges the frame in the given direction. If you sneak and click the button the frame will be downsize the frame in that direction. To display an image in the frame right-click it with the chosen image in hand. To remove it from the frame just right-click the frame again."
+			]
+			icon: {
+				Count: 1b
+				id: "camera:camera"
+				tag: {
+					active: 0b
+				}
+			}
+			id: "1A8DA9B59580ECD8"
+			rewards: [{
+				count: 4
+				id: "19B7AFDB4FA033DC"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "7091E2E4EEE082D0"
+					item: {
+						Count: 1b
+						id: "camera:camera"
+						tag: {
+							active: 0b
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "410D388D49873E32"
+					item: "camera:image_frame"
+					type: "item"
+				}
+				{
+					id: "30EB326740970D9D"
+					item: {
+						Count: 1b
+						id: "camera:album"
+						tag: {
+							Images: {
+								Items: [ ]
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "Taking Pictures"
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["6FA340C0FFE7FB26"]
+			icon: "bakery:street_sign"
+			id: "7CE7B5249150EEC7"
+			rewards: [{
+				count: 6
+				id: "234BAAF110675FDC"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "53741CA9C2F1CC89"
+					item: {
+						Count: 1b
+						id: "itemfilters:tag"
+						tag: {
+							value: "handcrafted:couches"
+						}
+					}
+					title: "Any #handcrafted:couches"
+					type: "item"
+				}
+				{
+					id: "060B9C4B18E9ED7E"
+					item: {
+						Count: 1b
+						id: "itemfilters:tag"
+						tag: {
+							value: "handcrafted:tables"
+						}
+					}
+					title: "Any #handcrafted:tables"
+					type: "item"
+				}
+				{
+					id: "77A51B7DA89318C3"
+					item: "handcrafted:stackable_book"
+					type: "item"
+				}
+				{
+					id: "0A681001A13AB5C5"
+					item: "candlelight:typewriter_copper"
+					type: "item"
+				}
+				{
+					id: "4E652B8059FE71DF"
+					item: "bakery:street_sign"
+					type: "item"
+				}
+				{
+					id: "2DEAFD163A798DEC"
+					item: "handcrafted:white_crockery_combo"
+					type: "item"
+				}
+			]
+			title: "Interior Decorations"
+			x: 0.5d
+			y: -3.5d
+		}
 	]
 	title: "Farming Crossing 4"
 }
