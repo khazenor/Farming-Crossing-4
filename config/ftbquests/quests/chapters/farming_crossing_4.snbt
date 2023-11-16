@@ -2073,6 +2073,7 @@
 				""
 				"While you are at it, also feel free to build a room or house for Sam!  Make sure you include a bed so he can have a good place to rest!"
 			]
+			icon: "moa_decor_cookery:sushi"
 			id: "24D59BF6E757524F"
 			tasks: [
 				{
@@ -2122,8 +2123,8 @@
 				}
 			]
 			title: "Help Sam Move In"
-			x: -1.0d
-			y: -5.0d
+			x: 1.5d
+			y: -5.5d
 		}
 		{
 			description: [
@@ -2131,6 +2132,7 @@
 				""
 				"While you are at it, also feel free to build a room or house for Andre!  Make sure you include a bed so he can have a good place to rest!"
 			]
+			icon: "moa_decor_garden_:comedero_trigo"
 			id: "1B8E82ADB3063C94"
 			tasks: [
 				{
@@ -2180,8 +2182,8 @@
 				}
 			]
 			title: "Help Andre Move In"
-			x: -1.0d
-			y: -5.0d
+			x: -0.5d
+			y: -4.5d
 		}
 		{
 			description: [
@@ -2189,6 +2191,7 @@
 				""
 				"While you are at it, also feel free to build a room or house for Yukkie!  Make sure you include a bed so she can have a good place to rest!"
 			]
+			icon: "moa_decor_cookery:manzanacortada"
 			id: "78BB8E151802329C"
 			tasks: [
 				{
@@ -2238,8 +2241,8 @@
 				}
 			]
 			title: "Help Yukkie Move In"
-			x: -1.0d
-			y: -5.0d
+			x: 3.5d
+			y: -5.5d
 		}
 		{
 			description: [
@@ -2247,6 +2250,7 @@
 				""
 				"While you are at it, also feel free to build a room or house for Laly!  Make sure you include a bed so she can have a good place to rest!"
 			]
+			icon: "minecraft:amethyst_block"
 			id: "32315F192BEB4876"
 			tasks: [
 				{
@@ -2296,8 +2300,8 @@
 				}
 			]
 			title: "Help Laly Move In"
-			x: -1.0d
-			y: -5.0d
+			x: 0.5d
+			y: -5.5d
 		}
 		{
 			description: [
@@ -2305,6 +2309,7 @@
 				""
 				"While you are at it, also feel free to build a room or house for Pamela!  Make sure you include a bed so she can have a good place to rest!"
 			]
+			icon: "moa_decor_cookery:bandejadegalletas"
 			id: "0D03125982F6A791"
 			tasks: [
 				{
@@ -2354,8 +2359,8 @@
 				}
 			]
 			title: "Help Pamela Move In"
-			x: -1.0d
-			y: -5.0d
+			x: -0.5d
+			y: -5.5d
 		}
 		{
 			description: [
@@ -2363,7 +2368,329 @@
 				""
 				"While you are at it, also feel free to build a room or house for Jess!  Make sure you include a bed so she can have a good place to rest!"
 			]
+			icon: "moa_decor_cookery:cafetera"
 			id: "756B6CAC42F98D92"
+			rewards: [
+				{
+					id: "7F50F280DD36E843"
+					item: {
+						Count: 1b
+						id: "mobcapturingtool:mob_capturing_tool"
+						tag: {
+							CapturedEntity: {
+								AbsorptionAmount: 0.0f
+								Age: 0
+								Air: 300s
+								ArmorDropChances: [
+									0.085f
+									0.085f
+									0.085f
+									0.085f
+								]
+								ArmorItems: [
+									{ }
+									{ }
+									{ }
+									{ }
+								]
+								Attributes: [
+									{
+										Base: 0.5d
+										Name: "minecraft:generic.movement_speed"
+									}
+									{
+										Base: 0.0d
+										Name: "forge:step_height_addition"
+									}
+									{
+										Base: 0.08d
+										Name: "forge:entity_gravity"
+									}
+									{
+										Base: 48.0d
+										Modifiers: [{
+											Amount: 0.009831958877550524d
+											Name: "Random spawn bonus"
+											Operation: 1
+											UUID: [I;
+												-1171750158
+												-776977672
+												-2107329086
+												1299555308
+											]
+										}]
+										Name: "minecraft:generic.follow_range"
+									}
+								]
+								BalmData: { }
+								Brain: {
+									memories: { }
+								}
+								CanPickUpLoot: 1b
+								CanUpdate: 1b
+								CitadelData: { }
+								CustomName: "{\"text\":\"Jess\"}"
+								DeathTime: 0s
+								EntityType: "minecraft:villager"
+								FallDistance: 0.0f
+								FallFlying: 0b
+								Fire: -1s
+								FoodLevel: 0b
+								ForcedAge: 0
+								ForgeCaps: {
+									"curios:inventory": {
+										Curios: [ ]
+									}
+								}
+								ForgeData: { }
+								Gossips: [ ]
+								HandDropChances: [
+									0.085f
+									0.085f
+								]
+								HandItems: [
+									{ }
+									{ }
+								]
+								Health: 20.0f
+								HurtByTimestamp: 0
+								HurtTime: 0s
+								Inventory: [ ]
+								Invulnerable: 0b
+								LastGossipDecay: 2998129L
+								LastRestock: 0L
+								LeftHanded: 0b
+								Motion: [
+									0.0d
+									0.0d
+									0.0d
+								]
+								NoAI: 1b
+								Offers: {
+									Recipes: [
+										{
+											buy: {
+												Count: 4b
+												id: "kubejs:miles_ticket"
+											}
+											buyB: {
+												Count: 0b
+												id: "minecraft:air"
+											}
+											demand: 0
+											dynamicvillagertrades_attributes: { }
+											dynamicvillagertrades_write_cache: 0b
+											maxUses: 2147483647
+											priceMultiplier: 0.0f
+											rewardExp: 0b
+											sell: {
+												Count: 1b
+												id: "camera:album"
+											}
+											specialPrice: 0
+											uses: 0
+											xp: 0
+										}
+										{
+											buy: {
+												Count: 4b
+												id: "kubejs:miles_ticket"
+											}
+											buyB: {
+												Count: 0b
+												id: "minecraft:air"
+											}
+											demand: 0
+											dynamicvillagertrades_attributes: { }
+											dynamicvillagertrades_write_cache: 0b
+											maxUses: 2147483647
+											priceMultiplier: 0.0f
+											rewardExp: 0b
+											sell: {
+												Count: 16b
+												id: "camera:image_frame"
+											}
+											specialPrice: 0
+											uses: 0
+											xp: 0
+										}
+										{
+											buy: {
+												Count: 1b
+												id: "beachparty:pumpkin_cocktail"
+											}
+											buyB: {
+												Count: 0b
+												id: "minecraft:air"
+											}
+											demand: 0
+											dynamicvillagertrades_attributes: { }
+											dynamicvillagertrades_write_cache: 0b
+											maxUses: 2147483647
+											priceMultiplier: 0.0f
+											rewardExp: 0b
+											sell: {
+												Count: 1b
+												id: "kubejs:miles_ticket"
+											}
+											specialPrice: 0
+											uses: 0
+											xp: 0
+										}
+										{
+											buy: {
+												Count: 1b
+												id: "beachparty:cocoa_cocktail"
+											}
+											buyB: {
+												Count: 0b
+												id: "minecraft:air"
+											}
+											demand: 0
+											dynamicvillagertrades_attributes: { }
+											dynamicvillagertrades_write_cache: 0b
+											maxUses: 2147483647
+											priceMultiplier: 0.0f
+											rewardExp: 0b
+											sell: {
+												Count: 1b
+												id: "kubejs:miles_ticket"
+											}
+											specialPrice: 0
+											uses: 0
+											xp: 0
+										}
+										{
+											buy: {
+												Count: 1b
+												id: "beachparty:sweetberries_cocktail"
+											}
+											buyB: {
+												Count: 0b
+												id: "minecraft:air"
+											}
+											demand: 0
+											dynamicvillagertrades_attributes: { }
+											dynamicvillagertrades_write_cache: 0b
+											maxUses: 2147483647
+											priceMultiplier: 0.0f
+											rewardExp: 0b
+											sell: {
+												Count: 1b
+												id: "kubejs:miles_ticket"
+											}
+											specialPrice: 0
+											uses: 0
+											xp: 0
+										}
+										{
+											buy: {
+												Count: 1b
+												id: "beachparty:melon_cocktail"
+											}
+											buyB: {
+												Count: 0b
+												id: "minecraft:air"
+											}
+											demand: 0
+											dynamicvillagertrades_attributes: { }
+											dynamicvillagertrades_write_cache: 0b
+											maxUses: 2147483647
+											priceMultiplier: 0.0f
+											rewardExp: 0b
+											sell: {
+												Count: 1b
+												id: "kubejs:miles_ticket"
+											}
+											specialPrice: 0
+											uses: 0
+											xp: 0
+										}
+										{
+											buy: {
+												Count: 1b
+												id: "beachparty:coconut_cocktail"
+											}
+											buyB: {
+												Count: 0b
+												id: "minecraft:air"
+											}
+											demand: 0
+											dynamicvillagertrades_attributes: { }
+											dynamicvillagertrades_write_cache: 0b
+											maxUses: 2147483647
+											priceMultiplier: 0.0f
+											rewardExp: 0b
+											sell: {
+												Count: 1b
+												id: "kubejs:miles_ticket"
+											}
+											specialPrice: 0
+											uses: 0
+											xp: 0
+										}
+									]
+									"morejs$disabled": [
+										0b
+										0b
+										0b
+										0b
+										0b
+										0b
+										0b
+									]
+								}
+								OnGround: 1b
+								PersistenceRequired: 1b
+								PortalCooldown: 0
+								Pos: [
+									109.5d
+									79.0d
+									-29.5d
+								]
+								RestocksToday: 0
+								Rotation: [
+									0.0f
+									0.0f
+								]
+								Tags: [
+									"villagernames.named"
+									"vs_villager"
+								]
+								UUID: [I;
+									-590956380
+									-1445051611
+									-1626022741
+									426499226
+								]
+								VillagerData: {
+									level: 5
+									profession: "minecraft:nitwit"
+									type: "minecraft:plains"
+								}
+								Xp: 0
+								dynamicvillagertrades_attributes: { }
+								dynamicvillagertrades_extra_offer_data: { }
+								"forge:spawn_type": "SPAWN_EGG"
+								"treechop:chopSettings": {
+									chopInCreativeMode: 0b
+									choppingEnabled: 1b
+									fellingEnabled: 1b
+									isSynced: 0b
+									sneakBehavior: "INVERT_CHOPPING"
+									treesMustHaveLeaves: 1b
+								}
+							}
+						}
+					}
+					type: "item"
+				}
+				{
+					command: "/summon minecraft:villager ~ ~ ~  {UUID: [-1665780127, -487899122, -1575450865, -2066318380] as int[]}"
+					id: "760C7E59EFECE7DE"
+					type: "command"
+				}
+			]
 			tasks: [
 				{
 					block: "moa_decor_cookery:cafetera"
@@ -2412,8 +2739,8 @@
 				}
 			]
 			title: "Help Jess Move In"
-			x: -1.0d
-			y: -5.0d
+			x: 0.5d
+			y: -4.5d
 		}
 		{
 			description: [
@@ -2421,7 +2748,396 @@
 				""
 				"While you are at it, also feel free to build a room or house for Ren!  Make sure you include a bed so he can have a good place to rest!"
 			]
+			icon: "corail_woodcutter:oak_woodcutter"
 			id: "468E43123E8DB4F9"
+			rewards: [{
+				id: "7FED5A6CAA8DB074"
+				item: {
+					Count: 1b
+					id: "utilitix:mob_yoinker"
+					tag: {
+						EntityData: {
+							AbsorptionAmount: 0.0f
+							Age: 0
+							Air: 300s
+							ArmorDropChances: [
+								0.085f
+								0.085f
+								0.085f
+								0.085f
+							]
+							ArmorItems: [
+								{ }
+								{ }
+								{ }
+								{ }
+							]
+							Attributes: [
+								{
+									Base: 0.5d
+									Name: "minecraft:generic.movement_speed"
+								}
+								{
+									Base: 0.0d
+									Name: "forge:step_height_addition"
+								}
+								{
+									Base: 0.08d
+									Name: "forge:entity_gravity"
+								}
+								{
+									Base: 48.0d
+									Modifiers: [{
+										Amount: 0.09829709470394203d
+										Name: "Random spawn bonus"
+										Operation: 1
+										UUID: [I;
+											-67543009
+											1100106370
+											-1191624393
+											-1472893523
+										]
+									}]
+									Name: "minecraft:generic.follow_range"
+								}
+							]
+							BalmData: { }
+							Brain: {
+								memories: { }
+							}
+							CanPickUpLoot: 1b
+							CanUpdate: 1b
+							CitadelData: { }
+							CustomName: "{\"text\":\"Ren\"}"
+							DeathTime: 0s
+							FallDistance: 0.0f
+							FallFlying: 0b
+							Fire: -1s
+							FoodLevel: 0b
+							ForcedAge: 0
+							ForgeCaps: {
+								"curios:inventory": {
+									Curios: [ ]
+								}
+							}
+							ForgeData: { }
+							Gossips: [ ]
+							HandDropChances: [
+								0.085f
+								0.085f
+							]
+							HandItems: [
+								{ }
+								{ }
+							]
+							Health: 20.0f
+							HurtByTimestamp: 0
+							HurtTime: 0s
+							Inventory: [ ]
+							Invulnerable: 0b
+							LastGossipDecay: 2998859L
+							LastRestock: 0L
+							LeftHanded: 0b
+							Motion: [
+								0.0d
+								0.0d
+								0.0d
+							]
+							NoAI: 1b
+							Offers: {
+								Recipes: [
+									{
+										buy: {
+											Count: 16b
+											id: "kubejs:miles_ticket"
+										}
+										buyB: {
+											Count: 0b
+											id: "minecraft:air"
+										}
+										demand: 0
+										dynamicvillagertrades_attributes: { }
+										dynamicvillagertrades_write_cache: 0b
+										maxUses: 2147483647
+										priceMultiplier: 0.0f
+										rewardExp: 0b
+										sell: {
+											Count: 1b
+											id: "expandedstorage:iron_chest"
+										}
+										specialPrice: 0
+										uses: 0
+										xp: 0
+									}
+									{
+										buy: {
+											Count: 32b
+											id: "kubejs:miles_ticket"
+										}
+										buyB: {
+											Count: 0b
+											id: "minecraft:air"
+										}
+										demand: 0
+										dynamicvillagertrades_attributes: { }
+										dynamicvillagertrades_write_cache: 0b
+										maxUses: 2147483647
+										priceMultiplier: 0.0f
+										rewardExp: 0b
+										sell: {
+											Count: 1b
+											id: "expandedstorage:gold_chest"
+										}
+										specialPrice: 0
+										uses: 0
+										xp: 0
+									}
+									{
+										buy: {
+											Count: 64b
+											id: "kubejs:miles_ticket"
+										}
+										buyB: {
+											Count: 0b
+											id: "minecraft:air"
+										}
+										demand: 0
+										dynamicvillagertrades_attributes: { }
+										dynamicvillagertrades_write_cache: 0b
+										maxUses: 2147483647
+										priceMultiplier: 0.0f
+										rewardExp: 0b
+										sell: {
+											Count: 1b
+											id: "expandedstorage:diamond_chest"
+										}
+										specialPrice: 0
+										uses: 0
+										xp: 0
+									}
+									{
+										buy: {
+											BigCount: 192
+											Count: 127b
+											id: "kubejs:miles_ticket"
+										}
+										buyB: {
+											Count: 0b
+											id: "minecraft:air"
+										}
+										demand: 0
+										dynamicvillagertrades_attributes: { }
+										dynamicvillagertrades_write_cache: 0b
+										maxUses: 2147483647
+										priceMultiplier: 0.0f
+										rewardExp: 0b
+										sell: {
+											Count: 1b
+											id: "expandedstorage:netherite_chest"
+										}
+										specialPrice: 0
+										uses: 0
+										xp: 0
+									}
+									{
+										buy: {
+											Count: 64b
+											id: "kubejs:miles_ticket"
+										}
+										buyB: {
+											Count: 0b
+											id: "minecraft:air"
+										}
+										demand: 0
+										dynamicvillagertrades_attributes: { }
+										dynamicvillagertrades_write_cache: 0b
+										maxUses: 2147483647
+										priceMultiplier: 0.0f
+										rewardExp: 0b
+										sell: {
+											Count: 1b
+											id: "enderchests:ender_chest"
+											tag: {
+												code: "000"
+												owner: "all"
+											}
+										}
+										specialPrice: 0
+										uses: 0
+										xp: 0
+									}
+									{
+										buy: {
+											BigCount: 128
+											Count: 127b
+											id: "kubejs:miles_ticket"
+										}
+										buyB: {
+											Count: 0b
+											id: "minecraft:air"
+										}
+										demand: 0
+										dynamicvillagertrades_attributes: { }
+										dynamicvillagertrades_write_cache: 0b
+										maxUses: 2147483647
+										priceMultiplier: 0.0f
+										rewardExp: 0b
+										sell: {
+											Count: 1b
+											id: "sophisticatedbackpacks:diamond_backpack"
+										}
+										specialPrice: 0
+										uses: 0
+										xp: 0
+									}
+									{
+										buy: {
+											BigCount: 256
+											Count: 127b
+											id: "kubejs:miles_ticket"
+										}
+										buyB: {
+											Count: 0b
+											id: "minecraft:air"
+										}
+										demand: 0
+										dynamicvillagertrades_attributes: { }
+										dynamicvillagertrades_write_cache: 0b
+										maxUses: 2147483647
+										priceMultiplier: 0.0f
+										rewardExp: 0b
+										sell: {
+											Count: 1b
+											id: "sophisticatedbackpacks:netherite_backpack"
+											tag: {
+												contentsUuid: [I;
+													469004028
+													1755463925
+													-1096906920
+													-1174497288
+												]
+												inventorySlots: 120
+												renderInfo: {
+													upgradeItems: [
+														{
+															Count: 0b
+															id: "minecraft:air"
+														}
+														{
+															Count: 0b
+															id: "minecraft:air"
+														}
+														{
+															Count: 0b
+															id: "minecraft:air"
+														}
+														{
+															Count: 0b
+															id: "minecraft:air"
+														}
+														{
+															Count: 0b
+															id: "minecraft:air"
+														}
+														{
+															Count: 0b
+															id: "minecraft:air"
+														}
+														{
+															Count: 0b
+															id: "minecraft:air"
+														}
+													]
+												}
+												upgradeSlots: 7
+											}
+										}
+										specialPrice: 0
+										uses: 0
+										xp: 0
+									}
+									{
+										buy: {
+											Count: 64b
+											id: "kubejs:miles_ticket"
+										}
+										buyB: {
+											Count: 0b
+											id: "minecraft:air"
+										}
+										demand: 0
+										dynamicvillagertrades_attributes: { }
+										dynamicvillagertrades_write_cache: 0b
+										maxUses: 2147483647
+										priceMultiplier: 0.0f
+										rewardExp: 0b
+										sell: {
+											Count: 1b
+											id: "storagedrawers:controller"
+										}
+										specialPrice: 0
+										uses: 0
+										xp: 0
+									}
+								]
+								"morejs$disabled": [
+									0b
+									0b
+									0b
+									0b
+									0b
+									0b
+									0b
+									0b
+								]
+							}
+							OnGround: 1b
+							PersistenceRequired: 1b
+							PortalCooldown: 0
+							Pos: [
+								109.48689577048715d
+								78.875d
+								-31.513113248219916d
+							]
+							RestocksToday: 0
+							Rotation: [
+								-90.0f
+								0.0f
+							]
+							Tags: [
+								"villagernames.named"
+								"vs_villager"
+							]
+							UUID: [I;
+								-1665780127
+								-487899122
+								-1575450865
+								-2066318380
+							]
+							VillagerData: {
+								level: 5
+								profession: "minecraft:nitwit"
+								type: "minecraft:plains"
+							}
+							Xp: 0
+							dynamicvillagertrades_attributes: { }
+							dynamicvillagertrades_extra_offer_data: { }
+							"forge:spawn_type": "SPAWN_EGG"
+							"treechop:chopSettings": {
+								chopInCreativeMode: 0b
+								choppingEnabled: 1b
+								fellingEnabled: 1b
+								isSynced: 0b
+								sneakBehavior: "INVERT_CHOPPING"
+								treesMustHaveLeaves: 1b
+							}
+						}
+						EntityType: "minecraft:villager"
+						filled: 1b
+					}
+				}
+				type: "item"
+			}]
 			tasks: [
 				{
 					block: "corail_woodcutter:oak_woodcutter"
@@ -2470,8 +3186,8 @@
 				}
 			]
 			title: "Help Ren Move In"
-			x: -1.0d
-			y: -5.0d
+			x: 2.5d
+			y: -5.5d
 		}
 	]
 	title: "Farming Crossing 4"
