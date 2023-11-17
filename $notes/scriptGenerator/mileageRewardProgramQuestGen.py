@@ -22,6 +22,7 @@ def getQuestContent():
 	numRequiredStarts = [2, 5]
 	startIncrement = 5
 	incrementIncreaseRate = 5
+	ftbQuestMinRequiredMax = 145
 
 	for y, collection in enumerate(mrc.collections):
 		numRequired = numRequiredStarts[0]
@@ -31,7 +32,7 @@ def getQuestContent():
 		increment = startIncrement
 		x = 0
 		print(collection[mrc.nameKey])
-		while numRequired + increment < totalNumQuests:
+		while whileLoopCondition(numRequired + increment, totalNumQuests, ftbQuestMinRequiredMax):
 			if x == 0:
 				numUnpaidQuests = numRequired
 			elif x < len(numRequiredStarts):
@@ -57,7 +58,7 @@ def getQuestContent():
 			print(numRequired)
 
 			# end values
-			if numRequired + increment + increment < totalNumQuests:
+			if whileLoopCondition(numRequired + increment + increment, totalNumQuests, ftbQuestMinRequiredMax):
 				numUnpaidQuests = increment
 			else:
 				numUnpaidQuests = totalNumQuests - numRequired
@@ -83,6 +84,8 @@ def getQuestContent():
 		print(totalNumQuests)
 	return questContent
 
+def whileLoopCondition(numRequired, totalNumQuests, ftbQuestMinRequiredMax):
+	return numRequired < totalNumQuests and numRequired <= ftbQuestMinRequiredMax
 def seed(icon, numRequired):
 	seedStr = f"{icon}{numRequired}"
 	random.seed(seedStr)
