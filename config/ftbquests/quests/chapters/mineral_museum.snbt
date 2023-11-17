@@ -353,37 +353,6 @@
 			dependencies: ["44DB551B93AA28F9"]
 			disable_toast: true
 			hide: true
-			id: "422C8F816CADED31"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p minerals_collected 1"
-					elevate_perms: true
-					id: "71E2C5562E0B1B57"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"New mineral collected! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"minerals_collected\"}},{\"text\":\" unique mineral(s)!\"}]"
-					elevate_perms: true
-					id: "26F150A031C5F195"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "3F955A01A6261B34"
-				item: "minecraft:blackstone"
-				type: "item"
-			}]
-			x: 5.0d
-			y: -1.5d
-		}
-		{
-			dependencies: ["44DB551B93AA28F9"]
-			disable_toast: true
-			hide: true
 			id: "7183117DE39ECC8F"
 			rewards: [
 				{
@@ -470,8 +439,8 @@
 				item: "minecraft:obsidian"
 				type: "item"
 			}]
-			x: 4.0d
-			y: 2.5d
+			x: 5.0d
+			y: -1.5d
 		}
 		{
 			dependencies: ["44DB551B93AA28F9"]
@@ -1059,7 +1028,7 @@
 				item: "biomesoplenty:dried_salt"
 				type: "item"
 			}]
-			x: 5.0d
+			x: 4.0d
 			y: 2.5d
 		}
 		{

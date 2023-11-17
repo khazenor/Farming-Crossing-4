@@ -48,6 +48,10 @@
       "payment": {"item": "kubejs:miles_ticket", "count": 32}, 
       "category": "shop"
     },{
+      "output": { "item": "minecraft:blackstone" },
+      "payment": {"item": "kubejs:miles_ticket", "count": 16}, 
+      "category": "shop"
+    },{
       "output": { "item": "minecraft:bundle", "count": 1 }, 
       "payment": { "item": "kubejs:miles_ticket", "count": 8 }, 
       "category": "shop"
