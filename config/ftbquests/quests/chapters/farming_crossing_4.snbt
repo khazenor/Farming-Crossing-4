@@ -1778,7 +1778,14 @@
 				}
 				{
 					id: "2DEAFD163A798DEC"
-					item: "handcrafted:white_crockery_combo"
+					item: {
+						Count: 1b
+						id: "itemfilters:tag"
+						tag: {
+							value: "handcrafted:crockery_combos"
+						}
+					}
+					title: "Any #handcrafted:crockery_combos"
 					type: "item"
 				}
 				{
