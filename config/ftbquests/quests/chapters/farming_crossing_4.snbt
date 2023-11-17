@@ -1781,6 +1781,30 @@
 					item: "handcrafted:white_crockery_combo"
 					type: "item"
 				}
+				{
+					id: "752C74D22730FA84"
+					item: {
+						Count: 1b
+						id: "itemfilters:tag"
+						tag: {
+							value: "handcrafted:sheets"
+						}
+					}
+					title: "Any #handcrafted:sheets"
+					type: "item"
+				}
+				{
+					id: "5B817D7F7BE7488D"
+					item: {
+						Count: 1b
+						id: "itemfilters:tag"
+						tag: {
+							value: "handcrafted:cushions"
+						}
+					}
+					title: "Any #handcrafted:cushions"
+					type: "item"
+				}
 			]
 			title: "Interior Decorations"
 			x: 0.5d
