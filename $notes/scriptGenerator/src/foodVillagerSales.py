@@ -12,8 +12,8 @@ numberToSell = 8
 priceModFreq = {
 	-1: 1,
 	0: 4,
-	1: 2,
-	4: 1
+	2: 2,
+	6: 1
 }
 
 def generateSales():
