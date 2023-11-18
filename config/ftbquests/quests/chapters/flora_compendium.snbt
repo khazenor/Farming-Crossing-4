@@ -3511,6 +3511,502 @@
 			x: 4.0d
 			y: 19.0d
 		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "787DB42BF62B08CC"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "671FF0314F77C904"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "42691CCC5B7DE0F3"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "436F170D982007E8"
+				item: "silentgems:ruby_glowrose"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 20.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "1CABB18B0770BD54"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "4E9F369A76B6ECA4"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "1853DA2DE65A540F"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "13357BEDDB22D0F5"
+				item: "silentgems:carnelian_glowrose"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 20.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "5252E06CF7ED744B"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "5F0416CBDF45C63E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "38FE6FA973BBA647"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "00BF4550611F5C69"
+				item: "silentgems:topaz_glowrose"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 20.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "09340F85D9F201FB"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "15436A403E7C0515"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "32DBB9C5B0BE2CF1"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "285D6CAE418B64BF"
+				item: "silentgems:citrine_glowrose"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 20.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "3E1C799C1B29B73B"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "4E2821D4131C97B5"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "2AD6F80B38EB0769"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "72E56D76F7F3E1B5"
+				item: "silentgems:heliodor_glowrose"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 20.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "512BADF33A088EBA"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "0EDEB814B1EE2B5C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "439E84B1C4FF325D"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "411A015BA96920ED"
+				item: "silentgems:moldavite_glowrose"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 20.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "6EF660D9CBDFE771"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "63AC2DD645511D7F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "0AC907ED825810E1"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "2B45C52637D9F49E"
+				item: "silentgems:peridot_glowrose"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 21.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "6D2BCA8FC524C6F2"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "767DD13CDF3F90D1"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "525C1E20E25B3B56"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "54153C1DA1F24036"
+				item: "silentgems:turquoise_glowrose"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 21.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "3FC799C7A2A8C9ED"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "5F367A1FF3C0B858"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "6F54905F27C40AE6"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "642BFEA807DA5610"
+				item: "silentgems:kyanite_glowrose"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 21.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "7597F07ED15F2F0F"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "70939025535B1954"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "4FE6F994E766C490"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "0E551A52A82C001E"
+				item: "silentgems:sapphire_glowrose"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 21.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "242A2F4779786B42"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "5E1E88C0141A1EF6"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "1D65D046DB0E587F"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "01B13F4B2D77723B"
+				item: "silentgems:iolite_glowrose"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 21.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "45648EEB47928B9A"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "455FEB7A55B6762E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "5F946DEC0B0057B3"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "5295FFF1688AF6A6"
+				item: "silentgems:alexandrite_glowrose"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 21.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "60FD07A7C705BDC1"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "7AB25B2CB502B010"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "492C168FD5A3DCA7"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "7F60270800511193"
+				item: "silentgems:ammolite_glowrose"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 22.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "6481E874EFDB1884"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "306B5ADF734169C1"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "2541BD3BE78E7B28"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "414D45D0C2E76D95"
+				item: "silentgems:rose_quartz_glowrose"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 22.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "139FF8AD4A98B2D2"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "001BD69F8C2A2408"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "069D4F7E25CF6017"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "6CAD0C5098B7EEEE"
+				item: "silentgems:black_diamond_glowrose"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 22.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "06C90128CBDC2521"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "0C8DAD162211873E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "711439464C0BB1DD"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "4C5254278C668B19"
+				item: "silentgems:white_diamond_glowrose"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 22.5d
+		}
 	]
 	title: "Flora Compendium"
 }
