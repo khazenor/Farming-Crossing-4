@@ -1,5 +1,5 @@
 gemRates = {
-  8: [
+  4: [
     "silentgems:black_diamond",
     "silentgems:white_diamond",
     "silentgems:turquoise",
@@ -7,7 +7,7 @@ gemRates = {
     "silentgems:iolite",
     "silentgems:alexandrite"
   ],
-  4: [
+  2: [
     "silentgems:carnelian",
     "silentgems:citrine",
     "silentgems:moldavite",
@@ -15,7 +15,7 @@ gemRates = {
     "silentgems:ammolite",
     "silentgems:rose_quartz"
   ],
-  2: [
+  1: [
     "silentgems:topaz",
     "silentgems:peridot",
     "silentgems:sapphire",

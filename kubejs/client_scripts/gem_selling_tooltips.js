@@ -10,7 +10,7 @@ ItemEvents.tooltip(event => {
     ],
     [
       'You can sell 4 of these gems', 
-      'for 8 miles tickets'
+      'for 4 miles tickets'
     ])
   event.add(
     [
@@ -20,17 +20,6 @@ ItemEvents.tooltip(event => {
       'silentgems:kyanite', 
       'silentgems:ammolite', 
       'silentgems:rose_quartz'
-    ],
-    [
-      'You can sell 4 of these gems', 
-      'for 4 miles tickets'
-    ])
-  event.add(
-    [
-      'silentgems:topaz', 
-      'silentgems:peridot', 
-      'silentgems:sapphire', 
-      'silentgems:ruby'
     ],
     [
       'You can sell 4 of these gems', 
