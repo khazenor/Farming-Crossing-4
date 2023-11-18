@@ -100,5 +100,6 @@ def clientSideModNames():
 		'entity_texture_features_forge_1.20.1',
 		'InventoryProfilesNext',
 		'citresewn',
-		'tagtooltips'
+		'tagtooltips',
+		'World Stripper'
 	]
