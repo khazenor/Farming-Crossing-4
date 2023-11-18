@@ -101,5 +101,6 @@ def clientSideModNames():
 		'InventoryProfilesNext',
 		'citresewn',
 		'tagtooltips',
-		'World Stripper'
+		'World Stripper',
+		'embeddium'
 	]
