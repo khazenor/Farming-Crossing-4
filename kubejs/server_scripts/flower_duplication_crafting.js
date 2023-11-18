@@ -119,5 +119,53 @@ ServerEvents.recipes(event => {
   event.shapeless(
     Item.of('meadow:saxifrage', 3),
     ['meadow:saxifrage', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('silentgems:ruby_glowrose', 3),
+    ['silentgems:ruby_glowrose', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('silentgems:carnelian_glowrose', 3),
+    ['silentgems:carnelian_glowrose', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('silentgems:topaz_glowrose', 3),
+    ['silentgems:topaz_glowrose', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('silentgems:citrine_glowrose', 3),
+    ['silentgems:citrine_glowrose', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('silentgems:heliodor_glowrose', 3),
+    ['silentgems:heliodor_glowrose', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('silentgems:moldavite_glowrose', 3),
+    ['silentgems:moldavite_glowrose', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('silentgems:peridot_glowrose', 3),
+    ['silentgems:peridot_glowrose', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('silentgems:turquoise_glowrose', 3),
+    ['silentgems:turquoise_glowrose', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('silentgems:kyanite_glowrose', 3),
+    ['silentgems:kyanite_glowrose', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('silentgems:sapphire_glowrose', 3),
+    ['silentgems:sapphire_glowrose', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('silentgems:iolite_glowrose', 3),
+    ['silentgems:iolite_glowrose', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('silentgems:alexandrite_glowrose', 3),
+    ['silentgems:alexandrite_glowrose', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('silentgems:ammolite_glowrose', 3),
+    ['silentgems:ammolite_glowrose', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('silentgems:rose_quartz_glowrose', 3),
+    ['silentgems:rose_quartz_glowrose', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('silentgems:black_diamond_glowrose', 3),
+    ['silentgems:black_diamond_glowrose', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('silentgems:white_diamond_glowrose', 3),
+    ['silentgems:white_diamond_glowrose', 'minecraft:bone_meal'])
 
 })
