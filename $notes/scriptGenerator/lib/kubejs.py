@@ -1,4 +1,5 @@
-
+import os
+from src import const
 
 def tradeStr(output, payment, paymentNum, level=1):
 	return f"  event.addTrade({level}, ['{paymentNum}x {payment}'], '{output}')\n"
@@ -58,6 +59,13 @@ def villagerTradesContent(content):
 def tagsContent(content):
 	return f"ServerEvents.tags('item', event => {{\n{content}\n}})"
 
+def generateSimpleTags(itemIds, tag, filename):
+	tagContent = ""
+	for itemId in itemIds:
+		tagContent += eventAddSimple(tag, itemId)
+
+	with open(os.path.join(const.serverScripts(), f'{filename}.js'), 'w') as f:
+		f.write(tagsContent(tagContent))
 
 # HELPERS
 

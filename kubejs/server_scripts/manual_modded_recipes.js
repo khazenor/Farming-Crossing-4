@@ -33,4 +33,6 @@ ServerEvents.recipes(event => {
   ], {
     X: 'kubejs:64k_storage_disk_ticket'
   })
+
+  event.remove({output: 'non_wandering_trader:travellers_table'})
 })

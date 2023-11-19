@@ -580,7 +580,7 @@ ItemEvents.tooltip(event => {
       'simplehats:zigzagwitchhat'
     ],
     [
-      'Available at the wandering trader shop (common section)'
+      'Available at Jess\'s shop (common section)'
     ])
   event.add(
     [
@@ -632,7 +632,7 @@ ItemEvents.tooltip(event => {
       'minecraft:music_disc_ward'
     ],
     [
-      'Available at the wandering trader shop (rare section)'
+      'Available at Jess\'s shop (rare section)'
     ])
   event.add(
     [
