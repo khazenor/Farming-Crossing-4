@@ -539,7 +539,7 @@
 			y: -2.5d
 		}
 		{
-			dependencies: ["0D0FDA6FBDCEFF3B"]
+			dependencies: ["756B6CAC42F98D92"]
 			description: [
 				"You can buy decorations from wondering traders."
 				""
@@ -625,8 +625,8 @@
 				type: "item"
 			}]
 			title: "Buying Decorations"
-			x: 3.5d
-			y: -0.5d
+			x: 4.5d
+			y: -1.5d
 		}
 		{
 			dependencies: ["45CAACDFDC15E734"]
@@ -2174,7 +2174,7 @@
 		}
 		{
 			can_repeat: true
-			dependencies: ["7D4271AE1BB8E3F2"]
+			dependencies: ["67410832B3588F76"]
 			description: [
 				"Place down the following blocks to help Jess move in!"
 				""
@@ -2182,16 +2182,23 @@
 			]
 			icon: "moa_decor_cookery:cafetera"
 			id: "756B6CAC42F98D92"
-			rewards: [{
-				command: "/function farming_crossing:jess"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				icon: "candlelight:letter_open"
-				id: "547B8095C7E2C77E"
-				silent: true
-				title: "Invite Jess"
-				type: "command"
-			}]
+			rewards: [
+				{
+					command: "/function farming_crossing:jess"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					icon: "candlelight:letter_open"
+					id: "547B8095C7E2C77E"
+					silent: true
+					title: "Invite Jess"
+					type: "command"
+				}
+				{
+					id: "345A653767E44FC6"
+					item: "non_wandering_trader:travellers_table"
+					type: "item"
+				}
+			]
 			tasks: [
 				{
 					block: "moa_decor_cookery:cafetera"
@@ -2240,8 +2247,8 @@
 				}
 			]
 			title: "Help Jess Move In"
-			x: 2.5d
-			y: -5.5d
+			x: 4.5d
+			y: -0.5d
 		}
 		{
 			can_repeat: true
@@ -2315,6 +2322,58 @@
 			title: "Help Ren Move In"
 			x: -0.5d
 			y: -3.5d
+		}
+		{
+			dependencies: ["0D0FDA6FBDCEFF3B"]
+			hide: true
+			icon: {
+				Count: 1b
+				id: "lootbags:loot_bag"
+				tag: {
+					Color: 13882323
+					Loot: "lootbags:furniture/loot_furniture"
+					Name: "Furniture Kit"
+					Type: "COMMON"
+				}
+			}
+			id: "67410832B3588F76"
+			rewards: [
+				{
+					id: "6081D0F0CA3E1A09"
+					item: "moa_decor_cookery:cafetera"
+					type: "item"
+				}
+				{
+					id: "1535C05D442C5706"
+					item: "meadow:camera"
+					type: "item"
+				}
+				{
+					id: "260CB41AC308F165"
+					item: "moa_decor_cookery:soportetazas"
+					type: "item"
+				}
+				{
+					id: "5CA747C225784E6C"
+					item: "moa_decor_cookery:donas"
+					type: "item"
+				}
+				{
+					id: "37479326BE2D6F58"
+					item: "moa_decor_cookery:fideos"
+					type: "item"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 16L
+				id: "428F1F99EA314F5C"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			title: "Jess's Furniture Bundle"
+			x: 3.5d
+			y: -0.5d
 		}
 	]
 	title: "Farming Crossing 4"
