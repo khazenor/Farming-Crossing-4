@@ -377,7 +377,7 @@
 				item: "minecraft:smooth_basalt"
 				type: "item"
 			}]
-			x: 2.0d
+			x: 0.0d
 			y: -0.5d
 		}
 		{
@@ -408,8 +408,8 @@
 				item: "minecraft:tuff"
 				type: "item"
 			}]
-			x: 4.0d
-			y: -0.5d
+			x: 0.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["44DB551B93AA28F9"]
@@ -470,8 +470,8 @@
 				item: "minecraft:raw_copper"
 				type: "item"
 			}]
-			x: 2.0d
-			y: 3.0d
+			x: 0.0d
+			y: 0.5d
 		}
 		{
 			dependencies: ["44DB551B93AA28F9"]
@@ -501,8 +501,8 @@
 				item: "minecraft:raw_gold"
 				type: "item"
 			}]
-			x: 3.0d
-			y: 3.0d
+			x: 1.0d
+			y: 0.5d
 		}
 		{
 			dependencies: ["44DB551B93AA28F9"]
@@ -532,8 +532,8 @@
 				item: "minecraft:raw_iron"
 				type: "item"
 			}]
-			x: 4.0d
-			y: 3.0d
+			x: 2.0d
+			y: 0.5d
 		}
 		{
 			dependencies: ["44DB551B93AA28F9"]
@@ -563,8 +563,8 @@
 				item: "minecraft:redstone"
 				type: "item"
 			}]
-			x: 1.0d
-			y: 3.0d
+			x: 3.0d
+			y: -0.5d
 		}
 		{
 			dependencies: ["44DB551B93AA28F9"]
@@ -594,8 +594,8 @@
 				item: "minecraft:diamond"
 				type: "item"
 			}]
-			x: 1.0d
-			y: 4.0d
+			x: 5.0d
+			y: 0.5d
 		}
 		{
 			dependencies: ["44DB551B93AA28F9"]
@@ -626,7 +626,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 0.5d
+			y: 1.5d
 		}
 		{
 			dependencies: ["44DB551B93AA28F9"]
@@ -657,7 +657,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 0.5d
+			y: 1.5d
 		}
 		{
 			dependencies: ["44DB551B93AA28F9"]
@@ -688,7 +688,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 0.5d
+			y: 1.5d
 		}
 		{
 			dependencies: ["44DB551B93AA28F9"]
@@ -719,7 +719,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 0.5d
+			y: 1.5d
 		}
 		{
 			dependencies: ["44DB551B93AA28F9"]
@@ -750,7 +750,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 0.5d
+			y: 1.5d
 		}
 		{
 			dependencies: ["44DB551B93AA28F9"]
@@ -781,7 +781,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: -0.5d
+			y: 1.5d
 		}
 		{
 			dependencies: ["44DB551B93AA28F9"]
@@ -811,8 +811,8 @@
 				item: "create:raw_zinc"
 				type: "item"
 			}]
-			x: 5.0d
-			y: 3.0d
+			x: 3.0d
+			y: 0.5d
 		}
 		{
 			dependencies: ["44DB551B93AA28F9"]
@@ -842,8 +842,8 @@
 				item: "minecraft:amethyst_shard"
 				type: "item"
 			}]
-			x: 0.0d
-			y: 4.0d
+			x: 4.0d
+			y: 0.5d
 		}
 		{
 			dependencies: ["44DB551B93AA28F9"]
@@ -873,7 +873,7 @@
 				item: "meadow:mossy_cobbled_limestone"
 				type: "item"
 			}]
-			x: 1.0d
+			x: 5.0d
 			y: -0.5d
 		}
 		{
@@ -904,7 +904,7 @@
 				item: "meadow:cobbled_limestone"
 				type: "item"
 			}]
-			x: 0.0d
+			x: 4.0d
 			y: -0.5d
 		}
 		{
@@ -935,8 +935,8 @@
 				item: "biomesoplenty:white_sandstone"
 				type: "item"
 			}]
-			x: 5.0d
-			y: 0.5d
+			x: 1.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["44DB551B93AA28F9"]
@@ -966,8 +966,8 @@
 				item: "biomesoplenty:orange_sandstone"
 				type: "item"
 			}]
-			x: 0.0d
-			y: 1.5d
+			x: 2.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["44DB551B93AA28F9"]
@@ -997,8 +997,8 @@
 				item: "biomesoplenty:black_sandstone"
 				type: "item"
 			}]
-			x: 1.0d
-			y: 1.5d
+			x: 3.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["44DB551B93AA28F9"]
@@ -1028,8 +1028,8 @@
 				item: "biomesoplenty:dried_salt"
 				type: "item"
 			}]
-			x: 3.0d
-			y: -0.5d
+			x: 4.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["44DB551B93AA28F9"]
@@ -1059,8 +1059,8 @@
 				item: "minecraft:coal"
 				type: "item"
 			}]
-			x: 2.0d
-			y: 1.5d
+			x: 1.0d
+			y: -0.5d
 		}
 		{
 			dependencies: ["44DB551B93AA28F9"]
@@ -1090,535 +1090,8 @@
 				item: "minecraft:lapis_lazuli"
 				type: "item"
 			}]
-			x: 0.0d
-			y: 3.0d
-		}
-		{
-			dependencies: ["44DB551B93AA28F9"]
-			disable_toast: true
-			hide: true
-			id: "1D6D55323ED6D3DC"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p minerals_collected 1"
-					elevate_perms: true
-					id: "7FE2AEC7FDA79BD1"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"New mineral collected! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"minerals_collected\"}},{\"text\":\" unique mineral(s)!\"}]"
-					elevate_perms: true
-					id: "7D190681A4A7709B"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "1C20B6CDDDCAE3DC"
-				item: "silentgems:black_diamond"
-				type: "item"
-			}]
-			x: 0.0d
-			y: 5.0d
-		}
-		{
-			dependencies: ["44DB551B93AA28F9"]
-			disable_toast: true
-			hide: true
-			id: "1FAE74FB1D13319C"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p minerals_collected 1"
-					elevate_perms: true
-					id: "56D4E5E8E17F9298"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"New mineral collected! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"minerals_collected\"}},{\"text\":\" unique mineral(s)!\"}]"
-					elevate_perms: true
-					id: "3E694513908A7DB4"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "1105D25F9B1ADB45"
-				item: "silentgems:white_diamond"
-				type: "item"
-			}]
-			x: 1.0d
-			y: 5.0d
-		}
-		{
-			dependencies: ["44DB551B93AA28F9"]
-			disable_toast: true
-			hide: true
-			id: "303D4B4A038FAA18"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p minerals_collected 1"
-					elevate_perms: true
-					id: "2D5231DA1986B563"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"New mineral collected! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"minerals_collected\"}},{\"text\":\" unique mineral(s)!\"}]"
-					elevate_perms: true
-					id: "5A551D2FC7B1FF46"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "3B99196051B4370C"
-				item: "silentgems:turquoise"
-				type: "item"
-			}]
 			x: 2.0d
-			y: 5.0d
-		}
-		{
-			dependencies: ["44DB551B93AA28F9"]
-			disable_toast: true
-			hide: true
-			id: "4DE9A801B7E0A4C9"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p minerals_collected 1"
-					elevate_perms: true
-					id: "228EEA98F4B6820F"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"New mineral collected! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"minerals_collected\"}},{\"text\":\" unique mineral(s)!\"}]"
-					elevate_perms: true
-					id: "1F3A81E1CA94D9B7"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "017B0BCBCEAC97FE"
-				item: "silentgems:heliodor"
-				type: "item"
-			}]
-			x: 3.0d
-			y: 5.0d
-		}
-		{
-			dependencies: ["44DB551B93AA28F9"]
-			disable_toast: true
-			hide: true
-			id: "4DE48C576551D1BF"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p minerals_collected 1"
-					elevate_perms: true
-					id: "6BD93954E24A1E4E"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"New mineral collected! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"minerals_collected\"}},{\"text\":\" unique mineral(s)!\"}]"
-					elevate_perms: true
-					id: "65A50C1C4A202025"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "6035C529F6D4C280"
-				item: "silentgems:iolite"
-				type: "item"
-			}]
-			x: 4.0d
-			y: 5.0d
-		}
-		{
-			dependencies: ["44DB551B93AA28F9"]
-			disable_toast: true
-			hide: true
-			id: "693796133CC837C8"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p minerals_collected 1"
-					elevate_perms: true
-					id: "63A46EDFF84C99ED"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"New mineral collected! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"minerals_collected\"}},{\"text\":\" unique mineral(s)!\"}]"
-					elevate_perms: true
-					id: "171B7DFBF93E62FF"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "4A92E285A5044FF5"
-				item: "silentgems:alexandrite"
-				type: "item"
-			}]
-			x: 5.0d
-			y: 5.0d
-		}
-		{
-			dependencies: ["44DB551B93AA28F9"]
-			disable_toast: true
-			hide: true
-			id: "769882EBE5D9A5C1"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p minerals_collected 1"
-					elevate_perms: true
-					id: "57153E1832E8174C"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"New mineral collected! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"minerals_collected\"}},{\"text\":\" unique mineral(s)!\"}]"
-					elevate_perms: true
-					id: "22456CBA221F380B"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "07D9A350610E73AC"
-				item: "silentgems:carnelian"
-				type: "item"
-			}]
-			x: 0.0d
-			y: 7.0d
-		}
-		{
-			dependencies: ["44DB551B93AA28F9"]
-			disable_toast: true
-			hide: true
-			id: "049050A823AF2D44"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p minerals_collected 1"
-					elevate_perms: true
-					id: "0B0ABC3DF68E59C9"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"New mineral collected! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"minerals_collected\"}},{\"text\":\" unique mineral(s)!\"}]"
-					elevate_perms: true
-					id: "75C9183A4A262FC0"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "0689E3D52A1D74E2"
-				item: "silentgems:citrine"
-				type: "item"
-			}]
-			x: 2.0d
-			y: 4.0d
-		}
-		{
-			dependencies: ["44DB551B93AA28F9"]
-			disable_toast: true
-			hide: true
-			id: "7A2224B2946972DF"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p minerals_collected 1"
-					elevate_perms: true
-					id: "721F8AA246583FFD"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"New mineral collected! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"minerals_collected\"}},{\"text\":\" unique mineral(s)!\"}]"
-					elevate_perms: true
-					id: "33B2AC42DDCCFDE1"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "47D9232E4B611A83"
-				item: "silentgems:moldavite"
-				type: "item"
-			}]
-			x: 3.0d
-			y: 4.0d
-		}
-		{
-			dependencies: ["44DB551B93AA28F9"]
-			disable_toast: true
-			hide: true
-			id: "1E504E0840CB45F5"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p minerals_collected 1"
-					elevate_perms: true
-					id: "706E3343E9F54288"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"New mineral collected! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"minerals_collected\"}},{\"text\":\" unique mineral(s)!\"}]"
-					elevate_perms: true
-					id: "02C7EF2DEBBDAFDD"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "7A64B5568B29EF48"
-				item: "silentgems:kyanite"
-				type: "item"
-			}]
-			x: 4.0d
-			y: 4.0d
-		}
-		{
-			dependencies: ["44DB551B93AA28F9"]
-			disable_toast: true
-			hide: true
-			id: "4E91430EE29D381D"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p minerals_collected 1"
-					elevate_perms: true
-					id: "56349D2B3E3BD0E9"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"New mineral collected! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"minerals_collected\"}},{\"text\":\" unique mineral(s)!\"}]"
-					elevate_perms: true
-					id: "7786A79D21D4ED6B"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "72BD13B13776D364"
-				item: "silentgems:ammolite"
-				type: "item"
-			}]
-			x: 5.0d
-			y: 4.0d
-		}
-		{
-			dependencies: ["44DB551B93AA28F9"]
-			disable_toast: true
-			hide: true
-			id: "3C81670A5B4D2B2D"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p minerals_collected 1"
-					elevate_perms: true
-					id: "758C23FE20CD001E"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"New mineral collected! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"minerals_collected\"}},{\"text\":\" unique mineral(s)!\"}]"
-					elevate_perms: true
-					id: "091AB31E708F5596"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "2CAFC6E051ABF98E"
-				item: "silentgems:rose_quartz"
-				type: "item"
-			}]
-			x: 5.0d
-			y: 6.0d
-		}
-		{
-			dependencies: ["44DB551B93AA28F9"]
-			disable_toast: true
-			hide: true
-			id: "25B363162C9F1F64"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p minerals_collected 1"
-					elevate_perms: true
-					id: "089F54CCB558CB13"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"New mineral collected! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"minerals_collected\"}},{\"text\":\" unique mineral(s)!\"}]"
-					elevate_perms: true
-					id: "5D8669C8E047E7CB"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "693D488DBA2AEEE0"
-				item: "silentgems:topaz"
-				type: "item"
-			}]
-			x: 0.0d
-			y: 6.0d
-		}
-		{
-			dependencies: ["44DB551B93AA28F9"]
-			disable_toast: true
-			hide: true
-			id: "1AC59670DF0142F1"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p minerals_collected 1"
-					elevate_perms: true
-					id: "04B41990DC554832"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"New mineral collected! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"minerals_collected\"}},{\"text\":\" unique mineral(s)!\"}]"
-					elevate_perms: true
-					id: "255AD94C4FE30B9B"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "7F1595E7653E3D7F"
-				item: "silentgems:peridot"
-				type: "item"
-			}]
-			x: 1.0d
-			y: 6.0d
-		}
-		{
-			dependencies: ["44DB551B93AA28F9"]
-			disable_toast: true
-			hide: true
-			id: "36FCF9B9F3F74936"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p minerals_collected 1"
-					elevate_perms: true
-					id: "281401CBFAD04608"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"New mineral collected! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"minerals_collected\"}},{\"text\":\" unique mineral(s)!\"}]"
-					elevate_perms: true
-					id: "4022EEAD1C5E5C10"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "295297C54A6E0A21"
-				item: "silentgems:sapphire"
-				type: "item"
-			}]
-			x: 2.0d
-			y: 6.0d
-		}
-		{
-			dependencies: ["44DB551B93AA28F9"]
-			disable_toast: true
-			hide: true
-			id: "290D077B74F65168"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p minerals_collected 1"
-					elevate_perms: true
-					id: "6A0C0DA8ACBBC37D"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"New mineral collected! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"minerals_collected\"}},{\"text\":\" unique mineral(s)!\"}]"
-					elevate_perms: true
-					id: "46A8B879D1DB0BE3"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "776F482AB21E0D11"
-				item: "silentgems:ruby"
-				type: "item"
-			}]
-			x: 3.0d
-			y: 6.0d
-		}
-		{
-			dependencies: ["44DB551B93AA28F9"]
-			disable_toast: true
-			hide: true
-			id: "3261450B36B12244"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p minerals_collected 1"
-					elevate_perms: true
-					id: "0C4B555A0E516B78"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"New mineral collected! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"minerals_collected\"}},{\"text\":\" unique mineral(s)!\"}]"
-					elevate_perms: true
-					id: "7C1E8568C54538A7"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "56AD7883287CE048"
-				item: "silentgems:raw_silver"
-				type: "item"
-			}]
-			x: 4.0d
-			y: 6.0d
+			y: -0.5d
 		}
 	]
 	title: "Mineral Museum"
