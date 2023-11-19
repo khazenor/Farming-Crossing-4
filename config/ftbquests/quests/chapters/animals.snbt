@@ -2506,42 +2506,6 @@
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
-			description: ["A trader llama is a special variant that follows wandering traders. "]
-			disable_toast: true
-			hide: true
-			id: "4D144D666EFF0D47"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p animals_observed 1"
-					elevate_perms: true
-					id: "631A276A908F61AC"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
-					elevate_perms: true
-					id: "4637334EB1EE3A48"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				icon: "minecraft:trader_llama_spawn_egg"
-				id: "4AED443401B5499E"
-				observe_type: 5
-				timer: 0L
-				title: "Spot a trader llama"
-				to_observe: "minecraft:trader_llama"
-				type: "observation"
-			}]
-			x: -8.0d
-			y: 8.5d
-		}
-		{
-			dependencies: ["2D62FBEF18E6ABF6"]
 			description: ["A turtle is a common passive mob found in beach biomes."]
 			disable_toast: true
 			hide: true
@@ -3273,7 +3237,6 @@
 				"30F27E64B61D345B"
 				"53286AD551CABD14"
 				"3138CE479C03E1F4"
-				"4D144D666EFF0D47"
 				"562048B05A37936C"
 				"6EFB02CAFF70011F"
 			]
