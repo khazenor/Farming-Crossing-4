@@ -62,6 +62,14 @@ summon ssls_npc_maker_mod:npc ~ ~ ~ {
         maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
       }, {
         buy: {
+          id: "kubejs:miles_ticket", Count: 1
+        },
+        sell: {
+          id: "naturescompass:naturescompass", Count: 1
+        },
+        maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
+      }, {
+        buy: {
           id: "kubejs:miles_ticket", Count: 4
         },
         sell: {
