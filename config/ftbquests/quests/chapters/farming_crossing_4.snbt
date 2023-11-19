@@ -521,11 +521,6 @@
 					silent: true
 					type: "command"
 				}
-				{
-					id: "54BFF513C0C42DE1"
-					item: "silentgems:gem_bag"
-					type: "item"
-				}
 			]
 			tasks: [{
 				id: "5CE78A08221C0A01"
@@ -1011,11 +1006,6 @@
 				{
 					id: "5EFF7EE1E4FA051F"
 					item: "paraglider:paraglider"
-					type: "item"
-				}
-				{
-					id: "5943DAC101CC1A0F"
-					item: "silentgems:flower_basket"
 					type: "item"
 				}
 			]
