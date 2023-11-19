@@ -102,5 +102,6 @@ def clientSideModNames():
 		'citresewn',
 		'tagtooltips',
 		'World Stripper',
-		'embeddium'
+		'embeddium',
+		'tagtooltips'
 	]
