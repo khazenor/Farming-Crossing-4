@@ -10,7 +10,7 @@ ItemEvents.tooltip(event => {
     ],
     [
       'You can sell 2 of these gems', 
-      'for 16 miles tickets'
+      'for 6 miles tickets'
     ])
   event.add(
     [
@@ -33,7 +33,7 @@ ItemEvents.tooltip(event => {
     ],
     [
       'You can sell 2 of these gems', 
-      'for 8 miles tickets'
+      'for 3 miles tickets'
     ])
 
 })
