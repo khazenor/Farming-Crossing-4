@@ -8,7 +8,7 @@ summon ssls_npc_maker_mod:npc ~ ~ ~ {
           id: "silentgems:black_diamond", Count: 1
         },
         sell: {
-          id: "kubejs:miles_ticket", Count: 4
+          id: "kubejs:miles_ticket", Count: 8
         },
         maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
       }, {
@@ -16,7 +16,7 @@ summon ssls_npc_maker_mod:npc ~ ~ ~ {
           id: "silentgems:white_diamond", Count: 1
         },
         sell: {
-          id: "kubejs:miles_ticket", Count: 4
+          id: "kubejs:miles_ticket", Count: 8
         },
         maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
       }, {
@@ -24,7 +24,7 @@ summon ssls_npc_maker_mod:npc ~ ~ ~ {
           id: "silentgems:turquoise", Count: 1
         },
         sell: {
-          id: "kubejs:miles_ticket", Count: 4
+          id: "kubejs:miles_ticket", Count: 8
         },
         maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
       }, {
@@ -32,7 +32,7 @@ summon ssls_npc_maker_mod:npc ~ ~ ~ {
           id: "silentgems:heliodor", Count: 1
         },
         sell: {
-          id: "kubejs:miles_ticket", Count: 4
+          id: "kubejs:miles_ticket", Count: 8
         },
         maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
       }, {
@@ -40,7 +40,7 @@ summon ssls_npc_maker_mod:npc ~ ~ ~ {
           id: "silentgems:iolite", Count: 1
         },
         sell: {
-          id: "kubejs:miles_ticket", Count: 4
+          id: "kubejs:miles_ticket", Count: 8
         },
         maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
       }, {
@@ -48,7 +48,7 @@ summon ssls_npc_maker_mod:npc ~ ~ ~ {
           id: "silentgems:alexandrite", Count: 1
         },
         sell: {
-          id: "kubejs:miles_ticket", Count: 4
+          id: "kubejs:miles_ticket", Count: 8
         },
         maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
       }, {
