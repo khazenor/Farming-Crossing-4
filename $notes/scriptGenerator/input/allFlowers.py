@@ -38,21 +38,5 @@ flowers = [
   "meadow:eriophorum_tall",
   "meadow:alpine_poppy",
   "meadow:delphinium",
-  "meadow:saxifrage",
-  "silentgems:ruby_glowrose",
-  "silentgems:carnelian_glowrose",
-  "silentgems:topaz_glowrose",
-  "silentgems:citrine_glowrose",
-  "silentgems:heliodor_glowrose",
-  "silentgems:moldavite_glowrose",
-  "silentgems:peridot_glowrose",
-  "silentgems:turquoise_glowrose",
-  "silentgems:kyanite_glowrose",
-  "silentgems:sapphire_glowrose",
-  "silentgems:iolite_glowrose",
-  "silentgems:alexandrite_glowrose",
-  "silentgems:ammolite_glowrose",
-  "silentgems:rose_quartz_glowrose",
-  "silentgems:black_diamond_glowrose",
-  "silentgems:white_diamond_glowrose"
+  "meadow:saxifrage"
 ]

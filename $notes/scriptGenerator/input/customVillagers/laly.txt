@@ -5,18 +5,10 @@ summon ssls_npc_maker_mod:npc ~ ~ ~ {
     Recipes: [
       {
         buy: {
+          id: "minecraft:coal_block", Count: 1
+        },
+        sell: {
           id: "kubejs:miles_ticket", Count: 1
-        },
-        sell: {
-          id: "minecraft:coal", Count: 1
-        },
-        maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
-      }, {
-        buy: {
-          id: "kubejs:miles_ticket", Count: 2
-        },
-        sell: {
-          id: "minecraft:iron_ingot", Count: 1
         },
         maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
       }, {
@@ -41,6 +33,30 @@ summon ssls_npc_maker_mod:npc ~ ~ ~ {
         },
         sell: {
           id: "kubejs:miles_ticket", Count: 2
+        },
+        maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
+      }, {
+        buy: {
+          id: "minecraft:raw_iron_block", Count: 1
+        },
+        sell: {
+          id: "kubejs:miles_ticket", Count: 2
+        },
+        maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
+      }, {
+        buy: {
+          id: "minecraft:raw_gold_block", Count: 1
+        },
+        sell: {
+          id: "kubejs:miles_ticket", Count: 4
+        },
+        maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
+      }, {
+        buy: {
+          id: "minecraft:diamond_block", Count: 1
+        },
+        sell: {
+          id: "kubejs:miles_ticket", Count: 12
         },
         maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
       }, {
