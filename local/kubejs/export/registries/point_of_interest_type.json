@@ -26,6 +26,7 @@
 	"minecraft:shepherd": "net.minecraft.world.entity.ai.village.poi.PoiType",
 	"minecraft:toolsmith": "net.minecraft.world.entity.ai.village.poi.PoiType",
 	"minecraft:weaponsmith": "net.minecraft.world.entity.ai.village.poi.PoiType",
+	"non_wandering_trader:traveller": "net.minecraft.world.entity.ai.village.poi.PoiType",
 	"villagersplus:alchemist": "net.minecraft.world.entity.ai.village.poi.PoiType",
 	"villagersplus:horticulturist_acacia": "net.minecraft.world.entity.ai.village.poi.PoiType",
 	"villagersplus:horticulturist_bamboo": "net.minecraft.world.entity.ai.village.poi.PoiType",
@@ -40,6 +41,5 @@
 	"villagersplus:horticulturist_warped": "net.minecraft.world.entity.ai.village.poi.PoiType",
 	"villagersplus:occultist": "net.minecraft.world.entity.ai.village.poi.PoiType",
 	"villagersplus:oceanographer": "net.minecraft.world.entity.ai.village.poi.PoiType",
-	"vinery:winemaker_poi": "net.minecraft.world.entity.ai.village.poi.PoiType",
-	"non_wandering_trader:traveller": "net.minecraft.world.entity.ai.village.poi.PoiType"
+	"vinery:winemaker_poi": "net.minecraft.world.entity.ai.village.poi.PoiType"
 }

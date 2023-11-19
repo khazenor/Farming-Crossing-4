@@ -7288,6 +7288,7 @@
 	"moa_decor_toys:zombiemomificado": "net.mcreator.moadecortoys.block.ZombiemomificadoBlock",
 	"moa_decor_toys:zorro": "net.mcreator.moadecortoys.block.ZorroBlock",
 	"moa_decor_toys:zorroblanco": "net.mcreator.moadecortoys.block.ZorroblancoBlock",
+	"non_wandering_trader:travellers_table": "net.mcreator.nonwanderingtrader.block.TravellersTableBlock",
 	"paraglider:goddess_statue": "tictim.paraglider.contents.block.GoddessStatueBlock",
 	"paraglider:goron_goddess_statue": "tictim.paraglider.contents.block.GoddessStatueBlock",
 	"paraglider:horned_statue": "tictim.paraglider.contents.block.HornedStatueBlock",
@@ -8050,6 +8051,5 @@
 	"waystones:warp_plate": "net.blay09.mods.waystones.block.WarpPlateBlock",
 	"waystones:waystone": "net.blay09.mods.waystones.block.WaystoneBlock",
 	"waystones:white_sharestone": "net.blay09.mods.waystones.block.SharestoneBlock",
-	"waystones:yellow_sharestone": "net.blay09.mods.waystones.block.SharestoneBlock",
-	"non_wandering_trader:travellers_table": "net.mcreator.nonwanderingtrader.block.TravellersTableBlock"
+	"waystones:yellow_sharestone": "net.blay09.mods.waystones.block.SharestoneBlock"
 }

@@ -8407,6 +8407,7 @@
 	"mobcapturingtool:mob_capturing_tool": "com.matyrobbrt.mobcapturingtool.item.CapturingToolItem",
 	"moonlight:placeable_item": "net.mehvahdjukaar.moonlight.api.item.additional_placements.BlockPlacerItem",
 	"naturescompass:naturescompass": "com.chaosthedude.naturescompass.items.NaturesCompassItem",
+	"non_wandering_trader:travellers_table": "net.minecraft.world.item.BlockItem",
 	"nutritionalbalance:lunchbox": "com.dannyandson.nutritionalbalance.lunchbox.LunchBoxItem",
 	"paraglider:anti_vessel": "tictim.paraglider.contents.item.AntiVesselItem",
 	"paraglider:deku_leaf": "tictim.paraglider.forge.contents.item.ForgeParagliderItem",
@@ -9703,6 +9704,5 @@
 	"waystones:warp_stone": "net.blay09.mods.waystones.item.WarpStoneItem",
 	"waystones:waystone": "net.minecraft.world.item.BlockItem",
 	"waystones:white_sharestone": "net.minecraft.world.item.BlockItem",
-	"waystones:yellow_sharestone": "net.minecraft.world.item.BlockItem",
-	"non_wandering_trader:travellers_table": "net.minecraft.world.item.BlockItem"
+	"waystones:yellow_sharestone": "net.minecraft.world.item.BlockItem"
 }

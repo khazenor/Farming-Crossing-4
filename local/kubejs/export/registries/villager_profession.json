@@ -16,10 +16,10 @@
 	"minecraft:shepherd": "net.minecraft.world.entity.npc.VillagerProfession",
 	"minecraft:toolsmith": "net.minecraft.world.entity.npc.VillagerProfession",
 	"minecraft:weaponsmith": "net.minecraft.world.entity.npc.VillagerProfession",
+	"non_wandering_trader:traveller": "net.minecraft.world.entity.npc.VillagerProfession",
 	"villagersplus:alchemist": "net.minecraft.world.entity.npc.VillagerProfession",
 	"villagersplus:horticulturist": "net.minecraft.world.entity.npc.VillagerProfession",
 	"villagersplus:occultist": "net.minecraft.world.entity.npc.VillagerProfession",
 	"villagersplus:oceanographer": "net.minecraft.world.entity.npc.VillagerProfession",
-	"vinery:winemaker": "net.minecraft.world.entity.npc.VillagerProfession",
-	"non_wandering_trader:traveller": "net.minecraft.world.entity.npc.VillagerProfession"
+	"vinery:winemaker": "net.minecraft.world.entity.npc.VillagerProfession"
 }
