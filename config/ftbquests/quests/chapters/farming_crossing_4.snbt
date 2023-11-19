@@ -2178,6 +2178,8 @@
 			description: [
 				"Place down the following blocks to help Jess move in!"
 				""
+				"Also remember to put down Jess's Shop block, she won't be able to sell you decorations otherwise!"
+				""
 				"While you are at it, also feel free to build a room or house for Jess!  Make sure you include a bed so she can have a good place to rest!"
 			]
 			icon: "moa_decor_cookery:cafetera"
@@ -2246,7 +2248,7 @@
 					value: 1L
 				}
 			]
-			title: "Help Jess Move In"
+			title: "Help Jess open up her shop"
 			x: 4.5d
 			y: -0.5d
 		}
