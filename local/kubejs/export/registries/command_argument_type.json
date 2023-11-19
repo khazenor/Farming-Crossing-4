@@ -66,7 +66,6 @@
 	"ftbteams:team": "dev.ftb.mods.ftbteams.data.TeamArgument$Info",
 	"ftbteams:team_property": "dev.ftb.mods.ftbteams.api.property.TeamPropertyArgument$Info",
 	"nutritionalbalance:nutrient_argument_type": "com.dannyandson.nutritionalbalance.commands.CommandSetNutrient$NutrientStringArgumentType$Serializer",
-	"inventorysorter:container_reslocation": "net.minecraft.commands.synchronization.SingletonArgumentInfo",
 	"ftbteams:change_progress": "net.minecraft.commands.synchronization.SingletonArgumentInfo",
 	"ftbteams:quest_object": "net.minecraft.commands.synchronization.SingletonArgumentInfo"
 }

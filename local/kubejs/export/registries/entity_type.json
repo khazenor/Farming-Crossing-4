@@ -226,6 +226,11 @@
 	"gravestone:player_ghost": "net.minecraft.world.entity.EntityType",
 	"handcrafted:fancy_painting": "net.minecraft.world.entity.EntityType",
 	"handcrafted:seat": "net.minecraft.world.entity.EntityType",
+	"immersive_aircraft:airship": "net.minecraft.world.entity.EntityType",
+	"immersive_aircraft:biplane": "net.minecraft.world.entity.EntityType",
+	"immersive_aircraft:cargo_airship": "net.minecraft.world.entity.EntityType",
+	"immersive_aircraft:gyrodyne": "net.minecraft.world.entity.EntityType",
+	"immersive_aircraft:quadrocopter": "net.minecraft.world.entity.EntityType",
 	"lootr:lootr_minecart": "net.minecraft.world.entity.EntityType",
 	"meadow:brown_bear": "net.minecraft.world.entity.EntityType",
 	"meadow:water_buffalo": "net.minecraft.world.entity.EntityType",
@@ -358,6 +363,7 @@
 	"shetiphiancore:gui_item": "net.minecraft.world.entity.EntityType",
 	"simplehats:hatdisplay": "net.minecraft.world.entity.EntityType",
 	"sophisticatedbackpacks:everlasting_backpack_item": "net.minecraft.world.entity.EntityType",
+	"ssls_npc_maker_mod:npc": "net.minecraft.world.entity.EntityType",
 	"supplementaries:bomb": "net.minecraft.world.entity.EntityType",
 	"supplementaries:brick_projectile": "net.minecraft.world.entity.EntityType",
 	"supplementaries:dispenser_minecart": "net.minecraft.world.entity.EntityType",
@@ -378,10 +384,5 @@
 	"utilitix:stonecutter_cart": "net.minecraft.world.entity.EntityType",
 	"vinery:chair": "net.minecraft.world.entity.EntityType",
 	"vinery:mule": "net.minecraft.world.entity.EntityType",
-	"vinery:wandering_winemaker": "net.minecraft.world.entity.EntityType",
-	"immersive_aircraft:gyrodyne": "net.minecraft.world.entity.EntityType",
-	"immersive_aircraft:biplane": "net.minecraft.world.entity.EntityType",
-	"immersive_aircraft:airship": "net.minecraft.world.entity.EntityType",
-	"immersive_aircraft:cargo_airship": "net.minecraft.world.entity.EntityType",
-	"immersive_aircraft:quadrocopter": "net.minecraft.world.entity.EntityType"
+	"vinery:wandering_winemaker": "net.minecraft.world.entity.EntityType"
 }

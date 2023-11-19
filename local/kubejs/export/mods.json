@@ -1,11 +1,13 @@
 [
 	{
-		"id": "enchantedbookredesign",
-		"name": "Enchanted Book Redesign",
-		"version": "1.20.1-1",
-		"description": "Glints give hints to enchanted books",
-		"authors": "Tfarecnim, wiresegal",
-		"license": "Unlicense"
+		"id": "tagtooltips",
+		"name": "Tag Tooltips",
+		"version": "1.20.1-1.0",
+		"description": "Hold semicolon to view item tags.",
+		"authors": "Jagm",
+		"homepage": "https://github.com/J4gm/tagtooltips",
+		"issue_tracker": "https://github.com/J4gm/tagtooltips/issues",
+		"license": "CC BY-NC-SA 3.0"
 	},
 	{
 		"id": "treechop",
@@ -18,14 +20,12 @@
 		"license": "MIT (https://github.com/hammertater/treechop/blob/main/LICENSE)"
 	},
 	{
-		"id": "betterdungeons",
-		"name": "YUNG's Better Dungeons",
-		"version": "1.20-Forge-4.0.3",
-		"description": "A complete redesign of Minecraft's dungeons",
-		"authors": "YUNGNICKYOUNG, Acarii",
-		"homepage": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons",
-		"issue_tracker": "https://github.com/yungnickyoung/YUNGs-Better-Dungeons/issues",
-		"license": "LGPLv3"
+		"id": "skyvillages",
+		"name": "Sky Villages",
+		"version": "1.0.3",
+		"description": "Villages in the land of clouds!",
+		"authors": "Aureljz, Y4Z0N",
+		"license": "MIT"
 	},
 	{
 		"id": "kubejs",
@@ -56,16 +56,6 @@
 		"license": "All rights reserved"
 	},
 	{
-		"id": "betterwitchhuts",
-		"name": "YUNG's Better Witch Huts",
-		"version": "1.20-Forge-3.0.3",
-		"description": "Adds new and improved witch huts to swamps!",
-		"authors": "YUNGNICKYOUNG, Acarii",
-		"homepage": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts",
-		"issue_tracker": "https://github.com/yungnickyoung/YUNGs-Better-Witch-Huts/issues",
-		"license": "LGPLv3"
-	},
-	{
 		"id": "alexsmobs",
 		"name": "Alex's Mobs",
 		"version": "1.22.6",
@@ -89,6 +79,16 @@
 		"description": "Cross-Platform Minecraft Modding System",
 		"authors": "OrionOnline",
 		"license": "GLGPLv3"
+	},
+	{
+		"id": "underground_villages",
+		"name": "Underground Villages Mod",
+		"version": "2.0.0",
+		"description": "Ever wanted to be a tunnel dweller? Wanted villages to also be underground? Well then this mod is for you!\nThis mod adds Underground Villages to your world.",
+		"authors": "Mrbysco",
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/underground-villages",
+		"issue_tracker": "https://github.com/Mrbysco/UndergroundVillages/issues",
+		"license": "MIT"
 	},
 	{
 		"id": "simplemagnets",
@@ -122,7 +122,7 @@
 	{
 		"id": "incontrol",
 		"name": "InControl",
-		"version": "1.20-9.1.1",
+		"version": "1.20-9.1.2",
 		"description": "Be in control of spawns",
 		"issue_tracker": "http://github.com/McJtyMods/InControl/issues",
 		"license": "MIT License https://github.com/McJtyMods/FXControl/blob/1.16/LICENCE"
@@ -130,7 +130,7 @@
 	{
 		"id": "dynamiclights",
 		"name": "Dynamic Lights",
-		"version": "1.20.1.1",
+		"version": "1.20.1.2",
 		"description": "Shine light from held and dropped items",
 		"authors": "AtomicStryker",
 		"homepage": "http://atomicstryker.org/",
@@ -158,23 +158,22 @@
 	{
 		"id": "candlelight",
 		"name": "Candlelight Dinner",
-		"version": "1.2.6",
+		"version": "1.2.7",
 		"description": "A Food Themed Expansion for the 'Let's Do Wine' Mod focusing on cooking with Wine",
 		"authors": "satisfy_u, Cristelknight, BaumeisterJo",
 		"license": "All Rights Reserved"
 	},
 	{
 		"id": "rubidium",
-		"name": "Rubidium",
+		"name": "Rubidium (Embeddium)",
 		"version": "0.7.1",
-		"description": "Rubidium is a Unofficial Fork of the Sodium maked to work on FML.",
-		"authors": "CaffeineMC",
+		"description": "Stub, to allow mods detecting Rubidium to function as expected.",
 		"license": "LGPL-3.0-only"
 	},
 	{
 		"id": "sophisticatedcore",
 		"name": "Sophisticated Core",
-		"version": "0.5.100.457",
+		"version": "0.5.105.485",
 		"description": "Base mod of Sophisticated mods.",
 		"issue_tracker": "https://github.com/P3pp3rF1y/SophisticatedCore/issues",
 		"license": "GNU General Public License v3.0"
@@ -198,7 +197,7 @@
 	{
 		"id": "villagernames",
 		"name": "Villager Names",
-		"version": "6.1",
+		"version": "7.0",
 		"description": "Gives all villagers and villager-like entities their own name.",
 		"authors": "Rick South",
 		"homepage": "https://curseforge.com/minecraft/mc-mods/villager-names",
@@ -228,7 +227,7 @@
 	{
 		"id": "modernfix",
 		"name": "ModernFix",
-		"version": "5.9.2+mc1.20.1",
+		"version": "5.9.3+mc1.20.1",
 		"description": "Egregious, yet effective performance improvements for modern Minecraft",
 		"authors": "embeddedt",
 		"homepage": "https://modrinth.com/mod/modernfix",
@@ -238,7 +237,7 @@
 	{
 		"id": "placebo",
 		"name": "Placebo",
-		"version": "8.3.7",
+		"version": "8.5.6",
 		"description": "1 (one) library boi",
 		"license": "MIT License"
 	},
@@ -271,6 +270,15 @@
 		"license": "LGPLv3"
 	},
 	{
+		"id": "ssls_npc_maker_mod",
+		"name": "ssls_npc_maker_mod",
+		"version": "1.0.0",
+		"description": "add NPC in your world",
+		"authors": "sunshinelay_02",
+		"homepage": "https://mcreator.net",
+		"license": "Academic Free License v3.0"
+	},
+	{
 		"id": "iris",
 		"name": "Iris",
 		"version": "1.6.9",
@@ -280,11 +288,19 @@
 	{
 		"id": "mixinextras",
 		"name": "MixinExtras",
-		"version": "0.2.0-rc.4",
+		"version": "0.2.1-beta.2",
 		"description": "Companion library to Mixin with lots of features to improve the compatibility and concision of your mixins!",
 		"authors": "LlamaLad7",
 		"homepage": "https://github.com/LlamaLad7/MixinExtras",
 		"license": "MIT"
+	},
+	{
+		"id": "gemsnjewels",
+		"name": "Gems & Jewels",
+		"version": "0.1.0",
+		"description": "A mod that adds a more expansive collection of gemstone to mine, enchanted rings, new ways to interact with villagers, and upgrades for tools.",
+		"authors": "sea_leaf",
+		"license": "All rights reserved"
 	},
 	{
 		"id": "bakery",
@@ -324,7 +340,7 @@
 	{
 		"id": "sophisticatedbackpacks",
 		"name": "Sophisticated Backpacks",
-		"version": "3.18.65.935",
+		"version": "3.18.66.941",
 		"description": "Fancy and functional backpacks.",
 		"issue_tracker": "https://github.com/P3pp3rF1y/SophisticatedBackpacks/issues",
 		"license": "GNU General Public License v3.0"
@@ -377,7 +393,7 @@
 	{
 		"id": "biggerstacks",
 		"name": "Bigger Stacks",
-		"version": "1.20.1-0.0.3",
+		"version": "1.20.1-1.0.0",
 		"description": "Allows increasing stack sizes past 64 up to MAXINT/2 (about 1 billion)",
 		"authors": "PORTB",
 		"license": "GNU LGPLv3"
@@ -412,7 +428,7 @@
 	{
 		"id": "shetiphiancore",
 		"name": "ShetiPhian-Core",
-		"version": "1.20.1-1.1",
+		"version": "1.20.1-1.2",
 		"description": "Core set of files needed by ShetiPhian's mods",
 		"authors": "ShetiPhian, Artwork: Fruzstrated",
 		"homepage": "https://shetiphian.carrd.co",
@@ -431,7 +447,7 @@
 	{
 		"id": "supplementaries",
 		"name": "Supplementaries",
-		"version": "1.20-2.6.19",
+		"version": "1.20-2.6.29",
 		"description": "Many functional and useful Vanilla+ blocks",
 		"authors": "MehVahdJukaar, Plantkillable",
 		"issue_tracker": "https://github.com/MehVahdJukaar/Supplementaries/issues",
@@ -446,6 +462,14 @@
 		"homepage": "https://refinedmods.com/refined-storage",
 		"issue_tracker": "https://github.com/refinedmods/refinedstorage",
 		"license": "MIT"
+	},
+	{
+		"id": "embeddium",
+		"name": "Embeddium",
+		"version": "0.2.9+mc1.20.1",
+		"description": "Embeddium is a fork of Rubidium, a fork of Sodium with patches for Forge",
+		"authors": "embeddedt",
+		"license": "LGPL-3.0-only"
 	},
 	{
 		"id": "konkrete",
@@ -472,6 +496,23 @@
 		"authors": "Traben",
 		"issue_tracker": "https://github.com/Traben-0/EmissiveMod/issues",
 		"license": "LGPL-3.0"
+	},
+	{
+		"id": "ftbxmodcompat",
+		"name": "FTB XMod Compat",
+		"version": "2.0.1",
+		"description": "Provides cross-mod compatibilty/integration for all main FTB mods",
+		"authors": "FTB Team",
+		"license": "All Rights Reserved"
+	},
+	{
+		"id": "taxov",
+		"name": "Tax' Ocean Villager",
+		"version": "1.0.2",
+		"description": "Ocean Villager is a Minecraft Forge modification aims to add ships with sailors and pirates.",
+		"authors": "Taknax, Ercerus",
+		"homepage": "https://legacy.curseforge.com/minecraft/mc-mods/taxoceanvillager",
+		"license": "All Rights Reserved"
 	},
 	{
 		"id": "handcrafted",
@@ -542,6 +583,15 @@
 		"license": "Academic Free License v3.0"
 	},
 	{
+		"id": "mr_tidal_towns",
+		"name": "Tidal Towns",
+		"version": "1.2",
+		"description": "Adds a brand new ocean village type- with more variants on the way",
+		"authors": "joshieman06",
+		"homepage": "https://modrinth.com/datapack/tidal-towns",
+		"license": "LicenseRef-All-Rights-Reserved"
+	},
+	{
 		"id": "moa_decor_cookery",
 		"name": "MOA DECOR: COOKERY",
 		"version": "1.20.1",
@@ -569,6 +619,15 @@
 		"homepage": "https://www.curseforge.com/minecraft/mc-mods/corail-woodcutter",
 		"issue_tracker": "https://www.curseforge.com/minecraft/mc-mods/corail-woodcutter/issues",
 		"license": "GNU GPL v3"
+	},
+	{
+		"id": "non_wandering_trader",
+		"name": "Non-Wandering Trader Profession",
+		"version": "1.0.1",
+		"description": "Adds a Wandering Trader as a possible villager profession.",
+		"authors": "NoCube",
+		"homepage": "https://www.youtube.com/@nocubemc",
+		"license": "All Rights Reserved"
 	},
 	{
 		"id": "rightclickharvest",
@@ -601,7 +660,7 @@
 	{
 		"id": "collective",
 		"name": "Collective",
-		"version": "7.3",
+		"version": "7.7",
 		"description": "Collective is a shared library with common code for all of Serilum's mods.",
 		"authors": "Rick South",
 		"homepage": "https://curseforge.com/minecraft/mc-mods/collective",
@@ -641,7 +700,7 @@
 	{
 		"id": "meadow",
 		"name": "Meadow",
-		"version": "1.3.2",
+		"version": "1.3.3",
 		"description": "A small mod Vanilla+ Mod that aims to improve the meadow biome and adds a new way to create food.\nIt also brings back a few animals from Minecraft:Earth and gives them a reason to be there beside of looking pretty.",
 		"authors": "[satisfy, Cristelknight999, BMJO]",
 		"license": "ARR"
@@ -654,6 +713,16 @@
 		"homepage": "https://www.curseforge.com/minecraft/mc-mods/framedblocks",
 		"issue_tracker": "https://www.github.com/xfacthd/framedblocks",
 		"license": "LGPL v3"
+	},
+	{
+		"id": "yungsextras",
+		"name": "YUNG's Extras",
+		"version": "1.20-Forge-4.0.3",
+		"description": "Extra structures and vanilla+ content added throughout the game!",
+		"authors": "YUNGNICKYOUNG, Acarii",
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/yungs-extras",
+		"issue_tracker": "https://github.com/yungnickyoung/YUNGs-Extras/issues",
+		"license": "LGPLv3"
 	},
 	{
 		"id": "bettervillage",
@@ -673,22 +742,20 @@
 		"license": "MIT"
 	},
 	{
+		"id": "betterthirdperson",
+		"name": "Better Third Person",
+		"version": "1.9.0",
+		"description": "Adds independent camera rotation for third-person view",
+		"authors": "Socolio",
+		"license": "All Rights Reserved"
+	},
+	{
 		"id": "seamless_loading_screen",
 		"name": "Seamless Loading Screen",
 		"version": "2.0.3+1.20.1",
 		"description": "Takes a screenshot of the game when you leave a world or server, and displays it when you rejoin it",
 		"authors": "Minenash",
 		"license": "MIT"
-	},
-	{
-		"id": "betterstrongholds",
-		"name": "YUNG's Better Strongholds",
-		"version": "1.20-Forge-4.0.3",
-		"description": "A complete redesign of Minecraft's strongholds!",
-		"authors": "YUNGNICKYOUNG, Acarii",
-		"homepage": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds",
-		"issue_tracker": "https://github.com/yungnickyoung/YUNGs-Better-Strongholds/issues",
-		"license": "LGPLv3"
 	},
 	{
 		"id": "expandedstorage",
@@ -702,11 +769,21 @@
 	{
 		"id": "resourcefullib",
 		"name": "Resourceful Lib",
-		"version": "2.1.14",
+		"version": "2.1.16",
 		"description": "Team Resourceful Library",
 		"authors": "ThatGravyBoat, Epic_Oreo",
 		"issue_tracker": "https://github.com/Team-Resourceful/ResoucefulLib/issues/new/choose",
 		"license": "MIT"
+	},
+	{
+		"id": "inventoryprofilesnext",
+		"name": "Inventory Profiles Next",
+		"version": "1.10.9",
+		"description": "Take controll over you inventory",
+		"authors": "blackd/mirinimi",
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next",
+		"issue_tracker": "https://github.com/blackd/Inventory-Profiles/issues",
+		"license": "AGPL-3"
 	},
 	{
 		"id": "architectury",
@@ -837,19 +914,9 @@
 		"license": "GNU General Public License v3.0"
 	},
 	{
-		"id": "bettermineshafts",
-		"name": "YUNG's Better Mineshafts",
-		"version": "1.20-Forge-4.0.4",
-		"description": "The long-awaited and much-needed abandoned mineshaft overhaul!",
-		"authors": "YUNGNICKYOUNG",
-		"homepage": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge",
-		"issue_tracker": "https://github.com/yungnickyoung/YUNGs-Better-Mineshafts/issues",
-		"license": "LGPLv3"
-	},
-	{
 		"id": "nutritionalbalance",
 		"name": "Nutritional Balance",
-		"version": "1.20-5.1.2",
+		"version": "1.20-5.1.3",
 		"description": "A mod that enhances the food system to encourage a balanced diet by tracking nutrients, rewarding balance and discouraging imbalance.",
 		"authors": "Danny",
 		"license": "GNU General Public License v3.0"
@@ -873,13 +940,6 @@
 		"license": "LGPLv3"
 	},
 	{
-		"id": "inventorysorter",
-		"name": "Simple Inventory Sorter",
-		"version": "23.0.1",
-		"description": "Simple inventory sorting.\n\nMiddle click to sort your inventory.\nScroll wheel on a stack to move in and out.",
-		"license": "GPLv3"
-	},
-	{
 		"id": "rhino",
 		"name": "Rhino",
 		"version": "2001.2.2-build.13",
@@ -901,7 +961,7 @@
 	{
 		"id": "ftblibrary",
 		"name": "FTB Library",
-		"version": "2001.1.3",
+		"version": "2001.1.4",
 		"description": "FTB Library adds nothing.",
 		"authors": "FTB Team",
 		"issue_tracker": "https://go.ftb.team/support-mod-issues",
@@ -915,26 +975,6 @@
 		"authors": "Miguel, MCreator",
 		"homepage": "https://mcreator.net",
 		"license": "Academic Free License v3.0"
-	},
-	{
-		"id": "bagofyurting",
-		"name": "Bag of Yurting",
-		"version": "4.0.0.1",
-		"description": "The Bag of Yurting is a powerful, versatile, dyeable, upgradeable, all-purpose yurt storage tool. Combine bags at a crafting table to upgrade their size. Bags can be dyed like leather armor.",
-		"authors": "Commoble",
-		"homepage": "https://www.curseforge.com/minecraft/mc-mods/bag-of-yurting",
-		"issue_tracker": "https://github.com/Commoble/bagofyurting/issues",
-		"license": "MIT License"
-	},
-	{
-		"id": "shrines",
-		"name": "Shrines",
-		"version": "1.20.1-6.0.2",
-		"description": "Shrines Structures is a World generation modication for Minecraft Java Edition focused on Structures\nAlso allows users to easily add own structures to world generation\n\nSee https://www.curseforge.com/minecraft/mc-mods/shrines-structures for more Info",
-		"authors": "Silverminer007 and S1lencegamer",
-		"homepage": "https://www.curseforge.com/minecraft/mc-mods/shrines-structures",
-		"issue_tracker": "https://github.com/Silverminer007/Shrines/issues",
-		"license": "MPL-2.0"
 	},
 	{
 		"id": "itemfilters",
@@ -974,6 +1014,15 @@
 		"license": "All rights reserved"
 	},
 	{
+		"id": "structorytowers",
+		"name": "Structory: Towers",
+		"version": "1.0.5",
+		"description": "Structory: Towers (v1.0.5 for 1.20-1.20.2)",
+		"authors": "Stardust Labs",
+		"homepage": "https://www.stardustlabs.net/",
+		"license": "Stardust Labs License"
+	},
+	{
 		"id": "create",
 		"name": "Create",
 		"version": "0.5.1.f",
@@ -992,6 +1041,15 @@
 		"homepage": "https://mods.twelveiterations.com/mc/waystones",
 		"issue_tracker": "https://github.com/TwelveIterationMods/Waystones/issues",
 		"license": "All rights reserved"
+	},
+	{
+		"id": "structory",
+		"name": "Structory",
+		"version": "1.3.3",
+		"description": "Structory (v1.3.3 for 1.20-1.20.2)",
+		"authors": "Stardust Labs",
+		"homepage": "https://www.stardustlabs.net/",
+		"license": "Stardust Labs License"
 	},
 	{
 		"id": "fastsuite",
@@ -1040,7 +1098,7 @@
 	{
 		"id": "artifacts",
 		"name": "Artifacts",
-		"version": "9.1.0",
+		"version": "9.2.0",
 		"description": "Adds various new powerful uncraftable items to make exploration a bit more interesting",
 		"authors": "ochotonida",
 		"homepage": "https://www.curseforge.com/minecraft/mc-mods/artifacts",
@@ -1113,6 +1171,15 @@
 		"license": "All rights reserved"
 	},
 	{
+		"id": "adorabuild_structures",
+		"name": "AdoraBuild: Structures",
+		"version": "1.1.1",
+		"description": "AdoraBuild: Structures adds 55 unique structures like houses, small castles, hidden treasures, etc. to enhance the vanilla experience and make exploring the world more interesting. Generated structures are biome specific and fit perfectly into the environment.",
+		"authors": "Vlad Hatylo, Kate Hatylo",
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/adorabuild-structures",
+		"license": "All Rights Reserved"
+	},
+	{
 		"id": "betterdeserttemples",
 		"name": "YUNG's Better Desert Temples",
 		"version": "1.20-Forge-3.0.3",
@@ -1133,24 +1200,26 @@
 		"license": "CC BY-NC-SA 4.0"
 	},
 	{
+		"id": "questsadditions",
+		"name": "Quests Additions",
+		"version": "1.4.3a",
+		"description": "An addon for the FTB quests mod. It adds some tasks and rewards that are missing in the base mod.",
+		"authors": "Naturaspell",
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/quests-additions",
+		"license": "All rights reserved"
+	},
+	{
 		"id": "farsight_view",
 		"name": "Farsight mod",
-		"version": "1.20.1-3.5",
+		"version": "1.20.1-3.6",
 		"description": "Simple efficient mod to yield higher view distances on client side, regardless of serverside settings",
 		"authors": "Love, Cheese and small house plants",
 		"license": "ARR"
 	},
 	{
-		"id": "sodium",
-		"name": "Sodium",
-		"version": "0.5.2",
-		"description": "Done for compatibility with Fabric's addon for Sodium",
-		"license": "LGPL-3.0-only"
-	},
-	{
 		"id": "crafttweaker",
 		"name": "CraftTweaker",
-		"version": "14.0.18",
+		"version": "14.0.23",
 		"description": "Customize your minecraft experience!",
 		"authors": "Jaredlll08, Kindlich, StanHebben and TheSilkMiner",
 		"homepage": "https://minecraft.curseforge.com/projects/crafttweaker",
@@ -1201,15 +1270,6 @@
 		"license": "GPLv3"
 	},
 	{
-		"id": "dungeons_arise",
-		"name": "When Dungeons Arise",
-		"version": "2.1.57-1.20.1",
-		"description": "Elegant - and likely dangerous - structures and roguelike dungeons to lose yourself in...",
-		"authors": "Aurelj, DiamondTown and Zephyrusj",
-		"homepage": "https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise",
-		"license": "All Rights Reserved"
-	},
-	{
 		"id": "minecraft",
 		"name": "Minecraft",
 		"version": "1.20.1",
@@ -1236,12 +1296,14 @@
 		"license": "LGPLv3"
 	},
 	{
-		"id": "trade_cycling",
-		"name": "Trade Cycling",
-		"version": "1.20.1-1.0.7",
-		"description": "The trade cycling functionality from Easy Villagers.",
-		"issue_tracker": "https://github.com/henkelmax/trade-cycling/issues",
-		"license": "All rights reserved"
+		"id": "libipn",
+		"name": "libIPN",
+		"version": "4.0.1",
+		"description": "Take controll over you inventory",
+		"authors": "blackd/mirinimi",
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next",
+		"issue_tracker": "https://github.com/blackd/Inventory-Profiles/issues",
+		"license": "AGPL-3"
 	},
 	{
 		"id": "terrablender",
@@ -1255,7 +1317,7 @@
 	{
 		"id": "moonlight",
 		"name": "Moonlight Library",
-		"version": "1.20-2.8.57",
+		"version": "1.20-2.8.64",
 		"description": "A small library with many cool unique features, from dynamic asset generation to dynamic villager schedules and simple multi loader utilities",
 		"authors": "MehVahdJukaar",
 		"issue_tracker": "https://github.com/MehVahdJukaar/Moonlight/issues",
@@ -1274,7 +1336,7 @@
 	{
 		"id": "ftbquests",
 		"name": "FTB Quests",
-		"version": "2001.1.7",
+		"version": "2001.2.0",
 		"description": "Lets you easily create and play with quests",
 		"authors": "LatvianModder",
 		"issue_tracker": "https://github.com/FTBTeam/FTB-Mods-Issues/issues",
@@ -1353,7 +1415,7 @@
 	{
 		"id": "kotlinforforge",
 		"name": "Kotlin For Forge",
-		"version": "4.5.0",
+		"version": "4.6.2",
 		"description": "Makes Kotlin forge-friendly",
 		"authors": "thedarkcolour",
 		"license": "LGPL"
@@ -1367,6 +1429,14 @@
 		"homepage": "https://www.curseforge.com/minecraft/mc-mods/flywheel",
 		"issue_tracker": "https://github.com/Jozufozu/Flywheel/issues",
 		"license": "MIT"
+	},
+	{
+		"id": "citresewn",
+		"name": "CIT Resewn",
+		"version": "1.20.1-5",
+		"description": "Re-implements MCPatcher's CIT",
+		"authors": "SHsuperCM, Asek3,Tfarcenim",
+		"license": "LGPL-3.0-only"
 	},
 	{
 		"id": "gravestone",
@@ -1423,7 +1493,7 @@
 	{
 		"id": "enderchests",
 		"name": "EnderChests",
-		"version": "1.20.1-1.1",
+		"version": "1.20.1-1.2",
 		"description": "Adds linked Chests and Bags that share inventory. Can be Public, Personal, or Team, each with their own set of storage available. Works across dimensions",
 		"authors": "ShetiPhian; Artwork: Fruzstrated",
 		"homepage": "https://shetiphian.carrd.co",
@@ -1523,7 +1593,7 @@
 	{
 		"id": "extremesoundmuffler",
 		"name": "Extreme Sound Muffler",
-		"version": "3.40-forge-1.20",
+		"version": "3.41-forge-1.20",
 		"description": "This mod allows you to muffle (almost) any sound selectively,\nallowing you to choose the volume of the sound you want between mute and 90%.\nThis mod also works Clientside only.",
 		"authors": "LeoBeliik",
 		"homepage": "https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler",
@@ -1577,7 +1647,7 @@
 	{
 		"id": "cristellib",
 		"name": "Cristel Lib",
-		"version": "1.1.3",
+		"version": "1.1.5",
 		"description": "A Library mod for easy structure config and runtime datapacks.",
 		"authors": "Cristelknight999",
 		"license": "CC BY-NC-ND 4.0"

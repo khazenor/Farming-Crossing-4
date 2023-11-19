@@ -45,8 +45,6 @@
 	"framedblocks:frame": "xfacthd.framedblocks.common.crafting.FramingSawRecipeSerializer",
 	"chimes:crafting_wind_bell_custom": "net.minecraft.world.item.crafting.SimpleCraftingRecipeSerializer",
 	"exoticbirds:crafting_special_dusteggs": "net.minecraft.world.item.crafting.SimpleCraftingRecipeSerializer",
-	"bagofyurting:shaped_bag_of_yurting_upgrade": "commoble.bagofyurting.ShapedBagUpgradeRecipe$Serializer",
-	"bagofyurting:shapeless_bag_of_yurting_upgrade": "commoble.bagofyurting.ShapelessBagUpgradeRecipe$Serializer",
 	"hardcorequesting:book_catalyst_shaped": "hardcorequesting.common.forge.recipe.BookCatalystRecipeSerializer",
 	"libx:empty": "org.moddingx.libx.impl.crafting.recipe.EmptyRecipe$Serializer",
 	"crafttweaker:shapeless": "com.blamejared.crafttweaker.api.recipe.serializer.CTShapelessRecipeSerializer",

@@ -390,6 +390,11 @@
 	"hardcorequesting:heart": "net.minecraft.sounds.SoundEvent",
 	"hardcorequesting:reward": "net.minecraft.sounds.SoundEvent",
 	"hardcorequesting:rotten": "net.minecraft.sounds.SoundEvent",
+	"immersive_aircraft:engine_start": "net.minecraft.sounds.SoundEvent",
+	"immersive_aircraft:propeller": "net.minecraft.sounds.SoundEvent",
+	"immersive_aircraft:propeller_small": "net.minecraft.sounds.SoundEvent",
+	"immersive_aircraft:propeller_tiny": "net.minecraft.sounds.SoundEvent",
+	"immersive_aircraft:woosh": "net.minecraft.sounds.SoundEvent",
 	"meadow:click_camera": "net.minecraft.sounds.SoundEvent",
 	"meadow:click_camera2": "net.minecraft.sounds.SoundEvent",
 	"meadow:cooking_cauldron": "net.minecraft.sounds.SoundEvent",
@@ -1916,10 +1921,5 @@
 	"vinery:block.wine_rack_3.close": "net.minecraft.sounds.SoundEvent",
 	"vinery:block.wine_rack_3.open": "net.minecraft.sounds.SoundEvent",
 	"vinery:block.wine_rack_5.close": "net.minecraft.sounds.SoundEvent",
-	"vinery:block.wine_rack_5.open": "net.minecraft.sounds.SoundEvent",
-	"immersive_aircraft:engine_start": "net.minecraft.sounds.SoundEvent",
-	"immersive_aircraft:propeller": "net.minecraft.sounds.SoundEvent",
-	"immersive_aircraft:propeller_small": "net.minecraft.sounds.SoundEvent",
-	"immersive_aircraft:propeller_tiny": "net.minecraft.sounds.SoundEvent",
-	"immersive_aircraft:woosh": "net.minecraft.sounds.SoundEvent"
+	"vinery:block.wine_rack_5.open": "net.minecraft.sounds.SoundEvent"
 }
