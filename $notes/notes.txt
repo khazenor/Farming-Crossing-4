@@ -1,0 +1,13 @@
+/summon ssls_npc_maker_mod:npc ~ ~ ~ {texture_name: "rabbit", CustomName: "\"Pamela\"}"}
+/data modify entity @e[type=ssls_npc_maker_mod:npc, limit=1, sort=nearest] Offers.Recipes append value {maxUses: 2147483647}
+/data modify entity @e[type=ssls_npc_maker_mod:npc, limit=1, sort=nearest] Offers.Recipes[0].buyB set value {id: "minecraft:air",Count: 0}
+/data modify entity @e[type=ssls_npc_maker_mod:npc, limit=1, sort=nearest] Offers.Recipes[0].buy set value {id: "bakery:glowberry_jam",Count: 64}
+/data modify entity @e[type=ssls_npc_maker_mod:npc, limit=1, sort=nearest] Offers.Recipes[0].sell set value {id: "kubejs:miles_ticket",Count: 12}
+/data modify entity @e[type=ssls_npc_maker_mod:npc, limit=1, sort=nearest] Offers.Recipes[0] set value {xp: 0,uses: 0,priceMultiplier: 0.0,specialPrice: 0,demand: 0,rewardExp: 0}
+/data modify entity @e[type=ssls_npc_maker_mod:npc, limit=1, sort=nearest] VillagerData set value {profession: "minecraft:nitwit", level: 5, type: "minecraft:plains"}
+
+
+https://minecraft.wiki/w/Function_(Java_Edition)
+
+future note:
+  - paxi: for global packs

@@ -4,60 +4,9 @@ Andre:
 
 Painting QOL?
 
-/summon ssls_npc_maker_mod:npc ~ ~ ~ {texture_name: "rabbit", CustomName: "\"Pamela\"}"}
-/data modify entity @e[type=ssls_npc_maker_mod:npc, limit=1, sort=nearest] Offers.Recipes append value {maxUses: 2147483647}
-/data modify entity @e[type=ssls_npc_maker_mod:npc, limit=1, sort=nearest] Offers.Recipes[0].buyB set value {id: "minecraft:air",Count: 0}
-/data modify entity @e[type=ssls_npc_maker_mod:npc, limit=1, sort=nearest] Offers.Recipes[0].buy set value {id: "bakery:glowberry_jam",Count: 64}
-/data modify entity @e[type=ssls_npc_maker_mod:npc, limit=1, sort=nearest] Offers.Recipes[0].sell set value {id: "kubejs:miles_ticket",Count: 12}
-/data modify entity @e[type=ssls_npc_maker_mod:npc, limit=1, sort=nearest] Offers.Recipes[0] set value {xp: 0,uses: 0,priceMultiplier: 0.0,specialPrice: 0,demand: 0,rewardExp: 0}
-/data modify entity @e[type=ssls_npc_maker_mod:npc, limit=1, sort=nearest] VillagerData set value {profession: "minecraft:nitwit", level: 5, type: "minecraft:plains"}
-
-
-https://minecraft.wiki/w/Function_(Java_Edition)
-
-duplicate:
-limestone
-
-flora:
-biomes rose
-
-market
-
-skins:
-- https://namemc.com/skin/5ecf54ed4460566f
-- https://namemc.com/skin/4ec765c13d55641b
-- https://namemc.com/skin/ba4b8565400990e1
-- https://namemc.com/skin/42da9428ee63d1a0
-- https://namemc.com/skin/2dda07e21070ac14
-- https://namemc.com/skin/153dad62f1ddba97
-- https://namemc.com/skin/6db7683df1eac695
-- https://namemc.com/skin/5128e7f1caafeb59
-- https://namemc.com/skin/c1f4aef89a53bd58
-- https://namemc.com/skin/030653486932d146
-- https://namemc.com/skin/5ac93dc5f2773de7
-
-- https://www.minecraftskins.com/skin/22090708/beaver-builder-with-tail--ear-and-paws/
-- https://namemc.com/skin/e6ce80577646f7e5
-- https://www.minecraftskins.com/skin/20602154/grey-rabbit/
-- https://namemc.com/skin/50cc869ecb8606cb
-- https://namemc.com/skin/6f5c037529437e00
-- https://www.planetminecraft.com/skin/great-spotted-woodpecker/
-- https://minecraft.novaskin.me/skin/4890004529/Dog-skin-minecraft
-
-- https://www.minecraftskins.com/skin/21617690/hawaiian-shirt-base/
-
-sounds:
-  - https://acedio.github.io/animalese.js/
-
-- bug tracking:
-  - https://github.com/Asek3/Rubidium/issues/629
-
 Tutorials:
 Backlog:
   - Find and implement a tent mod
-
-future note:
-  - paxi: for global packs
 
 ==============
 ==== Done ====
