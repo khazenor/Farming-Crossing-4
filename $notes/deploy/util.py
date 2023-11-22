@@ -2,7 +2,7 @@ import os
 import shutil
 from pathlib import Path
 
-def copyFolder(src, dest, deleteExtraFiles=true):
+def copyFolder(src, dest, deleteExtraFiles=True):
 	destParent = Path(dest).parents[0]
 	copyFolderRecur(src, destParent)
 	if deleteExtraFiles:
