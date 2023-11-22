@@ -1,5 +1,8 @@
 Andre:
   - spy glass
+  - saddle
+
+Painting QOL?
 
 /summon ssls_npc_maker_mod:npc ~ ~ ~ {texture_name: "rabbit", CustomName: "\"Pamela\"}"}
 /data modify entity @e[type=ssls_npc_maker_mod:npc, limit=1, sort=nearest] Offers.Recipes append value {maxUses: 2147483647}
