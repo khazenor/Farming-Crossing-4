@@ -56,6 +56,7 @@
 	"minecraft:water_breathing": "net.minecraft.world.effect.MobEffect",
 	"minecraft:weakness": "net.minecraft.world.effect.AttackDamageMobEffect",
 	"minecraft:wither": "net.minecraft.world.effect.MobEffect",
+	"neighborly:unicorn_potion_effect": "net.mcreator.neighborly.potion.UnicornPotionEffectMobEffect",
 	"nutritionalbalance:engorged_effect": "com.dannyandson.nutritionalbalance.effects.ModMobAffects$Engorged",
 	"nutritionalbalance:malnourished_effect": "com.dannyandson.nutritionalbalance.effects.ModMobAffects$MalNourished",
 	"nutritionalbalance:nourished_effect": "com.dannyandson.nutritionalbalance.effects.ModMobAffects$Nourished",
@@ -75,5 +76,17 @@
 	"vinery:jellie": "satisfyu.vinery.effect.JellieEffect",
 	"vinery:magnet": "satisfyu.vinery.effect.MagnetEffect",
 	"vinery:teleport": "satisfyu.vinery.effect.TeleportEffect",
-	"vinery:trippy": "satisfyu.vinery.effect.TrippyEffect"
+	"vinery:trippy": "satisfyu.vinery.effect.TrippyEffect",
+	"xaerominimap:no_minimap": "xaero.common.effect.NoMinimapEffect",
+	"xaerominimap:no_minimap_harmful": "xaero.common.effect.NoMinimapEffect",
+	"xaerominimap:no_entity_radar": "xaero.common.effect.NoRadarEffect",
+	"xaerominimap:no_entity_radar_harmful": "xaero.common.effect.NoRadarEffect",
+	"xaerominimap:no_waypoints": "xaero.common.effect.NoWaypointsEffect",
+	"xaerominimap:no_waypoints_harmful": "xaero.common.effect.NoWaypointsEffect",
+	"xaerominimap:no_cave_maps": "xaero.common.effect.NoCaveMapsEffect",
+	"xaerominimap:no_cave_maps_harmful": "xaero.common.effect.NoCaveMapsEffect",
+	"xaeroworldmap:no_world_map": "xaero.map.effects.NoWorldMapEffect",
+	"xaeroworldmap:no_world_map_harmful": "xaero.map.effects.NoWorldMapEffect",
+	"xaeroworldmap:no_cave_maps": "xaero.map.effects.NoCaveMapsEffect",
+	"xaeroworldmap:no_cave_maps_harmful": "xaero.map.effects.NoCaveMapsEffect"
 }

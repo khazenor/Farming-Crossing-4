@@ -30,7 +30,7 @@
 	{
 		"id": "kubejs",
 		"name": "KubeJS",
-		"version": "2001.6.3-build.83",
+		"version": "2001.6.4-build.95",
 		"description": "Customize your modpack or server with JavaScript!",
 		"authors": "LatvianModder",
 		"issue_tracker": "https://kubejs.com/support?source=kubejs&mc=1902&loader=forge",
@@ -64,6 +64,16 @@
 		"homepage": "https://www.curseforge.com/minecraft/mc-mods/alexs-mobs",
 		"issue_tracker": "https://github.com/Alex-the-666/AlexsMobs/issues",
 		"license": "GNU LESSER GENERAL PUBLIC LICENSE"
+	},
+	{
+		"id": "openpartiesandclaims",
+		"name": "Open Parties and Claims",
+		"version": "0.20.1",
+		"description": "This mod adds the ability to claim and to forceload world chunks, as well as create and manage player parties. It also gives server owners powerful controls over their players' usage of the mod's features.\nThe mod's API allows other mods or plugins to easily interact with the parties and the chunk claims, both on the server and the client side.\nXaero's Minimap mod and World Map mods are recommended in order to fully experience everything that this mod has to offer.",
+		"authors": "xaero96 and other contributors",
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims",
+		"issue_tracker": "https://github.com/thexaero/open-parties-and-claims/issues",
+		"license": "GNU Lesser General Public License v3.0 (LGPL-3.0-only)"
 	},
 	{
 		"id": "globalpacks",
@@ -173,7 +183,7 @@
 	{
 		"id": "sophisticatedcore",
 		"name": "Sophisticated Core",
-		"version": "0.5.105.485",
+		"version": "0.5.107.496",
 		"description": "Base mod of Sophisticated mods.",
 		"issue_tracker": "https://github.com/P3pp3rF1y/SophisticatedCore/issues",
 		"license": "GNU General Public License v3.0"
@@ -181,7 +191,7 @@
 	{
 		"id": "gpumemleakfix",
 		"name": "Gpu memory leak fix",
-		"version": "1.20.1-1.6",
+		"version": "1.20.1-1.8",
 		"description": "Fixes some gpu memory leaks",
 		"authors": "Someaddon",
 		"license": "ARR"
@@ -215,6 +225,15 @@
 		"license": "All Right Reserved"
 	},
 	{
+		"id": "xaeroworldmap",
+		"name": "Xaero's World Map",
+		"version": "1.36.0",
+		"description": "A self-writing fullscreen map which also works as an add-on to Xaero's Minimap.",
+		"authors": "Xaero96",
+		"issue_tracker": "https://minecraft.curseforge.com/projects/xaeros-world-map/issues",
+		"license": "All rights reserved"
+	},
+	{
 		"id": "controlling",
 		"name": "Controlling",
 		"version": "12.0.2",
@@ -237,7 +256,7 @@
 	{
 		"id": "placebo",
 		"name": "Placebo",
-		"version": "8.5.6",
+		"version": "8.5.8",
 		"description": "1 (one) library boi",
 		"license": "MIT License"
 	},
@@ -340,7 +359,7 @@
 	{
 		"id": "sophisticatedbackpacks",
 		"name": "Sophisticated Backpacks",
-		"version": "3.18.66.941",
+		"version": "3.18.68.952",
 		"description": "Fancy and functional backpacks.",
 		"issue_tracker": "https://github.com/P3pp3rF1y/SophisticatedBackpacks/issues",
 		"license": "GNU General Public License v3.0"
@@ -447,7 +466,7 @@
 	{
 		"id": "supplementaries",
 		"name": "Supplementaries",
-		"version": "1.20-2.6.29",
+		"version": "1.20-2.6.31",
 		"description": "Many functional and useful Vanilla+ blocks",
 		"authors": "MehVahdJukaar, Plantkillable",
 		"issue_tracker": "https://github.com/MehVahdJukaar/Supplementaries/issues",
@@ -472,12 +491,32 @@
 		"license": "LGPL-3.0-only"
 	},
 	{
+		"id": "athena",
+		"name": "Athena",
+		"version": "3.1.1",
+		"description": "Crossplatform Baked Model Loader",
+		"authors": "ThatGravyBoat",
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/athena",
+		"issue_tracker": "https://github.com/terrarium-earth/athena/issues",
+		"license": "MIT"
+	},
+	{
 		"id": "konkrete",
 		"name": "Konkrete",
 		"version": "1.6.1",
 		"description": "COPYRIGHT:\n\nKonkrete Copyright © 2020-2023 Keksuccino.\nKonkrete is licensed under GPLv3.\n\nOpen Imaging Copyright © 2014 Dhyan Blum.\nOpen Imaging is licensed under Apache-2.0.\n\nJsonPath Copyright © 2017 Jayway.\nJsonPath is licensed under Apache-2.0.\n\nJson-smart Copyright © netplex.\nJson-smart is licensed under Apache-2.0.\n\nExp4j Copyright © Frank Asseg.\nExp4j is licensed under Apache-2.0.\nhttps://github.com/fasseg/exp4j",
 		"authors": "Keksuccino",
 		"license": "GPLv3"
+	},
+	{
+		"id": "chipped",
+		"name": "Chipped",
+		"version": "3.0.1",
+		"description": "Every block needs a friend!",
+		"authors": "Alex Nijjar, Grimbop, Kekie6, ThatGravyBoat",
+		"homepage": "https://modrinth.com/mod/chipped",
+		"issue_tracker": "https://github.com/terrarium-earth/chipped/issues",
+		"license": "Terrarium License"
 	},
 	{
 		"id": "entity_model_features",
@@ -630,14 +669,14 @@
 		"license": "All Rights Reserved"
 	},
 	{
-		"id": "rightclickharvest",
-		"name": "Right Click Harvest",
-		"version": "3.2.3+1.20.1-forge",
-		"description": "Allows you to harvest crops with a single right click.",
-		"authors": "Jamalam & Various Contributors",
-		"homepage": "https://github.com/JamCoreModding/RightClickHarvest",
-		"issue_tracker": "https://github.com/JamCoreModding/RightClickHarvest/issues",
-		"license": "MIT"
+		"id": "gamestages",
+		"name": "GameStages",
+		"version": "15.0.1",
+		"description": "A framework for creating custom progression systems.",
+		"authors": "Darkhax",
+		"homepage": "https://www.curseforge.com/minecraft/mc-mods/game-stages",
+		"issue_tracker": "https://github.com/Darkhax-Minecraft/Game-Stages",
+		"license": "LGPL v2.1"
 	},
 	{
 		"id": "oculus",
@@ -648,14 +687,14 @@
 		"license": "LGPL-3.0-only"
 	},
 	{
-		"id": "gamestages",
-		"name": "GameStages",
-		"version": "15.0.1",
-		"description": "A framework for creating custom progression systems.",
-		"authors": "Darkhax",
-		"homepage": "https://www.curseforge.com/minecraft/mc-mods/game-stages",
-		"issue_tracker": "https://github.com/Darkhax-Minecraft/Game-Stages",
-		"license": "LGPL v2.1"
+		"id": "rightclickharvest",
+		"name": "Right Click Harvest",
+		"version": "3.2.3+1.20.1-forge",
+		"description": "Allows you to harvest crops with a single right click.",
+		"authors": "Jamalam & Various Contributors",
+		"homepage": "https://github.com/JamCoreModding/RightClickHarvest",
+		"issue_tracker": "https://github.com/JamCoreModding/RightClickHarvest/issues",
+		"license": "MIT"
 	},
 	{
 		"id": "collective",
@@ -756,6 +795,15 @@
 		"description": "Takes a screenshot of the game when you leave a world or server, and displays it when you rejoin it",
 		"authors": "Minenash",
 		"license": "MIT"
+	},
+	{
+		"id": "neighborly",
+		"name": "Neighborly",
+		"version": "1.0.0",
+		"description": "Get to know your neighbors!",
+		"authors": "Linzi",
+		"homepage": "https://mcreator.net",
+		"license": "All Rights Reserved"
 	},
 	{
 		"id": "expandedstorage",
@@ -1173,8 +1221,8 @@
 	{
 		"id": "adorabuild_structures",
 		"name": "AdoraBuild: Structures",
-		"version": "1.1.1",
-		"description": "AdoraBuild: Structures adds 55 unique structures like houses, small castles, hidden treasures, etc. to enhance the vanilla experience and make exploring the world more interesting. Generated structures are biome specific and fit perfectly into the environment.",
+		"version": "2.0.0",
+		"description": "AdoraBuild: Structures adds 80 unique structures like houses, castles, temples, hidden treasures, etc. to enhance the vanilla experience and make exploring the world more interesting. Generated structures are biome specific and fit perfectly into the environment.",
 		"authors": "Vlad Hatylo, Kate Hatylo",
 		"homepage": "https://www.curseforge.com/minecraft/mc-mods/adorabuild-structures",
 		"license": "All Rights Reserved"
@@ -1200,15 +1248,6 @@
 		"license": "CC BY-NC-SA 4.0"
 	},
 	{
-		"id": "questsadditions",
-		"name": "Quests Additions",
-		"version": "1.4.3a",
-		"description": "An addon for the FTB quests mod. It adds some tasks and rewards that are missing in the base mod.",
-		"authors": "Naturaspell",
-		"homepage": "https://www.curseforge.com/minecraft/mc-mods/quests-additions",
-		"license": "All rights reserved"
-	},
-	{
 		"id": "farsight_view",
 		"name": "Farsight mod",
 		"version": "1.20.1-3.6",
@@ -1219,21 +1258,12 @@
 	{
 		"id": "crafttweaker",
 		"name": "CraftTweaker",
-		"version": "14.0.23",
+		"version": "14.0.26",
 		"description": "Customize your minecraft experience!",
 		"authors": "Jaredlll08, Kindlich, StanHebben and TheSilkMiner",
 		"homepage": "https://minecraft.curseforge.com/projects/crafttweaker",
 		"issue_tracker": "https://github.com/CraftTweaker/CraftTweaker/issues",
 		"license": "MIT"
-	},
-	{
-		"id": "ftbchunks",
-		"name": "FTB Chunks",
-		"version": "2001.2.3",
-		"description": "Claim chunks to protect your base from griefers!",
-		"authors": "FTB Team",
-		"issue_tracker": "https://go.ftb.team/support-mod-issues",
-		"license": "All Rights Reserved"
 	},
 	{
 		"id": "forge",
@@ -1280,7 +1310,7 @@
 	{
 		"id": "smoothchunk",
 		"name": "Smoothchunk mod",
-		"version": "1.20.1-3.3",
+		"version": "1.20.1-3.5",
 		"description": "Spreads chunk saves over time smoothly",
 		"authors": "Someaddons",
 		"license": "ARR"
@@ -1306,6 +1336,12 @@
 		"license": "AGPL-3"
 	},
 	{
+		"id": "chipped_express",
+		"name": "ChippedExpress",
+		"version": "1.0.0",
+		"license": "ARR"
+	},
+	{
 		"id": "terrablender",
 		"name": "TerraBlender",
 		"version": "3.0.0.169",
@@ -1317,7 +1353,7 @@
 	{
 		"id": "moonlight",
 		"name": "Moonlight Library",
-		"version": "1.20-2.8.64",
+		"version": "1.20-2.8.65",
 		"description": "A small library with many cool unique features, from dynamic asset generation to dynamic villager schedules and simple multi loader utilities",
 		"authors": "MehVahdJukaar",
 		"issue_tracker": "https://github.com/MehVahdJukaar/Moonlight/issues",
@@ -1407,7 +1443,7 @@
 	{
 		"id": "betterfpsdist",
 		"name": "betterfpsdist mod",
-		"version": "1.20.1-4.0",
+		"version": "1.20.1-4.1",
 		"description": "betterfpsdist mod",
 		"authors": "Someaddon",
 		"license": "ARR"
@@ -1437,6 +1473,15 @@
 		"description": "Re-implements MCPatcher's CIT",
 		"authors": "SHsuperCM, Asek3,Tfarcenim",
 		"license": "LGPL-3.0-only"
+	},
+	{
+		"id": "xaerominimap",
+		"name": "Xaero's Minimap",
+		"version": "23.8.4",
+		"description": "The most vanilla-looking minimap for Minecraft.",
+		"authors": "Xaero96",
+		"issue_tracker": "https://minecraft.curseforge.com/projects/xaeros-minimap/issues",
+		"license": "All rights reserved"
 	},
 	{
 		"id": "gravestone",
@@ -1528,6 +1573,14 @@
 		"license": "Academic Free License v3.0"
 	},
 	{
+		"id": "xaeroplus",
+		"name": "XaeroPlus",
+		"version": "1.20.1",
+		"description": "Xaero WorldMap / Minimap Extra Features",
+		"authors": "rfresh2",
+		"license": "MIT"
+	},
+	{
 		"id": "appleskin",
 		"name": "AppleSkin",
 		"version": "2.5.1+mc1.20.1",
@@ -1566,7 +1619,7 @@
 	{
 		"id": "solcarrot",
 		"name": "Spice of Life: Carrot Edition",
-		"version": "1.15.0",
+		"version": "1.15.1",
 		"description": "A mod designed to encourage dietary variety!\n\nIt does so by rewarding the player for eating a variety of foods instead of punishing them for failing to diversify.\nInstead of using the stick, we use the carrot!",
 		"issue_tracker": "https://github.com/Cazsius/Spice-of-Life-Carrot-Edition/issues",
 		"license": "LGPL-2.1"
