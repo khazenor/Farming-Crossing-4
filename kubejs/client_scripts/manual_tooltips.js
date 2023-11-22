@@ -25,5 +25,22 @@ ItemEvents.tooltip(event => {
       "Unlock the crafting recipe for this item",
       "by completing quests in the quest book."
     ])
-
+  
+  event.add([
+    'neighborly:barrybear_spawn_egg',
+    'neighborly:chloe_cat_spawn_egg',
+    'neighborly:duckley_spawn_egg',
+    'neighborly:duncan_spawn_egg',
+    'neighborly:jammer_cat_spawn_egg',
+    'neighborly:jasper_spawn_egg',
+    'neighborly:roxy_imp_spawn_egg',
+    'neighborly:sapphire_penguin_spawn_egg',
+    'neighborly:shroomer_spawn_egg',
+    'neighborly:sigma_spawn_egg',
+    'neighborly:sparkle_spawn_egg',
+    'neighborly:thompson_frog_spawn_egg'
+  ], [
+    "You can reroll this villager spawn egg by",
+    "putting two of these eggs in the crafting table"
+  ])
 })

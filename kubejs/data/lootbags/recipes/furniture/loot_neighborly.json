@@ -1,0 +1,22 @@
+{
+  "type": "lootbags:loot",
+  "name": "Neighborly Villager Move In Kit",
+  "rarity": "RARE",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      { "stack": "neighborly:barrybear_spawn_egg", "weight": 1 },
+      { "stack": "neighborly:chloe_cat_spawn_egg", "weight": 1 },
+      { "stack": "neighborly:duckley_spawn_egg", "weight": 1 },
+      { "stack": "neighborly:duncan_spawn_egg", "weight": 1 },
+      { "stack": "neighborly:jammer_cat_spawn_egg", "weight": 1 },
+      { "stack": "neighborly:jasper_spawn_egg", "weight": 1 },
+      { "stack": "neighborly:roxy_imp_spawn_egg", "weight": 1 },
+      { "stack": "neighborly:sapphire_penguin_spawn_egg", "weight": 1 },
+      { "stack": "neighborly:shroomer_spawn_egg", "weight": 1 },
+      { "stack": "neighborly:sigma_spawn_egg", "weight": 1 },
+      { "stack": "neighborly:sparkle_spawn_egg", "weight": 1 },
+      { "stack": "neighborly:thompson_frog_spawn_egg", "weight": 1 }
+    ]
+  }
+}

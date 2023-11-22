@@ -69,4 +69,21 @@ ServerEvents.recipes(event => {
       "item": "aquaculture:turtle_soup"
     }
   })
+  event.custom({
+    "type": "minecraft:crafting_shapeless",
+    'ingredients': [
+      {"tag": "forge:neighborly_spawn_eggs"},
+      {"tag": "forge:neighborly_spawn_eggs"}
+    ],
+    "result": {
+      "item": 'lootbags:loot_bag',
+      "count": 1,
+      "nbt": {
+        "Type": "RARE",
+        "Loot": "lootbags:furniture/loot_neighborly",
+        "Color": 13882323,
+        "Name": "Neighborly Villager Move In Kit"
+      }
+    }
+  })
 })

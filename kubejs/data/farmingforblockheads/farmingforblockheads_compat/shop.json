@@ -28,6 +28,18 @@
       "payment": { "item": "kubejs:miles_ticket", "count": 8 }, 
       "category": "shop"
     },{
+      "output": {
+        "item": "lootbags:loot_bag",
+        "nbt": {
+          "Type": "RARE",
+          "Loot": "lootbags:furniture/loot_neighborly",
+          "Color": 13882323,
+          "Name": "Neighborly Villager Move In Kit"
+        }
+      }, 
+      "payment": { "item": "kubejs:miles_ticket", "count": 16 }, 
+      "category": "shop"
+    },{
       "output": { "item": "minecraft:wandering_trader_spawn_egg" },
       "payment": {"item": "kubejs:miles_ticket", "count": 32}, 
       "category": "shop"

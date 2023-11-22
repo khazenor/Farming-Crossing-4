@@ -1839,49 +1839,24 @@
 			}]
 			tasks: [
 				{
-					block: "aquaculture:neptunes_bounty"
-					block_type: 0
 					id: "24B5FD7AC603BCE7"
-					replace: false
-					replaced: "minecraft:air"
-					type: "questsadditions:place"
-					value: 1L
+					type: "custom"
 				}
 				{
-					block: "aquaculture:tackle_box"
-					block_type: 0
 					id: "7CD399AA37C29DD8"
-					replace: false
-					replaced: "minecraft:air"
-					type: "questsadditions:place"
-					value: 1L
+					type: "custom"
 				}
 				{
-					block: "aquaculture:worm_farm"
-					block_type: 0
 					id: "124CA2536C027FA8"
-					replace: false
-					replaced: "minecraft:air"
-					type: "questsadditions:place"
-					value: 1L
+					type: "custom"
 				}
 				{
-					block: "moa_decor_cookery:langosta"
-					block_type: 0
 					id: "52A517C059AB816E"
-					replace: false
-					replaced: "minecraft:air"
-					type: "questsadditions:place"
-					value: 1L
+					type: "custom"
 				}
 				{
-					block: "moa_decor_cookery:sushi"
-					block_type: 0
 					id: "5E3246CB794C9542"
-					replace: false
-					replaced: "minecraft:air"
-					type: "questsadditions:place"
-					value: 1L
+					type: "custom"
 				}
 			]
 			title: "Help Sam Move In"
@@ -1910,49 +1885,24 @@
 			}]
 			tasks: [
 				{
-					block: "moa_decor_garden_:casa_p_roble"
-					block_type: 0
 					id: "48EC18A1223748CF"
-					replace: false
-					replaced: "minecraft:air"
-					type: "questsadditions:place"
-					value: 1L
+					type: "custom"
 				}
 				{
-					block: "moa_decor_garden_:comedero_trigo"
-					block_type: 0
 					id: "3898C294FBCAAA35"
-					replace: false
-					replaced: "minecraft:air"
-					type: "questsadditions:place"
-					value: 1L
+					type: "custom"
 				}
 				{
-					block: "moa_decor_garden_:nidoconhuevos"
-					block_type: 0
 					id: "24488CC70C12A7F0"
-					replace: false
-					replaced: "minecraft:air"
-					type: "questsadditions:place"
-					value: 1L
+					type: "custom"
 				}
 				{
-					block: "moa_decor_cookery:queso"
-					block_type: 0
 					id: "1DB067E87C81BE78"
-					replace: false
-					replaced: "minecraft:air"
-					type: "questsadditions:place"
-					value: 1L
+					type: "custom"
 				}
 				{
-					block: "moa_decor_cookery:botelladeleche"
-					block_type: 0
 					id: "25C4F060EEEF42CA"
-					replace: false
-					replaced: "minecraft:air"
-					type: "questsadditions:place"
-					value: 1L
+					type: "custom"
 				}
 			]
 			title: "Help Andre Move In"
@@ -1981,49 +1931,24 @@
 			}]
 			tasks: [
 				{
-					block: "moa_decor_cookery:manzanacortada"
-					block_type: 0
 					id: "25D1A9ADBF7DD9B8"
-					replace: false
-					replaced: "minecraft:air"
-					type: "questsadditions:place"
-					value: 1L
+					type: "custom"
 				}
 				{
-					block: "moa_decor_cookery:manzanadorada"
-					block_type: 0
 					id: "3B432007FFBEB46B"
-					replace: false
-					replaced: "minecraft:air"
-					type: "questsadditions:place"
-					value: 1L
+					type: "custom"
 				}
 				{
-					block: "moa_decor_cookery:barrilmanzana"
-					block_type: 0
 					id: "2CBD3959F5227A3B"
-					replace: false
-					replaced: "minecraft:air"
-					type: "questsadditions:place"
-					value: 1L
+					type: "custom"
 				}
 				{
-					block: "vinery:grapevine_lattice"
-					block_type: 0
 					id: "7EF7DBBA47D0AED7"
-					replace: false
-					replaced: "minecraft:air"
-					type: "questsadditions:place"
-					value: 1L
+					type: "custom"
 				}
 				{
-					block: "moa_decor_garden_:cerezo"
-					block_type: 0
 					id: "56A181D9902DD319"
-					replace: false
-					replaced: "minecraft:air"
-					type: "questsadditions:place"
-					value: 1L
+					type: "custom"
 				}
 			]
 			title: "Help Yukkie Move In"
@@ -2052,49 +1977,24 @@
 			}]
 			tasks: [
 				{
-					block: "minecraft:amethyst_block"
-					block_type: 0
 					id: "4DB56FD820824D18"
-					replace: false
-					replaced: "minecraft:air"
-					type: "questsadditions:place"
-					value: 1L
+					type: "custom"
 				}
 				{
-					block: "minecraft:raw_iron_block"
-					block_type: 0
 					id: "75BBFE19631D718F"
-					replace: false
-					replaced: "minecraft:air"
-					type: "questsadditions:place"
-					value: 1L
+					type: "custom"
 				}
 				{
-					block: "minecraft:raw_copper_block"
-					block_type: 0
 					id: "18051C96D1576E54"
-					replace: false
-					replaced: "minecraft:air"
-					type: "questsadditions:place"
-					value: 1L
+					type: "custom"
 				}
 				{
-					block: "minecraft:raw_gold_block"
-					block_type: 0
 					id: "3FE93B4E636840B3"
-					replace: false
-					replaced: "minecraft:air"
-					type: "questsadditions:place"
-					value: 1L
+					type: "custom"
 				}
 				{
-					block: "moa_decor_cookery:tetera"
-					block_type: 0
 					id: "0CAAF9056F623305"
-					replace: false
-					replaced: "minecraft:air"
-					type: "questsadditions:place"
-					value: 1L
+					type: "custom"
 				}
 			]
 			title: "Help Laly Move In"
@@ -2123,49 +2023,24 @@
 			}]
 			tasks: [
 				{
-					block: "moa_decor_cookery:paydemanzana"
-					block_type: 0
 					id: "738D50E556996FA1"
-					replace: false
-					replaced: "minecraft:air"
-					type: "questsadditions:place"
-					value: 1L
+					type: "custom"
 				}
 				{
-					block: "moa_decor_cookery:bandejadegalletas"
-					block_type: 0
 					id: "45098FCD92909966"
-					replace: false
-					replaced: "minecraft:air"
-					type: "questsadditions:place"
-					value: 1L
+					type: "custom"
 				}
 				{
-					block: "moa_decor_cookery:waffles"
-					block_type: 0
 					id: "5CAED03420BA0559"
-					replace: false
-					replaced: "minecraft:air"
-					type: "questsadditions:place"
-					value: 1L
+					type: "custom"
 				}
 				{
-					block: "moa_decor_cookery:soporteinstrumentos"
-					block_type: 0
 					id: "798A9010D4790528"
-					replace: false
-					replaced: "minecraft:air"
-					type: "questsadditions:place"
-					value: 1L
+					type: "custom"
 				}
 				{
-					block: "moa_decor_cookery:soportedelantal"
-					block_type: 0
 					id: "789E5461428A3B0C"
-					replace: false
-					replaced: "minecraft:air"
-					type: "questsadditions:place"
-					value: 1L
+					type: "custom"
 				}
 			]
 			title: "Help Pamela Move In"
@@ -2203,49 +2078,24 @@
 			]
 			tasks: [
 				{
-					block: "moa_decor_cookery:cafetera"
-					block_type: 0
 					id: "158E9D8AEAA1F28B"
-					replace: false
-					replaced: "minecraft:air"
-					type: "questsadditions:place"
-					value: 1L
+					type: "custom"
 				}
 				{
-					block: "meadow:camera"
-					block_type: 0
 					id: "23A1030378C91ABF"
-					replace: false
-					replaced: "minecraft:air"
-					type: "questsadditions:place"
-					value: 1L
+					type: "custom"
 				}
 				{
-					block: "moa_decor_cookery:soportetazas"
-					block_type: 0
 					id: "7E603FF363034421"
-					replace: false
-					replaced: "minecraft:air"
-					type: "questsadditions:place"
-					value: 1L
+					type: "custom"
 				}
 				{
-					block: "moa_decor_cookery:donas"
-					block_type: 0
 					id: "2736688F37DF2020"
-					replace: false
-					replaced: "minecraft:air"
-					type: "questsadditions:place"
-					value: 1L
+					type: "custom"
 				}
 				{
-					block: "moa_decor_cookery:fideos"
-					block_type: 0
 					id: "221FB86D770C0C8A"
-					replace: false
-					replaced: "minecraft:air"
-					type: "questsadditions:place"
-					value: 1L
+					type: "custom"
 				}
 			]
 			title: "Help Jess open up her shop"
@@ -2276,49 +2126,24 @@
 			}]
 			tasks: [
 				{
-					block: "corail_woodcutter:oak_woodcutter"
-					block_type: 0
 					id: "6837B4022080DE23"
-					replace: false
-					replaced: "minecraft:air"
-					type: "questsadditions:place"
-					value: 1L
+					type: "custom"
 				}
 				{
-					block: "moa_decor_garden_:hachaclavada"
-					block_type: 0
 					id: "4CCA99328D5531F9"
-					replace: false
-					replaced: "minecraft:air"
-					type: "questsadditions:place"
-					value: 1L
+					type: "custom"
 				}
 				{
-					block: "moa_decor_cookery:salypimienta"
-					block_type: 0
 					id: "5EADC05A4D5671E7"
-					replace: false
-					replaced: "minecraft:air"
-					type: "questsadditions:place"
-					value: 1L
+					type: "custom"
 				}
 				{
-					block: "moa_decor_cookery:latadeatun"
-					block_type: 0
 					id: "187549AA9AF42A89"
-					replace: false
-					replaced: "minecraft:air"
-					type: "questsadditions:place"
-					value: 1L
+					type: "custom"
 				}
 				{
-					block: "moa_decor_cookery:tostador"
-					block_type: 0
 					id: "4C11BE3EEE583516"
-					replace: false
-					replaced: "minecraft:air"
-					type: "questsadditions:place"
-					value: 1L
+					type: "custom"
 				}
 			]
 			title: "Help Ren Move In"

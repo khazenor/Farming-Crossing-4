@@ -217,6 +217,50 @@
 			x: -0.5d
 			y: 1.0d
 		}
+		{
+			dependencies: [
+				"1B8E82ADB3063C94"
+				"756B6CAC42F98D92"
+				"32315F192BEB4876"
+				"0D03125982F6A791"
+				"468E43123E8DB4F9"
+				"24D59BF6E757524F"
+				"78BB8E151802329C"
+			]
+			dependency_requirement: "one_completed"
+			description: [
+				"You can obtain a neighborly villager move in kit in the Market:"
+				""
+				""
+				"{image:khazenor:textures/neighborly/market_entry.png width:180 height:80 align:1}"
+				""
+				"You can also craft neighborly spawn eggs that you don't need to new kits:"
+				""
+				"{image:khazenor:textures/neighborly/loot_bag_recipe.png width:160 height:80 align:1}"
+				""
+				""
+				"# Talk to a neighbor by right-clicking them."
+				""
+				"# Neighbors will have one new thing to say per in-game day, so check in with them often to hear all the things they have to say!"
+				""
+				"# Chatting with neighbors will also drop XP (up to once per day) to give another source of experience, especially for Peaceful Mode players."
+				""
+				"# Access the home building interface by crouch-right-clicking on a neighbor. Each neighbor requires three materials in order to make a blueprint for their house."
+				""
+				"# Lead neighbors around by carrying a wrench or the blueprint block for their home."
+				""
+				"# Reputation builds each day you talk to a neighbor. Nothing reduces reputation, so don’t worry if you miss a few days. As your reputation increases with a character, they’ll start considering you a friend and open up to you a little! Once reputation is maxed out, neighbors will give you gifts for each day you talk to them."
+			]
+			icon: "neighborly:present_for_thompson"
+			id: "3D71EB8417BB58EA"
+			tasks: [{
+				id: "41006425174E862E"
+				type: "item"
+			}]
+			title: "Info: Moving in Neighbors"
+			x: 0.5d
+			y: 1.0d
+		}
 	]
 	title: "Getting Started / FAQ's"
 }
