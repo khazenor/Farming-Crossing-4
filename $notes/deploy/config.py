@@ -104,5 +104,13 @@ def clientSideModNames():
 		'tagtooltips',
 		'World Stripper',
 		'embeddium',
-		'tagtooltips'
+		'tagtooltips',
+		'XaeroPlus',
+		'XaerosWorldMap',
+		'Xaeros_Minimap'
+	]
+
+def clientSideFolders():
+	return [
+		'global_packs\\required_resources'
 	]

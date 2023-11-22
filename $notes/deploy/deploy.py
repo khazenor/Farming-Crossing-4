@@ -29,8 +29,12 @@ def updateMods():
 		serverMods = os.listdir(serverModDir)
 		for serverMod in serverMods:
 			modname = serverMod.split('-')[0]
-			if modname in config.clientSideModNames():
+			if util.strContainsStrFromSubStrList(modname, config.clientSideModNames()):
 				os.remove(os.path.join(config.mods(server), serverMod))
+
+		print(f'deleting client side folders from {server}')
+		for clientFolder in config.clientSideFolders():
+			shutil.rmtree(os.path.join(server, clientFolder))
 
 def addExtraMods(location):
 	addModFolder = config.modsAdd(location)

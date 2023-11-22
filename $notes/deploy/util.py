@@ -45,3 +45,9 @@ def subFolders(location, folderArray):
 	for folder in folderArray:
 		paths.append(os.path.join(location, folder))
 	return paths
+
+def strContainsStrFromSubStrList(fullString, subStrList):
+	for subStr in subStrList:
+		if subStr in fullString:
+			return True
+	return False
