@@ -31,7 +31,10 @@ def deleteRelativeUrls():
 		'config\\defaultoptions\\servers.dat',
 		'config\\brb.toml',
 		'config\\effortlessbuilding-client.toml',
-		'config\\chimes-client.toml'
+		'config\\chimes-client.toml',
+		'config\\xaerominimap.txt',
+		'config\\xaeropatreon.txt',
+		'config\\xaeroworldmap.txt'
 	]
 
 def deleteConfigFolders():

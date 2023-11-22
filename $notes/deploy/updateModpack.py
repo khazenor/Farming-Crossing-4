@@ -1,27 +1,16 @@
 import os
-import configDeploy
-import shutil
+import util
 
-folderWUpdateInfo = ""
+updateLocation = "C:\\Users\\skim2\\Dropbox\\Share\\FarmingCrossing4\\install"
 
-updateFolders = ['mod', 'config', 'kubejs']
-
-def deploy():
-	print('UPDATING MODS')
-	updateMods()
-	print('UPDATING CONFIGS')
-	configDeploy.deployConfigs()
-
-
-def updateMods():
-	for folder in updateFolders:
-		copyFolder(folder, os.path.join(folderWUpdateInfo, folder))
-
-def copyFolder(src, dest):
-	if os.path.exists(dest):
-		shutil.rmtree(dest)
-	shutil.copytree(src, dest)
+keepExtraFiles = [
+	'config'
+]
 
 if __name__ == "__main__":
-	deploy()
-	input("press enter to exit.")
+	for folder in os.listdir(updateLocation):
+		print(f"Updating the {folder} folder ...")
+		srcFolder = os.path.join(updateLocation, folder)
+		doKeepExtraFiles = folder in keepExtraFiles
+		util.copyFolder(srcFolder, folder, doKeepExtraFiles)
+
