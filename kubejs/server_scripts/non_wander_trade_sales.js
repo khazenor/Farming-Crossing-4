@@ -2497,29 +2497,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:gema_festividades')
+    offer.setOutput('moa_decor_holidays:jaula')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:gema_festividades')
+    offer.setOutput('moa_decor_holidays:jaula')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:gema_festividades')
+    offer.setOutput('moa_decor_holidays:jaula')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
-    offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:gema_festividades')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:jaula')
     offer.setVillagerExperience(25)
@@ -2527,23 +2521,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:jaula')
+    offer.setOutput('moa_decor_holidays:lapida')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:jaula')
+    offer.setOutput('moa_decor_holidays:lapida')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:jaula')
+    offer.setOutput('moa_decor_holidays:lapida')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:lapida')
     offer.setVillagerExperience(25)
@@ -2551,23 +2545,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:lapida')
+    offer.setOutput('moa_decor_holidays:lapida_cruz')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:lapida')
+    offer.setOutput('moa_decor_holidays:lapida_cruz')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:lapida')
+    offer.setOutput('moa_decor_holidays:lapida_cruz')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:lapida_cruz')
     offer.setVillagerExperience(25)
@@ -2575,23 +2569,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:lapida_cruz')
+    offer.setOutput('moa_decor_holidays:leprechaun')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:lapida_cruz')
+    offer.setOutput('moa_decor_holidays:leprechaun')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:lapida_cruz')
+    offer.setOutput('moa_decor_holidays:leprechaun')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:leprechaun')
     offer.setVillagerExperience(25)
@@ -2599,23 +2593,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:leprechaun')
+    offer.setOutput('moa_decor_holidays:leprechaunolladeoro')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:leprechaun')
+    offer.setOutput('moa_decor_holidays:leprechaunolladeoro')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:leprechaun')
+    offer.setOutput('moa_decor_holidays:leprechaunolladeoro')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:leprechaunolladeoro')
     offer.setVillagerExperience(25)
@@ -2623,23 +2617,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:leprechaunolladeoro')
+    offer.setOutput('moa_decor_holidays:mariachiguitarra')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:leprechaunolladeoro')
+    offer.setOutput('moa_decor_holidays:mariachiguitarra')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:leprechaunolladeoro')
+    offer.setOutput('moa_decor_holidays:mariachiguitarra')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:mariachiguitarra')
     offer.setVillagerExperience(25)
@@ -2647,23 +2641,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:mariachiguitarra')
+    offer.setOutput('moa_decor_holidays:mariachitrompeta')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:mariachiguitarra')
+    offer.setOutput('moa_decor_holidays:mariachitrompeta')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:mariachiguitarra')
+    offer.setOutput('moa_decor_holidays:mariachitrompeta')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:mariachitrompeta')
     offer.setVillagerExperience(25)
@@ -2671,23 +2665,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:mariachitrompeta')
+    offer.setOutput('moa_decor_holidays:mariachiviolin')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:mariachitrompeta')
+    offer.setOutput('moa_decor_holidays:mariachiviolin')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:mariachitrompeta')
+    offer.setOutput('moa_decor_holidays:mariachiviolin')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:mariachiviolin')
     offer.setVillagerExperience(25)
@@ -2695,23 +2689,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:mariachiviolin')
+    offer.setOutput('moa_decor_holidays:murcielagoabierto')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:mariachiviolin')
+    offer.setOutput('moa_decor_holidays:murcielagoabierto')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:mariachiviolin')
+    offer.setOutput('moa_decor_holidays:murcielagoabierto')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:murcielagoabierto')
     offer.setVillagerExperience(25)
@@ -2719,23 +2713,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:murcielagoabierto')
+    offer.setOutput('moa_decor_holidays:murcielagocerrado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:murcielagoabierto')
+    offer.setOutput('moa_decor_holidays:murcielagocerrado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:murcielagoabierto')
+    offer.setOutput('moa_decor_holidays:murcielagocerrado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:murcielagocerrado')
     offer.setVillagerExperience(25)
@@ -2743,23 +2737,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:murcielagocerrado')
+    offer.setOutput('moa_decor_holidays:p_galleta_jengibre')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:murcielagocerrado')
+    offer.setOutput('moa_decor_holidays:p_galleta_jengibre')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:murcielagocerrado')
+    offer.setOutput('moa_decor_holidays:p_galleta_jengibre')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:p_galleta_jengibre')
     offer.setVillagerExperience(25)
@@ -2767,23 +2761,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:p_galleta_jengibre')
+    offer.setOutput('moa_decor_holidays:p_galleta_jengibre_n')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:p_galleta_jengibre')
+    offer.setOutput('moa_decor_holidays:p_galleta_jengibre_n')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:p_galleta_jengibre')
+    offer.setOutput('moa_decor_holidays:p_galleta_jengibre_n')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:p_galleta_jengibre_n')
     offer.setVillagerExperience(25)
@@ -2791,23 +2785,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:p_galleta_jengibre_n')
+    offer.setOutput('moa_decor_holidays:p_oso_polar_n')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:p_galleta_jengibre_n')
+    offer.setOutput('moa_decor_holidays:p_oso_polar_n')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:p_galleta_jengibre_n')
+    offer.setOutput('moa_decor_holidays:p_oso_polar_n')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:p_oso_polar_n')
     offer.setVillagerExperience(25)
@@ -2815,23 +2809,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:p_oso_polar_n')
+    offer.setOutput('moa_decor_holidays:pino_navideno')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:p_oso_polar_n')
+    offer.setOutput('moa_decor_holidays:pino_navideno')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:p_oso_polar_n')
+    offer.setOutput('moa_decor_holidays:pino_navideno')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:pino_navideno')
     offer.setVillagerExperience(25)
@@ -2839,23 +2833,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:pino_navideno')
+    offer.setOutput('moa_decor_holidays:santa_claus')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:pino_navideno')
+    offer.setOutput('moa_decor_holidays:santa_claus')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:pino_navideno')
+    offer.setOutput('moa_decor_holidays:santa_claus')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:santa_claus')
     offer.setVillagerExperience(25)
@@ -2863,23 +2857,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:santa_claus')
+    offer.setOutput('moa_decor_holidays:tumba')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:santa_claus')
+    offer.setOutput('moa_decor_holidays:tumba')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:santa_claus')
+    offer.setOutput('moa_decor_holidays:tumba')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:tumba')
     offer.setVillagerExperience(25)
@@ -2887,23 +2881,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:tumba')
+    offer.setOutput('moa_decor_holidays:tumbaabierta')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:tumba')
+    offer.setOutput('moa_decor_holidays:tumbaabierta')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:tumba')
+    offer.setOutput('moa_decor_holidays:tumbaabierta')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:tumbaabierta')
     offer.setVillagerExperience(25)
@@ -2911,23 +2905,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:tumbaabierta')
+    offer.setOutput('moa_decor_holidays:tumbaesqueleto')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:tumbaabierta')
+    offer.setOutput('moa_decor_holidays:tumbaesqueleto')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:tumbaabierta')
+    offer.setOutput('moa_decor_holidays:tumbaesqueleto')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:tumbaesqueleto')
     offer.setVillagerExperience(25)
@@ -2935,23 +2929,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:tumbaesqueleto')
+    offer.setOutput('moa_decor_holidays:tumbaesqueletosentado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:tumbaesqueleto')
+    offer.setOutput('moa_decor_holidays:tumbaesqueletosentado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:tumbaesqueleto')
+    offer.setOutput('moa_decor_holidays:tumbaesqueletosentado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:tumbaesqueletosentado')
     offer.setVillagerExperience(25)
@@ -2959,23 +2953,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:tumbaesqueletosentado')
+    offer.setOutput('moa_decor_holidays:zombieacostado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:tumbaesqueletosentado')
+    offer.setOutput('moa_decor_holidays:zombieacostado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:tumbaesqueletosentado')
+    offer.setOutput('moa_decor_holidays:zombieacostado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:zombieacostado')
     offer.setVillagerExperience(25)
@@ -2983,23 +2977,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:zombieacostado')
+    offer.setOutput('moa_decor_holidays:zombieenterrado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:zombieacostado')
+    offer.setOutput('moa_decor_holidays:zombieenterrado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:zombieacostado')
+    offer.setOutput('moa_decor_holidays:zombieenterrado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:zombieenterrado')
     offer.setVillagerExperience(25)
@@ -3007,23 +3001,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:zombieenterrado')
+    offer.setOutput('moa_decor_holidays:zombiesaliendotierra')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:zombieenterrado')
+    offer.setOutput('moa_decor_holidays:zombiesaliendotierra')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:zombieenterrado')
+    offer.setOutput('moa_decor_holidays:zombiesaliendotierra')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:zombiesaliendotierra')
     offer.setVillagerExperience(25)
@@ -3031,23 +3025,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:zombiesaliendotierra')
+    offer.setOutput('moa_decor_science:bascula')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:zombiesaliendotierra')
+    offer.setOutput('moa_decor_science:bascula')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:zombiesaliendotierra')
+    offer.setOutput('moa_decor_science:bascula')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_science:bascula')
     offer.setVillagerExperience(25)
@@ -3055,23 +3049,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:bascula')
+    offer.setOutput('moa_decor_science:botiquindepared')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:bascula')
+    offer.setOutput('moa_decor_science:botiquindepared')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:bascula')
+    offer.setOutput('moa_decor_science:botiquindepared')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_science:botiquindepared')
     offer.setVillagerExperience(25)
@@ -3079,23 +3073,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:botiquindepared')
+    offer.setOutput('moa_decor_science:brujula')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:botiquindepared')
+    offer.setOutput('moa_decor_science:brujula')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:botiquindepared')
+    offer.setOutput('moa_decor_science:brujula')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_science:brujula')
     offer.setVillagerExperience(25)
@@ -3103,23 +3097,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:brujula')
+    offer.setOutput('moa_decor_science:calculadora')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:brujula')
+    offer.setOutput('moa_decor_science:calculadora')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:brujula')
+    offer.setOutput('moa_decor_science:calculadora')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_science:calculadora')
     offer.setVillagerExperience(25)
@@ -3127,23 +3121,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:calculadora')
+    offer.setOutput('moa_decor_science:frascodepildoras')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:calculadora')
+    offer.setOutput('moa_decor_science:frascodepildoras')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:calculadora')
+    offer.setOutput('moa_decor_science:frascodepildoras')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_science:frascodepildoras')
     offer.setVillagerExperience(25)
@@ -3151,23 +3145,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:frascodepildoras')
+    offer.setOutput('moa_decor_science:frascodepildorasabierto')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:frascodepildoras')
+    offer.setOutput('moa_decor_science:frascodepildorasabierto')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:frascodepildoras')
+    offer.setOutput('moa_decor_science:frascodepildorasabierto')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_science:frascodepildorasabierto')
     offer.setVillagerExperience(25)
@@ -3175,23 +3169,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:frascodepildorasabierto')
+    offer.setOutput('moa_decor_science:globoterraqueo')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:frascodepildorasabierto')
+    offer.setOutput('moa_decor_science:globoterraqueo')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:frascodepildorasabierto')
+    offer.setOutput('moa_decor_science:globoterraqueo')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_science:globoterraqueo')
     offer.setVillagerExperience(25)
@@ -3199,23 +3193,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:globoterraqueo')
+    offer.setOutput('moa_decor_science:lectordesignosvitales')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:globoterraqueo')
+    offer.setOutput('moa_decor_science:lectordesignosvitales')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:globoterraqueo')
+    offer.setOutput('moa_decor_science:lectordesignosvitales')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_science:lectordesignosvitales')
     offer.setVillagerExperience(25)
@@ -3223,23 +3217,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:lectordesignosvitales')
+    offer.setOutput('moa_decor_science:libro')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:lectordesignosvitales')
+    offer.setOutput('moa_decor_science:libro')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:lectordesignosvitales')
+    offer.setOutput('moa_decor_science:libro')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_science:libro')
     offer.setVillagerExperience(25)
@@ -3247,23 +3241,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:libro')
+    offer.setOutput('moa_decor_science:libroabierto')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:libro')
+    offer.setOutput('moa_decor_science:libroabierto')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:libro')
+    offer.setOutput('moa_decor_science:libroabierto')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_science:libroabierto')
     offer.setVillagerExperience(25)
@@ -3271,23 +3265,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:libroabierto')
+    offer.setOutput('moa_decor_science:libros')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:libroabierto')
+    offer.setOutput('moa_decor_science:libros')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:libroabierto')
+    offer.setOutput('moa_decor_science:libros')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_science:libros')
     offer.setVillagerExperience(25)
@@ -3295,23 +3289,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:libros')
+    offer.setOutput('moa_decor_science:librosapilados')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:libros')
+    offer.setOutput('moa_decor_science:librosapilados')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:libros')
+    offer.setOutput('moa_decor_science:librosapilados')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_science:librosapilados')
     offer.setVillagerExperience(25)
@@ -3319,23 +3313,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:librosapilados')
+    offer.setOutput('moa_decor_science:libroytintero')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:librosapilados')
+    offer.setOutput('moa_decor_science:libroytintero')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:librosapilados')
+    offer.setOutput('moa_decor_science:libroytintero')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_science:libroytintero')
     offer.setVillagerExperience(25)
@@ -3343,23 +3337,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:libroytintero')
+    offer.setOutput('moa_decor_science:lupa')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:libroytintero')
+    offer.setOutput('moa_decor_science:lupa')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:libroytintero')
+    offer.setOutput('moa_decor_science:lupa')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_science:lupa')
     offer.setVillagerExperience(25)
@@ -3367,23 +3361,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:lupa')
+    offer.setOutput('moa_decor_science:mapadeltesoro')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:lupa')
+    offer.setOutput('moa_decor_science:mapadeltesoro')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:lupa')
+    offer.setOutput('moa_decor_science:mapadeltesoro')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_science:mapadeltesoro')
     offer.setVillagerExperience(25)
@@ -3391,23 +3385,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:mapadeltesoro')
+    offer.setOutput('moa_decor_science:microscopio')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:mapadeltesoro')
+    offer.setOutput('moa_decor_science:microscopio')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:mapadeltesoro')
+    offer.setOutput('moa_decor_science:microscopio')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_science:microscopio')
     offer.setVillagerExperience(25)
@@ -3415,23 +3409,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:microscopio')
+    offer.setOutput('moa_decor_science:pizarra')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:microscopio')
+    offer.setOutput('moa_decor_science:pizarra')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:microscopio')
+    offer.setOutput('moa_decor_science:pizarra')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_science:pizarra')
     offer.setVillagerExperience(25)
@@ -3439,23 +3433,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:pizarra')
+    offer.setOutput('moa_decor_science:telescopio')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:pizarra')
+    offer.setOutput('moa_decor_science:telescopio')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:pizarra')
+    offer.setOutput('moa_decor_science:telescopio')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_science:telescopio')
     offer.setVillagerExperience(25)
@@ -3463,23 +3457,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:telescopio')
+    offer.setOutput('moa_decor_science:tintero')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:telescopio')
+    offer.setOutput('moa_decor_science:tintero')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:telescopio')
+    offer.setOutput('moa_decor_science:tintero')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_science:tintero')
     offer.setVillagerExperience(25)
@@ -3487,23 +3481,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:tintero')
+    offer.setOutput('moa_decor_science:veneno')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:tintero')
+    offer.setOutput('moa_decor_science:veneno')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:tintero')
+    offer.setOutput('moa_decor_science:veneno')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_science:veneno')
     offer.setVillagerExperience(25)
@@ -3511,23 +3505,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:veneno')
+    offer.setOutput('moa_decor_toys:abeja')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:veneno')
+    offer.setOutput('moa_decor_toys:abeja')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_science:veneno')
+    offer.setOutput('moa_decor_toys:abeja')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:abeja')
     offer.setVillagerExperience(25)
@@ -3535,23 +3529,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:abeja')
+    offer.setOutput('moa_decor_toys:ajoloteazul')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:abeja')
+    offer.setOutput('moa_decor_toys:ajoloteazul')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:abeja')
+    offer.setOutput('moa_decor_toys:ajoloteazul')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ajoloteazul')
     offer.setVillagerExperience(25)
@@ -3559,23 +3553,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ajoloteazul')
+    offer.setOutput('moa_decor_toys:ajolotecafe')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ajoloteazul')
+    offer.setOutput('moa_decor_toys:ajolotecafe')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ajoloteazul')
+    offer.setOutput('moa_decor_toys:ajolotecafe')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ajolotecafe')
     offer.setVillagerExperience(25)
@@ -3583,23 +3577,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ajolotecafe')
+    offer.setOutput('moa_decor_toys:ajolotecian')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ajolotecafe')
+    offer.setOutput('moa_decor_toys:ajolotecian')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ajolotecafe')
+    offer.setOutput('moa_decor_toys:ajolotecian')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ajolotecian')
     offer.setVillagerExperience(25)
@@ -3607,23 +3601,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ajolotecian')
+    offer.setOutput('moa_decor_toys:ajolotedorado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ajolotecian')
+    offer.setOutput('moa_decor_toys:ajolotedorado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ajolotecian')
+    offer.setOutput('moa_decor_toys:ajolotedorado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ajolotedorado')
     offer.setVillagerExperience(25)
@@ -3631,23 +3625,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ajolotedorado')
+    offer.setOutput('moa_decor_toys:ajoloterosa')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ajolotedorado')
+    offer.setOutput('moa_decor_toys:ajoloterosa')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ajolotedorado')
+    offer.setOutput('moa_decor_toys:ajoloterosa')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ajoloterosa')
     offer.setVillagerExperience(25)
@@ -3655,23 +3649,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ajoloterosa')
+    offer.setOutput('moa_decor_toys:aldeano')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ajoloterosa')
+    offer.setOutput('moa_decor_toys:aldeano')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ajoloterosa')
+    offer.setOutput('moa_decor_toys:aldeano')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:aldeano')
     offer.setVillagerExperience(25)
@@ -3679,23 +3673,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:aldeano')
+    offer.setOutput('moa_decor_toys:aldeanodesierto')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:aldeano')
+    offer.setOutput('moa_decor_toys:aldeanodesierto')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:aldeano')
+    offer.setOutput('moa_decor_toys:aldeanodesierto')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:aldeanodesierto')
     offer.setVillagerExperience(25)
@@ -3703,23 +3697,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:aldeanodesierto')
+    offer.setOutput('moa_decor_toys:aldeanoinvierno')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:aldeanodesierto')
+    offer.setOutput('moa_decor_toys:aldeanoinvierno')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:aldeanodesierto')
+    offer.setOutput('moa_decor_toys:aldeanoinvierno')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:aldeanoinvierno')
     offer.setVillagerExperience(25)
@@ -3727,23 +3721,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:aldeanoinvierno')
+    offer.setOutput('moa_decor_toys:aldeanopantano')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:aldeanoinvierno')
+    offer.setOutput('moa_decor_toys:aldeanopantano')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:aldeanoinvierno')
+    offer.setOutput('moa_decor_toys:aldeanopantano')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:aldeanopantano')
     offer.setVillagerExperience(25)
@@ -3751,23 +3745,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:aldeanopantano')
+    offer.setOutput('moa_decor_toys:aldeanosabana')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:aldeanopantano')
+    offer.setOutput('moa_decor_toys:aldeanosabana')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:aldeanopantano')
+    offer.setOutput('moa_decor_toys:aldeanosabana')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:aldeanosabana')
     offer.setVillagerExperience(25)
@@ -3775,23 +3769,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:aldeanosabana')
+    offer.setOutput('moa_decor_toys:aldeanotaiga')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:aldeanosabana')
+    offer.setOutput('moa_decor_toys:aldeanotaiga')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:aldeanosabana')
+    offer.setOutput('moa_decor_toys:aldeanotaiga')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:aldeanotaiga')
     offer.setVillagerExperience(25)
@@ -3799,23 +3793,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:aldeanotaiga')
+    offer.setOutput('moa_decor_toys:aleanozombie')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:aldeanotaiga')
+    offer.setOutput('moa_decor_toys:aleanozombie')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:aldeanotaiga')
+    offer.setOutput('moa_decor_toys:aleanozombie')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:aleanozombie')
     offer.setVillagerExperience(25)
@@ -3823,23 +3817,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:aleanozombie')
+    offer.setOutput('moa_decor_toys:alex')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:aleanozombie')
+    offer.setOutput('moa_decor_toys:alex')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:aleanozombie')
+    offer.setOutput('moa_decor_toys:alex')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:alex')
     offer.setVillagerExperience(25)
@@ -3847,23 +3841,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:alex')
+    offer.setOutput('moa_decor_toys:allay')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:alex')
+    offer.setOutput('moa_decor_toys:allay')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:alex')
+    offer.setOutput('moa_decor_toys:allay')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:allay')
     offer.setVillagerExperience(25)
@@ -3871,23 +3865,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:allay')
+    offer.setOutput('moa_decor_toys:arana')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:allay')
+    offer.setOutput('moa_decor_toys:arana')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:allay')
+    offer.setOutput('moa_decor_toys:arana')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:arana')
     offer.setVillagerExperience(25)
@@ -3895,23 +3889,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:arana')
+    offer.setOutput('moa_decor_toys:aranadelascuevas')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:arana')
+    offer.setOutput('moa_decor_toys:aranadelascuevas')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:arana')
+    offer.setOutput('moa_decor_toys:aranadelascuevas')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:aranadelascuevas')
     offer.setVillagerExperience(25)
@@ -3919,23 +3913,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:aranadelascuevas')
+    offer.setOutput('moa_decor_toys:aranayesqueleto')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:aranadelascuevas')
+    offer.setOutput('moa_decor_toys:aranayesqueleto')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:aranadelascuevas')
+    offer.setOutput('moa_decor_toys:aranayesqueleto')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:aranayesqueleto')
     offer.setVillagerExperience(25)
@@ -3943,23 +3937,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:aranayesqueleto')
+    offer.setOutput('moa_decor_toys:blaze')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:aranayesqueleto')
+    offer.setOutput('moa_decor_toys:blaze')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:aranayesqueleto')
+    offer.setOutput('moa_decor_toys:blaze')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:blaze')
     offer.setVillagerExperience(25)
@@ -3967,23 +3961,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:blaze')
+    offer.setOutput('moa_decor_toys:bruja')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:blaze')
+    offer.setOutput('moa_decor_toys:bruja')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:blaze')
+    offer.setOutput('moa_decor_toys:bruja')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:bruja')
     offer.setVillagerExperience(25)
@@ -3991,23 +3985,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:bruja')
+    offer.setOutput('moa_decor_toys:burro')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:bruja')
+    offer.setOutput('moa_decor_toys:burro')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:bruja')
+    offer.setOutput('moa_decor_toys:burro')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:burro')
     offer.setVillagerExperience(25)
@@ -4015,23 +4009,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:burro')
+    offer.setOutput('moa_decor_toys:caballoblanco')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:burro')
+    offer.setOutput('moa_decor_toys:caballoblanco')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:burro')
+    offer.setOutput('moa_decor_toys:caballoblanco')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballoblanco')
     offer.setVillagerExperience(25)
@@ -4039,23 +4033,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballoblanco')
+    offer.setOutput('moa_decor_toys:caballoblanco_h')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballoblanco')
+    offer.setOutput('moa_decor_toys:caballoblanco_h')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballoblanco')
+    offer.setOutput('moa_decor_toys:caballoblanco_h')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballoblanco_h')
     offer.setVillagerExperience(25)
@@ -4063,23 +4057,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballoblanco_h')
+    offer.setOutput('moa_decor_toys:caballocafe')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballoblanco_h')
+    offer.setOutput('moa_decor_toys:caballocafe')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballoblanco_h')
+    offer.setOutput('moa_decor_toys:caballocafe')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballocafe')
     offer.setVillagerExperience(25)
@@ -4087,23 +4081,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocafe')
+    offer.setOutput('moa_decor_toys:caballocafe_c')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocafe')
+    offer.setOutput('moa_decor_toys:caballocafe_c')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocafe')
+    offer.setOutput('moa_decor_toys:caballocafe_c')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballocafe_c')
     offer.setVillagerExperience(25)
@@ -4111,23 +4105,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocafe_c')
+    offer.setOutput('moa_decor_toys:caballocafe_h')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocafe_c')
+    offer.setOutput('moa_decor_toys:caballocafe_h')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocafe_c')
+    offer.setOutput('moa_decor_toys:caballocafe_h')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballocafe_h')
     offer.setVillagerExperience(25)
@@ -4135,23 +4129,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocafe_h')
+    offer.setOutput('moa_decor_toys:caballocafe_m')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocafe_h')
+    offer.setOutput('moa_decor_toys:caballocafe_m')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocafe_h')
+    offer.setOutput('moa_decor_toys:caballocafe_m')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballocafe_m')
     offer.setVillagerExperience(25)
@@ -4159,23 +4153,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocafe_m')
+    offer.setOutput('moa_decor_toys:caballocafe_r')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocafe_m')
+    offer.setOutput('moa_decor_toys:caballocafe_r')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocafe_m')
+    offer.setOutput('moa_decor_toys:caballocafe_r')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballocafe_r')
     offer.setVillagerExperience(25)
@@ -4183,23 +4177,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocafe_r')
+    offer.setOutput('moa_decor_toys:caballocafeosc')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocafe_r')
+    offer.setOutput('moa_decor_toys:caballocafeosc')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocafe_r')
+    offer.setOutput('moa_decor_toys:caballocafeosc')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballocafeosc')
     offer.setVillagerExperience(25)
@@ -4207,23 +4201,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocafeosc')
+    offer.setOutput('moa_decor_toys:caballocafeosc_c')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocafeosc')
+    offer.setOutput('moa_decor_toys:caballocafeosc_c')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocafeosc')
+    offer.setOutput('moa_decor_toys:caballocafeosc_c')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballocafeosc_c')
     offer.setVillagerExperience(25)
@@ -4231,23 +4225,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocafeosc_c')
+    offer.setOutput('moa_decor_toys:caballocafeosc_h')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocafeosc_c')
+    offer.setOutput('moa_decor_toys:caballocafeosc_h')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocafeosc_c')
+    offer.setOutput('moa_decor_toys:caballocafeosc_h')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballocafeosc_h')
     offer.setVillagerExperience(25)
@@ -4255,23 +4249,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocafeosc_h')
+    offer.setOutput('moa_decor_toys:caballocafeosc_m_1')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocafeosc_h')
+    offer.setOutput('moa_decor_toys:caballocafeosc_m_1')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocafeosc_h')
+    offer.setOutput('moa_decor_toys:caballocafeosc_m_1')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballocafeosc_m_1')
     offer.setVillagerExperience(25)
@@ -4279,23 +4273,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocafeosc_m_1')
+    offer.setOutput('moa_decor_toys:caballocafeosc_r')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocafeosc_m_1')
+    offer.setOutput('moa_decor_toys:caballocafeosc_r')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocafeosc_m_1')
+    offer.setOutput('moa_decor_toys:caballocafeosc_r')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballocafeosc_r')
     offer.setVillagerExperience(25)
@@ -4303,23 +4297,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocafeosc_r')
+    offer.setOutput('moa_decor_toys:caballocastano')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocafeosc_r')
+    offer.setOutput('moa_decor_toys:caballocastano')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocafeosc_r')
+    offer.setOutput('moa_decor_toys:caballocastano')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballocastano')
     offer.setVillagerExperience(25)
@@ -4327,23 +4321,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocastano')
+    offer.setOutput('moa_decor_toys:caballocastano_c')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocastano')
+    offer.setOutput('moa_decor_toys:caballocastano_c')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocastano')
+    offer.setOutput('moa_decor_toys:caballocastano_c')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballocastano_c')
     offer.setVillagerExperience(25)
@@ -4351,23 +4345,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocastano_c')
+    offer.setOutput('moa_decor_toys:caballocastano_h')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocastano_c')
+    offer.setOutput('moa_decor_toys:caballocastano_h')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocastano_c')
+    offer.setOutput('moa_decor_toys:caballocastano_h')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballocastano_h')
     offer.setVillagerExperience(25)
@@ -4375,23 +4369,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocastano_h')
+    offer.setOutput('moa_decor_toys:caballocastano_m')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocastano_h')
+    offer.setOutput('moa_decor_toys:caballocastano_m')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocastano_h')
+    offer.setOutput('moa_decor_toys:caballocastano_m')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballocastano_m')
     offer.setVillagerExperience(25)
@@ -4399,23 +4393,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocastano_m')
+    offer.setOutput('moa_decor_toys:caballocastano_r')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocastano_m')
+    offer.setOutput('moa_decor_toys:caballocastano_r')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocastano_m')
+    offer.setOutput('moa_decor_toys:caballocastano_r')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballocastano_r')
     offer.setVillagerExperience(25)
@@ -4423,23 +4417,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocastano_r')
+    offer.setOutput('moa_decor_toys:caballocrema')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocastano_r')
+    offer.setOutput('moa_decor_toys:caballocrema')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocastano_r')
+    offer.setOutput('moa_decor_toys:caballocrema')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballocrema')
     offer.setVillagerExperience(25)
@@ -4447,23 +4441,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocrema')
+    offer.setOutput('moa_decor_toys:caballocrema_c')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocrema')
+    offer.setOutput('moa_decor_toys:caballocrema_c')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocrema')
+    offer.setOutput('moa_decor_toys:caballocrema_c')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballocrema_c')
     offer.setVillagerExperience(25)
@@ -4471,23 +4465,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocrema_c')
+    offer.setOutput('moa_decor_toys:caballocrema_h')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocrema_c')
+    offer.setOutput('moa_decor_toys:caballocrema_h')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocrema_c')
+    offer.setOutput('moa_decor_toys:caballocrema_h')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballocrema_h')
     offer.setVillagerExperience(25)
@@ -4495,23 +4489,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocrema_h')
+    offer.setOutput('moa_decor_toys:caballocrema_m')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocrema_h')
+    offer.setOutput('moa_decor_toys:caballocrema_m')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocrema_h')
+    offer.setOutput('moa_decor_toys:caballocrema_m')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballocrema_m')
     offer.setVillagerExperience(25)
@@ -4519,23 +4513,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocrema_m')
+    offer.setOutput('moa_decor_toys:caballocrema_r')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocrema_m')
+    offer.setOutput('moa_decor_toys:caballocrema_r')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocrema_m')
+    offer.setOutput('moa_decor_toys:caballocrema_r')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballocrema_r')
     offer.setVillagerExperience(25)
@@ -4543,23 +4537,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocrema_r')
+    offer.setOutput('moa_decor_toys:caballoesqueleto')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocrema_r')
+    offer.setOutput('moa_decor_toys:caballoesqueleto')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballocrema_r')
+    offer.setOutput('moa_decor_toys:caballoesqueleto')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballoesqueleto')
     offer.setVillagerExperience(25)
@@ -4567,23 +4561,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballoesqueleto')
+    offer.setOutput('moa_decor_toys:caballoesqueletoyesqueleto')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballoesqueleto')
+    offer.setOutput('moa_decor_toys:caballoesqueletoyesqueleto')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballoesqueleto')
+    offer.setOutput('moa_decor_toys:caballoesqueletoyesqueleto')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballoesqueletoyesqueleto')
     offer.setVillagerExperience(25)
@@ -4591,23 +4585,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballoesqueletoyesqueleto')
+    offer.setOutput('moa_decor_toys:caballogris')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballoesqueletoyesqueleto')
+    offer.setOutput('moa_decor_toys:caballogris')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballoesqueletoyesqueleto')
+    offer.setOutput('moa_decor_toys:caballogris')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballogris')
     offer.setVillagerExperience(25)
@@ -4615,23 +4609,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballogris')
+    offer.setOutput('moa_decor_toys:caballogris_c')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballogris')
+    offer.setOutput('moa_decor_toys:caballogris_c')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballogris')
+    offer.setOutput('moa_decor_toys:caballogris_c')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballogris_c')
     offer.setVillagerExperience(25)
@@ -4639,23 +4633,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballogris_c')
+    offer.setOutput('moa_decor_toys:caballogris_h')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballogris_c')
+    offer.setOutput('moa_decor_toys:caballogris_h')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballogris_c')
+    offer.setOutput('moa_decor_toys:caballogris_h')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballogris_h')
     offer.setVillagerExperience(25)
@@ -4663,23 +4657,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballogris_h')
+    offer.setOutput('moa_decor_toys:caballogris_m')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballogris_h')
+    offer.setOutput('moa_decor_toys:caballogris_m')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballogris_h')
+    offer.setOutput('moa_decor_toys:caballogris_m')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballogris_m')
     offer.setVillagerExperience(25)
@@ -4687,23 +4681,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballogris_m')
+    offer.setOutput('moa_decor_toys:caballogris_r')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballogris_m')
+    offer.setOutput('moa_decor_toys:caballogris_r')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballogris_m')
+    offer.setOutput('moa_decor_toys:caballogris_r')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballogris_r')
     offer.setVillagerExperience(25)
@@ -4711,23 +4705,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballogris_r')
+    offer.setOutput('moa_decor_toys:caballonegro')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballogris_r')
+    offer.setOutput('moa_decor_toys:caballonegro')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballogris_r')
+    offer.setOutput('moa_decor_toys:caballonegro')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballonegro')
     offer.setVillagerExperience(25)
@@ -4735,23 +4729,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballonegro')
+    offer.setOutput('moa_decor_toys:caballonegro_c')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballonegro')
+    offer.setOutput('moa_decor_toys:caballonegro_c')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballonegro')
+    offer.setOutput('moa_decor_toys:caballonegro_c')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballonegro_c')
     offer.setVillagerExperience(25)
@@ -4759,23 +4753,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballonegro_c')
+    offer.setOutput('moa_decor_toys:caballonegro_h')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballonegro_c')
+    offer.setOutput('moa_decor_toys:caballonegro_h')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballonegro_c')
+    offer.setOutput('moa_decor_toys:caballonegro_h')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballonegro_h')
     offer.setVillagerExperience(25)
@@ -4783,23 +4777,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballonegro_h')
+    offer.setOutput('moa_decor_toys:caballonegro_m')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballonegro_h')
+    offer.setOutput('moa_decor_toys:caballonegro_m')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballonegro_h')
+    offer.setOutput('moa_decor_toys:caballonegro_m')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballonegro_m')
     offer.setVillagerExperience(25)
@@ -4807,23 +4801,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballonegro_m')
+    offer.setOutput('moa_decor_toys:caballonegro_r')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballonegro_m')
+    offer.setOutput('moa_decor_toys:caballonegro_r')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballonegro_m')
+    offer.setOutput('moa_decor_toys:caballonegro_r')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballonegro_r')
     offer.setVillagerExperience(25)
@@ -4831,23 +4825,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballonegro_r')
+    offer.setOutput('moa_decor_toys:cabra')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballonegro_r')
+    offer.setOutput('moa_decor_toys:cabra')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:caballonegro_r')
+    offer.setOutput('moa_decor_toys:cabra')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:cabra')
     offer.setVillagerExperience(25)
@@ -4855,23 +4849,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:cabra')
+    offer.setOutput('moa_decor_toys:calamar')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:cabra')
+    offer.setOutput('moa_decor_toys:calamar')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:cabra')
+    offer.setOutput('moa_decor_toys:calamar')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:calamar')
     offer.setVillagerExperience(25)
@@ -4879,23 +4873,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:calamar')
+    offer.setOutput('moa_decor_toys:calamarbrillante')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:calamar')
+    offer.setOutput('moa_decor_toys:calamarbrillante')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:calamar')
+    offer.setOutput('moa_decor_toys:calamarbrillante')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:calamarbrillante')
     offer.setVillagerExperience(25)
@@ -4903,23 +4897,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:calamarbrillante')
+    offer.setOutput('moa_decor_toys:camello')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:calamarbrillante')
+    offer.setOutput('moa_decor_toys:camello')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:calamarbrillante')
+    offer.setOutput('moa_decor_toys:camello')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:camello')
     offer.setVillagerExperience(25)
@@ -4927,23 +4921,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:camello')
+    offer.setOutput('moa_decor_toys:cerdo')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:camello')
+    offer.setOutput('moa_decor_toys:cerdo')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:camello')
+    offer.setOutput('moa_decor_toys:cerdo')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:cerdo')
     offer.setVillagerExperience(25)
@@ -4951,23 +4945,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:cerdo')
+    offer.setOutput('moa_decor_toys:champivaca')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:cerdo')
+    offer.setOutput('moa_decor_toys:champivaca')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:cerdo')
+    offer.setOutput('moa_decor_toys:champivaca')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:champivaca')
     offer.setVillagerExperience(25)
@@ -4975,23 +4969,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:champivaca')
+    offer.setOutput('moa_decor_toys:conejoblanco')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:champivaca')
+    offer.setOutput('moa_decor_toys:conejoblanco')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:champivaca')
+    offer.setOutput('moa_decor_toys:conejoblanco')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:conejoblanco')
     offer.setVillagerExperience(25)
@@ -4999,23 +4993,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:conejoblanco')
+    offer.setOutput('moa_decor_toys:conejoblancoynegro')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:conejoblanco')
+    offer.setOutput('moa_decor_toys:conejoblancoynegro')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:conejoblanco')
+    offer.setOutput('moa_decor_toys:conejoblancoynegro')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:conejoblancoynegro')
     offer.setVillagerExperience(25)
@@ -5023,23 +5017,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:conejoblancoynegro')
+    offer.setOutput('moa_decor_toys:conejocafe')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:conejoblancoynegro')
+    offer.setOutput('moa_decor_toys:conejocafe')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:conejoblancoynegro')
+    offer.setOutput('moa_decor_toys:conejocafe')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:conejocafe')
     offer.setVillagerExperience(25)
@@ -5047,23 +5041,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:conejocafe')
+    offer.setOutput('moa_decor_toys:conejocastano')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:conejocafe')
+    offer.setOutput('moa_decor_toys:conejocastano')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:conejocafe')
+    offer.setOutput('moa_decor_toys:conejocastano')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:conejocastano')
     offer.setVillagerExperience(25)
@@ -5071,23 +5065,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:conejocastano')
+    offer.setOutput('moa_decor_toys:conejodorado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:conejocastano')
+    offer.setOutput('moa_decor_toys:conejodorado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:conejocastano')
+    offer.setOutput('moa_decor_toys:conejodorado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:conejodorado')
     offer.setVillagerExperience(25)
@@ -5095,23 +5089,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:conejodorado')
+    offer.setOutput('moa_decor_toys:conejonegro')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:conejodorado')
+    offer.setOutput('moa_decor_toys:conejonegro')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:conejodorado')
+    offer.setOutput('moa_decor_toys:conejonegro')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:conejonegro')
     offer.setVillagerExperience(25)
@@ -5119,23 +5113,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:conejonegro')
+    offer.setOutput('moa_decor_toys:creeper')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:conejonegro')
+    offer.setOutput('moa_decor_toys:creeper')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:conejonegro')
+    offer.setOutput('moa_decor_toys:creeper')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:creeper')
     offer.setVillagerExperience(25)
@@ -5143,23 +5137,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:creeper')
+    offer.setOutput('moa_decor_toys:cubodemagma')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:creeper')
+    offer.setOutput('moa_decor_toys:cubodemagma')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:creeper')
+    offer.setOutput('moa_decor_toys:cubodemagma')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:cubodemagma')
     offer.setVillagerExperience(25)
@@ -5167,23 +5161,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:cubodemagma')
+    offer.setOutput('moa_decor_toys:delfin')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:cubodemagma')
+    offer.setOutput('moa_decor_toys:delfin')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:cubodemagma')
+    offer.setOutput('moa_decor_toys:delfin')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:delfin')
     offer.setVillagerExperience(25)
@@ -5191,23 +5185,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:delfin')
+    offer.setOutput('moa_decor_toys:devastador')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:delfin')
+    offer.setOutput('moa_decor_toys:devastador')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:delfin')
+    offer.setOutput('moa_decor_toys:devastador')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:devastador')
     offer.setVillagerExperience(25)
@@ -5215,23 +5209,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:devastador')
+    offer.setOutput('moa_decor_toys:devastadorysaqueador')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:devastador')
+    offer.setOutput('moa_decor_toys:devastadorysaqueador')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:devastador')
+    offer.setOutput('moa_decor_toys:devastadorysaqueador')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:devastadorysaqueador')
     offer.setVillagerExperience(25)
@@ -5239,23 +5233,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:devastadorysaqueador')
+    offer.setOutput('moa_decor_toys:dragondelender')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:devastadorysaqueador')
+    offer.setOutput('moa_decor_toys:dragondelender')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:devastadorysaqueador')
+    offer.setOutput('moa_decor_toys:dragondelender')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:dragondelender')
     offer.setVillagerExperience(25)
@@ -5263,23 +5257,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:dragondelender')
+    offer.setOutput('moa_decor_toys:enderman')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:dragondelender')
+    offer.setOutput('moa_decor_toys:enderman')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:dragondelender')
+    offer.setOutput('moa_decor_toys:enderman')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:enderman')
     offer.setVillagerExperience(25)
@@ -5287,23 +5281,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:enderman')
+    offer.setOutput('moa_decor_toys:endermite')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:enderman')
+    offer.setOutput('moa_decor_toys:endermite')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:enderman')
+    offer.setOutput('moa_decor_toys:endermite')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:endermite')
     offer.setVillagerExperience(25)
@@ -5311,23 +5305,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:endermite')
+    offer.setOutput('moa_decor_toys:esqueleto')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:endermite')
+    offer.setOutput('moa_decor_toys:esqueleto')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:endermite')
+    offer.setOutput('moa_decor_toys:esqueleto')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:esqueleto')
     offer.setVillagerExperience(25)
@@ -5335,23 +5329,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:esqueleto')
+    offer.setOutput('moa_decor_toys:esqueletoglacial')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:esqueleto')
+    offer.setOutput('moa_decor_toys:esqueletoglacial')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:esqueleto')
+    offer.setOutput('moa_decor_toys:esqueletoglacial')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:esqueletoglacial')
     offer.setVillagerExperience(25)
@@ -5359,23 +5353,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:esqueletoglacial')
+    offer.setOutput('moa_decor_toys:esqueletowither')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:esqueletoglacial')
+    offer.setOutput('moa_decor_toys:esqueletowither')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:esqueletoglacial')
+    offer.setOutput('moa_decor_toys:esqueletowither')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:esqueletowither')
     offer.setVillagerExperience(25)
@@ -5383,23 +5377,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:esqueletowither')
+    offer.setOutput('moa_decor_toys:fantasma')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:esqueletowither')
+    offer.setOutput('moa_decor_toys:fantasma')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:esqueletowither')
+    offer.setOutput('moa_decor_toys:fantasma')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:fantasma')
     offer.setVillagerExperience(25)
@@ -5407,23 +5401,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:fantasma')
+    offer.setOutput('moa_decor_toys:gallina')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:fantasma')
+    offer.setOutput('moa_decor_toys:gallina')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:fantasma')
+    offer.setOutput('moa_decor_toys:gallina')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:gallina')
     offer.setVillagerExperience(25)
@@ -5431,23 +5425,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gallina')
+    offer.setOutput('moa_decor_toys:gallinayahogado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gallina')
+    offer.setOutput('moa_decor_toys:gallinayahogado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gallina')
+    offer.setOutput('moa_decor_toys:gallinayahogado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:gallinayahogado')
     offer.setVillagerExperience(25)
@@ -5455,23 +5449,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gallinayahogado')
+    offer.setOutput('moa_decor_toys:gallinayjinetealdeanozombie')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gallinayahogado')
+    offer.setOutput('moa_decor_toys:gallinayjinetealdeanozombie')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gallinayahogado')
+    offer.setOutput('moa_decor_toys:gallinayjinetealdeanozombie')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:gallinayjinetealdeanozombie')
     offer.setVillagerExperience(25)
@@ -5479,23 +5473,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gallinayjinetealdeanozombie')
+    offer.setOutput('moa_decor_toys:gallinaypiglinzombie')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gallinayjinetealdeanozombie')
+    offer.setOutput('moa_decor_toys:gallinaypiglinzombie')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gallinayjinetealdeanozombie')
+    offer.setOutput('moa_decor_toys:gallinaypiglinzombie')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:gallinaypiglinzombie')
     offer.setVillagerExperience(25)
@@ -5503,23 +5497,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gallinaypiglinzombie')
+    offer.setOutput('moa_decor_toys:gallinayzombie')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gallinaypiglinzombie')
+    offer.setOutput('moa_decor_toys:gallinayzombie')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gallinaypiglinzombie')
+    offer.setOutput('moa_decor_toys:gallinayzombie')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:gallinayzombie')
     offer.setVillagerExperience(25)
@@ -5527,23 +5521,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gallinayzombie')
+    offer.setOutput('moa_decor_toys:gallinayzombiemomificado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gallinayzombie')
+    offer.setOutput('moa_decor_toys:gallinayzombiemomificado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gallinayzombie')
+    offer.setOutput('moa_decor_toys:gallinayzombiemomificado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:gallinayzombiemomificado')
     offer.setVillagerExperience(25)
@@ -5551,23 +5545,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gallinayzombiemomificado')
+    offer.setOutput('moa_decor_toys:gatoatigrado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gallinayzombiemomificado')
+    offer.setOutput('moa_decor_toys:gatoatigrado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gallinayzombiemomificado')
+    offer.setOutput('moa_decor_toys:gatoatigrado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:gatoatigrado')
     offer.setVillagerExperience(25)
@@ -5575,23 +5569,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gatoatigrado')
+    offer.setOutput('moa_decor_toys:gatoblanco')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gatoatigrado')
+    offer.setOutput('moa_decor_toys:gatoblanco')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gatoatigrado')
+    offer.setOutput('moa_decor_toys:gatoblanco')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:gatoblanco')
     offer.setVillagerExperience(25)
@@ -5599,23 +5593,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gatoblanco')
+    offer.setOutput('moa_decor_toys:gatobritanico')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gatoblanco')
+    offer.setOutput('moa_decor_toys:gatobritanico')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gatoblanco')
+    offer.setOutput('moa_decor_toys:gatobritanico')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:gatobritanico')
     offer.setVillagerExperience(25)
@@ -5623,23 +5617,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gatobritanico')
+    offer.setOutput('moa_decor_toys:gatocalico')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gatobritanico')
+    offer.setOutput('moa_decor_toys:gatocalico')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gatobritanico')
+    offer.setOutput('moa_decor_toys:gatocalico')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:gatocalico')
     offer.setVillagerExperience(25)
@@ -5647,23 +5641,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gatocalico')
+    offer.setOutput('moa_decor_toys:gatojellie')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gatocalico')
+    offer.setOutput('moa_decor_toys:gatojellie')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gatocalico')
+    offer.setOutput('moa_decor_toys:gatojellie')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:gatojellie')
     offer.setVillagerExperience(25)
@@ -5671,23 +5665,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gatojellie')
+    offer.setOutput('moa_decor_toys:gatonegro')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gatojellie')
+    offer.setOutput('moa_decor_toys:gatonegro')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gatojellie')
+    offer.setOutput('moa_decor_toys:gatonegro')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:gatonegro')
     offer.setVillagerExperience(25)
@@ -5695,23 +5689,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gatonegro')
+    offer.setOutput('moa_decor_toys:gatopersa')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gatonegro')
+    offer.setOutput('moa_decor_toys:gatopersa')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gatonegro')
+    offer.setOutput('moa_decor_toys:gatopersa')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:gatopersa')
     offer.setVillagerExperience(25)
@@ -5719,23 +5713,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gatopersa')
+    offer.setOutput('moa_decor_toys:gatoragdoll')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gatopersa')
+    offer.setOutput('moa_decor_toys:gatoragdoll')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gatopersa')
+    offer.setOutput('moa_decor_toys:gatoragdoll')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:gatoragdoll')
     offer.setVillagerExperience(25)
@@ -5743,23 +5737,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gatoragdoll')
+    offer.setOutput('moa_decor_toys:gatosiames')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gatoragdoll')
+    offer.setOutput('moa_decor_toys:gatosiames')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gatoragdoll')
+    offer.setOutput('moa_decor_toys:gatosiames')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:gatosiames')
     offer.setVillagerExperience(25)
@@ -5767,23 +5761,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gatosiames')
+    offer.setOutput('moa_decor_toys:gatotabby')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gatosiames')
+    offer.setOutput('moa_decor_toys:gatotabby')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gatosiames')
+    offer.setOutput('moa_decor_toys:gatotabby')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:gatotabby')
     offer.setVillagerExperience(25)
@@ -5791,23 +5785,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gatotabby')
+    offer.setOutput('moa_decor_toys:gatotuxedo')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gatotabby')
+    offer.setOutput('moa_decor_toys:gatotuxedo')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gatotabby')
+    offer.setOutput('moa_decor_toys:gatotuxedo')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:gatotuxedo')
     offer.setVillagerExperience(25)
@@ -5815,23 +5809,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gatotuxedo')
+    offer.setOutput('moa_decor_toys:ghast')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gatotuxedo')
+    offer.setOutput('moa_decor_toys:ghast')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:gatotuxedo')
+    offer.setOutput('moa_decor_toys:ghast')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ghast')
     offer.setVillagerExperience(25)
@@ -5839,23 +5833,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ghast')
+    offer.setOutput('moa_decor_toys:golemdehierro')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ghast')
+    offer.setOutput('moa_decor_toys:golemdehierro')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ghast')
+    offer.setOutput('moa_decor_toys:golemdehierro')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:golemdehierro')
     offer.setVillagerExperience(25)
@@ -5863,23 +5857,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:golemdehierro')
+    offer.setOutput('moa_decor_toys:golemdenieve')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:golemdehierro')
+    offer.setOutput('moa_decor_toys:golemdenieve')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:golemdehierro')
+    offer.setOutput('moa_decor_toys:golemdenieve')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:golemdenieve')
     offer.setVillagerExperience(25)
@@ -5887,23 +5881,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:golemdenieve')
+    offer.setOutput('moa_decor_toys:guardian')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:golemdenieve')
+    offer.setOutput('moa_decor_toys:guardian')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:golemdenieve')
+    offer.setOutput('moa_decor_toys:guardian')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:guardian')
     offer.setVillagerExperience(25)
@@ -5911,23 +5905,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:guardian')
+    offer.setOutput('moa_decor_toys:guardiananciano')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:guardian')
+    offer.setOutput('moa_decor_toys:guardiananciano')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:guardian')
+    offer.setOutput('moa_decor_toys:guardiananciano')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:guardiananciano')
     offer.setVillagerExperience(25)
@@ -5935,23 +5929,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:guardiananciano')
+    offer.setOutput('moa_decor_toys:hoglin')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:guardiananciano')
+    offer.setOutput('moa_decor_toys:hoglin')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:guardiananciano')
+    offer.setOutput('moa_decor_toys:hoglin')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:hoglin')
     offer.setVillagerExperience(25)
@@ -5959,23 +5953,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:hoglin')
+    offer.setOutput('moa_decor_toys:invocador')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:hoglin')
+    offer.setOutput('moa_decor_toys:invocador')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:hoglin')
+    offer.setOutput('moa_decor_toys:invocador')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:invocador')
     offer.setVillagerExperience(25)
@@ -5983,23 +5977,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:invocador')
+    offer.setOutput('moa_decor_toys:lavagante')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:invocador')
+    offer.setOutput('moa_decor_toys:lavagante')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:invocador')
+    offer.setOutput('moa_decor_toys:lavagante')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:lavagante')
     offer.setVillagerExperience(25)
@@ -6007,23 +6001,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:lavagante')
+    offer.setOutput('moa_decor_toys:lavaganteypiglinzombie')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:lavagante')
+    offer.setOutput('moa_decor_toys:lavaganteypiglinzombie')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:lavagante')
+    offer.setOutput('moa_decor_toys:lavaganteypiglinzombie')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:lavaganteypiglinzombie')
     offer.setVillagerExperience(25)
@@ -6031,23 +6025,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:lavaganteypiglinzombie')
+    offer.setOutput('moa_decor_toys:lepisma')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:lavaganteypiglinzombie')
+    offer.setOutput('moa_decor_toys:lepisma')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:lavaganteypiglinzombie')
+    offer.setOutput('moa_decor_toys:lepisma')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:lepisma')
     offer.setVillagerExperience(25)
@@ -6055,23 +6049,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:lepisma')
+    offer.setOutput('moa_decor_toys:llamablanca')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:lepisma')
+    offer.setOutput('moa_decor_toys:llamablanca')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:lepisma')
+    offer.setOutput('moa_decor_toys:llamablanca')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:llamablanca')
     offer.setVillagerExperience(25)
@@ -6079,23 +6073,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:llamablanca')
+    offer.setOutput('moa_decor_toys:llamacafe')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:llamablanca')
+    offer.setOutput('moa_decor_toys:llamacafe')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:llamablanca')
+    offer.setOutput('moa_decor_toys:llamacafe')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:llamacafe')
     offer.setVillagerExperience(25)
@@ -6103,23 +6097,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:llamacafe')
+    offer.setOutput('moa_decor_toys:llamacrema')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:llamacafe')
+    offer.setOutput('moa_decor_toys:llamacrema')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:llamacafe')
+    offer.setOutput('moa_decor_toys:llamacrema')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:llamacrema')
     offer.setVillagerExperience(25)
@@ -6127,23 +6121,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:llamacrema')
+    offer.setOutput('moa_decor_toys:llamagris')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:llamacrema')
+    offer.setOutput('moa_decor_toys:llamagris')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:llamacrema')
+    offer.setOutput('moa_decor_toys:llamagris')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:llamagris')
     offer.setVillagerExperience(25)
@@ -6151,23 +6145,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:llamagris')
+    offer.setOutput('moa_decor_toys:lobo')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:llamagris')
+    offer.setOutput('moa_decor_toys:lobo')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:llamagris')
+    offer.setOutput('moa_decor_toys:lobo')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:lobo')
     offer.setVillagerExperience(25)
@@ -6175,23 +6169,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:lobo')
+    offer.setOutput('moa_decor_toys:loroazul')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:lobo')
+    offer.setOutput('moa_decor_toys:loroazul')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:lobo')
+    offer.setOutput('moa_decor_toys:loroazul')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:loroazul')
     offer.setVillagerExperience(25)
@@ -6199,23 +6193,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:loroazul')
+    offer.setOutput('moa_decor_toys:lorocian')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:loroazul')
+    offer.setOutput('moa_decor_toys:lorocian')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:loroazul')
+    offer.setOutput('moa_decor_toys:lorocian')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:lorocian')
     offer.setVillagerExperience(25)
@@ -6223,23 +6217,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:lorocian')
+    offer.setOutput('moa_decor_toys:lorogris')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:lorocian')
+    offer.setOutput('moa_decor_toys:lorogris')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:lorocian')
+    offer.setOutput('moa_decor_toys:lorogris')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:lorogris')
     offer.setVillagerExperience(25)
@@ -6247,23 +6241,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:lorogris')
+    offer.setOutput('moa_decor_toys:lororojo')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:lorogris')
+    offer.setOutput('moa_decor_toys:lororojo')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:lorogris')
+    offer.setOutput('moa_decor_toys:lororojo')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:lororojo')
     offer.setVillagerExperience(25)
@@ -6271,23 +6265,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:lororojo')
+    offer.setOutput('moa_decor_toys:loroverde')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:lororojo')
+    offer.setOutput('moa_decor_toys:loroverde')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:lororojo')
+    offer.setOutput('moa_decor_toys:loroverde')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:loroverde')
     offer.setVillagerExperience(25)
@@ -6295,23 +6289,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:loroverde')
+    offer.setOutput('moa_decor_toys:mula')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:loroverde')
+    offer.setOutput('moa_decor_toys:mula')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:loroverde')
+    offer.setOutput('moa_decor_toys:mula')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:mula')
     offer.setVillagerExperience(25)
@@ -6319,23 +6313,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:mula')
+    offer.setOutput('moa_decor_toys:murcielago')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:mula')
+    offer.setOutput('moa_decor_toys:murcielago')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:mula')
+    offer.setOutput('moa_decor_toys:murcielago')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:murcielago')
     offer.setVillagerExperience(25)
@@ -6343,23 +6337,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:murcielago')
+    offer.setOutput('moa_decor_toys:ocelote')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:murcielago')
+    offer.setOutput('moa_decor_toys:ocelote')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:murcielago')
+    offer.setOutput('moa_decor_toys:ocelote')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ocelote')
     offer.setVillagerExperience(25)
@@ -6367,23 +6361,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ocelote')
+    offer.setOutput('moa_decor_toys:osopolar')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ocelote')
+    offer.setOutput('moa_decor_toys:osopolar')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ocelote')
+    offer.setOutput('moa_decor_toys:osopolar')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:osopolar')
     offer.setVillagerExperience(25)
@@ -6391,23 +6385,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:osopolar')
+    offer.setOutput('moa_decor_toys:ovejaamarilla')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:osopolar')
+    offer.setOutput('moa_decor_toys:ovejaamarilla')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:osopolar')
+    offer.setOutput('moa_decor_toys:ovejaamarilla')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ovejaamarilla')
     offer.setVillagerExperience(25)
@@ -6415,23 +6409,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejaamarilla')
+    offer.setOutput('moa_decor_toys:ovejaazul')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejaamarilla')
+    offer.setOutput('moa_decor_toys:ovejaazul')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejaamarilla')
+    offer.setOutput('moa_decor_toys:ovejaazul')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ovejaazul')
     offer.setVillagerExperience(25)
@@ -6439,23 +6433,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejaazul')
+    offer.setOutput('moa_decor_toys:ovejaazulclara')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejaazul')
+    offer.setOutput('moa_decor_toys:ovejaazulclara')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejaazul')
+    offer.setOutput('moa_decor_toys:ovejaazulclara')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ovejaazulclara')
     offer.setVillagerExperience(25)
@@ -6463,23 +6457,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejaazulclara')
+    offer.setOutput('moa_decor_toys:ovejablanca')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejaazulclara')
+    offer.setOutput('moa_decor_toys:ovejablanca')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejaazulclara')
+    offer.setOutput('moa_decor_toys:ovejablanca')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ovejablanca')
     offer.setVillagerExperience(25)
@@ -6487,23 +6481,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejablanca')
+    offer.setOutput('moa_decor_toys:ovejacafe')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejablanca')
+    offer.setOutput('moa_decor_toys:ovejacafe')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejablanca')
+    offer.setOutput('moa_decor_toys:ovejacafe')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ovejacafe')
     offer.setVillagerExperience(25)
@@ -6511,23 +6505,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejacafe')
+    offer.setOutput('moa_decor_toys:ovejacian')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejacafe')
+    offer.setOutput('moa_decor_toys:ovejacian')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejacafe')
+    offer.setOutput('moa_decor_toys:ovejacian')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ovejacian')
     offer.setVillagerExperience(25)
@@ -6535,23 +6529,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejacian')
+    offer.setOutput('moa_decor_toys:ovejagris')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejacian')
+    offer.setOutput('moa_decor_toys:ovejagris')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejacian')
+    offer.setOutput('moa_decor_toys:ovejagris')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ovejagris')
     offer.setVillagerExperience(25)
@@ -6559,23 +6553,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejagris')
+    offer.setOutput('moa_decor_toys:ovejagrisclara')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejagris')
+    offer.setOutput('moa_decor_toys:ovejagrisclara')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejagris')
+    offer.setOutput('moa_decor_toys:ovejagrisclara')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ovejagrisclara')
     offer.setVillagerExperience(25)
@@ -6583,23 +6577,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejagrisclara')
+    offer.setOutput('moa_decor_toys:ovejamagenta')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejagrisclara')
+    offer.setOutput('moa_decor_toys:ovejamagenta')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejagrisclara')
+    offer.setOutput('moa_decor_toys:ovejamagenta')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ovejamagenta')
     offer.setVillagerExperience(25)
@@ -6607,23 +6601,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejamagenta')
+    offer.setOutput('moa_decor_toys:ovejamorada')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejamagenta')
+    offer.setOutput('moa_decor_toys:ovejamorada')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejamagenta')
+    offer.setOutput('moa_decor_toys:ovejamorada')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ovejamorada')
     offer.setVillagerExperience(25)
@@ -6631,23 +6625,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejamorada')
+    offer.setOutput('moa_decor_toys:ovejanaranja')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejamorada')
+    offer.setOutput('moa_decor_toys:ovejanaranja')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejamorada')
+    offer.setOutput('moa_decor_toys:ovejanaranja')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ovejanaranja')
     offer.setVillagerExperience(25)
@@ -6655,23 +6649,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejanaranja')
+    offer.setOutput('moa_decor_toys:ovejanegra')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejanaranja')
+    offer.setOutput('moa_decor_toys:ovejanegra')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejanaranja')
+    offer.setOutput('moa_decor_toys:ovejanegra')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ovejanegra')
     offer.setVillagerExperience(25)
@@ -6679,23 +6673,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejanegra')
+    offer.setOutput('moa_decor_toys:ovejaroja')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejanegra')
+    offer.setOutput('moa_decor_toys:ovejaroja')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejanegra')
+    offer.setOutput('moa_decor_toys:ovejaroja')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ovejaroja')
     offer.setVillagerExperience(25)
@@ -6703,23 +6697,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejaroja')
+    offer.setOutput('moa_decor_toys:ovejarosa')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejaroja')
+    offer.setOutput('moa_decor_toys:ovejarosa')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejaroja')
+    offer.setOutput('moa_decor_toys:ovejarosa')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ovejarosa')
     offer.setVillagerExperience(25)
@@ -6727,23 +6721,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejarosa')
+    offer.setOutput('moa_decor_toys:ovejaverde')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejarosa')
+    offer.setOutput('moa_decor_toys:ovejaverde')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejarosa')
+    offer.setOutput('moa_decor_toys:ovejaverde')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ovejaverde')
     offer.setVillagerExperience(25)
@@ -6751,23 +6745,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejaverde')
+    offer.setOutput('moa_decor_toys:ovejaverdelima')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejaverde')
+    offer.setOutput('moa_decor_toys:ovejaverdelima')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejaverde')
+    offer.setOutput('moa_decor_toys:ovejaverdelima')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ovejaverdelima')
     offer.setVillagerExperience(25)
@@ -6775,23 +6769,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejaverdelima')
+    offer.setOutput('moa_decor_toys:panda')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejaverdelima')
+    offer.setOutput('moa_decor_toys:panda')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ovejaverdelima')
+    offer.setOutput('moa_decor_toys:panda')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:panda')
     offer.setVillagerExperience(25)
@@ -6799,23 +6793,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:panda')
+    offer.setOutput('moa_decor_toys:piglin')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:panda')
+    offer.setOutput('moa_decor_toys:piglin')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:panda')
+    offer.setOutput('moa_decor_toys:piglin')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:piglin')
     offer.setVillagerExperience(25)
@@ -6823,23 +6817,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:piglin')
+    offer.setOutput('moa_decor_toys:piglinbruto')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:piglin')
+    offer.setOutput('moa_decor_toys:piglinbruto')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:piglin')
+    offer.setOutput('moa_decor_toys:piglinbruto')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:piglinbruto')
     offer.setVillagerExperience(25)
@@ -6847,23 +6841,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:piglinbruto')
+    offer.setOutput('moa_decor_toys:piglinzombie')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:piglinbruto')
+    offer.setOutput('moa_decor_toys:piglinzombie')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:piglinbruto')
+    offer.setOutput('moa_decor_toys:piglinzombie')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:piglinzombie')
     offer.setVillagerExperience(25)
@@ -6871,23 +6865,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:piglinzombie')
+    offer.setOutput('moa_decor_toys:ranacalida')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:piglinzombie')
+    offer.setOutput('moa_decor_toys:ranacalida')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:piglinzombie')
+    offer.setOutput('moa_decor_toys:ranacalida')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ranacalida')
     offer.setVillagerExperience(25)
@@ -6895,23 +6889,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ranacalida')
+    offer.setOutput('moa_decor_toys:ranahelada')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ranacalida')
+    offer.setOutput('moa_decor_toys:ranahelada')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ranacalida')
+    offer.setOutput('moa_decor_toys:ranahelada')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ranahelada')
     offer.setVillagerExperience(25)
@@ -6919,23 +6913,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ranahelada')
+    offer.setOutput('moa_decor_toys:ranatemplada')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ranahelada')
+    offer.setOutput('moa_decor_toys:ranatemplada')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ranahelada')
+    offer.setOutput('moa_decor_toys:ranatemplada')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ranatemplada')
     offer.setVillagerExperience(25)
@@ -6943,23 +6937,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ranatemplada')
+    offer.setOutput('moa_decor_toys:saqueador')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ranatemplada')
+    offer.setOutput('moa_decor_toys:saqueador')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:ranatemplada')
+    offer.setOutput('moa_decor_toys:saqueador')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:saqueador')
     offer.setVillagerExperience(25)
@@ -6967,23 +6961,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:saqueador')
+    offer.setOutput('moa_decor_toys:shulker')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:saqueador')
+    offer.setOutput('moa_decor_toys:shulker')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:saqueador')
+    offer.setOutput('moa_decor_toys:shulker')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:shulker')
     offer.setVillagerExperience(25)
@@ -6991,23 +6985,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:shulker')
+    offer.setOutput('moa_decor_toys:slime')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:shulker')
+    offer.setOutput('moa_decor_toys:slime')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:shulker')
+    offer.setOutput('moa_decor_toys:slime')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:slime')
     offer.setVillagerExperience(25)
@@ -7015,23 +7009,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:slime')
+    offer.setOutput('moa_decor_toys:sniffer')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:slime')
+    offer.setOutput('moa_decor_toys:sniffer')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:slime')
+    offer.setOutput('moa_decor_toys:sniffer')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:sniffer')
     offer.setVillagerExperience(25)
@@ -7039,23 +7033,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:sniffer')
+    offer.setOutput('moa_decor_toys:steve')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:sniffer')
+    offer.setOutput('moa_decor_toys:steve')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:sniffer')
+    offer.setOutput('moa_decor_toys:steve')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:steve')
     offer.setVillagerExperience(25)
@@ -7063,23 +7057,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:steve')
+    offer.setOutput('moa_decor_toys:tortugamarina')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:steve')
+    offer.setOutput('moa_decor_toys:tortugamarina')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:steve')
+    offer.setOutput('moa_decor_toys:tortugamarina')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:tortugamarina')
     offer.setVillagerExperience(25)
@@ -7087,23 +7081,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:tortugamarina')
+    offer.setOutput('moa_decor_toys:vaca')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:tortugamarina')
+    offer.setOutput('moa_decor_toys:vaca')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:tortugamarina')
+    offer.setOutput('moa_decor_toys:vaca')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:vaca')
     offer.setVillagerExperience(25)
@@ -7111,23 +7105,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:vaca')
+    offer.setOutput('moa_decor_toys:vendedorambulante')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:vaca')
+    offer.setOutput('moa_decor_toys:vendedorambulante')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:vaca')
+    offer.setOutput('moa_decor_toys:vendedorambulante')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:vendedorambulante')
     offer.setVillagerExperience(25)
@@ -7135,23 +7129,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:vendedorambulante')
+    offer.setOutput('moa_decor_toys:vex')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:vendedorambulante')
+    offer.setOutput('moa_decor_toys:vex')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:vendedorambulante')
+    offer.setOutput('moa_decor_toys:vex')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:vex')
     offer.setVillagerExperience(25)
@@ -7159,23 +7153,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:vex')
+    offer.setOutput('moa_decor_toys:vindicador')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:vex')
+    offer.setOutput('moa_decor_toys:vindicador')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:vex')
+    offer.setOutput('moa_decor_toys:vindicador')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:vindicador')
     offer.setVillagerExperience(25)
@@ -7183,23 +7177,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:vindicador')
+    offer.setOutput('moa_decor_toys:warden')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:vindicador')
+    offer.setOutput('moa_decor_toys:warden')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:vindicador')
+    offer.setOutput('moa_decor_toys:warden')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:warden')
     offer.setVillagerExperience(25)
@@ -7207,23 +7201,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:warden')
+    offer.setOutput('moa_decor_toys:wither')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:warden')
+    offer.setOutput('moa_decor_toys:wither')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:warden')
+    offer.setOutput('moa_decor_toys:wither')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:wither')
     offer.setVillagerExperience(25)
@@ -7231,23 +7225,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:wither')
+    offer.setOutput('moa_decor_toys:zoglin')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:wither')
+    offer.setOutput('moa_decor_toys:zoglin')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:wither')
+    offer.setOutput('moa_decor_toys:zoglin')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:zoglin')
     offer.setVillagerExperience(25)
@@ -7255,23 +7249,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:zoglin')
+    offer.setOutput('moa_decor_toys:zombie')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:zoglin')
+    offer.setOutput('moa_decor_toys:zombie')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:zoglin')
+    offer.setOutput('moa_decor_toys:zombie')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:zombie')
     offer.setVillagerExperience(25)
@@ -7279,23 +7273,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:zombie')
+    offer.setOutput('moa_decor_toys:zombieahogado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:zombie')
+    offer.setOutput('moa_decor_toys:zombieahogado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:zombie')
+    offer.setOutput('moa_decor_toys:zombieahogado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:zombieahogado')
     offer.setVillagerExperience(25)
@@ -7303,23 +7297,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:zombieahogado')
+    offer.setOutput('moa_decor_toys:zombiemomificado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:zombieahogado')
+    offer.setOutput('moa_decor_toys:zombiemomificado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:zombieahogado')
+    offer.setOutput('moa_decor_toys:zombiemomificado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:zombiemomificado')
     offer.setVillagerExperience(25)
@@ -7327,23 +7321,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:zombiemomificado')
+    offer.setOutput('moa_decor_toys:zorro')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:zombiemomificado')
+    offer.setOutput('moa_decor_toys:zorro')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:zombiemomificado')
+    offer.setOutput('moa_decor_toys:zorro')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:zorro')
     offer.setVillagerExperience(25)
@@ -7351,23 +7345,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:zorro')
+    offer.setOutput('moa_decor_toys:zorroblanco')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:zorro')
+    offer.setOutput('moa_decor_toys:zorroblanco')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:zorro')
+    offer.setOutput('moa_decor_toys:zorroblanco')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:zorroblanco')
     offer.setVillagerExperience(25)
@@ -7375,23 +7369,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:zorroblanco')
+    offer.setOutput('playdate:dino')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:zorroblanco')
+    offer.setOutput('playdate:dino')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_toys:zorroblanco')
+    offer.setOutput('playdate:dino')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('playdate:dino')
     offer.setVillagerExperience(25)
@@ -7399,23 +7393,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('playdate:dino')
+    offer.setOutput('playdate:music_box')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('playdate:dino')
+    offer.setOutput('playdate:music_box')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('playdate:dino')
+    offer.setOutput('playdate:music_box')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('playdate:music_box')
     offer.setVillagerExperience(25)
@@ -7423,23 +7417,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('playdate:music_box')
+    offer.setOutput('playdate:piggy_bank')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('playdate:music_box')
+    offer.setOutput('playdate:piggy_bank')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('playdate:music_box')
+    offer.setOutput('playdate:piggy_bank')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('playdate:piggy_bank')
     offer.setVillagerExperience(25)
@@ -7447,23 +7441,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('playdate:piggy_bank')
+    offer.setOutput('playdate:ring_tower')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('playdate:piggy_bank')
+    offer.setOutput('playdate:ring_tower')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('playdate:piggy_bank')
+    offer.setOutput('playdate:ring_tower')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('playdate:ring_tower')
     offer.setVillagerExperience(25)
@@ -7471,23 +7465,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('playdate:ring_tower')
+    offer.setOutput('playdate:rocking_horse')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('playdate:ring_tower')
+    offer.setOutput('playdate:rocking_horse')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('playdate:ring_tower')
+    offer.setOutput('playdate:rocking_horse')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('playdate:rocking_horse')
     offer.setVillagerExperience(25)
@@ -7495,23 +7489,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('playdate:rocking_horse')
+    offer.setOutput('playdate:sock_monkey')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('playdate:rocking_horse')
+    offer.setOutput('playdate:sock_monkey')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('playdate:rocking_horse')
+    offer.setOutput('playdate:sock_monkey')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('playdate:sock_monkey')
     offer.setVillagerExperience(25)
@@ -7519,23 +7513,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('playdate:sock_monkey')
+    offer.setOutput('playdate:teddy_bear')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('playdate:sock_monkey')
+    offer.setOutput('playdate:teddy_bear')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('playdate:sock_monkey')
+    offer.setOutput('playdate:teddy_bear')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('playdate:teddy_bear')
     offer.setVillagerExperience(25)
@@ -7543,23 +7537,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('playdate:teddy_bear')
+    offer.setOutput('playdate:toy_bench')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('playdate:teddy_bear')
+    offer.setOutput('playdate:toy_bench')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('playdate:teddy_bear')
+    offer.setOutput('playdate:toy_bench')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('playdate:toy_bench')
     offer.setVillagerExperience(25)
@@ -7567,23 +7561,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('playdate:toy_bench')
+    offer.setOutput('playdate:toy_boat')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('playdate:toy_bench')
+    offer.setOutput('playdate:toy_boat')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('playdate:toy_bench')
+    offer.setOutput('playdate:toy_boat')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('playdate:toy_boat')
     offer.setVillagerExperience(25)
@@ -7591,23 +7585,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('playdate:toy_boat')
+    offer.setOutput('playdate:toy_clock')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('playdate:toy_boat')
+    offer.setOutput('playdate:toy_clock')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('playdate:toy_boat')
+    offer.setOutput('playdate:toy_clock')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('playdate:toy_clock')
     offer.setVillagerExperience(25)
@@ -7615,23 +7609,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('playdate:toy_clock')
+    offer.setOutput('playdate:toy_robot')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('playdate:toy_clock')
+    offer.setOutput('playdate:toy_robot')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('playdate:toy_clock')
+    offer.setOutput('playdate:toy_robot')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('playdate:toy_robot')
     offer.setVillagerExperience(25)
@@ -7639,23 +7633,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('playdate:toy_robot')
+    offer.setOutput('playdate:toy_train')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('playdate:toy_robot')
+    offer.setOutput('playdate:toy_train')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('playdate:toy_robot')
+    offer.setOutput('playdate:toy_train')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('playdate:toy_train')
     offer.setVillagerExperience(25)
@@ -7663,23 +7657,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('playdate:toy_train')
+    offer.setOutput('playdate:wooden_duck')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('playdate:toy_train')
+    offer.setOutput('playdate:wooden_duck')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('playdate:toy_train')
+    offer.setOutput('playdate:wooden_duck')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('playdate:wooden_duck')
     offer.setVillagerExperience(25)
@@ -7687,23 +7681,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('playdate:wooden_duck')
+    offer.setOutput('playdate:wooden_soldier')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('playdate:wooden_duck')
+    offer.setOutput('playdate:wooden_soldier')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('playdate:wooden_duck')
+    offer.setOutput('playdate:wooden_soldier')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('playdate:wooden_soldier')
     offer.setVillagerExperience(25)
@@ -7711,23 +7705,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('playdate:wooden_soldier')
+    offer.setOutput('handcrafted:bear_trophy')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('playdate:wooden_soldier')
+    offer.setOutput('handcrafted:bear_trophy')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('playdate:wooden_soldier')
+    offer.setOutput('handcrafted:bear_trophy')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('handcrafted:bear_trophy')
     offer.setVillagerExperience(25)
@@ -7735,23 +7729,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('handcrafted:bear_trophy')
+    offer.setOutput('handcrafted:blaze_trophy')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('handcrafted:bear_trophy')
+    offer.setOutput('handcrafted:blaze_trophy')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('handcrafted:bear_trophy')
+    offer.setOutput('handcrafted:blaze_trophy')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('handcrafted:blaze_trophy')
     offer.setVillagerExperience(25)
@@ -7759,23 +7753,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('handcrafted:blaze_trophy')
+    offer.setOutput('handcrafted:fox_trophy')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('handcrafted:blaze_trophy')
+    offer.setOutput('handcrafted:fox_trophy')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('handcrafted:blaze_trophy')
+    offer.setOutput('handcrafted:fox_trophy')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('handcrafted:fox_trophy')
     offer.setVillagerExperience(25)
@@ -7783,23 +7777,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('handcrafted:fox_trophy')
+    offer.setOutput('handcrafted:goat_trophy')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('handcrafted:fox_trophy')
+    offer.setOutput('handcrafted:goat_trophy')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('handcrafted:fox_trophy')
+    offer.setOutput('handcrafted:goat_trophy')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('handcrafted:goat_trophy')
     offer.setVillagerExperience(25)
@@ -7807,23 +7801,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('handcrafted:goat_trophy')
+    offer.setOutput('handcrafted:pufferfish_trophy')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('handcrafted:goat_trophy')
+    offer.setOutput('handcrafted:pufferfish_trophy')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('handcrafted:goat_trophy')
+    offer.setOutput('handcrafted:pufferfish_trophy')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('handcrafted:pufferfish_trophy')
     offer.setVillagerExperience(25)
@@ -7831,23 +7825,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('handcrafted:pufferfish_trophy')
+    offer.setOutput('handcrafted:salmon_trophy')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('handcrafted:pufferfish_trophy')
+    offer.setOutput('handcrafted:salmon_trophy')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('handcrafted:pufferfish_trophy')
+    offer.setOutput('handcrafted:salmon_trophy')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('handcrafted:salmon_trophy')
     offer.setVillagerExperience(25)
@@ -7855,23 +7849,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('handcrafted:salmon_trophy')
+    offer.setOutput('handcrafted:silverfish_trophy')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('handcrafted:salmon_trophy')
+    offer.setOutput('handcrafted:silverfish_trophy')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('handcrafted:salmon_trophy')
+    offer.setOutput('handcrafted:silverfish_trophy')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('handcrafted:silverfish_trophy')
     offer.setVillagerExperience(25)
@@ -7879,23 +7873,23 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('handcrafted:silverfish_trophy')
+    offer.setOutput('handcrafted:skeleton_horse_trophy')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('handcrafted:silverfish_trophy')
+    offer.setOutput('handcrafted:skeleton_horse_trophy')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('handcrafted:silverfish_trophy')
+    offer.setOutput('handcrafted:skeleton_horse_trophy')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('handcrafted:skeleton_horse_trophy')
     offer.setVillagerExperience(25)
@@ -7903,113 +7897,95 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('handcrafted:skeleton_horse_trophy')
+    offer.setOutput('handcrafted:spider_trophy')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('handcrafted:skeleton_horse_trophy')
+    offer.setOutput('handcrafted:spider_trophy')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('handcrafted:skeleton_horse_trophy')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
-    offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('handcrafted:spider_trophy')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
-    offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('handcrafted:spider_trophy')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
-    offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('handcrafted:spider_trophy')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
-    offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('handcrafted:spider_trophy')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
-    offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('handcrafted:tropical_fish_trophy')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
-    offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('handcrafted:tropical_fish_trophy')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
-    offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('handcrafted:tropical_fish_trophy')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
-    offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('handcrafted:tropical_fish_trophy')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
-    offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('handcrafted:wither_skeleton_trophy')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
-    offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('handcrafted:wither_skeleton_trophy')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
-    offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('handcrafted:wither_skeleton_trophy')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
-    offer.setFirstInput('8x kubejs:miles_ticket')
-    offer.setOutput('handcrafted:wither_skeleton_trophy')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+    offer.setFirstInput('8x kubejs:miles_ticket')
+    offer.setOutput('handcrafted:spider_trophy')
+    offer.setVillagerExperience(25)
+    offer.setPriceMultiplier(0.035)
+  })
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+    offer.setFirstInput('8x kubejs:miles_ticket')
+    offer.setOutput('handcrafted:tropical_fish_trophy')
+    offer.setVillagerExperience(25)
+    offer.setPriceMultiplier(0.035)
+  })
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+    offer.setFirstInput('8x kubejs:miles_ticket')
+    offer.setOutput('handcrafted:tropical_fish_trophy')
+    offer.setVillagerExperience(25)
+    offer.setPriceMultiplier(0.035)
+  })
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+    offer.setFirstInput('8x kubejs:miles_ticket')
+    offer.setOutput('handcrafted:tropical_fish_trophy')
+    offer.setVillagerExperience(25)
+    offer.setPriceMultiplier(0.035)
+  })
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+    offer.setFirstInput('8x kubejs:miles_ticket')
+    offer.setOutput('handcrafted:tropical_fish_trophy')
+    offer.setVillagerExperience(25)
+    offer.setPriceMultiplier(0.035)
+  })
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+    offer.setFirstInput('8x kubejs:miles_ticket')
+    offer.setOutput('handcrafted:wither_skeleton_trophy')
+    offer.setVillagerExperience(25)
+    offer.setPriceMultiplier(0.035)
+  })
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+    offer.setFirstInput('8x kubejs:miles_ticket')
+    offer.setOutput('handcrafted:wither_skeleton_trophy')
+    offer.setVillagerExperience(25)
+    offer.setPriceMultiplier(0.035)
+  })
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+    offer.setFirstInput('8x kubejs:miles_ticket')
+    offer.setOutput('handcrafted:wither_skeleton_trophy')
+    offer.setVillagerExperience(25)
+    offer.setPriceMultiplier(0.035)
+  })
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+    offer.setFirstInput('8x kubejs:miles_ticket')
+    offer.setOutput('handcrafted:wither_skeleton_trophy')
+    offer.setVillagerExperience(25)
+    offer.setPriceMultiplier(0.035)
+  })
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('handcrafted:wolf_trophy')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('handcrafted:wolf_trophy')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('handcrafted:wolf_trophy')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('8x kubejs:miles_ticket')
     offer.setOutput('handcrafted:wolf_trophy')
     offer.setVillagerExperience(25)
@@ -14473,1379 +14449,1373 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
-    offer.setOutput('moa_decor_holidays:gema_festividades')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
-    offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:jaula')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:lapida')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:lapida_cruz')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:leprechaun')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:leprechaunolladeoro')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:mariachiguitarra')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:mariachitrompeta')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:mariachiviolin')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:murcielagoabierto')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:murcielagocerrado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:p_galleta_jengibre')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:p_galleta_jengibre_n')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:p_oso_polar_n')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:pino_navideno')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:santa_claus')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:tumba')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:tumbaabierta')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:tumbaesqueleto')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:tumbaesqueletosentado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:zombieacostado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:zombieenterrado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_holidays:zombiesaliendotierra')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_science:bascula')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_science:botiquindepared')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_science:brujula')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_science:calculadora')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_science:frascodepildoras')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_science:frascodepildorasabierto')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_science:globoterraqueo')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_science:lectordesignosvitales')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_science:libro')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_science:libroabierto')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_science:libros')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_science:librosapilados')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_science:libroytintero')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_science:lupa')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_science:mapadeltesoro')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_science:microscopio')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_science:pizarra')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_science:telescopio')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_science:tintero')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_science:veneno')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:abeja')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ajoloteazul')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ajolotecafe')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ajolotecian')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ajolotedorado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ajoloterosa')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:aldeano')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:aldeanodesierto')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:aldeanoinvierno')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:aldeanopantano')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:aldeanosabana')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:aldeanotaiga')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:aleanozombie')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:alex')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:allay')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:arana')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:aranadelascuevas')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:aranayesqueleto')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:blaze')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:bruja')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:burro')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballoblanco')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballoblanco_h')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballocafe')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballocafe_c')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballocafe_h')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballocafe_m')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballocafe_r')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballocafeosc')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballocafeosc_c')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballocafeosc_h')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballocafeosc_m_1')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballocafeosc_r')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballocastano')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballocastano_c')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballocastano_h')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballocastano_m')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballocastano_r')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballocrema')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballocrema_c')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballocrema_h')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballocrema_m')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballocrema_r')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballoesqueleto')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballoesqueletoyesqueleto')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballogris')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballogris_c')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballogris_h')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballogris_m')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballogris_r')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballonegro')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballonegro_c')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballonegro_h')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballonegro_m')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:caballonegro_r')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:cabra')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:calamar')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:calamarbrillante')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:camello')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:cerdo')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:champivaca')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:conejoblanco')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:conejoblancoynegro')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:conejocafe')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:conejocastano')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:conejodorado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:conejonegro')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:creeper')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:cubodemagma')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:delfin')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:devastador')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:devastadorysaqueador')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:dragondelender')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:enderman')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:endermite')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:esqueleto')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:esqueletoglacial')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:esqueletowither')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:fantasma')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:gallina')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:gallinayahogado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:gallinayjinetealdeanozombie')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:gallinaypiglinzombie')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:gallinayzombie')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:gallinayzombiemomificado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:gatoatigrado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:gatoblanco')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:gatobritanico')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:gatocalico')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:gatojellie')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:gatonegro')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:gatopersa')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:gatoragdoll')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:gatosiames')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:gatotabby')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:gatotuxedo')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ghast')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:golemdehierro')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:golemdenieve')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:guardian')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:guardiananciano')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:hoglin')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:invocador')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:lavagante')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:lavaganteypiglinzombie')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:lepisma')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:llamablanca')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:llamacafe')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:llamacrema')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:llamagris')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:lobo')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:loroazul')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:lorocian')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:lorogris')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:lororojo')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:loroverde')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:mula')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:murcielago')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ocelote')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:osopolar')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ovejaamarilla')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ovejaazul')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ovejaazulclara')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ovejablanca')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ovejacafe')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ovejacian')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ovejagris')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ovejagrisclara')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ovejamagenta')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ovejamorada')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ovejanaranja')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ovejanegra')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ovejaroja')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ovejarosa')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ovejaverde')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ovejaverdelima')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:panda')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:piglin')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:piglinbruto')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:piglinzombie')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ranacalida')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ranahelada')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:ranatemplada')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:saqueador')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:shulker')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:slime')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:sniffer')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:steve')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:tortugamarina')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:vaca')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:vendedorambulante')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:vex')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:vindicador')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:warden')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:wither')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:zoglin')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:zombie')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:zombieahogado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:zombiemomificado')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:zorro')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('moa_decor_toys:zorroblanco')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('playdate:dino')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('playdate:music_box')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('playdate:piggy_bank')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('playdate:ring_tower')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('playdate:rocking_horse')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('playdate:sock_monkey')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('playdate:teddy_bear')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('playdate:toy_bench')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('playdate:toy_boat')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('playdate:toy_clock')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('playdate:toy_robot')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('playdate:toy_train')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('playdate:wooden_duck')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('playdate:wooden_soldier')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('handcrafted:bear_trophy')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('handcrafted:blaze_trophy')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('handcrafted:fox_trophy')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('handcrafted:goat_trophy')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('handcrafted:pufferfish_trophy')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('handcrafted:salmon_trophy')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('handcrafted:silverfish_trophy')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('handcrafted:skeleton_horse_trophy')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('handcrafted:spider_trophy')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 3, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('handcrafted:tropical_fish_trophy')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 4, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('handcrafted:wither_skeleton_trophy')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('non_wandering_trader:traveller', 2, (offer, entity, random) => {
+  event.addCustomTrade('non_wandering_trader:traveller', 1, (offer, entity, random) => {
     offer.setFirstInput('4x kubejs:miles_ticket')
     offer.setOutput('handcrafted:wolf_trophy')
     offer.setVillagerExperience(25)

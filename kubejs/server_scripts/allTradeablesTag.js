@@ -103,7 +103,6 @@ ServerEvents.tags('item', event => {
   event.add('forge:all_tradeables', 'moa_decor_holidays:esqueletosentado')
   event.add('forge:all_tradeables', 'moa_decor_holidays:estrella_navidena')
   event.add('forge:all_tradeables', 'moa_decor_holidays:fantasma')
-  event.add('forge:all_tradeables', 'moa_decor_holidays:gema_festividades')
   event.add('forge:all_tradeables', 'moa_decor_holidays:jaula')
   event.add('forge:all_tradeables', 'moa_decor_holidays:lapida')
   event.add('forge:all_tradeables', 'moa_decor_holidays:lapida_cruz')
