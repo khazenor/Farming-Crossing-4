@@ -41,7 +41,7 @@
 		{
 			dependencies: ["7CF35DAE02E4B6C0"]
 			description: [
-				"\"I'm so glad you came back for some cooking lessons! There are so many different food you can make in this region!\""
+				"\"Hi there, human!  I'm Pamela the Rabbit, hobbyist gardener and head chef of the Carrot Place!\n\nJess told me you are aspiring to be a great chef one day - that's wonderful! I'd be delighted to help you get started.\""
 				""
 				"- Pamela the Rabbit"
 				""
@@ -392,7 +392,7 @@
 		}
 		{
 			description: [
-				"\"Hello and welcome this new region!  Go forth and adventure!  The mile tickets are waiting!\""
+				"\"Hi, Jess the Beaver here!  Thank you for signing up for our new Adventurer's Settlement package.\nAn intrepid adventurer like yourself is sure to find all the thrills and delights you seek in this new land.\""
 				""
 				"- Jess the beaver"
 			]
@@ -422,7 +422,7 @@
 		{
 			dependencies: ["7CF35DAE02E4B6C0"]
 			description: [
-				"\"Ah, glad you see you are interested in fishing. I've just caught a great tuna recenty and I'm planning on using it for sushi at my restaurant\""
+				"\"This is Sam the Osprey.  I'm somewhat of a connoisseur of aquatic life, both in terms of natural history and consumption.  My life revolves around fish - I'm a sushi chef by day and a fisherman by night.\n\nWhen Jess told me you were considering a fishing career, I must say I was overjoyed.\nThe delight of capturing your own fish and eating it the same day -- the fresh fatty umami taste melting on your tongue with every bite -- is one of the greatest pleasures in life.\nAt least, that's how I see it.\n\nFish is all I eat, all that sustains me.\nI hope that you will come to understand my point of view, and perhaps embrace it with me.\""
 				""
 				"- Sam the osprey"
 				""
@@ -481,7 +481,7 @@
 		{
 			dependencies: ["7CF35DAE02E4B6C0"]
 			description: [
-				"\"Oh I can wait to go exploring the depths! If you ever find new minerals in the area, please let me know! The minerals of this area are perfect for a museum collection!\""
+				"\"Hi, hi! I'm Laly, Laly the Meerkat! I'm a geologist who loves caving, and a curator of the Oyster Creek Museum's gems and minerals exhibit.\n\nI spend A LOT of time underground. It's my happy place. But lately I haven't been able to get out in the field as much as I'd like, since work at the museum has been picking up.\n\nI was sooo jealous when Jess told me where she sent you. Lucky you! Turns out, the land is an absolute treasure trove for gems. Since you'll be finding a ton of gems while you mine, you wouldn't mind sending me some specimens for science, right? I can't wait to see what you find!\""
 				""
 				"- Laly the Meerkat"
 				""
@@ -699,7 +699,7 @@
 		{
 			dependencies: ["7CF35DAE02E4B6C0"]
 			description: [
-				"\"Making furniture? Simple. Find yourself some good materials and I'll help you from there\""
+				"\"I'm Woodpecker Ren...  Cutter of wood for many years... Making furniture? Simple. Find yourself some good materials and I'll help you from there\""
 				""
 				"- Ren the woodpecker"
 				""
@@ -708,7 +708,6 @@
 				"In this modpack you can convert materials to many furniture by using the sawmill or the stonecutter!"
 				""
 				"{image:khazenor:textures/sawmill/sawmill_tutorial.png width:180 height:80 align:1}"
-				""
 			]
 			hide: true
 			icon: "handcrafted:crimson_fancy_bed"
@@ -738,7 +737,7 @@
 		{
 			dependencies: ["7CF35DAE02E4B6C0"]
 			description: [
-				"\"There are so many animals in this region.  I can't wait to make a field book for all of them!\""
+				"\"G'day, I'm Andre the Dog! I've been farming since I was old enough to fill a trough.\n\nI'm retired now, but I must say, I'm enjoying it well enough. No losing sleep over managing the farm. No need to worry about logistics, the weather... I can focus my full attention on training my animals.\n\nThe other day, I taught my chicken Bessie to roll over. She's a smart one, that hen. I even have time to help out at the Oyster Creek Zoo every now and then.\""
 				""
 				"- Andre the dog"
 				""
@@ -975,7 +974,7 @@
 		{
 			dependencies: ["7CF35DAE02E4B6C0"]
 			description: [
-				"Ha! Love picking fruits in this new area! Nature's bounty is amazing and you should savor it with me by collecting all the flora!"
+				"I LOVE FRUITS! There are so many fruit trees here!\n\nOh, I'm Yukkie the Bat, by the way. You're an adventurer too?  Nice to meet you!\n\nThe world is my orchard. It can be yours too. Keep your eyes peeled, and you're bound to find nature's bounty on every branch and bough. Once you pick one - you'll be hooked!\n\nYou know, you can make a good living off just selling wild fruit and nuts. As for me, I'm happy just keeping them all for myself. Ha!"
 				""
 				"- Yukkie the bat"
 				""
@@ -1041,7 +1040,9 @@
 			rewards: [{
 				command: "/scoreboard players list @p"
 				elevate_perms: true
+				icon: "chiselsandbits:magnifying_glass"
 				id: "20088F80BE366761"
+				title: "Show Collection Progress in Chat"
 				type: "command"
 			}]
 			tasks: [{
