@@ -53,7 +53,7 @@ summon ssls_npc_maker_mod:npc ~ ~ ~ {
         maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
       }, {
         buy: {
-          id: "beachparty:coconut", Count: 4
+          id: "beachparty:coconut", Count: 8
         },
         sell: {
           id: "kubejs:miles_ticket", Count: 4
