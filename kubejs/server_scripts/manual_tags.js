@@ -109,8 +109,13 @@ ServerEvents.tags('item', event => {
   // event.add('forge:nutrients/sugars', [
   // ])
 
-  // event.add('forge:nutrients/carbs', [
-  // ])
+  event.add('forge:nutrients/carbs', [
+    'bakery:oat',
+    'bakery:dough',
+    'bakery:sweet_dough',
+    'candlelight:dough',
+    'create:dough'
+  ])
 
   event.add('forge:neighborly_spawn_eggs', [
     'neighborly:barrybear_spawn_egg',
