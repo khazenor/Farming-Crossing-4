@@ -116,7 +116,8 @@ ServerEvents.tags('item', event => {
     'bakery:dough',
     'bakery:sweet_dough',
     'candlelight:dough',
-    'create:dough'
+    'create:dough',
+    'bakery:blank_cake'
   ])
 
   event.add('forge:neighborly_spawn_eggs', [
