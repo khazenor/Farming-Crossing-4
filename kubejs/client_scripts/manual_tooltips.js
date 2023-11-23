@@ -64,4 +64,8 @@ ItemEvents.tooltip(event => {
   ], [
     '', 'Sam will buy this fish at a higher rate.'
   ])
+
+  event.add(['minecraft:saddle'], [
+    'You can purchase this item from Andre.'
+  ])
 })
