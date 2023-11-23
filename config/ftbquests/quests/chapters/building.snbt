@@ -73,6 +73,22 @@
 			x: 0.0d
 			y: -0.5d
 		}
+		{
+			description: [
+				"Cycle through placed paintings by right-clicking them with another painting in their right hand"
+				""
+				"Crouch to reverse the cycle order and go back a motive."
+			]
+			id: "561DC0121A563049"
+			tasks: [{
+				id: "631A96E5A253E03A"
+				item: "minecraft:painting"
+				type: "item"
+			}]
+			title: "Info: Painting Cycling"
+			x: 2.0d
+			y: -0.5d
+		}
 	]
 	title: "Building"
 }
