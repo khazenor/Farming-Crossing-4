@@ -70,7 +70,6 @@ possibleWoodFurniture = [
   "candlelight:broccoli",
   "candlelight:broccoli_beef",
   "candlelight:broccoli_salad",
-  "candlelight:broccoli_tomato",
   "candlelight:butter",
   "candlelight:cabinet",
   "candlelight:chair",
