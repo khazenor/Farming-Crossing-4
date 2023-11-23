@@ -81,8 +81,10 @@ ServerEvents.tags('item', event => {
   ])
 
   
-  // event.add('forge:nutrients/vegetables', [
-  // ])
+  event.add('forge:nutrients/vegetables', [
+    'candlelight:tomato',
+    'candlelight:lettuce'
+  ])
 
   // event.add('forge:nutrients/proteins', [
   // ])
