@@ -1,10 +1,15 @@
 0.6:
+  # Major changes
+  - add villager introduction to initial quest descriptions
+  - Neighborly villager move in kits available in the Market
+  - Fix Lettuce with tomatos, potatos and carrots not detecting in the cooking collection quests
+  - Make resourcepacks folder also act as a global datapack folder
+
+  # Minor changes
   - remove underminer spawns
   - remove mimic chest spawns
   - remove festive gem from Jess's decoration shop
   - updated many existing mods
-  - Neightborly villager move in kits available in the Market
-  - Fix Lettuce with tomatos, potatos and carrots not detecting in the cooking collection quests
   - change nutrition value of many bakery items to carbs instead of protein
   - add nether stems to Ren's trades
   - nerf Yukkies trade for coconuts
@@ -18,6 +23,10 @@
   - XaerosWorldMap
   - Neighborly
   - cyclepaintings
+
+  Resourcepacks/Datapacks added:
+  - SkyVillages-SupplementariesCompat
+  - SkyVillages-WaystonesCompat
 
 0.5:
   - add gem collection quests
