@@ -1,7 +1,5 @@
-from src import util
-import config
+from src import util, paths
 import os
-import shutil
 
 clientSideModNames = [
 	'badpackets',
@@ -48,17 +46,17 @@ def deployMods():
 	writeModlists()
 
 def deployToClients():
-	clientInsts = config.otherInsts + [config.configSrc]
+	print(' # Deploy Clients')
+	clientInsts = paths.otherInsts + [paths.configSrc]
 	for clientInst in clientInsts:
-		print(f' - {clientInst}')
 		util.copyFolder(
 			modsSrc(),
 			clientInst
 		)
 
 def deployToServers():
-	for serverInst in config.servers:
-		print(f' - server: {serverInst}')
+	print(' # Deploy Servers')
+	for serverInst in paths.servers:
 		serverModsFolder = instMods(serverInst)
 		util.removeExtraFilesRecur(
 			modsSrc(),
@@ -71,18 +69,19 @@ def deployToServers():
 		)
 
 def writeModlists():
-	writeMods(modlistFile, os.listdir(modsSrc()))
+	if len(paths.servers) > 0:
+		writeMods(modlistFile, os.listdir(modsSrc()))
 
-	exportServerMods = os.listdir(instMods(config.servers[0]))
-	writeMods(serverModlistFile, exportServerMods)
+		exportServerMods = os.listdir(instMods(paths.servers[0]))
+		writeMods(serverModlistFile, exportServerMods)
 
 def writeMods(filename, mods):
-	with open(os.path.join(config.configSrc, filename), "w") as f:
+	with open(os.path.join(paths.configSrc, filename), "w") as f:
 		for mod in mods:
 			f.write(f"{mod}\n")
 
 def modsSrc():
-	return instMods(config.modsSrc)
+	return instMods(paths.modsSrc)
 
 def instMods(inst):
 	return os.path.join(inst, modsFolder)

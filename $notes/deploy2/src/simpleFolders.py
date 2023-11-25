@@ -1,17 +1,16 @@
-import config
-import os
-from src import util
+from src import util, paths
+
 simpleFolders = [
 	'defaultconfigs',
 	'scripts'
 ]
 
 def deploySimpleFolders():
-	deployInsts = [ config.modsSrc ] + config.otherInsts + config.servers
+	deployInsts = [paths.modsSrc] + paths.otherInsts + paths.servers
 	for simpleFolder in simpleFolders:
 		print(f'## Deploying {simpleFolder} ...')
 		util.simpleDeploy(
-			config.configSrc,
+			paths.configSrc,
 			deployInsts,
 			simpleFolder
 		)

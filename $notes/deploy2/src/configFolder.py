@@ -1,5 +1,4 @@
-import config
-from src import util
+from src import util, paths
 import os
 
 clientConfigsToCopy = [
@@ -25,11 +24,11 @@ configFolderName = 'config'
 
 def deployConfigs():
 	print('## Deploying Configs ...')
-	deployInsts = [ config.modsSrc ] + config.otherInsts + config.servers
+	deployInsts = [paths.modsSrc] + paths.otherInsts + paths.servers
 	for deployInst in deployInsts:
 		deleteExtraConfigs(deployInst)
 		util.copyFolderRecur(
-			os.path.join(config.configSrc, configFolderName),
+			os.path.join(paths.configSrc, configFolderName),
 			deployInst,
 			denySubStrList=personalConfigs
 		)
@@ -37,7 +36,7 @@ def deployConfigs():
 def deleteExtraConfigs(deployInst):
 	for deleteFolder in foldersToDeleteExtrasFrom:
 		util.removeExtraFilesRecur(
-			os.path.join(config.configSrc, configFolderName, deleteFolder),
+			os.path.join(paths.configSrc, configFolderName, deleteFolder),
 			os.path.join(deployInst, configFolderName, deleteFolder)
 		)
 

@@ -5,6 +5,7 @@ from src import globalPacks
 from src import kubejs
 from src import resourcepacks
 from src import shaderpacks
+from src import selfDeploy
 
 def deployModpack():
 	mods.deployMods()
@@ -14,6 +15,4 @@ def deployModpack():
 	kubejs.deployKubejs()
 	resourcepacks.deployResourcepacks()
 	shaderpacks.deployShaderpacks()
-
-if __name__ == '__main__':
-	deployModpack()
+	selfDeploy.deploySelf()

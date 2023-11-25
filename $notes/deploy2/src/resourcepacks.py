@@ -1,5 +1,4 @@
-from src import util
-import config
+from src import util, paths
 import os
 
 resourcesNames = [
@@ -14,19 +13,19 @@ def deployResourcepacks():
 	copyServers()
 
 def copyClients():
-	print('# Updating clients')
-	deployInsts = config.otherInsts + [config.configSrc]
+	print(' # Updating clients')
+	deployInsts = paths.otherInsts + [paths.configSrc]
 	for deployInst in deployInsts:
 		util.copyFolderRecur(
-			os.path.join(config.modsSrc, resourceFolderName),
+			os.path.join(paths.modsSrc, resourceFolderName),
 			deployInst
 		)
 
 def copyServers():
-	print('# Updating servers')
-	for deployInst in config.servers:
+	print(' # Updating servers')
+	for deployInst in paths.servers:
 		util.copyFolderRecur(
-			os.path.join(config.modsSrc, resourceFolderName),
+			os.path.join(paths.modsSrc, resourceFolderName),
 			deployInst,
 			denySubStrList=resourcesNames
 		)

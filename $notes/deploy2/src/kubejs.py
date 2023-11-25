@@ -1,5 +1,4 @@
-from src import util
-import config
+from src import util, paths
 import os
 
 kubejsFolderName = 'kubejs'
@@ -9,15 +8,15 @@ clientFolders = [
 ]
 def deployKubejs():
 	print('## Deploying Kubejs ...')
-	clientInsts = [ config.modsSrc ] + config.otherInsts
-	for folder in os.listdir(os.path.join(config.configSrc, kubejsFolderName)):
-		print(f'# Copying {folder}')
+	clientInsts = [paths.modsSrc] + paths.otherInsts
+	for folder in os.listdir(os.path.join(paths.configSrc, kubejsFolderName)):
+		print(f' # Copying {folder}')
 		if folder in clientFolders:
 			deployInsts = clientInsts
 		else:
-			deployInsts = clientInsts + config.servers
+			deployInsts = clientInsts + paths.servers
 		util.simpleDeploy(
-			config.configSrc,
+			paths.configSrc,
 			deployInsts,
 			os.path.join(kubejsFolderName, folder)
 		)
