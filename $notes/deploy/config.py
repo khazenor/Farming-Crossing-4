@@ -61,9 +61,7 @@ def savedQuestFolder(location):
 	return os.path.join(location, 'local', 'ftbquests', 'saved')
 
 def allSubFolders():
-	return configFolders() + [
-		'global_packs'
-	]
+	return configFolders()
 
 def configFolders():
 	return reloadWhileRunningFolders() + [
@@ -74,8 +72,7 @@ def reloadWhileRunningFolders():
 	return [
 		'defaultconfigs',
 		'kubejs',
-		'scripts',
-		'global_packs'
+		'scripts'
 	]
 
 def clientSideModNames():
@@ -115,5 +112,4 @@ def clientSideModNames():
 
 def clientSideFolders():
 	return [
-		'global_packs\\required_resources'
 	]
