@@ -8,4 +8,4 @@ servers = []
 
 dropboxDeployScriptLoc = ''
 
-logFile = 'log.txt'
+logFile = ''

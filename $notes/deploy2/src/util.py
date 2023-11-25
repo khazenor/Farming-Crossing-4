@@ -1,6 +1,7 @@
 import os
 import shutil
 from pathlib import Path
+from src import log
 
 def simpleDeploy(srcInst, deployInsts, folderName):
 	for deployInst in deployInsts:
@@ -18,7 +19,7 @@ def simpleDeploy(srcInst, deployInsts, folderName):
 def copyFolder(src, dest, deleteExtraFiles=True):
 	folderName = Path(src).name
 	destFolderWName = os.path.join(dest, folderName)
-	print(f'   - Copy and Delete: {destFolderWName}')
+	log.log(f'   - Copy and Delete: {destFolderWName}')
 	copyFolderRecur(src, dest, doLog=False)
 	if deleteExtraFiles:
 		removeExtraFilesRecur(src, destFolderWName, doLog=False)
@@ -29,7 +30,7 @@ def copyFolderRecur(src, destFolder, denySubStrList=[], doLog=True):
 		existingDestFilePath = os.path.join(destFolder, srcName)
 		if not strContainsStrFromSubStrList(src, denySubStrList) and src != existingDestFilePath:
 			if doLog:
-				print(f'   - Copy: {existingDestFilePath}')
+				log.log(f'   - Copy: {existingDestFilePath}')
 			if os.path.isfile(src):
 				if Path(existingDestFilePath).is_file():
 					if os.stat(src).st_mtime - os.stat(existingDestFilePath).st_mtime > 0:
@@ -48,7 +49,7 @@ def removeExtraFilesRecur(src, dest, doLog=True):
 	if Path(dest).is_dir() and src != dest:
 		if Path(src).is_dir():
 			if doLog:
-				print(f'   - Delete Extra: {dest}')
+				log.log(f'   - Delete Extra: {dest}')
 			for item in os.listdir(dest):
 				destItemPath = os.path.join(dest, item)
 				srcItemPath = os.path.join(src, item)

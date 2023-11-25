@@ -1,4 +1,4 @@
-from src import util, paths
+from src import util, paths, log
 import os
 
 clientSideModNames = [
@@ -40,13 +40,13 @@ modlistFile = 'modlist.txt'
 serverModlistFile = 'serverModlist.txt'
 
 def deployMods():
-	print('## Deploying Mods...')
+	log.log('## Deploying Mods...')
 	deployToClients()
 	deployToServers()
 	writeModlists()
 
 def deployToClients():
-	print(' # Deploy Clients')
+	log.log(' # Deploy Clients')
 	clientInsts = paths.otherInsts + [paths.configSrc]
 	for clientInst in clientInsts:
 		util.copyFolder(
@@ -55,7 +55,7 @@ def deployToClients():
 		)
 
 def deployToServers():
-	print(' # Deploy Servers')
+	log.log(' # Deploy Servers')
 	for serverInst in paths.servers:
 		serverModsFolder = instMods(serverInst)
 		util.removeExtraFilesRecur(

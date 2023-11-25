@@ -1,4 +1,4 @@
-from src import util, paths
+from src import util, paths, log
 import os
 
 clientConfigsToCopy = [
@@ -23,7 +23,7 @@ personalConfigs = [
 configFolderName = 'config'
 
 def deployConfigs():
-	print('## Deploying Configs ...')
+	log.log('## Deploying Configs ...')
 	deployInsts = [paths.modsSrc] + paths.otherInsts + paths.servers
 	for deployInst in deployInsts:
 		deleteExtraConfigs(deployInst)

@@ -1,4 +1,4 @@
-from src import util, paths
+from src import util, paths, log
 import os
 
 kubejsFolderName = 'kubejs'
@@ -7,10 +7,10 @@ clientFolders = [
 	'client_scripts'
 ]
 def deployKubejs():
-	print('## Deploying Kubejs ...')
+	log.log('## Deploying Kubejs ...')
 	clientInsts = [paths.modsSrc] + paths.otherInsts
 	for folder in os.listdir(os.path.join(paths.configSrc, kubejsFolderName)):
-		print(f' # Copying {folder}')
+		log.log(f' # Copying {folder}')
 		if folder in clientFolders:
 			deployInsts = clientInsts
 		else:
