@@ -17,7 +17,6 @@ def copyClients():
 	print('# Updating clients')
 	deployInsts = config.otherInsts + [config.configSrc]
 	for deployInst in deployInsts:
-		print(f'- {deployInst}')
 		util.copyFolderRecur(
 			os.path.join(config.modsSrc, resourceFolderName),
 			deployInst
@@ -26,7 +25,6 @@ def copyClients():
 def copyServers():
 	print('# Updating servers')
 	for deployInst in config.servers:
-		print(f'- {deployInst}')
 		util.copyFolderRecur(
 			os.path.join(config.modsSrc, resourceFolderName),
 			deployInst,

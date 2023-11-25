@@ -27,7 +27,6 @@ def deployConfigs():
 	print('## Deploying Configs ...')
 	deployInsts = [ config.modsSrc ] + config.otherInsts + config.servers
 	for deployInst in deployInsts:
-		print(f'- {deployInst}')
 		deleteExtraConfigs(deployInst)
 		util.copyFolderRecur(
 			os.path.join(config.configSrc, configFolderName),

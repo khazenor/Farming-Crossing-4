@@ -4,7 +4,6 @@ from pathlib import Path
 
 def simpleDeploy(srcInst, deployInsts, folderName):
 	for deployInst in deployInsts:
-		print(f'- {deployInst}')
 		copyToFolder = os.path.join(
 			deployInst,
 			Path(folderName).parents[0]
@@ -17,17 +16,21 @@ def simpleDeploy(srcInst, deployInsts, folderName):
 		)
 
 def copyFolder(src, dest, deleteExtraFiles=True):
-	copyFolderRecur(src, dest)
+	folderName = Path(src).name
+	destFolderWName = os.path.join(dest, folderName)
+	print(f' - Copy and Delete: {destFolderWName}')
+	copyFolderRecur(src, dest, doLog=False)
 	if deleteExtraFiles:
-		folderName = Path(src).name
-		removeExtraFilesRecur(src, os.path.join(dest, folderName))
+		removeExtraFilesRecur(src, destFolderWName)
 
-def copyFolderRecur(src, destFolder, denySubStrList=[]):
-	if not strContainsStrFromSubStrList(src, denySubStrList):
-		if os.path.exists(src) and os.path.exists(destFolder):
-			srcName = Path(src).name
+def copyFolderRecur(src, destFolder, denySubStrList=[], doLog=True):
+	if os.path.exists(src) and os.path.exists(destFolder):
+		srcName = Path(src).name
+		existingDestFilePath = os.path.join(destFolder, srcName)
+		if not strContainsStrFromSubStrList(src, denySubStrList) and src != existingDestFilePath:
+			if doLog:
+				print(f' - Copy: {existingDestFilePath}')
 			if os.path.isfile(src):
-				existingDestFilePath = os.path.join(destFolder, srcName)
 				if Path(existingDestFilePath).is_file():
 					if os.stat(src).st_mtime - os.stat(existingDestFilePath).st_mtime > 0:
 						shutil.copy2(src, destFolder)
@@ -39,11 +42,13 @@ def copyFolderRecur(src, destFolder, denySubStrList=[]):
 					os.makedirs(newDestFolder)
 				itemsToCopy = os.listdir(src)
 				for itemToCopy in itemsToCopy:
-					copyFolderRecur(os.path.join(src, itemToCopy), newDestFolder, denySubStrList)
+					copyFolderRecur(os.path.join(src, itemToCopy), newDestFolder, denySubStrList, doLog=False)
 
-def removeExtraFilesRecur(src, dest):
-	if Path(dest).is_dir():
+def removeExtraFilesRecur(src, dest, doLog=True):
+	if Path(dest).is_dir() and src != dest:
 		if Path(src).is_dir():
+			if doLog:
+				print(f' - Delete Extra: {dest}')
 			for item in os.listdir(dest):
 				destItemPath = os.path.join(dest, item)
 				srcItemPath = os.path.join(src, item)
@@ -51,7 +56,7 @@ def removeExtraFilesRecur(src, dest):
 					if not os.path.exists(srcItemPath):
 						os.remove(destItemPath)
 				elif Path(destItemPath).is_dir():
-					removeExtraFilesRecur(srcItemPath, destItemPath)
+					removeExtraFilesRecur(srcItemPath, destItemPath, doLog=False)
 		else:
 			shutil.rmtree(dest)
 
