@@ -2,30 +2,44 @@ import os
 import shutil
 from pathlib import Path
 
-def copyFolder(src, dest, deleteExtraFiles=True):
-	destParent = Path(dest).parents[0]
-	copyFolderRecur(src, destParent)
-	if deleteExtraFiles:
-		removeExtraFilesRecur(src, dest)
+def simpleDeploy(srcInst, deployInsts, folderName):
+	for deployInst in deployInsts:
+		print(f'- {deployInst}')
+		copyToFolder = os.path.join(
+			deployInst,
+			Path(folderName).parents[0]
+		)
+		if not os.path.exists(copyToFolder):
+			os.mkdir(copyToFolder)
+		copyFolder(
+			os.path.join(srcInst, folderName),
+			copyToFolder
+		)
 
-def copyFolderRecur(src, destFolder):
-	if os.path.exists(src) and os.path.exists(destFolder):
-		srcName = Path(src).name
-		if os.path.isfile(src):
-			existingDestFilePath = os.path.join(destFolder, srcName)
-			if Path(existingDestFilePath).is_file():
-				if os.stat(src).st_mtime - os.stat(existingDestFilePath).st_mtime > 0:
+def copyFolder(src, dest, deleteExtraFiles=True):
+	copyFolderRecur(src, dest)
+	if deleteExtraFiles:
+		folderName = Path(src).name
+		removeExtraFilesRecur(src, os.path.join(dest, folderName))
+
+def copyFolderRecur(src, destFolder, denySubStrList=[]):
+	if not strContainsStrFromSubStrList(src, denySubStrList):
+		if os.path.exists(src) and os.path.exists(destFolder):
+			srcName = Path(src).name
+			if os.path.isfile(src):
+				existingDestFilePath = os.path.join(destFolder, srcName)
+				if Path(existingDestFilePath).is_file():
+					if os.stat(src).st_mtime - os.stat(existingDestFilePath).st_mtime > 0:
+						shutil.copy2(src, destFolder)
+				else:
 					shutil.copy2(src, destFolder)
 			else:
-				shutil.copy2(src, destFolder)
-		else:
-			newDestFolder = os.path.join(destFolder, srcName)
-			if not os.path.exists(newDestFolder):
-				os.makedirs(newDestFolder)
-			itemsToCopy = os.listdir(src)
-			for itemToCopy in itemsToCopy:
-				copyFolderRecur(os.path.join(src, itemToCopy), newDestFolder)
-			pass
+				newDestFolder = os.path.join(destFolder, srcName)
+				if not os.path.exists(newDestFolder):
+					os.makedirs(newDestFolder)
+				itemsToCopy = os.listdir(src)
+				for itemToCopy in itemsToCopy:
+					copyFolderRecur(os.path.join(src, itemToCopy), newDestFolder, denySubStrList)
 
 def removeExtraFilesRecur(src, dest):
 	if Path(dest).is_dir():

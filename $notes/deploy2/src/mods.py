@@ -53,40 +53,25 @@ def deployToClients():
 		print(f' - {clientInst}')
 		util.copyFolder(
 			modsSrc(),
-			instMods(clientInst)
+			clientInst
 		)
 
 def deployToServers():
 	for serverInst in config.servers:
 		print(f' - server: {serverInst}')
-		deleteExtraMods(serverInst)
-		copyOverMods(serverInst)
-
-def deleteExtraMods(serverInst):
-	serverModsCache = serverMods()
-	serverModsFolder = instMods(serverInst)
-	for mod in os.listdir(serverModsFolder):
-		if mod not in serverModsCache:
-			os.remove(os.path.join(
-				serverModsFolder, mod
-			))
-
-def copyOverMods(serverInst):
-	for mod in serverMods():
-		shutil.copy2(
-			os.path.join(modsSrc(), mod),
-			instMods(serverInst)
+		serverModsFolder = instMods(serverInst)
+		util.removeExtraFilesRecur(
+			modsSrc(),
+			serverModsFolder
+		)
+		util.copyFolderRecur(
+			modsSrc(),
+			serverInst,
+			denySubStrList=clientSideModNames
 		)
 
-def serverMods():
-	mods = []
-	for mod in modsSrcMods():
-		if not util.strContainsStrFromSubStrList(mod, clientSideModNames):
-			mods.append(mod)
-	return mods
-
 def writeModlists():
-	writeMods(modlistFile, modsSrcMods())
+	writeMods(modlistFile, os.listdir(modsSrc()))
 
 	exportServerMods = os.listdir(instMods(config.servers[0]))
 	writeMods(serverModlistFile, exportServerMods)
@@ -96,8 +81,6 @@ def writeMods(filename, mods):
 		for mod in mods:
 			f.write(f"{mod}\n")
 
-def modsSrcMods():
-	return os.listdir(modsSrc())
 def modsSrc():
 	return instMods(config.modsSrc)
 
