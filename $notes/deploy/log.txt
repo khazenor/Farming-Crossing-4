@@ -1,0 +1,94 @@
+## Deploying Mods...
+ # Deploy Clients
+   - Copy and Delete: D:\Lee\Dropbox\Share\FarmingCrossing4\install\mods
+   - Copy and Delete: D:\Lee\Minecraft\MultiMC\instances\Farming Crossing 4\.minecraft\mods
+ # Deploy Servers
+   - Delete Extra: D:\Lee\Minecraft\MultiMC\instances\Farming Crossing 4\.minecraft\$notes\server\Farming Crossing 4 Server\mods
+   - Copy: D:\Lee\Minecraft\MultiMC\instances\Farming Crossing 4\.minecraft\$notes\server\Farming Crossing 4 Server\mods
+   - Delete Extra: D:\Lee\Minecraft\MultiMC\instances\Farming Crossing 4\.minecraft\$notes\server\TestingServer\mods
+   - Copy: D:\Lee\Minecraft\MultiMC\instances\Farming Crossing 4\.minecraft\$notes\server\TestingServer\mods
+   - Delete Extra: D:\Lee\Minecraft\MultiMC\instances\Farming Crossing 4\.minecraft\$notes\server\WilsonServer\mods
+   - Copy: D:\Lee\Minecraft\MultiMC\instances\Farming Crossing 4\.minecraft\$notes\server\WilsonServer\mods
+## Deploying Configs ...
+   - Delete Extra: D:\Lee\Minecraft\Twitch\Instances\1.20.1_FarmingCrossing4\config\ftbquests
+   - Copy: D:\Lee\Minecraft\Twitch\Instances\1.20.1_FarmingCrossing4\config
+   - Delete Extra: D:\Lee\Dropbox\Share\FarmingCrossing4\install\config\ftbquests
+   - Copy: D:\Lee\Dropbox\Share\FarmingCrossing4\install\config
+   - Delete Extra: D:\Lee\Minecraft\MultiMC\instances\Farming Crossing 4\.minecraft\$notes\server\Farming Crossing 4 Server\config\ftbquests
+   - Copy: D:\Lee\Minecraft\MultiMC\instances\Farming Crossing 4\.minecraft\$notes\server\Farming Crossing 4 Server\config
+   - Delete Extra: D:\Lee\Minecraft\MultiMC\instances\Farming Crossing 4\.minecraft\$notes\server\TestingServer\config\ftbquests
+   - Copy: D:\Lee\Minecraft\MultiMC\instances\Farming Crossing 4\.minecraft\$notes\server\TestingServer\config
+   - Delete Extra: D:\Lee\Minecraft\MultiMC\instances\Farming Crossing 4\.minecraft\$notes\server\WilsonServer\config\ftbquests
+   - Copy: D:\Lee\Minecraft\MultiMC\instances\Farming Crossing 4\.minecraft\$notes\server\WilsonServer\config
+## Deploying defaultconfigs ...
+   - Copy and Delete: D:\Lee\Minecraft\Twitch\Instances\1.20.1_FarmingCrossing4\.\defaultconfigs
+   - Copy and Delete: D:\Lee\Dropbox\Share\FarmingCrossing4\install\.\defaultconfigs
+   - Copy and Delete: D:\Lee\Minecraft\MultiMC\instances\Farming Crossing 4\.minecraft\$notes\server\Farming Crossing 4 Server\.\defaultconfigs
+   - Copy and Delete: D:\Lee\Minecraft\MultiMC\instances\Farming Crossing 4\.minecraft\$notes\server\TestingServer\.\defaultconfigs
+   - Copy and Delete: D:\Lee\Minecraft\MultiMC\instances\Farming Crossing 4\.minecraft\$notes\server\WilsonServer\.\defaultconfigs
+## Deploying scripts ...
+   - Copy and Delete: D:\Lee\Minecraft\Twitch\Instances\1.20.1_FarmingCrossing4\.\scripts
+   - Copy and Delete: D:\Lee\Dropbox\Share\FarmingCrossing4\install\.\scripts
+   - Copy and Delete: D:\Lee\Minecraft\MultiMC\instances\Farming Crossing 4\.minecraft\$notes\server\Farming Crossing 4 Server\.\scripts
+   - Copy and Delete: D:\Lee\Minecraft\MultiMC\instances\Farming Crossing 4\.minecraft\$notes\server\TestingServer\.\scripts
+   - Copy and Delete: D:\Lee\Minecraft\MultiMC\instances\Farming Crossing 4\.minecraft\$notes\server\WilsonServer\.\scripts
+## Deploying Global Packs
+ # Copying Global Datapacks
+   - Copy and Delete: D:\Lee\Minecraft\Twitch\Instances\1.20.1_FarmingCrossing4\global_packs\required_data
+   - Copy and Delete: D:\Lee\Dropbox\Share\FarmingCrossing4\install\global_packs\required_data
+   - Copy and Delete: D:\Lee\Minecraft\MultiMC\instances\Farming Crossing 4\.minecraft\$notes\server\Farming Crossing 4 Server\global_packs\required_data
+   - Copy and Delete: D:\Lee\Minecraft\MultiMC\instances\Farming Crossing 4\.minecraft\$notes\server\TestingServer\global_packs\required_data
+   - Copy and Delete: D:\Lee\Minecraft\MultiMC\instances\Farming Crossing 4\.minecraft\$notes\server\WilsonServer\global_packs\required_data
+ # Copying Global Resources
+   - Copy and Delete: D:\Lee\Minecraft\Twitch\Instances\1.20.1_FarmingCrossing4\global_packs\required_resources
+   - Copy and Delete: D:\Lee\Dropbox\Share\FarmingCrossing4\install\global_packs\required_resources
+## Deploying Kubejs ...
+ # Copying assets
+   - Copy and Delete: D:\Lee\Minecraft\Twitch\Instances\1.20.1_FarmingCrossing4\kubejs\assets
+   - Copy and Delete: D:\Lee\Dropbox\Share\FarmingCrossing4\install\kubejs\assets
+ # Copying client_scripts
+   - Copy and Delete: D:\Lee\Minecraft\Twitch\Instances\1.20.1_FarmingCrossing4\kubejs\client_scripts
+   - Copy and Delete: D:\Lee\Dropbox\Share\FarmingCrossing4\install\kubejs\client_scripts
+ # Copying config
+   - Copy and Delete: D:\Lee\Minecraft\Twitch\Instances\1.20.1_FarmingCrossing4\kubejs\config
+   - Copy and Delete: D:\Lee\Dropbox\Share\FarmingCrossing4\install\kubejs\config
+   - Copy and Delete: D:\Lee\Minecraft\MultiMC\instances\Farming Crossing 4\.minecraft\$notes\server\Farming Crossing 4 Server\kubejs\config
+   - Copy and Delete: D:\Lee\Minecraft\MultiMC\instances\Farming Crossing 4\.minecraft\$notes\server\TestingServer\kubejs\config
+   - Copy and Delete: D:\Lee\Minecraft\MultiMC\instances\Farming Crossing 4\.minecraft\$notes\server\WilsonServer\kubejs\config
+ # Copying data
+   - Copy and Delete: D:\Lee\Minecraft\Twitch\Instances\1.20.1_FarmingCrossing4\kubejs\data
+   - Copy and Delete: D:\Lee\Dropbox\Share\FarmingCrossing4\install\kubejs\data
+   - Copy and Delete: D:\Lee\Minecraft\MultiMC\instances\Farming Crossing 4\.minecraft\$notes\server\Farming Crossing 4 Server\kubejs\data
+   - Copy and Delete: D:\Lee\Minecraft\MultiMC\instances\Farming Crossing 4\.minecraft\$notes\server\TestingServer\kubejs\data
+   - Copy and Delete: D:\Lee\Minecraft\MultiMC\instances\Farming Crossing 4\.minecraft\$notes\server\WilsonServer\kubejs\data
+ # Copying README.txt
+   - Copy and Delete: D:\Lee\Minecraft\Twitch\Instances\1.20.1_FarmingCrossing4\kubejs\README.txt
+   - Copy and Delete: D:\Lee\Dropbox\Share\FarmingCrossing4\install\kubejs\README.txt
+   - Copy and Delete: D:\Lee\Minecraft\MultiMC\instances\Farming Crossing 4\.minecraft\$notes\server\Farming Crossing 4 Server\kubejs\README.txt
+   - Copy and Delete: D:\Lee\Minecraft\MultiMC\instances\Farming Crossing 4\.minecraft\$notes\server\TestingServer\kubejs\README.txt
+   - Copy and Delete: D:\Lee\Minecraft\MultiMC\instances\Farming Crossing 4\.minecraft\$notes\server\WilsonServer\kubejs\README.txt
+ # Copying server_scripts
+   - Copy and Delete: D:\Lee\Minecraft\Twitch\Instances\1.20.1_FarmingCrossing4\kubejs\server_scripts
+   - Copy and Delete: D:\Lee\Dropbox\Share\FarmingCrossing4\install\kubejs\server_scripts
+   - Copy and Delete: D:\Lee\Minecraft\MultiMC\instances\Farming Crossing 4\.minecraft\$notes\server\Farming Crossing 4 Server\kubejs\server_scripts
+   - Copy and Delete: D:\Lee\Minecraft\MultiMC\instances\Farming Crossing 4\.minecraft\$notes\server\TestingServer\kubejs\server_scripts
+   - Copy and Delete: D:\Lee\Minecraft\MultiMC\instances\Farming Crossing 4\.minecraft\$notes\server\WilsonServer\kubejs\server_scripts
+ # Copying startup_scripts
+   - Copy and Delete: D:\Lee\Minecraft\Twitch\Instances\1.20.1_FarmingCrossing4\kubejs\startup_scripts
+   - Copy and Delete: D:\Lee\Dropbox\Share\FarmingCrossing4\install\kubejs\startup_scripts
+   - Copy and Delete: D:\Lee\Minecraft\MultiMC\instances\Farming Crossing 4\.minecraft\$notes\server\Farming Crossing 4 Server\kubejs\startup_scripts
+   - Copy and Delete: D:\Lee\Minecraft\MultiMC\instances\Farming Crossing 4\.minecraft\$notes\server\TestingServer\kubejs\startup_scripts
+   - Copy and Delete: D:\Lee\Minecraft\MultiMC\instances\Farming Crossing 4\.minecraft\$notes\server\WilsonServer\kubejs\startup_scripts
+## Deploy Resourcepacks ... 
+ # Updating clients
+   - Copy: D:\Lee\Dropbox\Share\FarmingCrossing4\install\resourcepacks
+   - Copy: D:\Lee\Minecraft\MultiMC\instances\Farming Crossing 4\.minecraft\resourcepacks
+ # Updating servers
+   - Copy: D:\Lee\Minecraft\MultiMC\instances\Farming Crossing 4\.minecraft\$notes\server\Farming Crossing 4 Server\resourcepacks
+   - Copy: D:\Lee\Minecraft\MultiMC\instances\Farming Crossing 4\.minecraft\$notes\server\TestingServer\resourcepacks
+   - Copy: D:\Lee\Minecraft\MultiMC\instances\Farming Crossing 4\.minecraft\$notes\server\WilsonServer\resourcepacks
+Deploying shaderpacks ...
+   - Copy: D:\Lee\Dropbox\Share\FarmingCrossing4\install\shaderpacks
+   - Copy: D:\Lee\Minecraft\MultiMC\instances\Farming Crossing 4\.minecraft\shaderpacks
+## Deploy Self ...
+   - Copy and Delete: D:\Lee\Dropbox\Share\FarmingCrossing4\deployScript\src
