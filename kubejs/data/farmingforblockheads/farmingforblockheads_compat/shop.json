@@ -52,6 +52,10 @@
       "payment": {"item": "kubejs:miles_ticket", "count": 6}, 
       "category": "shop"
     },{
+      "output": { "item": "minecraft:chorus_fruit" },
+      "payment": {"item": "kubejs:miles_ticket", "count": 8}, 
+      "category": "shop"
+    },{
       "output": { "item": "create:blaze_burner" },
       "payment": {"item": "kubejs:miles_ticket", "count": 32}, 
       "category": "shop"
