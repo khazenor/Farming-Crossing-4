@@ -5,7 +5,7 @@
         id: "minecraft:melon_slice", Count: 64
       },
       sell: {
-        id: "kubejs:miles_ticket", Count: 4
+        id: "kubejs:miles_ticket", Count: 1
       },
       maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
     }, {
@@ -13,7 +13,55 @@
         id: "minecraft:apple", Count: 64
       },
       sell: {
-        id: "kubejs:miles_ticket", Count: 4
+        id: "kubejs:miles_ticket", Count: 1
+      },
+      maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
+    }, {
+      buy: {
+        id: "vinery:jungle_grapes_red", Count: 64
+      },
+      sell: {
+        id: "kubejs:miles_ticket", Count: 1
+      },
+      maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
+    }, {
+      buy: {
+        id: "vinery:jungle_grapes_white", Count: 64
+      },
+      sell: {
+        id: "kubejs:miles_ticket", Count: 1
+      },
+      maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
+    }, {
+      buy: {
+        id: "vinery:savanna_grapes_red", Count: 64
+      },
+      sell: {
+        id: "kubejs:miles_ticket", Count: 1
+      },
+      maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
+    }, {
+      buy: {
+        id: "vinery:savanna_grapes_white", Count: 64
+      },
+      sell: {
+        id: "kubejs:miles_ticket", Count: 1
+      },
+      maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
+    }, {
+      buy: {
+        id: "vinery:taiga_grapes_red", Count: 64
+      },
+      sell: {
+        id: "kubejs:miles_ticket", Count: 1
+      },
+      maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
+    }, {
+      buy: {
+        id: "vinery:taiga_grapes_white", Count: 64
+      },
+      sell: {
+        id: "kubejs:miles_ticket", Count: 1
       },
       maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
     }, {
@@ -21,7 +69,7 @@
         id: "minecraft:sweet_berries", Count: 32
       },
       sell: {
-        id: "kubejs:miles_ticket", Count: 4
+        id: "kubejs:miles_ticket", Count: 1
       },
       maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
     }, {
@@ -29,7 +77,7 @@
         id: "bakery:strawberry", Count: 32
       },
       sell: {
-        id: "kubejs:miles_ticket", Count: 4
+        id: "kubejs:miles_ticket", Count: 1
       },
       maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
     }, {
@@ -37,7 +85,7 @@
         id: "minecraft:pumpkin", Count: 16
       },
       sell: {
-        id: "kubejs:miles_ticket", Count: 4
+        id: "kubejs:miles_ticket", Count: 1
       },
       maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
     }, {
@@ -45,7 +93,7 @@
         id: "alexsmobs:banana", Count: 8
       },
       sell: {
-        id: "kubejs:miles_ticket", Count: 4
+        id: "kubejs:miles_ticket", Count: 1
       },
       maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
     }, {
@@ -53,7 +101,7 @@
         id: "beachparty:coconut", Count: 8
       },
       sell: {
-        id: "kubejs:miles_ticket", Count: 4
+        id: "kubejs:miles_ticket", Count: 1
       },
       maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
     }, {
@@ -61,7 +109,7 @@
         id: "minecraft:glow_berries", Count: 4
       },
       sell: {
-        id: "kubejs:miles_ticket", Count: 4
+        id: "kubejs:miles_ticket", Count: 1
       },
       maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
     }
