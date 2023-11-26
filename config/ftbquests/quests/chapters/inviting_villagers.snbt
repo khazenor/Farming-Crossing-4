@@ -523,6 +523,7 @@
 			id: "72A8820CE32DF938"
 			rewards: [{
 				command: "/function farming_crossing:jess_highlight"
+				elevate_perms: true
 				id: "0319AD50864A791D"
 				title: "Highlight Jess for 30 seconds"
 				type: "command"
@@ -542,6 +543,7 @@
 			id: "512BADF33A088EBA"
 			rewards: [{
 				command: "/function farming_crossing:andre_update_trades"
+				elevate_perms: true
 				id: "0EDEB814B1EE2B5C"
 				title: "Highlight Andre for 30 seconds and update their trades"
 				type: "command"
@@ -561,6 +563,7 @@
 			id: "411A015BA96920ED"
 			rewards: [{
 				command: "/function farming_crossing:laly_update_trades"
+				elevate_perms: true
 				id: "6EF660D9CBDFE771"
 				title: "Highlight Laly for 30 seconds and update their trades"
 				type: "command"
@@ -580,6 +583,7 @@
 			id: "0AC907ED825810E1"
 			rewards: [{
 				command: "/function farming_crossing:pamela_update_trades"
+				elevate_perms: true
 				id: "2B45C52637D9F49E"
 				title: "Highlight Pamela for 30 seconds and update their trades"
 				type: "command"
@@ -599,6 +603,7 @@
 			id: "767DD13CDF3F90D1"
 			rewards: [{
 				command: "/function farming_crossing:ren_update_trades"
+				elevate_perms: true
 				id: "525C1E20E25B3B56"
 				title: "Highlight Ren for 30 seconds and update their trades"
 				type: "command"
@@ -618,6 +623,7 @@
 			id: "3FC799C7A2A8C9ED"
 			rewards: [{
 				command: "/function farming_crossing:sam_update_trades"
+				elevate_perms: true
 				id: "5F367A1FF3C0B858"
 				title: "Highlight Sam for 30 seconds and update their trades"
 				type: "command"
@@ -637,6 +643,7 @@
 			id: "642BFEA807DA5610"
 			rewards: [{
 				command: "/function farming_crossing:yukkie_update_trades"
+				elevate_perms: true
 				id: "7597F07ED15F2F0F"
 				title: "Highlight Yukkie for 30 seconds and update their trades"
 				type: "command"
