@@ -11,3 +11,7 @@ https://minecraft.wiki/w/Function_(Java_Edition)
 
 future note:
   - paxi: for global packs
+
+
+highlight npcs:
+/execute at @p if entity @e[type=ssls_npc_maker_mod:npc] run effect give @e[type=ssls_npc_maker_mod:npc] minecraft:glowing 10 1 true
