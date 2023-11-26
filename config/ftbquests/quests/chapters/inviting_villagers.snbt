@@ -541,9 +541,9 @@
 			icon: "chiselsandbits:magnifying_glass"
 			id: "512BADF33A088EBA"
 			rewards: [{
-				command: "/function farming_crossing:andre_highlight"
+				command: "/function farming_crossing:andre_update_trades"
 				id: "0EDEB814B1EE2B5C"
-				title: "Highlight Andre for 30 seconds"
+				title: "Highlight Andre for 30 seconds and update their trades"
 				type: "command"
 			}]
 			tasks: [{
@@ -560,9 +560,9 @@
 			icon: "chiselsandbits:magnifying_glass"
 			id: "411A015BA96920ED"
 			rewards: [{
-				command: "/function farming_crossing:laly_highlight"
+				command: "/function farming_crossing:laly_update_trades"
 				id: "6EF660D9CBDFE771"
-				title: "Highlight Laly for 30 seconds"
+				title: "Highlight Laly for 30 seconds and update their trades"
 				type: "command"
 			}]
 			tasks: [{
@@ -579,9 +579,9 @@
 			icon: "chiselsandbits:magnifying_glass"
 			id: "0AC907ED825810E1"
 			rewards: [{
-				command: "/function farming_crossing:pamela_highlight"
+				command: "/function farming_crossing:pamela_update_trades"
 				id: "2B45C52637D9F49E"
-				title: "Highlight Pamela for 30 seconds"
+				title: "Highlight Pamela for 30 seconds and update their trades"
 				type: "command"
 			}]
 			tasks: [{
@@ -598,9 +598,9 @@
 			icon: "chiselsandbits:magnifying_glass"
 			id: "767DD13CDF3F90D1"
 			rewards: [{
-				command: "/function farming_crossing:ren_highlight"
+				command: "/function farming_crossing:ren_update_trades"
 				id: "525C1E20E25B3B56"
-				title: "Highlight Ren for 30 seconds"
+				title: "Highlight Ren for 30 seconds and update their trades"
 				type: "command"
 			}]
 			tasks: [{
@@ -617,9 +617,9 @@
 			icon: "chiselsandbits:magnifying_glass"
 			id: "3FC799C7A2A8C9ED"
 			rewards: [{
-				command: "/function farming_crossing:sam_highlight"
+				command: "/function farming_crossing:sam_update_trades"
 				id: "5F367A1FF3C0B858"
-				title: "Highlight Sam for 30 seconds"
+				title: "Highlight Sam for 30 seconds and update their trades"
 				type: "command"
 			}]
 			tasks: [{
@@ -636,9 +636,9 @@
 			icon: "chiselsandbits:magnifying_glass"
 			id: "642BFEA807DA5610"
 			rewards: [{
-				command: "/function farming_crossing:yukkie_highlight"
+				command: "/function farming_crossing:yukkie_update_trades"
 				id: "7597F07ED15F2F0F"
-				title: "Highlight Yukkie for 30 seconds"
+				title: "Highlight Yukkie for 30 seconds and update their trades"
 				type: "command"
 			}]
 			tasks: [{
