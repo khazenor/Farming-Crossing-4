@@ -24,11 +24,17 @@ def copyFolder(src, dest, deleteExtraFiles=True):
 	if deleteExtraFiles:
 		removeExtraFilesRecur(src, destFolderWName, doLog=False)
 
-def copyFolderRecur(src, destFolder, denySubStrList=[], doLog=True):
+def copyFolderRecur(src, destFolder, allowSubStrList=[], denySubStrList=[], doLog=True):
 	if os.path.exists(src) and os.path.exists(destFolder):
 		srcName = Path(src).name
 		existingDestFilePath = os.path.join(destFolder, srcName)
-		if not strContainsStrFromSubStrList(src, denySubStrList) and src != existingDestFilePath:
+		copyAllowed = (
+			src != existingDestFilePath and (
+				strContainsStrFromSubStrList(src, allowSubStrList) or
+				not strContainsStrFromSubStrList(src, denySubStrList)
+			)
+		)
+		if copyAllowed:
 			if doLog:
 				log.log(f'   - Copy: {existingDestFilePath}')
 			if os.path.isfile(src):
@@ -43,9 +49,15 @@ def copyFolderRecur(src, destFolder, denySubStrList=[], doLog=True):
 					os.makedirs(newDestFolder)
 				itemsToCopy = os.listdir(src)
 				for itemToCopy in itemsToCopy:
-					copyFolderRecur(os.path.join(src, itemToCopy), newDestFolder, denySubStrList, doLog=False)
+					copyFolderRecur(
+						os.path.join(src, itemToCopy),
+						newDestFolder,
+						denySubStrList=denySubStrList,
+						allowSubStrList=allowSubStrList,
+						doLog=False
+					)
 
-def removeExtraFilesRecur(src, dest, doLog=True):
+def removeExtraFilesRecur(src, dest, removeSubStrList = [], doLog=True):
 	if Path(dest).is_dir() and src != dest:
 		if Path(src).is_dir():
 			if doLog:
@@ -54,7 +66,11 @@ def removeExtraFilesRecur(src, dest, doLog=True):
 				destItemPath = os.path.join(dest, item)
 				srcItemPath = os.path.join(src, item)
 				if Path(destItemPath).is_file():
-					if not os.path.exists(srcItemPath):
+					doRemove = (
+						not os.path.exists(srcItemPath) or
+						strContainsStrFromSubStrList(destItemPath, removeSubStrList)
+					)
+					if doRemove:
 						os.remove(destItemPath)
 				elif Path(destItemPath).is_dir():
 					removeExtraFilesRecur(srcItemPath, destItemPath, doLog=False)

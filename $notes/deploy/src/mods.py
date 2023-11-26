@@ -60,7 +60,8 @@ def deployToServers():
 		serverModsFolder = instMods(serverInst)
 		util.removeExtraFilesRecur(
 			modsSrc(),
-			serverModsFolder
+			serverModsFolder,
+			removeSubStrList=clientSideModNames
 		)
 		util.copyFolderRecur(
 			modsSrc(),

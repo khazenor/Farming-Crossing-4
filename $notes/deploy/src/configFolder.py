@@ -30,6 +30,7 @@ def deployConfigs():
 		util.copyFolderRecur(
 			os.path.join(paths.configSrc, configFolderName),
 			deployInst,
+			allowSubStrList=clientConfigsToCopy,
 			denySubStrList=personalConfigs
 		)
 
