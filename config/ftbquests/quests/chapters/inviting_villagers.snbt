@@ -519,11 +519,16 @@
 		{
 			can_repeat: true
 			dependencies: ["67410832B3588F76"]
+			description: [
+				"Use this checkpoint quest to help locate Jess!"
+			]
 			icon: "chiselsandbits:magnifying_glass"
 			id: "72A8820CE32DF938"
 			rewards: [{
 				command: "/function farming_crossing:jess_highlight"
 				elevate_perms: true
+				exclude_from_claim_all: true
+				silent: true
 				id: "0319AD50864A791D"
 				title: "Highlight Jess for 30 seconds"
 				type: "command"
@@ -539,11 +544,18 @@
 		{
 			can_repeat: true
 			dependencies: ["28FE86BC236BE12C"]
+			description: [
+				"Use this checkpoint quest to help locate Andre!"
+				""
+				"This also updates Andre's trades to the latest version of the modpack."  
+			]
 			icon: "chiselsandbits:magnifying_glass"
 			id: "512BADF33A088EBA"
 			rewards: [{
 				command: "/function farming_crossing:andre_update_trades"
 				elevate_perms: true
+				exclude_from_claim_all: true
+				silent: true
 				id: "0EDEB814B1EE2B5C"
 				title: "Highlight Andre for 30 seconds and update their trades"
 				type: "command"
@@ -559,11 +571,18 @@
 		{
 			can_repeat: true
 			dependencies: ["5BD7DC258B1E8D88"]
+			description: [
+				"Use this checkpoint quest to help locate Laly!"
+				""
+				"This also updates Laly's trades to the latest version of the modpack."  
+			]
 			icon: "chiselsandbits:magnifying_glass"
 			id: "411A015BA96920ED"
 			rewards: [{
 				command: "/function farming_crossing:laly_update_trades"
 				elevate_perms: true
+				exclude_from_claim_all: true
+				silent: true
 				id: "6EF660D9CBDFE771"
 				title: "Highlight Laly for 30 seconds and update their trades"
 				type: "command"
@@ -579,11 +598,18 @@
 		{
 			can_repeat: true
 			dependencies: ["6EE60641D96F0EC2"]
+			description: [
+				"Use this checkpoint quest to help locate Pamela!"
+				""
+				"This also updates Pamela's trades to the latest version of the modpack."  
+			]
 			icon: "chiselsandbits:magnifying_glass"
 			id: "0AC907ED825810E1"
 			rewards: [{
 				command: "/function farming_crossing:pamela_update_trades"
 				elevate_perms: true
+				exclude_from_claim_all: true
+				silent: true
 				id: "2B45C52637D9F49E"
 				title: "Highlight Pamela for 30 seconds and update their trades"
 				type: "command"
@@ -599,11 +625,18 @@
 		{
 			can_repeat: true
 			dependencies: ["7CE7B5249150EEC7"]
+			description: [
+				"Use this checkpoint quest to help locate Ren!"
+				""
+				"This also updates Ren's trades to the latest version of the modpack."  
+			]
 			icon: "chiselsandbits:magnifying_glass"
 			id: "767DD13CDF3F90D1"
 			rewards: [{
 				command: "/function farming_crossing:ren_update_trades"
 				elevate_perms: true
+				exclude_from_claim_all: true
+				silent: true
 				id: "525C1E20E25B3B56"
 				title: "Highlight Ren for 30 seconds and update their trades"
 				type: "command"
@@ -619,11 +652,18 @@
 		{
 			can_repeat: true
 			dependencies: ["319E027107D89BD3"]
+			description: [
+				"Use this checkpoint quest to help locate Sam!"
+				""
+				"This also updates Sam's trades to the latest version of the modpack."  
+			]
 			icon: "chiselsandbits:magnifying_glass"
 			id: "3FC799C7A2A8C9ED"
 			rewards: [{
 				command: "/function farming_crossing:sam_update_trades"
 				elevate_perms: true
+				exclude_from_claim_all: true
+				silent: true
 				id: "5F367A1FF3C0B858"
 				title: "Highlight Sam for 30 seconds and update their trades"
 				type: "command"
@@ -639,11 +679,18 @@
 		{
 			can_repeat: true
 			dependencies: ["659A021698183855"]
+			description: [
+				"Use this checkpoint quest to help locate Yukkie!"
+				""
+				"This also updates Yukkie's trades to the latest version of the modpack."  
+			]
 			icon: "chiselsandbits:magnifying_glass"
 			id: "642BFEA807DA5610"
 			rewards: [{
 				command: "/function farming_crossing:yukkie_update_trades"
 				elevate_perms: true
+				exclude_from_claim_all: true
+				silent: true
 				id: "7597F07ED15F2F0F"
 				title: "Highlight Yukkie for 30 seconds and update their trades"
 				type: "command"
