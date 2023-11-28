@@ -252,6 +252,75 @@ ServerEvents.recipes(event => {
     Item.of('minecraft:yellow_concrete_powder', 32),
     ['minecraft:yellow_concrete_powder', 'kubejs:miles_ticket'])
   event.shapeless(
+    Item.of('meadow:flecked_wool', 32),
+    ['meadow:flecked_wool', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('meadow:highland_wool', 32),
+    ['meadow:highland_wool', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('meadow:inky_wool', 32),
+    ['meadow:inky_wool', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('meadow:patched_wool', 32),
+    ['meadow:patched_wool', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('meadow:rocky_wool', 32),
+    ['meadow:rocky_wool', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('meadow:umbra_wool', 32),
+    ['meadow:umbra_wool', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('meadow:warped_wool', 32),
+    ['meadow:warped_wool', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:black_wool', 32),
+    ['minecraft:black_wool', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:blue_wool', 32),
+    ['minecraft:blue_wool', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:brown_wool', 32),
+    ['minecraft:brown_wool', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:cyan_wool', 32),
+    ['minecraft:cyan_wool', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:gray_wool', 32),
+    ['minecraft:gray_wool', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:green_wool', 32),
+    ['minecraft:green_wool', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:light_blue_wool', 32),
+    ['minecraft:light_blue_wool', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:light_gray_wool', 32),
+    ['minecraft:light_gray_wool', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:lime_wool', 32),
+    ['minecraft:lime_wool', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:magenta_wool', 32),
+    ['minecraft:magenta_wool', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:orange_wool', 32),
+    ['minecraft:orange_wool', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:pink_wool', 32),
+    ['minecraft:pink_wool', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:purple_wool', 32),
+    ['minecraft:purple_wool', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:red_wool', 32),
+    ['minecraft:red_wool', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:white_wool', 32),
+    ['minecraft:white_wool', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:yellow_wool', 32),
+    ['minecraft:yellow_wool', 'kubejs:miles_ticket'])
+  event.shapeless(
     Item.of('minecraft:snow_block', 32),
     ['minecraft:snow_block', 'kubejs:miles_ticket'])
   event.shapeless(
