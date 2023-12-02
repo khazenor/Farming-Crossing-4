@@ -8,6 +8,9 @@ def serverScripts():
 def clientScripts():
 	return os.path.join(kubejs(), 'client_scripts')
 
+def startupScripts():
+	return os.path.join(kubejs(), 'startup_scripts')
+
 def bountifulPools():
 	return os.path.join(data(), "bountiful", "bounty_pools", "bountiful")
 def farmersDelightCooking():
@@ -21,6 +24,9 @@ def farmersDelight():
 
 def data():
 	return os.path.join(kubejs(), 'data')
+
+def assets():
+	return os.path.join(kubejs(), 'assets')
 
 def farmingForBlockheads():
 	return os.path.join(data(), 'farmingforblockheads', 'farmingforblockheads_compat')

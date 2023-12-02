@@ -7,8 +7,10 @@ from src import flowers
 from src import gemCraftingTableSell
 from src import nonWanderingTrades
 from src import customVillagers
+from src import musicDiscs
 
 if __name__ == "__main__":
+	musicDiscs.deployMusicDiscs()
 	customVillagers.deployFunctions()
 	nonWanderingTrades.genNonWanderingTrades()
 	gemCraftingTableSell.genGemCraftingTableSell()

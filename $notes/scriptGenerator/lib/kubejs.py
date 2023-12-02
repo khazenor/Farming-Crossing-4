@@ -43,6 +43,17 @@ def villagerTradeWCallback(item, paymentItem, profession, level, experince, pric
 	outStr += "  })\n"
 	return outStr
 
+def createSimple(objectId):
+	return f'  event.create("{objectId}")\n'
+
+def createMusicDisc(itemId, musicPath, musicLen, itemPath, displayName):
+	outStr = ""
+	outStr += f'  event.create("{itemId}", "music_disc")\n'
+	outStr += f'    .song("{musicPath}", {musicLen})\n'
+	outStr += f'    .analogOutput(1)\n'
+	outStr += f'    .texture("{itemPath}")\n'
+	outStr += f'    .displayName("{displayName}")\n'
+	return outStr
 # FILE CONTENT
 def wanderingTradeFileContent(tradeStr):
 	return f"MoreJSEvents.wandererTrades((event) => {{\n{tradeStr}\n}})"
@@ -55,6 +66,9 @@ def tooltipFileContent(content):
 
 def villagerTradesContent(content):
 	return f"MoreJSEvents.villagerTrades((event) => {{\n{content}\n}})"
+
+def registryFileContent(registryType, content):
+	return f"StartupEvents.registry('{registryType}', event => {{\n{content}\n}})"
 
 def tagsContent(content):
 	return f"ServerEvents.tags('item', event => {{\n{content}\n}})"
