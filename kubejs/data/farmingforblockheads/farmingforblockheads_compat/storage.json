@@ -1,0 +1,52 @@
+{
+  "customCategories": {
+    "storage": {
+      "name": "Additional Storage",
+      "icon": {
+        "item": "refinedstorage:1k_storage_disk"
+      }
+    }
+  },
+  "customEntries": [
+    {
+      "output": { "item": "kubejs:1k_storage_disk_ticket", "count": 2 }, 
+      "payment": { "item": "kubejs:miles_ticket", "count": 16 }, 
+      "category": "storage"
+    },
+    {
+      "output": { "item": "kubejs:4k_storage_disk_ticket", "count": 2 }, 
+      "payment": { "item": "kubejs:miles_ticket", "count": 72 }, 
+      "category": "storage"
+    },
+    {
+      "output": { "item": "kubejs:16k_storage_disk_ticket", "count": 2 }, 
+      "payment": { "item": "kubejs:miles_ticket", "count": 297 }, 
+      "category": "storage"
+    },
+    {
+      "output": { "item": "kubejs:64k_storage_disk_ticket", "count": 2 }, 
+      "payment": { "item": "kubejs:miles_ticket", "count": 1215 }, 
+      "category": "storage"
+    },
+    {
+      "output": { "item": "refinedstorage:disk_drive" }, 
+      "payment": { "item": "kubejs:miles_ticket", "count": 32 }, 
+      "category": "storage"
+    },
+    {
+      "output": { "item": "refinedstorage:crafting_grid" }, 
+      "payment": { "item": "kubejs:miles_ticket", "count": 32 }, 
+      "category": "storage"
+    },
+    {
+      "output": { "item": "refinedstorage:controller" }, 
+      "payment": { "item": "kubejs:miles_ticket", "count": 32 }, 
+      "category": "storage"
+    },
+    {
+      "output": { "item": "createaddition:alternator" }, 
+      "payment": { "item": "kubejs:miles_ticket", "count": 32 }, 
+      "category": "storage"
+    }
+  ]
+}

@@ -853,17 +853,19 @@
 				}
 				{
 					auto: "no_toast"
-					id: "7D9CB893FBC2BB64"
-					ignore_reward_blocking: true
-					stage: "crafting_grid"
-					type: "gamestage"
+					id: "4FE6F994E766C490"
+					elevate_perms: true
+					command: "/gamestage add @p crafting_grid"
+					title: "Unlock ability to craft crafting_grid"
+					type: "command"
 				}
 				{
 					auto: "no_toast"
-					id: "4A564939D746E4A8"
-					ignore_reward_blocking: true
-					stage: "1k_storage_disk"
-					type: "gamestage"
+					id: "0E551A52A82C001E"
+					elevate_perms: true
+					command: "/gamestage add @p 1k_storage_disk"
+					title: "Unlock ability to craft 1k_storage_disk"
+					type: "command"
 				}
 			]
 			tasks: [{
@@ -891,10 +893,11 @@
 				}
 				{
 					auto: "no_toast"
-					id: "543B029F09BA36B8"
-					ignore_reward_blocking: true
-					stage: "4k_storage_disk"
-					type: "gamestage"
+					id: "242A2F4779786B42"
+					elevate_perms: true
+					command: "/gamestage add @p 4k_storage_disk"
+					title: "Unlock ability to craft 4k_storage_disk"
+					type: "command"
 				}
 			]
 			tasks: [{
@@ -922,10 +925,11 @@
 				}
 				{
 					auto: "no_toast"
-					id: "75952577EC152C8B"
-					ignore_reward_blocking: true
-					stage: "16k_storage_disk"
-					type: "gamestage"
+					id: "5E1E88C0141A1EF6"
+					elevate_perms: true
+					command: "/gamestage add @p 16k_storage_disk"
+					title: "Unlock ability to craft 16k_storage_disk"
+					type: "command"
 				}
 			]
 			tasks: [{
@@ -953,10 +957,11 @@
 				}
 				{
 					auto: "no_toast"
-					id: "4000E5C7BA71E044"
-					ignore_reward_blocking: true
-					stage: "64k_storage_disk"
-					type: "gamestage"
+					id: "1D65D046DB0E587F"
+					elevate_perms: true
+					command: "/gamestage add @p 64k_storage_disk"
+					title: "Unlock ability to craft 64k_storage_disk"
+					type: "command"
 				}
 			]
 			tasks: [{
@@ -1073,10 +1078,11 @@
 				}
 				{
 					auto: "no_toast"
-					id: "227CAE340E7B7893"
-					ignore_reward_blocking: true
-					stage: "airship"
-					type: "gamestage"
+					id: "01B13F4B2D77723B"
+					elevate_perms: true
+					command: "/gamestage add @p airship"
+					title: "Unlock ability to craft airship"
+					type: "command"
 				}
 			]
 			tasks: [{
@@ -1108,10 +1114,11 @@
 				}
 				{
 					auto: "no_toast"
-					id: "702591C99ACFEBD1"
-					ignore_reward_blocking: true
-					stage: "cargo_airship"
-					type: "gamestage"
+					id: "45648EEB47928B9A"
+					elevate_perms: true
+					command: "/gamestage add @p cargo_airship"
+					title: "Unlock ability to craft cargo_airship"
+					type: "command"
 				}
 			]
 			tasks: [{
@@ -1145,10 +1152,11 @@
 				}
 				{
 					auto: "no_toast"
-					id: "7C6F406F5DCBEB79"
-					ignore_reward_blocking: true
-					stage: "biplane"
-					type: "gamestage"
+					id: "455FEB7A55B6762E"
+					elevate_perms: true
+					command: "/gamestage add @p biplane"
+					title: "Unlock ability to craft biplane"
+					type: "command"
 				}
 			]
 			tasks: [{
@@ -1182,10 +1190,11 @@
 				}
 				{
 					auto: "no_toast"
-					id: "1FDE9C2281DA0CA4"
-					ignore_reward_blocking: true
-					stage: "gyrodyne"
-					type: "gamestage"
+					id: "5F946DEC0B0057B3"
+					elevate_perms: true
+					command: "/gamestage add @p gyrodyne"
+					title: "Unlock ability to craft gyrodyne"
+					type: "command"
 				}
 			]
 			tasks: [{
@@ -1219,10 +1228,11 @@
 				}
 				{
 					auto: "no_toast"
-					id: "51D9090214FB636B"
-					ignore_reward_blocking: true
-					stage: "quadrocopter"
-					type: "gamestage"
+					id: "5295FFF1688AF6A6"
+					elevate_perms: true
+					command: "/gamestage add @p quadrocopter"
+					title: "Unlock ability to craft quadrocopter"
+					type: "command"
 				}
 			]
 			tasks: [{
@@ -1260,10 +1270,11 @@
 				}
 				{
 					auto: "no_toast"
-					id: "1F120362D0FBB0D0"
-					ignore_reward_blocking: true
-					stage: "iron_hook"
-					type: "gamestage"
+					id: "60FD07A7C705BDC1"
+					elevate_perms: true
+					command: "/gamestage add @p iron_hook"
+					title: "Unlock ability to craft iron_hook"
+					type: "command"
 				}
 			]
 			tasks: [{
@@ -1301,10 +1312,11 @@
 				}
 				{
 					auto: "no_toast"
-					id: "0BE0DEFCC72A15AD"
-					ignore_reward_blocking: true
-					stage: "gold_hook"
-					type: "gamestage"
+					id: "7AB25B2CB502B010"
+					elevate_perms: true
+					command: "/gamestage add @p gold_hook"
+					title: "Unlock ability to craft gold_hook"
+					type: "command"
 				}
 			]
 			tasks: [{
@@ -1342,10 +1354,11 @@
 				}
 				{
 					auto: "no_toast"
-					id: "333EF41E63576F31"
-					ignore_reward_blocking: true
-					stage: "diamond_hook"
-					type: "gamestage"
+					id: "492C168FD5A3DCA7"
+					elevate_perms: true
+					command: "/gamestage add @p diamond_hook"
+					title: "Unlock ability to craft diamond_hook"
+					type: "command"
 				}
 			]
 			tasks: [{
@@ -1383,10 +1396,11 @@
 				}
 				{
 					auto: "no_toast"
-					id: "43824BDE9C3A7E55"
-					ignore_reward_blocking: true
-					stage: "light_hook"
-					type: "gamestage"
+					id: "7F60270800511193"
+					elevate_perms: true
+					command: "/gamestage add @p light_hook"
+					title: "Unlock ability to craft light_hook"
+					type: "command"
 				}
 			]
 			tasks: [{
@@ -1424,10 +1438,11 @@
 				}
 				{
 					auto: "no_toast"
-					id: "4FED8A1C7B5A11A2"
-					ignore_reward_blocking: true
-					stage: "heavy_hook"
-					type: "gamestage"
+					id: "6481E874EFDB1884"
+					elevate_perms: true
+					command: "/gamestage add @p heavy_hook"
+					title: "Unlock ability to craft heavy_hook"
+					type: "command"
 				}
 			]
 			tasks: [{
@@ -1470,10 +1485,11 @@
 				}
 				{
 					auto: "no_toast"
-					id: "22EB1991F10B18E4"
-					ignore_reward_blocking: true
-					stage: "double_hook"
-					type: "gamestage"
+					id: "306B5ADF734169C1"
+					elevate_perms: true
+					command: "/gamestage add @p double_hook"
+					title: "Unlock ability to craft double_hook"
+					type: "command"
 				}
 			]
 			tasks: [{
@@ -1511,10 +1527,11 @@
 				}
 				{
 					auto: "no_toast"
-					id: "5EBD22091366B0EF"
-					ignore_reward_blocking: true
-					stage: "redstone_hook"
-					type: "gamestage"
+					id: "2541BD3BE78E7B28"
+					elevate_perms: true
+					command: "/gamestage add @p redstone_hook"
+					title: "Unlock ability to craft redstone_hook"
+					type: "command"
 				}
 			]
 			tasks: [{
@@ -1552,10 +1569,11 @@
 				}
 				{
 					auto: "no_toast"
-					id: "31130B5BCECBC2A9"
-					ignore_reward_blocking: true
-					stage: "note_hook"
-					type: "gamestage"
+					id: "414D45D0C2E76D95"
+					elevate_perms: true
+					command: "/gamestage add @p note_hook"
+					title: "Unlock ability to craft note_hook"
+					type: "command"
 				}
 			]
 			tasks: [{
@@ -1593,10 +1611,11 @@
 				}
 				{
 					auto: "no_toast"
-					id: "23AE2394BCB9DF01"
-					ignore_reward_blocking: true
-					stage: "nether_star_hook"
-					type: "gamestage"
+					id: "139FF8AD4A98B2D2"
+					elevate_perms: true
+					command: "/gamestage add @p nether_star_hook"
+					title: "Unlock ability to craft nether_star_hook"
+					type: "command"
 				}
 			]
 			tasks: [{
