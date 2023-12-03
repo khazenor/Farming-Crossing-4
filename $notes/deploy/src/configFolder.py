@@ -17,7 +17,8 @@ personalConfigs = [
 	'config\\brb.toml',
 	'config\\xaerominimap.txt',
 	'config\\xaeropatreon.txt',
-	'config\\xaeroworldmap.txt'
+	'config\\xaeroworldmap.txt',
+	'config\\dynamic_lights_reforged.toml'
 ]
 
 configFolderName = 'config'

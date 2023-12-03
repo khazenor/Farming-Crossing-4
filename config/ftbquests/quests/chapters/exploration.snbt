@@ -104,7 +104,11 @@
 			y: 0.0d
 		}
 		{
-			description: ["Holding a torch or dropping it on the ground will cause the area around the torch to be lit up (without the need for your to place the torch down)."]
+			description: [
+				"Lantern and Soul Lantern can be placed in the belt curio slot to provide dynamic lighting around you."
+				"{image:khazenor:textures/curio/curio_ui_help1.png width:150 height:100 align:1}"
+				"{image:khazenor:textures/lantern_on_hip/lantern_on_hip.png width:130 height:100 align:1}"
+			]
 			id: "51F95A5C668DB818"
 			tasks: [{
 				id: "76916259B0FD6339"
