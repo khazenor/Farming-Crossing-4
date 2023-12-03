@@ -963,7 +963,7 @@
 			]
 			tasks: [{
 				id: "5557CBB45D9AA35D"
-				item: "minecraft:music_disc_11"
+				item: "kubejs:oneul_april_daisy"
 				type: "item"
 			}]
 			x: 0.0d
@@ -994,7 +994,7 @@
 			]
 			tasks: [{
 				id: "7FB000AD9BC4BDE6"
-				item: "minecraft:music_disc_13"
+				item: "kubejs:oneul_around_midnight"
 				type: "item"
 			}]
 			x: 1.0d
@@ -1025,7 +1025,7 @@
 			]
 			tasks: [{
 				id: "1DED456BD60C9E84"
-				item: "minecraft:music_disc_5"
+				item: "kubejs:oneul_autumn_blessing"
 				type: "item"
 			}]
 			x: 2.0d
@@ -1056,7 +1056,7 @@
 			]
 			tasks: [{
 				id: "4CFB1F9127D6710A"
-				item: "minecraft:music_disc_blocks"
+				item: "kubejs:oneul_autumn_breeze"
 				type: "item"
 			}]
 			x: 3.0d
@@ -1087,7 +1087,7 @@
 			]
 			tasks: [{
 				id: "0479C168EBA40116"
-				item: "minecraft:music_disc_cat"
+				item: "kubejs:oneul_brunch"
 				type: "item"
 			}]
 			x: 4.0d
@@ -1118,7 +1118,7 @@
 			]
 			tasks: [{
 				id: "173158BCBFDCC327"
-				item: "minecraft:music_disc_chirp"
+				item: "kubejs:oneul_bubble"
 				type: "item"
 			}]
 			x: 5.0d
@@ -1149,7 +1149,7 @@
 			]
 			tasks: [{
 				id: "5DF92B84660F767C"
-				item: "minecraft:music_disc_far"
+				item: "kubejs:oneul_byesummer"
 				type: "item"
 			}]
 			x: 0.0d
@@ -1180,7 +1180,7 @@
 			]
 			tasks: [{
 				id: "42D4588F4752E5E7"
-				item: "minecraft:music_disc_mall"
+				item: "kubejs:oneul_canele"
 				type: "item"
 			}]
 			x: 1.0d
@@ -1211,7 +1211,7 @@
 			]
 			tasks: [{
 				id: "7823D03E5C58C4D9"
-				item: "minecraft:music_disc_mellohi"
+				item: "kubejs:oneul_cheeseburger"
 				type: "item"
 			}]
 			x: 2.0d
@@ -1242,7 +1242,7 @@
 			]
 			tasks: [{
 				id: "70DC7B46E519C8B1"
-				item: "minecraft:music_disc_otherside"
+				item: "kubejs:oneul_chestnut_latte"
 				type: "item"
 			}]
 			x: 3.0d
@@ -1273,7 +1273,7 @@
 			]
 			tasks: [{
 				id: "40B97F7CCAA06E2A"
-				item: "minecraft:music_disc_pigstep"
+				item: "kubejs:oneul_chocolate_world"
 				type: "item"
 			}]
 			x: 4.0d
@@ -1304,7 +1304,7 @@
 			]
 			tasks: [{
 				id: "6E168F415A901544"
-				item: "minecraft:music_disc_relic"
+				item: "kubejs:oneul_chuseok"
 				type: "item"
 			}]
 			x: 5.0d
@@ -1335,10 +1335,10 @@
 			]
 			tasks: [{
 				id: "40C3BF1048F28FDC"
-				item: "minecraft:music_disc_stal"
+				item: "kubejs:oneul_cloudy_rain"
 				type: "item"
 			}]
-			x: 4.0d
+			x: 3.0d
 			y: 7.0d
 		}
 		{
@@ -1366,10 +1366,10 @@
 			]
 			tasks: [{
 				id: "1F9D5F8A842435CA"
-				item: "minecraft:music_disc_strad"
+				item: "kubejs:oneul_cookie_tree"
 				type: "item"
 			}]
-			x: 1.0d
+			x: 0.0d
 			y: 7.0d
 		}
 		{
@@ -1397,10 +1397,10 @@
 			]
 			tasks: [{
 				id: "7E24CAAA12D6BBC6"
-				item: "minecraft:music_disc_wait"
+				item: "kubejs:oneul_dreamy"
 				type: "item"
 			}]
-			x: 2.0d
+			x: 1.0d
 			y: 7.0d
 		}
 		{
@@ -1428,11 +1428,879 @@
 			]
 			tasks: [{
 				id: "7B3CB2588C56D403"
-				item: "minecraft:music_disc_ward"
+				item: "kubejs:oneul_flamingo"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "001BD69F8C2A2408"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
+					id: "069D4F7E25CF6017"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
+					id: "6CAD0C5098B7EEEE"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "06C90128CBDC2521"
+				item: "kubejs:oneul_floating_marshmallow"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0C8DAD162211873E"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
+					id: "711439464C0BB1DD"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
+					id: "4C5254278C668B19"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "19795DC53590F727"
+				item: "kubejs:oneul_full_moon"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "7C12A9E1FAA61E2E"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
+					id: "445C7066AF1D50FA"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
+					id: "1CA3CC356A5778FA"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "13587B3B5FD32FD3"
+				item: "kubejs:oneul_get_up"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "7BCB2949A33DBE74"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
+					id: "1725A3911E463520"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
+					id: "5A81DC3CA1BA0942"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "6FD270A19FFD54E4"
+				item: "kubejs:oneul_gift"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "13551A794FC733E9"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
+					id: "29F4B726EE57C88E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
+					id: "452D41FA5EC7EB7F"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "0E3BF870B563D7B0"
+				item: "kubejs:oneul_happy_reindeer"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "55FD569F039C12A4"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
+					id: "59AFB4ED60A98835"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
+					id: "78E574A3D10C7F0A"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "38CA683B8D5260C0"
+				item: "kubejs:oneul_joy"
 				type: "item"
 			}]
 			x: 3.0d
-			y: 7.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "363F3F2396E6FF08"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
+					id: "6F6304782290FEE8"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
+					id: "50B3A9956DF7D05B"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "2B302DD35B816673"
+				item: "kubejs:oneul_melon_bread"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3F8D3B64457960B4"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
+					id: "50A4DB3F22BA934E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
+					id: "1EB67E11DD18C9CB"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "7E1EFF6701F0B71B"
+				item: "kubejs:oneul_miracle_morning"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "75BE6413E5FD4E3B"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
+					id: "0F88E456C67FB5FE"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
+					id: "646599B49E937E2E"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "3F999423941EB5EA"
+				item: "kubejs:oneul_mistletoe"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0D6B15D689C8991F"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
+					id: "6D7482E7C4AC1C8A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
+					id: "1B6951114AFFE15F"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "30F6FEB3679A8C8E"
+				item: "kubejs:oneul_moonlight"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "48DDCE6231339F30"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
+					id: "1EE96462B9DAE8CC"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
+					id: "6D8477F0B2E1A967"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "01FEC33C79D148D9"
+				item: "kubejs:oneul_morning_peppermint"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4593620B95F510D5"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
+					id: "3D88294A320BAEE2"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
+					id: "762AB182AB34E861"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "579ECD8D7B9B34E5"
+				item: "kubejs:oneul_painting"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "37BB4D6CD251EA9A"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
+					id: "41CFF164CA8FE608"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
+					id: "3B03CCDCAB76B39D"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "7BB9D249EBF6E2C2"
+				item: "kubejs:oneul_pajama"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5CF6D4C2CC5F3A87"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
+					id: "00241244BF5994DF"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
+					id: "6CC512FE030C2B71"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "3C1442D3DCEF63EF"
+				item: "kubejs:oneul_raindrops"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0DD32FA4C765B89C"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
+					id: "0F3379F747E627B8"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
+					id: "73E5D2D67589E156"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "1FFC7228B871EE98"
+				item: "kubejs:oneul_roommate"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5A72E702BA623BBD"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
+					id: "486EFE0F9DCBFBF9"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
+					id: "574462100834632B"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "79D7D1DD654D8A49"
+				item: "kubejs:oneul_sandwich"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "043F9B96F78779D2"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
+					id: "564D185A67463F67"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
+					id: "6CE88C7F9EE18490"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "02E75651F2ECF1CC"
+				item: "kubejs:oneul_smile_peach"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3EAA226842DE32DB"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
+					id: "4A737737DEA2D92E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
+					id: "621D1086F329F762"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "0DCB85DBC72612B5"
+				item: "kubejs:oneul_snow_dance"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "68DA8778DEEBB9AB"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
+					id: "7037988C179E571F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
+					id: "11FB6BC3B44731A9"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "4BC7E5945863B18C"
+				item: "kubejs:oneul_story"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "33217E952AB50F00"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
+					id: "6DB6EF4EE57C7697"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
+					id: "290B7FE22B92ACB1"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "04F9533C28E316EF"
+				item: "kubejs:oneul_strawberry_dance"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "125014448FD648ED"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
+					id: "08F9781F8E2C9306"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
+					id: "4C1B2FA5667C5C03"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "01B2D33B6653763F"
+				item: "kubejs:oneul_summer_vacation"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "38E6282D86CBB8AC"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
+					id: "0FE300B1260629CF"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
+					id: "06CF2E18B49D60F1"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "3C1F6E0B1B9D4721"
+				item: "kubejs:oneul_surf"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2047EC3FFF01DE2D"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
+					id: "13357070F44B7F12"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
+					id: "6E67ED56662E60FB"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "536689CD7414B2E9"
+				item: "kubejs:oneul_tiramisu"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6A5904CB0C407732"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
+					id: "7D28F5733A27128E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
+					id: "5FCBF7F136448D99"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "52A6C6B3D84413F3"
+				item: "kubejs:oneul_umbrella"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4ADD5DCFE327E450"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
+					id: "6199D9F0DCAE6983"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
+					id: "4ABF3B9DCD2D6D3F"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "71D94B586854041E"
+				item: "kubejs:oneul_vanilla_milkshake"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3D915AD0AFCF7375"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
+					id: "1C3A170C18425C79"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
+					id: "773910270FEE5986"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "13EAF276284D0559"
+				item: "kubejs:oneul_watermelon_fizz"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "7CE1D821B21AA7DC"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
+					id: "3B82FC3CA71160C0"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
+					id: "5300B8A2AD49FBA6"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "59D12BD6B64727E4"
+				item: "kubejs:oneul_weekend_blanket"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "366C2EC28E739F11"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p rare_decoration 1"
+					elevate_perms: true
+					id: "3408644CEA49C510"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
+					elevate_perms: true
+					id: "10E259BB36DF8691"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "0EBA30F93221A020"
+				item: "kubejs:oneul_winter_glow"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 12.0d
 		}
 	]
 	title: "Rare Decorations"

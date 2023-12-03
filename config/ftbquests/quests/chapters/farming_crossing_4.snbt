@@ -853,17 +853,17 @@
 				}
 				{
 					auto: "no_toast"
-					id: "4FE6F994E766C490"
-					elevate_perms: true
 					command: "/gamestage add @p crafting_grid"
+					elevate_perms: true
+					id: "4FE6F994E766C490"
 					title: "Unlock ability to craft crafting_grid"
 					type: "command"
 				}
 				{
 					auto: "no_toast"
-					id: "0E551A52A82C001E"
-					elevate_perms: true
 					command: "/gamestage add @p 1k_storage_disk"
+					elevate_perms: true
+					id: "0E551A52A82C001E"
 					title: "Unlock ability to craft 1k_storage_disk"
 					type: "command"
 				}
@@ -893,9 +893,9 @@
 				}
 				{
 					auto: "no_toast"
-					id: "242A2F4779786B42"
-					elevate_perms: true
 					command: "/gamestage add @p 4k_storage_disk"
+					elevate_perms: true
+					id: "242A2F4779786B42"
 					title: "Unlock ability to craft 4k_storage_disk"
 					type: "command"
 				}
@@ -925,9 +925,9 @@
 				}
 				{
 					auto: "no_toast"
-					id: "5E1E88C0141A1EF6"
-					elevate_perms: true
 					command: "/gamestage add @p 16k_storage_disk"
+					elevate_perms: true
+					id: "5E1E88C0141A1EF6"
 					title: "Unlock ability to craft 16k_storage_disk"
 					type: "command"
 				}
@@ -957,9 +957,9 @@
 				}
 				{
 					auto: "no_toast"
-					id: "1D65D046DB0E587F"
-					elevate_perms: true
 					command: "/gamestage add @p 64k_storage_disk"
+					elevate_perms: true
+					id: "1D65D046DB0E587F"
 					title: "Unlock ability to craft 64k_storage_disk"
 					type: "command"
 				}
@@ -1078,9 +1078,9 @@
 				}
 				{
 					auto: "no_toast"
-					id: "01B13F4B2D77723B"
-					elevate_perms: true
 					command: "/gamestage add @p airship"
+					elevate_perms: true
+					id: "01B13F4B2D77723B"
 					title: "Unlock ability to craft airship"
 					type: "command"
 				}
@@ -1114,9 +1114,9 @@
 				}
 				{
 					auto: "no_toast"
-					id: "45648EEB47928B9A"
-					elevate_perms: true
 					command: "/gamestage add @p cargo_airship"
+					elevate_perms: true
+					id: "45648EEB47928B9A"
 					title: "Unlock ability to craft cargo_airship"
 					type: "command"
 				}
@@ -1152,9 +1152,9 @@
 				}
 				{
 					auto: "no_toast"
-					id: "455FEB7A55B6762E"
-					elevate_perms: true
 					command: "/gamestage add @p biplane"
+					elevate_perms: true
+					id: "455FEB7A55B6762E"
 					title: "Unlock ability to craft biplane"
 					type: "command"
 				}
@@ -1190,9 +1190,9 @@
 				}
 				{
 					auto: "no_toast"
-					id: "5F946DEC0B0057B3"
-					elevate_perms: true
 					command: "/gamestage add @p gyrodyne"
+					elevate_perms: true
+					id: "5F946DEC0B0057B3"
 					title: "Unlock ability to craft gyrodyne"
 					type: "command"
 				}
@@ -1228,9 +1228,9 @@
 				}
 				{
 					auto: "no_toast"
-					id: "5295FFF1688AF6A6"
-					elevate_perms: true
 					command: "/gamestage add @p quadrocopter"
+					elevate_perms: true
+					id: "5295FFF1688AF6A6"
 					title: "Unlock ability to craft quadrocopter"
 					type: "command"
 				}
@@ -1270,9 +1270,9 @@
 				}
 				{
 					auto: "no_toast"
-					id: "60FD07A7C705BDC1"
-					elevate_perms: true
 					command: "/gamestage add @p iron_hook"
+					elevate_perms: true
+					id: "60FD07A7C705BDC1"
 					title: "Unlock ability to craft iron_hook"
 					type: "command"
 				}
@@ -1312,9 +1312,9 @@
 				}
 				{
 					auto: "no_toast"
-					id: "7AB25B2CB502B010"
-					elevate_perms: true
 					command: "/gamestage add @p gold_hook"
+					elevate_perms: true
+					id: "7AB25B2CB502B010"
 					title: "Unlock ability to craft gold_hook"
 					type: "command"
 				}
@@ -1354,9 +1354,9 @@
 				}
 				{
 					auto: "no_toast"
-					id: "492C168FD5A3DCA7"
-					elevate_perms: true
 					command: "/gamestage add @p diamond_hook"
+					elevate_perms: true
+					id: "492C168FD5A3DCA7"
 					title: "Unlock ability to craft diamond_hook"
 					type: "command"
 				}
@@ -1396,9 +1396,9 @@
 				}
 				{
 					auto: "no_toast"
-					id: "7F60270800511193"
-					elevate_perms: true
 					command: "/gamestage add @p light_hook"
+					elevate_perms: true
+					id: "7F60270800511193"
 					title: "Unlock ability to craft light_hook"
 					type: "command"
 				}
@@ -1438,9 +1438,9 @@
 				}
 				{
 					auto: "no_toast"
-					id: "6481E874EFDB1884"
-					elevate_perms: true
 					command: "/gamestage add @p heavy_hook"
+					elevate_perms: true
+					id: "6481E874EFDB1884"
 					title: "Unlock ability to craft heavy_hook"
 					type: "command"
 				}
@@ -1485,9 +1485,9 @@
 				}
 				{
 					auto: "no_toast"
-					id: "306B5ADF734169C1"
-					elevate_perms: true
 					command: "/gamestage add @p double_hook"
+					elevate_perms: true
+					id: "306B5ADF734169C1"
 					title: "Unlock ability to craft double_hook"
 					type: "command"
 				}
@@ -1527,9 +1527,9 @@
 				}
 				{
 					auto: "no_toast"
-					id: "2541BD3BE78E7B28"
-					elevate_perms: true
 					command: "/gamestage add @p redstone_hook"
+					elevate_perms: true
+					id: "2541BD3BE78E7B28"
 					title: "Unlock ability to craft redstone_hook"
 					type: "command"
 				}
@@ -1569,9 +1569,9 @@
 				}
 				{
 					auto: "no_toast"
-					id: "414D45D0C2E76D95"
-					elevate_perms: true
 					command: "/gamestage add @p note_hook"
+					elevate_perms: true
+					id: "414D45D0C2E76D95"
 					title: "Unlock ability to craft note_hook"
 					type: "command"
 				}
@@ -1611,9 +1611,9 @@
 				}
 				{
 					auto: "no_toast"
-					id: "139FF8AD4A98B2D2"
-					elevate_perms: true
 					command: "/gamestage add @p nether_star_hook"
+					elevate_perms: true
+					id: "139FF8AD4A98B2D2"
 					title: "Unlock ability to craft nether_star_hook"
 					type: "command"
 				}

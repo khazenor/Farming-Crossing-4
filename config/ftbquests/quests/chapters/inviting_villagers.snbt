@@ -11,7 +11,6 @@
 		{
 			can_repeat: true
 			dependencies: ["67410832B3588F76"]
-			hide: true
 			description: [
 				"Place down the following blocks to help Jess move in!"
 				""
@@ -19,6 +18,7 @@
 				""
 				"While you are at it, also feel free to build a room or house for Jess!  Make sure you include a bed so she can have a good place to rest!"
 			]
+			hide: true
 			icon: "moa_decor_cookery:cafetera"
 			id: "756B6CAC42F98D92"
 			rewards: [
@@ -92,12 +92,12 @@
 		{
 			can_repeat: true
 			dependencies: ["6EE60641D96F0EC2"]
-			hide: true
 			description: [
 				"Place down the following blocks to help Pamela move in!"
 				""
 				"While you are at it, also feel free to build a room or house for Pamela!  Make sure you include a bed so she can have a good place to rest!"
 			]
+			hide: true
 			icon: "moa_decor_cookery:bandejadegalletas"
 			id: "0D03125982F6A791"
 			rewards: [{
@@ -164,12 +164,12 @@
 		{
 			can_repeat: true
 			dependencies: ["5BD7DC258B1E8D88"]
-			hide: true
 			description: [
 				"Place down the following blocks to help Laly move in!"
 				""
 				"While you are at it, also feel free to build a room or house for Laly!  Make sure you include a bed so she can have a good place to rest!"
 			]
+			hide: true
 			icon: "minecraft:amethyst_block"
 			id: "32315F192BEB4876"
 			rewards: [{
@@ -236,12 +236,12 @@
 		{
 			can_repeat: true
 			dependencies: ["319E027107D89BD3"]
-			hide: true
 			description: [
 				"Place down the following blocks to help Sam move in!"
 				""
 				"While you are at it, also feel free to build a room or house for Sam!  Make sure you include a bed so he can have a good place to rest!"
 			]
+			hide: true
 			icon: "moa_decor_cookery:sushi"
 			id: "24D59BF6E757524F"
 			rewards: [{
@@ -308,12 +308,12 @@
 		{
 			can_repeat: true
 			dependencies: ["659A021698183855"]
-			hide: true
 			description: [
 				"Place down the following blocks to help Yukkie move in!"
 				""
 				"While you are at it, also feel free to build a room or house for Yukkie!  Make sure you include a bed so she can have a good place to rest!"
 			]
+			hide: true
 			icon: "moa_decor_cookery:manzanacortada"
 			id: "78BB8E151802329C"
 			rewards: [{
@@ -380,12 +380,12 @@
 		{
 			can_repeat: true
 			dependencies: ["28FE86BC236BE12C"]
-			hide: true
 			description: [
 				"Place down the following blocks to help Andre move in!"
 				""
 				"While you are at it, also feel free to build a room or house for Andre!  Make sure you include a bed so he can have a good place to rest!"
 			]
+			hide: true
 			icon: "moa_decor_garden_:comedero_trigo"
 			id: "1B8E82ADB3063C94"
 			rewards: [{
@@ -452,7 +452,6 @@
 		{
 			can_repeat: true
 			dependencies: ["7CE7B5249150EEC7"]
-			hide: true
 			description: [
 				"Place down the following blocks to help Ren move in!"
 				""
@@ -460,6 +459,7 @@
 				""
 				"You can help other villagers move in as well by completing collection achievements!"
 			]
+			hide: true
 			icon: "corail_woodcutter:oak_woodcutter"
 			id: "468E43123E8DB4F9"
 			rewards: [{
@@ -526,18 +526,16 @@
 		{
 			can_repeat: true
 			dependencies: ["67410832B3588F76"]
+			description: ["Use this checkpoint quest to help locate Jess!"]
 			hide: true
-			description: [
-				"Use this checkpoint quest to help locate Jess!"
-			]
 			icon: "chiselsandbits:magnifying_glass"
 			id: "72A8820CE32DF938"
 			rewards: [{
 				command: "/function farming_crossing:jess_highlight"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				silent: true
 				id: "0319AD50864A791D"
+				silent: true
 				title: "Highlight Jess for 30 seconds"
 				type: "command"
 			}]
@@ -552,20 +550,20 @@
 		{
 			can_repeat: true
 			dependencies: ["28FE86BC236BE12C"]
-			hide: true
 			description: [
 				"Use this checkpoint quest to help locate Andre!"
 				""
-				"This also updates Andre's trades to the latest version of the modpack."  
+				"This also updates Andre's trades to the latest version of the modpack."
 			]
+			hide: true
 			icon: "chiselsandbits:magnifying_glass"
 			id: "512BADF33A088EBA"
 			rewards: [{
 				command: "/function farming_crossing:andre_update_trades"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				silent: true
 				id: "0EDEB814B1EE2B5C"
+				silent: true
 				title: "Highlight Andre for 30 seconds and update their trades"
 				type: "command"
 			}]
@@ -580,20 +578,20 @@
 		{
 			can_repeat: true
 			dependencies: ["5BD7DC258B1E8D88"]
-			hide: true
 			description: [
 				"Use this checkpoint quest to help locate Laly!"
 				""
-				"This also updates Laly's trades to the latest version of the modpack."  
+				"This also updates Laly's trades to the latest version of the modpack."
 			]
+			hide: true
 			icon: "chiselsandbits:magnifying_glass"
 			id: "411A015BA96920ED"
 			rewards: [{
 				command: "/function farming_crossing:laly_update_trades"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				silent: true
 				id: "6EF660D9CBDFE771"
+				silent: true
 				title: "Highlight Laly for 30 seconds and update their trades"
 				type: "command"
 			}]
@@ -608,20 +606,20 @@
 		{
 			can_repeat: true
 			dependencies: ["6EE60641D96F0EC2"]
-			hide: true
 			description: [
 				"Use this checkpoint quest to help locate Pamela!"
 				""
-				"This also updates Pamela's trades to the latest version of the modpack."  
+				"This also updates Pamela's trades to the latest version of the modpack."
 			]
+			hide: true
 			icon: "chiselsandbits:magnifying_glass"
 			id: "0AC907ED825810E1"
 			rewards: [{
 				command: "/function farming_crossing:pamela_update_trades"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				silent: true
 				id: "2B45C52637D9F49E"
+				silent: true
 				title: "Highlight Pamela for 30 seconds and update their trades"
 				type: "command"
 			}]
@@ -636,20 +634,20 @@
 		{
 			can_repeat: true
 			dependencies: ["7CE7B5249150EEC7"]
-			hide: true
 			description: [
 				"Use this checkpoint quest to help locate Ren!"
 				""
-				"This also updates Ren's trades to the latest version of the modpack."  
+				"This also updates Ren's trades to the latest version of the modpack."
 			]
+			hide: true
 			icon: "chiselsandbits:magnifying_glass"
 			id: "767DD13CDF3F90D1"
 			rewards: [{
 				command: "/function farming_crossing:ren_update_trades"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				silent: true
 				id: "525C1E20E25B3B56"
+				silent: true
 				title: "Highlight Ren for 30 seconds and update their trades"
 				type: "command"
 			}]
@@ -664,20 +662,20 @@
 		{
 			can_repeat: true
 			dependencies: ["319E027107D89BD3"]
-			hide: true
 			description: [
 				"Use this checkpoint quest to help locate Sam!"
 				""
-				"This also updates Sam's trades to the latest version of the modpack."  
+				"This also updates Sam's trades to the latest version of the modpack."
 			]
+			hide: true
 			icon: "chiselsandbits:magnifying_glass"
 			id: "3FC799C7A2A8C9ED"
 			rewards: [{
 				command: "/function farming_crossing:sam_update_trades"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				silent: true
 				id: "5F367A1FF3C0B858"
+				silent: true
 				title: "Highlight Sam for 30 seconds and update their trades"
 				type: "command"
 			}]
@@ -692,20 +690,20 @@
 		{
 			can_repeat: true
 			dependencies: ["659A021698183855"]
-			hide: true
 			description: [
 				"Use this checkpoint quest to help locate Yukkie!"
 				""
-				"This also updates Yukkie's trades to the latest version of the modpack."  
+				"This also updates Yukkie's trades to the latest version of the modpack."
 			]
+			hide: true
 			icon: "chiselsandbits:magnifying_glass"
 			id: "642BFEA807DA5610"
 			rewards: [{
 				command: "/function farming_crossing:yukkie_update_trades"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				silent: true
 				id: "7597F07ED15F2F0F"
+				silent: true
 				title: "Highlight Yukkie for 30 seconds and update their trades"
 				type: "command"
 			}]
