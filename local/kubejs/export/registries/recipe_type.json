@@ -53,5 +53,8 @@
 	"create:mechanical_crafting": "net.minecraft.world.item.crafting.RecipeType$2",
 	"create:sequenced_assembly": "net.minecraft.world.item.crafting.RecipeType$2",
 	"enderchests:crafting": "net.minecraft.world.item.crafting.RecipeType$2",
-	"chiselsandbits:modification_table": "mod.chiselsandbits.registrars.ModRecipeTypes$1"
+	"chiselsandbits:modification_table": "mod.chiselsandbits.registrars.ModRecipeTypes$1",
+	"createaddition:rolling": "com.mrh0.createaddition.index.CARecipes$1",
+	"createaddition:charging": "com.mrh0.createaddition.index.CARecipes$1",
+	"createaddition:liquid_burning": "com.mrh0.createaddition.index.CARecipes$1"
 }
