@@ -32,7 +32,7 @@ def deployMusicDiscs():
 			musicDiscTagItems.append(itemId(filename))
 			langJsonDict[f"item.kubejs.{cleanedFilename(filename)}.desc"] = noExt(filename)
 
-		with open(os.path.join(const.startupScripts(), 'music_disc_registry.js'), 'w') as f:
+		with open(os.path.join(const.startupScripts(), 'music_disc_registry.js'), 'w', encoding='utf-8') as f:
 			f.write(
 				kubejs.registryFileContent('sound_event', soundRegistryContent) + "\n\n" +
 				kubejs.registryFileContent('item', itemRegistryContent)
@@ -71,9 +71,12 @@ def itemRegistry(filename):
 	musicLength = math.ceil(
 		ffprobe.getLength(os.path.join(diskAndArtLocation, filename))
 	)
-	itemTitle = noExt(filename)
+	itemTitle = itemName(filename)
 
 	return kubejs.createMusicDisc(itemId(filename), soundId(filename), musicLength, itemPath(filename), itemTitle)
+
+def itemName(filename):
+	return f"Music Disc: {noExt(filename)}"
 
 def itemId(filename):
 	return f"kubejs:{cleanedFilename(filename)}"

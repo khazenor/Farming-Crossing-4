@@ -53,6 +53,7 @@ def createMusicDisc(itemId, musicPath, musicLen, itemPath, displayName):
 	outStr += f'    .analogOutput(1)\n'
 	outStr += f'    .texture("{itemPath}")\n'
 	outStr += f'    .displayName("{displayName}")\n'
+	outStr += f'    .maxStackSize(64)\n'
 	return outStr
 # FILE CONTENT
 def wanderingTradeFileContent(tradeStr):
@@ -68,7 +69,7 @@ def villagerTradesContent(content):
 	return f"MoreJSEvents.villagerTrades((event) => {{\n{content}\n}})"
 
 def registryFileContent(registryType, content):
-	return f"StartupEvents.registry('{registryType}', event => {{\n{content}\n}})"
+	return f"StartupEvents.registry('{registryType}', event => {{\n{content}}})"
 
 def tagsContent(content):
 	return f"ServerEvents.tags('item', event => {{\n{content}\n}})"
