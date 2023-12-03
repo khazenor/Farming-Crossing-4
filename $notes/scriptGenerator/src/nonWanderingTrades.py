@@ -39,7 +39,7 @@ def genNonWanderingTrades():
 	writeTrades()
 	writeToolTips()
 	kubejs.generateSimpleTags(
-		wandererTrade1.items + wandererTrade1NoRemove.items + wandererTrade2.items,
+		wandererTrade1.items + wandererTrade1NoRemove.items + wandererTrade2.items + wandererTrade2.musicDisks,
 		'forge:all_tradeables',
 		'allTradeablesTag'
 	)
@@ -61,6 +61,13 @@ def writeTrades():
 		)
 	for priceOccur in priceRarity[rareKey]:
 		kubejsContent += villagerTradeContent(
+			wandererTrade2.musicDisks,
+			priceOccur[numCopiesKey],
+			priceOccur[ticketPriceKey],
+			4
+		)
+	for priceOccur in priceRarity[rareKey]:
+		kubejsContent += villagerTradeContent(
 			wandererTrade2.items,
 			priceOccur[numCopiesKey],
 			priceOccur[ticketPriceKey],
@@ -76,7 +83,7 @@ def villagerTradeContent(itemIds, numCopies, ticketPrice, level = -1):
 	kubejsContent = ""
 	for itemdIdx, itemId in enumerate(itemIds):
 		if level == -1:
-			tradeLevel = itemdIdx % 4 + 1
+			tradeLevel = itemdIdx % 3 + 1
 		else:
 			tradeLevel = level
 		for i in range(numCopies):
@@ -93,7 +100,7 @@ def villagerTradeContent(itemIds, numCopies, ticketPrice, level = -1):
 def writeToolTips():
 	tradeableItemsCommon = wandererTrade1.items + wandererTrade1NoRemove.items
 
-	tradeableItemsRare = wandererTrade2.items
+	tradeableItemsRare = wandererTrade2.items + wandererTrade2.musicDisks
 
 	with open(os.path.join(const.clientScripts(), 'furniture_duplication_tooltips.js'), 'w') as f:
 		f.write(kubejs.tooltipFileContent(
