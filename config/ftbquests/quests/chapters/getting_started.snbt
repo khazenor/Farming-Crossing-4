@@ -263,6 +263,19 @@
 			x: 0.5d
 			y: 1.0d
 		}
+		{
+			description: ["You can hand over items to another player by sneak right clicking the item stack in your hand on another player."]
+			id: "03A2644B1E35094F"
+			tasks: [{
+				count: 16L
+				id: "4591CDBF65B0AE72"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			title: "Info: Handing over items"
+			x: 1.5d
+			y: 1.0d
+		}
 	]
 	title: "Getting Started / FAQ's"
 }
