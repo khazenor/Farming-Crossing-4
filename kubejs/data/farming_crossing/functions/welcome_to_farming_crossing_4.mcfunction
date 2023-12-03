@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"<Jess> ","color":"aqua"},{"text":"Hi, Jess the Beaver here! Thank you for signing up for our new Adventurer's Settlement package. An intrepid adventurer like yourself is sure to find all the thrills and delights you seek in this new land.\n","color":"white"}]
+tellraw @p ["",{"text":"<Jess> ","color":"aqua"},{"text":"I'm happy to provide you a complimentary backpack to aid you on your journey. But first, demonstrate your survival prowess by gathering some wood please.","color":"white"}]

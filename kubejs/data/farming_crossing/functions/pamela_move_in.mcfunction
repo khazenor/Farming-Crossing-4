@@ -1,0 +1,1 @@
+tellraw @p ["",{"text":"<Pamela> ","color":"aqua"},{"text":"Hi there, fellow chef! I'm here to help you with your cooking journey. I'm positive other villagers will enjoy tasting your meals!","color":"white"}]

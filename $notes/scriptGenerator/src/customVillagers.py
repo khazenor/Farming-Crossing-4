@@ -1,4 +1,4 @@
-from src import const
+from lib import mcfunction
 import os
 nameKey = 'name'
 textureKey = 'texture'
@@ -16,9 +16,6 @@ otherVillagers = [
 	{nameKey: 'Jess', textureKey: 'beaver'}
 ]
 
-def functionFolder():
-	return os.path.join(const.data(), 'farming_crossing', 'functions')
-
 def offerFolder():
 	return os.path.join('input', 'customVillagersOffers')
 
@@ -30,7 +27,7 @@ def deployFunctions():
 def writeSummonCommands():
 	for villager in villagersWithTrades:
 		name = villager[nameKey]
-		writeFunction(
+		mcfunction.writeFunction(
 			name,
 			summonNpcCommand(
 				villager[textureKey],
@@ -40,7 +37,7 @@ def writeSummonCommands():
 		)
 	for villager in otherVillagers:
 		name = villager[nameKey]
-		writeFunction(
+		mcfunction.writeFunction(
 			name,
 			summonNpcCommand(
 				villager[textureKey],
@@ -63,12 +60,12 @@ def summonNpcCommand(texture, name, offerStr=""):
 def writeHighlightCommands():
 	for villager in villagersWithTrades + otherVillagers:
 		name = villager[nameKey]
-		writeFunction(f'{name}_highlight', highlightVillagerCommand(name))
+		mcfunction.writeFunction(f'{name}_highlight', highlightVillagerCommand(name))
 
 def writeTradeUpdateCommands():
 	for villager in villagersWithTrades:
 		name = villager[nameKey]
-		writeFunction(
+		mcfunction.writeFunction(
 			f'{name}_update_trades',
 			highlightVillagerCommand(name) + "\n" +
 			tradeUpdateCommand(name)
@@ -93,7 +90,4 @@ def readOffer(name):
 			offerStr += line.strip()
 	return offerStr
 
-def writeFunction(name, content):
-	with open(os.path.join(functionFolder(), f"{name.lower()}.mcfunction"), 'w') as f:
-		f.write(content)
 

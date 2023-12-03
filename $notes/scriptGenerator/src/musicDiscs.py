@@ -5,6 +5,7 @@ import shutil
 import json
 from lib import ffprobe
 from lib import kubejs
+from lib import stringCleaning
 from src import const
 from pathlib import Path
 
@@ -91,13 +92,7 @@ def itemPath(filename):
 	return f"{categoryName}:item/{cleanedFilename(filename)}"
 
 def cleanedFilename(filename):
-	return cleanedNameStr(noExt(filename))
-
-def cleanedNameStr(nameStr):
-	newStr = re.sub('[^a-zA-Z ]+','', nameStr)
-	newStr = re.sub(' +', '_', newStr)
-	newStr = newStr.lower()
-	return newStr
+	return stringCleaning.cleanedNameStr(noExt(filename))
 
 def noExt(fileStr):
 	return fileStr.split('.')[0]
