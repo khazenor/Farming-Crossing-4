@@ -1,4 +1,6 @@
 import random
+import os
+from src import const
 parentStr = "0123456789ABCDEF"
 stringLength = 15
 
@@ -69,3 +71,11 @@ def arrToStringContent(array, tabs=0):
 			outStr += "\t"
 		outStr += f'"{item}"\n'
 	return outStr
+
+def writeQuestChapter(chapterName, content):
+	with open(
+			os.path.join(const.ftbChapters(), f"{chapterName}.snbt"),
+			'w',
+			encoding='utf-8'
+		) as f:
+		f.write(content)
