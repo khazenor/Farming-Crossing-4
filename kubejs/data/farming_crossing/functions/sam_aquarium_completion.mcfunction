@@ -1,0 +1,1 @@
+tellraw @p ["",{"text":"<Sam> ","color":"aqua"},{"text":"Ah, so you have scoured the waters and captured every single fish known to this land.  The sneaky catfish! The mysterious red shrooma!  Even the mighty tuna!  How sublime!  It gives me such pleasure to know you are as devoted to the art of fishing as I.  (Sam sheds a single tear, he’s so proud.)","color":"white"}]

@@ -145,5 +145,35 @@ dialogs = [
     speakerKey: yukkie,
     textsKey: ['I’M HERE!  Please sell me your FRUIT!  I LOVE FRUIT!'],
     questIdKey: "78BB8E151802329C"
+  }, {
+    nameKey: 'Laly Museum Completion',
+    speakerKey: laly,
+    textsKey: ['Oooo, fantastic work, explorer!  You’ve found every mineral in our known records - That’s dedication!  Please, please, pleeease consider selling your finds to my museum. We’re always on the lookout for new shiny specimens!'],
+    questIdKey: "49C7846133740B4E"
+  }, {
+    nameKey: 'Sam Aquarium Completion',
+    speakerKey: sam,
+    textsKey: ['Ah, so you have scoured the waters and captured every single fish known to this land.  The sneaky catfish! The mysterious red shrooma!  Even the mighty tuna!  How sublime!  It gives me such pleasure to know you are as devoted to the art of fishing as I.  (Sam sheds a single tear, he’s so proud.)'],
+    questIdKey: "69ED3CAACF3395D3"
+  }, {
+    nameKey: 'Flora Collection Completion',
+    speakerKey: yukkie,
+    textsKey: ['YOU DID IT!  You’ve collected all the plants!  WOOHOOOO!'],
+    questIdKey: "0A5399742B2867D9"
+  }, {
+    nameKey: "Jess Hat Collection Completion",
+    speakerKey: jess,
+    textsKey: ['You’ve collected every hat we have in our catalog. With that sizable collection of hats, I’m confident you will be able to make any fashion statement you desire.'],
+    questIdKey: "555557301F1CCF2A"
+  }, {
+    nameKey: "Jess Common Decoration Completion",
+    speakerKey: jess,
+    textsKey: ['You’ve obtained every common item we have in our catalog. You are quite the dedicated collector!  Thank you for your patronage!'],
+    questIdKey: "060649D6BC54FDC5"
+  }, {
+    nameKey: "Jess Rare Decoration Completion",
+    speakerKey: jess,
+    textsKey: ['You’ve collected every rare item we have in our catalog. Very impressive indeed! Thank you for your patronage!'],
+    questIdKey: "29AD5A8D4371C3DB"
   }
 ]

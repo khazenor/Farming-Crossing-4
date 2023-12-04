@@ -545,6 +545,144 @@
 			x: 2.0d
 			y: 6.0d
 		}
+		{
+			dependencies: ["49C7846133740B4E"]
+			description: ["Oooo, fantastic work, explorer!  You’ve found every mineral in our known records - That’s dedication!  Please, please, pleeease consider selling your finds to my museum. We’re always on the lookout for new shiny specimens!"]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "73B8B75AEF08B513"
+			rewards: [{
+				auto: "invisible"
+				command: "/function farming_crossing:laly_museum_completion"
+				elevate_perms: true
+				id: "249A41159CF7A551"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "31BC4C8D8C24FE13"
+				type: "item"
+			}]
+			title: "Laly Museum Completion"
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["69ED3CAACF3395D3"]
+			description: ["Ah, so you have scoured the waters and captured every single fish known to this land.  The sneaky catfish! The mysterious red shrooma!  Even the mighty tuna!  How sublime!  It gives me such pleasure to know you are as devoted to the art of fishing as I.  (Sam sheds a single tear, he’s so proud.)"]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "67C1AC2E1B55D105"
+			rewards: [{
+				auto: "invisible"
+				command: "/function farming_crossing:sam_aquarium_completion"
+				elevate_perms: true
+				id: "3CBE34A4401C3A12"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7E384B9C420DD555"
+				type: "item"
+			}]
+			title: "Sam Aquarium Completion"
+			x: 3.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["0A5399742B2867D9"]
+			description: ["YOU DID IT!  You’ve collected all the plants!  WOOHOOOO!"]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "64B2CCCD1AF2943F"
+			rewards: [{
+				auto: "invisible"
+				command: "/function farming_crossing:flora_collection_completion"
+				elevate_perms: true
+				id: "17346A8B8EABB6EA"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4F805D1FC713D169"
+				type: "item"
+			}]
+			title: "Flora Collection Completion"
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["555557301F1CCF2A"]
+			description: ["You’ve collected every hat we have in our catalog. With that sizable collection of hats, I’m confident you will be able to make any fashion statement you desire."]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "5B9B58A5F846E19F"
+			rewards: [{
+				auto: "invisible"
+				command: "/function farming_crossing:jess_hat_collection_completion"
+				elevate_perms: true
+				id: "0DF3A68D328FD81A"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7CED612CE003D2A8"
+				type: "item"
+			}]
+			title: "Jess Hat Collection Completion"
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["060649D6BC54FDC5"]
+			description: ["You’ve obtained every common item we have in our catalog. You are quite the dedicated collector!  Thank you for your patronage!"]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "6BAFCAA97DB50120"
+			rewards: [{
+				auto: "invisible"
+				command: "/function farming_crossing:jess_common_decoration_completion"
+				elevate_perms: true
+				id: "2DDE1A952574E3E0"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4718A9E890310766"
+				type: "item"
+			}]
+			title: "Jess Common Decoration Completion"
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["29AD5A8D4371C3DB"]
+			description: ["You’ve collected every rare item we have in our catalog. Very impressive indeed! Thank you for your patronage!"]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "299210319A3EEBD0"
+			rewards: [{
+				auto: "invisible"
+				command: "/function farming_crossing:jess_rare_decoration_completion"
+				elevate_perms: true
+				id: "6DCE04B23FD9AC0F"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6CF7BB660A91A8A7"
+				type: "item"
+			}]
+			title: "Jess Rare Decoration Completion"
+			x: 6.0d
+			y: 0.0d
+		}
 	]
 	title: "Villager Dialogs"
 }
