@@ -112,7 +112,7 @@ dialogs = [
   }, {
     nameKey: 'Laly 35',
     speakerKey: laly,
-    textsKey: ["You’ve spotted 35 new animals, huh?  Well, I reckon I'd like to come out there myself.  Would you mind finding me a place?"],
+    textsKey: ["Oooooh, you found 35 different minerals?  Perfect, I’m headed over to buy them for my museum collection!  If you could find a place for me to stay, that would be super!"],
     questIdKey: "5BD7DC258B1E8D88"
   }, {
     nameKey: 'Laly move in',

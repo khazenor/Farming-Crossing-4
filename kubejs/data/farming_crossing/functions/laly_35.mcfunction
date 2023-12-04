@@ -1,1 +1,1 @@
-tellraw @p ["",{"text":"<Laly> ","color":"aqua"},{"text":"You’ve spotted 35 new animals, huh?  Well, I reckon I'd like to come out there myself.  Would you mind finding me a place?","color":"white"}]
+tellraw @p ["",{"text":"<Laly> ","color":"aqua"},{"text":"Oooooh, you found 35 different minerals?  Perfect, I’m headed over to buy them for my museum collection!  If you could find a place for me to stay, that would be super!","color":"white"}]
