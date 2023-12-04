@@ -40,15 +40,7 @@
 		}
 		{
 			dependencies: ["7CF35DAE02E4B6C0"]
-			description: [
-				"\"Hi there, human!  I'm Pamela the Rabbit, hobbyist gardener and head chef of the Carrot Place!\n\nJess told me you are aspiring to be a great chef one day - that's wonderful! I'd be delighted to help you get started.\""
-				""
-				"- Pamela the Rabbit"
-				""
-				"--------"
-				""
-				"After you have cooked enough unique dishes, you will be able to redeem some Miles Tickets from the Miles Reward Program chapter."
-			]
+			description: ["After you have cooked enough unique dishes, you will be able to redeem some Miles Tickets from the Miles Reward Program chapter."]
 			hide: true
 			icon: "minecraft:wheat_seeds"
 			id: "57BAA8B414FF1F4F"
@@ -422,12 +414,6 @@
 		{
 			dependencies: ["7CF35DAE02E4B6C0"]
 			description: [
-				"\"This is Sam the Osprey.  I'm somewhat of a connoisseur of aquatic life, both in terms of natural history and consumption.  My life revolves around fish - I'm a sushi chef by day and a fisherman by night.\n\nWhen Jess told me you were considering a fishing career, I must say I was overjoyed.\nThe delight of capturing your own fish and eating it the same day -- the fresh fatty umami taste melting on your tongue with every bite -- is one of the greatest pleasures in life.\nAt least, that's how I see it.\n\nFish is all I eat, all that sustains me.\nI hope that you will come to understand my point of view, and perhaps embrace it with me.\""
-				""
-				"- Sam the osprey"
-				""
-				"------------"
-				""
 				"You can sell fishes in the crafting table for miles tickets."
 				""
 				"{image:khazenor:textures/aquaculture/fish_tooltip.png width:180 height:70 align:1}"
@@ -480,15 +466,7 @@
 		}
 		{
 			dependencies: ["7CF35DAE02E4B6C0"]
-			description: [
-				"\"Hi, hi! I'm Laly, Laly the Meerkat! I'm a geologist who loves caving, and a curator of the Oyster Creek Museum's gems and minerals exhibit.\n\nI spend A LOT of time underground. It's my happy place. But lately I haven't been able to get out in the field as much as I'd like, since work at the museum has been picking up.\n\nI was sooo jealous when Jess told me where she sent you. Lucky you! Turns out, the land is an absolute treasure trove for gems. Since you'll be finding a ton of gems while you mine, you wouldn't mind sending me some specimens for science, right? I can't wait to see what you find!\""
-				""
-				"- Laly the Meerkat"
-				""
-				"------------"
-				""
-				"After you have gathered enough unique minerals, you will be able to redeem some Miles Tickets from the Miles Reward Program chapter."
-			]
+			description: ["After you have gathered enough unique minerals, you will be able to redeem some Miles Tickets from the Miles Reward Program chapter."]
 			hide: true
 			icon: {
 				Count: 1b
@@ -699,12 +677,6 @@
 		{
 			dependencies: ["7CF35DAE02E4B6C0"]
 			description: [
-				"\"I'm Woodpecker Ren...  Cutter of wood for many years... Making furniture? Simple. Find yourself some good materials and I'll help you from there\""
-				""
-				"- Ren the woodpecker"
-				""
-				"------------"
-				""
 				"In this modpack you can convert materials to many furniture by using the sawmill or the stonecutter!"
 				""
 				"{image:khazenor:textures/sawmill/sawmill_tutorial.png width:180 height:80 align:1}"
@@ -737,12 +709,6 @@
 		{
 			dependencies: ["7CF35DAE02E4B6C0"]
 			description: [
-				"\"G'day, I'm Andre the Dog! I've been farming since I was old enough to fill a trough.\n\nI'm retired now, but I must say, I'm enjoying it well enough. No losing sleep over managing the farm. No need to worry about logistics, the weather... I can focus my full attention on training my animals.\n\nThe other day, I taught my chicken Bessie to roll over. She's a smart one, that hen. I even have time to help out at the Oyster Creek Zoo every now and then.\""
-				""
-				"- Andre the dog"
-				""
-				"------------"
-				""
 				"To complete the animal observation quests, simply look at them while nearby."
 				""
 				"After you have observed enough unique animals, you will be able to redeem some Miles Tickets from the Miles Reward Program chapter."
@@ -978,15 +944,7 @@
 		}
 		{
 			dependencies: ["7CF35DAE02E4B6C0"]
-			description: [
-				"I LOVE FRUITS! There are so many fruit trees here!\n\nOh, I'm Yukkie the Bat, by the way. You're an adventurer too?  Nice to meet you!\n\nThe world is my orchard. It can be yours too. Keep your eyes peeled, and you're bound to find nature's bounty on every branch and bough. Once you pick one - you'll be hooked!\n\nYou know, you can make a good living off just selling wild fruit and nuts. As for me, I'm happy just keeping them all for myself. Ha!"
-				""
-				"- Yukkie the bat"
-				""
-				"----------"
-				""
-				"After you have collected enough flora, you will be able to redeem some Miles Tickets from the Miles Reward Program chapter."
-			]
+			description: ["After you have collected enough flora, you will be able to redeem some Miles Tickets from the Miles Reward Program chapter."]
 			hide: true
 			icon: "minecraft:cherry_sapling"
 			id: "0EABDA42EA87C46C"

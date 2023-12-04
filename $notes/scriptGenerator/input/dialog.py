@@ -50,10 +50,15 @@ dialogs = [
     textsKey: ["Jess’ Decor Emporium is now open for business!  What can I do for you today?"],
     questIdKey: "756B6CAC42F98D92"
   }, {
-    nameKey: 'Pamela 5 Meals',
+    nameKey: 'Pamela Introduction',
     speakerKey: pamela,
-    textsKey: ["Oh, I’m so excited you've cooked 5 different meals! Excellent for a budding chef, I must say. If you cook 35 different meals, I’d be happy to come over and sell you some supplies for your cooking needs."],
+    textsKey: ["Hi there, human!  I'm Pamela the Rabbit, hobbyist gardener and head chef of the Carrot Place! Jess told me you are aspiring to be a great chef one day - that's wonderful! I'd be delighted to help you get started."],
     questIdKey: "7D4ECE99F833F20B"
+  }, {
+    nameKey: 'Pamela 10 Meals',
+    speakerKey: pamela,
+    textsKey: ["Oh, I’m so excited you've cooked 10 different meals! Excellent for a budding chef, I must say. If you cook 35 different meals, I’d be happy to come over and sell you some supplies for your cooking needs."],
+    questIdKey: "0D16B04331F0C522"
   }, {
     nameKey: 'Pamela 35 Meals',
     speakerKey: pamela,
@@ -70,10 +75,15 @@ dialogs = [
     textsKey: ["Amazing!  You cooked all the recipes I shared with you!  There’s nothing left for me to teach you – you are a master chef!"],
     questIdKey: "1DA855B03738A6FC"
   }, {
-    nameKey: 'Andre 5',
+    nameKey: 'Andre Introduction',
     speakerKey: andre,
-    textsKey: ["Great job on spotting 5 new animals, kiddo!  If you spot 35 new animals, I'd be mighty tempted to join you."],
+    textsKey: ["G'day, I'm Andre the Dog! I've been farming since I was old enough to fill a trough. I'm retired now, but I must say, I'm enjoying it well enough. No losing sleep over managing the farm. No need to worry about logistics, the weather... I can focus my full attention on training my animals. The other day, I taught my chicken Bessie to roll over. She's a smart one, that hen. I even have time to help out at the Oyster Creek Zoo every now and then."],
     questIdKey: "3645429AF67765BC"
+  }, {
+    nameKey: 'Andre 10',
+    speakerKey: andre,
+    textsKey: ["Great job on spotting 10 new animals, kiddo!  If you spot 35 new animals, I'd be mighty tempted to join you."],
+    questIdKey: "343F9000F59A93DC"
   }, {
     nameKey: 'Andre 35',
     speakerKey: andre,
@@ -90,10 +100,15 @@ dialogs = [
     textsKey: ["Well I’ll be. You’ve seen all the animals there are in this world.  I tip my hat to you, explorer.  You’ve done good."],
     questIdKey: "1B8E82ADB3063C94"
   }, {
-    nameKey: 'Laly 5',
+    nameKey: 'Laly Introduction',
     speakerKey: laly,
-    textsKey: ["Great job on spotting 5 new animals, kiddo!  If you spot 35 new animals, I'd be mighty tempted to join you."],
+    textsKey: ["Hi, hi! I'm Laly, Laly the Meerkat! I'm a geologist who loves caving, and a curator of the Oyster Creek Museum's gems and minerals exhibit. I spend A LOT of time underground. It's my happy place. But lately I haven't been able to get out in the field as much as I'd like, since work at the museum has been picking up. I was sooo jealous when Jess told me where she sent you. Lucky you! Turns out, the land is an absolute treasure trove for gems. Since you'll be finding a ton of gems while you mine, you wouldn't mind sending me some specimens for science, right? I can't wait to see what you find!"],
     questIdKey: "0EA0B0156D254A55"
+  }, {
+    nameKey: 'Laly 10',
+    speakerKey: laly,
+    textsKey: ["Laly: Ooooh, you found 10 different minerals?  If you find 35 different minerals, I’ll come buy them from you personally for my museum collection"],
+    questIdKey: "066816B80DBA702E"
   }, {
     nameKey: 'Laly 35',
     speakerKey: laly,
@@ -105,6 +120,11 @@ dialogs = [
     textsKey: ["Howdy, kiddo.  Searching for animal care supplies?  I’ve got 'em right here."],
     questIdKey: "32315F192BEB4876"
   }, {
+    nameKey: 'Ren: Furniture Cutting',
+    speakerKey: ren,
+    textsKey: ["I'm Woodpecker Ren...  Cutter of wood for many years... Making furniture? Simple. Find yourself some good materials and I'll help you from there"],
+    questIdKey: "6FA340C0FFE7FB26"
+  }, {
     nameKey: 'Ren: Interior Decoration',
     speakerKey: ren,
     textsKey: ["Making furniture?  Simple. First, build these… Then… I’ll come to help."],
@@ -115,10 +135,15 @@ dialogs = [
     textsKey: ['Very good.  Making furniture?  Here is wood for sale.'],
     questIdKey: "468E43123E8DB4F9"
   }, {
-    nameKey: 'Sam 5',
+    nameKey: 'Sam Introduction',
     speakerKey: sam,
-    textsKey: ['I see you have caught 5 different fishes. So, have you embraced the joys of fishing?  Catch 20 fishes, and I will consider moving nearby.'],
+    textsKey: ["This is Sam the Osprey.  I'm somewhat of a connoisseur of aquatic life, both in terms of natural history and consumption.  My life revolves around fish - I'm a sushi chef by day and a fisherman by night. When Jess told me you were considering a fishing career, I must say I was overjoyed. The delight of capturing your own fish and eating it the same day -- the fresh fatty umami taste melting on your tongue with every bite -- is one of the greatest pleasures in life. At least, that's how I see it. Fish is all I eat, all that sustains me. I hope that you will come to understand my point of view, and perhaps embrace it with me."],
     questIdKey: "4B5821638796D866"
+  }, {
+    nameKey: 'Sam 10',
+    speakerKey: sam,
+    textsKey: ['I see you have caught 10 different fishes. So, have you embraced the joys of fishing?  Catch 20 fishes, and I will consider moving nearby.'],
+    questIdKey: "798AB9A1C423126C"
   }, {
     nameKey: 'Sam 20',
     speakerKey: sam,
@@ -130,10 +155,15 @@ dialogs = [
     textsKey: ['Please bring me your finest catch, and I will make it worth your while. I will prepare your fish with care and serve them as fresh sushi.'],
     questIdKey: "24D59BF6E757524F"
   }, {
-    nameKey: 'Yukkie 5',
+    nameKey: 'Yukkie Introduction',
     speakerKey: yukkie,
-    textsKey: ['You found 5 different plants?!  Sweet!  When you find 35 different plants, let me know.  I’m sure you’ll have plenty of fruits for me by then!'],
+    textsKey: ["I LOVE FRUITS! There are so many fruit trees here! Oh, I'm Yukkie the Bat, by the way. You're an adventurer too?  Nice to meet you! The world is my orchard. It can be yours too. Keep your eyes peeled, and you're bound to find nature's bounty on every branch and bough. Once you pick one - you'll be hooked! You know, you can make a good living off just selling wild fruit and nuts. As for me, I'm happy just keeping them all for myself. Ha!"],
     questIdKey: "0AADFE658B1A54BF"
+  }, {
+    nameKey: 'Yukkie 10',
+    speakerKey: yukkie,
+    textsKey: ['You found 10 different plants?!  Sweet!  When you find 35 different plants, let me know.  I’m sure you’ll have plenty of fruits for me by then!'],
+    questIdKey: "373DD8DC92672982"
   }, {
     nameKey: 'Yukkie 35',
     speakerKey: yukkie,
