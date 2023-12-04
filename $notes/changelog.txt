@@ -1,4 +1,9 @@
 0.9: upcoming:
+  # Special Villager Dialogs
+  - Read messages from special villages in the chat while you accomplish quests!
+  - If you have already done the quests with dialogs, you would see all of the dialogs at the same time in the server log when you log in.  If you want to see the dialogs in order you need to restart the questline.
+  - You can see the dialogs again in the "Villager Dialogs" quest chapter
+  
   # Major changes:
   - Added more music discs by Oneul
   - Jess's Level 4 trades now will always be music discs
