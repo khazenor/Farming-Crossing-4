@@ -26,8 +26,7 @@ dialogs = [
     nameKey: 'Welcome to Farming Crossing 4',
     speakerKey: jess,
     textsKey: [
-      "Hi, Jess the Beaver here! Thank you for signing up for our new Adventurer's Settlement package. An intrepid adventurer like yourself is sure to find all the thrills and delights you seek in this new land.\\n",
-      "I'm happy to provide you a complimentary backpack to aid you on your journey. But first, demonstrate your survival prowess by gathering some wood please."
+      "Hi, Jess the Beaver here! Thank you for signing up for our new Adventurer's Settlement package. An intrepid adventurer like yourself is sure to find all the thrills and delights you seek in this new land. I'm happy to provide you a complimentary backpack to aid you on your journey. But first, demonstrate your survival prowess by gathering some wood please."
     ],
     questIdKey: "3040D972C5FB1772"
   }, {
