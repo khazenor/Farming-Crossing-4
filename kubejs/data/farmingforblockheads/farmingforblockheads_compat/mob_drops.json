@@ -45,6 +45,10 @@
       "payment": { "item": "kubejs:miles_ticket", "count": 8 }, 
       "category": "mobdrops"
     },{
+      "output": { "item": "minecraft:gunpowder" }, 
+      "payment": { "item": "kubejs:miles_ticket", "count": 6 }, 
+      "category": "mobdrops"
+    },{
       "output": { "item": "minecraft:string" }, 
       "payment": { "item": "kubejs:miles_ticket", "count": 2 }, 
       "category": "mobdrops"
