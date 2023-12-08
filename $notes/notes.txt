@@ -19,3 +19,51 @@ highlight npcs:
 /tp @e[type=ssls_npc_maker_mod:npc, name=Jess, sort=nearest, limit=1] @p
 
 /data modify entity @e[type=minecraft:villager,limit=1,sort=nearest,distance=..10] <path of the tag you want to edit> set value <what you want to set it to>
+
+
+
+
+
+==============
+==== Done ====
+==============
+Dev Ops:
+- set up minecraft folders
+- set up development workspace
+- set up deploy script
+
+Configs:
+  - disable hostile spawns
+  - disable animal spawns
+
+Features:
+  - Building material duplication
+  - Farming for blockheads store
+  - Selling Fishes
+  - Furniture cutting
+  - score board and server whispers to inform quest completion
+    - notes:
+      - /tellraw @p ["",{"text":"Your score is"},{"score":{"name":"@p","objective":"animals_observed"}}]
+      - /scoreboard objectives add animals_observed dummy {"text": "Animals Observed"}
+      - /scoreboard players set @p animals_observed 0
+      - /scoreboard players add @p animals_observed 1
+  - add custom audio
+  - reskin villagers
+
+Scripts:
+- wandering trader trades
+  - furniture
+  - hats
+- tooltips
+  - distinguish rare wander trade tooltips
+
+Quests:
+- Collection Completion Questline
+- Cooking Questline
+- Collection Quests
+  - common decorations (334)
+  - rare decorations (30)
+  - hats (239)
+  - animals (88)
+  - Fish (37)
+  - Cooking (116)
