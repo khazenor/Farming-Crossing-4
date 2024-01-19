@@ -6,6 +6,7 @@ from src import kubejs
 from src import resourcepacks
 from src import shaderpacks
 from src import selfDeploy
+from src import customFilesFolder
 
 def deployModpack():
 	mods.deployMods()
@@ -16,3 +17,4 @@ def deployModpack():
 	resourcepacks.deployResourcepacks()
 	shaderpacks.deployShaderpacks()
 	selfDeploy.deploySelf()
+	customFilesFolder.deployCustomFilesFolder()

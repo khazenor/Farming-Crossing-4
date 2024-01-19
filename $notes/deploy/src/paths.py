@@ -9,3 +9,5 @@ servers = []
 dropboxDeployScriptLoc = ''
 
 logFile = ''
+
+customFilesFolder = ''

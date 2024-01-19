@@ -24,7 +24,7 @@ def copyFolder(src, dest, deleteExtraFiles=True):
 	if deleteExtraFiles:
 		removeExtraFilesRecur(src, destFolderWName, doLog=False)
 
-def copyFolderRecur(src, destFolder, allowSubStrList=[], denySubStrList=[], doLog=True):
+def copyFolderRecur(src, destFolder, allowSubStrList=[], denySubStrList=[], doLog=True, checkTime=True):
 	if os.path.exists(src) and os.path.exists(destFolder):
 		srcName = Path(src).name
 		existingDestFilePath = os.path.join(destFolder, srcName)
@@ -39,7 +39,7 @@ def copyFolderRecur(src, destFolder, allowSubStrList=[], denySubStrList=[], doLo
 				log.log(f'   - Copy: {existingDestFilePath}')
 			if os.path.isfile(src):
 				if Path(existingDestFilePath).is_file():
-					if os.stat(src).st_mtime - os.stat(existingDestFilePath).st_mtime > 0:
+					if checkTime and os.stat(src).st_mtime - os.stat(existingDestFilePath).st_mtime > 0:
 						shutil.copy2(src, destFolder)
 				else:
 					shutil.copy2(src, destFolder)
