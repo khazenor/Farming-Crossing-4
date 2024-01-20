@@ -3511,6 +3511,68 @@
 			x: 4.0d
 			y: 19.0d
 		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "0A8A8756850307AC"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "4CAC7E23418B472F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "5DB2A23391434EA9"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "113D67631E6DE442"
+				item: "biomesoplenty:glowing_moss_block"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 19.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "01A5381D909F77A0"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "13E946F11028333B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "551ECACA54DD9A7B"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "0EECE9A0AE0FBD66"
+				item: "biomesoplenty:glowing_moss_carpet"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 20.0d
+		}
 	]
 	title: "Flora Compendium"
 }
