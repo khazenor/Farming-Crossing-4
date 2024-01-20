@@ -276,6 +276,31 @@
 			x: 1.5d
 			y: 1.0d
 		}
+		{
+			description: [
+				"When you are exploring around the world you might find enchanted rings."
+				""
+				"Enchanted Rings cannot be crafted through known means. Instead they must be found in Dungeon Chests, Desert Pyramids, Jungle Temples, or Buried Treasure. They are named in the same runic language seen in enchantment tables."
+				""
+				"An enchanted ring can be used like a potion to grant magical effects or it can be worn (with the Curios mod installed) for a continuous stream of the magical effect. Each use drains the durability of the ring until it is about to break. Then it drains experience from the user. If the user does not have experience, it will do nothing."
+			]
+			id: "3F1C1C32D2E985B8"
+			tasks: [{
+				id: "5F734FDD3289E8E7"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "curios:ring"
+					}
+				}
+				title: "Any #curios:ring"
+				type: "item"
+			}]
+			title: "Info: Enchanted Rings"
+			x: -1.5d
+			y: 1.0d
+		}
 	]
 	title: "Getting Started / FAQ's"
 }
