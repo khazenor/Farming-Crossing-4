@@ -3573,6 +3573,37 @@
 			x: 0.0d
 			y: 20.0d
 		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "4BDB249EF6B272CA"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "3DB1E794E757A25E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "0ABC3B2A0C6EFFFC"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "1173D37E705A5E47"
+				item: "minecraft:cocoa_beans"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 20.0d
+		}
 	]
 	title: "Flora Compendium"
 }
