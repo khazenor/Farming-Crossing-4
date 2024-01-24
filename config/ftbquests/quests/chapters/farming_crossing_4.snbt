@@ -336,25 +336,91 @@
 				item: "beachparty:icecream_coconut"
 				type: "item"
 			}]
-			x: 4.5d
+			x: 2.5d
 			y: -5.5d
 		}
 		{
 			dependencies: ["2D0063702FDE9B52"]
+			description: [
+				"## STOVE (FARMER'S DELIGHT) ##"
+				""
+				"To add items to its grill, simply right-click the Stove when it has no objects blocking its top face. Stoves detect campfire recipes to cook, meaning they usually also take 30 seconds to fully prepare items. Stoves cannot be automated through item transferring blocks (e.g. Hoppers), but require no fuel to cook items, much like a Campfire."
+				""
+				"Stoves can hold six (6) items on its grill, and will gently pop cooked outputs above its surface, instead of throwing them around."
+				""
+				"If the middle of the Stove's grill is obstructed by any block, such as a closed Trapdoor or a Cooking Pot, all foods on the grill will be flung away, and the Stove will be unable to receive ingredients until the obstruction is removed."
+				""
+				"Stoves can be put out using shovels or buckets of water, and reignited with Flint and Steel."
+				""
+				""
+				"## SKILLET ##"
+				""
+				"The Skillet is a weapon and a portable food-cooking station, which can be operated by hand or as a block."
+				"Overview"
+				""
+				"Skillets can process any campfire cooking recipe, taking roughly 20% of the original time to cook each item (by default, 6 seconds for most recipes)."
+				""
+				"It has two modes of operation:"
+				""
+				"#Block"
+				""
+				"Players can sneak-use the skillet to place it down as a block. If placed above a valid heat source (like stove or a campfire), it will be able to cook food items placed on it. The block form can hold on to a single stack of items, dropping them to the right side (handle pointing to the observer) when finished, requiring an item catcher to collect the items. Hoppers or Baskets are recommended."
+				""
+				"Skillets can be quickly mined by hand. The block will remember all of the item's traits, such as names, enchantments etc."
+				""
+				"#Handheld"
+				""
+				"When a player is wielding a skillet close to any heat_sources, they'll be able to cook any valid items in their opposite hand by holding the use button. This takes just as long as the block-mode operation. Processed items are put in the player's inventory, or dropped if there's not enough space."
+				""
+				"Players are able to operate the Skillet by hand at any location if they're currently on fire."
+				""
+				"#Weapon"
+				""
+				"Skillets can be used as a heavyweight melee weapon. They deal slightly less damage than an Iron Axe and have the same swing speed, but also possess higher knockback on each hit (roughly 2x as much). Their durability is the same as any Iron tool."
+				"Enchantments"
+				""
+				"Skillets can receive the same enchantments that a Sword can, with the exception of Sweeping Edge."
+				""
+				"Fire Aspect will increase the Skillet's cooking speed slightly per level, for both handheld and block modes. As a block, a heated Fire Aspect skillet will emit magic sparks to indicate this."
+			]
 			hide: true
 			id: "19DDD6BE0B345083"
-			rewards: [{
-				count: 24
-				id: "678A6A2DF29E682E"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 24
+					id: "678A6A2DF29E682E"
+					item: "kubejs:miles_ticket"
+					type: "item"
+				}
+				{
+					id: "33FD4829A398375B"
+					item: "farmersdelight:stove"
+					type: "item"
+				}
+				{
+					id: "6EA1A8050532BC5C"
+					item: {
+						Count: 1b
+						id: "farmersdelight:skillet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "262DF9E14A3C9551"
+					item: "minecraft:potato"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "29A7F283F3D55A42"
 				item: "beachparty:coconut_cocktail"
 				type: "item"
 			}]
-			x: 5.5d
+			x: 3.5d
 			y: -5.5d
 		}
 		{
@@ -1846,6 +1912,152 @@
 			title: "Jess's Furniture Bundle"
 			x: 3.5d
 			y: -0.5d
+		}
+		{
+			dependencies: ["19DDD6BE0B345083"]
+			hide: true
+			id: "5202BD912333D54E"
+			rewards: [
+				{
+					id: "681ECA4B2FB82773"
+					item: "farmersdelight:cutting_board"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "5CE5DEFA96165A73"
+					item: "farmersdelight:cabbage_seeds"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "33D150D74B89A1E2"
+				item: "minecraft:baked_potato"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["5202BD912333D54E"]
+			description: [
+				"The Cooking Pot is a workstation where you can prepare and store a large amount of meals."
+				"Conditions"
+				""
+				"In order to prepare meals, the pot must be heated by the block underneath it. This is indicated by boiling bubbles, steam and a campfire icon in the pot's interface: if flames appear, the pot is heated. There are many suitable heat sources by default, and more can be added through the heat_sources tag:"
+				""
+				"    Fire and Soul Fire"
+				"    Lava"
+				"    Magma Block"
+				"    Campfire and Soul Campfire (lit)"
+				"    Stove (lit)"
+				""
+				"## Usage ##"
+				""
+				"#Cooking"
+				""
+				"The Cooking Pot has an interface similar to a Crafting Table, with a few key differences. It has six (6) slots to add ingredients, and one (1) slot to add containers. Prepared meals will appear into the pot-shaped slot, where they're stored until a suitable container is inserted, taking one serving from the pot. If the prepared meal lacks a container, it will drop straight to output."
+				""
+				"You can see which container the meal is served on by hovering the cursor over it."
+				""
+				"If an ingredient has a container (e.g. Milk Bottle, Tomato Sauce), such container will be ejected from the pot's top side when the recipe is done cooking. Ingredient containers will always be thrown opposite to the wooden spoon, and can be captured by hoppers, baskets and similar."
+				""
+				"Meals, on average, are prepared over the course of 10 seconds, with simpler ones (such as Cooked Rice) preparing in 5 seconds."
+				""
+				"Hoppers and similar blocks from other mods can transfer items through the Cooking Pot:"
+				""
+				"    Top: insert/extract ingredients;"
+				"    Side: insert containers;"
+				"    Bottom: extract outputted meals (after inputting a container)."
+				""
+				"#Food storage"
+				""
+				"Meals that require a container will be held inside the pot, stacking up to 64 servings, regardless of the item's maximum stack limit. The pot can be mined, carried and placed back down, keeping all stored meals inside, similar to a Shulker Box; however, all other slots will drop their contents when the pot is mined. This allows players to carry a large amount of foods that would otherwise occupy too much space in their inventory, such as Mushroom Stew."
+				""
+				"Players can take servings by either adding containers through the Cooking Pot's interface, or right-clicking the pot directly with a valid container."
+			]
+			hide: true
+			id: "277E14B2EF5D2F6A"
+			rewards: [{
+				id: "68CEB88C39D3BD12"
+				item: "farmersdelight:cooking_pot"
+				type: "item"
+			}]
+			tasks: [{
+				id: "776D422E890B0829"
+				item: "farmersdelight:cabbage_leaf"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			description: [
+				"With the cuisine skillet, you can use any ingredients to cook your food. You can cook on stove, or cook on your offhand by enchanting the cuisine skillet with fire aspect. Right click with food to add ingredients, and right click with spatula to stir to prevent it from being over-burnt on one side. Right click with plate to collect the dish."
+				""
+				"There are 2 scales for each ingredient added, calculated individually: how well the food is cooked, and how much it is burnt on one side. You need to add the ingredients that takes longer to cook first, and stir them frequently to prevent over-burnt. Doing it properly will give you a delicious plate with extra saturation bonus."
+				""
+				"For the left scale, green means undercooked, yellow means cooked just right, and red means overcooked."
+				""
+				"For the right scale, green means not burnt, and red means burnt."
+				""
+				"The skillet is crafted from Farmer's Delight skillet, and you can enchant the skillet with Fire Aspect so that you can cook without stove, or Efficiency to increase upper limit of food added to the skillet at one time. With Efficiency V, you can add 6 items a time, so that you can have finer control over the balance of materials in your dish."
+				""
+				"When you use different types of ingredients (carbs, meat, vegetables, seafood), you can get extra bonus for each type added. Try to cook a balanced meal!"
+			]
+			hide: true
+			id: "29F10804B90D8DA8"
+			rewards: [
+				{
+					id: "7813E27539FC9A60"
+					item: {
+						Count: 1b
+						id: "cuisinedelight:cuisine_skillet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "4B6DD09ABA3F11DA"
+					item: "farmersdelight:rice"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "4D39EA91BA09CDD4"
+					item: "farmersdelight:onion"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "700B80701DAF049D"
+				item: "farmersdelight:cabbage_rolls"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["29F10804B90D8DA8"]
+			hide: true
+			id: "334F2BF7B8D548AA"
+			rewards: [{
+				count: 12
+				id: "27598A60E56552D1"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "2E9F8605B0C43C27"
+				item: "cuisinedelight:vegetable_fried_rice"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -6.5d
 		}
 	]
 	title: "Farming Crossing 4"
