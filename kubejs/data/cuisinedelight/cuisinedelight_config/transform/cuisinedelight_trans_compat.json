@@ -1,0 +1,69 @@
+{
+  "fluidTransform": {},
+  "itemTransform": {
+    "alexsmobs:kangaroo_meat": {
+      "next": "alexsmobs:cooked_kangaroo_meat",
+      "stage": "COOKED"
+    },
+    "alexsmobs:lobster_tail": {
+      "next": "alexsmobs:cooked_lobster_tail",
+      "stage": "COOKED"
+    },
+    "alexsmobs:moose_ribs": {
+      "next": "alexsmobs:cooked_moose_ribs",
+      "stage": "COOKED"
+    },
+    "aquaculture:fish_fillet_raw": {
+      "next": "aquaculture:fish_fillet_cooked",
+      "stage": "COOKED"
+    },
+    "meadow:raw_bear_meat": {
+      "next": "meadow:cooked_bear_meat",
+      "stage": "COOKED"
+    },
+    "beachparty:raw_mussel_meat": {
+      "next": "beachparty:cooked_mussel_meat",
+      "stage": "COOKED"
+    },
+    "beachparty:raw_pelican": {
+      "next": "beachparty:cooked_pelican",
+      "stage": "COOKED"
+    },
+    "alexsmobs:raw_catfish": {
+      "next": "alexsmobs:cooked_catfish",
+      "stage": "COOKED"
+    },
+    "exoticbirds:raw_birdmeat": {
+      "next": "exoticbirds:cooked_birdmeat",
+      "stage": "COOKED"
+    },
+    "alexsdelight:kangaroo_shank": {
+      "next": "alexsdelight:cooked_kangaroo_shank",
+      "stage": "COOKED"
+    },
+    "alexsdelight:loose_moose_rib": {
+      "next": "alexsdelight:cooked_loose_moose_rib",
+      "stage": "COOKED"
+    },
+    "alexsdelight:bison_mince": {
+      "next": "alexsdelight:bison_patty",
+      "stage": "COOKED"
+    },
+    "alexsdelight:raw_bunfungus_drumstick": {
+      "next": "alexsdelight:cooked_bunfungus_drumstick",
+      "stage": "COOKED"
+    },
+    "alexsdelight:raw_catfish_slice": {
+      "next": "alexsdelight:cooked_catfish_slice",
+      "stage": "COOKED"
+    },
+    "alexsdelight:raw_bison": {
+      "next": "alexsdelight:cooked_bison",
+      "stage": "COOKED"
+    },
+    "alexsdelight:raw_bunfungus": {
+      "next": "alexsdelight:cooked_bunfungus",
+      "stage": "COOKED"
+    }
+  }
+}
