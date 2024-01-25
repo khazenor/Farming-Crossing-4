@@ -26,7 +26,12 @@ seeds = [
   "vinery:savanna_grape_seeds_white",
   "vinery:taiga_grape_seeds_red",
   "vinery:taiga_grape_seeds_white",
-  "vinery:white_grape_seeds"
+  "vinery:white_grape_seeds",
+  "delightful:salmonberry_pips",
+  "farmersdelight:rice",
+  "farmersdelight:cabbage_seeds",
+  "farmersdelight:tomato_seeds",
+  "farmersdelight:onion"
 ]
 
 saplings = [
@@ -122,7 +127,11 @@ meats = [
   "exoticbirds:raw_birdmeat",
   "alexsmobs:raw_catfish",
   "aquaculture:fish_fillet_raw",
-  "beachparty:raw_pelican"
+  "beachparty:raw_pelican",
+  "alexsdelight:raw_bison",
+  "alexsdelight:raw_bunfungus",
+  "farmersdelight:ham",
+  "farmersdelight:minced_beef"
 ]
 
 spawn_eggs = [

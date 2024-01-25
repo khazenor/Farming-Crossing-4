@@ -216,6 +216,50 @@
         "count": 2
       },
       "category": "meats"
+    },
+    {
+      "output": {
+        "item": "alexsdelight:raw_bison",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "meats"
+    },
+    {
+      "output": {
+        "item": "alexsdelight:raw_bunfungus",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "meats"
+    },
+    {
+      "output": {
+        "item": "farmersdelight:ham",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "meats"
+    },
+    {
+      "output": {
+        "item": "farmersdelight:minced_beef",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "meats"
     }
   ]
 }

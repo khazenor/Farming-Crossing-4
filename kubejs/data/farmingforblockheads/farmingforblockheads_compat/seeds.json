@@ -315,6 +315,61 @@
         "count": 32
       },
       "category": "seed"
+    },
+    {
+      "output": {
+        "item": "delightful:salmonberry_pips",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "seed"
+    },
+    {
+      "output": {
+        "item": "farmersdelight:rice",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "seed"
+    },
+    {
+      "output": {
+        "item": "farmersdelight:cabbage_seeds",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "seed"
+    },
+    {
+      "output": {
+        "item": "farmersdelight:tomato_seeds",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "seed"
+    },
+    {
+      "output": {
+        "item": "farmersdelight:onion",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "seed"
     }
   ]
 }
