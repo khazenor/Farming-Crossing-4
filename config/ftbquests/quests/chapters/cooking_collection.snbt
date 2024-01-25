@@ -4474,6 +4474,1593 @@
 			x: -1.0d
 			y: -14.0d
 		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "3DF6B8685FB46CCB"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "281C784E7606D5D3"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "2EC49A41E4B78F86"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "2CD172ED6E03D927"
+				item: "alexsdelight:acacia_blossom_soup"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "0328BF878D528E7C"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "14B6CB10429DC7BA"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "063D2E45131ABFA0"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "22C6BF1090AA29D3"
+				item: "alexsdelight:kangaroo_pasta"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "09BDFB629AB9E3E5"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "37449D607F2CC64C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "0FB2112289E8908D"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "2BF2E78B25128D2C"
+				item: "alexsdelight:kangaroo_stew"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "769A2696AB112459"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "105B0A1372AD3F22"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "726B508723B0ECA9"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "63AF4803E79F1BBE"
+				item: "alexsdelight:lobster_pasta"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "2C14E77540EC7DEA"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "1C73E69A0DCB4B23"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "21CB82902CC99C87"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "51B25EF92475C454"
+				item: "aquaculture:turtle_soup"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "30C9DD8E6EB318DD"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "3CB159FBFF69F473"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "506B3C878EB1C2FF"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "67116A6DDD313BBF"
+				item: "aquaculturedelight:baked_pollock_with_carrots"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "27E9F0E51FF9A2B2"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "65E1FD798DF7EF8A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "7F05168120FF8F1D"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "314F7F952A348DED"
+				item: "aquaculturedelight:bass_stew"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "399B49108C80AB9D"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "3E1D3CA9AC5DB809"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "35E7E05FB461F3AB"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "631C4D71DEE86AF6"
+				item: "aquaculturedelight:buckling"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "3FE2AC007EE28F69"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "5AAAEE2D7AAAE57A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "5FA92EE05798A61C"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "75F8621589320F5F"
+				item: "aquaculturedelight:halaszle"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "7822E8F9FE108956"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "554D9F296652BE42"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "1BFC28CE84183C4F"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "542AE60C4D84956F"
+				item: "aquaculturedelight:halibut_with_tartar_sauce"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "5E00403D21CC9695"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "2D147E2F077A9910"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "14EBC0B467345379"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "2EF9C6713554D2CA"
+				item: "aquaculturedelight:jellyfish_jelly"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "44CB83A8DCA9D1C8"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "5C1EDCFF652EDE46"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "6285023744AC6467"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "7C0C077F4F768B48"
+				item: "aquaculturedelight:poor_fisher_chowder"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "6489C1938CA8556F"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "034F75BCE1C95B20"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "360EAF1731B1FD46"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "1097D08AD500CE0D"
+				item: "aquaculturedelight:rollmops"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "26B0CF79E56407C9"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "57774F3FDEFCFEE2"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "5E88A07AA3CC1678"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "15CEDDD8C02920A8"
+				item: "aquaculturedelight:tuna_spaghetti"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "266CADD3FD0BF500"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "19E82770D9357C78"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "4C36F8E49527A89D"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "7E1B3306E1CE5EA2"
+				item: "aquaculturedelight:unusual_fish_soup"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "6A6F051C3F46B061"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "63D928264E23FAD6"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "7E7AEAEB3ADE16BB"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "49C76D8EBDA7A928"
+				item: "delightful:animal_oil_bottle"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "37BC7844DD9B597D"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "5A75636BED3DC630"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "45FC69271A3669C2"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "7C59A9B7C179F897"
+				item: "delightful:ender_nectar"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "05AF8F89B4E53595"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "0AE61946F2401B6E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "0BAA0C5AAD960E3A"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "41F39F24D09803E7"
+				item: "delightful:glow_jelly_bottle"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "7BD38830F509A235"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "7F7B8A2863E53494"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "2D1F48DF5F4C1DCD"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "0AB8FD87767AF048"
+				item: "delightful:jelly_bottle"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "73DCA788978885C7"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "75280C865B6A06B9"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "603DE3B8A280DAAA"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "683A03FDB2843DD2"
+				item: "delightful:lavender_tea"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "5406508826057ACE"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "227EB7CF0583B268"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "50BE852DB56CDF89"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "1CEA117C86405F7E"
+				item: "delightful:matcha"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "316D6767C4ED1073"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "51C7F466843714EE"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "7658C1D4FF3EE398"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "3B2979EA81A3937F"
+				item: "delightful:nut_butter_bottle"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "4D94905E7CF36EA9"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "37BB1A2D62065336"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "01D7BBE22DAAB90A"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "10EA27D0AD1DA8D6"
+				item: "delightful:rock_candy"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "571D92B41839FF20"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "5C247828AE9F50FD"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "01B543657597981C"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "15A934BFE51B6496"
+				item: "delightful:salmonberry_gummy"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "170B3CAD8F2A796A"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "1CA70E8B0C47DAF5"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "53EFF3399377171D"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "291BB3AE8DB92BB6"
+				item: "delightful:sinigang"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "24FF44D82B180CAB"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "4E841F4068E61A41"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "1E07AC2D35CC2F37"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "2E3E21D70CE992D8"
+				item: "farmersdelight:apple_cider"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "3FAAEB1A14A426A0"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "2FBC1B662568DA5D"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "08D058C482308111"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "467046D9F83FAFD5"
+				item: "farmersdelight:baked_cod_stew"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "58BA52C694A42147"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "7B16CD34DF70733C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "44032BEFFD7049EB"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "6730049A28FDE74E"
+				item: "farmersdelight:beef_stew"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "2377BFBAD089B94C"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "3401F00BADB75083"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "0DC57D9D910372E5"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "5FBB17F58381A2D6"
+				item: "farmersdelight:bone_broth"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "4E1C63C7F44806FB"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "0AF67232B447B83B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "5A2CD5872C3F7014"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "444086BE61BF1D2D"
+				item: "farmersdelight:cabbage_rolls"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "48A506B385CC906B"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "5FAC29B7E9236DB4"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "390AB238177037BF"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "626A841F6A5EB455"
+				item: "farmersdelight:chicken_soup"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "674FD139808D7B13"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "28B476E4FF5EC605"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "1288D185833FE2D7"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "7DE26E0853094108"
+				item: "farmersdelight:cooked_rice"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "5CFCF391EB979942"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "2A5C40E0F24C7AD8"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "4644B3C2FC3D58B9"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "134B03DCB99EF733"
+				item: "farmersdelight:dog_food"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "455DF6B396087C50"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "58512499D4B49B1C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "022F5F1031F70244"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "55555B8C6A149CFC"
+				item: "farmersdelight:dumplings"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "63FB0123990E8313"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "25009199344D0618"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "11A91618DC28C2C5"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "66E734E5426CD147"
+				item: "farmersdelight:fish_stew"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "3D10BDC5B969ABEF"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "7E1B71686BA51405"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "037C3D2BBAD09041"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "1F6C8DFBCE4B1956"
+				item: "farmersdelight:fried_rice"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "3DDAA9E8BA41BE99"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "6596D5E1629AFC87"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "32A8E66AB3AB8FBD"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "56FBBC48D18A3BC8"
+				item: "farmersdelight:glow_berry_custard"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "1E12F2D1D779CC12"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "06C4D9F83CEB450A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "6CC0D38104F3082D"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "617EBE418F64BE75"
+				item: "farmersdelight:hot_cocoa"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "27B2D3F4BBC2B01C"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "05999493CE016835"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "1AA38FFE8D6BD56B"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "0CAF0799987CF49C"
+				item: "farmersdelight:mushroom_rice"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "50CD66584FE42359"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "520CFECDC830BDC6"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "0A31D0973322882A"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "0C700AF09A9FCA02"
+				item: "farmersdelight:noodle_soup"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "12BC8BE581A219FD"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "187B096D805FFC4F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "381850EF429F25F7"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "0C41B271581CCEC3"
+				item: "farmersdelight:pasta_with_meatballs"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "7460EC6FFB4FAD71"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "2343603542F56E2B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "37D54601F66247A9"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "245F6FB30F102FA6"
+				item: "farmersdelight:pasta_with_mutton_chop"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "2CE9F6FBCCFBF09C"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "75DD8BAB55C9EE1D"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "3E347C5027857B62"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "2F6BDFE4941A1A87"
+				item: "farmersdelight:pumpkin_soup"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 19.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "36F3758F7F76DD90"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "10E1EA4CFDC83D66"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "5DEC4D50DA0D4DFB"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "186623317BAB3652"
+				item: "farmersdelight:ratatouille"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 19.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "49BEEF5B37ACDF10"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "6B8163CA6133212B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "72AB094EE45414F3"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "287BCC139678FCB3"
+				item: "farmersdelight:squid_ink_pasta"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 19.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "64ED109BA0D22077"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "1205EE4F67CD1ED1"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "7FEB211A1235809C"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "2AE7688CF9356099"
+				item: "farmersdelight:stuffed_pumpkin_block"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 19.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "5D1DB78E9F11FEF6"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "2C14AD4BDA4F9662"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "6703D0B26235D9C1"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "70F72B8BC48DDA76"
+				item: "farmersdelight:tomato_sauce"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 19.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "3676FE06B28C7CAF"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "7E54328E77E3562D"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "380871A0B51F857F"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "498832B5773A38B7"
+				item: "farmersdelight:vegetable_noodles"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["277E14B2EF5D2F6A"]
+			disable_toast: true
+			hide: true
+			id: "443BCAF010D280A9"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p meals_cooked 1"
+					elevate_perms: true
+					id: "2813A90E01695276"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've made a new Farming Crossing 4 meal! You have now made \"},{\"score\":{\"name\":\"@p\",\"objective\":\"meals_cooked\"}},{\"text\":\" unique meal(s)!\"}]"
+					elevate_perms: true
+					id: "495B21D05D232D6D"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "699B272F1FE5905C"
+				item: "farmersdelight:vegetable_soup"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 20.0d
+		}
+		{
+			dependencies: [
+				"0328BF878D528E7C"
+				"44CB83A8DCA9D1C8"
+				"09BDFB629AB9E3E5"
+				"12BC8BE581A219FD"
+				"2377BFBAD089B94C"
+				"4D94905E7CF36EA9"
+				"316D6767C4ED1073"
+				"24FF44D82B180CAB"
+				"399B49108C80AB9D"
+				"27B2D3F4BBC2B01C"
+				"36F3758F7F76DD90"
+				"73DCA788978885C7"
+				"7822E8F9FE108956"
+				"37BC7844DD9B597D"
+				"58BA52C694A42147"
+				"1E12F2D1D779CC12"
+				"50CD66584FE42359"
+				"30C9DD8E6EB318DD"
+				"571D92B41839FF20"
+				"443BCAF010D280A9"
+				"48A506B385CC906B"
+				"7460EC6FFB4FAD71"
+				"266CADD3FD0BF500"
+				"3FAAEB1A14A426A0"
+				"455DF6B396087C50"
+				"5CFCF391EB979942"
+				"769A2696AB112459"
+				"5406508826057ACE"
+				"63FB0123990E8313"
+				"27E9F0E51FF9A2B2"
+				"3D10BDC5B969ABEF"
+				"64ED109BA0D22077"
+				"3676FE06B28C7CAF"
+				"6A6F051C3F46B061"
+				"05AF8F89B4E53595"
+				"49BEEF5B37ACDF10"
+				"6489C1938CA8556F"
+				"7BD38830F509A235"
+				"3DF6B8685FB46CCB"
+				"5E00403D21CC9695"
+				"26B0CF79E56407C9"
+				"170B3CAD8F2A796A"
+				"2C14E77540EC7DEA"
+				"4E1C63C7F44806FB"
+				"674FD139808D7B13"
+				"3FE2AC007EE28F69"
+				"3DDAA9E8BA41BE99"
+				"5D1DB78E9F11FEF6"
+				"2CE9F6FBCCFBF09C"
+			]
+			icon: "farmersdelight:cooking_pot"
+			id: "72E436EC0C728837"
+			rewards: [{
+				count: 100
+				id: "07EE7DF7B3B78941"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "583E46ED06A06342"
+				type: "item"
+			}]
+			title: "Cooking Pot Dishes"
+			x: -1.0d
+			y: 15.0d
+		}
 	]
 	title: "Cooking Collection"
 }
