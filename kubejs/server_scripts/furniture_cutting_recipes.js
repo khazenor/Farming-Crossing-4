@@ -300,6 +300,27 @@ ServerEvents.recipes(event => {
     result:"moa_decor_lights:vt_nacacia",
     count:1
   })
+  event.stonecutting('beautify:acacia_blinds', '#forge:furniture_acacia')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_acacia"},
+    result:"beautify:acacia_blinds",
+    count:1
+  })
+  event.stonecutting('beautify:acacia_picture_frame', '#forge:furniture_acacia')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_acacia"},
+    result:"beautify:acacia_picture_frame",
+    count:1
+  })
+  event.stonecutting('beautify:acacia_trellis', '#forge:furniture_acacia')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_acacia"},
+    result:"beautify:acacia_trellis",
+    count:1
+  })
   event.stonecutting('minecraft:birch_log', '#forge:furniture_birch')
   event.custom({
     type: "corail_woodcutter:woodcutting",
@@ -599,6 +620,27 @@ ServerEvents.recipes(event => {
     type: "corail_woodcutter:woodcutting",
     ingredient:{"tag":"forge:furniture_birch"},
     result:"moa_decor_lights:vt_nabedul",
+    count:1
+  })
+  event.stonecutting('beautify:birch_blinds', '#forge:furniture_birch')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_birch"},
+    result:"beautify:birch_blinds",
+    count:1
+  })
+  event.stonecutting('beautify:birch_picture_frame', '#forge:furniture_birch')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_birch"},
+    result:"beautify:birch_picture_frame",
+    count:1
+  })
+  event.stonecutting('beautify:birch_trellis', '#forge:furniture_birch')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_birch"},
+    result:"beautify:birch_trellis",
     count:1
   })
   event.stonecutting('minecraft:cherry_log', '#forge:furniture_cherry')
@@ -1266,6 +1308,27 @@ ServerEvents.recipes(event => {
     result:"moa_decor_lights:vt_nrobleosc",
     count:1
   })
+  event.stonecutting('beautify:dark_oak_blinds', '#forge:furniture_dark_oak')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_dark_oak"},
+    result:"beautify:dark_oak_blinds",
+    count:1
+  })
+  event.stonecutting('beautify:dark_oak_picture_frame', '#forge:furniture_dark_oak')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_dark_oak"},
+    result:"beautify:dark_oak_picture_frame",
+    count:1
+  })
+  event.stonecutting('beautify:dark_oak_trellis', '#forge:furniture_dark_oak')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_dark_oak"},
+    result:"beautify:dark_oak_trellis",
+    count:1
+  })
   event.stonecutting('minecraft:jungle_log', '#forge:furniture_jungle')
   event.custom({
     type: "corail_woodcutter:woodcutting",
@@ -1567,6 +1630,27 @@ ServerEvents.recipes(event => {
     result:"moa_decor_lights:vt_njungla",
     count:1
   })
+  event.stonecutting('beautify:jungle_blinds', '#forge:furniture_jungle')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_jungle"},
+    result:"beautify:jungle_blinds",
+    count:1
+  })
+  event.stonecutting('beautify:jungle_picture_frame', '#forge:furniture_jungle')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_jungle"},
+    result:"beautify:jungle_picture_frame",
+    count:1
+  })
+  event.stonecutting('beautify:jungle_trellis', '#forge:furniture_jungle')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_jungle"},
+    result:"beautify:jungle_trellis",
+    count:1
+  })
   event.stonecutting('minecraft:mangrove_log', '#forge:furniture_mangrove')
   event.custom({
     type: "corail_woodcutter:woodcutting",
@@ -1761,6 +1845,27 @@ ServerEvents.recipes(event => {
     type: "corail_woodcutter:woodcutting",
     ingredient:{"tag":"forge:furniture_mangrove"},
     result:"moa_decor_lights:vt_nmanglar",
+    count:1
+  })
+  event.stonecutting('beautify:mangrove_blinds', '#forge:furniture_mangrove')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_mangrove"},
+    result:"beautify:mangrove_blinds",
+    count:1
+  })
+  event.stonecutting('beautify:mangrove_picture_frame', '#forge:furniture_mangrove')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_mangrove"},
+    result:"beautify:mangrove_picture_frame",
+    count:1
+  })
+  event.stonecutting('beautify:mangrove_trellis', '#forge:furniture_mangrove')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_mangrove"},
+    result:"beautify:mangrove_trellis",
     count:1
   })
   event.stonecutting('minecraft:oak_log', '#forge:furniture_oak')
@@ -2071,6 +2176,27 @@ ServerEvents.recipes(event => {
     result:"moa_decor_lights:vt_nroble",
     count:1
   })
+  event.stonecutting('beautify:oak_blinds', '#forge:furniture_oak')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_oak"},
+    result:"beautify:oak_blinds",
+    count:1
+  })
+  event.stonecutting('beautify:oak_picture_frame', '#forge:furniture_oak')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_oak"},
+    result:"beautify:oak_picture_frame",
+    count:1
+  })
+  event.stonecutting('beautify:oak_trellis', '#forge:furniture_oak')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_oak"},
+    result:"beautify:oak_trellis",
+    count:1
+  })
   event.stonecutting('minecraft:spruce_log', '#forge:furniture_spruce')
   event.custom({
     type: "corail_woodcutter:woodcutting",
@@ -2370,6 +2496,27 @@ ServerEvents.recipes(event => {
     type: "corail_woodcutter:woodcutting",
     ingredient:{"tag":"forge:furniture_spruce"},
     result:"moa_decor_lights:vt_nabeto",
+    count:1
+  })
+  event.stonecutting('beautify:spruce_blinds', '#forge:furniture_spruce')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_spruce"},
+    result:"beautify:spruce_blinds",
+    count:1
+  })
+  event.stonecutting('beautify:spruce_picture_frame', '#forge:furniture_spruce')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_spruce"},
+    result:"beautify:spruce_picture_frame",
+    count:1
+  })
+  event.stonecutting('beautify:spruce_trellis', '#forge:furniture_spruce')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_spruce"},
+    result:"beautify:spruce_trellis",
     count:1
   })
 
