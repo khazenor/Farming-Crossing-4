@@ -165,7 +165,8 @@ categories = {
           "farmersdelight:tomato",
           "farmersdelight:onion",
           "farmersdelight:rice",
-          "farmersdelight:cabbage"
+          "farmersdelight:cabbage",
+          "delightful:cantaloupe"
         ]
       },
       { # pam seeds
