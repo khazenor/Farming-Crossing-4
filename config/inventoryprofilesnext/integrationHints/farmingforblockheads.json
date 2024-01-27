@@ -1,0 +1,27 @@
+{
+    "net.blay09.mods.farmingforblockheads.client.gui.screen.MarketScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 150,
+                "bottom": -10
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 162,
+                "bottom": -22
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 174,
+                "bottom": -34
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 165,
+                "top": -3
+            },
+            "SETTINGS": {
+                "horizontalOffset": 178,
+                "top": -18
+            }
+        }
+    }
+}
