@@ -20,16 +20,20 @@ categories = {
       {
         priceKey: 16,
         itemsKey: ["minecraft:villager_spawn_egg"]
-      }, {
+      },
+      {
         priceKey: 32,
         itemsKey: ["minecraft:wandering_trader_spawn_egg"]
-      }, {
+      },
+      {
         priceKey: 8,
         itemsKey: ["minecraft:bundle"]
-      }, {
+      },
+      {
         priceKey: 4,
         itemsKey: ["minecraft:white_bed"]
-      }, { # furniture
+      },
+      { # furniture
         priceKey: 8,
         itemsKey: ["lootbags:loot_bag"],
         nbtKey: {
@@ -38,7 +42,8 @@ categories = {
           "Name":"Furniture Kit",
           "Type":"COMMON"
         }
-      }, { # Neighborly
+      },
+      { # Neighborly
         priceKey: 16,
         itemsKey: ["lootbags:loot_bag"],
         nbtKey: {
@@ -47,23 +52,28 @@ categories = {
           "Color": 13882323,
           "Name": "Neighborly Villager Move In Kit"
         }
-      }, { # Storage
+      },
+      { # Storage
         priceKey: 16,
         productNumKey: 2,
         itemsKey: ["kubejs:1k_storage_disk_ticket"]
-      }, {
+      },
+      {
         priceKey: 72,
         productNumKey: 2,
         itemsKey: ["kubejs:4k_storage_disk_ticket"]
-      }, {
+      },
+      {
         priceKey: 297,
         productNumKey: 2,
         itemsKey: ["kubejs:16k_storage_disk_ticket"]
-      }, {
+      },
+      {
         priceKey: 1215,
         productNumKey: 2,
         itemsKey: ["kubejs:64k_storage_disk_ticket"]
-      }, { # storage items
+      },
+      { # storage items
         priceKey: 32,
         itemsKey: [
           "refinedstorage:disk_drive",
@@ -71,7 +81,8 @@ categories = {
           "refinedstorage:controller",
           "createaddition:alternator"
         ]
-      }, { # handcrafted
+      },
+      { # handcrafted
         productNumKey: 2,
         itemsKey: [
           "handcrafted:black_sheet",
@@ -117,7 +128,8 @@ categories = {
       {
         priceKey: 8,
         itemsKey: ["minecraft:chorus_fruit"]
-      }, { # dyes
+      },
+      { # dyes
         priceKey: 4,
         productNumKey: 8,
         itemsKey: [
@@ -138,7 +150,8 @@ categories = {
           "minecraft:white_dye",
           "minecraft:yellow_dye"
         ]
-      }, { # pam seeds
+      },
+      { # pam seeds
         itemsKey: [
           'pamhc2crops:agaveseeditem',
           'pamhc2crops:alfalfaseeditem',
@@ -238,7 +251,8 @@ categories = {
           'pamhc2crops:yuccaseeditem',
           'pamhc2crops:zucchiniseeditem'
         ]
-      }, { # pam crops
+      },
+      { # pam crops
         priceKey: 4,
         itemsKey: [
           'pamhc2crops:agaveitem',
@@ -364,7 +378,8 @@ categories = {
           'pamhc2crops:yuccaitem',
           'pamhc2crops:zucchiniitem'
         ]
-      }, { # pam saplings
+      },
+      { # pam saplings
         itemsKey: [
           "pamhc2trees:acorn_sapling",
           "pamhc2trees:almond_sapling",
@@ -417,7 +432,8 @@ categories = {
           "pamhc2trees:vanillabean_sapling",
           "pamhc2trees:walnut_sapling"
         ]
-      }, { # pam fruits
+      },
+      { # pam fruits
         priceKey: 4,
         itemsKey: [
           "pamhc2trees:acornitem",
@@ -477,7 +493,8 @@ categories = {
           "pamhc2trees:vanillabeanitem",
           "pamhc2trees:walnutitem"
         ]
-      }, { # seeds
+      },
+      { # seeds
         priceKey: 32,
         productNumKey: 4,
         itemsKey: [
@@ -510,7 +527,8 @@ categories = {
           "vinery:taiga_grape_seeds_white",
           "vinery:white_grape_seeds"
         ]
-      }, { # saplings
+      },
+      { # saplings
         priceKey: 32,
         productNumKey: 2,
         itemsKey: [
@@ -543,7 +561,8 @@ categories = {
           "vinery:apple_tree_sapling",
           "vinery:cherry_sapling"
         ]
-      }, { # flowers
+      },
+      { # flowers
         priceKey: 32,
         productNumKey: 4,
         itemsKey: [
@@ -605,7 +624,8 @@ categories = {
           "alexsmobs:squid_grapple",
           "alexsmobs:straddleboard"
         ]
-      }, { # meats
+      },
+      { # meats
         priceKey: 2,
         productNumKey: 8,
         itemsKey: [
@@ -629,16 +649,19 @@ categories = {
           "aquaculture:fish_fillet_raw",
           "beachparty:raw_pelican"
         ]
-      }, {
+      },
+      {
         productNumKey: 4,
         itemsKey: ["minecraft:arrow"]
-      }, {
+      },
+      {
         priceKey: 2,
         itemsKey: [
           "minecraft:feather",
           "minecraft:string"
         ]
-      }, {
+      },
+      {
         priceKey: 4,
         itemsKey: [
           "minecraft:rotten_flesh",
@@ -649,7 +672,8 @@ categories = {
           "minecraft:slime_ball",
           "minecraft:bow"
         ]
-      }, {
+      },
+      {
         priceKey: 8,
         itemsKey: [
           "minecraft:spider_eye",
@@ -657,26 +681,31 @@ categories = {
           "minecraft:prismarine_shard",
           "minecraft:prismarine_crystals"
         ]
-      }, {
+      },
+      {
         priceKey: 24,
         itemsKey: [
           "minecraft:ender_pearl",
           "minecraft:blaze_rod"
         ]
-      }, { # alexmobs items
+      },
+      { # alexmobs items
         itemsKey: [
           "alexsmobs:fish_bones",
           "alexsmobs:ambergris",
           "alexsmobs:cachalot_whale_tooth",
           "alexsmobs:tarantula_hawk_wing_fragment"
         ]
-      }, {
+      },
+      {
         priceKey: 16,
         itemsKey: ["alexsmobs:skreecher_soul"]
-      }, {
+      },
+      {
         priceKey: 4,
         itemsKey: ["alexsmobs:bone_serpent_tooth"]
-      }, { # spawn eggs
+      },
+      { # spawn eggs
         priceKey: 64,
         productNumKey: 1,
         itemsKey: [
@@ -909,13 +938,16 @@ categories = {
           "minecraft:emerald",
           "create:experience_nugget"
         ]
-      }, {
+      },
+      {
         priceKey: 4,
         itemsKey: ["minecraft:quartz"]
-      }, {
+      },
+      {
         priceKey: 6,
         itemsKey: ["minecraft:glowstone_dust"]
-      }, { # blocks
+      },
+      { # blocks
         priceKey: 32,
         itemsKey: [
           "minecraft:ice",
