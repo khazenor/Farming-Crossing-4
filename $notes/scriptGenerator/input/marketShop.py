@@ -151,6 +151,23 @@ categories = {
           "minecraft:yellow_dye"
         ]
       },
+      { # delight seeds/tea leaf
+        itemsKey: [
+          "delightful:green_tea_leaf",
+          "delightful:salmonberry_pips",
+          "farmersdelight:cabbage_seeds",
+          "farmersdelight:tomato_seeds"
+        ]
+      },
+      { # delight crops
+        priceKey: 4,
+        itemsKey: [
+          "farmersdelight:tomato",
+          "farmersdelight:onion",
+          "farmersdelight:rice",
+          "farmersdelight:cabbage"
+        ]
+      },
       { # pam seeds
         itemsKey: [
           'pamhc2crops:agaveseeditem',
@@ -647,21 +664,24 @@ categories = {
           "exoticbirds:raw_birdmeat",
           "alexsmobs:raw_catfish",
           "aquaculture:fish_fillet_raw",
-          "beachparty:raw_pelican"
+          "beachparty:raw_pelican",
+          "alexsdelight:raw_bison",
+          "alexsdelight:raw_bunfungus",
+          "farmersdelight:ham"
         ]
       },
-      {
+      { # minecraft:arrow
         productNumKey: 4,
         itemsKey: ["minecraft:arrow"]
       },
-      {
+      { # mob 2
         priceKey: 2,
         itemsKey: [
           "minecraft:feather",
           "minecraft:string"
         ]
       },
-      {
+      { # mob 4
         priceKey: 4,
         itemsKey: [
           "minecraft:rotten_flesh",

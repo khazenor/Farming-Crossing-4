@@ -197,6 +197,94 @@
     },
     {
       "output": {
+        "item": "delightful:green_tea_leaf",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1
+      },
+      "category": "flora"
+    },
+    {
+      "output": {
+        "item": "delightful:salmonberry_pips",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1
+      },
+      "category": "flora"
+    },
+    {
+      "output": {
+        "item": "farmersdelight:cabbage_seeds",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1
+      },
+      "category": "flora"
+    },
+    {
+      "output": {
+        "item": "farmersdelight:tomato_seeds",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1
+      },
+      "category": "flora"
+    },
+    {
+      "output": {
+        "item": "farmersdelight:tomato",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "flora"
+    },
+    {
+      "output": {
+        "item": "farmersdelight:onion",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "flora"
+    },
+    {
+      "output": {
+        "item": "farmersdelight:rice",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "flora"
+    },
+    {
+      "output": {
+        "item": "farmersdelight:cabbage",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "flora"
+    },
+    {
+      "output": {
         "item": "pamhc2crops:agaveseeditem",
         "count": 1
       },
