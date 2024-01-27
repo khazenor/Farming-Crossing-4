@@ -111,6 +111,13 @@
   "camera": {
     "image_frame": true
   },
+  "cookingforblockheads": {
+    "fridge": true,
+    "oven": true,
+    "sink": true,
+    "milk_jar": true,
+    "toaster": true
+  },
   "storagedrawers": {
     "display.stacklimit": true,
     "display.content": true,
