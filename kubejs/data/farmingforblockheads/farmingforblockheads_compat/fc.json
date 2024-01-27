@@ -1,0 +1,530 @@
+{
+  "customCategories": {
+    "fc": {
+      "name": "Farming Crossing Shop",
+      "icon": {
+        "item": "lootbags:loot_bag"
+      }
+    }
+  },
+  "customEntries": [
+    {
+      "output": {
+        "item": "minecraft:villager_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 16
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "minecraft:wandering_trader_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "minecraft:bundle",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "minecraft:white_bed",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:furniture/loot_furniture",
+          "Name": "Furniture Kit",
+          "Type": "COMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Type": "RARE",
+          "Loot": "lootbags:furniture/loot_neighborly",
+          "Color": 13882323,
+          "Name": "Neighborly Villager Move In Kit"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 16
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "kubejs:1k_storage_disk_ticket",
+        "count": 2
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 16
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "kubejs:4k_storage_disk_ticket",
+        "count": 2
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 72
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "kubejs:16k_storage_disk_ticket",
+        "count": 2
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 297
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "kubejs:64k_storage_disk_ticket",
+        "count": 2
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1215
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "refinedstorage:disk_drive",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "refinedstorage:crafting_grid",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "refinedstorage:controller",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "createaddition:alternator",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "handcrafted:black_sheet",
+        "count": 2
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "handcrafted:blue_sheet",
+        "count": 2
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "handcrafted:brown_sheet",
+        "count": 2
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "handcrafted:cyan_sheet",
+        "count": 2
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "handcrafted:gray_sheet",
+        "count": 2
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "handcrafted:green_sheet",
+        "count": 2
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "handcrafted:light_blue_sheet",
+        "count": 2
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "handcrafted:light_gray_sheet",
+        "count": 2
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "handcrafted:lime_sheet",
+        "count": 2
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "handcrafted:magenta_sheet",
+        "count": 2
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "handcrafted:orange_sheet",
+        "count": 2
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "handcrafted:pink_sheet",
+        "count": 2
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "handcrafted:purple_sheet",
+        "count": 2
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "handcrafted:red_sheet",
+        "count": 2
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "handcrafted:white_sheet",
+        "count": 2
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "handcrafted:yellow_sheet",
+        "count": 2
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "handcrafted:black_cushion",
+        "count": 2
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "handcrafted:blue_cushion",
+        "count": 2
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "handcrafted:brown_cushion",
+        "count": 2
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "handcrafted:cyan_cushion",
+        "count": 2
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "handcrafted:gray_cushion",
+        "count": 2
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "handcrafted:green_cushion",
+        "count": 2
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "handcrafted:light_blue_cushion",
+        "count": 2
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "handcrafted:light_gray_cushion",
+        "count": 2
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "handcrafted:lime_cushion",
+        "count": 2
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "handcrafted:magenta_cushion",
+        "count": 2
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "handcrafted:orange_cushion",
+        "count": 2
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "handcrafted:pink_cushion",
+        "count": 2
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "handcrafted:purple_cushion",
+        "count": 2
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "handcrafted:red_cushion",
+        "count": 2
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "handcrafted:white_cushion",
+        "count": 2
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
+        "item": "handcrafted:yellow_cushion",
+        "count": 2
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1
+      },
+      "category": "fc"
+    }
+  ]
+}
