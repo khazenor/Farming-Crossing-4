@@ -4,10 +4,7 @@ import re
 
 modConfigDir = "META-INF/mods.toml"
 
-dependenciesRegex = 'dependencies\.[\w\d_]*'
-modRegex = 'modId="[\w\d]*'
-mandatoryRegex = 'mandatory=\w*'
-modConfigRegex = f'{dependenciesRegex}\]\]\\\\r\\\\n    {modRegex}"\\\\r\\\\n    {mandatoryRegex}'
+modIdRegexHeader = 'modId *= *[\'"]?'
 
 modFilenameKey = 'modFilename'
 dependenciesKey = 'dependencies'
@@ -18,29 +15,43 @@ def getDependencies(modFolder, ignoreDependencies):
 		if modConfigDir in modZip.namelist():
 			with modZip.open(modConfigDir) as configFile:
 				configFileContent = str(configFile.read())
-				for dependConfigSnippet in re.findall(modConfigRegex, configFileContent):
-					modName = findField(dependenciesRegex, '\.', dependConfigSnippet)
-					if modName not in dependenciesInfo:
-						dependenciesInfo[modName] = {
-							modFilenameKey: modZipName,
-							dependenciesKey: []
-						}
-					dependencyInfo = dependenciesInfo[modName]
-
-					dependency = findField(modRegex, '="', dependConfigSnippet)
-					isMandatory = findField(mandatoryRegex, '=', dependConfigSnippet).lower() == 'true'
-
-					if isMandatory:
-						if dependency not in ignoreDependencies:
-							if dependenciesKey in dependenciesInfo:
-								dependencyInfo[dependenciesKey].append(dependency)
+				modName = findModName(configFileContent)
+				dependencies = findAndFilterDependencies(configFileContent, ignoreDependencies)
+				dependenciesInfo[modName] = {
+					modFilenameKey: modZipName,
+					dependenciesKey: dependencies
+				}
 	return dependenciesInfo
 
-def findField(regex, delimRegex, snippet):
-	fieldWithName = re.search(regex, snippet).group(0)
-	fieldWithDelim = re.search(f'{delimRegex}.*', fieldWithName).group(0)
-	field = re.sub(delimRegex, "", fieldWithDelim)
-	return field
+def findModName(configFileContent):
+	search = re.search(f'{modIdRegexHeader}[\w\d]*', configFileContent).group(0)
+	modName = re.sub(modIdRegexHeader, '', search)
+	return modName
 
+def findAndFilterDependencies(configFileContent, ignoreDependencies):
+	filteredDependencies = []
+	dependencies = findDependencies(configFileContent)
+	mandatories = findMandatories(configFileContent)
 
+	for i in range(len(mandatories)):
+		isMandatory = mandatories[i]
+		if isMandatory:
+			dependency = dependencies[i]
+			if dependency not in ignoreDependencies:
+				filteredDependencies.append(dependency)
+	return filteredDependencies
 
+def findDependencies(configFileContent):
+	matches = re.findall(f'{modIdRegexHeader}[\w\d]*', configFileContent)
+	mods = []
+	for i in range(1, len(matches)):
+		match = matches[i]
+		mods.append(re.sub(f'{modIdRegexHeader}', '', match))
+	return mods
+
+def findMandatories(configFileContent):
+	matches = re.findall('mandatory=\w*', configFileContent)
+	mandatories = []
+	for match in matches:
+		mandatories.append(match.replace('mandatory=', '').lower() == 'true')
+	return mandatories
