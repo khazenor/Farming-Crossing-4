@@ -1,13 +1,19 @@
 import zipfile
 import os
 import re
+from src import config
 
 modConfigDir = "META-INF/mods.toml"
 
 modIdRegexHeader = 'modId *= *[\'"]?'
+mentatoryRegex = 'mandatory *= *'
+modNameRegex = '[\w\d_]+'
 
 modFilenameKey = 'modFilename'
 dependenciesKey = 'dependencies'
+
+def getDependenciesWithConfigs():
+	return getDependencies(config.modFolder, config.ignoreDependencies)
 def getDependencies(modFolder, ignoreDependencies):
 	dependenciesInfo = {}
 	for modZipName in os.listdir(modFolder):
@@ -24,7 +30,7 @@ def getDependencies(modFolder, ignoreDependencies):
 	return dependenciesInfo
 
 def findModName(configFileContent):
-	search = re.search(f'{modIdRegexHeader}[\w\d]*', configFileContent).group(0)
+	search = re.search(f'{modIdRegexHeader}{modNameRegex}', configFileContent).group(0)
 	modName = re.sub(modIdRegexHeader, '', search)
 	return modName
 
@@ -32,6 +38,7 @@ def findAndFilterDependencies(configFileContent, ignoreDependencies):
 	filteredDependencies = []
 	dependencies = findDependencies(configFileContent)
 	mandatories = findMandatories(configFileContent)
+	pass
 
 	for i in range(len(mandatories)):
 		isMandatory = mandatories[i]
@@ -42,7 +49,7 @@ def findAndFilterDependencies(configFileContent, ignoreDependencies):
 	return filteredDependencies
 
 def findDependencies(configFileContent):
-	matches = re.findall(f'{modIdRegexHeader}[\w\d]*', configFileContent)
+	matches = re.findall(f'{modIdRegexHeader}{modNameRegex}', configFileContent)
 	mods = []
 	for i in range(1, len(matches)):
 		match = matches[i]
@@ -50,8 +57,8 @@ def findDependencies(configFileContent):
 	return mods
 
 def findMandatories(configFileContent):
-	matches = re.findall('mandatory=\w*', configFileContent)
+	matches = re.findall(f'{mentatoryRegex}{modNameRegex}', configFileContent)
 	mandatories = []
 	for match in matches:
-		mandatories.append(match.replace('mandatory=', '').lower() == 'true')
+		mandatories.append(re.sub(mentatoryRegex, '', match).lower() == 'true')
 	return mandatories
