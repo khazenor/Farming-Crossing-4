@@ -1,13 +1,552 @@
 {
   "customCategories": {
-    "spawneggs": {
-      "name": "Spawn Eggs Shop",
+    "farm": {
+      "name": "Animal Range",
       "icon": {
-        "item": "alexsmobs:spawn_egg_anaconda"
+        "item": "minecraft:leather"
       }
     }
   },
   "customEntries": [
+    {
+      "output": {
+        "item": "create:blaze_burner",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "alexsmobs:pupfish_locator",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "alexsmobs:unsettling_kimono",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "alexsmobs:squid_grapple",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "alexsmobs:straddleboard",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "minecraft:beef",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "minecraft:chicken",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "minecraft:cod",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "minecraft:mutton",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "minecraft:porkchop",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "minecraft:rabbit",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "minecraft:salmon",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "alexsmobs:kangaroo_meat",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "alexsmobs:moose_ribs",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "alexsmobs:raw_catfish",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "alexsmobs:lobster_tail",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "alexsmobs:maggot",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "alexsmobs:centipede_leg",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "beachparty:raw_mussel_meat",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "meadow:raw_bear_meat",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:raw_birdmeat",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "alexsmobs:raw_catfish",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "aquaculture:fish_fillet_raw",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "beachparty:raw_pelican",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "alexsdelight:raw_bison",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "alexsdelight:raw_bunfungus",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "farmersdelight:ham",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "minecraft:arrow",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "minecraft:feather",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "minecraft:string",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "minecraft:rotten_flesh",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "minecraft:leather",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "minecraft:rabbit_hide",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "alexsmobs:kangaroo_hide",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "minecraft:bone",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "minecraft:slime_ball",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "minecraft:bow",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "minecraft:spider_eye",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "minecraft:gunpowder",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "minecraft:prismarine_shard",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "minecraft:prismarine_crystals",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "minecraft:ender_pearl",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 24
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "minecraft:blaze_rod",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 24
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "alexsmobs:fish_bones",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "alexsmobs:ambergris",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "alexsmobs:cachalot_whale_tooth",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "alexsmobs:tarantula_hawk_wing_fragment",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "alexsmobs:skreecher_soul",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 16
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "alexsmobs:bone_serpent_tooth",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "farm"
+    },
     {
       "output": {
         "item": "alexsmobs:spawn_egg_alligator_snapping_turtle",
@@ -17,7 +556,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -28,7 +567,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -39,7 +578,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -50,7 +589,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -61,7 +600,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -72,7 +611,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -83,7 +622,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -94,7 +633,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -105,7 +644,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -116,7 +655,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -127,7 +666,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -138,7 +677,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -149,7 +688,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -160,7 +699,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -171,7 +710,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -182,7 +721,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -193,7 +732,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -204,7 +743,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -215,7 +754,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -226,7 +765,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -237,7 +776,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -248,7 +787,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -259,7 +798,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -270,7 +809,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -281,7 +820,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -292,7 +831,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -303,7 +842,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -314,7 +853,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -325,7 +864,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -336,7 +875,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -347,7 +886,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -358,7 +897,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -369,7 +908,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -380,7 +919,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -391,7 +930,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -402,7 +941,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -413,7 +952,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -424,7 +963,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -435,7 +974,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -446,7 +985,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -457,7 +996,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -468,7 +1007,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -479,7 +1018,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -490,7 +1029,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -501,7 +1040,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -512,7 +1051,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -523,7 +1062,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -534,7 +1073,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -545,7 +1084,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -556,7 +1095,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -567,7 +1106,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -578,7 +1117,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -589,7 +1128,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -600,7 +1139,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -611,7 +1150,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -622,7 +1161,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -633,7 +1172,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -644,7 +1183,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -655,7 +1194,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -666,7 +1205,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -677,7 +1216,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -688,7 +1227,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -699,7 +1238,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -710,7 +1249,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -721,7 +1260,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -732,7 +1271,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -743,7 +1282,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -754,7 +1293,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -765,7 +1304,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -776,7 +1315,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -787,7 +1326,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -798,7 +1337,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -809,7 +1348,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -820,7 +1359,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -831,7 +1370,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -842,7 +1381,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -853,7 +1392,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -864,7 +1403,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -875,7 +1414,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -886,7 +1425,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -897,7 +1436,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -908,7 +1447,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -919,7 +1458,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -930,7 +1469,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -941,7 +1480,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -952,7 +1491,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -963,7 +1502,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -974,7 +1513,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -985,7 +1524,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -996,7 +1535,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1007,7 +1546,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1018,7 +1557,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1029,7 +1568,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1040,7 +1579,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1051,7 +1590,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1062,7 +1601,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1073,7 +1612,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1084,7 +1623,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1095,7 +1634,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1106,7 +1645,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1117,7 +1656,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1128,7 +1667,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1139,7 +1678,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1150,7 +1689,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1161,7 +1700,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1172,7 +1711,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1183,7 +1722,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1194,7 +1733,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1205,7 +1744,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1216,7 +1755,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1227,7 +1766,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1238,7 +1777,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1249,7 +1788,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1260,7 +1799,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1271,7 +1810,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1282,7 +1821,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1293,7 +1832,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1304,7 +1843,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1315,7 +1854,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1326,7 +1865,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1337,7 +1876,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1348,7 +1887,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1359,7 +1898,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1370,7 +1909,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1381,7 +1920,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1392,7 +1931,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1403,7 +1942,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1414,7 +1953,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1425,7 +1964,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1436,7 +1975,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1447,7 +1986,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1458,7 +1997,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1469,7 +2008,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1480,7 +2019,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1491,7 +2030,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1502,7 +2041,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1513,7 +2052,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1524,7 +2063,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1535,7 +2074,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1546,7 +2085,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1557,7 +2096,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1568,7 +2107,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1579,7 +2118,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1590,7 +2129,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1601,7 +2140,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1612,7 +2151,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1623,7 +2162,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1634,7 +2173,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1645,7 +2184,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1656,7 +2195,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1667,7 +2206,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1678,7 +2217,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1689,7 +2228,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1700,7 +2239,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1711,7 +2250,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1722,7 +2261,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1733,7 +2272,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1744,7 +2283,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1755,7 +2294,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1766,7 +2305,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1777,7 +2316,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1788,7 +2327,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1799,7 +2338,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1810,7 +2349,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1821,7 +2360,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1832,7 +2371,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1843,7 +2382,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1854,7 +2393,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1865,7 +2404,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1876,7 +2415,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1887,7 +2426,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1898,7 +2437,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1909,7 +2448,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1920,7 +2459,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1931,7 +2470,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1942,7 +2481,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1953,7 +2492,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1964,7 +2503,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1975,7 +2514,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1986,7 +2525,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -1997,7 +2536,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -2008,7 +2547,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -2019,7 +2558,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -2030,7 +2569,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -2041,7 +2580,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -2052,7 +2591,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -2063,7 +2602,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -2074,7 +2613,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -2085,7 +2624,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -2096,7 +2635,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -2107,7 +2646,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -2118,7 +2657,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -2129,7 +2668,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -2140,7 +2679,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -2151,7 +2690,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -2162,7 +2701,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -2173,7 +2712,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -2184,7 +2723,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -2195,7 +2734,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -2206,7 +2745,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -2217,7 +2756,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -2228,7 +2767,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -2239,7 +2778,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -2250,7 +2789,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -2261,7 +2800,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -2272,7 +2811,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -2283,7 +2822,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -2294,7 +2833,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -2305,7 +2844,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -2316,7 +2855,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -2327,7 +2866,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -2338,7 +2877,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -2349,7 +2888,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -2360,7 +2899,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     },
     {
       "output": {
@@ -2371,7 +2910,7 @@
         "item": "kubejs:miles_ticket",
         "count": 64
       },
-      "category": "spawneggs"
+      "category": "farm"
     }
   ]
 }
