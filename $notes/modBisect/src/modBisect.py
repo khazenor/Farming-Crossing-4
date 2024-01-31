@@ -6,12 +6,7 @@ import os
 disabledStr = '.disabled'
 fileGroupingCacheFilename = 'fileGroupings.json'
 def modBisect(excludeModIdList=[]):
-	if os.path.exists(fileGroupingCacheFilename):
-		allFileGroups = json.load(open(fileGroupingCacheFilename))
-		pass
-	else:
-		allFileGroups = fileGroupings.fileGroupings()
-		json.dump(allFileGroups, open('fileGroupings.json', 'w'), indent=2)
+	allFileGroups = fileGroupings.getFileGroupings()
 
 	goodGroups = fileGroupsWithSubstrings(excludeModIdList, allFileGroups)
 	mysteryGroups = listSubtract(allFileGroups, goodGroups)
@@ -42,7 +37,7 @@ def test(goodGroups, mysteryGroups):
 
 def askIfFeatureIsWorking():
 	response = input("Is the feature working? ").lower().strip()
-	return response == 'y' or response == 'yes'
+	return 'y' in response
 
 def disableGroups(fileGroups):
 	for fileGroup in fileGroups:
