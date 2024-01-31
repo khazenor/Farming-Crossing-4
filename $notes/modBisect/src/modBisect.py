@@ -1,53 +1,60 @@
-from src import dependencies
+from src import fileGroupings
 from src import config
 import json
 import os
 
 disabledStr = '.disabled'
+fileGroupingCacheFilename = 'fileGroupings.json'
 def modBisect(excludeModIdList=[]):
-	allModDict = dependencies.getDependenciesWithConfigs()
-	json.dump(allModDict, open('modsInfo.json', 'w'), indent=2)
+	if os.path.exists(fileGroupingCacheFilename):
+		allFileGroups = json.load(open(fileGroupingCacheFilename))
+		pass
+	else:
+		allFileGroups = fileGroupings.fileGroupings()
+		json.dump(allFileGroups, open('fileGroupings.json', 'w'), indent=2)
 
-	enableMods(allModDict)
+	goodGroups = fileGroupsWithSubstrings(excludeModIdList, allFileGroups)
+	mysteryGroups = listSubtract(allFileGroups, goodGroups)
+	test(goodGroups, mysteryGroups)
+	enableGroups(allFileGroups)
+	input("press enter to continue... ")
 
-	ignoreMods = getIgnoreMods(excludeModIdList, allModDict)
-	pass
-	for modId in ignoreMods:
-		del allModDict[modId]
+def test(goodGroups, mysteryGroups):
+	if len(mysteryGroups) > 1:
+		group1, group2 = splitList(mysteryGroups)
+		# test group 1
+		print(f"Disable({len(group2)}): {group2}")
+		disableGroups(group2)
+		print(f"Good({len(goodGroups)}): {goodGroups}")
+		enableGroups(goodGroups)
+		print(f"Testing({len(group1)}): {group1}")
+		enableGroups(group1)
 
-	test(allModDict, allModDict)
-
-def getIgnoreMods(excludeModIdList, modDependencies):
-	ignoreMods = {}
-	for modId in excludeModIdList:
-		parents = modsWithParents(modId, modDependencies)
-		for parent in parents:
-			addModWithDependencies(ignoreMods, modDependencies, parent)
-	return ignoreMods
-def test(allConsideredModDict, allModDict):
-	if hasMultipleToggleableMod(allConsideredModDict):
-		# test first half
-		firstHalfModDict, modsToDisable = splitMods(allConsideredModDict, allModDict)
-		disableMods(allConsideredModDict)
-		enableMods(firstHalfModDict)
-		print(f"Testing: {list(firstHalfModDict.keys())}")
 		firstHalfGood = askIfFeatureIsWorking()
 
 		if firstHalfGood:
-			# test second half
-			secondHalfModDict = modsWithDependencies(modsToDisable.keys(), allConsideredModDict)
-			test(secondHalfModDict, allModDict)
+			goodGroups += group1
+			test(goodGroups, group2)
 		else:
-			# test first half again
-			test(firstHalfModDict, allModDict)
+			test(goodGroups, group1)
+	else:
+		print(f"Found Problem Mod Group: {mysteryGroups[0]}")
 
 def askIfFeatureIsWorking():
-	response = input("Is the feature working?").lower().strip()
+	response = input("Is the feature working? ").lower().strip()
 	return response == 'y' or response == 'yes'
 
-def disableMods(modDict):
-	for modId in modDict:
-		modDir = os.path.join(config.modFolder, modDict[modId][dependencies.modFilenameKey])
+def disableGroups(fileGroups):
+	for fileGroup in fileGroups:
+		disableMods(fileGroup)
+
+def enableGroups(filegroups):
+	for fileGroup in filegroups:
+		enableMods(fileGroup)
+
+def disableMods(filenames):
+	for filename in filenames:
+		modDir = os.path.join(config.modFolder, filename)
 		modDirNoDisable = modDir.replace(disabledStr, "")
 		if os.path.exists(modDir) and disabledStr not in modDir:
 			os.rename(modDir, modDir+disabledStr)
@@ -56,9 +63,9 @@ def disableMods(modDict):
 		else:
 			pass
 
-def enableMods(modDict):
-	for modId in modDict:
-		modDir = os.path.join(config.modFolder, modDict[modId][dependencies.modFilenameKey])
+def enableMods(filenames):
+	for filename in filenames:
+		modDir = os.path.join(config.modFolder, filename)
 		if os.path.exists(modDir) or os.path.exists(modDir+disabledStr):
 			if os.path.exists(modDir):
 				srcDir = modDir
@@ -66,52 +73,21 @@ def enableMods(modDict):
 				srcDir = modDir+disabledStr
 			os.rename(srcDir, modDir.replace(disabledStr, ""))
 
-def splitMods(allConsideredModDict, allModDict):
-	modsToTest = {}
-	modsToDisable = {}
-	for modId in allConsideredModDict:
-		addModWithDependencies(modsToTest, allModDict, modId)
-		if len(modsToTest.keys()) >= len(allConsideredModDict) / 2:
-			break
+def splitList(targetList):
+	return targetList[len(targetList)//2:], targetList[:len(targetList)//2]
 
-	for modId in allConsideredModDict:
-		if modId not in modsToTest:
-			modsToDisable[modId] = allConsideredModDict[modId]
-	return modsToTest, modsToDisable
-
-def modsWithDependencies(modIds, allModsDict):
-	modsDict = {}
-	for modId in modIds:
-		addModWithDependencies(modsDict, allModsDict, modId)
-	return modsDict
-
-def modsWithParents(modIdCheck, allModsDict):
-	parentIds = []
-	for modId in allModsDict:
-		dependenciesForMod = allModsDict[modId][dependencies.dependenciesKey]
-		if modIdCheck in dependenciesForMod:
-			parentIds.append(modId)
-	if len(parentIds) == 0:
-		return [modIdCheck] + parentIds
-	else:
-		grandParents = []
-		for parentId in parentIds:
-			grandParents = modsWithParents(parentId, allModsDict)
-		return [modIdCheck] + parentIds + grandParents
-
-def addModWithDependencies(testingDict, allModsDict, modId):
-	if modId not in testingDict:
-		testingDict[modId] = allModsDict[modId]
-
-		childs = []
-		for dependencyModId in allModsDict[modId][dependencies.dependenciesKey]:
-			if dependencyModId not in testingDict and dependencyModId in allModsDict:
-				testingDict[dependencyModId] = allModsDict[dependencyModId]
-				childs.append(dependencyModId)
-		for child in childs:
-			addModWithDependencies(testingDict, allModsDict, child)
-
-def hasMultipleToggleableMod(modsDict):
-	modId = list(modsDict.keys())[0]
-	modsWithDependenciesDict = modsWithDependencies([modId], modsDict)
-	return modsWithDependenciesDict.keys() != modsDict.keys()
+def listSubtract(mainList, subList):
+	differenceList = []
+	for elm in mainList:
+		if elm not in subList:
+			differenceList.append(elm)
+	return differenceList
+def fileGroupsWithSubstrings(modSubstrings, allFileGroups):
+	fileGroups = []
+	for modSubstring in modSubstrings:
+		for fileGroup in allFileGroups:
+			for filename in fileGroup:
+				if modSubstring.lower() in filename.lower():
+					fileGroups.append(fileGroup)
+					break
+	return fileGroups
