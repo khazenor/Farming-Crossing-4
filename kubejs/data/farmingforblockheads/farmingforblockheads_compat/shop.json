@@ -52,6 +52,10 @@
       "payment": {"item": "kubejs:miles_ticket", "count": 6}, 
       "category": "shop"
     },{
+      "output": { "item": "delightful:green_tea_leaf", "count": 4},
+      "payment": {"item": "kubejs:miles_ticket"}, 
+      "category": "shop"
+    },{
       "output": { "item": "minecraft:chorus_fruit" },
       "payment": {"item": "kubejs:miles_ticket", "count": 8}, 
       "category": "shop"

@@ -73,7 +73,8 @@ dialogs = [
     nameKey: 'Cooking quest complete',
     speakerKey: pamela,
     textsKey: ["Amazing!  You cooked all the recipes I shared with you!  There’s nothing left for me to teach you – you are a master chef!"],
-    questIdKey: "1DA855B03738A6FC"
+    questIdKey: "0F749207140E8B52"   # v1.3
+    # questIdKey: "1DA855B03738A6FC" # v1.2
   }, {
     nameKey: 'Andre Introduction',
     speakerKey: andre,

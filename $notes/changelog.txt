@@ -1,12 +1,27 @@
-1.3:
+2.0: All you can eat!
+
+  This updates adds many more dishes for you to cook to your hearts delight!
+
+  # NOTE: this update modifies the completion achievements for cooking quests.
+    - If you have already completed the cooking questline, you will now have more cooking quests and be able to complete the questline again.
+
+  # Added Farmer's Delight, alexsdelight, aquaculture_delight, and delightful
+    - seeds, meats and tea leaves are for sell in the farmingforblockheads market
+    - cooking pot dishes are also available in customer villager trades
+
   # Added Cuisine Delight: a more immersive way to cook with real time cooking mechanics!
     - added compatibility with let's do mods, alexsdelight, delightful, and aquaculture delight ingredients
 
-  # mods added:
-    - alexsdelight
-    - aquaculture_delight
-    - cuisinedelight
-    - Delightful
+  # New dishes added by above mods are integrated to the farming crossing cooking collection!
+
+  # Added Pam's HarvestCraft suite of mods as optional food content
+    - crops and trees spawning are turned off so as to not clutter the world gen
+    - crops and sapling will be availabe in the farmingforblockheads market
+  
+  # Other changes
+    - Added cookingforblockheads
+    - wood items from beautify can now be made using the woodcutter and the stonecutter
+
 1.2:
   - added a tutorial quest for enchanted rings
   - added glow moss block, carpet, and cocoa beans to the flora collection

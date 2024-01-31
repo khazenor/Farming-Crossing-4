@@ -301,6 +301,29 @@
 			x: -1.5d
 			y: 1.0d
 		}
+		{
+			description: [
+				"Compost can be made like so:"
+				""
+				"{image:khazenor:textures/farmers_delight/compost_recipe.png width:200 height:200 align:1}"
+				""
+				"Leaving compost near light and water will slowly turn them to rich soil."
+				""
+				"When you plant crops on top of rich soil the crops will grow at a significantly faster rate."
+			]
+			icon: "farmersdelight:organic_compost"
+			id: "584774CD1A27C764"
+			subtitle: "Speed up your crop growth with composts"
+			tasks: [{
+				consume_items: false
+				id: "45EA72A5687BEA5C"
+				item: "farmersdelight:straw"
+				type: "item"
+			}]
+			title: "Info: Compost for Your Crops"
+			x: 2.5d
+			y: 1.0d
+		}
 	]
 	title: "Getting Started / FAQ's"
 }
