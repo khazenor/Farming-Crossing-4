@@ -151,22 +151,14 @@ categories = {
           "minecraft:yellow_dye"
         ]
       },
-      { # delight seeds/tea leaf
-        itemsKey: [
-          "delightful:green_tea_leaf",
-          "delightful:salmonberry_pips",
-          "farmersdelight:cabbage_seeds",
-          "farmersdelight:tomato_seeds"
-        ]
+      { # delight tea leaf
+        itemsKey: ["delightful:green_tea_leaf"]
       },
       { # delight crops
         priceKey: 4,
         itemsKey: [
           "farmersdelight:tomato",
-          "farmersdelight:onion",
-          "farmersdelight:rice",
-          "farmersdelight:cabbage",
-          "delightful:cantaloupe"
+          "farmersdelight:cabbage",  
         ]
       },
       { # pam seeds
@@ -543,7 +535,13 @@ categories = {
           "vinery:savanna_grape_seeds_white",
           "vinery:taiga_grape_seeds_red",
           "vinery:taiga_grape_seeds_white",
-          "vinery:white_grape_seeds"
+          "vinery:white_grape_seeds",
+          "delightful:salmonberry_pips",
+          "farmersdelight:onion",
+          "farmersdelight:rice",
+          "farmersdelight:cabbage_seeds",
+          "farmersdelight:tomato_seeds",
+          "delightful:cantaloupe"
         ]
       },
       { # saplings
