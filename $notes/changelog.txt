@@ -23,6 +23,9 @@
   # Other changes
     - Added cookingforblockheads
     - wood items from beautify can now be made using the woodcutter and the stonecutter
+    - removed modernfix and nutritionalbalance:
+      - modernfix was causing issues with recipe book searches with Jei installed
+      - nutritionalbalance is causing lag upon world load with the large number of food mods installed
 
 1.2:
   - added a tutorial quest for enchanted rings
