@@ -3405,6 +3405,12 @@
 				"0A8A8756850307AC"
 				"01A5381D909F77A0"
 				"4BDB249EF6B272CA"
+				"5AE164D3087ED608"
+				"59D30993C6442E17"
+				"2029B243AB097703"
+				"0B2C7381A2FEE852"
+				"7DA8E6EE6EBB0596"
+				"0C38B1AFF2CE0CBE"
 			]
 			icon: "meadow:alpine_poppy"
 			id: "457AB5D863909ADA"
@@ -3540,6 +3546,12 @@
 				"0A8A8756850307AC"
 				"01A5381D909F77A0"
 				"4BDB249EF6B272CA"
+				"5AE164D3087ED608"
+				"59D30993C6442E17"
+				"2029B243AB097703"
+				"0B2C7381A2FEE852"
+				"7DA8E6EE6EBB0596"
+				"0C38B1AFF2CE0CBE"
 			]
 			icon: "meadow:alpine_poppy"
 			id: "0AADFE658B1A54BF"
@@ -3675,6 +3687,12 @@
 				"0A8A8756850307AC"
 				"01A5381D909F77A0"
 				"4BDB249EF6B272CA"
+				"5AE164D3087ED608"
+				"59D30993C6442E17"
+				"2029B243AB097703"
+				"0B2C7381A2FEE852"
+				"7DA8E6EE6EBB0596"
+				"0C38B1AFF2CE0CBE"
 			]
 			icon: "meadow:alpine_poppy"
 			id: "373DD8DC92672982"
@@ -3811,6 +3829,12 @@
 				"0A8A8756850307AC"
 				"01A5381D909F77A0"
 				"4BDB249EF6B272CA"
+				"5AE164D3087ED608"
+				"59D30993C6442E17"
+				"2029B243AB097703"
+				"0B2C7381A2FEE852"
+				"7DA8E6EE6EBB0596"
+				"0C38B1AFF2CE0CBE"
 			]
 			icon: "meadow:alpine_poppy"
 			id: "0D5631246F7414D8"
@@ -3947,12 +3971,18 @@
 				"0A8A8756850307AC"
 				"01A5381D909F77A0"
 				"4BDB249EF6B272CA"
+				"5AE164D3087ED608"
+				"59D30993C6442E17"
+				"2029B243AB097703"
+				"0B2C7381A2FEE852"
+				"7DA8E6EE6EBB0596"
+				"0C38B1AFF2CE0CBE"
 			]
 			icon: "meadow:alpine_poppy"
 			id: "659A021698183855"
 			min_required_dependencies: 35
 			rewards: [{
-				count: 23
+				count: 22
 				id: "64174F6BF0BE0173"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -4083,12 +4113,18 @@
 				"0A8A8756850307AC"
 				"01A5381D909F77A0"
 				"4BDB249EF6B272CA"
+				"5AE164D3087ED608"
+				"59D30993C6442E17"
+				"2029B243AB097703"
+				"0B2C7381A2FEE852"
+				"7DA8E6EE6EBB0596"
+				"0C38B1AFF2CE0CBE"
 			]
 			icon: "meadow:alpine_poppy"
 			id: "6469388CF11844DB"
 			min_required_dependencies: 55
 			rewards: [{
-				count: 48
+				count: 46
 				id: "26D5B555221492AD"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -4219,12 +4255,18 @@
 				"0A8A8756850307AC"
 				"01A5381D909F77A0"
 				"4BDB249EF6B272CA"
+				"5AE164D3087ED608"
+				"59D30993C6442E17"
+				"2029B243AB097703"
+				"0B2C7381A2FEE852"
+				"7DA8E6EE6EBB0596"
+				"0C38B1AFF2CE0CBE"
 			]
 			icon: "meadow:alpine_poppy"
 			id: "22BE540C3A6D2470"
 			min_required_dependencies: 80
 			rewards: [{
-				count: 87
+				count: 82
 				id: "31B1DF7F68CEBD9F"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -4355,6 +4397,12 @@
 				"0A8A8756850307AC"
 				"01A5381D909F77A0"
 				"4BDB249EF6B272CA"
+				"5AE164D3087ED608"
+				"59D30993C6442E17"
+				"2029B243AB097703"
+				"0B2C7381A2FEE852"
+				"7DA8E6EE6EBB0596"
+				"0C38B1AFF2CE0CBE"
 			]
 			icon: "meadow:alpine_poppy"
 			id: "0A5399742B2867D9"
@@ -4365,7 +4413,7 @@
 					type: "item"
 				}
 				{
-					count: 180
+					count: 210
 					id: "5A6147A02E9D19BB"
 					item: "kubejs:miles_ticket"
 					type: "item"

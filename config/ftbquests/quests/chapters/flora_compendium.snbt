@@ -3604,6 +3604,192 @@
 			x: 1.0d
 			y: 20.0d
 		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "5AE164D3087ED608"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "0E446439FFFE4197"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "4738A2C142A53B84"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "161A807641383C32"
+				item: "delightful:cantaloupe_slice"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "59D30993C6442E17"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "45C811821E8E035D"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "646288233D3F09F2"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "540FDC4F513AF8D6"
+				item: "delightful:salmonberries"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "2029B243AB097703"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "36A1BD1BF4052031"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "6A344134CA81307A"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "667BA9B183035433"
+				item: "farmersdelight:cabbage_seeds"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "0B2C7381A2FEE852"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "73D2EC30C15E572E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "093E3E11C8FE943F"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "629B180CF87E9BA2"
+				item: "farmersdelight:onion"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "7DA8E6EE6EBB0596"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "5994B076F1B51051"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "4722599D446727BC"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "7C022BAF54BF8860"
+				item: "farmersdelight:rice"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 21.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "0C38B1AFF2CE0CBE"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p flora_collected 1"
+					elevate_perms: true
+					id: "586D1D44DC27893D"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"You've collected a new flora! You have now collected \"},{\"score\":{\"name\":\"@p\",\"objective\":\"flora_collected\"}},{\"text\":\" unique flora!\"}]"
+					elevate_perms: true
+					id: "1E38380611999B05"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "7F4E96149C28F8B9"
+				item: "farmersdelight:tomato_seeds"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 21.0d
+		}
 	]
 	title: "Flora Compendium"
 }
