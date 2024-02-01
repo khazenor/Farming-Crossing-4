@@ -154,13 +154,6 @@ categories = {
       { # delight tea leaf
         itemsKey: ["delightful:green_tea_leaf"]
       },
-      { # delight crops
-        priceKey: 4,
-        itemsKey: [
-          "farmersdelight:tomato",
-          "farmersdelight:cabbage",  
-        ]
-      },
       { # pam seeds
         itemsKey: [
           'pamhc2crops:agaveseeditem',
