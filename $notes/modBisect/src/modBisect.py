@@ -12,7 +12,6 @@ def modBisect(excludeModIdList=[]):
 	mysteryGroups = listSubtract(allFileGroups, goodGroups)
 	test(goodGroups, mysteryGroups)
 	enableGroups(allFileGroups)
-	input("press enter to continue... ")
 
 def test(goodGroups, mysteryGroups):
 	if len(mysteryGroups) > 1:
@@ -26,6 +25,8 @@ def test(goodGroups, mysteryGroups):
 		enableGroups(group1)
 
 		firstHalfGood = askIfFeatureIsWorking()
+		if firstHalfGood == 'quit':
+			return
 
 		if firstHalfGood:
 			goodGroups += group1
@@ -37,6 +38,8 @@ def test(goodGroups, mysteryGroups):
 
 def askIfFeatureIsWorking():
 	response = input("Is the feature working? ").lower().strip()
+	if response.lower().strip() == 'quit':
+		return 'quit'
 	return 'y' in response
 
 def disableGroups(fileGroups):
