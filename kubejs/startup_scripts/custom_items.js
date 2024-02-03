@@ -8,7 +8,6 @@ StartupEvents.registry('item', event => {
 	event.create('kubejs:4k_storage_disk_ticket').displayName('4k storage disk ticket (72 Miles Tickets)')
 	event.create('kubejs:16k_storage_disk_ticket').displayName('16k storage disk ticket (297 Miles Tickets)')
 	event.create('kubejs:64k_storage_disk_ticket').displayName('64k storage disk ticket (1215 Miles Tickets)')
-	event.create('kubejs:fresh_water').displayName('Fresh Water')
 	event.create('kubejs:cert_ani_diamond').displayName('Diamond Animal Collection Certificate')
 	event.create('kubejs:cert_ani_gold').displayName('Golden Animal Collection Certificate')
 	event.create('kubejs:cert_ani_iron').displayName('Iron Animal Collection Certificate')

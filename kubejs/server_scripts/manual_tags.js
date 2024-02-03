@@ -22,11 +22,10 @@ ServerEvents.tags('item', event => {
 
   event.add('forge:water', [
     'minecraft:water_bucket',
-    'meadow:wooden_water_bucket',
-    'kubejs:fresh_water'
+    'meadow:wooden_water_bucket'
   ])
-  event.add('meadow:water_bottles', 'kubejs:fresh_water')
-  event.add('candlelight:water_bottles', 'kubejs:fresh_water')
+  event.add('meadow:water_bottles', 'pamhc2foodcore:freshwateritem')
+  event.add('candlelight:water_bottles', 'pamhc2foodcore:freshwateritem')
 
   event.add('forge:customer_tables',[
     "villagersplus:acacia_horticulturist_table",
