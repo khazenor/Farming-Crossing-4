@@ -144,6 +144,49 @@
 			x: 2.5d
 			y: 0.0d
 		}
+		{
+			description: [
+				"You can craft a player shop like so:"
+				""
+				""
+				"{image:khazenor:textures/playershops/0_shop_recipe.png width:180 height:90 align:1}"
+				""
+				"To configure the shop, first place it above a block:"
+				""
+				""
+				"{image:khazenor:textures/playershops/1_place_shop.png width:60 height:80 align:1}"
+				""
+				"Then right click it with the item stack you would like to sell:"
+				""
+				"{image:khazenor:textures/playershops/2_set_shop_item.png width:60 height:80 align:1}"
+				""
+				"Then right click it with the item stack you would like for the price:"
+				""
+				"{image:khazenor:textures/playershops/3_set_price.png width:60 height:80 align:1}"
+				""
+				"After that you can right click it again to restock using the gui.  You can also use hoppers to restock the shop."
+				""
+				""
+				"{image:khazenor:textures/playershops/4_gui_restock.png width:100 height:100 align:1}"
+			]
+			icon: "playershops:birch_player_shop"
+			id: "69F1B354B8F71E4B"
+			tasks: [{
+				id: "17DDCC8076E10818"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "forge:glass"
+					}
+				}
+				title: "Any #forge:glass"
+				type: "item"
+			}]
+			title: "Info: Player Shops"
+			x: 3.5d
+			y: 0.0d
+		}
 	]
 	title: "Quality of Life"
 }

@@ -10,7 +10,8 @@ if __name__ == "__main__":
 	paths.modsSrc = 'D:\\Lee\\Minecraft\\Twitch\\Instances\\1.20.1_FarmingCrossing4'
 
 	paths.otherInsts = [
-		'D:\\Lee\\Dropbox\\Share\\FarmingCrossing4\\install'
+		'D:\\Lee\\Dropbox\\Share\\FarmingCrossing4\\install',
+		'D:\\Lee\\Minecraft\\MultiMC\\instances\\Farming Crossing 4 Dupe\\.minecraft'
 	]
 
 	paths.servers = [
