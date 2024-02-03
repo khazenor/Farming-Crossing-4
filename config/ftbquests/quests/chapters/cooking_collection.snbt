@@ -345,10 +345,6 @@
 				item: "kubejs:miles_ticket"
 				type: "item"
 			}]
-			tasks: [{
-				id: "43646011C3B77533"
-				type: "item"
-			}]
 			title: "Oven Recipes Completion"
 			x: -1.0d
 			y: -3.0d
@@ -776,8 +772,12 @@
 				type: "item"
 			}]
 			tasks: [{
-				id: "6B7A80C02D5E0B37"
-				type: "item"
+				icon: "minecraft:glass"
+				id: "71ED895AF492F81D"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Cooking Pot Recipes Completion"
 			x: -1.0d
@@ -1114,8 +1114,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "262F5984E1612365"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Baking Station Recipes Completion"
 			x: -1.0d
@@ -1389,8 +1393,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "32E641008810AF9A"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Grapevine Pot Recipes Completion"
 			x: -1.0d
@@ -2512,8 +2520,12 @@
 				}
 			]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "001D2228832D0319"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Aging Barrel Recipes Completion"
 			x: -1.0d
@@ -2773,8 +2785,12 @@
 				}
 			]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "4CD5D1C2D24A5302"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Cheese Press Recipes Completion"
 			x: -1.0d
@@ -3204,8 +3220,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "04DD30694590B569"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Cooking Pot Recipes Completion"
 			x: -1.0d
@@ -3627,8 +3647,12 @@
 				}
 			]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "3AA77901DC44FDA9"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Cooking Pan Recipes Completion"
 			x: -1.0d
@@ -3839,8 +3863,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "15C614A64D086463"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Regular Crafting Recipes Completion"
 			x: -1.0d
@@ -4114,8 +4142,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "2332A612C4003E14"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Mini Fridge Recipes Completion"
 			x: -1.0d
@@ -4467,8 +4499,12 @@
 				}
 			]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "3AEE3E4C709EAD29"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Tiki Bar Recipes Completion"
 			x: -1.0d
@@ -6054,8 +6090,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "583E46ED06A06342"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Cooking Pot Recipes Completion"
 			x: -1.0d
@@ -6719,8 +6759,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "27A71B74CA442229"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Cuisine Skillet Recipes Completion"
 			x: -1.0d

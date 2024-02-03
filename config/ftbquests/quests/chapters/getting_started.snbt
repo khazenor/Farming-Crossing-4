@@ -73,8 +73,12 @@
 			icon: "minecraft:writable_book"
 			id: "3040D972C5FB1772"
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "75A082A764105091"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Press \" ~ \" to Access Quests"
 			x: -1.5d
@@ -256,8 +260,12 @@
 			icon: "neighborly:present_for_thompson"
 			id: "3D71EB8417BB58EA"
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "41006425174E862E"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Info: Moving in Neighbors"
 			x: 0.5d

@@ -53,8 +53,12 @@ def mileageRewardQuestContent(icon, numTickets, dependents, numRequired=0, title
 	outStr += f'		}}\n'
 	outStr += f'	]\n'
 	outStr += f'	tasks: [{{\n'
+	outStr += '		icon: "minecraft:glass"\n'
 	outStr += f'		id: "{randomId()}"\n'
-	outStr += f'		type: "item"\n'
+	outStr += '		stat: "minecraft:walk_one_cm"\n'
+	outStr += '		title: "Free Task"\n'
+	outStr += '		type: "stat"\n'
+	outStr += '		value: 1\n'
 	outStr += f'	}}]\n'
 	if title:
 		outStr += f'	title: "{title}"\n'

@@ -1087,8 +1087,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "2729132904B76972"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Arid Completion"
 			x: -5.5d

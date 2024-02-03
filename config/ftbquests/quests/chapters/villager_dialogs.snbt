@@ -24,8 +24,12 @@
 				type: "command"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "72238FFFC28B3220"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Welcome to Farming Crossing 4"
 			x: 0.0d
@@ -47,8 +51,12 @@
 				type: "command"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "5FBED33D4DC3E14D"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Turning a profit"
 			x: 1.0d
@@ -74,8 +82,12 @@
 				type: "command"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "3C6DF727F006AAB0"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Jess move in"
 			x: 2.0d
@@ -97,8 +109,12 @@
 				type: "command"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "02CC42448CCA537C"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Jess appears"
 			x: 3.0d
@@ -120,8 +136,12 @@
 				type: "command"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "09E982C2894BE34A"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Pamela Introduction"
 			x: 0.0d
@@ -143,8 +163,12 @@
 				type: "command"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "2751444DE5E06E07"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Pamela 10 Meals"
 			x: 1.0d
@@ -166,8 +190,12 @@
 				type: "command"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "26BBD91090A3FBDB"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Pamela 35 Meals"
 			x: 2.0d
@@ -189,8 +217,12 @@
 				type: "command"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "2639414D5B4F559E"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Pamela move in"
 			x: 3.0d
@@ -212,8 +244,12 @@
 				type: "command"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "0117EB16B1E97531"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Cooking quest complete"
 			x: 4.0d
@@ -235,8 +271,12 @@
 				type: "command"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "1BD2A692C017CA6F"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Andre Introduction"
 			x: 0.0d
@@ -258,8 +298,12 @@
 				type: "command"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "78FEFCAE3DFEED93"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Andre 10"
 			x: 1.0d
@@ -281,8 +325,12 @@
 				type: "command"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "48DE5E79AB950BCA"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Andre 35"
 			x: 2.0d
@@ -304,8 +352,12 @@
 				type: "command"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "6827E96F9F4B67E8"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Andre move in"
 			x: 3.0d
@@ -327,8 +379,12 @@
 				type: "command"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "2FF18CF0C7BC5B3D"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Animal quest complete"
 			x: 4.0d
@@ -350,8 +406,12 @@
 				type: "command"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "21753C284DE910C4"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Laly Introduction"
 			x: 0.0d
@@ -373,8 +433,12 @@
 				type: "command"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "696D2E44A2441E6D"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Laly 10"
 			x: 1.0d
@@ -396,8 +460,12 @@
 				type: "command"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "32C2493BD855AEF3"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Laly 35"
 			x: 2.0d
@@ -419,8 +487,12 @@
 				type: "command"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "30495E5702ADD54D"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Laly move in"
 			x: 3.0d
@@ -442,8 +514,12 @@
 				type: "command"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "7A0127E624084CB5"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Ren: Furniture Cutting"
 			x: 0.0d
@@ -465,8 +541,12 @@
 				type: "command"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "57FEC1C75C9D7685"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Ren: Interior Decoration"
 			x: 1.0d
@@ -488,8 +568,12 @@
 				type: "command"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "7C16515F718CCB54"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Ren moves in"
 			x: 2.0d
@@ -511,8 +595,12 @@
 				type: "command"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "43B008D15CB1FEF6"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Sam Introduction"
 			x: 0.0d
@@ -534,8 +622,12 @@
 				type: "command"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "08DED0B23AE6D772"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Sam 10"
 			x: 1.0d
@@ -557,8 +649,12 @@
 				type: "command"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "68800EF4723A3B90"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Sam 20"
 			x: 2.0d
@@ -580,8 +676,12 @@
 				type: "command"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "2E60E030E0EDB3BC"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Sam moves in"
 			x: 3.0d
@@ -603,8 +703,12 @@
 				type: "command"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "7E3D2B031FF0446F"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Yukkie Introduction"
 			x: 0.0d
@@ -626,8 +730,12 @@
 				type: "command"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "39C7F8E9E54721D2"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Yukkie 10"
 			x: 1.0d
@@ -649,8 +757,12 @@
 				type: "command"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "0267E41D864EBFA9"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Yukkie 35"
 			x: 2.0d
@@ -672,8 +784,12 @@
 				type: "command"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "24D7330DBCBF5004"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Yukkie moves in"
 			x: 3.0d
@@ -695,8 +811,12 @@
 				type: "command"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "31BC4C8D8C24FE13"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Laly Museum Completion"
 			x: 4.0d
@@ -718,8 +838,12 @@
 				type: "command"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "7E384B9C420DD555"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Sam Aquarium Completion"
 			x: 4.0d
@@ -741,8 +865,12 @@
 				type: "command"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "4F805D1FC713D169"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Flora Collection Completion"
 			x: 4.0d
@@ -764,8 +892,12 @@
 				type: "command"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "7CED612CE003D2A8"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Jess Hat Collection Completion"
 			x: 4.0d
@@ -787,8 +919,12 @@
 				type: "command"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "4718A9E890310766"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Jess Common Decoration Completion"
 			x: 5.0d
@@ -810,8 +946,12 @@
 				type: "command"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "6CF7BB660A91A8A7"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Jess Rare Decoration Completion"
 			x: 6.0d

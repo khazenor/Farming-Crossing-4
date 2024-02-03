@@ -135,8 +135,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "61281CF008AE610E"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Observed 2 Unique Animals!"
 			x: 0.0d
@@ -269,8 +273,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "1247285BD702C61E"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Observed 5 Unique Animals!"
 			x: 1.0d
@@ -404,8 +412,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "034BCE5ABBCDD904"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Observed 10 Unique Animals!"
 			x: 2.0d
@@ -539,8 +551,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "211ECADF7FCEA5C0"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Observed 20 Unique Animals!"
 			x: 3.0d
@@ -674,8 +690,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "24303E230DEC4F3C"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Observed 35 Unique Animals!"
 			x: 4.0d
@@ -809,8 +829,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "75D1E76C45BDE806"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Observed 55 Unique Animals!"
 			x: 5.0d
@@ -944,8 +968,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "506590AB8C56DAFF"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Observed 80 Unique Animals!"
 			x: 6.0d
@@ -1085,8 +1113,12 @@
 				}
 			]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "21747DC935003D7A"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Animal Observation Completion!"
 			x: 7.0d
@@ -1142,8 +1174,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "4D2792C739243848"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Caught 2 Unique Fishes!"
 			x: 0.0d
@@ -1199,8 +1235,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "6C5362606A924236"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Caught 5 Unique Fishes!"
 			x: 1.0d
@@ -1256,8 +1296,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "538203D83994B6F1"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Caught 10 Unique Fishes!"
 			x: 2.0d
@@ -1313,8 +1357,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "0FCED483CCBC082C"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Caught 20 Unique Fishes!"
 			x: 3.0d
@@ -1376,8 +1424,12 @@
 				}
 			]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "4520B6E1F8B56202"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Aquarium Completion!"
 			x: 4.0d
@@ -1586,8 +1638,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "6260510D3C6A4403"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Cooked 2 Unique Dishes!"
 			x: 0.0d
@@ -1797,8 +1853,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "2ACC7C5A7AF925F1"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Cooked 5 Unique Dishes!"
 			x: 1.0d
@@ -2008,8 +2068,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "0B0CC96316977D19"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Cooked 10 Unique Dishes!"
 			x: 2.0d
@@ -2219,8 +2283,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "2FC8AB6AF15E289B"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Cooked 20 Unique Dishes!"
 			x: 3.0d
@@ -2430,8 +2498,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "54439373DBBD0691"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Cooked 35 Unique Dishes!"
 			x: 4.0d
@@ -2641,8 +2713,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "1E841561DF54560C"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Cooked 55 Unique Dishes!"
 			x: 5.0d
@@ -2852,8 +2928,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "54C4E4EEDF6C8B77"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Cooked 80 Unique Dishes!"
 			x: 6.0d
@@ -3063,8 +3143,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "2F2778923159B090"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Cooked 110 Unique Dishes!"
 			x: 7.0d
@@ -3280,8 +3364,12 @@
 				}
 			]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "783C7DC75CE095A4"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Cooking Collection Completion!"
 			x: 8.0d
@@ -3421,8 +3509,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "6EF45022D2F7953B"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Collected 2 Unique Flora!"
 			x: 0.0d
@@ -3562,8 +3654,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "3A1EF6E3C6158F18"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Collected 5 Unique Flora!"
 			x: 1.0d
@@ -3704,8 +3800,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "19BAB08AA28F68E5"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Collected 10 Unique Flora!"
 			x: 2.0d
@@ -3846,8 +3946,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "4D71EF44526AF0F3"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Collected 20 Unique Flora!"
 			x: 3.0d
@@ -3988,8 +4092,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "05C7AA41BBE83518"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Collected 35 Unique Flora!"
 			x: 4.0d
@@ -4130,8 +4238,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "5CDEF76D279E8F15"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Collected 55 Unique Flora!"
 			x: 5.0d
@@ -4272,8 +4384,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "65E9BC6620292C8C"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Collected 80 Unique Flora!"
 			x: 6.0d
@@ -4420,8 +4536,12 @@
 				}
 			]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "60A1E7A8F9327090"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Flora Compendium Completion!"
 			x: 7.0d
@@ -4496,8 +4616,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "011207F1FA1B7E2B"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Collected 2 Unique Minerals!"
 			x: 0.0d
@@ -4573,8 +4697,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "7A08D603DF7134F9"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Collected 5 Unique Minerals!"
 			x: 1.0d
@@ -4650,8 +4778,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "22FB53FFAAE34476"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Collected 10 Unique Minerals!"
 			x: 2.0d
@@ -4727,8 +4859,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "532E2C9AB56E2649"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Collected 20 Unique Minerals!"
 			x: 3.0d
@@ -4804,8 +4940,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "179DD7753D0D4745"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Collected 35 Unique Minerals!"
 			x: 4.0d
@@ -4887,8 +5027,12 @@
 				}
 			]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "5AB6B80EE0382029"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Mineral Museum Completion!"
 			x: 5.0d
@@ -5240,8 +5384,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "0442795787B83B3E"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Purchased 2 Unique Common Decorations!"
 			x: 0.0d
@@ -5593,8 +5741,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "2B215FCAD5789BD6"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Purchased 5 Unique Common Decorations!"
 			x: 1.0d
@@ -5947,8 +6099,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "0B4E4D1870A78F7F"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Purchased 10 Unique Common Decorations!"
 			x: 2.0d
@@ -6301,8 +6457,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "10F0B086B083BEF8"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Purchased 20 Unique Common Decorations!"
 			x: 3.0d
@@ -6655,8 +6815,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "2ABA923981371960"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Purchased 35 Unique Common Decorations!"
 			x: 4.0d
@@ -7009,8 +7173,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "3E0E65EDA646BF7D"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Purchased 55 Unique Common Decorations!"
 			x: 5.0d
@@ -7363,8 +7531,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "4A3981A7E1647F6A"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Purchased 80 Unique Common Decorations!"
 			x: 6.0d
@@ -7717,8 +7889,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "2AC67ADF73C16F54"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Purchased 110 Unique Common Decorations!"
 			x: 7.0d
@@ -8077,8 +8253,12 @@
 				}
 			]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "6AAF9A7F669CAE6F"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Common Decoration Catalog Completion!"
 			x: 8.0d
@@ -8171,8 +8351,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "7F4DE0CB59448173"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Purchased 2 Unique Rare Decorations!"
 			x: 0.0d
@@ -8265,8 +8449,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "54142A031DCC940A"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Purchased 5 Unique Rare Decorations!"
 			x: 1.0d
@@ -8359,8 +8547,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "621624329A6DB120"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Purchased 10 Unique Rare Decorations!"
 			x: 2.0d
@@ -8453,8 +8645,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "78EB86AA27EE63FC"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Purchased 20 Unique Rare Decorations!"
 			x: 3.0d
@@ -8547,8 +8743,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "53500BD324FC29CA"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Purchased 35 Unique Rare Decorations!"
 			x: 4.0d
@@ -8647,8 +8847,12 @@
 				}
 			]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "5C3587ACD04776F4"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Rare Decoration Catalog Completion!"
 			x: 5.0d
@@ -8905,8 +9109,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "27448E5EA3580612"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Collected 2 Unique Hats!"
 			x: 0.0d
@@ -9163,8 +9371,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "11987E68FDCC2E49"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Collected 5 Unique Hats!"
 			x: 1.0d
@@ -9422,8 +9634,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "42A0ADC2BFFECBD1"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Collected 10 Unique Hats!"
 			x: 2.0d
@@ -9681,8 +9897,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "3D2AD690CED2DE1D"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Collected 20 Unique Hats!"
 			x: 3.0d
@@ -9940,8 +10160,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "0AA29E8713EF1B8E"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Collected 35 Unique Hats!"
 			x: 4.0d
@@ -10199,8 +10423,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "1EF36F4A5FD2D30C"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Collected 55 Unique Hats!"
 			x: 5.0d
@@ -10458,8 +10686,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "78CCCFF07F0EA7E5"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Collected 80 Unique Hats!"
 			x: 6.0d
@@ -10717,8 +10949,12 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "6EBF7C0066BDE0FE"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Collected 110 Unique Hats!"
 			x: 7.0d
@@ -10982,8 +11218,12 @@
 				}
 			]
 			tasks: [{
+				icon: "minecraft:glass"
 				id: "533EB6F3A8DA62A5"
-				type: "item"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
 			title: "Hat Catalog Completion!"
 			x: 8.0d
