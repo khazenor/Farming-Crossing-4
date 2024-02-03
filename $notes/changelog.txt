@@ -1,8 +1,15 @@
 2.2:
+  # EXPANDED STORAGE REMOVED: please backup your world before updating!
+    - This is because expanded storage is causing the game to crash with quark installed
+
   # add more hearts for spice of life carrot.  You can now earn up to 27 extra hearts by eating unique foods!
     - Make sure you delete the `solcarrot-server.toml` file in your world's server config folder if you want this change.
     - Added colorful hearts mod so the many hearts you get won't clutter the screen too much
-  
+
+  # Added Quark:
+  - Added Collection quests and tutorials for flora, minerals, and animals
+  - removed inventory profiles next
+
   - fix pam's saplings not growing their trees
   - Farming Crossing 4 title visuals are now split into it's own resource pack in the global packs folder
   - remove fresh water item in favor of Pam's Harvest Craft fresh water
