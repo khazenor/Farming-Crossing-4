@@ -125,6 +125,10 @@
 				"7F57AD9A20DAB261"
 				"3E4836F1A4AA2859"
 				"426484111178BC6C"
+				"4902B82679C88411"
+				"487D7CF4FC8782F0"
+				"1753DC8B651999DF"
+				"206DC3E47380A2F8"
 			]
 			icon: "moa_decor_toys:lorocian"
 			id: "3683B83C45A0C7EA"
@@ -263,6 +267,10 @@
 				"7F57AD9A20DAB261"
 				"3E4836F1A4AA2859"
 				"426484111178BC6C"
+				"4902B82679C88411"
+				"487D7CF4FC8782F0"
+				"1753DC8B651999DF"
+				"206DC3E47380A2F8"
 			]
 			icon: "moa_decor_toys:lorocian"
 			id: "3645429AF67765BC"
@@ -401,12 +409,16 @@
 				"7F57AD9A20DAB261"
 				"3E4836F1A4AA2859"
 				"426484111178BC6C"
+				"4902B82679C88411"
+				"487D7CF4FC8782F0"
+				"1753DC8B651999DF"
+				"206DC3E47380A2F8"
 			]
 			icon: "moa_decor_toys:lorocian"
 			id: "343F9000F59A93DC"
 			min_required_dependencies: 10
 			rewards: [{
-				count: 4
+				count: 3
 				id: "14C387DFE531E853"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -540,12 +552,16 @@
 				"7F57AD9A20DAB261"
 				"3E4836F1A4AA2859"
 				"426484111178BC6C"
+				"4902B82679C88411"
+				"487D7CF4FC8782F0"
+				"1753DC8B651999DF"
+				"206DC3E47380A2F8"
 			]
 			icon: "moa_decor_toys:lorocian"
 			id: "421AF77CCC3B5110"
 			min_required_dependencies: 20
 			rewards: [{
-				count: 13
+				count: 12
 				id: "46D4E267C3BD611C"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -679,12 +695,16 @@
 				"7F57AD9A20DAB261"
 				"3E4836F1A4AA2859"
 				"426484111178BC6C"
+				"4902B82679C88411"
+				"487D7CF4FC8782F0"
+				"1753DC8B651999DF"
+				"206DC3E47380A2F8"
 			]
 			icon: "moa_decor_toys:lorocian"
 			id: "28FE86BC236BE12C"
 			min_required_dependencies: 35
 			rewards: [{
-				count: 32
+				count: 31
 				id: "3DE5B692E6031ECB"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -818,12 +838,16 @@
 				"7F57AD9A20DAB261"
 				"3E4836F1A4AA2859"
 				"426484111178BC6C"
+				"4902B82679C88411"
+				"487D7CF4FC8782F0"
+				"1753DC8B651999DF"
+				"206DC3E47380A2F8"
 			]
 			icon: "moa_decor_toys:lorocian"
 			id: "400DBF2C54FF1772"
 			min_required_dependencies: 55
 			rewards: [{
-				count: 67
+				count: 65
 				id: "09EAA3B39CADB9AD"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -957,12 +981,16 @@
 				"7F57AD9A20DAB261"
 				"3E4836F1A4AA2859"
 				"426484111178BC6C"
+				"4902B82679C88411"
+				"487D7CF4FC8782F0"
+				"1753DC8B651999DF"
+				"206DC3E47380A2F8"
 			]
 			icon: "moa_decor_toys:lorocian"
 			id: "4D6383F54A9B9E57"
 			min_required_dependencies: 80
 			rewards: [{
-				count: 122
+				count: 118
 				id: "541D57902C337238"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -1096,6 +1124,10 @@
 				"7F57AD9A20DAB261"
 				"3E4836F1A4AA2859"
 				"426484111178BC6C"
+				"4902B82679C88411"
+				"487D7CF4FC8782F0"
+				"1753DC8B651999DF"
+				"206DC3E47380A2F8"
 			]
 			icon: "moa_decor_toys:lorocian"
 			id: "7AE3C1D11BC3D7D7"
@@ -1106,7 +1138,7 @@
 					type: "item"
 				}
 				{
-					count: 245
+					count: 273
 					id: "38F539E62CB6A9F3"
 					item: "kubejs:miles_ticket"
 					type: "item"

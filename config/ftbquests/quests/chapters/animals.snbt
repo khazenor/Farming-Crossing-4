@@ -2538,7 +2538,7 @@
 				type: "observation"
 			}]
 			x: -7.0d
-			y: -5.5d
+			y: -6.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -2890,11 +2890,12 @@
 				"2C1A1A446C56ACD8"
 				"06E25F73D2CF1259"
 				"1F0D03EA0ECD7416"
+				"4902B82679C88411"
 			]
 			icon: "beachparty:beach_umbrella"
 			id: "2C09B9081B10DCAF"
 			rewards: [{
-				count: 14
+				count: 15
 				id: "17DD881C1B5FFB65"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -3162,6 +3163,7 @@
 			dependencies: [
 				"2D62FBEF18E6ABF6"
 				"4846ABCBD585104D"
+				"487D7CF4FC8782F0"
 			]
 			hide: true
 			icon: {
@@ -3173,6 +3175,7 @@
 			}
 			id: "2240F452BFC09731"
 			rewards: [{
+				count: 2
 				id: "038CFAC1841213B2"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -3215,11 +3218,13 @@
 				"057B7EFF4B937A8B"
 				"19FD14BFEF79CDF6"
 				"1C98DA42FEF17D24"
+				"188F82D09A119025"
+				"1753DC8B651999DF"
 			]
 			icon: "minecraft:stone"
 			id: "6D5B0610586728B3"
 			rewards: [{
-				count: 5
+				count: 7
 				id: "39AE1EEEA8858C62"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -4681,6 +4686,177 @@
 			}]
 			x: -8.0d
 			y: 10.5d
+		}
+		{
+			dependencies: ["2D62FBEF18E6ABF6"]
+			description: [
+				"Crabs are cute new animals that spawn in beaches. They walk sideways and will prick you if you get too close! If you kill one, they might drop Crab Legs or Crab Shells."
+				""
+				" - Crabs can be bred with Wheat, Chicken, or any type of Fish."
+				" - They are also known to enjoy music, or so we've been told."
+			]
+			hide: true
+			id: "4902B82679C88411"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
+					id: "3C8EFD9A872A2B0F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
+					id: "7EC301A559A27CA2"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				icon: "quark:crab_spawn_egg"
+				id: "0648DB73C64D133E"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a crab"
+				to_observe: "quark:crab"
+				type: "observation"
+			}]
+			x: -7.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["2D62FBEF18E6ABF6"]
+			description: [
+				"The Shiba is a dog that spawns in mountain biomes. They can be tamed and interacted with in the same way as a wolf but will in addition also fetch any arrows or tridents after they land and bring them back to you, as long as they are not sitting."
+				""
+				"If you are holding a torch, they will also look for dark spots and get mad at them so you know where to light up next."
+				""
+				"They'll also lay down if you're having them sit on a bed!"
+			]
+			hide: true
+			id: "487D7CF4FC8782F0"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
+					id: "71B08B7CC76B5570"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
+					id: "07D14A1484B99207"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				icon: "quark:shiba_spawn_egg"
+				id: "2039A863B6C55C7F"
+				observe_type: 5
+				timer: 0L
+				to_observe: "quark:shiba"
+				type: "observation"
+			}]
+			title: "Spot a shiba"
+			x: -10.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["2D62FBEF18E6ABF6"]
+			description: [
+				"Toretoises are new neutral mobs that will spawn deep underground and in complete darkness. When a Toretoise spawns, it'll come with a random type of ore (Coal, Copper, Iron, Lapis, or Redstone). You may attack the Toretoise with a pickaxe to have it drop that ore!"
+				""
+				"If you hit a Toretoise without a pickaxe, or when it has no ore, it'll emit a shockwave attack. This will damage any non-Toretoise entities around, and redirect their aggro to you."
+				""
+				"If you want to take these huge creatures home and use them to generate ores, there's some things you should know."
+				""
+				"- Feeding the Toretoise Glow Berries will sometimes have it regenerate its ores."
+				"- The Toretoise will regenerate a random ore each time."
+				"- If the Feeding Trough (from the Automation module) is enabled, the Toretoise will eat from it."
+				"- Toretoises do not breed. They do spawn like hostile mobs, so you can go back for more."
+				"- When a Toretoise generates ore, it will enter an eating cooldown for 1 minute."
+				"- Toretoises will sink in water, and are immune to drowning, fall, and fire damage."
+				"- Toretoises are 1 block tall, but grow to 1.4 blocks tall if they have an ore."
+				"- Toretoises move very slowly, and can't be leashed, using Minecarts is recommended."
+				"- If Iron Rods (from the Automation module) are enabled, pushing them onto a Toretoise with a piston will break its ore."
+			]
+			hide: true
+			id: "1753DC8B651999DF"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
+					id: "4935847C1632A667"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
+					id: "2818236F42798B3E"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				icon: "quark:toretoise_spawn_egg"
+				id: "27FD36CAD14C995E"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a Toretoise"
+				to_observe: "quark:toretoise"
+				type: "observation"
+			}]
+			x: -6.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["2D62FBEF18E6ABF6"]
+			description: [
+				"Stonelings are new passive mobs that spawn in the deep underground and in complete darkness. These little stone fairies will spawn in carrying an item, and will get startled if you get too close to them without sneaking and holding a Glow Shroom to tempt them."
+				""
+				"If startled, they'll run away from you and eventually poof out of existence. If you manage to kill one, you'll get the item its carrying as well as a Heart of Diamond."
+			]
+			hide: true
+			id: "188F82D09A119025"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/scoreboard players add @p animals_observed 1"
+					elevate_perms: true
+					id: "42FF9BB26A8B6DFB"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/tellraw @p [\"\",{\"text\":\"New animal observed! You have now observed \"},{\"score\":{\"name\":\"@p\",\"objective\":\"animals_observed\"}},{\"text\":\" unique animal(s)!\"}]"
+					elevate_perms: true
+					id: "13EACC138E667F50"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				icon: "quark:stoneling_spawn_egg"
+				id: "206DC3E47380A2F8"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a stoneling"
+				to_observe: "quark:stoneling"
+				type: "observation"
+			}]
+			x: -5.0d
+			y: 15.5d
 		}
 	]
 	title: "Animal Watching"
