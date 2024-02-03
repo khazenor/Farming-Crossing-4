@@ -1,4 +1,7 @@
 2.2:
+  # EXPANDED STORAGE REMOVED: PLEASE BACKUP YOUR WORLD BEFORE UPDATING!!
+    - Since expanded storage is no longer on curseforge, it's a lot harder to maintain in this modpack.
+
   # add more hearts for spice of life carrot.  You can now earn up to 27 extra hearts by eating unique foods!
     - Make sure you delete the `solcarrot-server.toml` file in your world's server config folder if you want this change.
     - Added colorful hearts mod so the many hearts you get won't clutter the screen too much
