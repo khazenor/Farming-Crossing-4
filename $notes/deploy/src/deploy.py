@@ -7,8 +7,10 @@ from src import resourcepacks
 from src import shaderpacks
 from src import selfDeploy
 from src import customFilesFolder
+from src import curseforgeInstanceFile
 
 def deployModpack():
+	curseforgeInstanceFile.deployCurseforgeFile()
 	mods.deployMods()
 	configFolder.deployConfigs()
 	simpleFolders.deploySimpleFolders()
