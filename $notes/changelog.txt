@@ -1,3 +1,5 @@
+2.3:
+  - removed TaxOceanVillager: it was generating command blocks on the server.
 2.2:
   # EXPANDED STORAGE REMOVED: PLEASE BACKUP YOUR WORLD BEFORE UPDATING!!
     - Since expanded storage is no longer on curseforge, it's a lot harder to maintain in this modpack.
