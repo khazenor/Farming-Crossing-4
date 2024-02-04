@@ -2032,6 +2032,17 @@
 					item: "farmersdelight:onion"
 					type: "item"
 				}
+				{
+					count: 64
+					id: "1AFFCF11226C6E3E"
+					item: "cuisinedelight:plate"
+					type: "item"
+				}
+				{
+					id: "69C23D580B336C53"
+					item: "cuisinedelight:spatula"
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "700B80701DAF049D"
