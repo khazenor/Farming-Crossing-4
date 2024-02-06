@@ -659,7 +659,8 @@ categories = {
           "beachparty:raw_pelican",
           "alexsdelight:raw_bison",
           "alexsdelight:raw_bunfungus",
-          "farmersdelight:ham"
+          "farmersdelight:ham",
+          "delightful:animal_fat"
         ]
       },
       { # minecraft:arrow
