@@ -2,6 +2,7 @@ filenameKey = 'filename'
 iconKey = 'icon'
 nameKey = 'name'
 dependencyIdKey = 'dependencyId'
+increaseRateKey = 'increaseRate'
 
 collectionNotificationKey = 'collectionNotification'
 
@@ -12,18 +13,21 @@ observationQuestTypeConst = 'observationQuestType'
 questGroupsKey = 'questGroups'
 tasksKey = 'tasks'
 additionalRewardsKey = 'additionalRewards'
+
+startingQuestlineIdx = 2
 questlines = [
   { # Cooking collection
-    filenameKey: 'cooking_collection',
+    filenameKey: 'cooking_collection_2',
     nameKey: 'Cooking Collection',
     iconKey: 'bakery:strawberry_cupcake',
     collectionNotificationKey: 'New dish cooked!',
+    increaseRateKey: 0.04,
     questGroupsKey: [
       ## Lets Do Foods
       { # Oven
         nameKey: 'Oven Recipes Completion',
         iconKey: 'bakery:brick_stove',
-        dependencyIdKey: '57BAA8B414FF1F4F',
+        dependencyIdKey: '57BAA8B414FF1F4F', # seed
         typeKey: itemQuestTypeConst,
         tasksKey: [
           'bakery:croissant',
@@ -47,7 +51,7 @@ questlines = [
       { # Small Cooking Pot
         nameKey: 'Small Cooking Pot Recipes Completion',
         iconKey: 'bakery:small_cooking_pot',
-        dependencyIdKey: '57889789985B323E',
+        dependencyIdKey: '13B67DDBCF1019AB', # bread
         typeKey: itemQuestTypeConst,
         tasksKey: [
           'bakery:strawberry_jam',
@@ -63,7 +67,7 @@ questlines = [
       { # Baker Station
         nameKey: 'Baking Station Recipes Completion',
         iconKey: 'bakery:baker_station',
-        dependencyIdKey: '5E93B9E15372F454',
+        dependencyIdKey: '5E93B9E15372F454', # jar
         typeKey: itemQuestTypeConst,
         tasksKey: [
           'bakery:strawberry_cupcake',
@@ -80,7 +84,7 @@ questlines = [
       { # Grapevine Pot
         nameKey: 'Grapevine Pot Recipes Completion',
         iconKey: 'vinery:grapevine_pot',
-        dependencyIdKey: '45CAACDFDC15E734',
+        dependencyIdKey: '45CAACDFDC15E734', # cake
         typeKey: itemQuestTypeConst,
         tasksKey: [
           'vinery:red_grapejuice_wine_bottle',
@@ -102,7 +106,7 @@ questlines = [
           'vinery:vinemaker_leggings',
           'vinery:vinemaker_boots'
         ],
-        dependencyIdKey: '45CAACDFDC15E734',
+        dependencyIdKey: '45CAACDFDC15E734', # cake
         typeKey: itemQuestTypeConst,
         tasksKey: [
           'vinery:apple_juice',
@@ -144,7 +148,7 @@ questlines = [
           'meadow:fur_leggings',
           'meadow:fur_boots'
         ],
-        dependencyIdKey: '65B28F78A7DDBD06',
+        dependencyIdKey: '65B28F78A7DDBD06', # wine
         tasksKey: [
           'meadow:cheese_block',
           'meadow:sheep_cheese_block',
@@ -161,7 +165,7 @@ questlines = [
       { # Cooking Pot
         nameKey: 'Cooking Pot Recipes Completion',
         iconKey: 'candlelight:cooking_pot',
-        dependencyIdKey: '57889789985B323E',
+        dependencyIdKey: '57889789985B323E', # cheese stick
         tasksKey: [
           'candlelight:tomato_soup',
           'candlelight:mushroom_soup',
@@ -183,7 +187,7 @@ questlines = [
           'candlelight:chefs_pants',
           'candlelight:chefs_boots'
         ],
-        dependencyIdKey: '48C7E0AF4C9A3C3E',
+        dependencyIdKey: '48C7E0AF4C9A3C3E', # mushroom soup
         tasksKey: [
           'candlelight:pancake',
           'candlelight:fricasse',
@@ -201,7 +205,7 @@ questlines = [
       { # Crafting table
         nameKey: 'Regular Crafting Recipes Completion',
         iconKey: 'minecraft:crafting_table',
-        dependencyIdKey: '57889789985B323E',
+        dependencyIdKey: '57889789985B323E', # cheese stick
         tasksKey: [
           'candlelight:tomato_mozzarella_salad',
           'candlelight:veggie_plate',
@@ -214,7 +218,7 @@ questlines = [
       { # Mini Fridge
         nameKey: 'Mini Fridge Recipes Completion',
         iconKey: 'beachparty:mini_fridge',
-        dependencyIdKey: '56C6F1D87FA09C24',
+        dependencyIdKey: '56C6F1D87FA09C24', # pizza
         tasksKey: [
           'beachparty:sweetberry_icecream',
           'beachparty:coconut_icecream',
@@ -235,7 +239,7 @@ questlines = [
           'beachparty:trunks',
           'beachparty:crocs'
         ],
-        dependencyIdKey: '2D0063702FDE9B52',
+        dependencyIdKey: '2D0063702FDE9B52', # ice cream coconut
         tasksKey: [
           'beachparty:chocolate_milkshake',
           'beachparty:coconut_milkshake',
@@ -252,7 +256,7 @@ questlines = [
       { # Delightful
         nameKey: 'Delightful Cooking Pot Recipes Completion',
         iconKey: 'delightful:sinigang',
-        dependencyIdKey: '277E14B2EF5D2F6A',
+        dependencyIdKey: '277E14B2EF5D2F6A', # cabbage leaf
         tasksKey: [
           'delightful:animal_oil_bottle',
           'delightful:ender_nectar',
@@ -269,7 +273,7 @@ questlines = [
       { # Alex Delight
         nameKey: "Alex's Delight Cooking Pot Recipes Completion",
         iconKey: 'alexsdelight:acacia_blossom_soup',
-        dependencyIdKey: '277E14B2EF5D2F6A',
+        dependencyIdKey: '277E14B2EF5D2F6A', # cabbage leaf
         tasksKey: [
           'alexsdelight:acacia_blossom_soup',
           'alexsdelight:kangaroo_pasta',
@@ -280,7 +284,7 @@ questlines = [
       { # Aquaculture Delight
         nameKey: 'Aquaculture Delight Cooking Pot Recipes Completion',
         iconKey: 'aquaculturedelight:halibut_with_tartar_sauce',
-        dependencyIdKey: '277E14B2EF5D2F6A',
+        dependencyIdKey: '277E14B2EF5D2F6A', # cabbage leaf
         tasksKey: [
           'aquaculture:turtle_soup',
           'aquaculturedelight:baked_pollock_with_carrots',
@@ -297,8 +301,8 @@ questlines = [
       },
       { # Farmer's Delight
         nameKey: 'Farmers Delight Cooking Pot Recipes Completion',
-        iconKey: 'farmersdelight:pasta_with_meatbal',
-        dependencyIdKey: '277E14B2EF5D2F6A',
+        iconKey: 'farmersdelight:pasta_with_meatballs',
+        dependencyIdKey: '277E14B2EF5D2F6A', # cabbage leaf
         tasksKey: [
           'farmersdelight:apple_cider',
           'farmersdelight:baked_cod_stew',
@@ -329,7 +333,7 @@ questlines = [
       { # Cuisine Delight
         nameKey: 'Cuisine Delight Recipes Completion',
         iconKey: 'cuisinedelight:cuisine_skillet',
-        dependencyIdKey: '29F10804B90D8DA8',
+        dependencyIdKey: '29F10804B90D8DA8', # cabbage rolls
         tasksKey: [
           'cuisinedelight:ham_fried_rice',
           'cuisinedelight:fried_rice',
