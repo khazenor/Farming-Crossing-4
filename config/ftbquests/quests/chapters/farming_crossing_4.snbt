@@ -456,11 +456,21 @@
 			]
 			icon: "minecraft:peony"
 			id: "7CF35DAE02E4B6C0"
-			rewards: [{
-				id: "0D7A3D2503DBDDEB"
-				item: "sophisticatedbackpacks:backpack"
-				type: "item"
-			}]
+			rewards: [
+				{
+					id: "0D7A3D2503DBDDEB"
+					item: "sophisticatedbackpacks:backpack"
+					type: "item"
+				}
+				{
+					auto: "no_toast"
+					command: "/function fc_collection:init_all_scores"
+					elevate_perms: true
+					id: "0D2C7F7B732C34B0"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "3A6B90DF5E7B6794"
 				item: {
@@ -1067,10 +1077,11 @@
 			hide: true
 			id: "11CD059C9CDB657E"
 			rewards: [{
-				command: "/scoreboard players list @p"
+				command: "/function fc_collection:check_collection_scores"
 				elevate_perms: true
 				icon: "chiselsandbits:magnifying_glass"
 				id: "20088F80BE366761"
+				silent: true
 				title: "Show Collection Progress in Chat"
 				type: "command"
 			}]
