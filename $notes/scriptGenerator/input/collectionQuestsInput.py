@@ -15,9 +15,10 @@ tasksKey = 'tasks'
 additionalRewardsKey = 'additionalRewards'
 
 startingQuestlineIdx = 2
+questlineGroupId = '5326E5A8132593FA'
 questlines = [
   { # Cooking collection
-    filenameKey: 'cooking_collection_2',
+    filenameKey: 'cooking_collection',
     nameKey: 'Cooking Collection',
     iconKey: 'bakery:strawberry_cupcake',
     collectionNotificationKey: 'New dish cooked!',

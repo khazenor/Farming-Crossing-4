@@ -6,6 +6,7 @@ from quests import questFunctions
 numQuestPerRow = 5
 
 def genQuestLines():
+	questIdsByFilename = {}
 	for questlineIdx, questline in enumerate(collectionQuestsInput.questlines):
 		questsContent = ''
 		questIds = []
@@ -35,6 +36,8 @@ def genQuestLines():
 					y=y
 				)
 
+			questIds += subQuestDependencies
+
 			# create sub quest
 			if collectionQuestsInput.additionalRewardsKey in questGroup:
 				additionalRewards = questGroup[collectionQuestsInput.additionalRewardsKey]
@@ -51,16 +54,21 @@ def genQuestLines():
 				y=subQuestY
 			)
 			y += 1.5
+
+		questFilename = questline[collectionQuestsInput.filenameKey]
+		questIdsByFilename[questFilename] = questIds
 		ftbQuest.writeQuestChapter(
-			questline[collectionQuestsInput.filenameKey],
+			questFilename,
 			ftbQuest.questFileContent(
 				questline[collectionQuestsInput.iconKey],
 				questline[collectionQuestsInput.filenameKey],
 				questline[collectionQuestsInput.nameKey],
 				questsContent,
-				orderIndex=questlineIdx + collectionQuestsInput.startingQuestlineIdx
+				orderIndex=questlineIdx + collectionQuestsInput.startingQuestlineIdx,
+				questGroupId=collectionQuestsInput.questlineGroupId
 			)
 		)
+	return questIdsByFilename
 
 def subQuestRewardNum(numTasks, increaseRate):
 	return int(numTasks * (1 + increaseRate * numTasks))

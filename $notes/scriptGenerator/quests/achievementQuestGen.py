@@ -5,7 +5,7 @@ import math
 from src import const
 import os
 
-def genMileageRewardProgramQuests():
+def genMileageRewardProgramQuests(questIdsByFilename):
 	filename = "collection_achievements"
 	random.seed(123)
 	fileDir = os.path.join(const.ftbChapters(), f"{filename}.snbt")
@@ -14,10 +14,10 @@ def genMileageRewardProgramQuests():
 			"kubejs:miles_ticket",
 			filename,
 			"Collection Achievements",
-			getQuestContent(),
+			getQuestContent(questIdsByFilename),
 		))
 
-def getQuestContent():
+def getQuestContent(questIdsByFilename):
 	questContent = ""
 	numRequiredStarts = [2, 5]
 	startIncrement = 5
@@ -26,8 +26,8 @@ def getQuestContent():
 
 	for y, collection in enumerate(mrc.collections):
 		numRequired = numRequiredStarts[0]
-		finalTicketValue = collection[mrc.finalTicketValueKey]
-		collectionQuestIds = collection[mrc.questIdsKey]
+		collectionQuestIds = questIdsByFilename[collection[mrc.questFilenameKey]]
+		finalTicketValue = collection[mrc.increaseRateKey] * len(collectionQuestIds)
 		totalNumQuests = len(collectionQuestIds)
 		increment = startIncrement
 		x = 0
@@ -89,6 +89,3 @@ def whileLoopCondition(numRequired, totalNumQuests, ftbQuestMinRequiredMax):
 def seed(icon, numRequired):
 	seedStr = f"{icon}{numRequired}"
 	random.seed(seedStr)
-
-if __name__ == "__main__":
-	genMileageRewardProgramQuests()

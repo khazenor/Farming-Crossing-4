@@ -5,13 +5,13 @@ parentStr = "0123456789ABCDEF"
 stringLength = 15
 ticketId = 'kubejs:miles_ticket'
 
-def questFileContent(icon, filename, title, questContent, orderIndex=1):
+def questFileContent(icon, filename, title, questContent, orderIndex=1, questGroupId=''):
 	outStr = ""
 	outStr += f'{{\n'
 	outStr += f'	default_hide_dependency_lines: false\n'
 	outStr += f'	default_quest_shape: ""\n'
 	outStr += f'	filename: "{filename}"\n'
-	outStr += f'	group: ""\n'
+	outStr += f'	group: "{questGroupId}"\n'
 	outStr += f'	icon: "{icon}"\n'
 	outStr += f'	id: "{randomId(filename)}"\n'
 	outStr += f'	order_index: {orderIndex}\n'
@@ -55,7 +55,7 @@ def mileageRewardQuestContent(icon, numTickets, dependents, numRequired=0, title
 	if lastQuestItem:
 		rewardContent += simpleItemContent(itemId=lastQuestItem)
 	return questContent(
-		randomId(f'{icon}{numRequired}'),
+		randomId(),
 		rewardContent,
 		freeTaskContent(),
 		title=title,
