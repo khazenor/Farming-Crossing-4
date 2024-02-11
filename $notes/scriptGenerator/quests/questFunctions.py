@@ -8,17 +8,30 @@ def genQuestFunctions():
 	initFunctionContent = ''
 	mcfunction.clearFunctionFiles(functionParentName)
 
+
 	for questline in collectionQuestsInput.questlines:
-		totalCollectibles = 0
+		totalCollectibles = totalTasksForQuestline(questline)
+		questlineObjName = stringCleaning.cleanedNameStr(questline[collectionQuestsInput.nameKey])
 		for questGroup in questline[collectionQuestsInput.questGroupsKey]:
 			subGroupName = questGroup[collectionQuestsInput.nameKey]
 			totalSubCollectibles = len(questGroup[collectionQuestsInput.tasksKey])
+			subGroupObjName = stringCleaning.cleanedNameStr(subGroupName)
+			fullCollectionNotification = (
+				questline[collectionQuestsInput.collectionNotificationKey] + " " +
+				questline[collectionQuestsInput.nameKey]
+			)
 			mcfunction.writeFunction(
 				functionParentName,
 				subGroupName,
+				commands.tellRaw([]) +
+				commands.collectionNotification(
+					fullCollectionNotification,
+					questlineObjName,
+					totalCollectibles
+				) +
 				commands.collectionNotification(
 					subGroupName,
-					stringCleaning.cleanedNameStr(subGroupName),
+					subGroupObjName,
 					totalSubCollectibles
 				)
 			)
@@ -27,13 +40,10 @@ def genQuestFunctions():
 
 		questlineName = questline[collectionQuestsInput.nameKey]
 		initFunctionContent += commands.initScoreBoard(questlineName)
-		mcfunction.writeFunction(
-			functionParentName,
-			questlineName,
-			commands.collectionNotification(
-				questline[collectionQuestsInput.collectionNotificationKey],
-				stringCleaning.cleanedNameStr(questlineName),
-				totalCollectibles
-			)
-		)
 		mcfunction.writeFunction(functionParentName, 'init_all_scores', initFunctionContent)
+
+def totalTasksForQuestline(questline):
+	totalNumTasks = 0
+	for questGroup in questline[collectionQuestsInput.questGroupsKey]:
+		totalNumTasks += len(questGroup[collectionQuestsInput.tasksKey])
+	return totalNumTasks

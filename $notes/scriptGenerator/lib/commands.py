@@ -9,11 +9,10 @@ def collectionNotification(collectedText, objName, total):
 	return outStr
 
 def tellRaw(texts):
-	outStr = 'tellraw @p ["",'
-	for i, text in enumerate(texts):
+	outStr = 'tellraw @p [""'
+	for text in texts:
+		outStr += ', '
 		outStr += text
-		if i < len(texts) - 1:
-			outStr += ','
 	outStr += ']\n'
 	return outStr
 
