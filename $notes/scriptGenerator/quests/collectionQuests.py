@@ -10,8 +10,8 @@ def genQuestLines():
 	for questlineIdx, questline in enumerate(collectionQuestsInput.questlines):
 		questsContent = ''
 		questIds = []
+		questLineName = questline[collectionQuestsInput.nameKey]
 		y = 0
-		rewardsIncreaseRate = questline[collectionQuestsInput.increaseRateKey]
 		for questGroup in questline[collectionQuestsInput.questGroupsKey]:
 			x = -1
 			initY = y
@@ -62,8 +62,14 @@ def genQuestLines():
 				additionalRewards = questGroup[collectionQuestsInput.additionalRewardsKey]
 			else:
 				additionalRewards = []
+			if collectionQuestsInput.increaseRateKey in questGroup:
+				rewardsIncreaseRate = questGroup[collectionQuestsInput.increaseRateKey]
+			else:
+				rewardsIncreaseRate = questline[collectionQuestsInput.increaseRateKey]
 			subQuestY = (y + initY) / 2
+			questId = ftbQuest.randomId(f'{questLineName}{questGroupName}')
 			questsContent += ftbQuest.collectionSubQuestContent(
+				questId,
 				subQuestDependencies,
 				questGroup[collectionQuestsInput.nameKey],
 				questGroup[collectionQuestsInput.iconKey],
@@ -81,7 +87,7 @@ def genQuestLines():
 			ftbQuest.questFileContent(
 				questline[collectionQuestsInput.iconKey],
 				questline[collectionQuestsInput.filenameKey],
-				questline[collectionQuestsInput.nameKey],
+				questLineName,
 				questsContent,
 				orderIndex=questlineIdx,
 				questGroupId=collectionQuestsInput.questlineGroupId

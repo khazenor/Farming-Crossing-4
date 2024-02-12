@@ -1182,7 +1182,7 @@ questlines = [
     questGroupsKey: [
       { # Vanilla Foods
         nameKey: 'Vanilla Foods Completion',
-        iconKey: 'minecraft:apple',
+        iconKey: 'kubejs:miles_ticket',
         dependencyIdKey: '0EABDA42EA87C46C',
         tasksKey: [
           "minecraft:apple",
@@ -1206,7 +1206,7 @@ questlines = [
       },
       { # Misc Foods
         nameKey: 'Moded Foods Completion',
-        iconKey: 'alexsmobs:banana',
+        iconKey: 'kubejs:miles_ticket',
         dependencyIdKey: '0EABDA42EA87C46C',
         tasksKey: [
           "alexsmobs:banana",
@@ -1234,7 +1234,7 @@ questlines = [
       },
       { # Vanilla Flower
         nameKey: 'Vanilla Flower Completion',
-        iconKey: 'minecraft:poppy',
+        iconKey: 'kubejs:miles_ticket',
         dependencyIdKey: '0EABDA42EA87C46C',
         tasksKey: [
           "minecraft:allium",
@@ -1259,7 +1259,7 @@ questlines = [
       },
       { # Biomes o Plenty
         nameKey: 'Biomes o Plenty Flowers Completion',
-        iconKey: 'biomesoplenty:glowflower',
+        iconKey: 'kubejs:miles_ticket',
         dependencyIdKey: '0EABDA42EA87C46C',
         tasksKey: [
           "biomesoplenty:blue_hydrangea",
@@ -1283,7 +1283,7 @@ questlines = [
       },
       { # Misc Flowers
         nameKey: 'Misc Flower Completion',
-        iconKey: 'meadow:delphinium',
+        iconKey: 'kubejs:miles_ticket',
         dependencyIdKey: '0EABDA42EA87C46C',
         tasksKey: [
           "alexsmobs:acacia_blossom",
@@ -1299,7 +1299,7 @@ questlines = [
       },
       { # Vanilla Sapling
         nameKey: 'Vanilla Sapling Completion',
-        iconKey: 'minecraft:oak_sapling',
+        iconKey: 'kubejs:miles_ticket',
         dependencyIdKey: '0EABDA42EA87C46C',
         tasksKey: [
           "minecraft:acacia_sapling",
@@ -1314,7 +1314,7 @@ questlines = [
       },
       { # Modded Saplings
         nameKey: 'Modded Sapling Completion',
-        iconKey: 'beachparty:palm_sapling',
+        iconKey: 'kubejs:miles_ticket',
         dependencyIdKey: '0EABDA42EA87C46C',
         tasksKey: [
           "biomesoplenty:dead_sapling",
@@ -1340,7 +1340,7 @@ questlines = [
       },
       { # Misc Flora
         nameKey: 'Misc Flora Completion',
-        iconKey: 'biomesoplenty:toadstool',
+        iconKey: 'kubejs:miles_ticket',
         dependencyIdKey: '0EABDA42EA87C46C',
         tasksKey: [
           "biomesoplenty:toadstool",
@@ -1359,5 +1359,113 @@ questlines = [
         ]
       }
     ]
+  },
+  { # Mineral Museum
+    filenameKey: 'mineral_museum',
+    nameKey: 'Mineral Museum',
+    iconKey: 'minecraft:raw_gold',
+    collectionNotificationKey: 'New mineral mined!',
+    increaseRateKey: 0.03,
+    typeKey: itemQuestTypeConst,
+    questGroupsKey: [
+      { # Vanilla Blocks
+        nameKey: 'Vanilla Blocks Completion',
+        iconKey: 'kubejs:miles_ticket',
+        dependencyIdKey: '44DB551B93AA28F9',
+        increaseRateKey: 0.01,
+        tasksKey: [
+          "minecraft:cobblestone",
+          "minecraft:mossy_cobblestone",
+          "minecraft:cobbled_deepslate",
+          "minecraft:diorite",
+          "minecraft:granite",
+          "minecraft:andesite",
+          "minecraft:sandstone",
+          "minecraft:red_sandstone",
+          "minecraft:calcite",
+          "minecraft:dripstone_block",
+          "minecraft:pointed_dripstone",
+          "minecraft:smooth_basalt",
+          "minecraft:tuff",
+          "minecraft:obsidian"
+        ]
+      },
+      { # Modded Blocks
+        nameKey: 'Modded Blocks Completion',
+        iconKey: 'kubejs:miles_ticket',
+        dependencyIdKey: '44DB551B93AA28F9',
+        increaseRateKey: 0.01,
+        tasksKey: [
+          "create:crimsite",
+          "create:asurine",
+          "create:veridium",
+          "create:ochrum",
+          "create:scoria",
+          "create:limestone",
+          "meadow:mossy_cobbled_limestone",
+          "meadow:cobbled_limestone",
+          "biomesoplenty:white_sandstone",
+          "biomesoplenty:orange_sandstone",
+          "biomesoplenty:black_sandstone",
+          "biomesoplenty:dried_salt"
+        ]
+      },
+      { # Ore
+        nameKey: 'Ore Completion',
+        iconKey: 'kubejs:miles_ticket',
+        dependencyIdKey: '44DB551B93AA28F9',
+        increaseRateKey: 0.03,
+        tasksKey: [
+          "minecraft:coal",
+          "minecraft:raw_copper",
+          "minecraft:raw_iron",
+          "minecraft:amethyst_shard",
+          "minecraft:raw_gold",
+          "create:raw_zinc",
+          "minecraft:redstone",
+          "minecraft:lapis_lazuli"
+        ]
+      },
+      { # Rare Gems
+        nameKey: 'Rare Gems Completion',
+        iconKey: 'kubejs:miles_ticket',
+        dependencyIdKey: '44DB551B93AA28F9',
+        increaseRateKey: 0.15,
+        tasksKey: [
+          "minecraft:diamond",
+          "gemsnjewels:dusk_emerald",
+          "gemsnjewels:opal",
+          "gemsnjewels:pale_diamond",
+          "gemsnjewels:ruby",
+          "gemsnjewels:sable_amethyst",
+          "gemsnjewels:sapphire"
+        ]
+      },
+      { # Common Gems
+        nameKey: 'Common Gems Completion',
+        iconKey: 'kubejs:miles_ticket',
+        dependencyIdKey: '44DB551B93AA28F9',
+        increaseRateKey: 0.07,
+        tasksKey: [
+          "gemsnjewels:garnet",
+          "gemsnjewels:topaz",
+          "gemsnjewels:peridot",
+          "gemsnjewels:aquamarine",
+          "gemsnjewels:zircon",
+          "gemsnjewels:alexandrite",
+          "gemsnjewels:tanzanite",
+          "gemsnjewels:tourmaline",
+          "gemsnjewels:spinel",
+          "gemsnjewels:black_opal",
+          "gemsnjewels:citrine",
+          "gemsnjewels:morganite",
+          "gemsnjewels:ametrine",
+          "gemsnjewels:iolite",
+          "gemsnjewels:kunzite",
+          "gemsnjewels:jade"
+        ]
+      }
+    ]
+
   }
 ]

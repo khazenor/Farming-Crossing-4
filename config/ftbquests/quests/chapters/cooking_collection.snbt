@@ -380,16 +380,16 @@
 				"0FDDBA02385FAAA7"
 			]
 			icon: "bakery:brick_stove"
-			id: "5F240F072C9C4FCF"
+			id: "50EF02604285DFCF"
 			rewards: [{
 				count: 26
-				id: "6004C0181B6B753C"
+				id: "427BAF0F5A7FBFDC"
 				item: "kubejs:miles_ticket"
 				type: "item"
 			}]
 			tasks: [{
 				icon: "minecraft:glass"
-				id: "2D1B957A203D61C9"
+				id: "755872FF0E064F6E"
 				stat: "minecraft:walk_one_cm"
 				title: "Free Task"
 				type: "stat"
@@ -587,16 +587,16 @@
 				"7AF639094FA1F055"
 			]
 			icon: "bakery:small_cooking_pot"
-			id: "50C82B889D944781"
+			id: "29196E9A39384E52"
 			rewards: [{
 				count: 10
-				id: "753B5B9F3A630CEF"
+				id: "0524BC32979B516D"
 				item: "kubejs:miles_ticket"
 				type: "item"
 			}]
 			tasks: [{
 				icon: "minecraft:glass"
-				id: "1890E5D0343776F0"
+				id: "75501B6A3EF1996F"
 				stat: "minecraft:walk_one_cm"
 				title: "Free Task"
 				type: "stat"
@@ -817,16 +817,16 @@
 				"4AF823330636BEFB"
 			]
 			icon: "bakery:baker_station"
-			id: "0F67EEB6440DBCEA"
+			id: "3AC44BF7EA6A61E8"
 			rewards: [{
 				count: 12
-				id: "1989BDEF6C1E8A3D"
+				id: "7688535AF5DB1929"
 				item: "kubejs:miles_ticket"
 				type: "item"
 			}]
 			tasks: [{
 				icon: "minecraft:glass"
-				id: "162058AE53E177CB"
+				id: "3AAD973FBC6EF3A7"
 				stat: "minecraft:walk_one_cm"
 				title: "Free Task"
 				type: "stat"
@@ -1024,16 +1024,16 @@
 				"545A47C57C56BD73"
 			]
 			icon: "vinery:grapevine_pot"
-			id: "4111F6168DB91A46"
+			id: "69C5BBE3FA5B56CD"
 			rewards: [{
 				count: 10
-				id: "59C98FF1D57B8F17"
+				id: "50FA517BBD1FF735"
 				item: "kubejs:miles_ticket"
 				type: "item"
 			}]
 			tasks: [{
 				icon: "minecraft:glass"
-				id: "41D6618D0AE58833"
+				id: "47C76CF5B26E36AA"
 				stat: "minecraft:walk_one_cm"
 				title: "Free Task"
 				type: "stat"
@@ -1691,16 +1691,16 @@
 				"61162518A74AB64A"
 			]
 			icon: "vinery:fermentation_barrel"
-			id: "2259CE1C63ABBEAC"
+			id: "18F27F063711C428"
 			rewards: [
 				{
 					count: 59
-					id: "6EE573E7C0FBC4AA"
+					id: "4DB1295A00FB6C66"
 					item: "kubejs:miles_ticket"
 					type: "item"
 				}
 				{
-					id: "0D376B1191D4EF4D"
+					id: "6FCB606852B660D0"
 					item: {
 						Count: 1b
 						id: "vinery:straw_hat"
@@ -1711,7 +1711,7 @@
 					type: "item"
 				}
 				{
-					id: "03E2FB14F477ECC5"
+					id: "69609AEC8E297A81"
 					item: {
 						Count: 1b
 						id: "vinery:vinemaker_apron"
@@ -1722,7 +1722,7 @@
 					type: "item"
 				}
 				{
-					id: "4B2956225B001993"
+					id: "2B2EDDAEBCB8547C"
 					item: {
 						Count: 1b
 						id: "vinery:vinemaker_leggings"
@@ -1733,7 +1733,7 @@
 					type: "item"
 				}
 				{
-					id: "2E9E257F1ED2753D"
+					id: "42AC7DD78D963E14"
 					item: {
 						Count: 1b
 						id: "vinery:vinemaker_boots"
@@ -1746,7 +1746,7 @@
 			]
 			tasks: [{
 				icon: "minecraft:glass"
-				id: "0AA84CC0EC41CC94"
+				id: "6E04FD189CF597BB"
 				stat: "minecraft:walk_one_cm"
 				title: "Free Task"
 				type: "stat"
@@ -1990,16 +1990,16 @@
 				"1B1A51F6AAD1FEC8"
 			]
 			icon: "meadow:cheese_form"
-			id: "584A46F387780CFF"
+			id: "00755DE4B8789212"
 			rewards: [
 				{
 					count: 14
-					id: "60D71BA54723A953"
+					id: "421DE5DFAF9A7E0D"
 					item: "kubejs:miles_ticket"
 					type: "item"
 				}
 				{
-					id: "380348665F40AB37"
+					id: "77E76C272D2E7AB0"
 					item: {
 						Count: 1b
 						id: "meadow:fur_helmet"
@@ -2010,7 +2010,7 @@
 					type: "item"
 				}
 				{
-					id: "06BC73CEA8BFEC32"
+					id: "190C278CD57B5EB1"
 					item: {
 						Count: 1b
 						id: "meadow:fur_chestplate"
@@ -2021,7 +2021,7 @@
 					type: "item"
 				}
 				{
-					id: "2B8E234721B80E9E"
+					id: "62F529C9DBA55C0E"
 					item: {
 						Count: 1b
 						id: "meadow:fur_leggings"
@@ -2032,7 +2032,7 @@
 					type: "item"
 				}
 				{
-					id: "49959AE2F733748C"
+					id: "5CA382A9C0DC29C4"
 					item: {
 						Count: 1b
 						id: "meadow:fur_boots"
@@ -2045,7 +2045,7 @@
 			]
 			tasks: [{
 				icon: "minecraft:glass"
-				id: "3FDA30EE2FFB20E3"
+				id: "4053CBE61724AEB9"
 				stat: "minecraft:walk_one_cm"
 				title: "Free Task"
 				type: "stat"
@@ -2266,16 +2266,16 @@
 				"4D72D42579777DB8"
 			]
 			icon: "candlelight:cooking_pot"
-			id: "485209FDEE77BCB0"
+			id: "099A62BE0BC932F4"
 			rewards: [{
 				count: 12
-				id: "02F584B126BFDB64"
+				id: "15604B2080F621CE"
 				item: "kubejs:miles_ticket"
 				type: "item"
 			}]
 			tasks: [{
 				icon: "minecraft:glass"
-				id: "42D6548822DC4CE9"
+				id: "33B184892ABB6EDA"
 				stat: "minecraft:walk_one_cm"
 				title: "Free Task"
 				type: "stat"
@@ -2548,16 +2548,16 @@
 					Damage: 0
 				}
 			}
-			id: "043C35FB043F8726"
+			id: "5DA563CAFEFACDBB"
 			rewards: [
 				{
 					count: 15
-					id: "484DA8C7AA41AF67"
+					id: "32F77CFC213126BA"
 					item: "kubejs:miles_ticket"
 					type: "item"
 				}
 				{
-					id: "1D0F548CA3A0F21F"
+					id: "08F154A672AD4AFF"
 					item: {
 						Count: 1b
 						id: "candlelight:cooking_hat"
@@ -2568,7 +2568,7 @@
 					type: "item"
 				}
 				{
-					id: "02B0C7A5C5A11070"
+					id: "6BD52264133069A3"
 					item: {
 						Count: 1b
 						id: "candlelight:chefs_jacket"
@@ -2579,7 +2579,7 @@
 					type: "item"
 				}
 				{
-					id: "20A93CAB56793037"
+					id: "26679806F6B70364"
 					item: {
 						Count: 1b
 						id: "candlelight:chefs_pants"
@@ -2590,7 +2590,7 @@
 					type: "item"
 				}
 				{
-					id: "3D311A0C0CCFFAA4"
+					id: "16C277E0F9D0DFA7"
 					item: {
 						Count: 1b
 						id: "candlelight:chefs_boots"
@@ -2603,7 +2603,7 @@
 			]
 			tasks: [{
 				icon: "minecraft:glass"
-				id: "7C893BDCEE7F4C50"
+				id: "72EC9A68C3EDBC63"
 				stat: "minecraft:walk_one_cm"
 				title: "Free Task"
 				type: "stat"
@@ -2755,16 +2755,16 @@
 				"2009969084AFEB8A"
 			]
 			icon: "minecraft:crafting_table"
-			id: "1218355A9172607D"
+			id: "3AB35DE8E96BCD45"
 			rewards: [{
 				count: 7
-				id: "019952FF8104AB11"
+				id: "03527FA3E227307B"
 				item: "kubejs:miles_ticket"
 				type: "item"
 			}]
 			tasks: [{
 				icon: "minecraft:glass"
-				id: "6E85AB1516C6EEEB"
+				id: "2D24EE063EB4EF1B"
 				stat: "minecraft:walk_one_cm"
 				title: "Free Task"
 				type: "stat"
@@ -2962,16 +2962,16 @@
 				"4A4D7C57DB78CDF6"
 			]
 			icon: "beachparty:mini_fridge"
-			id: "12A8DCEFDB151ADA"
+			id: "42550EBA35C9084E"
 			rewards: [{
 				count: 10
-				id: "4C17117A3CA85754"
+				id: "6C7A824CF9522440"
 				item: "kubejs:miles_ticket"
 				type: "item"
 			}]
 			tasks: [{
 				icon: "minecraft:glass"
-				id: "1A99DA4917C47D79"
+				id: "345155FEF8BFC6CB"
 				stat: "minecraft:walk_one_cm"
 				title: "Free Task"
 				type: "stat"
@@ -3192,16 +3192,16 @@
 				"3B81A6DFDFBE7ADB"
 			]
 			icon: "beachparty:tiki_bar"
-			id: "4D05271A6471E02D"
+			id: "5A90A4144966D75B"
 			rewards: [
 				{
 					count: 12
-					id: "67A30496C98E5140"
+					id: "4FDA50AEFE3CE024"
 					item: "kubejs:miles_ticket"
 					type: "item"
 				}
 				{
-					id: "58E4ADABAB9EDAB5"
+					id: "3C70BF414A656E8C"
 					item: {
 						Count: 1b
 						id: "beachparty:beach_hat"
@@ -3212,7 +3212,7 @@
 					type: "item"
 				}
 				{
-					id: "41405ED7C58317EB"
+					id: "6A558EF207431B66"
 					item: {
 						Count: 1b
 						id: "beachparty:swim_wings"
@@ -3223,7 +3223,7 @@
 					type: "item"
 				}
 				{
-					id: "495D3279BF0489D5"
+					id: "7DABFB7CD08281FE"
 					item: {
 						Count: 1b
 						id: "beachparty:trunks"
@@ -3234,7 +3234,7 @@
 					type: "item"
 				}
 				{
-					id: "236518AEB26C5EB4"
+					id: "0400690023CECE1A"
 					item: {
 						Count: 1b
 						id: "beachparty:crocs"
@@ -3247,7 +3247,7 @@
 			]
 			tasks: [{
 				icon: "minecraft:glass"
-				id: "737E687AE2792E48"
+				id: "3407E958003813FF"
 				stat: "minecraft:walk_one_cm"
 				title: "Free Task"
 				type: "stat"
@@ -3491,16 +3491,16 @@
 				"24CDD19FAF7C7EA4"
 			]
 			icon: "delightful:sinigang"
-			id: "13D32258F03015DC"
+			id: "6A649697B9A0FBE4"
 			rewards: [{
 				count: 14
-				id: "54551F0F0017BA00"
+				id: "0ECD3E8770E84B02"
 				item: "kubejs:miles_ticket"
 				type: "item"
 			}]
 			tasks: [{
 				icon: "minecraft:glass"
-				id: "354A00D173C8DCF0"
+				id: "112A3B17B98903B8"
 				stat: "minecraft:walk_one_cm"
 				title: "Free Task"
 				type: "stat"
@@ -3606,16 +3606,16 @@
 				"7A6D22E09FFC3978"
 			]
 			icon: "alexsdelight:acacia_blossom_soup"
-			id: "3DA545D1FA48F6E0"
+			id: "31EC3738CE032505"
 			rewards: [{
 				count: 4
-				id: "5E8C9001ED070B54"
+				id: "512179F6083525F0"
 				item: "kubejs:miles_ticket"
 				type: "item"
 			}]
 			tasks: [{
 				icon: "minecraft:glass"
-				id: "69BA4846C176F69B"
+				id: "038A10F073227117"
 				stat: "minecraft:walk_one_cm"
 				title: "Free Task"
 				type: "stat"
@@ -3882,16 +3882,16 @@
 				"0590D353B404691A"
 			]
 			icon: "aquaculturedelight:halibut_with_tartar_sauce"
-			id: "18C228C7C8FAE838"
+			id: "2E8D3DCCA6BFA377"
 			rewards: [{
 				count: 15
-				id: "5E16395FB86ECF78"
+				id: "308A6FFED5FB1B12"
 				item: "kubejs:miles_ticket"
 				type: "item"
 			}]
 			tasks: [{
 				icon: "minecraft:glass"
-				id: "4DE88DCC1C51B737"
+				id: "0FA9AC94792B5CD5"
 				stat: "minecraft:walk_one_cm"
 				title: "Free Task"
 				type: "stat"
@@ -4457,16 +4457,16 @@
 				"0EC35D6A6E854B5E"
 			]
 			icon: "farmersdelight:pasta_with_meatballs"
-			id: "57DE7C54028AF560"
+			id: "17B3BAF523367D2A"
 			rewards: [{
 				count: 47
-				id: "0AF534D58907C36E"
+				id: "368D18F5F9E9F7C4"
 				item: "kubejs:miles_ticket"
 				type: "item"
 			}]
 			tasks: [{
 				icon: "minecraft:glass"
-				id: "4BEE2A844E95DBEC"
+				id: "27C968CB338AB6B7"
 				stat: "minecraft:walk_one_cm"
 				title: "Free Task"
 				type: "stat"
@@ -4946,16 +4946,16 @@
 					Damage: 0
 				}
 			}
-			id: "7613DF0C89D7F097"
+			id: "2D20A995AE2309B1"
 			rewards: [{
 				count: 36
-				id: "762426CF8E7E2867"
+				id: "3C2E09C21D13D76E"
 				item: "kubejs:miles_ticket"
 				type: "item"
 			}]
 			tasks: [{
 				icon: "minecraft:glass"
-				id: "21FCC87283409A6B"
+				id: "6B59FC4A612ADE4A"
 				stat: "minecraft:walk_one_cm"
 				title: "Free Task"
 				type: "stat"

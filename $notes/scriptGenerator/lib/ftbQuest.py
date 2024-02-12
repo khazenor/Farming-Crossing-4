@@ -45,8 +45,7 @@ def collectionQuestContent(questId, itemId, command, dependency, x=0, y=0):
 		disableToast=True
 	)
 
-def collectionSubQuestContent(dependencies, title, icon, ticketReward, additionalRewards, x=0, y=0):
-	questId = randomId(title)
+def collectionSubQuestContent(questId, dependencies, title, icon, ticketReward, additionalRewards, x=0, y=0):
 	rewardContent = simpleItemContent(ticketId, ticketReward)
 	for additionalReward in additionalRewards:
 		rewardContent += simpleItemContent(additionalReward)

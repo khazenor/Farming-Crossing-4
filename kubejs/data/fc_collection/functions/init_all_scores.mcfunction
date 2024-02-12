@@ -106,3 +106,15 @@ scoreboard objectives add misc_flora_completion dummy {"text":"Misc Flora Comple
 scoreboard players set @p misc_flora_completion 0
 scoreboard objectives add flora_compendium dummy {"text":"Flora Compendium"}
 scoreboard players set @p flora_compendium 0
+scoreboard objectives add vanilla_blocks_completion dummy {"text":"Vanilla Blocks Completion"}
+scoreboard players set @p vanilla_blocks_completion 0
+scoreboard objectives add modded_blocks_completion dummy {"text":"Modded Blocks Completion"}
+scoreboard players set @p modded_blocks_completion 0
+scoreboard objectives add ore_completion dummy {"text":"Ore Completion"}
+scoreboard players set @p ore_completion 0
+scoreboard objectives add rare_gems_completion dummy {"text":"Rare Gems Completion"}
+scoreboard players set @p rare_gems_completion 0
+scoreboard objectives add common_gems_completion dummy {"text":"Common Gems Completion"}
+scoreboard players set @p common_gems_completion 0
+scoreboard objectives add mineral_museum dummy {"text":"Mineral Museum"}
+scoreboard players set @p mineral_museum 0
