@@ -36,18 +36,18 @@ collections = [
 		collectionKey: "Cooking Collection",
 		increaseRateKey: 0.08,
 		questFilenameKey: 'cooking_collection'
+	},
+	{
+		nameKey: "Flora",
+		pluralKey: "",
+		iconKey: "meadow:alpine_poppy",
+		lastQuestItemKey: 'kubejs:cert_flora_diamond',
+		actionKey: "Collected",
+		collectionKey: "Flora Compendium",
+		increaseRateKey: 0.03,
+		questFilenameKey: 'flora_compendium'
 	}
-	# ,{
-	# 	nameKey: "Flora",
-	# 	pluralKey: "",
-	# 	iconKey: "meadow:alpine_poppy",
-	# 	lastQuestItemKey: 'kubejs:cert_flora_diamond',
-	# 	actionKey: "Collected",
-	# 	collectionKey: "Flora Compendium",
-	# 	increaseRateKey: 0.03,
-	# 	questFilenameKey: ''
-	# },
-	# {
+	#, {
 	# 	nameKey: "Mineral",
 	# 	pluralKey: "s",
 	# 	iconKey: "minecraft:raw_gold",

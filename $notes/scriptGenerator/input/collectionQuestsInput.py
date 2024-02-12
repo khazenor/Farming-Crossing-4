@@ -1171,65 +1171,193 @@ questlines = [
         ]
       }
     ]
+  },
+  { # Flora collection
+    filenameKey: 'flora_compendium',
+    nameKey: 'Flora Compendium',
+    iconKey: 'meadow:alpine_poppy',
+    collectionNotificationKey: 'New flora collected!',
+    increaseRateKey: 0.02,
+    typeKey: itemQuestTypeConst,
+    questGroupsKey: [
+      { # Vanilla Foods
+        nameKey: 'Vanilla Foods Completion',
+        iconKey: 'minecraft:apple',
+        dependencyIdKey: '0EABDA42EA87C46C',
+        tasksKey: [
+          "minecraft:apple",
+          "minecraft:bamboo",
+          "minecraft:beetroot_seeds",
+          "minecraft:brown_mushroom",
+          "minecraft:cactus",
+          "minecraft:carrot",
+          "minecraft:cocoa_beans",
+          "minecraft:glow_berries",
+          "minecraft:kelp",
+          "minecraft:melon_slice",
+          "minecraft:potato",
+          "minecraft:pumpkin_seeds",
+          "minecraft:pumpkin",
+          "minecraft:red_mushroom",
+          "minecraft:sugar_cane",
+          "minecraft:sweet_berries",
+          "minecraft:wheat_seeds"
+        ]
+      },
+      { # Misc Foods
+        nameKey: 'Moded Foods Completion',
+        iconKey: 'alexsmobs:banana',
+        dependencyIdKey: '0EABDA42EA87C46C',
+        tasksKey: [
+          "alexsmobs:banana",
+          "bakery:oat_seeds",
+          "bakery:strawberry_seeds",
+          "beachparty:coconut",
+          "candlelight:lettuce_seeds",
+          "candlelight:tomato_seeds",
+          "delightful:cantaloupe_slice",
+          "delightful:salmonberries",
+          "farmersdelight:cabbage_seeds",
+          "farmersdelight:onion",
+          "farmersdelight:rice",
+          "farmersdelight:tomato_seeds",
+          "supplementaries:flax_seeds",
+          "vinery:jungle_grape_seeds_red",
+          "vinery:jungle_grape_seeds_white",
+          "vinery:red_grape_seeds",
+          "vinery:savanna_grape_seeds_red",
+          "vinery:savanna_grape_seeds_white",
+          "vinery:taiga_grape_seeds_red",
+          "vinery:taiga_grape_seeds_white",
+          "vinery:white_grape_seeds"
+        ]
+      },
+      { # Vanilla Flower
+        nameKey: 'Vanilla Flower Completion',
+        iconKey: 'minecraft:poppy',
+        dependencyIdKey: '0EABDA42EA87C46C',
+        tasksKey: [
+          "minecraft:allium",
+          "minecraft:azure_bluet",
+          "minecraft:blue_orchid",
+          "minecraft:cornflower",
+          "minecraft:dandelion",
+          "minecraft:lilac",
+          "minecraft:lily_of_the_valley",
+          "minecraft:orange_tulip",
+          "minecraft:oxeye_daisy",
+          "minecraft:peony",
+          "minecraft:pink_tulip",
+          "minecraft:poppy",
+          "minecraft:red_tulip",
+          "minecraft:rose_bush",
+          "minecraft:sunflower",
+          "minecraft:white_tulip",
+          "minecraft:wither_rose",
+          "minecraft:torchflower_seeds"
+        ]
+      },
+      { # Biomes o Plenty
+        nameKey: 'Biomes o Plenty Flowers',
+        iconKey: 'biomesoplenty:glowflower',
+        dependencyIdKey: '0EABDA42EA87C46C',
+        tasksKey: [
+          "biomesoplenty:blue_hydrangea",
+          "biomesoplenty:burning_blossom",
+          "biomesoplenty:cattail",
+          "biomesoplenty:glowflower",
+          "biomesoplenty:goldenrod",
+          "biomesoplenty:icy_iris",
+          "biomesoplenty:lavender",
+          "biomesoplenty:orange_cosmos",
+          "biomesoplenty:pink_daffodil",
+          "biomesoplenty:pink_hibiscus",
+          "biomesoplenty:rose",
+          "biomesoplenty:tall_lavender",
+          "biomesoplenty:violet",
+          "biomesoplenty:waterlily",
+          "biomesoplenty:white_petals",
+          "biomesoplenty:wildflower",
+          "biomesoplenty:wilted_lily"
+        ]
+      },
+      { # Misc Flowers
+        nameKey: 'Misc Flower Completion',
+        iconKey: 'meadow:delphinium',
+        dependencyIdKey: '0EABDA42EA87C46C',
+        tasksKey: [
+          "alexsmobs:acacia_blossom",
+          "candlelight:rose",
+          "meadow:alpine_poppy",
+          "meadow:delphinium",
+          "meadow:enzian",
+          "meadow:eriophorum_tall",
+          "meadow:eriophorum",
+          "meadow:fire_lily",
+          "meadow:saxifrage"
+        ]
+      },
+      { # Vanilla Sapling
+        nameKey: 'Vanilla Sapling Completion',
+        iconKey: 'minecraft:oak_sapling',
+        dependencyIdKey: '0EABDA42EA87C46C',
+        tasksKey: [
+          "minecraft:acacia_sapling",
+          "minecraft:azalea",
+          "minecraft:birch_sapling",
+          "minecraft:cherry_sapling",
+          "minecraft:dark_oak_sapling",
+          "minecraft:jungle_sapling",
+          "minecraft:oak_sapling",
+          "minecraft:spruce_sapling"
+        ]
+      },
+      { # Modded Saplings
+        nameKey: 'Modded Sapling Completion',
+        iconKey: 'beachparty:palm_sapling',
+        dependencyIdKey: '0EABDA42EA87C46C',
+        tasksKey: [
+          "biomesoplenty:dead_sapling",
+          "biomesoplenty:fir_sapling",
+          "biomesoplenty:flowering_oak_sapling",
+          "biomesoplenty:jacaranda_sapling",
+          "biomesoplenty:magic_sapling",
+          "biomesoplenty:mahogany_sapling",
+          "biomesoplenty:maple_sapling",
+          "biomesoplenty:orange_autumn_sapling",
+          "biomesoplenty:origin_sapling",
+          "biomesoplenty:palm_sapling",
+          "biomesoplenty:rainbow_birch_sapling",
+          "biomesoplenty:redwood_sapling",
+          "biomesoplenty:snowblossom_sapling",
+          "biomesoplenty:willow_sapling",
+          "biomesoplenty:yellow_autumn_sapling",
+          "beachparty:palm_sapling",
+          "meadow:pine_sapling",
+          "vinery:cherry_sapling",
+          "vinery:apple_tree_sapling"
+        ]
+      },
+      { # Misc Flora
+        nameKey: 'Misc Flora Completion',
+        iconKey: 'biomesoplenty:toadstool',
+        dependencyIdKey: '0EABDA42EA87C46C',
+        tasksKey: [
+          "biomesoplenty:toadstool",
+          "biomesoplenty:glowshroom",
+          "minecraft:flowering_azalea",
+          "minecraft:moss_block",
+          "minecraft:moss_carpet",
+          "minecraft:pink_petals",
+          "minecraft:spore_blossom",
+          "minecraft:big_dripleaf",
+          "minecraft:sea_pickle",
+          "minecraft:lily_pad",
+          "biomesoplenty:huge_lily_pad",
+          "biomesoplenty:glowing_moss_block",
+          "biomesoplenty:glowing_moss_carpet"
+        ]
+      }
+    ]
   }
-  # { # Flora collection
-  #   filenameKey: 'flora_compendium',
-  #   nameKey: 'Flora Compendium',
-  #   iconKey: 'meadow:alpine_poppy',
-  #   questGroupsKey: [
-  #     { # Vanilla Foods
-  #       nameKey: 'Vanilla Foods',
-  #       iconKey: 'minecraft:apple',
-  #       dependencyIdKey: '0EABDA42EA87C46C',
-  #       tasksKey: [
-  #         "minecraft:apple",
-  #         "minecraft:bamboo",
-  #         "minecraft:beetroot_seeds",
-  #         "minecraft:brown_mushroom",
-  #         "minecraft:cactus",
-  #         "minecraft:carrot",
-  #         "minecraft:cocoa_beans",
-  #         "minecraft:glow_berries",
-  #         "minecraft:kelp",
-  #         "minecraft:melon_slice",
-  #         "minecraft:potato",
-  #         "minecraft:pumpkin_seeds",
-  #         "minecraft:pumpkin",
-  #         "minecraft:red_mushroom",
-  #         "minecraft:sugar_cane",
-  #         "minecraft:sweet_berries",
-  #         "minecraft:torchflower_seeds",
-  #         "minecraft:wheat_seeds"
-  #       ]
-  #     },
-  #     { # Misc Foods
-  #       nameKey: 'Misc Foods',
-  #       iconKey: 'alexsmobs:banana',
-  #       dependencyIdKey: '0EABDA42EA87C46C',
-  #       tasksKey: [
-  #         "alexsmobs:banana",
-  #         "bakery:oat_seeds",
-  #         "bakery:strawberry_seeds",
-  #         "beachparty:coconut",
-  #         "candlelight:lettuce_seeds",
-  #         "candlelight:tomato_seeds",
-  #         "delightful:cantaloupe_slice",
-  #         "delightful:salmonberries",
-  #         "farmersdelight:cabbage_seeds",
-  #         "farmersdelight:onion",
-  #         "farmersdelight:rice",
-  #         "farmersdelight:tomato_seeds",
-  #         "supplementaries:flax_seeds",
-  #         "vinery:jungle_grape_seeds_red",
-  #         "vinery:jungle_grape_seeds_white",
-  #         "vinery:red_grape_seeds",
-  #         "vinery:savanna_grape_seeds_red",
-  #         "vinery:savanna_grape_seeds_white",
-  #         "vinery:taiga_grape_seeds_red",
-  #         "vinery:taiga_grape_seeds_white",
-  #         "vinery:white_grape_seeds"
-  #       ]
-  #     }
-  #   ]
-  # }
 ]

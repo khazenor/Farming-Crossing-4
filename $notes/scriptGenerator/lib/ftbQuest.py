@@ -46,11 +46,12 @@ def collectionQuestContent(questId, itemId, command, dependency, x=0, y=0):
 	)
 
 def collectionSubQuestContent(dependencies, title, icon, ticketReward, additionalRewards, x=0, y=0):
+	questId = randomId(title)
 	rewardContent = simpleItemContent(ticketId, ticketReward)
 	for additionalReward in additionalRewards:
 		rewardContent += simpleItemContent(additionalReward)
 	return questContent(
-		randomId(),
+		questId,
 		rewardContent,
 		freeTaskContent(),
 		dependencies=dependencies,
@@ -118,7 +119,7 @@ def simpleItemContent(itemId, count=1):
 	outStr += f'		{{\n'
 	if count > 1:
 		outStr += f'			count: {count}\n'
-	outStr += f'			id: "{randomId(itemId)}"\n'
+	outStr += f'			id: "{randomId()}"\n'
 	outStr += f'			item: "{itemId}"\n'
 	outStr += f'			type: "item"\n'
 	outStr += f'		}}\n'
@@ -158,7 +159,7 @@ def commandRewardContent(command, title='', icon='', silent=True):
 	outStr += '					exclude_from_claim_all: true\n'
 	if len(icon) > 0:
 		outStr += f'					icon: "{icon}"\n'
-	outStr += f'					id: "{randomId(command)}"\n'
+	outStr += f'					id: "{randomId()}"\n'
 	outStr += '					silent: true\n'
 	if len(title) > 0:
 		outStr += f'					title: "{title}"\n'

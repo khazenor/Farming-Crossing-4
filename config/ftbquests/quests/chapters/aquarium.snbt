@@ -18,12 +18,12 @@
 				command: "/function fc_collection:vanilla_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "6F5D94A9E9235CB7"
+				id: "6AD00098E8F73B02"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
-				id: "41E2A029ADEFC5FE"
+				id: "438B96DADDE9FDC3"
 				item: "minecraft:cod"
 				type: "item"
 			}]
@@ -40,12 +40,12 @@
 				command: "/function fc_collection:vanilla_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "6D0E13E7E040646C"
+				id: "5EB942E232B47A0C"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
-				id: "453EAECCE7E14A9B"
+				id: "42997CFBAFAB8249"
 				item: "minecraft:salmon"
 				type: "item"
 			}]
@@ -62,12 +62,12 @@
 				command: "/function fc_collection:vanilla_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "2247BA03648DCF1F"
+				id: "3FBB2ED9BBDD46B2"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
-				id: "1309BA5D11E02A42"
+				id: "0D8911E32074E0AB"
 				item: "minecraft:tropical_fish"
 				type: "item"
 			}]
@@ -84,12 +84,12 @@
 				command: "/function fc_collection:vanilla_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "4FC38500C356FB42"
+				id: "374507A0B2A58ADE"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
-				id: "06BAA0A535694F0F"
+				id: "71FFAFB715A433BC"
 				item: "minecraft:pufferfish"
 				type: "item"
 			}]
@@ -104,16 +104,16 @@
 				"32E5386B499B3323"
 			]
 			icon: "minecraft:grass_block"
-			id: "2E2AC12B24FF0FE6"
+			id: "659F8E845BA644E3"
 			rewards: [{
 				count: 4
-				id: "6D517A503AEF58DE"
+				id: "20C4EC8F7B37C8E9"
 				item: "kubejs:miles_ticket"
 				type: "item"
 			}]
 			tasks: [{
 				icon: "minecraft:glass"
-				id: "316D2B6436E7617E"
+				id: "585F95E04223B1BB"
 				stat: "minecraft:walk_one_cm"
 				title: "Free Task"
 				type: "stat"
@@ -133,12 +133,12 @@
 				command: "/function fc_collection:freshwater_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "3AA9FCE77D20DB67"
+				id: "21AFCAE0E054F5F2"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
-				id: "0F93D4E42E9D2ACD"
+				id: "1AFC6A916CEC1654"
 				item: "aquaculture:smallmouth_bass"
 				type: "item"
 			}]
@@ -155,12 +155,12 @@
 				command: "/function fc_collection:freshwater_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "2A1243791F640677"
+				id: "670B88B8EF95F817"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
-				id: "40FBE5717DBF2E84"
+				id: "1D6C3441D07C38E9"
 				item: "aquaculture:bluegill"
 				type: "item"
 			}]
@@ -177,12 +177,12 @@
 				command: "/function fc_collection:freshwater_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "7DFCF26202FCB1A7"
+				id: "071295AF50C44279"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
-				id: "7A20A758639E1999"
+				id: "759521057B2256B7"
 				item: "aquaculture:brown_trout"
 				type: "item"
 			}]
@@ -199,12 +199,12 @@
 				command: "/function fc_collection:freshwater_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "2F9A2F5A20E9673D"
+				id: "6475FAC5200E791A"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
-				id: "534E00584CAB3C38"
+				id: "2563231A150D6DEF"
 				item: "aquaculture:carp"
 				type: "item"
 			}]
@@ -221,12 +221,12 @@
 				command: "/function fc_collection:freshwater_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "4DFB9F55E7CBDE66"
+				id: "009C0B6695C91297"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
-				id: "5AF3F9B6168CBBDA"
+				id: "7A0CC5239BBCA00F"
 				item: "aquaculture:catfish"
 				type: "item"
 			}]
@@ -243,12 +243,12 @@
 				command: "/function fc_collection:freshwater_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "2C6447B298FE20AC"
+				id: "07A41E8B6A7571EB"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
-				id: "4A0A795214439A15"
+				id: "10A0A7BB01F64BF1"
 				item: "aquaculture:gar"
 				type: "item"
 			}]
@@ -265,12 +265,12 @@
 				command: "/function fc_collection:freshwater_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "7C65193AE00A66E6"
+				id: "7FDF6B96F6F3A336"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
-				id: "6FEFD629BBF42229"
+				id: "09CD390E8783467C"
 				item: {
 					Count: 1b
 					id: "aquaculture:minnow"
@@ -293,12 +293,12 @@
 				command: "/function fc_collection:freshwater_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "51605C3811E78F85"
+				id: "32131A854C93EC91"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
-				id: "698AB57041DAC163"
+				id: "43C490ACD118FDCF"
 				item: "aquaculture:muskellunge"
 				type: "item"
 			}]
@@ -315,12 +315,12 @@
 				command: "/function fc_collection:freshwater_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "3AF6AF1A51932CC7"
+				id: "21141E8CABA4319A"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
-				id: "2AF1D992543EC9AB"
+				id: "6E9223A66E06EFDC"
 				item: "aquaculture:perch"
 				type: "item"
 			}]
@@ -340,16 +340,16 @@
 				"144B07F7116AB01F"
 			]
 			icon: "minecraft:water_bucket"
-			id: "0B04EA761ACC8FB5"
+			id: "528CB6A95D8FE78E"
 			rewards: [{
 				count: 11
-				id: "36D37CB9369A06FD"
+				id: "2146ACEB86971FDC"
 				item: "kubejs:miles_ticket"
 				type: "item"
 			}]
 			tasks: [{
 				icon: "minecraft:glass"
-				id: "73AADB493A130B9C"
+				id: "0545DB4AA035D011"
 				stat: "minecraft:walk_one_cm"
 				title: "Free Task"
 				type: "stat"
@@ -369,12 +369,12 @@
 				command: "/function fc_collection:arid_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "0F9DDE3B779941AF"
+				id: "3421922C426A2F0B"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
-				id: "3241D6E9603F00EE"
+				id: "7260B429AC207A8D"
 				item: "aquaculture:bayad"
 				type: "item"
 			}]
@@ -391,12 +391,12 @@
 				command: "/function fc_collection:arid_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "1E9519013F11944A"
+				id: "539E12F4EDB7CCA9"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
-				id: "7AFD477AC44E5009"
+				id: "167C584F4B93F455"
 				item: "aquaculture:boulti"
 				type: "item"
 			}]
@@ -413,12 +413,12 @@
 				command: "/function fc_collection:arid_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "55BB6DD238A51307"
+				id: "595F0320282289A6"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
-				id: "6035273DC059150A"
+				id: "599F0B845C200BDB"
 				item: "aquaculture:capitaine"
 				type: "item"
 			}]
@@ -435,12 +435,12 @@
 				command: "/function fc_collection:arid_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "1B5D34FB50AF2A30"
+				id: "268BD645481708B3"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
-				id: "10B1B21D1F9FCC46"
+				id: "08D3F1BE83D6F4BD"
 				item: "aquaculture:synodontis"
 				type: "item"
 			}]
@@ -455,16 +455,16 @@
 				"67FE96270C3B42F5"
 			]
 			icon: "minecraft:dead_bush"
-			id: "4321CC538D6B2ED0"
+			id: "28B3411C04C1AD57"
 			rewards: [{
 				count: 4
-				id: "6D4FDB02D3CBD0B1"
+				id: "7EFAECC279962342"
 				item: "kubejs:miles_ticket"
 				type: "item"
 			}]
 			tasks: [{
 				icon: "minecraft:glass"
-				id: "6BD71AB26A9B4CCA"
+				id: "28FDC82FBC23626C"
 				stat: "minecraft:walk_one_cm"
 				title: "Free Task"
 				type: "stat"
@@ -484,12 +484,12 @@
 				command: "/function fc_collection:artic_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "2FCF0A29053E456A"
+				id: "55388D6A5A010936"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
-				id: "524E726EC11E1F57"
+				id: "7F8591E1C3D5BEDC"
 				item: "aquaculture:atlantic_cod"
 				type: "item"
 			}]
@@ -506,12 +506,12 @@
 				command: "/function fc_collection:artic_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "6F35F031A4AFADCC"
+				id: "2A9CE10C00D615AE"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
-				id: "02C162AD0A894973"
+				id: "501B0A92DE54F956"
 				item: "aquaculture:blackfish"
 				type: "item"
 			}]
@@ -528,12 +528,12 @@
 				command: "/function fc_collection:artic_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "20F0704E4910A74B"
+				id: "26F709E15524FCBC"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
-				id: "611AC59C677AC9C8"
+				id: "1C749FF91067B42E"
 				item: "aquaculture:pacific_halibut"
 				type: "item"
 			}]
@@ -550,12 +550,12 @@
 				command: "/function fc_collection:artic_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "0EDF2DCF43EADB3B"
+				id: "280F6123B6B8EAEC"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
-				id: "65A60B691A7A069E"
+				id: "3265AC4D76E420A0"
 				item: "aquaculture:atlantic_halibut"
 				type: "item"
 			}]
@@ -572,12 +572,12 @@
 				command: "/function fc_collection:artic_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "7C948DB346413FAD"
+				id: "5213E16BE41C3010"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
-				id: "6DABB5504D5F980B"
+				id: "2602FEC82DFAB5CE"
 				item: "aquaculture:atlantic_herring"
 				type: "item"
 			}]
@@ -594,12 +594,12 @@
 				command: "/function fc_collection:artic_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "5AD11F59723E1949"
+				id: "055E1238E9064D95"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
-				id: "1F1DEF01C36219CB"
+				id: "32449FEC203DACE5"
 				item: "aquaculture:pink_salmon"
 				type: "item"
 			}]
@@ -616,12 +616,12 @@
 				command: "/function fc_collection:artic_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "104E1881C0B49C73"
+				id: "0B2E62D756AC84A2"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
-				id: "17D4F8A845A61726"
+				id: "7014B674173D308A"
 				item: "aquaculture:pollock"
 				type: "item"
 			}]
@@ -638,12 +638,12 @@
 				command: "/function fc_collection:artic_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "1CC9146C96DE5AD3"
+				id: "3B8B1BC3910954D1"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
-				id: "4AEE03E78F77A620"
+				id: "54448CF285670A3D"
 				item: "aquaculture:rainbow_trout"
 				type: "item"
 			}]
@@ -662,16 +662,16 @@
 				"7F18D0316A38622D"
 			]
 			icon: "minecraft:packed_ice"
-			id: "3BEFE2CBC6F444CA"
+			id: "201D0652A63D4886"
 			rewards: [{
 				count: 9
-				id: "40D402457B4DD10E"
+				id: "2D46693D4202DE56"
 				item: "kubejs:miles_ticket"
 				type: "item"
 			}]
 			tasks: [{
 				icon: "minecraft:glass"
-				id: "46F0C645A0D334F1"
+				id: "768586705C06AB35"
 				stat: "minecraft:walk_one_cm"
 				title: "Free Task"
 				type: "stat"
@@ -691,12 +691,12 @@
 				command: "/function fc_collection:saltwater_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "3CE4F46512303610"
+				id: "5A3A9CF8827DCCCF"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
-				id: "216F95DB62091B8E"
+				id: "2BF301B39499F3CB"
 				item: "aquaculture:jellyfish"
 				type: "item"
 			}]
@@ -713,12 +713,12 @@
 				command: "/function fc_collection:saltwater_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "70F75A2D06A2F5DB"
+				id: "25A20705152805B9"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
-				id: "11C28545ACD82BF5"
+				id: "06690D1451FDA26D"
 				item: "aquaculture:red_grouper"
 				type: "item"
 			}]
@@ -735,12 +735,12 @@
 				command: "/function fc_collection:saltwater_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "660C02CEC915713D"
+				id: "4010FFD112E5E8FD"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
-				id: "0863559FD24C5A53"
+				id: "6D55D4736754EEF5"
 				item: "aquaculture:tuna"
 				type: "item"
 			}]
@@ -754,16 +754,16 @@
 				"5835FF8B5AD049C7"
 			]
 			icon: "biomesoplenty:dried_salt"
-			id: "4D6B5C1FF05D8CE5"
+			id: "1A0B0A281BC9C463"
 			rewards: [{
 				count: 3
-				id: "0352623BCB9B6EF7"
+				id: "020D9ABDEE783551"
 				item: "kubejs:miles_ticket"
 				type: "item"
 			}]
 			tasks: [{
 				icon: "minecraft:glass"
-				id: "3EBC20CAD6F071FF"
+				id: "5E329A4298285E9D"
 				stat: "minecraft:walk_one_cm"
 				title: "Free Task"
 				type: "stat"
@@ -783,12 +783,12 @@
 				command: "/function fc_collection:swamp_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "2EB7B8F80FB69F1D"
+				id: "182106B0AFF6CDB2"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
-				id: "253CB535815E40F9"
+				id: "1328E3A8DB56E653"
 				item: "aquaculture:box_turtle"
 				type: "item"
 			}]
@@ -805,12 +805,12 @@
 				command: "/function fc_collection:swamp_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "647B2FA82ED12410"
+				id: "67406108116185A4"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
-				id: "049DE8B2330D367E"
+				id: "3FF6E846CC676AB0"
 				item: {
 					Count: 1b
 					id: "aquaculture:leech"
@@ -833,12 +833,12 @@
 				command: "/function fc_collection:swamp_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "15B0963368CC8D90"
+				id: "624DB03294D24BCC"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
-				id: "2B37408C26377698"
+				id: "7ECF84473CFD387B"
 				item: "aquaculture:goldfish"
 				type: "item"
 			}]
@@ -852,16 +852,16 @@
 				"59ECA88CF237585C"
 			]
 			icon: "biomesoplenty:willow_sapling"
-			id: "35D08F6ECA3F843A"
+			id: "6CCE16CD39C10680"
 			rewards: [{
 				count: 3
-				id: "2A52B5167B7BCCAF"
+				id: "7A709B23E7F20C5F"
 				item: "kubejs:miles_ticket"
 				type: "item"
 			}]
 			tasks: [{
 				icon: "minecraft:glass"
-				id: "068F2B91BFEAA800"
+				id: "5425A0445AB242C4"
 				stat: "minecraft:walk_one_cm"
 				title: "Free Task"
 				type: "stat"
@@ -881,12 +881,12 @@
 				command: "/function fc_collection:mushroom_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "792B5030A5B5D725"
+				id: "156118910B2F155C"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
-				id: "47CA9487F2E90ED8"
+				id: "5F435F888F2D897D"
 				item: "aquaculture:brown_shrooma"
 				type: "item"
 			}]
@@ -903,12 +903,12 @@
 				command: "/function fc_collection:mushroom_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "6F52B31E5A84A37F"
+				id: "6BE22BDFA6BAAC07"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
-				id: "205BD9962A5D0FF4"
+				id: "557DCF6FDA1C1FE2"
 				item: "aquaculture:red_shrooma"
 				type: "item"
 			}]
@@ -921,16 +921,16 @@
 				"1A6AE45573ABE37E"
 			]
 			icon: "minecraft:red_mushroom"
-			id: "6B6D123119F81B40"
+			id: "12761E56BD260220"
 			rewards: [{
 				count: 2
-				id: "3CAF8E2193A40565"
+				id: "1056AD9768D762E5"
 				item: "kubejs:miles_ticket"
 				type: "item"
 			}]
 			tasks: [{
 				icon: "minecraft:glass"
-				id: "43C3A6026AEA219F"
+				id: "2A545AB70FBB9732"
 				stat: "minecraft:walk_one_cm"
 				title: "Free Task"
 				type: "stat"
@@ -950,12 +950,12 @@
 				command: "/function fc_collection:jungle_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "3FBEBA0CB368302B"
+				id: "01452902581437FC"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
-				id: "4E2CCB61579EC2AE"
+				id: "553C0347FE5DDAFD"
 				item: "aquaculture:arapaima"
 				type: "item"
 			}]
@@ -972,12 +972,12 @@
 				command: "/function fc_collection:jungle_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "0D19B56D95459C68"
+				id: "2F2D99A4E9719EA9"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
-				id: "32F8D81BBD0D79D8"
+				id: "187143EF01E4CBFA"
 				item: "aquaculture:piranha"
 				type: "item"
 			}]
@@ -994,12 +994,12 @@
 				command: "/function fc_collection:jungle_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "1244ED80EDF911AB"
+				id: "54C173D04A3D54A9"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
-				id: "4F1CF8CE4E7B24F1"
+				id: "32862F8C5FD08A6E"
 				item: "aquaculture:tambaqui"
 				type: "item"
 			}]
@@ -1016,12 +1016,12 @@
 				command: "/function fc_collection:jungle_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "0B32A4601AFCB520"
+				id: "6A80346FE44C63A8"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
-				id: "1494716AA2688694"
+				id: "02531AF3BC115A5A"
 				item: "aquaculture:arrau_turtle"
 				type: "item"
 			}]
@@ -1036,16 +1036,16 @@
 				"3B70A9538E176C50"
 			]
 			icon: "minecraft:jungle_sapling"
-			id: "42FA1C7987902903"
+			id: "73824CF556A9B584"
 			rewards: [{
 				count: 4
-				id: "71C4A335DDF3DCAD"
+				id: "226133E6E7FB8816"
 				item: "kubejs:miles_ticket"
 				type: "item"
 			}]
 			tasks: [{
 				icon: "minecraft:glass"
-				id: "62ECA641CC7D197A"
+				id: "3F936C669532926A"
 				stat: "minecraft:walk_one_cm"
 				title: "Free Task"
 				type: "stat"

@@ -88,3 +88,21 @@ scoreboard objectives add cuisine_delight_recipes_completion dummy {"text":"Cuis
 scoreboard players set @p cuisine_delight_recipes_completion 0
 scoreboard objectives add cooking_collection dummy {"text":"Cooking Collection"}
 scoreboard players set @p cooking_collection 0
+scoreboard objectives add vanilla_foods_completion dummy {"text":"Vanilla Foods Completion"}
+scoreboard players set @p vanilla_foods_completion 0
+scoreboard objectives add moded_foods_completion dummy {"text":"Moded Foods Completion"}
+scoreboard players set @p moded_foods_completion 0
+scoreboard objectives add vanilla_flower_completion dummy {"text":"Vanilla Flower Completion"}
+scoreboard players set @p vanilla_flower_completion 0
+scoreboard objectives add biomes_o_plenty_flowers dummy {"text":"Biomes o Plenty Flowers"}
+scoreboard players set @p biomes_o_plenty_flowers 0
+scoreboard objectives add misc_flower_completion dummy {"text":"Misc Flower Completion"}
+scoreboard players set @p misc_flower_completion 0
+scoreboard objectives add vanilla_sapling_completion dummy {"text":"Vanilla Sapling Completion"}
+scoreboard players set @p vanilla_sapling_completion 0
+scoreboard objectives add modded_sapling_completion dummy {"text":"Modded Sapling Completion"}
+scoreboard players set @p modded_sapling_completion 0
+scoreboard objectives add misc_flora_completion dummy {"text":"Misc Flora Completion"}
+scoreboard players set @p misc_flora_completion 0
+scoreboard objectives add flora_compendium dummy {"text":"Flora Compendium"}
+scoreboard players set @p flora_compendium 0
