@@ -23,9 +23,20 @@ def questFileContent(icon, filename, title, questContent, orderIndex=1, questGro
 	outStr += f'}}\n'
 	return outStr
 
-def collectionQuestContent(id, itemId, command, dependency, x=0, y=0):
+def observationQuestContent(questId, icon, name, observe, command, dependency, x=0, y=0):
 	return questContent(
-		id,
+		questId,
+		commandRewardContent(command),
+		observationTaskContent(icon, name, observe),
+		x=x,
+		y=y,
+		dependencies=[dependency],
+		disableToast=True
+	)
+
+def collectionQuestContent(questId, itemId, command, dependency, x=0, y=0):
+	return questContent(
+		questId,
 		commandRewardContent(command),
 		simpleItemContent(itemId),
 		x=x,
@@ -111,6 +122,19 @@ def simpleItemContent(itemId, count=1):
 	outStr += f'			item: "{itemId}"\n'
 	outStr += f'			type: "item"\n'
 	outStr += f'		}}\n'
+	return outStr
+
+def observationTaskContent(icon, title, observation):
+	outStr = ''
+	outStr += '				{'
+	outStr += f'					icon: "{icon}"'
+	outStr += f'					id: "{randomId()}"'
+	outStr += '					observe_type: 5'
+	outStr += '					timer: 0L'
+	outStr += f'					title: "{title}"'
+	outStr += f'					to_observe: "{observation}"'
+	outStr += '					type: "observation"'
+	outStr += '				}'
 	return outStr
 
 def freeTaskContent():

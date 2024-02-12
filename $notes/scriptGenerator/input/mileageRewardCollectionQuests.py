@@ -7,16 +7,16 @@ questFilenameKey = 'questFilename'
 increaseRateKey = 'increaseRate'
 lastQuestItemKey = 'lastQuestItem'
 collections = [
-	# {
-	# 	nameKey: "Animal",
-	# 	pluralKey: "s",
-	# 	iconKey: "moa_decor_toys:lorocian",
-	# 	lastQuestItemKey: 'kubejs:cert_ani_diamond',
-	# 	actionKey: "Observed",
-	# 	collectionKey: "Animal Observation",
-	# 	increaseRateKey: 0.04,
-	# 	questFilenameKey: ''
-	# },
+	{
+		nameKey: "Animal",
+		pluralKey: "s",
+		iconKey: "moa_decor_toys:lorocian",
+		lastQuestItemKey: 'kubejs:cert_ani_diamond',
+		actionKey: "Observed",
+		collectionKey: "Animal Observation",
+		increaseRateKey: 0.04,
+		questFilenameKey: 'animal_watching'
+	},
 	# {
 	# 	nameKey: "Fish",
 	# 	pluralKey: "es",

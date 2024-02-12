@@ -21,20 +21,39 @@ def genQuestLines():
 			dependencyId = questGroup[collectionQuestsInput.dependencyIdKey]
 			subQuestDependencies = []
 			for taskId in taskIds:
-				questId = ftbQuest.randomId(taskId)
-				subQuestDependencies.append(questId)
+
 				x += 1
 				if x > numQuestPerRow:
 					x = 0
 					y += 1
-				questsContent += ftbQuest.collectionQuestContent(
-					questId,
-					taskId,
-					f"function {questFunctions.functionParentName}:{stringCleaning.cleanedNameStr(questGroupName)}",
-					dependencyId,
-					x=x,
-					y=y
-				)
+				questType = questline[collectionQuestsInput.typeKey]
+				command = f"function {questFunctions.functionParentName}:{stringCleaning.cleanedNameStr(questGroupName)}"
+				if questType == collectionQuestsInput.itemQuestTypeConst:
+					questId = ftbQuest.randomId(taskId)
+					questsContent += ftbQuest.collectionQuestContent(
+						questId,
+						taskId,
+						command,
+						dependencyId,
+						x=x,
+						y=y
+					)
+				else: # questType == collectionQuestsInput.observationQuestTypeConst
+					icon = taskId[collectionQuestsInput.iconKey]
+					name = taskId[collectionQuestsInput.nameKey]
+					observe = taskId[collectionQuestsInput.taskKey]
+					questId = ftbQuest.randomId(observe)
+					questsContent += ftbQuest.observationQuestContent(
+						questId,
+						icon,
+						name,
+						observe,
+						command,
+						dependencyId,
+						x=x,
+						y=y
+					)
+				subQuestDependencies.append(questId)
 
 			questIds += subQuestDependencies
 

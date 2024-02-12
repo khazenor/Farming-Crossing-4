@@ -45,7 +45,6 @@ def genQuestFunctions():
 				commands.tellRaw([])
 			)
 			initFunctionContent += commands.initScoreBoard(subGroupName)
-			totalCollectibles += totalSubCollectibles
 
 		questlineName = questline[collectionQuestsInput.nameKey]
 		initFunctionContent += commands.initScoreBoard(questlineName)
