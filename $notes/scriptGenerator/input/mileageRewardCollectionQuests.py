@@ -17,16 +17,16 @@ collections = [
 		increaseRateKey: 0.04,
 		questFilenameKey: 'animal_watching'
 	},
-	# {
-	# 	nameKey: "Fish",
-	# 	pluralKey: "es",
-	# 	iconKey: "aquaculture:atlantic_herring",
-	# 	lastQuestItemKey: 'kubejs:cert_fish_diamond',
-	# 	actionKey: "Caught",
-	# 	collectionKey: "Aquarium",
-	# 	increaseRateKey: 0.07,
-	# 	questFilenameKey: ''
-	# },
+	{
+		nameKey: "Fish",
+		pluralKey: "es",
+		iconKey: "aquaculture:atlantic_herring",
+		lastQuestItemKey: 'kubejs:cert_fish_diamond',
+		actionKey: "Caught",
+		collectionKey: "Aquarium",
+		increaseRateKey: 0.07,
+		questFilenameKey: 'aquarium'
+	},
 	{
 		nameKey: "Dish",
 		pluralKey: "es",

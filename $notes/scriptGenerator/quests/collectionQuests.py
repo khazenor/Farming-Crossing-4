@@ -41,7 +41,7 @@ def genQuestLines():
 				else: # questType == collectionQuestsInput.observationQuestTypeConst
 					icon = taskId[collectionQuestsInput.iconKey]
 					name = taskId[collectionQuestsInput.nameKey]
-					observe = taskId[collectionQuestsInput.taskKey]
+					observe = taskId[collectionQuestsInput.observeKey]
 					questId = ftbQuest.randomId(observe)
 					questsContent += ftbQuest.observationQuestContent(
 						questId,
@@ -83,7 +83,7 @@ def genQuestLines():
 				questline[collectionQuestsInput.filenameKey],
 				questline[collectionQuestsInput.nameKey],
 				questsContent,
-				orderIndex=questlineIdx + collectionQuestsInput.startingQuestlineIdx,
+				orderIndex=questlineIdx,
 				questGroupId=collectionQuestsInput.questlineGroupId
 			)
 		)
