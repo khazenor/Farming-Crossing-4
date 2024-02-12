@@ -94,8 +94,8 @@ scoreboard objectives add moded_foods_completion dummy {"text":"Moded Foods Comp
 scoreboard players set @p moded_foods_completion 0
 scoreboard objectives add vanilla_flower_completion dummy {"text":"Vanilla Flower Completion"}
 scoreboard players set @p vanilla_flower_completion 0
-scoreboard objectives add biomes_o_plenty_flowers dummy {"text":"Biomes o Plenty Flowers"}
-scoreboard players set @p biomes_o_plenty_flowers 0
+scoreboard objectives add biomes_o_plenty_flowers_completion dummy {"text":"Biomes o Plenty Flowers Completion"}
+scoreboard players set @p biomes_o_plenty_flowers_completion 0
 scoreboard objectives add misc_flower_completion dummy {"text":"Misc Flower Completion"}
 scoreboard players set @p misc_flower_completion 0
 scoreboard objectives add vanilla_sapling_completion dummy {"text":"Vanilla Sapling Completion"}

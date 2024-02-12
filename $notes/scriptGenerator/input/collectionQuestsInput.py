@@ -1258,7 +1258,7 @@ questlines = [
         ]
       },
       { # Biomes o Plenty
-        nameKey: 'Biomes o Plenty Flowers',
+        nameKey: 'Biomes o Plenty Flowers Completion',
         iconKey: 'biomesoplenty:glowflower',
         dependencyIdKey: '0EABDA42EA87C46C',
         tasksKey: [
