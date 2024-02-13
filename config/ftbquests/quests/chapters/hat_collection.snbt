@@ -1,0 +1,5648 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "hat_collection"
+	group: "5326E5A8132593FA"
+	icon: "simplehats:haticon"
+	id: "6B7FA7BC8D0E6C3D"
+	order_index: 7
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "05661569D4B29E34"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:flat_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0D7779234562C012"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "3629773510E521C5"
+				item: "simplehats:beaniejuly"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1AC0F74A469C1A89"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:flat_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "337A4F67C61A272F"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7A301481D81C87A8"
+				item: "simplehats:beaniefestive"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6AD7F4DBEECB2A43"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:flat_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "45A70C7CBA77C698"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "478DFE76260DCA99"
+				item: "simplehats:beanieeaster"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "350778F57AE6CC48"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:flat_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5921F1336EA8443C"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5F5B94BA3C8D9583"
+				item: "simplehats:beanie"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "626E31D406559B1D"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:flat_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0D5F8680F36FC26D"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "77044717D7B96010"
+				item: "simplehats:baseballhatrgb"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5D8256BC99B2599A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:flat_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "430F96AD6C2A8194"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "04ED146716530986"
+				item: "simplehats:baseballhatjuly"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2D88FB3ABD580003"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:flat_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "41CBB3C07D945BF0"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "26252CC80BBF7385"
+				item: "simplehats:baseballhatfestive"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "72D50DA46407D6AE"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:flat_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6D429EFFD3D8DD6C"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "469A3F5B8A00A3AC"
+				item: "simplehats:baseballhat"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "522BE375D0C1F91D"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:flat_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "067E9108C42B8CCC"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "3B879A726E3B8CAD"
+				item: "simplehats:baseballeaster"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "70D36FBF4AD7EC0A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:flat_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4C66D34F3900155A"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "429A034130BCA640"
+				item: "simplehats:toy_story_alien"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "65C3430650602DA7"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:flat_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "59EB35541D2FBE7B"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "17827E4C3669A850"
+				item: "simplehats:beret_ribbon"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1AF924D7F1A98C32"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:flat_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "25737BC0D1EDE2FB"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "064529445E382961"
+				item: "simplehats:cowboy"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "466C659F9799D3FE"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:flat_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "250AAFAE0F3E4F58"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "79F9B32EA0F1267F"
+				item: "simplehats:cowboyrgb"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3B7AE968DBC28B7C"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:flat_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6AD493BEE20A32C1"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "28DA23A626CF5473"
+				item: "simplehats:explorerhat"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "26FFE86E10AD4B04"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:flat_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2A3CEDCC5DAA80E5"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "41847F9EE8B5DBD5"
+				item: "simplehats:farmerbrim"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1EB3CF9EA5AE5E7B"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:flat_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1EF4C04876898790"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "333DEB41C1F35115"
+				item: "simplehats:poofballhat"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6367087DA1AA76EF"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:flat_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "75CA3865F856BCDA"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "621F23DA36DC46C2"
+				item: "simplehats:rgbdrinkinhat"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0DC3B4B5F048D2BF"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:flat_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3791DB715CC4AC6D"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4AA4D6DA576B1305"
+				item: "simplehats:poofballrgb"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4F77CC278CBE1B5D"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:flat_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1F7F7665288FD80E"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6C78524B5E4668E9"
+				item: "simplehats:rgbbowler"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2A73EE02387DF4B1"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:flat_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "35B906FF9A9CDAA5"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "04EA20894942A7F6"
+				item: "simplehats:rgbsmallbowler"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2384FB3C91DC4F0C"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:flat_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "244C86EB1155FFFC"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "344596CB440600D7"
+				item: "simplehats:sombrero"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1BDA4C495921F015"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:flat_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6690A30F0D205194"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6E6BBE93DDAE4163"
+				item: "simplehats:summerhat"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2AAE60434E670B56"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:flat_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "31FFC5391840ECC9"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6608AF2CF58D85CD"
+				item: "simplehats:acornhat"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "361410E3B3546DB1"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:flat_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "69D749CDC51407FF"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "068F7D624FF2C807"
+				item: "simplehats:caddycap"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5B74A2795491759A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:flat_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "00BD226D1FF549BE"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6B439B46311EA9D3"
+				item: "simplehats:beaniespooky"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "299470FDF9F5DF36"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:flat_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "70B66BAA0368C8E2"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4B3C55A4F99AB1B2"
+				item: "simplehats:beaniergb"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"05661569D4B29E34"
+				"1AC0F74A469C1A89"
+				"6AD7F4DBEECB2A43"
+				"350778F57AE6CC48"
+				"626E31D406559B1D"
+				"5D8256BC99B2599A"
+				"2D88FB3ABD580003"
+				"72D50DA46407D6AE"
+				"522BE375D0C1F91D"
+				"70D36FBF4AD7EC0A"
+				"65C3430650602DA7"
+				"1AF924D7F1A98C32"
+				"466C659F9799D3FE"
+				"3B7AE968DBC28B7C"
+				"26FFE86E10AD4B04"
+				"1EB3CF9EA5AE5E7B"
+				"6367087DA1AA76EF"
+				"0DC3B4B5F048D2BF"
+				"4F77CC278CBE1B5D"
+				"2A73EE02387DF4B1"
+				"2384FB3C91DC4F0C"
+				"1BDA4C495921F015"
+				"2AAE60434E670B56"
+				"361410E3B3546DB1"
+				"5B74A2795491759A"
+				"299470FDF9F5DF36"
+			]
+			icon: "kubejs:miles_ticket"
+			id: "1D33BFEC26FE64FC"
+			rewards: [{
+				count: 59
+				id: "746DE13EF19E918B"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "007701350DEC712F"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Flat Hats Completion"
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2133A416CAD50C1E"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:medium_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "018E4A7E8E5FA3F0"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "526482E4E6D09EB3"
+				item: "simplehats:floweronhead"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1DE370E55D92B0C0"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:medium_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3DBEE5C923AC4069"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1BBBF4671057DE1D"
+				item: "simplehats:drinkinhat"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5AB073C8542637EA"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:medium_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3CD0C93277E7658D"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "588A642274AA265C"
+				item: "simplehats:elfhat"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "056E7FDF547CE914"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:medium_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7BFB9F3E1DE348D2"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0114052CFD2D02EB"
+				item: "simplehats:crown"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0A5777FF92975423"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:medium_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4E50864CC8D17FFD"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "2C0FB47717F4322C"
+				item: "simplehats:chefshat"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "68C14183339A8EF6"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:medium_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7150C7D9F61118B8"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0EDC5CDD997A86BD"
+				item: "simplehats:bowler"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "69AA8BD55817511D"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:medium_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "33AB0D8070ACBAFE"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6982FB8CCE29CDE4"
+				item: "simplehats:bigcrown"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "73B99E0D7BF130CE"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:medium_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2857ABD1A0A7D09F"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "331743AA5475BC96"
+				item: "simplehats:bigbrain"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6E14C8606711AA75"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:medium_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "21566FF83AB3B43A"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "26404B76FC1B4E16"
+				item: "simplehats:bicorne"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "531EC2EFBBD236FD"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:medium_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5255DCA559F329E2"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "2917F1BAD1C1A57D"
+				item: "simplehats:rgbpartyhat"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2F5CCF1540B6EC6E"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:medium_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "17D649FD34A31E42"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6E2196CFB092CD5D"
+				item: "simplehats:rgbushanka"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "7C5D3AAB80B8BD59"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:medium_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "31E6EDA74E5828E0"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1424C29525E1C762"
+				item: "simplehats:rubbernipple"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "244C243E339C44D3"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:medium_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0EB59291D7DA34CA"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "11892A75B9BDDA7A"
+				item: "simplehats:shroomcap"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "641844E4DDFBEB26"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:medium_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "063BA842697D76E9"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "21E4BD39BA4253FB"
+				item: "simplehats:swimmer"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5D2D0C78E242300D"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:medium_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "775998756421C761"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "64653A497D6BCBC0"
+				item: "simplehats:tricorne"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5FBC2CD42A705431"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:medium_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "06F2873FD446E532"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4F87A954A495A73A"
+				item: "simplehats:ushanka"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "28B76B4A75444633"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:medium_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "290D97473D01FC94"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "20250BE08360604D"
+				item: "simplehats:zigzagwitchhat"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2F949837FEB56A5A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:medium_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "49C00663E94D423E"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "363348FFA6B24527"
+				item: "simplehats:azumanga_hat"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "748D0F3323CF9039"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:medium_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5049A28170C1B7F7"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "3B6D56BE9369D6BE"
+				item: "simplehats:dejiko"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3D6A81DC6DB53009"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:medium_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5AAE9D7A28F4C169"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "03A45CA8CED43EED"
+				item: "simplehats:puchiko"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "564ADFE9DDCA3A8B"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:medium_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5AD12C9E0D6BFAE4"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "43A7660361E57093"
+				item: "simplehats:policebucket"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "45389578B4C1A527"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:medium_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "726DA04130555702"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "685DD4F20C1A5C0B"
+				item: "simplehats:partyhat"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "64614C616F29E1C0"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:medium_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "469C4C9F4D092350"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4AEB25146A0A085E"
+				item: "simplehats:jesterhat"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 8.5d
+		}
+		{
+			dependencies: [
+				"2133A416CAD50C1E"
+				"1DE370E55D92B0C0"
+				"5AB073C8542637EA"
+				"056E7FDF547CE914"
+				"0A5777FF92975423"
+				"68C14183339A8EF6"
+				"69AA8BD55817511D"
+				"73B99E0D7BF130CE"
+				"6E14C8606711AA75"
+				"531EC2EFBBD236FD"
+				"2F5CCF1540B6EC6E"
+				"7C5D3AAB80B8BD59"
+				"244C243E339C44D3"
+				"641844E4DDFBEB26"
+				"5D2D0C78E242300D"
+				"5FBC2CD42A705431"
+				"28B76B4A75444633"
+				"2F949837FEB56A5A"
+				"748D0F3323CF9039"
+				"3D6A81DC6DB53009"
+				"564ADFE9DDCA3A8B"
+				"45389578B4C1A527"
+				"64614C616F29E1C0"
+			]
+			icon: "kubejs:miles_ticket"
+			id: "7B1103A273D9DE2C"
+			rewards: [{
+				count: 49
+				id: "63523CAB357B9BDC"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "18EB416F2D368D20"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Medium Hats Completion"
+			x: -1.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "72B85BA4C33CD7DB"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:tall_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "70684945BC285847"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "74FAF6A6804BF53F"
+				item: "simplehats:dimmahat"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3E4DBC0BA4F0AA31"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:tall_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "513859EEE6FD6161"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5F22D188A7573ACA"
+				item: "simplehats:topcathat"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "47B21EBBDAA1BE0F"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:tall_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "37B0A7D876C8C83C"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "63F5FF884BC02B68"
+				item: "simplehats:julydouble"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "554D971B12C554A3"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:tall_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3C5D33DA7F9A5FE0"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "18CAB9D93C81E530"
+				item: "simplehats:popehat"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3D8F2568AEDD1E43"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:tall_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5F5C804DDA411BE0"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4655E01C61C31666"
+				item: "simplehats:rgbtoptophathat"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "77FA44C261CA481A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:tall_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4DC31888FA2B6EBC"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6381B47F90B7751F"
+				item: "simplehats:tophat"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "31C6540AEDFC9C94"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:tall_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "77AB46940AEA5C95"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0AEE74EF4ADE14BF"
+				item: "simplehats:toptophathat"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6665FAE227ED96B7"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:tall_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "737034E2F4B27F39"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "29E4E696BCE4603C"
+				item: "simplehats:fishing_hat"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 11.0d
+		}
+		{
+			dependencies: [
+				"72B85BA4C33CD7DB"
+				"3E4DBC0BA4F0AA31"
+				"47B21EBBDAA1BE0F"
+				"554D971B12C554A3"
+				"3D8F2568AEDD1E43"
+				"77FA44C261CA481A"
+				"31C6540AEDFC9C94"
+				"6665FAE227ED96B7"
+			]
+			icon: "kubejs:miles_ticket"
+			id: "0FEEBF5EA2FD62F2"
+			rewards: [{
+				count: 11
+				id: "0CD7258D40C0693B"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "755801C302A4048C"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Tall Hats Completion"
+			x: -1.0d
+			y: 10.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "560CEE344EFB3C2D"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:face_overings_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0084E54A2A2C4609"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "348C9872667006AC"
+				item: "simplehats:dragonskullender"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "41BF896546BF2071"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:face_overings_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "12A4C30CAB88D622"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "456573FC661F1A2E"
+				item: "simplehats:dragonskull"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "150243B1E5419B7F"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:face_overings_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "36817DF65C450573"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1C7AE9A156F363CC"
+				item: "simplehats:dorkglassesandteeth"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "151418D6BE508C98"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:face_overings_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "565659A4CDCDCC08"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "01E4529D964AC2CE"
+				item: "simplehats:doctorhat"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "47BB33B3C4AE32CC"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:face_overings_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1B770AEE6DA624B7"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5EE36150400E64F9"
+				item: "simplehats:disguise"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "776AC97AE88173C7"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:face_overings_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3E875D9B9823BFE1"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "78EE280EE84C2B44"
+				item: "simplehats:clockface"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1F35A0EA2B6E1E5B"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:face_overings_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0DCC08461B569A72"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4541D8688E746290"
+				item: "simplehats:cartoonegg"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 13.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0120CBBBC9BE3D60"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:face_overings_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "19AA9C1902A3B5C7"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7387B3602E09AF17"
+				item: "simplehats:burgerhat"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 13.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "39F4FD4A71D7FEC0"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:face_overings_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6035FEC3DF89D49D"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "25AFF0D76583B10A"
+				item: "simplehats:breadhat"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 13.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1F19FB40EE757637"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:face_overings_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6FF46619ED5B9D3C"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "12327A577A7DB184"
+				item: "simplehats:strawberry_hat"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 13.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "274A9C5DEB18AB56"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:face_overings_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "17ECE6EA7BE67B1F"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "15163DA3A9065704"
+				item: "simplehats:orange_hat"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 13.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5243E1BC7E8887FD"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:face_overings_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6B9E76B400D4B832"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "3937F6F76AD9FB15"
+				item: "simplehats:artsy"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 13.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "117EDA0A4088A701"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:face_overings_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "681C48615E051E8B"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "00B78F656BB27E65"
+				item: "simplehats:angrymask"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "7DE39728923D5E6C"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:face_overings_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6D0E83BC34AFA5A6"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "3319CFFD186EC9CA"
+				item: "simplehats:vikinghatbeard"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "617F73D3D23E106E"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:face_overings_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1E373714879A98AD"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "02E22B71EFEDEFB5"
+				item: "simplehats:spyzombie"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "42DE7F1901E6C5A4"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:face_overings_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "22D0BEE3A944A9E8"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6B9868A05A7E5BEB"
+				item: "simplehats:festiveribbon"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "68AC14D1F5841F79"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:face_overings_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1DEDF98D09A8EA98"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0BC1D9B5A590AD77"
+				item: "simplehats:finnhood"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "792342E356283DD4"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:face_overings_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6C1D9A9C7C39C685"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0F9DD05B6F81212A"
+				item: "simplehats:grandmadisguise"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0EB141BA674D6AD0"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:face_overings_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "060134119AD4D500"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1B6D6578E3828A47"
+				item: "simplehats:hockeymask"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "389E1A34E920DDD4"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:face_overings_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "711707284D9B5A7C"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "56B3551B5A9CA8F4"
+				item: "simplehats:kirbymouthful"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "19C4A3E4669A751E"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:face_overings_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "20F55A3E5083BE03"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "54AB44C6B6D23892"
+				item: "simplehats:madscientist"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2D391EC2853CC963"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:face_overings_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "05E8A8210F98555F"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6E374A680B59E514"
+				item: "simplehats:megamanhat"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6F21738BC73883A7"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:face_overings_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2BAB392F052AD3E7"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "71596086E3227CF3"
+				item: "simplehats:pinhead"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "7ABCEFBBA30030B9"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:face_overings_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2F03AE8F39D697AE"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "15FB57A04F2D5C54"
+				item: "simplehats:redstache"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3FFB83288B672730"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:face_overings_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1741CC8C8755979A"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0BA05590FEF3A107"
+				item: "simplehats:santaclaus"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4491B30A3D8BA0C1"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:face_overings_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "60A7D5BC3480ACC0"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "31C630CC72474B8E"
+				item: "simplehats:seaweedhat"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "19D046166CD17D11"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:face_overings_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "365788721C2991B7"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "13DA1FA0F0A180D7"
+				item: "simplehats:spiderweb"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "40A7AC094B2F8766"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:face_overings_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1DB69F8B1C74A2EB"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "07788EA1093A2AFD"
+				item: "simplehats:festiveantlers"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3E88943C464AFFDB"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:face_overings_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0DC6F667B945B8B0"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "529CBF421AFDB23A"
+				item: "simplehats:dwarfminerbeard"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "44A7DE6E00FAFCC5"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:face_overings_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "566698A950AD5915"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "402A9800B2CE1016"
+				item: "simplehats:dumhat"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 16.5d
+		}
+		{
+			dependencies: [
+				"560CEE344EFB3C2D"
+				"41BF896546BF2071"
+				"150243B1E5419B7F"
+				"151418D6BE508C98"
+				"47BB33B3C4AE32CC"
+				"776AC97AE88173C7"
+				"1F35A0EA2B6E1E5B"
+				"0120CBBBC9BE3D60"
+				"39F4FD4A71D7FEC0"
+				"1F19FB40EE757637"
+				"274A9C5DEB18AB56"
+				"5243E1BC7E8887FD"
+				"117EDA0A4088A701"
+				"7DE39728923D5E6C"
+				"617F73D3D23E106E"
+				"42DE7F1901E6C5A4"
+				"68AC14D1F5841F79"
+				"792342E356283DD4"
+				"0EB141BA674D6AD0"
+				"389E1A34E920DDD4"
+				"19C4A3E4669A751E"
+				"2D391EC2853CC963"
+				"6F21738BC73883A7"
+				"7ABCEFBBA30030B9"
+				"3FFB83288B672730"
+				"4491B30A3D8BA0C1"
+				"19D046166CD17D11"
+				"40A7AC094B2F8766"
+				"3E88943C464AFFDB"
+				"44A7DE6E00FAFCC5"
+			]
+			icon: "kubejs:miles_ticket"
+			id: "29FD9A734B132A5A"
+			rewards: [{
+				count: 75
+				id: "2FB6C9FC8E693699"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "2DF8CA538059B2DC"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Face Overings Completion"
+			x: -1.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "36C345DBB1F0D6AC"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:head_toppers_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6265A754D9F5CC50"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "089A23B487936684"
+				item: "simplehats:palmtree"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "138067495B116E18"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:head_toppers_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "04741DF40022B614"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "099169499B1C9A94"
+				item: "simplehats:murdered"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5BD96A1761DA0184"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:head_toppers_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2E3908A3A48A6F90"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "403A12896D4D517B"
+				item: "simplehats:lilbow"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3174F514806B56D5"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:head_toppers_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "04ACE8D4595F48A6"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1B38AE31C5F61D45"
+				item: "simplehats:eggonhead"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6180AD1155A0E52D"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:head_toppers_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3A99355A38184E57"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "323F63FD2836D4C7"
+				item: "simplehats:discoball"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5C2785D7124B0FC7"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:head_toppers_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "13E396CE4FB9AD73"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5AD1FAD0BB3572C5"
+				item: "simplehats:christmascakehat"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2E48AE2F2DE768E0"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:head_toppers_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5CA34DD23A8801D5"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "20406C7DB323438A"
+				item: "simplehats:brownbrick"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 19.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "267BD5D72CCEB6DB"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:head_toppers_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4FD2699A26DFD0DC"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "70D242CDA4677CEB"
+				item: "simplehats:bigribbon"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 19.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2822023F2923F525"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:head_toppers_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7ADDB263B0B2D4DA"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "325753F4D2303212"
+				item: "simplehats:twilight_doll"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 19.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1C0EA62FCF79B5C6"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:head_toppers_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "30F8E6123FFDEA97"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "61824E9B19C5C8FF"
+				item: "simplehats:sandcastle"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 19.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "752F298097EA5D59"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:head_toppers_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "61B305C15164048F"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4EC4E17607797F2B"
+				item: "simplehats:shakehat"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 19.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "59B9DDC20FC79D24"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:head_toppers_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4A06C3361BF20CD5"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5CC36CA05A24C6C0"
+				item: "simplehats:snowmanbaby"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 19.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6F3AACAE2ABB0CDD"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:head_toppers_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2A2FF0B55BE2659A"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "141EF013E2173ECF"
+				item: "simplehats:springer"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "7FEAC11257387743"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:head_toppers_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6CCEC3218FF2613E"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0B52F9242B244EA9"
+				item: "simplehats:sprout"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4D91CA610EC548A0"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:head_toppers_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "16293325B89B062E"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "3FC44614A915B743"
+				item: "simplehats:unicornhorn"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "476546BEEE62F4DA"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:head_toppers_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0EF87274D579ABE8"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0903DAF71587396D"
+				item: "simplehats:apple"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "411F470DD96A143F"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:head_toppers_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "44CC9D6178508E8E"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "771FE5D4EC997978"
+				item: "simplehats:artsy_doll"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6010BD3AD8FA9AAB"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:head_toppers_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7289853E97E82CE6"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6E6DD95A33002699"
+				item: "simplehats:fez"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "67B4EDA6F72D845A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:head_toppers_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "07A12C41B616219C"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "51F47E96AC257F8F"
+				item: "simplehats:milady_doll"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 21.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "66F88A546CA9CE03"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:head_toppers_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4EADEF0B47B19DCE"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "537966BE38D51FC5"
+				item: "simplehats:nyan_doll"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 21.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6F3B706902D09052"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:head_toppers_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1214806A59978A52"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "24E05968F5AC0E9F"
+				item: "simplehats:pom_moog"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 21.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "00F371ADCC67A05F"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:head_toppers_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3C4D02AC00B22AB8"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0CE5A69B1E871BEE"
+				item: "simplehats:rgbbigribbon"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 21.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "14E7C747C9AF39A9"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:head_toppers_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "40606D8A4AD8AC0B"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "2D560849821ABE7A"
+				item: "simplehats:questbook"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 21.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "207D2D33B9A8FB26"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:head_toppers_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "28B5744989357A36"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "54C21A409E55DBFA"
+				item: "simplehats:presentsstack"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 21.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "28F6B541A62092F0"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:head_toppers_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1389B3DC7A06516E"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "796D261ABBE0598E"
+				item: "simplehats:pohatoe"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 22.0d
+		}
+		{
+			dependencies: [
+				"36C345DBB1F0D6AC"
+				"138067495B116E18"
+				"5BD96A1761DA0184"
+				"3174F514806B56D5"
+				"6180AD1155A0E52D"
+				"5C2785D7124B0FC7"
+				"2E48AE2F2DE768E0"
+				"267BD5D72CCEB6DB"
+				"2822023F2923F525"
+				"1C0EA62FCF79B5C6"
+				"752F298097EA5D59"
+				"59B9DDC20FC79D24"
+				"6F3AACAE2ABB0CDD"
+				"7FEAC11257387743"
+				"4D91CA610EC548A0"
+				"476546BEEE62F4DA"
+				"411F470DD96A143F"
+				"6010BD3AD8FA9AAB"
+				"67B4EDA6F72D845A"
+				"66F88A546CA9CE03"
+				"6F3B706902D09052"
+				"00F371ADCC67A05F"
+				"14E7C747C9AF39A9"
+				"207D2D33B9A8FB26"
+				"28F6B541A62092F0"
+			]
+			icon: "kubejs:miles_ticket"
+			id: "2E64581FE3D98B7E"
+			rewards: [{
+				count: 56
+				id: "2946AAAB9A035EAF"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "092602901E5757D0"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Head Toppers Completion"
+			x: -1.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "10AEE135D25060C7"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:disguise_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6E6CD23E367B9007"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0727DC2D6BC7A019"
+				item: "simplehats:frozenhead"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 23.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "068A3D6291DF5915"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:disguise_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1B682BABD8A447F4"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "701C47C307E0E1E0"
+				item: "simplehats:fishonhead"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 23.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "652CCC3D0DFE48AC"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:disguise_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "728850605EEBA908"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "579F282792F1F3A6"
+				item: "simplehats:dragonhead"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 23.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0FF93C9D3B2DD393"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:disguise_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "176134E19E13E71B"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7F426F28BF08ECBB"
+				item: "simplehats:egghead"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 23.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "72E9189EFE42F1AA"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:disguise_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7A786F64D5070518"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0942D70E82A254A8"
+				item: "simplehats:easterhead"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 23.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "657B503F94018EC7"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:disguise_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6AE9B5A81CDFDBA5"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6CEC99103383DF06"
+				item: "simplehats:cyclopseye"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 23.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3EF7B48405F06A64"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:disguise_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "136B642916D2F073"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "09C560CC76BD87AF"
+				item: "simplehats:christmastree"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 24.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2784B895F7FBB903"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:disguise_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5EE9A4C6996448BB"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "62F6FA85588D4DDC"
+				item: "simplehats:camera"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 24.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "374E3FDE49BF4479"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:disguise_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1D4101ECB94D8B9C"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "06CC8A1FBF585672"
+				item: "simplehats:bigstevehead"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 24.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "336C2B421CC7A6A4"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:disguise_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "683D2FA20C0612D5"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7064872EDCF76D26"
+				item: "simplehats:the_noise"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 24.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0A2E6E51FF0A4F62"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:disguise_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "428865902F86A048"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "35EDF17507599FA0"
+				item: "simplehats:peppino"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 24.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "48F32DE176303AAE"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:disguise_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4CA565AAF896EF71"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0434A093503BAB27"
+				item: "simplehats:bucket"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 24.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "67038DB732B0EFE2"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:disguise_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0A20B313357E47AE"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4780D0855633C473"
+				item: "simplehats:amalgalichhat"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 25.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4E0C580E99D2DB43"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:disguise_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "566B4E5A9D3F5386"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "18A3165660E04D82"
+				item: "simplehats:alienphil"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 25.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "75950129DAAB2EF7"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:disguise_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3DF0139B90789584"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0A9C1A4F4C8BEDCE"
+				item: "simplehats:aegishat"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 25.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0C8AA7D09143346F"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:disguise_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4804BE559421F694"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "54959E2875889242"
+				item: "simplehats:tvhead"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 25.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "7C138F7F52FA7E63"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:disguise_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2453628DDB3F4CFA"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0C8C5CF35841F6BB"
+				item: "simplehats:tinkerhat"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 25.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4D654F0782601CC4"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:disguise_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "37F570E4E067987D"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "00CDC54A4D4B9CA8"
+				item: "simplehats:jackohat"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 25.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "42CDF7DC39BF804B"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:disguise_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4FA41DEEABDB759F"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "412763008466FFDA"
+				item: "simplehats:magikarp"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 26.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4B4A8A0567C02F44"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:disguise_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7E192765762CBD2D"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0E2486DAA8A37AA1"
+				item: "simplehats:paperbag"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 26.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3A751991E0549F52"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:disguise_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6E1349B77338ADB4"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6B43ADCA09DE60B3"
+				item: "simplehats:paypay"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 26.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "30779E95BF063ED7"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:disguise_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4F90139367C04B6E"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "40858D3654CA1BEE"
+				item: "simplehats:plaguedoctor"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 26.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "43BC2C6D35DE05AC"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:disguise_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7B43CF00EDCA263B"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "17CFF2FD6F8546AA"
+				item: "simplehats:potionhead"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 26.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2A41B5DADA3A8CC9"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:disguise_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2F57370AE8809EA2"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "35C29CC276875234"
+				item: "simplehats:rgbdragonskull"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 26.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "34050FB726AA1D09"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:disguise_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3439F072A18D3007"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "647608223B317BD6"
+				item: "simplehats:rgbeasterhead"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 27.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "37993898A2BD6782"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:disguise_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6555FF491C479409"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7D3C45109DF6C169"
+				item: "simplehats:rgbfullhelm"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 27.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4424BB92620BC4AB"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:disguise_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "361C106B1E213F28"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7DFCC3511146784D"
+				item: "simplehats:sonichood"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 27.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "68379226CB73AFBF"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:disguise_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "26B993207FAB8032"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "41B18190F58F6574"
+				item: "simplehats:spadesoldier"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 27.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "780197AA50232E33"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:disguise_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5124BF1B8EE03508"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1631935F3F3DE06E"
+				item: "simplehats:stackofeggs"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 27.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4A1DB55EC724BEC9"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:disguise_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4A6D6690E2698573"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "75C0676464E8DB9A"
+				item: "simplehats:hosthat"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 27.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3D553D77C4FAF2CC"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:disguise_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "12CD37A79989240A"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "43C84993CFCED4FD"
+				item: "simplehats:ghostmask"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 28.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0988978363DD7A76"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:disguise_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "219584276A3A850F"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "2A250A4F4B2AE574"
+				item: "simplehats:fullironhelm"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 28.5d
+		}
+		{
+			dependencies: [
+				"10AEE135D25060C7"
+				"068A3D6291DF5915"
+				"652CCC3D0DFE48AC"
+				"0FF93C9D3B2DD393"
+				"72E9189EFE42F1AA"
+				"657B503F94018EC7"
+				"3EF7B48405F06A64"
+				"2784B895F7FBB903"
+				"374E3FDE49BF4479"
+				"336C2B421CC7A6A4"
+				"0A2E6E51FF0A4F62"
+				"48F32DE176303AAE"
+				"67038DB732B0EFE2"
+				"4E0C580E99D2DB43"
+				"75950129DAAB2EF7"
+				"0C8AA7D09143346F"
+				"7C138F7F52FA7E63"
+				"4D654F0782601CC4"
+				"42CDF7DC39BF804B"
+				"4B4A8A0567C02F44"
+				"3A751991E0549F52"
+				"30779E95BF063ED7"
+				"43BC2C6D35DE05AC"
+				"2A41B5DADA3A8CC9"
+				"34050FB726AA1D09"
+				"37993898A2BD6782"
+				"4424BB92620BC4AB"
+				"68379226CB73AFBF"
+				"780197AA50232E33"
+				"4A1DB55EC724BEC9"
+				"3D553D77C4FAF2CC"
+				"0988978363DD7A76"
+			]
+			icon: "kubejs:miles_ticket"
+			id: "543D08917A8FDF1D"
+			rewards: [{
+				count: 83
+				id: "6E9C3C243FE3BA9B"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "3F3A2D6E6025D935"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Disguise Completion"
+			x: -1.0d
+			y: 26.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5D7DE5DFE9A8BC69"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animal_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "19F7B4245F84021A"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "04E0C8846C394924"
+				item: "simplehats:greenbirb"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 30.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5DD047B2ABAEDCEE"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animal_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "12D6611E053F8219"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6CAE662FEE21F648"
+				item: "simplehats:foxhat"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 30.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0F59C0CD54244058"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animal_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "26B09EF7F56C6965"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "672DF17B5B8F29CE"
+				item: "simplehats:digger"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 30.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5608066754CDECA6"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animal_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "35A79CEDE53B1566"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1CD619C15A7E7AED"
+				item: "simplehats:crabonhead"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 30.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "25B1CD656B53FB68"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animal_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "35ECD4E7C0CED2F2"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5877CFD80646A9E3"
+				item: "simplehats:bunnyhat"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 30.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "694A71B218627C60"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animal_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3233A2E1ED7B7065"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "61799AD3897E4EF6"
+				item: "simplehats:chickenonhead"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 30.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5FCA823A1F6B6CB9"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animal_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "76C78D3F64F21B57"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "36E825272750FF0E"
+				item: "simplehats:chickenhead"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 31.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2C6A5BE62FA6BD7A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animal_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6A095D078BF4ED70"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "639891AF732E7A1A"
+				item: "simplehats:beehat"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 31.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3DFEAAAEAFF05AE7"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animal_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2F5F79517D86E44D"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6230CABCEB843658"
+				item: "simplehats:babyturtle"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 31.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0004A247B2588761"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animal_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "39B88E2E05914C44"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "46A5A7A8D5552675"
+				item: "simplehats:penguinhat"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 31.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0CDDB79D828B62DE"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animal_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "354AA23BD8297D12"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5633E9DD0250C4B6"
+				item: "simplehats:pighead"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 31.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "269CAE058043270E"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animal_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "749C565026C64EB9"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "3305608812496345"
+				item: "simplehats:rabbitears"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 31.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "37AB42ACAAEBDE07"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animal_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "21F3194E7D434059"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "699B009CEC47AE77"
+				item: "simplehats:rabbitonhead"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 32.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "571A7491E66FA244"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animal_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7E59CE024AF0CDC1"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "2525186464747BA8"
+				item: "simplehats:ranahat"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 32.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6C4B122E8DC33746"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animal_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5DA370057F297B51"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "21D3BA35FF534390"
+				item: "simplehats:sheep"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 32.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4C335C2DC6BC39A2"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animal_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "087EE4551E3771AD"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "18FB6D981F9F4CA1"
+				item: "simplehats:babydolphin"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 32.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "60C0C454878311CA"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animal_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "135D89A60F8BC992"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7B3ABB4DC8FD820D"
+				item: "simplehats:teddy_bear"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 32.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "51C73081C068B3DB"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animal_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "45FDC8476573D906"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "23350E18C920D1E7"
+				item: "simplehats:penguinbaby"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 32.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6EB9904DC27E964A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animal_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "03A5F1FE15A45688"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "27319B89363E0137"
+				item: "simplehats:icedragonskull"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 33.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "50F05E73E6777781"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animal_hats_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "08FC58EB51CFB8F5"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "3C7C4B892F3386FB"
+				item: "simplehats:horsemask"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 33.0d
+		}
+		{
+			dependencies: [
+				"5D7DE5DFE9A8BC69"
+				"5DD047B2ABAEDCEE"
+				"0F59C0CD54244058"
+				"5608066754CDECA6"
+				"25B1CD656B53FB68"
+				"694A71B218627C60"
+				"5FCA823A1F6B6CB9"
+				"2C6A5BE62FA6BD7A"
+				"3DFEAAAEAFF05AE7"
+				"0004A247B2588761"
+				"0CDDB79D828B62DE"
+				"269CAE058043270E"
+				"37AB42ACAAEBDE07"
+				"571A7491E66FA244"
+				"6C4B122E8DC33746"
+				"4C335C2DC6BC39A2"
+				"60C0C454878311CA"
+				"51C73081C068B3DB"
+				"6EB9904DC27E964A"
+				"50F05E73E6777781"
+			]
+			icon: "kubejs:miles_ticket"
+			id: "4CE7225B8F8823B2"
+			rewards: [{
+				count: 40
+				id: "0A51B5C08D745F8C"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "62671A298290E9BD"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Animal Hats Completion"
+			x: -1.0d
+			y: 31.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6FBF756630C12839"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:eyewear_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "680281D7CD51C4B2"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0F741D07A3C676EB"
+				item: "simplehats:eyepatch"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 34.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "44741ECFFEBB223E"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:eyewear_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6D92D55A0E5A4BB5"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "112EDA81795D0741"
+				item: "simplehats:doubletake"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 34.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "31FB00909EBEBB5A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:eyewear_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4E6BC839CD589C8F"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "2075D61C4B8C9284"
+				item: "simplehats:dangeresquejuly"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 34.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "474A63EC762E71B2"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:eyewear_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "57D50FB3E555224A"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "316A66F3D09B8119"
+				item: "simplehats:dangereqsue"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 34.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "340FC4E719E9DA83"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:eyewear_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1AC03428651CAC85"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "63BED27D9E30ECBD"
+				item: "simplehats:cheeseslice"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 34.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "63D80DFB1045023B"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:eyewear_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "25361A6CC5F68E56"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5644FD439AB5A8E1"
+				item: "simplehats:bluefireeye"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 34.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5F6728CCB5899DE8"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:eyewear_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0C8C057F03E8512C"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "600A41CD68B773D0"
+				item: "simplehats:bigeyes"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 35.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "59649AECD4C95EFA"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:eyewear_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0D627E26DEDAFF45"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "56CABCCC2F765EC5"
+				item: "simplehats:bandanargb"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 35.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4EB455B592F19FBB"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:eyewear_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3B899CF8B0B9D818"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7B9B44A69D552A19"
+				item: "simplehats:bandana"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 35.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "32AD6A42F74BF772"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:eyewear_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2B276BB6F1B641DC"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "79846F9CCDDBBB81"
+				item: "simplehats:monkeyking"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 35.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "660B5129DE7BE3CC"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:eyewear_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5AA73F4DC93BBF1E"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7B7D8C4E32DA59A1"
+				item: "simplehats:monocle"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 35.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "49E489A779794AD0"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:eyewear_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "53F25E2C1B824FC8"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "12FC9D6D2A42D495"
+				item: "simplehats:redeyes"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 35.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1F6832724BDF0908"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:eyewear_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "14DDEEFF79C6CC87"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "666F7C104B9884A2"
+				item: "simplehats:rgbsunglasses"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 36.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "39408CFE37D29F0C"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:eyewear_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1D0694ADC1D20127"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0F7AF17F48762EAD"
+				item: "simplehats:rock"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 36.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2497520EF3569A17"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:eyewear_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "369445D1E0ED314A"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "2B801AC9C79E1A47"
+				item: "simplehats:sunglasses"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 36.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "74BBB542F05129FB"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:eyewear_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "73C2787E1B180E8C"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "50C7265FE6DDD12B"
+				item: "simplehats:sunglassesbig"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 36.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3C564A3185A3985E"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:eyewear_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7D62E9E9212A8159"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "14B4E684C9D61C51"
+				item: "simplehats:triangleshades"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 36.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "7EFCCA4FA3DE0A3E"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:eyewear_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "671EAAACD44F6380"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "425A0680E675FEBE"
+				item: "simplehats:circular_glasses"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 36.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5AF204BEBF8E9821"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:eyewear_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3337C5464EAAB4B2"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "49F7DA8851AD39FB"
+				item: "simplehats:lightning_eyes"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 37.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "49D4902D97A57EDD"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:eyewear_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "54803225DE458163"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4943127E6DEF846F"
+				item: "simplehats:sleepeyemask"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 37.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "253F89A3CEE140B6"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:eyewear_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3F943136EC820EC6"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "13C3BAC3AA5C1210"
+				item: "simplehats:sport_sunglasses"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 37.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "37BB5D49A3F1E339"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:eyewear_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "12903341EF6B1B81"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "245526DF45A493A9"
+				item: "simplehats:mistletoe"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 37.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3DAD91FD4657F62D"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:eyewear_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5D76E9B528C18263"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "66D29C2E5CF95124"
+				item: "simplehats:grinchhat"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 37.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0959FB3DE62BE82E"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:eyewear_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "08E12B7070F5127E"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "2380CBCE0B0424C6"
+				item: "simplehats:goggles"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 37.5d
+		}
+		{
+			dependencies: [
+				"6FBF756630C12839"
+				"44741ECFFEBB223E"
+				"31FB00909EBEBB5A"
+				"474A63EC762E71B2"
+				"340FC4E719E9DA83"
+				"63D80DFB1045023B"
+				"5F6728CCB5899DE8"
+				"59649AECD4C95EFA"
+				"4EB455B592F19FBB"
+				"32AD6A42F74BF772"
+				"660B5129DE7BE3CC"
+				"49E489A779794AD0"
+				"1F6832724BDF0908"
+				"39408CFE37D29F0C"
+				"2497520EF3569A17"
+				"74BBB542F05129FB"
+				"3C564A3185A3985E"
+				"7EFCCA4FA3DE0A3E"
+				"5AF204BEBF8E9821"
+				"49D4902D97A57EDD"
+				"253F89A3CEE140B6"
+				"37BB5D49A3F1E339"
+				"3DAD91FD4657F62D"
+				"0959FB3DE62BE82E"
+			]
+			icon: "kubejs:miles_ticket"
+			id: "369E5DA85B7E0193"
+			rewards: [{
+				count: 52
+				id: "26E979A6F33A6246"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "785B175AAA31DB85"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Eyewear Completion"
+			x: -1.0d
+			y: 36.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1EE51CD010D3EF28"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:around_the_head_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1ADB50790876D807"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5CA792526B15722B"
+				item: "simplehats:headshot"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 39.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "7575CA8D62ECAD11"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:around_the_head_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4BF8293F5FF5449F"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0E302109C1A68BE4"
+				item: "simplehats:headphonesblue"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 39.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6163F276752D2156"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:around_the_head_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "41156107CD948187"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "22752D1113F592B8"
+				item: "simplehats:headbolts"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 39.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "32068CDB2AE2ABE9"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:around_the_head_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "75C356CE613B94DB"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "500B56BB2777BBD0"
+				item: "simplehats:halo"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 39.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6734A713884AB9DD"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:around_the_head_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6FD63F7B631E71B2"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "305444450C3EE122"
+				item: "simplehats:flowercrown"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 39.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "48E24CD4137D8265"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:around_the_head_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "77900F144A817DE3"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "36F3E73F4C17485B"
+				item: "simplehats:demonhorns"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 39.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "502C7DCB2605466F"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:around_the_head_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "252992FCC7C17FE2"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6819F1F57DCA2B3C"
+				item: "simplehats:cuphead"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 40.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "05929C6A8C4C2E8F"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:around_the_head_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5D57F45AAB169DD7"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1E6D76C0537DE287"
+				item: "simplehats:carrotonstick"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 40.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4EC613D897219FF0"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:around_the_head_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "71CED8B0EECE4D1D"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1CACD6F3D7EA6A24"
+				item: "simplehats:batwinghat"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 40.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3C8E8A1A0C5912EC"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:around_the_head_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "40D05FB1B822BDBF"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "25B1E64B8E8F4302"
+				item: "simplehats:chi_ears"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 40.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4CFF71A25D437B9E"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:around_the_head_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "663B2FA3DD9C63A9"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5F05D17CA05A1BA7"
+				item: "simplehats:longfoxears"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 40.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "61DFFA2D346E99F4"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:around_the_head_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "13CF0DFE64623EF0"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "310D2408B670E844"
+				item: "simplehats:rabi_en_rose"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 40.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5F0F2E48D31CA73A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:around_the_head_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "62062B75B7BCEBDB"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7F63BF30C0178A53"
+				item: "simplehats:antlers"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 41.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1A7D3D55B02F2A50"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:around_the_head_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "11620C300DE9B633"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "19CA9959AC52E02B"
+				item: "simplehats:winghat"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 41.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5169C7CFE49DEE3A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:around_the_head_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "69B8018B4D1BC217"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "09D4E323B72BE9D0"
+				item: "simplehats:nekoears"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 41.0d
+		}
+		{
+			dependencies: [
+				"1EE51CD010D3EF28"
+				"7575CA8D62ECAD11"
+				"6163F276752D2156"
+				"32068CDB2AE2ABE9"
+				"6734A713884AB9DD"
+				"48E24CD4137D8265"
+				"502C7DCB2605466F"
+				"05929C6A8C4C2E8F"
+				"4EC613D897219FF0"
+				"3C8E8A1A0C5912EC"
+				"4CFF71A25D437B9E"
+				"61DFFA2D346E99F4"
+				"5F0F2E48D31CA73A"
+				"1A7D3D55B02F2A50"
+				"5169C7CFE49DEE3A"
+			]
+			icon: "kubejs:miles_ticket"
+			id: "67D4AFF571AE34A9"
+			rewards: [{
+				count: 26
+				id: "22FC3A4CEB0736A4"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "2CEA667A8DE7619F"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Around the Head Completion"
+			x: -1.0d
+			y: 40.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3D4044D79D6F507D"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animated_details_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0CEDFE1E5988C045"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "07A586AF27150B5B"
+				item: "simplehats:holyhead"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 42.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2A38BB704E821334"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animated_details_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6EA8D61862A2670D"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "192B9FD65B3F76F8"
+				item: "simplehats:floatingstar"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 42.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "17C8DE6175962F46"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animated_details_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "651975DD59E224E8"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "448C880B95E31374"
+				item: "simplehats:floatinghearts"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 42.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "7AAD5F78698226B6"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animated_details_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2BF4B6261B69BBB9"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "329ECF3E32D5EF3C"
+				item: "simplehats:flies"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 42.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "22B05E315DF2D8F4"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animated_details_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5B19D6A0BFC60F98"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "07FE4A8CB6704212"
+				item: "simplehats:flagjuly"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 42.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "356722A6689FC312"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animated_details_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "32E310DA32931C9E"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "2EAD0218267E7587"
+				item: "simplehats:fireworks"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 42.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "10BCAAAF9BDDA1B0"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animated_details_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "43A5F1F04F2786A4"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "3795C7CBF4D336E7"
+				item: "simplehats:fakefire"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 43.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "158DF82D01D29483"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animated_details_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "22A18E79C3486A1B"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "48596C83B03B2262"
+				item: "simplehats:fakeblight"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 43.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "7DB3DF8D2DFE96C2"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animated_details_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5245017429DF09E3"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0B772A3FFB6E5CB0"
+				item: "simplehats:candleonhead"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 43.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "37D265152CC3F10A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animated_details_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "445EA92ABA015E1D"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1C53AFC1B87D590B"
+				item: "simplehats:raincloud"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 43.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "18C6EC2039694D8F"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animated_details_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1DD5CE62614E421E"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "58D945C0CDBC2501"
+				item: "simplehats:burning_m_bison"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 43.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4D9F595D62C1D08B"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animated_details_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3DF5EC37D8C15305"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "51CEEE009B44E65C"
+				item: "simplehats:stress"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 43.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6F8CC803879F0E0A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animated_details_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3420684BD6CA1A92"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "26B2B48E141CC595"
+				item: "simplehats:smokingpipe"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 44.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "56081E2D86CFFF69"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animated_details_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5B38BAFAA116110A"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "2109EA092C8B2433"
+				item: "simplehats:simsgem"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 44.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "10429304D7708169"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animated_details_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "285A814D37136424"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7ED6E04196E7A04B"
+				item: "simplehats:worms_mine"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 44.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1962589C087DA44A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animated_details_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "69B4B1E5C42D6DB2"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4DB249866C34934D"
+				item: "simplehats:rainboworbiters"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 44.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "20D410265D9E82D2"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animated_details_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3B3FED522A58F4F0"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "04A6536D03CB14F6"
+				item: "simplehats:propelhat"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 44.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4165024C31002D05"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animated_details_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "02514CE568DF1F0D"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "211CDF26D27078D5"
+				item: "simplehats:policesiren"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 44.5d
+		}
+		{
+			dependencies: [
+				"3D4044D79D6F507D"
+				"2A38BB704E821334"
+				"17C8DE6175962F46"
+				"7AAD5F78698226B6"
+				"22B05E315DF2D8F4"
+				"356722A6689FC312"
+				"10BCAAAF9BDDA1B0"
+				"158DF82D01D29483"
+				"7DB3DF8D2DFE96C2"
+				"37D265152CC3F10A"
+				"18C6EC2039694D8F"
+				"4D9F595D62C1D08B"
+				"6F8CC803879F0E0A"
+				"56081E2D86CFFF69"
+				"10429304D7708169"
+				"1962589C087DA44A"
+				"20D410265D9E82D2"
+				"4165024C31002D05"
+			]
+			icon: "kubejs:miles_ticket"
+			id: "09BEE81363887CE9"
+			rewards: [{
+				count: 34
+				id: "37FC9C84BA513F23"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "4E8F35AC832A816D"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Animated Details Completion"
+			x: -1.0d
+			y: 43.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4FAFB725B34F99B2"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:accessories_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7FDCC0AA75C31952"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "368F1199E8AB654C"
+				item: "simplehats:sausage"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 46.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "517B1904B0F1ABEE"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:accessories_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7A2AB0B32A1AEBE8"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6C5C04BFF8FF71B5"
+				item: "simplehats:rednose"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 46.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "731B9406A6E27913"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:accessories_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3AA633BCEAD40509"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "3F2088F4D50F7806"
+				item: "simplehats:moreeyes"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 46.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "7ECA6A1413226B39"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:accessories_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "23E3C1F3567C1A9A"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "51D64D449D437B09"
+				item: "simplehats:mohawk"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 46.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2946F93CAD61759F"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:accessories_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "106EB8C811707399"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0C4477C5F7A831F8"
+				item: "simplehats:fro"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 46.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "73955C7BB1DC4D39"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:accessories_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "02C9E97C7537BC83"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7FFC9FFA156813A8"
+				item: "simplehats:demoneyes"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 46.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "633207FFA96533CE"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:accessories_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "44697E23E8EB2FED"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4FD268F14BFAA2DD"
+				item: "simplehats:dairyqueen"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 47.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6361CB3925005D5A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:accessories_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "78BDD036EB4B7E9C"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "63CD7381101BC3F9"
+				item: "simplehats:candycane"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 47.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5BF86FF3976FA1C1"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:accessories_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5963C6CC62CF06AC"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "42394566B96BE8A8"
+				item: "simplehats:camerabeard"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 47.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "74B9E923276B5217"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:accessories_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1B139425DE1A815D"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "38AB431D239AEF59"
+				item: "simplehats:scouter"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 47.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6C170C4C431F1F53"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:accessories_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "676F4542C42B0924"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "2EDA885B017CBC4E"
+				item: "simplehats:chalk_stick"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 47.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "75C9AB93FFFC7EC8"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:accessories_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0CAA594B22F6F0A3"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7BF5F768FC565691"
+				item: "simplehats:villagernose"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 47.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "553DC6B65A7BCCC9"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:accessories_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "71D162DF0A864E9B"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "318FDDE4316B0214"
+				item: "simplehats:supersandhat"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 48.0d
+		}
+		{
+			dependencies: [
+				"4FAFB725B34F99B2"
+				"517B1904B0F1ABEE"
+				"731B9406A6E27913"
+				"7ECA6A1413226B39"
+				"2946F93CAD61759F"
+				"73955C7BB1DC4D39"
+				"633207FFA96533CE"
+				"6361CB3925005D5A"
+				"5BF86FF3976FA1C1"
+				"74B9E923276B5217"
+				"6C170C4C431F1F53"
+				"75C9AB93FFFC7EC8"
+				"553DC6B65A7BCCC9"
+			]
+			icon: "kubejs:miles_ticket"
+			id: "344894C60364752D"
+			rewards: [{
+				count: 21
+				id: "1048E462F0DBF990"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "3E58997EB8222183"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Accessories Completion"
+			x: -1.0d
+			y: 47.0d
+		}
+	]
+	title: "Hat Collection"
+}

@@ -8,3 +8,5 @@ scoreboard players add @p flora_compendium 1
 tellraw @p ["", {"text":"Flora Compendium ("}, {"score":{"name":"@p","objective":"flora_compendium"}}, {"text":"/122)"}]
 scoreboard players add @p mineral_museum 1
 tellraw @p ["", {"text":"Mineral Museum ("}, {"score":{"name":"@p","objective":"mineral_museum"}}, {"text":"/57)"}]
+scoreboard players add @p hat_collection 1
+tellraw @p ["", {"text":"Hat Collection ("}, {"score":{"name":"@p","objective":"hat_collection"}}, {"text":"/234)"}]

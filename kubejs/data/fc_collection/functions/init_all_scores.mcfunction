@@ -118,3 +118,27 @@ scoreboard objectives add common_gems_completion dummy {"text":"Common Gems Comp
 scoreboard players set @p common_gems_completion 0
 scoreboard objectives add mineral_museum dummy {"text":"Mineral Museum"}
 scoreboard players set @p mineral_museum 0
+scoreboard objectives add flat_hats_completion dummy {"text":"Flat Hats Completion"}
+scoreboard players set @p flat_hats_completion 0
+scoreboard objectives add medium_hats_completion dummy {"text":"Medium Hats Completion"}
+scoreboard players set @p medium_hats_completion 0
+scoreboard objectives add tall_hats_completion dummy {"text":"Tall Hats Completion"}
+scoreboard players set @p tall_hats_completion 0
+scoreboard objectives add face_overings_completion dummy {"text":"Face Overings Completion"}
+scoreboard players set @p face_overings_completion 0
+scoreboard objectives add head_toppers_completion dummy {"text":"Head Toppers Completion"}
+scoreboard players set @p head_toppers_completion 0
+scoreboard objectives add disguise_completion dummy {"text":"Disguise Completion"}
+scoreboard players set @p disguise_completion 0
+scoreboard objectives add animal_hats_completion dummy {"text":"Animal Hats Completion"}
+scoreboard players set @p animal_hats_completion 0
+scoreboard objectives add eyewear_completion dummy {"text":"Eyewear Completion"}
+scoreboard players set @p eyewear_completion 0
+scoreboard objectives add around_the_head_completion dummy {"text":"Around the Head Completion"}
+scoreboard players set @p around_the_head_completion 0
+scoreboard objectives add animated_details_completion dummy {"text":"Animated Details Completion"}
+scoreboard players set @p animated_details_completion 0
+scoreboard objectives add accessories_completion dummy {"text":"Accessories Completion"}
+scoreboard players set @p accessories_completion 0
+scoreboard objectives add hat_collection dummy {"text":"Hat Collection"}
+scoreboard players set @p hat_collection 0

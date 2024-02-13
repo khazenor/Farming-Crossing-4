@@ -56,8 +56,8 @@ collections = [
 		collectionKey: "Mineral Museum",
 		increaseRateKey: 0.03,
 		questFilenameKey: 'mineral_museum'
-	}
-	# ,{
+	},
+	# {
 	# 	nameKey: "Common Decoration",
 	# 	pluralKey: "s",
 	# 	iconKey: "moa_decor_art:martilloycincel",
@@ -77,14 +77,14 @@ collections = [
 	# 	increaseRateKey: 0.4,
 	# 	questFilenameKey: ''
 	# },
-	# {
-	# 	nameKey: "Hat",
-	# 	pluralKey: "s",
-	# 	iconKey: "simplehats:haticon",
-	# 	lastQuestItemKey: 'kubejs:cert_hat_diamond',
-	# 	actionKey: "Collected",
-	# 	collectionKey: "Hat Catalog",
-	# 	increaseRateKey: 0.04,
-	# 	questFilenameKey: ''
-	# }
+	{
+		nameKey: "Hat",
+		pluralKey: "s",
+		iconKey: "simplehats:haticon",
+		lastQuestItemKey: 'kubejs:cert_hat_diamond',
+		actionKey: "Collected",
+		collectionKey: "Hat Catalog",
+		increaseRateKey: 0.04,
+		questFilenameKey: 'hat_collection'
+	}
 ]
