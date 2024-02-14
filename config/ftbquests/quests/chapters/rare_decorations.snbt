@@ -15,7 +15,7 @@
 			id: "5B9CC053272B46FB"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:statues_completion"
+				command: "/function fc_collection:rare_decorations_statues_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "3743EC7E078B25B9"
@@ -37,7 +37,7 @@
 			id: "35375C1922E920D5"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:statues_completion"
+				command: "/function fc_collection:rare_decorations_statues_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "0F4F3F0C64D64A81"
@@ -59,7 +59,7 @@
 			id: "480FE5C9FBD01CCB"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:statues_completion"
+				command: "/function fc_collection:rare_decorations_statues_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "5740B3B11926B97B"
@@ -81,7 +81,7 @@
 			id: "0077CBEC39A13073"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:statues_completion"
+				command: "/function fc_collection:rare_decorations_statues_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "79B829024FF92E18"
@@ -103,7 +103,7 @@
 			id: "78AE1C02D3D72403"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:statues_completion"
+				command: "/function fc_collection:rare_decorations_statues_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "2865442CC1567A37"
@@ -125,7 +125,7 @@
 			id: "5C60B0B3F51E4B7A"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:statues_completion"
+				command: "/function fc_collection:rare_decorations_statues_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "7C026A2823B07169"
@@ -147,7 +147,7 @@
 			id: "10D4E0E67F139C63"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:statues_completion"
+				command: "/function fc_collection:rare_decorations_statues_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "3B8FC968CC3C3307"
@@ -169,7 +169,7 @@
 			id: "32495AECBCDE982C"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:statues_completion"
+				command: "/function fc_collection:rare_decorations_statues_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "71E829C0F2EFE968"
@@ -191,7 +191,7 @@
 			id: "227B4F1BE2D88019"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:statues_completion"
+				command: "/function fc_collection:rare_decorations_statues_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "6139D9D41E35B7D3"
@@ -213,7 +213,7 @@
 			id: "1844FF1662039861"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:statues_completion"
+				command: "/function fc_collection:rare_decorations_statues_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "51F3FEB075A6703D"
@@ -268,7 +268,7 @@
 			id: "42AED6C4F5A3658A"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:mob_trophies_completion"
+				command: "/function fc_collection:rare_decorations_mob_trophies_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "2ACA5E5FA416D96E"
@@ -290,7 +290,7 @@
 			id: "08AAB4409E08362C"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:mob_trophies_completion"
+				command: "/function fc_collection:rare_decorations_mob_trophies_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "7A6F6D853AAFD2DE"
@@ -312,7 +312,7 @@
 			id: "7D06FAE3FE035519"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:mob_trophies_completion"
+				command: "/function fc_collection:rare_decorations_mob_trophies_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "6BA9C5E1AE870D11"
@@ -334,7 +334,7 @@
 			id: "5294D8DB92D4B9AF"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:mob_trophies_completion"
+				command: "/function fc_collection:rare_decorations_mob_trophies_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "15D3EBE75656EAAD"
@@ -356,7 +356,7 @@
 			id: "68F502129C33EE3D"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:mob_trophies_completion"
+				command: "/function fc_collection:rare_decorations_mob_trophies_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "76DFAF3807BE13FC"
@@ -378,7 +378,7 @@
 			id: "2D6E1D4C985F8F68"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:mob_trophies_completion"
+				command: "/function fc_collection:rare_decorations_mob_trophies_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "7D7E293C8190DB61"
@@ -400,7 +400,7 @@
 			id: "3EA0D774547ABEC5"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:mob_trophies_completion"
+				command: "/function fc_collection:rare_decorations_mob_trophies_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "3CB357CB816280B5"
@@ -452,7 +452,7 @@
 			id: "0F8998004E4CBBBD"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:paintings_completion"
+				command: "/function fc_collection:rare_decorations_paintings_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "262619ED548CBCFF"
@@ -474,7 +474,7 @@
 			id: "2596D59CC0173EFE"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:paintings_completion"
+				command: "/function fc_collection:rare_decorations_paintings_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "1A91787FE99C4A68"
@@ -496,7 +496,7 @@
 			id: "4638118AA1EF5B2B"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:paintings_completion"
+				command: "/function fc_collection:rare_decorations_paintings_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "4880FAD4AF11EE1E"
@@ -518,7 +518,7 @@
 			id: "7C19DC0F56BA079E"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:paintings_completion"
+				command: "/function fc_collection:rare_decorations_paintings_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "494343468E4F7355"
@@ -540,7 +540,7 @@
 			id: "66B441C58C251736"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:paintings_completion"
+				command: "/function fc_collection:rare_decorations_paintings_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "0F767DB9DAB9167B"
@@ -562,7 +562,7 @@
 			id: "701148A5C43F837A"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:paintings_completion"
+				command: "/function fc_collection:rare_decorations_paintings_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "5BE39B27520FAA90"
@@ -613,7 +613,7 @@
 			id: "0FF1FC4D0973EBA4"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:misc_completion"
+				command: "/function fc_collection:rare_decorations_misc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "066857909D08F7F2"
@@ -635,7 +635,7 @@
 			id: "2D51ECCD268CBBA2"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:misc_completion"
+				command: "/function fc_collection:rare_decorations_misc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "0547BA083395691B"
@@ -657,7 +657,7 @@
 			id: "3FC0A2E4E138561C"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:misc_completion"
+				command: "/function fc_collection:rare_decorations_misc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "24F48CC851FB099F"
@@ -679,7 +679,7 @@
 			id: "726089EF4A5757E3"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:misc_completion"
+				command: "/function fc_collection:rare_decorations_misc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "52ED8119A1107819"
@@ -701,7 +701,7 @@
 			id: "322C7A72C1F57043"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:misc_completion"
+				command: "/function fc_collection:rare_decorations_misc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "5EB087329EAB7BDA"
@@ -723,7 +723,7 @@
 			id: "44F9D3C457D5ECD1"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:misc_completion"
+				command: "/function fc_collection:rare_decorations_misc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "3B4CB7447EEC2026"
@@ -745,7 +745,7 @@
 			id: "29E98F137D3FCD6D"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:misc_completion"
+				command: "/function fc_collection:rare_decorations_misc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "106C95ADDBB76E21"
@@ -797,7 +797,7 @@
 			id: "5D5C27F5B8D810A6"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_food_music_discs_completion"
+				command: "/function fc_collection:rare_decorations_oneul_food_music_discs_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "2AF245886CF2E847"
@@ -819,7 +819,7 @@
 			id: "6431634A84A01913"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_food_music_discs_completion"
+				command: "/function fc_collection:rare_decorations_oneul_food_music_discs_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "3B05C94D3B03FD80"
@@ -841,7 +841,7 @@
 			id: "3E96EA4D06B01399"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_food_music_discs_completion"
+				command: "/function fc_collection:rare_decorations_oneul_food_music_discs_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "6A684BF4E135F4CB"
@@ -863,7 +863,7 @@
 			id: "527722459C70A4DC"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_food_music_discs_completion"
+				command: "/function fc_collection:rare_decorations_oneul_food_music_discs_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "52E831216C29CCE7"
@@ -885,7 +885,7 @@
 			id: "29899D162CD03C50"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_food_music_discs_completion"
+				command: "/function fc_collection:rare_decorations_oneul_food_music_discs_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "29AA92FCE7FD80F8"
@@ -907,7 +907,7 @@
 			id: "23A30E5336A4B4F6"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_food_music_discs_completion"
+				command: "/function fc_collection:rare_decorations_oneul_food_music_discs_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "46CBE5F478B5D378"
@@ -929,7 +929,7 @@
 			id: "651394FDF650F46E"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_food_music_discs_completion"
+				command: "/function fc_collection:rare_decorations_oneul_food_music_discs_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "6BBEE9DB6869212E"
@@ -981,7 +981,7 @@
 			id: "604425417FAE1654"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_pink_bear_music_disc_completion"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "610FACB0B32C36C3"
@@ -1003,7 +1003,7 @@
 			id: "46D7929E33A55036"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_pink_bear_music_disc_completion"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "0CEC98C9F45F1A5B"
@@ -1025,7 +1025,7 @@
 			id: "335817468F025E1A"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_pink_bear_music_disc_completion"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "17A77C46A783B54D"
@@ -1047,7 +1047,7 @@
 			id: "04EB28CE2DDE9E81"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_pink_bear_music_disc_completion"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "079F9F9F363B3F45"
@@ -1069,7 +1069,7 @@
 			id: "576F338251A5C3B6"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_pink_bear_music_disc_completion"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "02A17E192A2AAED8"
@@ -1091,7 +1091,7 @@
 			id: "3579D72E2335DAA0"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_pink_bear_music_disc_completion"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "02670F324EF97BDF"
@@ -1113,7 +1113,7 @@
 			id: "0E5247AAA421D408"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_pink_bear_music_disc_completion"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "22BF112B31466C90"
@@ -1135,7 +1135,7 @@
 			id: "5BC05605A828D015"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_pink_bear_music_disc_completion"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "117E22F3CB7FDC18"
@@ -1157,7 +1157,7 @@
 			id: "1DCFD407FBF85AAF"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_pink_bear_music_disc_completion"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "418E563575B2BC16"
@@ -1179,7 +1179,7 @@
 			id: "79D81C8AF7A39D8A"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_pink_bear_music_disc_completion"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "52373766681003D7"
@@ -1201,7 +1201,7 @@
 			id: "4094966F2508F68A"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_pink_bear_music_disc_completion"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "63756A55E0BF900D"
@@ -1223,7 +1223,7 @@
 			id: "6CA6E28520A59BFC"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_pink_bear_music_disc_completion"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "2FE40448CE190E7A"
@@ -1245,7 +1245,7 @@
 			id: "37F6864D7E63459C"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_pink_bear_music_disc_completion"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "23AEEC254564467C"
@@ -1267,7 +1267,7 @@
 			id: "00E254E950B820AD"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_pink_bear_music_disc_completion"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "06713BA34B40D391"
@@ -1289,7 +1289,7 @@
 			id: "78BA829D045010D1"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_pink_bear_music_disc_completion"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "4942AB7E70C865C2"
@@ -1311,7 +1311,7 @@
 			id: "3D828F4079A2DFD9"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_pink_bear_music_disc_completion"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "334F5DCCEAAB312A"
@@ -1333,7 +1333,7 @@
 			id: "11FBB735C5F87FC5"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_pink_bear_music_disc_completion"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "290EBC44A85CBFD6"
@@ -1355,7 +1355,7 @@
 			id: "7614FC68CE3EC8E1"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_pink_bear_music_disc_completion"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "07C5DADDD10F2949"
@@ -1377,7 +1377,7 @@
 			id: "176909E433E9D6FE"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_pink_bear_music_disc_completion"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "6A56E8C232BF6A84"
@@ -1399,7 +1399,7 @@
 			id: "4E839AE0EF9E726C"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_pink_bear_music_disc_completion"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "2C4D03F8EF4204CD"
@@ -1421,7 +1421,7 @@
 			id: "5D28DCB9C08ECD9C"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_pink_bear_music_disc_completion"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "5A03EEAA8E2CB13D"
@@ -1443,7 +1443,7 @@
 			id: "2C0222CCCBEF387D"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_pink_bear_music_disc_completion"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "05110065490C87A0"
@@ -1465,7 +1465,7 @@
 			id: "0EF0F660F4D0084E"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_pink_bear_music_disc_completion"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "1CF154C23C52FE48"
@@ -1487,7 +1487,7 @@
 			id: "5526A0B602D25AC3"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_pink_bear_music_disc_completion"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "3181728EB8D0CC37"
@@ -1509,7 +1509,7 @@
 			id: "58351FF2F8B29AB1"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_pink_bear_music_disc_completion"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "335ABECFCCCA636A"
@@ -1531,7 +1531,7 @@
 			id: "009D6883BB487F61"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_pink_bear_music_disc_completion"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "4BD17EF0CDE17021"
@@ -1602,7 +1602,7 @@
 			id: "77FCD4BE299762E1"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_misc_music_disc_completion"
+				command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "028B9423F4F018ED"
@@ -1624,7 +1624,7 @@
 			id: "5569BA890C459F77"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_misc_music_disc_completion"
+				command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "109367413F119BE2"
@@ -1646,7 +1646,7 @@
 			id: "57E24540E587E336"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_misc_music_disc_completion"
+				command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "208BFF58B77C5B07"
@@ -1668,7 +1668,7 @@
 			id: "4C639E9E1BF61510"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_misc_music_disc_completion"
+				command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "0FDCB82729A974A7"
@@ -1690,7 +1690,7 @@
 			id: "44074CC1D0262DCD"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_misc_music_disc_completion"
+				command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "692BCD6DF229078C"
@@ -1712,7 +1712,7 @@
 			id: "6AC461F118FAD8AB"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_misc_music_disc_completion"
+				command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "36C0CA832C8A6B9A"
@@ -1734,7 +1734,7 @@
 			id: "2E60E06F58CF8CC6"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_misc_music_disc_completion"
+				command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "4FA7AD4ACAC10979"
@@ -1756,7 +1756,7 @@
 			id: "1584F8FD24BCF3FF"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_misc_music_disc_completion"
+				command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "6567720587D6AA4B"
@@ -1778,7 +1778,7 @@
 			id: "5AFC249507353E37"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_misc_music_disc_completion"
+				command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "3CCBA90C26C0E7B5"
@@ -1800,7 +1800,7 @@
 			id: "10C20F12987915DF"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_misc_music_disc_completion"
+				command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "183CACE12DCBA008"
@@ -1822,7 +1822,7 @@
 			id: "4A9011768B17E3F4"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oneul_misc_music_disc_completion"
+				command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "5ACA52357F5F1580"

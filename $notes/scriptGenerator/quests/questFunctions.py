@@ -23,15 +23,16 @@ def genQuestFunctions():
 		for questGroup in questline[collectionQuestsInput.questGroupsKey]:
 			subGroupName = questGroup[collectionQuestsInput.nameKey]
 			totalSubCollectibles = len(questGroup[collectionQuestsInput.tasksKey])
-			subGroupObjName = stringCleaning.cleanedNameStr(subGroupName)
+			subGroupNameCleaned = stringCleaning.cleanedNameStr(subGroupName)
 			fullCollectionNotification = (
 				questline[collectionQuestsInput.collectionNotificationKey] + " " +
 				questlineName
 			)
 
+			subGroupObjName = f'{questlineObjName}_{subGroupNameCleaned}'
 			mcfunction.writeFunction(
 				functionParentName,
-				subGroupName,
+				subGroupObjName,
 				commands.collectionNotification(
 					fullCollectionNotification,
 					questlineObjName,
@@ -44,7 +45,7 @@ def genQuestFunctions():
 				) +
 				commands.tellRaw([])
 			)
-			initFunctionContent += commands.initScoreBoard(subGroupName)
+			initFunctionContent += commands.initScoreBoard(subGroupObjName)
 
 		questlineName = questline[collectionQuestsInput.nameKey]
 		initFunctionContent += commands.initScoreBoard(questlineName)

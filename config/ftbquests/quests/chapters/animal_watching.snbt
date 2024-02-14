@@ -15,7 +15,7 @@
 			id: "6BC03ABC66ACE87E"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:general_water_completion"
+				command: "/function fc_collection:animal_watching_general_water_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "18F4CF064C42D88A"
@@ -41,7 +41,7 @@
 			id: "28D9975ED20AFA2F"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:general_water_completion"
+				command: "/function fc_collection:animal_watching_general_water_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "59F8E8F2DDB7C23B"
@@ -67,7 +67,7 @@
 			id: "0C97E9B382AA78C9"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:general_water_completion"
+				command: "/function fc_collection:animal_watching_general_water_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "0BE3A50BCBC781AD"
@@ -93,7 +93,7 @@
 			id: "2B1D1F4485281F8F"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:general_water_completion"
+				command: "/function fc_collection:animal_watching_general_water_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "5343E18839DD8D07"
@@ -119,7 +119,7 @@
 			id: "79D19EF8C97C8B9C"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:general_water_completion"
+				command: "/function fc_collection:animal_watching_general_water_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "6164286E5A85DFCD"
@@ -173,7 +173,7 @@
 			id: "24716AF6C6BDE008"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:warm_oceans_completion"
+				command: "/function fc_collection:animal_watching_warm_oceans_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "4E3588529EA5BEAE"
@@ -199,7 +199,7 @@
 			id: "7E990266EB1DC187"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:warm_oceans_completion"
+				command: "/function fc_collection:animal_watching_warm_oceans_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "6943590E6EF02BAE"
@@ -250,7 +250,7 @@
 			id: "481EA9C89C1408B4"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:beaches_completion"
+				command: "/function fc_collection:animal_watching_beaches_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "00B7B9BCEB5E45A7"
@@ -276,7 +276,7 @@
 			id: "73D3CF73E7599B5B"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:beaches_completion"
+				command: "/function fc_collection:animal_watching_beaches_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "7B55149733E29050"
@@ -302,7 +302,7 @@
 			id: "3C97780D6E0BD1F2"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:beaches_completion"
+				command: "/function fc_collection:animal_watching_beaches_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "0DD9FD8F000D0AAA"
@@ -328,7 +328,7 @@
 			id: "2D3B92C5377D7FAD"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:beaches_completion"
+				command: "/function fc_collection:animal_watching_beaches_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "3B775CB66545E3E6"
@@ -354,7 +354,7 @@
 			id: "27D5478265C11EF6"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:beaches_completion"
+				command: "/function fc_collection:animal_watching_beaches_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "7AE4CF6DC62DBABF"
@@ -380,7 +380,7 @@
 			id: "298731F2CB70FED1"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:beaches_completion"
+				command: "/function fc_collection:animal_watching_beaches_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "69688A1AAF3AAC11"
@@ -406,7 +406,7 @@
 			id: "24FABF284F06C04B"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:beaches_completion"
+				command: "/function fc_collection:animal_watching_beaches_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "1DC11CD98FBC2A52"
@@ -432,7 +432,7 @@
 			id: "3EFBA4A3E40E8CEE"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:beaches_completion"
+				command: "/function fc_collection:animal_watching_beaches_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "16FB19A9B2954C1A"
@@ -458,7 +458,7 @@
 			id: "221EA18ECBCCDD08"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:beaches_completion"
+				command: "/function fc_collection:animal_watching_beaches_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "4DC21546094BE8DE"
@@ -516,7 +516,7 @@
 			id: "370453FE30F5D2F8"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:river_completion"
+				command: "/function fc_collection:animal_watching_river_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "757B126F3F9709BE"
@@ -542,7 +542,7 @@
 			id: "4F3AADBCC889D8FD"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:river_completion"
+				command: "/function fc_collection:animal_watching_river_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "69D158FBCEE44429"
@@ -568,7 +568,7 @@
 			id: "432E034EE29154D4"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:river_completion"
+				command: "/function fc_collection:animal_watching_river_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "5FE4334F9E5C40FD"
@@ -594,7 +594,7 @@
 			id: "52A6E2E145644B89"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:river_completion"
+				command: "/function fc_collection:animal_watching_river_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "099814DA2BFE370C"
@@ -620,7 +620,7 @@
 			id: "0FC4168A298E7B15"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:river_completion"
+				command: "/function fc_collection:animal_watching_river_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "059E40D6DEB3E3C9"
@@ -646,7 +646,7 @@
 			id: "71094C99888C2B91"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:river_completion"
+				command: "/function fc_collection:animal_watching_river_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "4D82E1BEBA77A39C"
@@ -672,7 +672,7 @@
 			id: "2F72165A6C6DA1C0"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:river_completion"
+				command: "/function fc_collection:animal_watching_river_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "7E6DE159184E80AC"
@@ -698,7 +698,7 @@
 			id: "0D90E8A6AD14A9F8"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:river_completion"
+				command: "/function fc_collection:animal_watching_river_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "5770893F638A1771"
@@ -755,7 +755,7 @@
 			id: "1D29B3800ED5F047"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:frozen_ocean_completion"
+				command: "/function fc_collection:animal_watching_frozen_ocean_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "618F4DB4E0E417B2"
@@ -781,7 +781,7 @@
 			id: "612D9EA981D47186"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:frozen_ocean_completion"
+				command: "/function fc_collection:animal_watching_frozen_ocean_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "3BDCE67AF2859C71"
@@ -832,7 +832,7 @@
 			id: "74F683340A32E0DA"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:deepest_ocean_completion"
+				command: "/function fc_collection:animal_watching_deepest_ocean_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "07D720737354F812"
@@ -858,7 +858,7 @@
 			id: "2616A5754474CB4E"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:deepest_ocean_completion"
+				command: "/function fc_collection:animal_watching_deepest_ocean_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "446FDD2AB723F652"
@@ -909,7 +909,7 @@
 			id: "008613A90AB3373D"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:desert_completion"
+				command: "/function fc_collection:animal_watching_desert_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "65F528F98951996F"
@@ -935,7 +935,7 @@
 			id: "77BCB6D4FEEF12EC"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:desert_completion"
+				command: "/function fc_collection:animal_watching_desert_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "0624A8A889B1F29F"
@@ -961,7 +961,7 @@
 			id: "64E12975D6C6DF0F"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:desert_completion"
+				command: "/function fc_collection:animal_watching_desert_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "2627F04B4D905273"
@@ -987,7 +987,7 @@
 			id: "413D6D58E51BEA36"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:desert_completion"
+				command: "/function fc_collection:animal_watching_desert_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "7CC6997261C57CC9"
@@ -1013,7 +1013,7 @@
 			id: "4FF7DD0A9F4653A3"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:desert_completion"
+				command: "/function fc_collection:animal_watching_desert_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "0D891F30924C3F92"
@@ -1039,7 +1039,7 @@
 			id: "5A11FB3653093A42"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:desert_completion"
+				command: "/function fc_collection:animal_watching_desert_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "2E699578872D9539"
@@ -1094,7 +1094,7 @@
 			id: "1ED2AA8F11140834"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:forest_completion"
+				command: "/function fc_collection:animal_watching_forest_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "25F528D99EA89498"
@@ -1120,7 +1120,7 @@
 			id: "3DCB95F419650E52"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:forest_completion"
+				command: "/function fc_collection:animal_watching_forest_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "38697738EA5C713E"
@@ -1146,7 +1146,7 @@
 			id: "238A4B8351C78B80"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:forest_completion"
+				command: "/function fc_collection:animal_watching_forest_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "017C361C507DBB71"
@@ -1172,7 +1172,7 @@
 			id: "7CB69DC8B18274E5"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:forest_completion"
+				command: "/function fc_collection:animal_watching_forest_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "345952A4DCE1669E"
@@ -1198,7 +1198,7 @@
 			id: "542D10B47F3B1385"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:forest_completion"
+				command: "/function fc_collection:animal_watching_forest_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "2CDCAD0E31E77719"
@@ -1224,7 +1224,7 @@
 			id: "71E5BE81B64FFF1F"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:forest_completion"
+				command: "/function fc_collection:animal_watching_forest_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "0A22BBD4E46A2973"
@@ -1250,7 +1250,7 @@
 			id: "786C9623E2BD258C"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:forest_completion"
+				command: "/function fc_collection:animal_watching_forest_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "1D9C810563452CE7"
@@ -1276,7 +1276,7 @@
 			id: "25B0DBAA8B24F519"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:forest_completion"
+				command: "/function fc_collection:animal_watching_forest_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "57902B6E49D1F5D1"
@@ -1302,7 +1302,7 @@
 			id: "46B46790E3AB989C"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:forest_completion"
+				command: "/function fc_collection:animal_watching_forest_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "17742775F39DF469"
@@ -1328,7 +1328,7 @@
 			id: "21F787F6BA02D93B"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:forest_completion"
+				command: "/function fc_collection:animal_watching_forest_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "2BF50A5FE347781F"
@@ -1354,7 +1354,7 @@
 			id: "7122135F12455F2E"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:forest_completion"
+				command: "/function fc_collection:animal_watching_forest_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "461453595FF30CB6"
@@ -1380,7 +1380,7 @@
 			id: "64C6B6C2BE3DAF21"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:forest_completion"
+				command: "/function fc_collection:animal_watching_forest_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "04C7F8E5E3C4D78A"
@@ -1406,7 +1406,7 @@
 			id: "71FCE06D8A6982BB"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:forest_completion"
+				command: "/function fc_collection:animal_watching_forest_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "0F3A646115224113"
@@ -1432,7 +1432,7 @@
 			id: "059EACC580CD55D2"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:forest_completion"
+				command: "/function fc_collection:animal_watching_forest_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "696374C81A689F9E"
@@ -1458,7 +1458,7 @@
 			id: "37212B218AB2A17F"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:forest_completion"
+				command: "/function fc_collection:animal_watching_forest_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "6E5FB13C39DD85A1"
@@ -1484,7 +1484,7 @@
 			id: "75B3AB3070793EFB"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:forest_completion"
+				command: "/function fc_collection:animal_watching_forest_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "485946E8854FBFFE"
@@ -1510,7 +1510,7 @@
 			id: "7C188414FB438B6E"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:forest_completion"
+				command: "/function fc_collection:animal_watching_forest_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "7F9AF9614254EAC8"
@@ -1576,7 +1576,7 @@
 			id: "0F76579E007CDCE7"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:jungle_completion"
+				command: "/function fc_collection:animal_watching_jungle_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "1DA57C4C1A70729A"
@@ -1602,7 +1602,7 @@
 			id: "7543705CF9751CF7"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:jungle_completion"
+				command: "/function fc_collection:animal_watching_jungle_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "4803936A5B8021E1"
@@ -1628,7 +1628,7 @@
 			id: "5E03E6CA4022BDDB"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:jungle_completion"
+				command: "/function fc_collection:animal_watching_jungle_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "1151A10A1EB7ECCD"
@@ -1654,7 +1654,7 @@
 			id: "322D5B791780813E"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:jungle_completion"
+				command: "/function fc_collection:animal_watching_jungle_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "3D5D89467C863936"
@@ -1680,7 +1680,7 @@
 			id: "03E629B07E1B2DEB"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:jungle_completion"
+				command: "/function fc_collection:animal_watching_jungle_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "70FCB0FF1A00D017"
@@ -1706,7 +1706,7 @@
 			id: "0B4E6E650C91CC1C"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:jungle_completion"
+				command: "/function fc_collection:animal_watching_jungle_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "28DE66FEE83976B1"
@@ -1732,7 +1732,7 @@
 			id: "418A609115C4010A"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:jungle_completion"
+				command: "/function fc_collection:animal_watching_jungle_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "575F5676AC1D23F9"
@@ -1758,7 +1758,7 @@
 			id: "665CE35022CEF3E6"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:jungle_completion"
+				command: "/function fc_collection:animal_watching_jungle_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "4A7CDC79C7E7B4A5"
@@ -1784,7 +1784,7 @@
 			id: "3487AF1A6CACE473"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:jungle_completion"
+				command: "/function fc_collection:animal_watching_jungle_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "4AA733B1F0E324C3"
@@ -1810,7 +1810,7 @@
 			id: "13CC641EF411F37B"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:jungle_completion"
+				command: "/function fc_collection:animal_watching_jungle_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "69498055E1E26627"
@@ -1836,7 +1836,7 @@
 			id: "637C4C4C478A8378"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:jungle_completion"
+				command: "/function fc_collection:animal_watching_jungle_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "6DBC8C5503F2A09E"
@@ -1862,7 +1862,7 @@
 			id: "15B0D19DC758050F"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:jungle_completion"
+				command: "/function fc_collection:animal_watching_jungle_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "6581EFD17F9A1BB2"
@@ -1923,7 +1923,7 @@
 			id: "7D5556405A67FADF"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:mountain_completion"
+				command: "/function fc_collection:animal_watching_mountain_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "0D7CD37C2F6AA6FF"
@@ -1970,7 +1970,7 @@
 			id: "184F4BA4EE6D0C9B"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:special_completion"
+				command: "/function fc_collection:animal_watching_special_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "6DB08BBAC00017F1"
@@ -1996,7 +1996,7 @@
 			id: "66BE27EBD32B3B31"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:special_completion"
+				command: "/function fc_collection:animal_watching_special_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "0280183D056D7555"
@@ -2022,7 +2022,7 @@
 			id: "2EAF4EBB9AAACFA5"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:special_completion"
+				command: "/function fc_collection:animal_watching_special_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "1C4800F50438B604"
@@ -2048,7 +2048,7 @@
 			id: "3D8D317A3970F636"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:special_completion"
+				command: "/function fc_collection:animal_watching_special_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "5A23780B6BBEAC7F"
@@ -2074,7 +2074,7 @@
 			id: "49BDC3EB14488FA2"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:special_completion"
+				command: "/function fc_collection:animal_watching_special_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "17B6B56791E44559"
@@ -2128,7 +2128,7 @@
 			id: "5AEAD16AEBC9242A"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:savanna_completion"
+				command: "/function fc_collection:animal_watching_savanna_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "4586BC7492524407"
@@ -2154,7 +2154,7 @@
 			id: "4ADDA508CDDED809"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:savanna_completion"
+				command: "/function fc_collection:animal_watching_savanna_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "0B4F6908D1DC2990"
@@ -2180,7 +2180,7 @@
 			id: "79FB0B97F67F06D6"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:savanna_completion"
+				command: "/function fc_collection:animal_watching_savanna_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "5EF7E8082945CDBB"
@@ -2206,7 +2206,7 @@
 			id: "25A77A91512D6E6B"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:savanna_completion"
+				command: "/function fc_collection:animal_watching_savanna_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "43288FD3F930F8DE"
@@ -2232,7 +2232,7 @@
 			id: "4E39B09BCE8D8674"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:savanna_completion"
+				command: "/function fc_collection:animal_watching_savanna_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "4A2218D7AD4DEB15"
@@ -2258,7 +2258,7 @@
 			id: "226500A5A41F25D8"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:savanna_completion"
+				command: "/function fc_collection:animal_watching_savanna_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "0C59D8CE92742910"
@@ -2284,7 +2284,7 @@
 			id: "4F7D5EC7E6F78BD8"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:savanna_completion"
+				command: "/function fc_collection:animal_watching_savanna_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "5291E16C0C731701"
@@ -2310,7 +2310,7 @@
 			id: "4CF51C38AFCBD5CE"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:savanna_completion"
+				command: "/function fc_collection:animal_watching_savanna_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "0A8F94C341FEEE85"
@@ -2336,7 +2336,7 @@
 			id: "6185DEB7478ABA8B"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:savanna_completion"
+				command: "/function fc_collection:animal_watching_savanna_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "31E56C4C5370F223"
@@ -2362,7 +2362,7 @@
 			id: "2E3C2D9CE553CFAE"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:savanna_completion"
+				command: "/function fc_collection:animal_watching_savanna_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "03536D674636854C"
@@ -2388,7 +2388,7 @@
 			id: "66AB8EE2E4A9666A"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:savanna_completion"
+				command: "/function fc_collection:animal_watching_savanna_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "6430E261DFC4DE0F"
@@ -2448,7 +2448,7 @@
 			id: "72ED61BCFABFD296"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:plains_completion"
+				command: "/function fc_collection:animal_watching_plains_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "5710D624BA2130D9"
@@ -2474,7 +2474,7 @@
 			id: "45886EE7CCA2E82C"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:plains_completion"
+				command: "/function fc_collection:animal_watching_plains_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "507E10DFD709280A"
@@ -2500,7 +2500,7 @@
 			id: "3362572F8413CCD8"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:plains_completion"
+				command: "/function fc_collection:animal_watching_plains_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "40D500F1EB8C9005"
@@ -2526,7 +2526,7 @@
 			id: "48C0B87C3EE883D1"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:plains_completion"
+				command: "/function fc_collection:animal_watching_plains_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "4C0B0115E66117CD"
@@ -2552,7 +2552,7 @@
 			id: "6AC16418D7460FCA"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:plains_completion"
+				command: "/function fc_collection:animal_watching_plains_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "5BB33A7E5E73FD35"
@@ -2578,7 +2578,7 @@
 			id: "28DFC774790A4F97"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:plains_completion"
+				command: "/function fc_collection:animal_watching_plains_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "4A97C19EB216CD15"
@@ -2604,7 +2604,7 @@
 			id: "6D4CA4C7C11CE938"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:plains_completion"
+				command: "/function fc_collection:animal_watching_plains_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "5AF3FA0605F8B721"
@@ -2630,7 +2630,7 @@
 			id: "17A02DC271C854DF"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:plains_completion"
+				command: "/function fc_collection:animal_watching_plains_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "687806CACC033D2D"
@@ -2656,7 +2656,7 @@
 			id: "2B9AA10350F86ED8"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:plains_completion"
+				command: "/function fc_collection:animal_watching_plains_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "64F22381CF661A42"
@@ -2682,7 +2682,7 @@
 			id: "0DB50F650352F3F8"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:plains_completion"
+				command: "/function fc_collection:animal_watching_plains_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "127EE3AAA9CA0762"
@@ -2741,7 +2741,7 @@
 			id: "7A76E1B14743846B"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:grass_completion"
+				command: "/function fc_collection:animal_watching_grass_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "718147A8789BC139"
@@ -2767,7 +2767,7 @@
 			id: "5B11A89B9F3B7F0B"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:grass_completion"
+				command: "/function fc_collection:animal_watching_grass_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "64F11798BC72F804"
@@ -2793,7 +2793,7 @@
 			id: "32C50FED0D7CC117"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:grass_completion"
+				command: "/function fc_collection:animal_watching_grass_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "24DCF13A557BCA72"
@@ -2819,7 +2819,7 @@
 			id: "66C59A6B8C3E63FF"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:grass_completion"
+				command: "/function fc_collection:animal_watching_grass_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "62348312B2FE9853"
@@ -2845,7 +2845,7 @@
 			id: "3A3D19D9883EF8F3"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:grass_completion"
+				command: "/function fc_collection:animal_watching_grass_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "276429D1E96F303F"
@@ -2871,7 +2871,7 @@
 			id: "2A0F8A1BD9978F2F"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:grass_completion"
+				command: "/function fc_collection:animal_watching_grass_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "61EBDD175793F183"
@@ -2897,7 +2897,7 @@
 			id: "73F2392647C5AF8F"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:grass_completion"
+				command: "/function fc_collection:animal_watching_grass_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "45308DF801C4F7BB"
@@ -2953,7 +2953,7 @@
 			id: "146751189BDC436F"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:caves_completion"
+				command: "/function fc_collection:animal_watching_caves_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "634A215F4848E55E"
@@ -2979,7 +2979,7 @@
 			id: "14CABCA3287E1DED"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:caves_completion"
+				command: "/function fc_collection:animal_watching_caves_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "2E429C33C0AC882B"
@@ -3005,7 +3005,7 @@
 			id: "3CA2F45B06BD4293"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:caves_completion"
+				command: "/function fc_collection:animal_watching_caves_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "2FA3A40CA29CD40B"
@@ -3031,7 +3031,7 @@
 			id: "6B813D107CF1D561"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:caves_completion"
+				command: "/function fc_collection:animal_watching_caves_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "7D1ADC9BAFE57822"
@@ -3057,7 +3057,7 @@
 			id: "306283F27FAC08C6"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:caves_completion"
+				command: "/function fc_collection:animal_watching_caves_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "6FE73FB22646452B"
@@ -3111,7 +3111,7 @@
 			id: "791294BA248BEB43"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:snowy_completion"
+				command: "/function fc_collection:animal_watching_snowy_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "29713977EB059D1D"
@@ -3137,7 +3137,7 @@
 			id: "2F727C1A360886AF"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:snowy_completion"
+				command: "/function fc_collection:animal_watching_snowy_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "072F785508964155"
@@ -3163,7 +3163,7 @@
 			id: "14208A22EAAB7B22"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:snowy_completion"
+				command: "/function fc_collection:animal_watching_snowy_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "4C093940D6531082"
@@ -3189,7 +3189,7 @@
 			id: "12787381AAC4C789"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:snowy_completion"
+				command: "/function fc_collection:animal_watching_snowy_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "1289BCE4BBE2DC23"
@@ -3242,7 +3242,7 @@
 			id: "6A1848A8536439BC"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:swamp_completion"
+				command: "/function fc_collection:animal_watching_swamp_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "00EA0B5E81C50617"
@@ -3268,7 +3268,7 @@
 			id: "42FF1F3BC84C2457"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:swamp_completion"
+				command: "/function fc_collection:animal_watching_swamp_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "71838C0DB04CBC18"
@@ -3294,7 +3294,7 @@
 			id: "33E57DCC44C58530"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:swamp_completion"
+				command: "/function fc_collection:animal_watching_swamp_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "1D5269F55B7F3A43"
@@ -3320,7 +3320,7 @@
 			id: "40454E861BA5C176"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:swamp_completion"
+				command: "/function fc_collection:animal_watching_swamp_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "4BEC8525A03D8BE3"
@@ -3346,7 +3346,7 @@
 			id: "1F47223DB5DC0A0D"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:swamp_completion"
+				command: "/function fc_collection:animal_watching_swamp_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "76F9DDF498DA937A"
@@ -3372,7 +3372,7 @@
 			id: "407AE5422CB9CEC8"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:swamp_completion"
+				command: "/function fc_collection:animal_watching_swamp_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "7AF426D0DB88406C"
@@ -3427,7 +3427,7 @@
 			id: "2889D44436A5F88A"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:mushroom_completion"
+				command: "/function fc_collection:animal_watching_mushroom_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "50AA140FC7705B07"
@@ -3453,7 +3453,7 @@
 			id: "3AB5CE2851C3022E"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:mushroom_completion"
+				command: "/function fc_collection:animal_watching_mushroom_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "1533F85DAB42570E"
@@ -3479,7 +3479,7 @@
 			id: "4B55365850E6E6C0"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:mushroom_completion"
+				command: "/function fc_collection:animal_watching_mushroom_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "7387415B84905B23"

@@ -15,7 +15,7 @@
 			id: "60E5DEF00ADBE016"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oven_recipes_completion"
+				command: "/function fc_collection:cooking_collection_oven_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "227F2C01D39B4ED5"
@@ -37,7 +37,7 @@
 			id: "6C1D193F0FE31A15"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oven_recipes_completion"
+				command: "/function fc_collection:cooking_collection_oven_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "4B802901F38CD0FF"
@@ -59,7 +59,7 @@
 			id: "775E1FA43207D698"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oven_recipes_completion"
+				command: "/function fc_collection:cooking_collection_oven_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "62014704DBC9AC4A"
@@ -81,7 +81,7 @@
 			id: "2BDB89E660FF4F54"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oven_recipes_completion"
+				command: "/function fc_collection:cooking_collection_oven_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "3DF1C7DD953EA1DD"
@@ -103,7 +103,7 @@
 			id: "4D9B1DC8666A7379"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oven_recipes_completion"
+				command: "/function fc_collection:cooking_collection_oven_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "5402CF8DB7C137F2"
@@ -125,7 +125,7 @@
 			id: "746FC56C432D9D72"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oven_recipes_completion"
+				command: "/function fc_collection:cooking_collection_oven_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "724FA9B6465DA46A"
@@ -147,7 +147,7 @@
 			id: "762812A543E15A59"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oven_recipes_completion"
+				command: "/function fc_collection:cooking_collection_oven_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "3420F7A882EC4F45"
@@ -169,7 +169,7 @@
 			id: "683249A732E9ED46"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oven_recipes_completion"
+				command: "/function fc_collection:cooking_collection_oven_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "0EFD8A0387E3B48F"
@@ -191,7 +191,7 @@
 			id: "7FC86682023BE36A"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oven_recipes_completion"
+				command: "/function fc_collection:cooking_collection_oven_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "15296DF5C6E41397"
@@ -213,7 +213,7 @@
 			id: "726316947246AA20"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oven_recipes_completion"
+				command: "/function fc_collection:cooking_collection_oven_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "151E51B9911A7955"
@@ -235,7 +235,7 @@
 			id: "189DCD77ED287270"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oven_recipes_completion"
+				command: "/function fc_collection:cooking_collection_oven_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "4F6654836C1CC8C4"
@@ -257,7 +257,7 @@
 			id: "73B287C3F642F110"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oven_recipes_completion"
+				command: "/function fc_collection:cooking_collection_oven_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "3F173BA288E57F0F"
@@ -279,7 +279,7 @@
 			id: "6D74268AD496D2DE"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oven_recipes_completion"
+				command: "/function fc_collection:cooking_collection_oven_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "63493C2AB3434277"
@@ -301,7 +301,7 @@
 			id: "70330F56008B72F6"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oven_recipes_completion"
+				command: "/function fc_collection:cooking_collection_oven_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "3FBCF25F467C1BB8"
@@ -323,7 +323,7 @@
 			id: "4AD97AB2D90083BB"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oven_recipes_completion"
+				command: "/function fc_collection:cooking_collection_oven_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "63F96DB1E126D031"
@@ -345,7 +345,7 @@
 			id: "0FDDBA02385FAAA7"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:oven_recipes_completion"
+				command: "/function fc_collection:cooking_collection_oven_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "699F2B137BE8A393"
@@ -406,7 +406,7 @@
 			id: "3D32DDF4480FE57A"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:small_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_small_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "0C97A4AD0807B645"
@@ -428,7 +428,7 @@
 			id: "4BB2F2A0A2FC23E7"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:small_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_small_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "3E81AC9300F887A5"
@@ -450,7 +450,7 @@
 			id: "1564E99B50B443DF"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:small_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_small_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "4B5786F47D3D9DE1"
@@ -472,7 +472,7 @@
 			id: "0A3E5EFB3536D9A0"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:small_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_small_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "7084FA7963A7692F"
@@ -494,7 +494,7 @@
 			id: "5A8F0310AC8BBDAC"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:small_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_small_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "3970E835CC0A8160"
@@ -516,7 +516,7 @@
 			id: "1ECACE19E1D5371D"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:small_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_small_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "0406FA49DD856922"
@@ -538,7 +538,7 @@
 			id: "2F9EAE9A525E30F6"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:small_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_small_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "30DCB1F2BD4BC26F"
@@ -560,7 +560,7 @@
 			id: "7AF639094FA1F055"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:small_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_small_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "5F63C7B0A6C684C8"
@@ -613,7 +613,7 @@
 			id: "2A822D2BA1F6C7E1"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:baking_station_recipes_completion"
+				command: "/function fc_collection:cooking_collection_baking_station_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "30EF61DACAC60A25"
@@ -635,7 +635,7 @@
 			id: "0591BA7D8D82FC3A"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:baking_station_recipes_completion"
+				command: "/function fc_collection:cooking_collection_baking_station_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "462DB7283A759C0A"
@@ -657,7 +657,7 @@
 			id: "3CE25F1E07752F82"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:baking_station_recipes_completion"
+				command: "/function fc_collection:cooking_collection_baking_station_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "0437656A5E77E9DF"
@@ -679,7 +679,7 @@
 			id: "43192B5022DAC37A"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:baking_station_recipes_completion"
+				command: "/function fc_collection:cooking_collection_baking_station_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "0DBEBF2B98A2FCA8"
@@ -701,7 +701,7 @@
 			id: "48C5C3D0B5E646E9"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:baking_station_recipes_completion"
+				command: "/function fc_collection:cooking_collection_baking_station_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "5258E6E731F9BB80"
@@ -723,7 +723,7 @@
 			id: "27BA2007EBD7CBD6"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:baking_station_recipes_completion"
+				command: "/function fc_collection:cooking_collection_baking_station_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "37B6DF69FCE0FA0D"
@@ -745,7 +745,7 @@
 			id: "7C50806F9EC14C42"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:baking_station_recipes_completion"
+				command: "/function fc_collection:cooking_collection_baking_station_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "7897125679F7ED96"
@@ -767,7 +767,7 @@
 			id: "0BFB835E5C4A0DA8"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:baking_station_recipes_completion"
+				command: "/function fc_collection:cooking_collection_baking_station_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "5FBA0F9208152235"
@@ -789,7 +789,7 @@
 			id: "4AF823330636BEFB"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:baking_station_recipes_completion"
+				command: "/function fc_collection:cooking_collection_baking_station_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "3BC6011019C91516"
@@ -843,7 +843,7 @@
 			id: "11A8CC2CF0505C2E"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:grapevine_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_grapevine_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "7F34BBD758E0AC39"
@@ -865,7 +865,7 @@
 			id: "1BB22CF63950A947"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:grapevine_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_grapevine_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "366F539808314BDD"
@@ -887,7 +887,7 @@
 			id: "38A485C36DDF3F62"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:grapevine_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_grapevine_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "11A2767BCB077C9E"
@@ -909,7 +909,7 @@
 			id: "5096B96714818FD6"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:grapevine_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_grapevine_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "63C5A247C0E41D1C"
@@ -931,7 +931,7 @@
 			id: "4F6EA368B5BDC4C2"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:grapevine_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_grapevine_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "22532AE3DBDFDC5C"
@@ -953,7 +953,7 @@
 			id: "387318B112D06445"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:grapevine_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_grapevine_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "14C69744AD274A4A"
@@ -975,7 +975,7 @@
 			id: "62AAE0E7E87BFCCB"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:grapevine_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_grapevine_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "5309515273971975"
@@ -997,7 +997,7 @@
 			id: "545A47C57C56BD73"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:grapevine_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_grapevine_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "2B6E4DC0F4519250"
@@ -1050,7 +1050,7 @@
 			id: "1E29B1CA3BD398A7"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:aging_barrel_recipes_completion"
+				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "2F072A06507186CB"
@@ -1072,7 +1072,7 @@
 			id: "44CBDDD5DBB6B3B2"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:aging_barrel_recipes_completion"
+				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "63C5016A153A07E2"
@@ -1094,7 +1094,7 @@
 			id: "382CFC831D95C883"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:aging_barrel_recipes_completion"
+				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "6FD7185697F89F10"
@@ -1116,7 +1116,7 @@
 			id: "564959925998C3C5"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:aging_barrel_recipes_completion"
+				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "1A7D7CD9B576E02A"
@@ -1138,7 +1138,7 @@
 			id: "38E59623101BCAA3"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:aging_barrel_recipes_completion"
+				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "50B20CA5A0F9FD4A"
@@ -1160,7 +1160,7 @@
 			id: "2FE81A75D247B4BD"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:aging_barrel_recipes_completion"
+				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "1C2E79792FD7C6B5"
@@ -1182,7 +1182,7 @@
 			id: "5CFE6A6E9C572DD7"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:aging_barrel_recipes_completion"
+				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "06DE1011C9D68BC8"
@@ -1204,7 +1204,7 @@
 			id: "48E249B84A116081"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:aging_barrel_recipes_completion"
+				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "0595B304F43859D3"
@@ -1226,7 +1226,7 @@
 			id: "1B414E80C478C42A"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:aging_barrel_recipes_completion"
+				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "1DDD9C3CE3EA20DA"
@@ -1248,7 +1248,7 @@
 			id: "64D0D2737E46127E"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:aging_barrel_recipes_completion"
+				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "3A99E992B8EBEA52"
@@ -1270,7 +1270,7 @@
 			id: "65916077890F30B5"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:aging_barrel_recipes_completion"
+				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "7D0B89448E7A1C53"
@@ -1292,7 +1292,7 @@
 			id: "18555223A20ADACB"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:aging_barrel_recipes_completion"
+				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "70E45793149B03FD"
@@ -1314,7 +1314,7 @@
 			id: "7B62B4A9731A12BB"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:aging_barrel_recipes_completion"
+				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "5B2861135FFF7474"
@@ -1336,7 +1336,7 @@
 			id: "0DB0361A0B3CD4E7"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:aging_barrel_recipes_completion"
+				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "0C5361498D93F587"
@@ -1358,7 +1358,7 @@
 			id: "39702AD582CA562B"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:aging_barrel_recipes_completion"
+				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "430E72BAE05A178A"
@@ -1380,7 +1380,7 @@
 			id: "4C042B77B6FB6193"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:aging_barrel_recipes_completion"
+				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "1498A7FF837BCB69"
@@ -1402,7 +1402,7 @@
 			id: "607570E6758826B5"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:aging_barrel_recipes_completion"
+				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "779D8D0378826B9B"
@@ -1424,7 +1424,7 @@
 			id: "0356F992FC4AC89B"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:aging_barrel_recipes_completion"
+				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "0C181DC65F15A1AF"
@@ -1446,7 +1446,7 @@
 			id: "793C7AB9200C7F53"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:aging_barrel_recipes_completion"
+				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "62FD7506D291482D"
@@ -1468,7 +1468,7 @@
 			id: "3DD905267A096AE0"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:aging_barrel_recipes_completion"
+				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "78D12527140E66E2"
@@ -1490,7 +1490,7 @@
 			id: "5C6C28BA162E7DEF"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:aging_barrel_recipes_completion"
+				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "037CE7463949837C"
@@ -1512,7 +1512,7 @@
 			id: "043C7161E9BAA559"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:aging_barrel_recipes_completion"
+				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "2994E621884B5757"
@@ -1534,7 +1534,7 @@
 			id: "2D3974B63D40EADB"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:aging_barrel_recipes_completion"
+				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "0E65AF8353061BD8"
@@ -1556,7 +1556,7 @@
 			id: "0301C54CF719A0EC"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:aging_barrel_recipes_completion"
+				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "5FDB72797CA249DA"
@@ -1578,7 +1578,7 @@
 			id: "5EDAB63C31AE3142"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:aging_barrel_recipes_completion"
+				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "3404A3CF5E697741"
@@ -1600,7 +1600,7 @@
 			id: "0E628389D09DC111"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:aging_barrel_recipes_completion"
+				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "61A0228ABD451689"
@@ -1622,7 +1622,7 @@
 			id: "3E1A71DEDE5FF098"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:aging_barrel_recipes_completion"
+				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "43450C1A7C0E275E"
@@ -1644,7 +1644,7 @@
 			id: "61162518A74AB64A"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:aging_barrel_recipes_completion"
+				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "3E2EAE9849BE956E"
@@ -1763,7 +1763,7 @@
 			id: "0AC1A5768819D843"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cheese_press_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cheese_press_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "2FA1BC7157AA7FBB"
@@ -1785,7 +1785,7 @@
 			id: "5649D037ED8CED69"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cheese_press_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cheese_press_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "13B789E250A6703B"
@@ -1807,7 +1807,7 @@
 			id: "38C853BD616F172C"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cheese_press_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cheese_press_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "79F24D72A45C512B"
@@ -1829,7 +1829,7 @@
 			id: "4DEF3E5465001C03"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cheese_press_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cheese_press_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "131B12C2474F1D3E"
@@ -1851,7 +1851,7 @@
 			id: "7ADCA9256E3D1BC2"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cheese_press_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cheese_press_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "450131D8004FB02C"
@@ -1873,7 +1873,7 @@
 			id: "189F329A98D467FE"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cheese_press_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cheese_press_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "2C483DE209E9FCF1"
@@ -1895,7 +1895,7 @@
 			id: "15DDCA904ED304B4"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cheese_press_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cheese_press_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "3DA2CAFC7D6DB269"
@@ -1917,7 +1917,7 @@
 			id: "2BB8B7F1C3A43F36"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cheese_press_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cheese_press_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "4306EF21376B5832"
@@ -1939,7 +1939,7 @@
 			id: "5950A6A012F596ED"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cheese_press_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cheese_press_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "1773B21F3AEB01F8"
@@ -1961,7 +1961,7 @@
 			id: "1B1A51F6AAD1FEC8"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cheese_press_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cheese_press_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "783CDCC65F3C7F9E"
@@ -2062,7 +2062,7 @@
 			id: "237F51C7ECA00F7F"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "059AF4CB86DBB9A1"
@@ -2084,7 +2084,7 @@
 			id: "2BE369B845E8826A"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "4586DBC848EBC7A6"
@@ -2106,7 +2106,7 @@
 			id: "38A9B3CCF32F4128"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "7783BC3ED6BFDE71"
@@ -2128,7 +2128,7 @@
 			id: "186CC10956B5B2B5"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "16B9AABF7F867268"
@@ -2150,7 +2150,7 @@
 			id: "255100D73663C879"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "522867E7C5C192B2"
@@ -2172,7 +2172,7 @@
 			id: "33F8A6FFB0745F55"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "52D2C4E35AD32028"
@@ -2194,7 +2194,7 @@
 			id: "5398D48B4A8F39F2"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "2220423327951956"
@@ -2216,7 +2216,7 @@
 			id: "4E62B57C3181F9BF"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "5AFB8306F45FC589"
@@ -2238,7 +2238,7 @@
 			id: "4D72D42579777DB8"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "22E2292525F0C5F3"
@@ -2292,7 +2292,7 @@
 			id: "2F95D0CCC5373F20"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cooking_pan_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cooking_pan_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "71DDAC25B9C94B5D"
@@ -2314,7 +2314,7 @@
 			id: "2C5F3F5282699ADC"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cooking_pan_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cooking_pan_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "306182E2F8500A2F"
@@ -2336,7 +2336,7 @@
 			id: "5562867C8991E382"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cooking_pan_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cooking_pan_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "552904DAC1982FD0"
@@ -2358,7 +2358,7 @@
 			id: "01C5F36EA3F8CFB2"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cooking_pan_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cooking_pan_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "5C73018AB313254E"
@@ -2380,7 +2380,7 @@
 			id: "3566C2114BBBB697"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cooking_pan_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cooking_pan_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "4891A6FF7C67A437"
@@ -2402,7 +2402,7 @@
 			id: "2C79D805EEE88CDB"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cooking_pan_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cooking_pan_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "4EDFD38D9F3B2E1C"
@@ -2424,7 +2424,7 @@
 			id: "6D098667CB82A202"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cooking_pan_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cooking_pan_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "3718D4D029B0257A"
@@ -2446,7 +2446,7 @@
 			id: "5D71A19F24327AE8"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cooking_pan_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cooking_pan_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "4E692846A12FC35D"
@@ -2468,7 +2468,7 @@
 			id: "2F216952B68E440C"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cooking_pan_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cooking_pan_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "0CE2180918AAC80D"
@@ -2490,7 +2490,7 @@
 			id: "07DA8FB6F3351147"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cooking_pan_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cooking_pan_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "1D777574B3C6EA97"
@@ -2512,7 +2512,7 @@
 			id: "4DDFC4636A780F31"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cooking_pan_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cooking_pan_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "232FE0286A00859A"
@@ -2620,7 +2620,7 @@
 			id: "2D10F45201A28DE1"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:regular_crafting_recipes_completion"
+				command: "/function fc_collection:cooking_collection_regular_crafting_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "19F06593B0C0D2D8"
@@ -2642,7 +2642,7 @@
 			id: "5F7BCE45D5C5DE93"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:regular_crafting_recipes_completion"
+				command: "/function fc_collection:cooking_collection_regular_crafting_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "5E18494EA8DB8E66"
@@ -2664,7 +2664,7 @@
 			id: "42AE3560994A58DF"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:regular_crafting_recipes_completion"
+				command: "/function fc_collection:cooking_collection_regular_crafting_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "48E861B14A74CD3C"
@@ -2686,7 +2686,7 @@
 			id: "3FA4B21B33D23B69"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:regular_crafting_recipes_completion"
+				command: "/function fc_collection:cooking_collection_regular_crafting_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "23BB72376014B668"
@@ -2708,7 +2708,7 @@
 			id: "5E5CFC017C3AAA8C"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:regular_crafting_recipes_completion"
+				command: "/function fc_collection:cooking_collection_regular_crafting_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "30BA1A9CCDACE6C9"
@@ -2730,7 +2730,7 @@
 			id: "2009969084AFEB8A"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:regular_crafting_recipes_completion"
+				command: "/function fc_collection:cooking_collection_regular_crafting_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "350CEEA9999B87D4"
@@ -2781,7 +2781,7 @@
 			id: "1F00361BF50D843F"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:mini_fridge_recipes_completion"
+				command: "/function fc_collection:cooking_collection_mini_fridge_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "23EBEFB6E97F5871"
@@ -2803,7 +2803,7 @@
 			id: "5FBFB159A6F06B42"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:mini_fridge_recipes_completion"
+				command: "/function fc_collection:cooking_collection_mini_fridge_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "250EB76E63185692"
@@ -2825,7 +2825,7 @@
 			id: "558607A286044043"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:mini_fridge_recipes_completion"
+				command: "/function fc_collection:cooking_collection_mini_fridge_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "73877B2C10373C5C"
@@ -2847,7 +2847,7 @@
 			id: "56C1817555C8F9D8"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:mini_fridge_recipes_completion"
+				command: "/function fc_collection:cooking_collection_mini_fridge_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "1B2EF677D17823A8"
@@ -2869,7 +2869,7 @@
 			id: "378B2462C86DE618"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:mini_fridge_recipes_completion"
+				command: "/function fc_collection:cooking_collection_mini_fridge_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "09D394D7CB8A9948"
@@ -2891,7 +2891,7 @@
 			id: "59C220B431363325"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:mini_fridge_recipes_completion"
+				command: "/function fc_collection:cooking_collection_mini_fridge_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "4EBFC4005DD958B2"
@@ -2913,7 +2913,7 @@
 			id: "7F21A44D22588358"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:mini_fridge_recipes_completion"
+				command: "/function fc_collection:cooking_collection_mini_fridge_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "3A7CB986D0702200"
@@ -2935,7 +2935,7 @@
 			id: "4A4D7C57DB78CDF6"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:mini_fridge_recipes_completion"
+				command: "/function fc_collection:cooking_collection_mini_fridge_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "0A4CC83F8B16D70F"
@@ -2988,7 +2988,7 @@
 			id: "5F6E1234B486AC08"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:tiki_bar_recipes_completion"
+				command: "/function fc_collection:cooking_collection_tiki_bar_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "72FE8E16B4833300"
@@ -3010,7 +3010,7 @@
 			id: "4ABEA7073D519001"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:tiki_bar_recipes_completion"
+				command: "/function fc_collection:cooking_collection_tiki_bar_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "114F5B1D66F29716"
@@ -3032,7 +3032,7 @@
 			id: "2D4DABF1FD6F2010"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:tiki_bar_recipes_completion"
+				command: "/function fc_collection:cooking_collection_tiki_bar_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "0F855FEAFB5A3934"
@@ -3054,7 +3054,7 @@
 			id: "60B0C7C54A62DD10"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:tiki_bar_recipes_completion"
+				command: "/function fc_collection:cooking_collection_tiki_bar_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "35EC720CD84B290C"
@@ -3076,7 +3076,7 @@
 			id: "09B6C9B502C8BA02"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:tiki_bar_recipes_completion"
+				command: "/function fc_collection:cooking_collection_tiki_bar_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "20F8B6DEDF7ED55A"
@@ -3098,7 +3098,7 @@
 			id: "72BC45E63CF01BB0"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:tiki_bar_recipes_completion"
+				command: "/function fc_collection:cooking_collection_tiki_bar_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "3BDFF9A078E0CD08"
@@ -3120,7 +3120,7 @@
 			id: "21E2955791DA5B6B"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:tiki_bar_recipes_completion"
+				command: "/function fc_collection:cooking_collection_tiki_bar_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "608852669A301E9B"
@@ -3142,7 +3142,7 @@
 			id: "4B4289A8C4BA3C41"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:tiki_bar_recipes_completion"
+				command: "/function fc_collection:cooking_collection_tiki_bar_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "56C059E11457CDF0"
@@ -3164,7 +3164,7 @@
 			id: "3B81A6DFDFBE7ADB"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:tiki_bar_recipes_completion"
+				command: "/function fc_collection:cooking_collection_tiki_bar_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "25160B2FD82FF5C0"
@@ -3264,7 +3264,7 @@
 			id: "68D8C00BC8BFFD84"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:delightful_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_delightful_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "3C0325A10AEF2FA2"
@@ -3286,7 +3286,7 @@
 			id: "6F41ADE1A4B19A15"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:delightful_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_delightful_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "2DDBA24FC2736D75"
@@ -3308,7 +3308,7 @@
 			id: "7CE8B8CA61C19A6C"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:delightful_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_delightful_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "54B7299D4C09CBA5"
@@ -3330,7 +3330,7 @@
 			id: "64A76611478AC550"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:delightful_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_delightful_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "1AD5EA14FF961DA3"
@@ -3352,7 +3352,7 @@
 			id: "26465EDAD42D5D65"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:delightful_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_delightful_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "168D3BCFF2B4EF41"
@@ -3374,7 +3374,7 @@
 			id: "080F099D867AD981"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:delightful_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_delightful_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "0D4368E412D5F5AD"
@@ -3396,7 +3396,7 @@
 			id: "0F4F6279AE33D15B"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:delightful_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_delightful_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "2E37D4CFBEB307B6"
@@ -3418,7 +3418,7 @@
 			id: "7D8AFF4CC63C1DC9"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:delightful_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_delightful_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "45537D11CD65D564"
@@ -3440,7 +3440,7 @@
 			id: "5E4AAB26E666C416"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:delightful_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_delightful_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "0D4764B023B696EA"
@@ -3462,7 +3462,7 @@
 			id: "24CDD19FAF7C7EA4"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:delightful_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_delightful_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "07CA9282487960F1"
@@ -3517,7 +3517,7 @@
 			id: "2E8077F10BBCEB45"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:alexs_delight_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_alexs_delight_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "3AFAA5DA88BFD572"
@@ -3539,7 +3539,7 @@
 			id: "1694E33167BE2867"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:alexs_delight_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_alexs_delight_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "74660504D4A9E511"
@@ -3561,7 +3561,7 @@
 			id: "040A2573E084C374"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:alexs_delight_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_alexs_delight_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "183E346DAD9665CF"
@@ -3583,7 +3583,7 @@
 			id: "7A6D22E09FFC3978"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:alexs_delight_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_alexs_delight_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "0A073130BA7B986A"
@@ -3632,7 +3632,7 @@
 			id: "15B4A29DDAB57C1C"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:aquaculture_delight_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_aquaculture_delight_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "676441BA5718BB04"
@@ -3654,7 +3654,7 @@
 			id: "594FB7C9156D17D7"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:aquaculture_delight_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_aquaculture_delight_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "63630D804AAAF75B"
@@ -3676,7 +3676,7 @@
 			id: "7D52503D5C008EEE"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:aquaculture_delight_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_aquaculture_delight_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "075A91C95B128158"
@@ -3698,7 +3698,7 @@
 			id: "01E85EC788315F8F"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:aquaculture_delight_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_aquaculture_delight_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "406CD5E736DEA350"
@@ -3720,7 +3720,7 @@
 			id: "3840403EA9CB2952"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:aquaculture_delight_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_aquaculture_delight_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "53E78687881377A2"
@@ -3742,7 +3742,7 @@
 			id: "05315256C0B34085"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:aquaculture_delight_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_aquaculture_delight_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "156B3E7117198512"
@@ -3764,7 +3764,7 @@
 			id: "43B4B8774B8CE218"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:aquaculture_delight_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_aquaculture_delight_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "75AB42BCDB592708"
@@ -3786,7 +3786,7 @@
 			id: "46708223F1740A6B"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:aquaculture_delight_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_aquaculture_delight_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "273FC8092E467519"
@@ -3808,7 +3808,7 @@
 			id: "291BF70A97FDED81"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:aquaculture_delight_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_aquaculture_delight_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "35EE3D528A25D066"
@@ -3830,7 +3830,7 @@
 			id: "501E569E8BEAE3CE"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:aquaculture_delight_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_aquaculture_delight_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "1A69FE2AFB91A5DE"
@@ -3852,7 +3852,7 @@
 			id: "0590D353B404691A"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:aquaculture_delight_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_aquaculture_delight_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "4936D4CD13AE7960"
@@ -3908,7 +3908,7 @@
 			id: "537323A7EEAA77E0"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:farmers_delight_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "65D36765F388F300"
@@ -3930,7 +3930,7 @@
 			id: "5D2AE0847C5CC600"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:farmers_delight_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "426216764F481108"
@@ -3952,7 +3952,7 @@
 			id: "248FBC2E07CE6486"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:farmers_delight_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "37494619237A5BEF"
@@ -3974,7 +3974,7 @@
 			id: "75F845ED022F4BB2"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:farmers_delight_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "646790914D9F4C04"
@@ -3996,7 +3996,7 @@
 			id: "6F7727A28E446001"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:farmers_delight_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "7A566F1D710CF7B8"
@@ -4018,7 +4018,7 @@
 			id: "5C45BF8BC926F6B4"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:farmers_delight_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "62EC2976F19934E3"
@@ -4040,7 +4040,7 @@
 			id: "5E266201DDDA69F8"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:farmers_delight_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "07A48A383EAB8094"
@@ -4062,7 +4062,7 @@
 			id: "2888566D253D06B6"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:farmers_delight_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "365CD756E7AAEA50"
@@ -4084,7 +4084,7 @@
 			id: "198DC68F7344C985"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:farmers_delight_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "5AF4BF189BE29034"
@@ -4106,7 +4106,7 @@
 			id: "4846894904926BD1"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:farmers_delight_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "4856AF763A301976"
@@ -4128,7 +4128,7 @@
 			id: "108E31CE66261D6A"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:farmers_delight_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "016D7DEB2DF84D15"
@@ -4150,7 +4150,7 @@
 			id: "004B69A07DC118D7"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:farmers_delight_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "3B7E4649C95114BF"
@@ -4172,7 +4172,7 @@
 			id: "23EF22020DCC6360"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:farmers_delight_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "21FFE1F68FA7BEBB"
@@ -4194,7 +4194,7 @@
 			id: "6401D63FEC664E58"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:farmers_delight_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "28B8F856CAF6A14D"
@@ -4216,7 +4216,7 @@
 			id: "507C1D926D78F353"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:farmers_delight_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "01F0BE04D4C28D55"
@@ -4238,7 +4238,7 @@
 			id: "659B10DBEE970758"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:farmers_delight_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "7C9DE2B43F04D537"
@@ -4260,7 +4260,7 @@
 			id: "1FE2711DEC73EBCC"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:farmers_delight_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "373B37AED9EC2DD8"
@@ -4282,7 +4282,7 @@
 			id: "3FEAB699E8971D11"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:farmers_delight_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "76FD491EAFA1C47C"
@@ -4304,7 +4304,7 @@
 			id: "07F879D47AC02CC2"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:farmers_delight_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "0753CEA71D7DABFC"
@@ -4326,7 +4326,7 @@
 			id: "7E454C91F7E3021F"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:farmers_delight_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "4BE173787CE66BC4"
@@ -4348,7 +4348,7 @@
 			id: "4F58C0743CABFEC1"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:farmers_delight_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "347B43B861A1ED67"
@@ -4370,7 +4370,7 @@
 			id: "46D19307E3033181"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:farmers_delight_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "46017CDD5959C54B"
@@ -4392,7 +4392,7 @@
 			id: "373F7DEAA6C5F0E0"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:farmers_delight_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "6E343D70B866006B"
@@ -4414,7 +4414,7 @@
 			id: "0EC35D6A6E854B5E"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:farmers_delight_cooking_pot_recipes_completion"
+				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "43A22555D5F756F1"
@@ -4483,7 +4483,7 @@
 			id: "64AE5E3B58DC56F1"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cuisine_delight_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cuisine_delight_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "773471DADD7FA63F"
@@ -4505,7 +4505,7 @@
 			id: "052838D5F644D93A"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cuisine_delight_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cuisine_delight_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "332C822F28DCD1E7"
@@ -4527,7 +4527,7 @@
 			id: "1EE89C7CC741B83A"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cuisine_delight_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cuisine_delight_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "5C6F241E14BE0A61"
@@ -4549,7 +4549,7 @@
 			id: "55A3E617BC9CDC1B"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cuisine_delight_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cuisine_delight_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "15DA41AC253C981E"
@@ -4571,7 +4571,7 @@
 			id: "0D339FA5326B27C9"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cuisine_delight_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cuisine_delight_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "748662A65B581F96"
@@ -4593,7 +4593,7 @@
 			id: "2FCCF6D3C4ECE1BF"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cuisine_delight_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cuisine_delight_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "66A4BE6E94FE1CB7"
@@ -4615,7 +4615,7 @@
 			id: "0AA9701617DFE37E"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cuisine_delight_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cuisine_delight_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "41351E696E108066"
@@ -4637,7 +4637,7 @@
 			id: "338CCDB7DF20C0DF"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cuisine_delight_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cuisine_delight_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "2E05A435A81F1F80"
@@ -4659,7 +4659,7 @@
 			id: "76CF03ECBF97D9AE"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cuisine_delight_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cuisine_delight_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "191F48056C83FEF4"
@@ -4681,7 +4681,7 @@
 			id: "6B5875ABA4666213"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cuisine_delight_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cuisine_delight_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "23DEA12BF1681159"
@@ -4703,7 +4703,7 @@
 			id: "388B5E33AA517C48"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cuisine_delight_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cuisine_delight_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "7C27693D035298AB"
@@ -4725,7 +4725,7 @@
 			id: "027A75BD5AECBB44"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cuisine_delight_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cuisine_delight_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "0F2F3D4E11E3999A"
@@ -4747,7 +4747,7 @@
 			id: "75A2FC2FD2B32E82"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cuisine_delight_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cuisine_delight_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "2D2CA1B1C4FB3305"
@@ -4769,7 +4769,7 @@
 			id: "0B6616B20DB77358"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cuisine_delight_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cuisine_delight_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "720BC9B863D5B4BC"
@@ -4791,7 +4791,7 @@
 			id: "71FEF98FB17309FE"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cuisine_delight_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cuisine_delight_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "6B26E91BF474F17C"
@@ -4813,7 +4813,7 @@
 			id: "58203E2F629D564E"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cuisine_delight_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cuisine_delight_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "2955154E7AA20B69"
@@ -4835,7 +4835,7 @@
 			id: "1D7E64490E853170"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cuisine_delight_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cuisine_delight_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "3A03221DD3C54C1C"
@@ -4857,7 +4857,7 @@
 			id: "42FB1EC02E41A404"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cuisine_delight_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cuisine_delight_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "3AE1C8DFF92CA4EB"
@@ -4879,7 +4879,7 @@
 			id: "04BB57D3C7566697"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cuisine_delight_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cuisine_delight_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "20C53AEA71865A04"
@@ -4901,7 +4901,7 @@
 			id: "0965D8B33DEC39DA"
 			rewards: [{
 				auto: "invisible"
-				command: "/function fc_collection:cuisine_delight_recipes_completion"
+				command: "/function fc_collection:cooking_collection_cuisine_delight_recipes_completion"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "69C76B786E19CF6B"
