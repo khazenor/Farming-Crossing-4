@@ -1,0 +1,1 @@
+tellraw @p ["",{"text":"<Jess> ","color":"aqua"},{"text":"As you discover more and more about this new land, you’ll be rewarded with Miles Tickets for your efforts. These are as good as gold! Craft a market, and you’ll see what I mean.","color":"white"}]

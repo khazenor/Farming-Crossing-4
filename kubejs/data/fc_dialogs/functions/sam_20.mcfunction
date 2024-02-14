@@ -1,0 +1,1 @@
+tellraw @p ["",{"text":"<Sam> ","color":"aqua"},{"text":"I see you have caught 20 different fishes. That’s quite an impressive haul. Indeed, I’d like to evaluate the quality of your catch in person. If you prepare a space for me, I will open a sushi stall nearby","color":"white"}]

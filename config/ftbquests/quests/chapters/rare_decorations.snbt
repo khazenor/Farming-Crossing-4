@@ -4,7 +4,7 @@
 	filename: "rare_decorations"
 	group: "5326E5A8132593FA"
 	icon: "moa_decor_art:premiooscar"
-	id: "18645259DBDA8922"
+	id: "226D4B9865943B86"
 	order_index: 6
 	quest_links: [ ]
 	quests: [
@@ -12,958 +12,456 @@
 			dependencies: ["7DA124C26F220448"]
 			disable_toast: true
 			hide: true
-			id: "63E76DF0009F4FAD"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "5BCEDA87E104055F"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "2554CF8C621CE57C"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "2A7BBD43CB45C9B6"
-				item: "moa_decor_art:esculturabuda"
-				type: "item"
+			id: "5B9CC053272B46FB"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_statues_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3743EC7E078B25B9"
+				silent: true
+				type: "command"
 			}]
-			x: 0.0d
-			y: 0.0d
-		}
-		{
-			dependencies: ["7DA124C26F220448"]
-			disable_toast: true
-			hide: true
-			id: "1F1B9DE7AC2CDA3D"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "06D922DA4ADCFF58"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "4EAF9825284843F4"
-					silent: true
-					type: "command"
-				}
-			]
 			tasks: [{
-				id: "1669FA1F0F76902C"
-				item: "moa_decor_art:esculturachacmool"
-				type: "item"
-			}]
-			x: 1.0d
-			y: 0.0d
-		}
-		{
-			dependencies: ["7DA124C26F220448"]
-			disable_toast: true
-			hide: true
-			id: "080E06114495234C"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "6BFACB540CB05492"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "6583B8BFDEF615B5"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "4AF359BE7564C30E"
-				item: "moa_decor_art:esculturadragonchino"
-				type: "item"
-			}]
-			x: 2.0d
-			y: 0.0d
-		}
-		{
-			dependencies: ["7DA124C26F220448"]
-			disable_toast: true
-			hide: true
-			id: "74677180DBB925E1"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "7F914228F486EFBF"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "322495E241C28181"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "1A74E10C132613ED"
+				id: "59FF020FA2E34D23"
 				item: "moa_decor_art:esculturaeldavid"
 				type: "item"
 			}]
-			x: 3.0d
+			x: 0.0d
 			y: 0.0d
 		}
 		{
 			dependencies: ["7DA124C26F220448"]
 			disable_toast: true
 			hide: true
-			id: "7A08BF49DAE900EB"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "50573EB20115CC0D"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "377AB54AC16C84FC"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "7A5D28FF7F2F8F16"
-				item: "moa_decor_art:esculturaeldiscobolo"
-				type: "item"
+			id: "35375C1922E920D5"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_statues_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0F4F3F0C64D64A81"
+				silent: true
+				type: "command"
 			}]
-			x: 4.0d
-			y: 0.0d
-		}
-		{
-			dependencies: ["7DA124C26F220448"]
-			disable_toast: true
-			hide: true
-			id: "6EFDFA40A927DA64"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "2D8A82B7E36B6222"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "028519FC0EB9B4DB"
-					silent: true
-					type: "command"
-				}
-			]
 			tasks: [{
-				id: "7C90CCDB97D97E74"
+				id: "2FC67D7927943C15"
 				item: "moa_decor_art:esculturaelpensador"
 				type: "item"
 			}]
-			x: 5.0d
+			x: 1.0d
 			y: 0.0d
 		}
 		{
 			dependencies: ["7DA124C26F220448"]
 			disable_toast: true
 			hide: true
-			id: "502585DE98E9C746"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "2E370AEF40EF8EF9"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "43419C1B1CCDDE46"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "05CD3CDC4AD47633"
-				item: "moa_decor_art:esculturajesuscrucificado"
-				type: "item"
+			id: "480FE5C9FBD01CCB"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_statues_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5740B3B11926B97B"
+				silent: true
+				type: "command"
 			}]
-			x: 0.0d
-			y: 1.0d
-		}
-		{
-			dependencies: ["7DA124C26F220448"]
-			disable_toast: true
-			hide: true
-			id: "1F0AFE84F64FFD54"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "3316A3E51CCF0FB0"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "65601F55520F1E1C"
-					silent: true
-					type: "command"
-				}
-			]
 			tasks: [{
-				id: "435FB98F881C9F26"
-				item: "moa_decor_art:esculturalavictoriodesamotracia"
-				type: "item"
-			}]
-			x: 1.0d
-			y: 1.0d
-		}
-		{
-			dependencies: ["7DA124C26F220448"]
-			disable_toast: true
-			hide: true
-			id: "6A64ECA14DC127C7"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "76BE48452F67DFEB"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "7A4173328556EE20"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "605BC4C66E70BAA5"
-				item: "moa_decor_art:esculturamujerconjarra"
+				id: "0A1F7781181D7445"
+				item: "moa_decor_art:esculturaeldiscobolo"
 				type: "item"
 			}]
 			x: 2.0d
-			y: 1.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["7DA124C26F220448"]
 			disable_toast: true
 			hide: true
-			id: "6EE7F44E34C8C09A"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "1595C71E42336B71"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "55BBBD5948A8836B"
-					silent: true
-					type: "command"
-				}
-			]
+			id: "0077CBEC39A13073"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_statues_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "79B829024FF92E18"
+				silent: true
+				type: "command"
+			}]
 			tasks: [{
-				id: "33C5D73212E9ADFD"
+				id: "3592B587CFAE8EB3"
 				item: "moa_decor_art:esculturavenusdemilo"
 				type: "item"
 			}]
 			x: 3.0d
-			y: 1.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["7DA124C26F220448"]
 			disable_toast: true
 			hide: true
-			id: "62821E070CBD8312"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "67AAC6AA22B64031"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "6FC1B46D420191AE"
-					silent: true
-					type: "command"
-				}
-			]
+			id: "78AE1C02D3D72403"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_statues_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2865442CC1567A37"
+				silent: true
+				type: "command"
+			}]
 			tasks: [{
-				id: "37FAF35B6F9AC1E0"
-				item: "moa_decor_art:premiooscar"
+				id: "0850A8BCA5E744D2"
+				item: "moa_decor_art:esculturalavictoriodesamotracia"
 				type: "item"
 			}]
 			x: 4.0d
-			y: 1.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["7DA124C26F220448"]
 			disable_toast: true
 			hide: true
-			id: "22F6405431B17B3B"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "31CF2653A06FA2E8"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "7B9679F9900184B3"
-					silent: true
-					type: "command"
-				}
-			]
+			id: "5C60B0B3F51E4B7A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_statues_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7C026A2823B07169"
+				silent: true
+				type: "command"
+			}]
 			tasks: [{
-				id: "1BCB3502ED1EE9DC"
-				item: "moa_decor_art:pelgrito"
+				id: "3F783D957E44C80C"
+				item: "moa_decor_art:esculturamujerconjarra"
 				type: "item"
 			}]
 			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "10D4E0E67F139C63"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_statues_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3B8FC968CC3C3307"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "66BA8234D2F988BC"
+				item: "moa_decor_art:esculturadragonchino"
+				type: "item"
+			}]
+			x: 0.0d
 			y: 1.0d
 		}
 		{
 			dependencies: ["7DA124C26F220448"]
 			disable_toast: true
 			hide: true
-			id: "0809A9237F05205A"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "4DD98BB3A1371CB4"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "3A030334961AC7EB"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "5513BF4B781C4974"
-				item: "moa_decor_art:pgoticoestadounidense"
-				type: "item"
+			id: "32495AECBCDE982C"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_statues_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "71E829C0F2EFE968"
+				silent: true
+				type: "command"
 			}]
-			x: 0.0d
-			y: 2.0d
-		}
-		{
-			dependencies: ["7DA124C26F220448"]
-			disable_toast: true
-			hide: true
-			id: "23E18DF66D72C690"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "145CB4357D75AA86"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "5D18BFC56BA4F8F7"
-					silent: true
-					type: "command"
-				}
-			]
 			tasks: [{
-				id: "1E0BF4C37E9379B5"
-				item: "moa_decor_art:plajovendelaperla"
+				id: "2356138DFB4B4750"
+				item: "moa_decor_art:esculturachacmool"
 				type: "item"
 			}]
 			x: 1.0d
-			y: 2.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["7DA124C26F220448"]
 			disable_toast: true
 			hide: true
-			id: "384A5D41F300A0BC"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "46FC6A4B0F1031E9"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "5408976F92CBCF37"
-					silent: true
-					type: "command"
-				}
-			]
+			id: "227B4F1BE2D88019"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_statues_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6139D9D41E35B7D3"
+				silent: true
+				type: "command"
+			}]
 			tasks: [{
-				id: "4A4BEBFF0FBA7863"
-				item: "moa_decor_art:planocheestrellada"
+				id: "5606DF987AB68F67"
+				item: "moa_decor_art:esculturabuda"
 				type: "item"
 			}]
 			x: 2.0d
-			y: 2.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["7DA124C26F220448"]
 			disable_toast: true
 			hide: true
-			id: "0E54B87EA3337D21"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "76D1AA3AF7601148"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "64CEC44B52225A1E"
-					silent: true
-					type: "command"
-				}
-			]
+			id: "1844FF1662039861"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_statues_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "51F3FEB075A6703D"
+				silent: true
+				type: "command"
+			}]
 			tasks: [{
-				id: "7BFD8A1CE49A99F8"
-				item: "moa_decor_art:plamonalisa"
+				id: "3694DB847CE15864"
+				item: "moa_decor_art:esculturajesuscrucificado"
 				type: "item"
 			}]
 			x: 3.0d
-			y: 2.0d
+			y: 1.0d
 		}
 		{
-			dependencies: ["7DA124C26F220448"]
-			disable_toast: true
-			hide: true
-			id: "69CD2E4184EEF711"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "6E7BA6EDBF802668"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "32F8B1E88B1306E9"
-					silent: true
-					type: "command"
-				}
+			dependencies: [
+				"5B9CC053272B46FB"
+				"35375C1922E920D5"
+				"480FE5C9FBD01CCB"
+				"0077CBEC39A13073"
+				"78AE1C02D3D72403"
+				"5C60B0B3F51E4B7A"
+				"10D4E0E67F139C63"
+				"32495AECBCDE982C"
+				"227B4F1BE2D88019"
+				"1844FF1662039861"
 			]
-			tasks: [{
-				id: "2D494535BFAC7511"
-				item: "moa_decor_art:pserenatamexicana"
+			icon: "moa_decor_art:esculturaelpensador"
+			id: "0259BDD347FBCFD9"
+			rewards: [{
+				count: 20
+				id: "7BABBBE86D7BC9F8"
+				item: "kubejs:miles_ticket"
 				type: "item"
 			}]
-			x: 4.0d
-			y: 2.0d
-		}
-		{
-			dependencies: ["7DA124C26F220448"]
-			disable_toast: true
-			hide: true
-			id: "7FC1CFCAF17BC8EE"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "6CEA766458F7EFEA"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "2B3FD309AC685E15"
-					silent: true
-					type: "command"
-				}
-			]
 			tasks: [{
-				id: "47AE3DEA95E74FD3"
-				item: "moa_decor_art:premiogrammy"
-				type: "item"
+				icon: "minecraft:glass"
+				id: "23C049102F7DB735"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
 			}]
-			x: 5.0d
-			y: 2.0d
+			title: "Statues Completion"
+			x: -1.0d
+			y: 0.5d
 		}
 		{
 			dependencies: ["7DA124C26F220448"]
 			disable_toast: true
 			hide: true
-			id: "1ADB42F6FFEEEE7D"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "2BB73D818450CFC8"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "62F77246D469F738"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "69D7D821DDED0913"
-				item: "moa_decor_art:pianodecola"
-				type: "item"
+			id: "42AED6C4F5A3658A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_mob_trophies_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2ACA5E5FA416D96E"
+				silent: true
+				type: "command"
 			}]
-			x: 0.0d
-			y: 3.0d
-		}
-		{
-			dependencies: ["7DA124C26F220448"]
-			disable_toast: true
-			hide: true
-			id: "07BD2E9F50B23F01"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "61760A1208306055"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "6AFD183B0FFAD45C"
-					silent: true
-					type: "command"
-				}
-			]
 			tasks: [{
-				id: "57FE86A87FDDEA2C"
-				item: "moa_decor_art:fonografo"
-				type: "item"
-			}]
-			x: 1.0d
-			y: 3.0d
-		}
-		{
-			dependencies: ["7DA124C26F220448"]
-			disable_toast: true
-			hide: true
-			id: "261CC110652A68E2"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "014CABFA1EC6BAED"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "3A72039FF93A72E1"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "27CF38A1D6747EB6"
-				item: "moa_decor_art:maquinadediscos"
-				type: "item"
-			}]
-			x: 2.0d
-			y: 3.0d
-		}
-		{
-			dependencies: ["7DA124C26F220448"]
-			disable_toast: true
-			hide: true
-			id: "1E5AD04F7E99FDF4"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "2911ACB3233A1F94"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "4DC752D15BECB567"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "6B5849B3482241C2"
-				item: "moa_decor_holidays:olladeoro"
-				type: "item"
-			}]
-			x: 3.0d
-			y: 3.0d
-		}
-		{
-			dependencies: ["7DA124C26F220448"]
-			disable_toast: true
-			hide: true
-			id: "2443AADE1565FDEB"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "16943E3E5AFA225F"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "042AB28C65FA29D7"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "73F4E1465808A14F"
-				item: "moa_decor_holidays:trineo"
-				type: "item"
-			}]
-			x: 4.0d
-			y: 3.0d
-		}
-		{
-			dependencies: ["7DA124C26F220448"]
-			disable_toast: true
-			hide: true
-			id: "57FFE612A60C7125"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "454D0B714F84A910"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "4C668C518EC1F370"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "79885A729FCD43BE"
-				item: "handcrafted:creeper_trophy"
-				type: "item"
-			}]
-			x: 5.0d
-			y: 3.0d
-		}
-		{
-			dependencies: ["7DA124C26F220448"]
-			disable_toast: true
-			hide: true
-			id: "3536160081F124BA"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "076CFC56F822BEBF"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "3DC219A84D8D9BC0"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "3E4A825A098EBD3A"
-				item: "handcrafted:skeleton_trophy"
-				type: "item"
-			}]
-			x: 0.0d
-			y: 4.0d
-		}
-		{
-			dependencies: ["7DA124C26F220448"]
-			disable_toast: true
-			hide: true
-			id: "2AD4E1B8051C38F9"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "73D29898B95F1F32"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "5178987E219FF599"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "5E146E75F8C78565"
-				item: "handcrafted:vindicator_trophy"
-				type: "item"
-			}]
-			x: 1.0d
-			y: 4.0d
-		}
-		{
-			dependencies: ["7DA124C26F220448"]
-			disable_toast: true
-			hide: true
-			id: "54F4965D87C8F5C7"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "227C8B9A96499EC2"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "3776A1E9E4D92587"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "01B2F2DA8D0673ED"
-				item: "handcrafted:witch_trophy"
-				type: "item"
-			}]
-			x: 2.0d
-			y: 4.0d
-		}
-		{
-			dependencies: ["7DA124C26F220448"]
-			disable_toast: true
-			hide: true
-			id: "00B3C432B1405102"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "180531A9F5EE5AF3"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "03D4EC3A5E6BDE06"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "740546112B326685"
+				id: "732AA026B8D6D2F2"
 				item: "handcrafted:phantom_trophy"
 				type: "item"
 			}]
-			x: 3.0d
-			y: 4.0d
+			x: 0.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["7DA124C26F220448"]
 			disable_toast: true
 			hide: true
-			id: "6805093097577877"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "43B4ED0D27A1D99F"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "06AF7BFB174A1C8E"
-					silent: true
-					type: "command"
-				}
-			]
+			id: "08AAB4409E08362C"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_mob_trophies_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7A6F6D853AAFD2DE"
+				silent: true
+				type: "command"
+			}]
 			tasks: [{
-				id: "7F1DC630976544B6"
+				id: "733A86CBB75C71E1"
+				item: "handcrafted:creeper_trophy"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "7D06FAE3FE035519"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_mob_trophies_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6BA9C5E1AE870D11"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "686D2773893C31CC"
+				item: "handcrafted:skeleton_trophy"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5294D8DB92D4B9AF"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_mob_trophies_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "15D3EBE75656EAAD"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4964BFE1D10710F9"
+				item: "handcrafted:evoker_trophy"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "68F502129C33EE3D"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_mob_trophies_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "76DFAF3807BE13FC"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1861A11519944411"
 				item: "handcrafted:pillager_trophy"
 				type: "item"
 			}]
 			x: 4.0d
-			y: 4.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["7DA124C26F220448"]
 			disable_toast: true
 			hide: true
-			id: "263F670B1DBAF786"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "21C531D464BBB81D"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "397003817C88856A"
-					silent: true
-					type: "command"
-				}
-			]
+			id: "2D6E1D4C985F8F68"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_mob_trophies_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7D7E293C8190DB61"
+				silent: true
+				type: "command"
+			}]
 			tasks: [{
-				id: "5E19E866B0F0DAAB"
-				item: "handcrafted:evoker_trophy"
+				id: "22D344DAE86A2D5E"
+				item: "handcrafted:vindicator_trophy"
 				type: "item"
 			}]
 			x: 5.0d
-			y: 4.0d
+			y: 2.5d
 		}
 		{
 			dependencies: ["7DA124C26F220448"]
 			disable_toast: true
 			hide: true
-			id: "04B69D191F5D0EFD"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "71C45BB61BDF4500"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "522AA1755C6C167C"
-					silent: true
-					type: "command"
-				}
-			]
+			id: "3EA0D774547ABEC5"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_mob_trophies_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3CB357CB816280B5"
+				silent: true
+				type: "command"
+			}]
 			tasks: [{
-				id: "5557CBB45D9AA35D"
-				item: "kubejs:oneul_april_daisy"
+				id: "209AF5EBC06C252D"
+				item: "handcrafted:witch_trophy"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			dependencies: [
+				"42AED6C4F5A3658A"
+				"08AAB4409E08362C"
+				"7D06FAE3FE035519"
+				"5294D8DB92D4B9AF"
+				"68F502129C33EE3D"
+				"2D6E1D4C985F8F68"
+				"3EA0D774547ABEC5"
+			]
+			icon: "handcrafted:creeper_trophy"
+			id: "32DB845FFA5572ED"
+			rewards: [{
+				count: 11
+				id: "202247E9938173A0"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "00DD4198A6DCE392"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Mob Trophies Completion"
+			x: -1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0F8998004E4CBBBD"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_paintings_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "262619ED548CBCFF"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5C3DF38CBEC86A2B"
+				item: "moa_decor_art:pelgrito"
 				type: "item"
 			}]
 			x: 0.0d
@@ -973,28 +471,19 @@
 			dependencies: ["7DA124C26F220448"]
 			disable_toast: true
 			hide: true
-			id: "5CB6670F88B819DC"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "5CE3A6FFEFCD4B29"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "1573EE4808E2D679"
-					silent: true
-					type: "command"
-				}
-			]
+			id: "2596D59CC0173EFE"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_paintings_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1A91787FE99C4A68"
+				silent: true
+				type: "command"
+			}]
 			tasks: [{
-				id: "7FB000AD9BC4BDE6"
-				item: "kubejs:oneul_around_midnight"
+				id: "29B5D99F32F45743"
+				item: "moa_decor_art:pgoticoestadounidense"
 				type: "item"
 			}]
 			x: 1.0d
@@ -1004,28 +493,19 @@
 			dependencies: ["7DA124C26F220448"]
 			disable_toast: true
 			hide: true
-			id: "2BC0A60B0E1DCA95"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "76D21A68B0C9844E"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "0119491501989F2C"
-					silent: true
-					type: "command"
-				}
-			]
+			id: "4638118AA1EF5B2B"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_paintings_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4880FAD4AF11EE1E"
+				silent: true
+				type: "command"
+			}]
 			tasks: [{
-				id: "1DED456BD60C9E84"
-				item: "kubejs:oneul_autumn_blessing"
+				id: "3FCDABFB09D37B24"
+				item: "moa_decor_art:plajovendelaperla"
 				type: "item"
 			}]
 			x: 2.0d
@@ -1035,28 +515,19 @@
 			dependencies: ["7DA124C26F220448"]
 			disable_toast: true
 			hide: true
-			id: "36518E779DB42646"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "7F3724C10EA2785F"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "3068AD0ABCA6A83C"
-					silent: true
-					type: "command"
-				}
-			]
+			id: "7C19DC0F56BA079E"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_paintings_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "494343468E4F7355"
+				silent: true
+				type: "command"
+			}]
 			tasks: [{
-				id: "4CFB1F9127D6710A"
-				item: "kubejs:oneul_autumn_breeze"
+				id: "480DB60867687CEF"
+				item: "moa_decor_art:planocheestrellada"
 				type: "item"
 			}]
 			x: 3.0d
@@ -1066,1241 +537,1339 @@
 			dependencies: ["7DA124C26F220448"]
 			disable_toast: true
 			hide: true
-			id: "7643C89A74BF5CA9"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "1903E945E55EC036"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "1E6E1AB066DBAA9E"
-					silent: true
-					type: "command"
-				}
-			]
+			id: "66B441C58C251736"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_paintings_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0F767DB9DAB9167B"
+				silent: true
+				type: "command"
+			}]
 			tasks: [{
-				id: "0479C168EBA40116"
+				id: "4A855F3103732252"
+				item: "moa_decor_art:plamonalisa"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "701148A5C43F837A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_paintings_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5BE39B27520FAA90"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1D34466579C3A022"
+				item: "moa_decor_art:pserenatamexicana"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"0F8998004E4CBBBD"
+				"2596D59CC0173EFE"
+				"4638118AA1EF5B2B"
+				"7C19DC0F56BA079E"
+				"66B441C58C251736"
+				"701148A5C43F837A"
+			]
+			icon: "moa_decor_art:plamonalisa"
+			id: "66AB5299D1DDC68A"
+			rewards: [{
+				count: 9
+				id: "056EB3DB46CB8ED7"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "1D203BA621451B43"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Paintings Completion"
+			x: -1.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0FF1FC4D0973EBA4"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_misc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "066857909D08F7F2"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0B48BDE5CDF4F130"
+				item: "moa_decor_art:pianodecola"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2D51ECCD268CBBA2"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_misc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0547BA083395691B"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6F0C847C94E06F18"
+				item: "moa_decor_art:fonografo"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3FC0A2E4E138561C"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_misc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "24F48CC851FB099F"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7FED92E91F0B2E11"
+				item: "moa_decor_art:maquinadediscos"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "726089EF4A5757E3"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_misc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "52ED8119A1107819"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "2D8A18642060BCF5"
+				item: "moa_decor_art:premiogrammy"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "322C7A72C1F57043"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_misc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5EB087329EAB7BDA"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "2F7361591D32596B"
+				item: "moa_decor_art:premiooscar"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "44F9D3C457D5ECD1"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_misc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3B4CB7447EEC2026"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "759EAE0BAEDEA6BC"
+				item: "moa_decor_holidays:trineo"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "29E98F137D3FCD6D"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_misc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "106C95ADDBB76E21"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "75E56C1DEC0CBF8A"
+				item: "moa_decor_holidays:olladeoro"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 7.5d
+		}
+		{
+			dependencies: [
+				"0FF1FC4D0973EBA4"
+				"2D51ECCD268CBBA2"
+				"3FC0A2E4E138561C"
+				"726089EF4A5757E3"
+				"322C7A72C1F57043"
+				"44F9D3C457D5ECD1"
+				"29E98F137D3FCD6D"
+			]
+			icon: "moa_decor_art:maquinadediscos"
+			id: "3D484809540363CD"
+			rewards: [{
+				count: 11
+				id: "550195B82CB084E2"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "48C0AADDAD6BE37E"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Misc Completion"
+			x: -1.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5D5C27F5B8D810A6"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_food_music_discs_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2AF245886CF2E847"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "53809966DA484727"
 				item: "kubejs:oneul_brunch"
 				type: "item"
 			}]
-			x: 4.0d
-			y: 5.0d
-		}
-		{
-			dependencies: ["7DA124C26F220448"]
-			disable_toast: true
-			hide: true
-			id: "0539827DA1FB91FA"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "57AC4BB1A36E2A76"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "788AEA0C3F9193DE"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "173158BCBFDCC327"
-				item: "kubejs:oneul_bubble"
-				type: "item"
-			}]
-			x: 5.0d
-			y: 5.0d
-		}
-		{
-			dependencies: ["7DA124C26F220448"]
-			disable_toast: true
-			hide: true
-			id: "00F817F6A31E472C"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "5F00978F9740D2E1"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "34A52B9EC4BF234A"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "5DF92B84660F767C"
-				item: "kubejs:oneul_byesummer"
-				type: "item"
-			}]
 			x: 0.0d
-			y: 6.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["7DA124C26F220448"]
 			disable_toast: true
 			hide: true
-			id: "54BB6EF832551CB5"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "0114FFAE8E719957"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "28D60054EAF97E7F"
-					silent: true
-					type: "command"
-				}
-			]
+			id: "6431634A84A01913"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_food_music_discs_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3B05C94D3B03FD80"
+				silent: true
+				type: "command"
+			}]
 			tasks: [{
-				id: "42D4588F4752E5E7"
+				id: "410A6AEC7E8DC6F3"
+				item: "kubejs:oneul_vanilla_milkshake"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3E96EA4D06B01399"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_food_music_discs_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6A684BF4E135F4CB"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "445555A601996D49"
 				item: "kubejs:oneul_canele"
 				type: "item"
 			}]
-			x: 1.0d
-			y: 6.0d
-		}
-		{
-			dependencies: ["7DA124C26F220448"]
-			disable_toast: true
-			hide: true
-			id: "4DFB3F1499433AB9"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "440F415D0BFC0BAA"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "1E8F7238479C2F20"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "7823D03E5C58C4D9"
-				item: "kubejs:oneul_cheeseburger"
-				type: "item"
-			}]
 			x: 2.0d
-			y: 6.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["7DA124C26F220448"]
 			disable_toast: true
 			hide: true
-			id: "294D5614C5413BB3"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "111C68BB46922494"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "6F4090006E40053B"
-					silent: true
-					type: "command"
-				}
-			]
+			id: "527722459C70A4DC"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_food_music_discs_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "52E831216C29CCE7"
+				silent: true
+				type: "command"
+			}]
 			tasks: [{
-				id: "70DC7B46E519C8B1"
-				item: "kubejs:oneul_chestnut_latte"
+				id: "01DEDA5D670A0246"
+				item: "kubejs:oneul_tiramisu"
 				type: "item"
 			}]
 			x: 3.0d
-			y: 6.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["7DA124C26F220448"]
 			disable_toast: true
 			hide: true
-			id: "74DE4AF0A9AF1E09"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "309554DCEFB15211"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "524E4A63E687631A"
-					silent: true
-					type: "command"
-				}
-			]
+			id: "29899D162CD03C50"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_food_music_discs_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "29AA92FCE7FD80F8"
+				silent: true
+				type: "command"
+			}]
 			tasks: [{
-				id: "40B97F7CCAA06E2A"
-				item: "kubejs:oneul_chocolate_world"
+				id: "1A48228E3267E3F2"
+				item: "kubejs:oneul_sandwich"
 				type: "item"
 			}]
 			x: 4.0d
-			y: 6.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["7DA124C26F220448"]
 			disable_toast: true
 			hide: true
-			id: "565C11086023567D"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "305F83AB94055DAF"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "163105CCDEF5388D"
-					silent: true
-					type: "command"
-				}
-			]
+			id: "23A30E5336A4B4F6"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_food_music_discs_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "46CBE5F478B5D378"
+				silent: true
+				type: "command"
+			}]
 			tasks: [{
-				id: "6E168F415A901544"
-				item: "kubejs:oneul_chuseok"
+				id: "276013BED7C84100"
+				item: "kubejs:oneul_melon_bread"
 				type: "item"
 			}]
 			x: 5.0d
-			y: 6.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["7DA124C26F220448"]
 			disable_toast: true
 			hide: true
-			id: "2E0E5B45F7D63A97"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "0ED5E3C4F4973214"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "3EC9DF052F7C4E34"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "40C3BF1048F28FDC"
-				item: "kubejs:oneul_cloudy_rain"
-				type: "item"
+			id: "651394FDF650F46E"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_food_music_discs_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6BBEE9DB6869212E"
+				silent: true
+				type: "command"
 			}]
-			x: 3.0d
-			y: 7.0d
-		}
-		{
-			dependencies: ["7DA124C26F220448"]
-			disable_toast: true
-			hide: true
-			id: "34989D790FF6B045"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "2C794E493151F044"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "2154625CF11EE9F6"
-					silent: true
-					type: "command"
-				}
-			]
 			tasks: [{
-				id: "1F9D5F8A842435CA"
-				item: "kubejs:oneul_cookie_tree"
+				id: "00B484329729A142"
+				item: "kubejs:oneul_strawberry_dance"
 				type: "item"
 			}]
 			x: 0.0d
-			y: 7.0d
+			y: 10.0d
+		}
+		{
+			dependencies: [
+				"5D5C27F5B8D810A6"
+				"6431634A84A01913"
+				"3E96EA4D06B01399"
+				"527722459C70A4DC"
+				"29899D162CD03C50"
+				"23A30E5336A4B4F6"
+				"651394FDF650F46E"
+			]
+			icon: "kubejs:oneul_melon_bread"
+			id: "04F4F0A605689F6A"
+			rewards: [{
+				count: 11
+				id: "644CE164863B3AD9"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "5882C6E17709D451"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Oneul Food Music Discs Completion"
+			x: -1.0d
+			y: 9.5d
 		}
 		{
 			dependencies: ["7DA124C26F220448"]
 			disable_toast: true
 			hide: true
-			id: "53EA6ED715BD867B"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "2CFE9B04500CBDAF"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "6E917D7071A46A4F"
-					silent: true
-					type: "command"
-				}
-			]
+			id: "604425417FAE1654"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "610FACB0B32C36C3"
+				silent: true
+				type: "command"
+			}]
 			tasks: [{
-				id: "7E24CAAA12D6BBC6"
-				item: "kubejs:oneul_dreamy"
+				id: "6A64E0D82192EC26"
+				item: "kubejs:oneul_around_midnight"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 11.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "46D7929E33A55036"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0CEC98C9F45F1A5B"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0A3F72F464320151"
+				item: "kubejs:oneul_autumn_blessing"
 				type: "item"
 			}]
 			x: 1.0d
-			y: 7.0d
+			y: 11.5d
 		}
 		{
 			dependencies: ["7DA124C26F220448"]
 			disable_toast: true
 			hide: true
-			id: "75242C486AEA9C2F"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "7EB5AC48603D1021"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "3D076EE2D42BF6C9"
-					silent: true
-					type: "command"
-				}
-			]
+			id: "335817468F025E1A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "17A77C46A783B54D"
+				silent: true
+				type: "command"
+			}]
 			tasks: [{
-				id: "7B3CB2588C56D403"
-				item: "kubejs:oneul_flamingo"
+				id: "3AA3FCAB3FA425D3"
+				item: "kubejs:oneul_bubble"
 				type: "item"
 			}]
 			x: 2.0d
-			y: 7.0d
+			y: 11.5d
 		}
 		{
 			dependencies: ["7DA124C26F220448"]
 			disable_toast: true
 			hide: true
-			id: "001BD69F8C2A2408"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "069D4F7E25CF6017"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "6CAD0C5098B7EEEE"
-					silent: true
-					type: "command"
-				}
-			]
+			id: "04EB28CE2DDE9E81"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "079F9F9F363B3F45"
+				silent: true
+				type: "command"
+			}]
 			tasks: [{
-				id: "06C90128CBDC2521"
+				id: "0E10665AE58F5056"
+				item: "kubejs:oneul_byesummer"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 11.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "576F338251A5C3B6"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "02A17E192A2AAED8"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5D92E866601D8330"
+				item: "kubejs:oneul_cheeseburger"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 11.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3579D72E2335DAA0"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "02670F324EF97BDF"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4649A46EBCF38FC6"
+				item: "kubejs:oneul_chestnut_latte"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 11.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0E5247AAA421D408"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "22BF112B31466C90"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "50F98073155534BF"
+				item: "kubejs:oneul_chuseok"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5BC05605A828D015"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "117E22F3CB7FDC18"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1CEAD1C6DEE9C618"
+				item: "kubejs:oneul_cloudy_rain"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1DCFD407FBF85AAF"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "418E563575B2BC16"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "67BF20BDDBD8ED60"
+				item: "kubejs:oneul_dreamy"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "79D81C8AF7A39D8A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "52373766681003D7"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7DAB2593D0CB93DC"
+				item: "kubejs:oneul_flamingo"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4094966F2508F68A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "63756A55E0BF900D"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1F5FA17EFE22CCF1"
 				item: "kubejs:oneul_floating_marshmallow"
 				type: "item"
 			}]
 			x: 4.0d
-			y: 7.0d
+			y: 12.5d
 		}
 		{
 			dependencies: ["7DA124C26F220448"]
 			disable_toast: true
 			hide: true
-			id: "0C8DAD162211873E"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "711439464C0BB1DD"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "4C5254278C668B19"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "19795DC53590F727"
-				item: "kubejs:oneul_full_moon"
-				type: "item"
+			id: "6CA6E28520A59BFC"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2FE40448CE190E7A"
+				silent: true
+				type: "command"
 			}]
-			x: 5.0d
-			y: 7.0d
-		}
-		{
-			dependencies: ["7DA124C26F220448"]
-			disable_toast: true
-			hide: true
-			id: "7C12A9E1FAA61E2E"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "445C7066AF1D50FA"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "1CA3CC356A5778FA"
-					silent: true
-					type: "command"
-				}
-			]
 			tasks: [{
-				id: "13587B3B5FD32FD3"
+				id: "20FC131102A2B0D6"
 				item: "kubejs:oneul_get_up"
 				type: "item"
 			}]
-			x: 0.0d
-			y: 8.0d
+			x: 5.0d
+			y: 12.5d
 		}
 		{
 			dependencies: ["7DA124C26F220448"]
 			disable_toast: true
 			hide: true
-			id: "7BCB2949A33DBE74"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "1725A3911E463520"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "5A81DC3CA1BA0942"
-					silent: true
-					type: "command"
-				}
-			]
+			id: "37F6864D7E63459C"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "23AEEC254564467C"
+				silent: true
+				type: "command"
+			}]
 			tasks: [{
-				id: "6FD270A19FFD54E4"
+				id: "6E6BDCAC425C6F97"
 				item: "kubejs:oneul_gift"
 				type: "item"
 			}]
-			x: 1.0d
-			y: 8.0d
+			x: 0.0d
+			y: 13.5d
 		}
 		{
 			dependencies: ["7DA124C26F220448"]
 			disable_toast: true
 			hide: true
-			id: "13551A794FC733E9"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "29F4B726EE57C88E"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "452D41FA5EC7EB7F"
-					silent: true
-					type: "command"
-				}
-			]
+			id: "00E254E950B820AD"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "06713BA34B40D391"
+				silent: true
+				type: "command"
+			}]
 			tasks: [{
-				id: "0E3BF870B563D7B0"
+				id: "677C3A6BEFE2ADE2"
 				item: "kubejs:oneul_happy_reindeer"
 				type: "item"
 			}]
-			x: 2.0d
-			y: 8.0d
+			x: 1.0d
+			y: 13.5d
 		}
 		{
 			dependencies: ["7DA124C26F220448"]
 			disable_toast: true
 			hide: true
-			id: "55FD569F039C12A4"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "59AFB4ED60A98835"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "78E574A3D10C7F0A"
-					silent: true
-					type: "command"
-				}
-			]
+			id: "78BA829D045010D1"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4942AB7E70C865C2"
+				silent: true
+				type: "command"
+			}]
 			tasks: [{
-				id: "38CA683B8D5260C0"
+				id: "378F66854556B0B9"
 				item: "kubejs:oneul_joy"
 				type: "item"
 			}]
-			x: 3.0d
-			y: 8.0d
+			x: 2.0d
+			y: 13.5d
 		}
 		{
 			dependencies: ["7DA124C26F220448"]
 			disable_toast: true
 			hide: true
-			id: "363F3F2396E6FF08"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "6F6304782290FEE8"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "50B3A9956DF7D05B"
-					silent: true
-					type: "command"
-				}
-			]
+			id: "3D828F4079A2DFD9"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "334F5DCCEAAB312A"
+				silent: true
+				type: "command"
+			}]
 			tasks: [{
-				id: "2B302DD35B816673"
-				item: "kubejs:oneul_melon_bread"
+				id: "498FB80D7EB99622"
+				item: "kubejs:oneul_mistletoe"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 13.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "11FBB735C5F87FC5"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "290EBC44A85CBFD6"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "66B9E9A7A7F3C616"
+				item: "kubejs:oneul_moonlight"
 				type: "item"
 			}]
 			x: 4.0d
-			y: 8.0d
+			y: 13.5d
 		}
 		{
 			dependencies: ["7DA124C26F220448"]
 			disable_toast: true
 			hide: true
-			id: "3F8D3B64457960B4"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "50A4DB3F22BA934E"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "1EB67E11DD18C9CB"
-					silent: true
-					type: "command"
-				}
-			]
+			id: "7614FC68CE3EC8E1"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "07C5DADDD10F2949"
+				silent: true
+				type: "command"
+			}]
 			tasks: [{
-				id: "7E1EFF6701F0B71B"
+				id: "01C5263B07353492"
+				item: "kubejs:oneul_painting"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 13.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "176909E433E9D6FE"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6A56E8C232BF6A84"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "796C2A11DBBA4558"
+				item: "kubejs:oneul_pajama"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4E839AE0EF9E726C"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2C4D03F8EF4204CD"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0A2E2730C6F127C3"
+				item: "kubejs:oneul_smile_peach"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5D28DCB9C08ECD9C"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5A03EEAA8E2CB13D"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "57CE4A1FF860CA63"
+				item: "kubejs:oneul_story"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2C0222CCCBEF387D"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "05110065490C87A0"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4C29A7A9B43B76FD"
+				item: "kubejs:oneul_summer_vacation"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0EF0F660F4D0084E"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1CF154C23C52FE48"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4D00F6A1FCFAED6D"
+				item: "kubejs:oneul_surf"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5526A0B602D25AC3"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3181728EB8D0CC37"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "3AAD0D6560E6F5BC"
+				item: "kubejs:oneul_umbrella"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "58351FF2F8B29AB1"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "335ABECFCCCA636A"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5CD2CD706EDE7AFC"
+				item: "kubejs:oneul_watermelon_fizz"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "009D6883BB487F61"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4BD17EF0CDE17021"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "115006DA694CCBE7"
+				item: "kubejs:oneul_weekend_blanket"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 15.5d
+		}
+		{
+			dependencies: [
+				"604425417FAE1654"
+				"46D7929E33A55036"
+				"335817468F025E1A"
+				"04EB28CE2DDE9E81"
+				"576F338251A5C3B6"
+				"3579D72E2335DAA0"
+				"0E5247AAA421D408"
+				"5BC05605A828D015"
+				"1DCFD407FBF85AAF"
+				"79D81C8AF7A39D8A"
+				"4094966F2508F68A"
+				"6CA6E28520A59BFC"
+				"37F6864D7E63459C"
+				"00E254E950B820AD"
+				"78BA829D045010D1"
+				"3D828F4079A2DFD9"
+				"11FBB735C5F87FC5"
+				"7614FC68CE3EC8E1"
+				"176909E433E9D6FE"
+				"4E839AE0EF9E726C"
+				"5D28DCB9C08ECD9C"
+				"2C0222CCCBEF387D"
+				"0EF0F660F4D0084E"
+				"5526A0B602D25AC3"
+				"58351FF2F8B29AB1"
+				"009D6883BB487F61"
+			]
+			icon: "kubejs:oneul_around_midnight"
+			id: "71B60D27D8621D1D"
+			rewards: [{
+				count: 93
+				id: "64189383C83BEA18"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "661FEEFE948D1047"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Oneul Pink Bear Music Disc Completion"
+			x: -1.0d
+			y: 13.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "77FCD4BE299762E1"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "028B9423F4F018ED"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "3FEC2C19EFD2ABCE"
+				item: "kubejs:oneul_april_daisy"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5569BA890C459F77"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "109367413F119BE2"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0BDFB56806828D39"
+				item: "kubejs:oneul_autumn_breeze"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "57E24540E587E336"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "208BFF58B77C5B07"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "3B1547C078AB807F"
+				item: "kubejs:oneul_chocolate_world"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4C639E9E1BF61510"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0FDCB82729A974A7"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "28982DD8A5135F0C"
+				item: "kubejs:oneul_cookie_tree"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "44074CC1D0262DCD"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "692BCD6DF229078C"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "76D12A49D80913C5"
+				item: "kubejs:oneul_full_moon"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6AC461F118FAD8AB"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "36C0CA832C8A6B9A"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7901DB734C123E54"
 				item: "kubejs:oneul_miracle_morning"
 				type: "item"
 			}]
 			x: 5.0d
-			y: 8.0d
+			y: 17.0d
 		}
 		{
 			dependencies: ["7DA124C26F220448"]
 			disable_toast: true
 			hide: true
-			id: "75BE6413E5FD4E3B"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "0F88E456C67FB5FE"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "646599B49E937E2E"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "3F999423941EB5EA"
-				item: "kubejs:oneul_mistletoe"
-				type: "item"
+			id: "2E60E06F58CF8CC6"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4FA7AD4ACAC10979"
+				silent: true
+				type: "command"
 			}]
-			x: 0.0d
-			y: 9.0d
-		}
-		{
-			dependencies: ["7DA124C26F220448"]
-			disable_toast: true
-			hide: true
-			id: "0D6B15D689C8991F"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "6D7482E7C4AC1C8A"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "1B6951114AFFE15F"
-					silent: true
-					type: "command"
-				}
-			]
 			tasks: [{
-				id: "30F6FEB3679A8C8E"
-				item: "kubejs:oneul_moonlight"
-				type: "item"
-			}]
-			x: 1.0d
-			y: 9.0d
-		}
-		{
-			dependencies: ["7DA124C26F220448"]
-			disable_toast: true
-			hide: true
-			id: "48DDCE6231339F30"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "1EE96462B9DAE8CC"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "6D8477F0B2E1A967"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "01FEC33C79D148D9"
+				id: "30BE7BFE2A0884FF"
 				item: "kubejs:oneul_morning_peppermint"
 				type: "item"
 			}]
-			x: 2.0d
-			y: 9.0d
+			x: 0.0d
+			y: 18.0d
 		}
 		{
 			dependencies: ["7DA124C26F220448"]
 			disable_toast: true
 			hide: true
-			id: "4593620B95F510D5"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "3D88294A320BAEE2"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "762AB182AB34E861"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "579ECD8D7B9B34E5"
-				item: "kubejs:oneul_painting"
-				type: "item"
+			id: "1584F8FD24BCF3FF"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6567720587D6AA4B"
+				silent: true
+				type: "command"
 			}]
-			x: 3.0d
-			y: 9.0d
-		}
-		{
-			dependencies: ["7DA124C26F220448"]
-			disable_toast: true
-			hide: true
-			id: "37BB4D6CD251EA9A"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "41CFF164CA8FE608"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "3B03CCDCAB76B39D"
-					silent: true
-					type: "command"
-				}
-			]
 			tasks: [{
-				id: "7BB9D249EBF6E2C2"
-				item: "kubejs:oneul_pajama"
-				type: "item"
-			}]
-			x: 4.0d
-			y: 9.0d
-		}
-		{
-			dependencies: ["7DA124C26F220448"]
-			disable_toast: true
-			hide: true
-			id: "5CF6D4C2CC5F3A87"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "00241244BF5994DF"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "6CC512FE030C2B71"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "3C1442D3DCEF63EF"
+				id: "715D232438FCB860"
 				item: "kubejs:oneul_raindrops"
 				type: "item"
 			}]
-			x: 5.0d
-			y: 9.0d
+			x: 1.0d
+			y: 18.0d
 		}
 		{
 			dependencies: ["7DA124C26F220448"]
 			disable_toast: true
 			hide: true
-			id: "0DD32FA4C765B89C"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "0F3379F747E627B8"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "73E5D2D67589E156"
-					silent: true
-					type: "command"
-				}
-			]
+			id: "5AFC249507353E37"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3CCBA90C26C0E7B5"
+				silent: true
+				type: "command"
+			}]
 			tasks: [{
-				id: "1FFC7228B871EE98"
+				id: "3B868EF7E4B8FCE6"
 				item: "kubejs:oneul_roommate"
 				type: "item"
 			}]
-			x: 0.0d
-			y: 10.0d
-		}
-		{
-			dependencies: ["7DA124C26F220448"]
-			disable_toast: true
-			hide: true
-			id: "5A72E702BA623BBD"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "486EFE0F9DCBFBF9"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "574462100834632B"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "79D7D1DD654D8A49"
-				item: "kubejs:oneul_sandwich"
-				type: "item"
-			}]
-			x: 1.0d
-			y: 10.0d
-		}
-		{
-			dependencies: ["7DA124C26F220448"]
-			disable_toast: true
-			hide: true
-			id: "043F9B96F78779D2"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "564D185A67463F67"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "6CE88C7F9EE18490"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "02E75651F2ECF1CC"
-				item: "kubejs:oneul_smile_peach"
-				type: "item"
-			}]
 			x: 2.0d
-			y: 10.0d
+			y: 18.0d
 		}
 		{
 			dependencies: ["7DA124C26F220448"]
 			disable_toast: true
 			hide: true
-			id: "3EAA226842DE32DB"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "4A737737DEA2D92E"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "621D1086F329F762"
-					silent: true
-					type: "command"
-				}
-			]
+			id: "10C20F12987915DF"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "183CACE12DCBA008"
+				silent: true
+				type: "command"
+			}]
 			tasks: [{
-				id: "0DCB85DBC72612B5"
+				id: "113F55F2AA8D1113"
 				item: "kubejs:oneul_snow_dance"
 				type: "item"
 			}]
 			x: 3.0d
-			y: 10.0d
+			y: 18.0d
 		}
 		{
 			dependencies: ["7DA124C26F220448"]
 			disable_toast: true
 			hide: true
-			id: "68DA8778DEEBB9AB"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "7037988C179E571F"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "11FB6BC3B44731A9"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "4BC7E5945863B18C"
-				item: "kubejs:oneul_story"
-				type: "item"
+			id: "4A9011768B17E3F4"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5ACA52357F5F1580"
+				silent: true
+				type: "command"
 			}]
-			x: 4.0d
-			y: 10.0d
-		}
-		{
-			dependencies: ["7DA124C26F220448"]
-			disable_toast: true
-			hide: true
-			id: "33217E952AB50F00"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "6DB6EF4EE57C7697"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "290B7FE22B92ACB1"
-					silent: true
-					type: "command"
-				}
-			]
 			tasks: [{
-				id: "04F9533C28E316EF"
-				item: "kubejs:oneul_strawberry_dance"
-				type: "item"
-			}]
-			x: 5.0d
-			y: 10.0d
-		}
-		{
-			dependencies: ["7DA124C26F220448"]
-			disable_toast: true
-			hide: true
-			id: "125014448FD648ED"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "08F9781F8E2C9306"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "4C1B2FA5667C5C03"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "01B2D33B6653763F"
-				item: "kubejs:oneul_summer_vacation"
-				type: "item"
-			}]
-			x: 0.0d
-			y: 11.0d
-		}
-		{
-			dependencies: ["7DA124C26F220448"]
-			disable_toast: true
-			hide: true
-			id: "38E6282D86CBB8AC"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "0FE300B1260629CF"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "06CF2E18B49D60F1"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "3C1F6E0B1B9D4721"
-				item: "kubejs:oneul_surf"
-				type: "item"
-			}]
-			x: 1.0d
-			y: 11.0d
-		}
-		{
-			dependencies: ["7DA124C26F220448"]
-			disable_toast: true
-			hide: true
-			id: "2047EC3FFF01DE2D"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "13357070F44B7F12"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "6E67ED56662E60FB"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "536689CD7414B2E9"
-				item: "kubejs:oneul_tiramisu"
-				type: "item"
-			}]
-			x: 2.0d
-			y: 11.0d
-		}
-		{
-			dependencies: ["7DA124C26F220448"]
-			disable_toast: true
-			hide: true
-			id: "6A5904CB0C407732"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "7D28F5733A27128E"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "5FCBF7F136448D99"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "52A6C6B3D84413F3"
-				item: "kubejs:oneul_umbrella"
-				type: "item"
-			}]
-			x: 3.0d
-			y: 11.0d
-		}
-		{
-			dependencies: ["7DA124C26F220448"]
-			disable_toast: true
-			hide: true
-			id: "4ADD5DCFE327E450"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "6199D9F0DCAE6983"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "4ABF3B9DCD2D6D3F"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "71D94B586854041E"
-				item: "kubejs:oneul_vanilla_milkshake"
-				type: "item"
-			}]
-			x: 4.0d
-			y: 11.0d
-		}
-		{
-			dependencies: ["7DA124C26F220448"]
-			disable_toast: true
-			hide: true
-			id: "3D915AD0AFCF7375"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "1C3A170C18425C79"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "773910270FEE5986"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "13EAF276284D0559"
-				item: "kubejs:oneul_watermelon_fizz"
-				type: "item"
-			}]
-			x: 5.0d
-			y: 11.0d
-		}
-		{
-			dependencies: ["7DA124C26F220448"]
-			disable_toast: true
-			hide: true
-			id: "7CE1D821B21AA7DC"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "3B82FC3CA71160C0"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "5300B8A2AD49FBA6"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "59D12BD6B64727E4"
-				item: "kubejs:oneul_weekend_blanket"
-				type: "item"
-			}]
-			x: 2.0d
-			y: 12.0d
-		}
-		{
-			dependencies: ["7DA124C26F220448"]
-			disable_toast: true
-			hide: true
-			id: "366C2EC28E739F11"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard players add @p rare_decoration 1"
-					elevate_perms: true
-					id: "3408644CEA49C510"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/tellraw @p [\"\",{\"text\":\"You've bought a new rare decoration! You have now purchased \"},{\"score\":{\"name\":\"@p\",\"objective\":\"rare_decoration\"}},{\"text\":\" unique rare decoration(s)!\"}]"
-					elevate_perms: true
-					id: "10E259BB36DF8691"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "0EBA30F93221A020"
+				id: "18834B97FF6C9237"
 				item: "kubejs:oneul_winter_glow"
 				type: "item"
 			}]
-			x: 3.0d
-			y: 12.0d
+			x: 4.0d
+			y: 18.0d
+		}
+		{
+			dependencies: [
+				"77FCD4BE299762E1"
+				"5569BA890C459F77"
+				"57E24540E587E336"
+				"4C639E9E1BF61510"
+				"44074CC1D0262DCD"
+				"6AC461F118FAD8AB"
+				"2E60E06F58CF8CC6"
+				"1584F8FD24BCF3FF"
+				"5AFC249507353E37"
+				"10C20F12987915DF"
+				"4A9011768B17E3F4"
+			]
+			icon: "kubejs:oneul_april_daisy"
+			id: "2A32C1A321DD355E"
+			rewards: [{
+				count: 23
+				id: "572C8BA75611463E"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "7BC8BD203D3C6DC3"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Oneul Misc Music Disc Completion"
+			x: -1.0d
+			y: 17.5d
 		}
 	]
 	title: "Rare Decorations"
