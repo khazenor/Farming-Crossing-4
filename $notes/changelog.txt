@@ -7,6 +7,9 @@
   # Minor Updates:
     - animal fat now purchaseable from the market
     - pumpkin can now be seared on the farmer's delight cutting board with a minecraft shear
+    - combined tutorial quests back to just one quest chapter
+    - added a bare bones quest chapter guide for create
+    - added create_central_kitchen for better integration between create and farmers delight
 
 2.3:
   - removed TaxOceanVillager: it was generating command blocks on the server.
