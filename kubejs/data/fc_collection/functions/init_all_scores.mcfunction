@@ -118,6 +118,82 @@ scoreboard objectives add common_gems_completion dummy {"text":"Common Gems Comp
 scoreboard players set @p common_gems_completion 0
 scoreboard objectives add mineral_museum dummy {"text":"Mineral Museum"}
 scoreboard players set @p mineral_museum 0
+scoreboard objectives add handheld_instruments_completion dummy {"text":"Handheld Instruments Completion"}
+scoreboard players set @p handheld_instruments_completion 0
+scoreboard objectives add trophies_completion dummy {"text":"Trophies Completion"}
+scoreboard players set @p trophies_completion 0
+scoreboard objectives add snare_completion dummy {"text":"Snare Completion"}
+scoreboard players set @p snare_completion 0
+scoreboard objectives add mariachi_completion dummy {"text":"Mariachi Completion"}
+scoreboard players set @p mariachi_completion 0
+scoreboard objectives add graveyard_completion dummy {"text":"Graveyard Completion"}
+scoreboard players set @p graveyard_completion 0
+scoreboard objectives add bathroom_completion dummy {"text":"Bathroom Completion"}
+scoreboard players set @p bathroom_completion 0
+scoreboard objectives add arts_completion dummy {"text":"Arts Completion"}
+scoreboard players set @p arts_completion 0
+scoreboard objectives add film_completion dummy {"text":"Film Completion"}
+scoreboard players set @p film_completion 0
+scoreboard objectives add festive_completion dummy {"text":"Festive Completion"}
+scoreboard players set @p festive_completion 0
+scoreboard objectives add books_and_exploration_completion dummy {"text":"Books and Exploration Completion"}
+scoreboard players set @p books_and_exploration_completion 0
+scoreboard objectives add lab_completion dummy {"text":"Lab Completion"}
+scoreboard players set @p lab_completion 0
+scoreboard objectives add sheep_plushes_completion dummy {"text":"Sheep Plushes Completion"}
+scoreboard players set @p sheep_plushes_completion 0
+scoreboard objectives add horse_plushes_completion dummy {"text":"Horse Plushes Completion"}
+scoreboard players set @p horse_plushes_completion 0
+scoreboard objectives add home_animal_plushes_completion dummy {"text":"Home Animal Plushes Completion"}
+scoreboard players set @p home_animal_plushes_completion 0
+scoreboard objectives add rabbit_plushes_completion dummy {"text":"Rabbit Plushes Completion"}
+scoreboard players set @p rabbit_plushes_completion 0
+scoreboard objectives add cat_plushes_completion dummy {"text":"Cat Plushes Completion"}
+scoreboard players set @p cat_plushes_completion 0
+scoreboard objectives add parrot_plushes_completion dummy {"text":"Parrot Plushes Completion"}
+scoreboard players set @p parrot_plushes_completion 0
+scoreboard objectives add frog_plushes_completion dummy {"text":"Frog Plushes Completion"}
+scoreboard players set @p frog_plushes_completion 0
+scoreboard objectives add llama_plushes_completion dummy {"text":"Llama Plushes Completion"}
+scoreboard players set @p llama_plushes_completion 0
+scoreboard objectives add wild_animal_plushes_completion dummy {"text":"Wild Animal Plushes Completion"}
+scoreboard players set @p wild_animal_plushes_completion 0
+scoreboard objectives add axolotl_plushes_completion dummy {"text":"Axolotl Plushes Completion"}
+scoreboard players set @p axolotl_plushes_completion 0
+scoreboard objectives add water_animal_plushes_completion dummy {"text":"Water Animal Plushes Completion"}
+scoreboard players set @p water_animal_plushes_completion 0
+scoreboard objectives add village_plushes_completion dummy {"text":"Village Plushes Completion"}
+scoreboard players set @p village_plushes_completion 0
+scoreboard objectives add nether_plushes_completion dummy {"text":"Nether Plushes Completion"}
+scoreboard players set @p nether_plushes_completion 0
+scoreboard objectives add zombie_plushes_completion dummy {"text":"Zombie Plushes Completion"}
+scoreboard players set @p zombie_plushes_completion 0
+scoreboard objectives add raid_plushes_completion dummy {"text":"Raid Plushes Completion"}
+scoreboard players set @p raid_plushes_completion 0
+scoreboard objectives add hostile_plushes_completion dummy {"text":"Hostile Plushes Completion"}
+scoreboard players set @p hostile_plushes_completion 0
+scoreboard objectives add boss_plushes_completion dummy {"text":"Boss Plushes Completion"}
+scoreboard players set @p boss_plushes_completion 0
+scoreboard objectives add toys_completion dummy {"text":"Toys Completion"}
+scoreboard players set @p toys_completion 0
+scoreboard objectives add common_decorations dummy {"text":"Common Decorations"}
+scoreboard players set @p common_decorations 0
+scoreboard objectives add statues_completion dummy {"text":"Statues Completion"}
+scoreboard players set @p statues_completion 0
+scoreboard objectives add mob_trophies_completion dummy {"text":"Mob Trophies Completion"}
+scoreboard players set @p mob_trophies_completion 0
+scoreboard objectives add paintings_completion dummy {"text":"Paintings Completion"}
+scoreboard players set @p paintings_completion 0
+scoreboard objectives add misc_completion dummy {"text":"Misc Completion"}
+scoreboard players set @p misc_completion 0
+scoreboard objectives add oneul_food_music_discs_completion dummy {"text":"Oneul Food Music Discs Completion"}
+scoreboard players set @p oneul_food_music_discs_completion 0
+scoreboard objectives add oneul_pink_bear_music_disc_completion dummy {"text":"Oneul Pink Bear Music Disc Completion"}
+scoreboard players set @p oneul_pink_bear_music_disc_completion 0
+scoreboard objectives add oneul_misc_music_disc_completion dummy {"text":"Oneul Misc Music Disc Completion"}
+scoreboard players set @p oneul_misc_music_disc_completion 0
+scoreboard objectives add rare_decorations dummy {"text":"Rare Decorations"}
+scoreboard players set @p rare_decorations 0
 scoreboard objectives add flat_hats_completion dummy {"text":"Flat Hats Completion"}
 scoreboard players set @p flat_hats_completion 0
 scoreboard objectives add medium_hats_completion dummy {"text":"Medium Hats Completion"}

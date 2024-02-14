@@ -57,26 +57,26 @@ collections = [
 		increaseRateKey: 0.03,
 		questFilenameKey: 'mineral_museum'
 	},
-	# {
-	# 	nameKey: "Common Decoration",
-	# 	pluralKey: "s",
-	# 	iconKey: "moa_decor_art:martilloycincel",
-	# 	lastQuestItemKey: 'kubejs:cert_decocom_diamond',
-	# 	actionKey: "Purchased",
-	# 	collectionKey: "Common Decoration Catalog",
-	# 	increaseRateKey: 0.06,
-	# 	questFilenameKey: ''
-	# },
-	# {
-	# 	nameKey: "Rare Decoration",
-	# 	pluralKey: "s",
-	# 	iconKey: "moa_decor_art:premiooscar",
-	# 	lastQuestItemKey: 'kubejs:cert_decorare_diamond',
-	# 	actionKey: "Purchased",
-	# 	collectionKey: "Rare Decoration Catalog",
-	# 	increaseRateKey: 0.4,
-	# 	questFilenameKey: ''
-	# },
+	{
+		nameKey: "Common Decoration",
+		pluralKey: "s",
+		iconKey: "moa_decor_art:martilloycincel",
+		lastQuestItemKey: 'kubejs:cert_decocom_diamond',
+		actionKey: "Purchased",
+		collectionKey: "Common Decoration Catalog",
+		increaseRateKey: 0.06,
+		questFilenameKey: 'common_decorations'
+	},
+	{
+		nameKey: "Rare Decoration",
+		pluralKey: "s",
+		iconKey: "moa_decor_art:premiooscar",
+		lastQuestItemKey: 'kubejs:cert_decorare_diamond',
+		actionKey: "Purchased",
+		collectionKey: "Rare Decoration Catalog",
+		increaseRateKey: 0.4,
+		questFilenameKey: 'rare_decorations'
+	},
 	{
 		nameKey: "Hat",
 		pluralKey: "s",

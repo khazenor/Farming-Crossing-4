@@ -1160,7 +1160,7 @@ rareStatues = [
   'moa_decor_art:esculturadragonchino',
   'moa_decor_art:esculturachacmool',
   'moa_decor_art:esculturabuda',
-  'moa_decor_art:esculturajesuscrucificadoe'
+  'moa_decor_art:esculturajesuscrucificado'
 ]
 rareMobTrophies = [
   'handcrafted:phantom_trophy',

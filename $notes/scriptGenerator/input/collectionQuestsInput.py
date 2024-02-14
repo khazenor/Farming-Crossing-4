@@ -1005,17 +1005,242 @@ questlines = [
       }
     ]
   },
-  # { # Common Decorations
-  #   filenameKey: 'common_decorations',
-  #   nameKey: 'Common Decorations',
-  #   iconKey: 'moa_decor_art:martilloycincel',
-  #   collectionNotificationKey: 'New Common Decoration Collected!',
-  #   increaseRateKey: 0.06,
-  #   typeKey: itemQuestTypeConst,
-  #   questGroupsKey: [
-  #     {}
-  #   ]
-  # },
+  { # Common Decorations
+    filenameKey: 'common_decorations',
+    nameKey: 'Common Decorations',
+    iconKey: 'moa_decor_art:martilloycincel',
+    collectionNotificationKey: 'New Common Decoration Collected!',
+    increaseRateKey: 0.06,
+    typeKey: itemQuestTypeConst,
+    questGroupsKey: [
+      { # Handheld Instruments
+        nameKey: 'Handheld Instruments Completion',
+        iconKey: 'moa_decor_art:guitarra',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonHandheldInstruments
+      },
+      { # Trophies
+        nameKey: 'Trophies Completion',
+        iconKey: 'handcrafted:bear_trophy',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonTrophies
+      },
+      { # Snare
+        nameKey: 'Snare Completion',
+        iconKey: 'moa_decor_art:tamborrojo',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonSnare
+      },
+      { # Mariachi
+        nameKey: 'Mariachi Completion',
+        iconKey: 'moa_decor_holidays:mariachiguitarra',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonMariachi
+      },
+      { # Graveyard
+        nameKey: 'Graveyard Completion',
+        iconKey: 'moa_decor_holidays:lapida',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonGraveyard
+      },
+      { # Bathroom
+        nameKey: 'Bathroom Completion',
+        iconKey: 'moa_decor_bath:inodoro',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonBathroom
+      },
+      { # Arts
+        nameKey: 'Arts Completion',
+        iconKey: 'moa_decor_art:paletadepintura',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonArts
+      },
+      { # Film
+        nameKey: 'Film Completion',
+        iconKey: 'moa_decor_art:claqueta',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonFilm
+      },
+      { # Festive
+        nameKey: 'Festive Completion',
+        iconKey: 'moa_decor_holidays:corona_navidena',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonFestive
+      },
+      { # Books and Exploration
+        nameKey: 'Books and Exploration Completion',
+        iconKey: 'moa_decor_science:globoterraqueo',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonBooksExploration
+      },
+      { # Lab
+        nameKey: 'Lab Completion',
+        iconKey: 'moa_decor_science:microscopio',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonLab
+      },
+      { # Sheep Plushes
+        nameKey: 'Sheep Plushes Completion',
+        iconKey: 'moa_decor_toys:ovejarosa',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonPlushSheep
+      },
+      { # Horse Plushes
+        nameKey: 'Horse Plushes Completion',
+        iconKey: 'moa_decor_toys:caballocafe',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonPlushHorse
+      },
+      { # Home Animal Plushes
+        nameKey: 'Home Animal Plushes Completion',
+        iconKey: 'moa_decor_toys:gallina',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonPlushHomeAnimal
+      },
+      { # Rabbit Plushes
+        nameKey: 'Rabbit Plushes Completion',
+        iconKey: 'moa_decor_toys:conejocastano',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonPlushRabbit
+      },
+      { # Cat Plushes
+        nameKey: 'Cat Plushes Completion',
+        iconKey: 'moa_decor_toys:gatojellie',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonPlushCat
+      },
+      { # Parrot Plushes
+        nameKey: 'Parrot Plushes Completion',
+        iconKey: 'moa_decor_toys:loroazul',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonPlushParrot
+      },
+      { # Frog Plushes
+        nameKey: 'Frog Plushes Completion',
+        iconKey: 'moa_decor_toys:ranahelada',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonPlushFrog
+      },
+      { # Llama Plushes
+        nameKey: 'Llama Plushes Completion',
+        iconKey: 'moa_decor_toys:llamagris',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonPlushLlama
+      },
+      { # Wild Animal Plushes
+        nameKey: 'Wild Animal Plushes Completion',
+        iconKey: 'moa_decor_toys:zorro',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonPlushWildAnimal
+      },
+      { # Axolotl Plushes
+        nameKey: 'Axolotl Plushes Completion',
+        iconKey: 'moa_decor_toys:ajoloterosa',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonPlushAxolotl
+      },
+      { # Water Animal Plushes
+        nameKey: 'Water Animal Plushes Completion',
+        iconKey: 'moa_decor_toys:delfin',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonPlushWaterAnimal
+      },
+      { # Village Plushes
+        nameKey: 'Village Plushes Completion',
+        iconKey: 'moa_decor_toys:aldeano',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonPlushVillage
+      },
+      { # Nether Plushes
+        nameKey: 'Nether Plushes Completion',
+        iconKey: 'moa_decor_toys:blaze',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonPlushNether
+      },
+      { # Zombie Plushes
+        nameKey: 'Zombie Plushes Completion',
+        iconKey: 'moa_decor_toys:zombie',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonPlushZombie
+      },
+      { # Raid Plushes
+        nameKey: 'Raid Plushes Completion',
+        iconKey: 'moa_decor_toys:invocador',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonPlushRaid
+      },
+      { # Hostile Plushes
+        nameKey: 'Hostile Plushes Completion',
+        iconKey: 'moa_decor_toys:creeper',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonPlushHostileMob
+      },
+      { # Boss Plushes
+        nameKey: 'Boss Plushes Completion',
+        iconKey: 'moa_decor_toys:dragondelender',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonPlushBoss
+      },
+      { # Toys
+        nameKey: 'Toys Completion',
+        iconKey: 'playdate:rocking_horse',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonToy
+      }
+    ]
+  },
+  { # Rare Decorations
+    filenameKey: 'rare_decorations',
+    nameKey: 'Rare Decorations',
+    iconKey: 'moa_decor_art:premiooscar',
+    collectionNotificationKey: 'New Rare Decoration Collected!',
+    increaseRateKey: 0.1,
+    typeKey: itemQuestTypeConst,
+    questGroupsKey: [
+      { # Statues
+        nameKey: 'Statues Completion',
+        iconKey: 'moa_decor_art:esculturaelpensador',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.rareStatues
+      },
+      { # Mob Trophies
+        nameKey: 'Mob Trophies Completion',
+        iconKey: 'handcrafted:creeper_trophy',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.rareMobTrophies
+      },
+      { # Paintings
+        nameKey: 'Paintings Completion',
+        iconKey: 'moa_decor_art:plamonalisa',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.rarePaintings
+      },
+      { # Misc
+        nameKey: 'Misc Completion',
+        iconKey: 'moa_decor_art:maquinadediscos',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.rareMisc
+      },
+      { # Oneul Food Music Disc
+        nameKey: 'Oneul Food Music Discs Completion',
+        iconKey: 'kubejs:oneul_melon_bread',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.rareOneulFood
+      },
+      { # Oneul Pink Bear Music Disc
+        nameKey: 'Oneul Pink Bear Music Disc Completion',
+        iconKey: 'kubejs:oneul_around_midnight',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.rareOneulPinkBear
+      },
+      { # Oneul Misc Music Disc
+        nameKey: 'Oneul Misc Music Disc Completion',
+        iconKey: 'kubejs:oneul_april_daisy',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.rareOneulMisc
+      }
+    ]
+  },
   { # Hats
     filenameKey: 'hat_collection',
     nameKey: 'Hat Collection',

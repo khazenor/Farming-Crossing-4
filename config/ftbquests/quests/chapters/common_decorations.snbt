@@ -1,0 +1,8339 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "common_decorations"
+	group: "5326E5A8132593FA"
+	icon: "moa_decor_art:martilloycincel"
+	id: "30377CAB87EFE2E9"
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "176F186AD03E9221"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:handheld_instruments_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4CE8BD303ECE059D"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7D86056EF4125341"
+				item: "moa_decor_art:guitarra"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "003295F25EDA2D3C"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:handheld_instruments_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7CEE9996E4F84D71"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "35AD817EA7E5991D"
+				item: "moa_decor_art:banyo"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "63BA96C26371CA53"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:handheld_instruments_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "48D4D9A331F5074B"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "793FF749DF4AAC87"
+				item: "moa_decor_art:violin"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1D5FBBDE7B677F18"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:handheld_instruments_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1048D6B7AF7AD316"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "190E9CD084FA8FD8"
+				item: "moa_decor_art:guitarraelectricablanca"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4414DB46FC69903C"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:handheld_instruments_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5BE6B38141381072"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "416033E6E99F5E2D"
+				item: "moa_decor_art:guitarraelectricagrisclara"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "645CD84EB3BB7E58"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:handheld_instruments_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "39EB6863F9D9857B"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "33428CE97565D80B"
+				item: "moa_decor_art:guitarraelectricagris"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "64A4522D8C482819"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:handheld_instruments_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "436350556A30D61A"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "62D33DDCAC362789"
+				item: "moa_decor_art:guitarraelectricanegra"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "76D112E58D06D157"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:handheld_instruments_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6B592D664B591E38"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4FB4EC1BB233BB1C"
+				item: "moa_decor_art:guitarraelectricacafe"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "49344FA782FB87B5"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:handheld_instruments_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "130CE402B49D8152"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1B20E6C8C02350E6"
+				item: "moa_decor_art:guitarraelectricaroja"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "19A90D8E1D4CD91E"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:handheld_instruments_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6D66DDCADD394D8A"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1264ACE94EF929C8"
+				item: "moa_decor_art:guitarraelectricanaranja"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "57DC2218E8C82B8D"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:handheld_instruments_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "704C27A35AE7916C"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6BB7EE6262C6DF92"
+				item: "moa_decor_art:guitarraelectricaamarilla"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5F704D89B53F54D6"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:handheld_instruments_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "488ED4799F5B0A40"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "386E529EFE3C7A5B"
+				item: "moa_decor_art:guitarraelectricaverdelima"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "7B3E3C477F8C37B5"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:handheld_instruments_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4975D757C36E5B06"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5006EC6A0BFE769E"
+				item: "moa_decor_art:guitarraelectricaverde"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5E7E5F8217A8BE74"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:handheld_instruments_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0807481150CA6066"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5F00C8CFDAC0448F"
+				item: "moa_decor_art:guitarraelectricacian"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "298C2F23698A1C4A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:handheld_instruments_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5009416B79C4D273"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0F3F07F1514AF22F"
+				item: "moa_decor_art:guitarraelectricaazulclara"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "00342ACD64CFB09E"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:handheld_instruments_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5E5D1C098E3FC222"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "32070C6C30D01EE8"
+				item: "moa_decor_art:guitarraelectricaazul"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6225BF3A0541763C"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:handheld_instruments_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5078687F3D810479"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "126215EE85E5EF7A"
+				item: "moa_decor_art:guitarraelectricamorada"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4835C567059B4C14"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:handheld_instruments_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4E9175652D84A0EF"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "489C0226542469B1"
+				item: "moa_decor_art:guitarraelectricamagenta"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "241F69D64003308C"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:handheld_instruments_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2EFDF9D8F9D2BDED"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "2C3197DB19520EC7"
+				item: "moa_decor_art:guitarraelectricarosa"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"176F186AD03E9221"
+				"003295F25EDA2D3C"
+				"63BA96C26371CA53"
+				"1D5FBBDE7B677F18"
+				"4414DB46FC69903C"
+				"645CD84EB3BB7E58"
+				"64A4522D8C482819"
+				"76D112E58D06D157"
+				"49344FA782FB87B5"
+				"19A90D8E1D4CD91E"
+				"57DC2218E8C82B8D"
+				"5F704D89B53F54D6"
+				"7B3E3C477F8C37B5"
+				"5E7E5F8217A8BE74"
+				"298C2F23698A1C4A"
+				"00342ACD64CFB09E"
+				"6225BF3A0541763C"
+				"4835C567059B4C14"
+				"241F69D64003308C"
+			]
+			icon: "moa_decor_art:guitarra"
+			id: "3DF13620CA3167CD"
+			rewards: [{
+				count: 40
+				id: "0D50640C7567DF4C"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "515BECE3F4094A17"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Handheld Instruments Completion"
+			x: -1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "599857783EA6C7E0"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:trophies_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "55A7A360AA4A31F4"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6A7F1211FB594436"
+				item: "handcrafted:bear_trophy"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "71A1C3EE5800B575"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:trophies_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7619B045F539C0D8"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "66DA76D2FE693B00"
+				item: "handcrafted:blaze_trophy"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1B19CDC0C26BDE66"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:trophies_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2B4646639F042454"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1C36B9CC3F5A3938"
+				item: "handcrafted:fox_trophy"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "235123F62106BD1B"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:trophies_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1ACA053DF5493337"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "20DEB1D3110A767C"
+				item: "handcrafted:goat_trophy"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "29C86851AB0A83A5"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:trophies_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1D7AAD7451C7F352"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0C718CBBA5FFD249"
+				item: "handcrafted:pufferfish_trophy"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "055F4BD4B7067E03"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:trophies_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6C906B9A18C6093B"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5640C16E4A779700"
+				item: "handcrafted:salmon_trophy"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0558566DCDFC2A32"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:trophies_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "76B43D659164516C"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4672A69C9EAF2982"
+				item: "handcrafted:silverfish_trophy"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "13BCCE8E78FED471"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:trophies_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "62041AB286D9949D"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5E6C7F3D68C51E7B"
+				item: "handcrafted:skeleton_horse_trophy"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0B323138B7833973"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:trophies_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4B943685C0E859E7"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1B42A639790E2F27"
+				item: "handcrafted:spider_trophy"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 5.5d
+		}
+		{
+			dependencies: [
+				"599857783EA6C7E0"
+				"71A1C3EE5800B575"
+				"1B19CDC0C26BDE66"
+				"235123F62106BD1B"
+				"29C86851AB0A83A5"
+				"055F4BD4B7067E03"
+				"0558566DCDFC2A32"
+				"13BCCE8E78FED471"
+				"0B323138B7833973"
+			]
+			icon: "handcrafted:bear_trophy"
+			id: "7921FC195795778C"
+			rewards: [{
+				count: 13
+				id: "1AC919D6BE08A8F7"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "70BADF3FA0197103"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Trophies Completion"
+			x: -1.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "179A1C44C0399782"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:snare_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "67CBBEA2458FDE08"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "64D8BD2768C10504"
+				item: "moa_decor_art:tamborblanco"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "22D08DE493AE392A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:snare_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1BA40888193A3039"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "2E05CF460D6566A2"
+				item: "moa_decor_art:tamborgrisclaro"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0DB96C931B29A9E5"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:snare_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "797C913C19815DD7"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "29609CFD7B8B63C6"
+				item: "moa_decor_art:tamborgris"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "76F96049A42E4702"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:snare_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "530978B473BC8596"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "58D754ADF4E8C48C"
+				item: "moa_decor_art:tambornegro"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2408C58191099B79"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:snare_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5BAB087DA1EBC208"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1F07F407EB69C10A"
+				item: "moa_decor_art:tamborcafe"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6565E55479868AFD"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:snare_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "38ABE77060027331"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "347625FB15976FC4"
+				item: "moa_decor_art:tamborrojo"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "70092AE96C274352"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:snare_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "317A9D8ACBEECB98"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "453085B649FAEFB1"
+				item: "moa_decor_art:tambornaranja"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "73D6A4736733C887"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:snare_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5D3690E21938CEA4"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1D56A743779FACDF"
+				item: "moa_decor_art:tamboramarillo"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "70E4ACCA5DFED6FB"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:snare_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4CDB57C3A43C08E1"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1E645BE42E268961"
+				item: "moa_decor_art:tamborverdelima"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "137AC05BC58D0059"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:snare_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3396BFF93B1629F7"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "60869D94A14E0AC9"
+				item: "moa_decor_art:tamborverde"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1F3FEB1CCB7358C4"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:snare_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3BCECA4E7A0E79B8"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5286783BDD4F654C"
+				item: "moa_decor_art:tamborcian"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "29306FCABB34C65F"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:snare_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "705CA8EC2F95A3F6"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0F907C3E8BE0EC92"
+				item: "moa_decor_art:tamborazulclaro"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "746E1D195639C2C6"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:snare_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "43C7641393354148"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5500C74C70664FC4"
+				item: "moa_decor_art:tamborazul"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2CFEF0A7F1735D18"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:snare_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0FB7AF5ADD513F0B"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6EC8B5AF9C71B65D"
+				item: "moa_decor_art:tambormorado"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1CD6296AFDC2B2A2"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:snare_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "497015F680ABC870"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "19849165C8D5118D"
+				item: "moa_decor_art:tambormagenta"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3A0A1CCC00C38331"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:snare_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "619EE50E1695DAF2"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4EF52174EBD6A34E"
+				item: "moa_decor_art:tamborrosa"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 9.0d
+		}
+		{
+			dependencies: [
+				"179A1C44C0399782"
+				"22D08DE493AE392A"
+				"0DB96C931B29A9E5"
+				"76F96049A42E4702"
+				"2408C58191099B79"
+				"6565E55479868AFD"
+				"70092AE96C274352"
+				"73D6A4736733C887"
+				"70E4ACCA5DFED6FB"
+				"137AC05BC58D0059"
+				"1F3FEB1CCB7358C4"
+				"29306FCABB34C65F"
+				"746E1D195639C2C6"
+				"2CFEF0A7F1735D18"
+				"1CD6296AFDC2B2A2"
+				"3A0A1CCC00C38331"
+			]
+			icon: "moa_decor_art:tamborrojo"
+			id: "79D39888E11171EB"
+			rewards: [{
+				count: 31
+				id: "0B1B6F01F0BAF4F4"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "1EF83C44E0E6F1BF"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Snare Completion"
+			x: -1.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "71446589E811DA83"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:mariachi_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "54FDB7E9D044BDE9"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5D81485A6FBBF3E5"
+				item: "moa_decor_holidays:mariachiguitarra"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 10.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "553FD2FCE5CD0DB2"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:mariachi_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "222737D36AB1552E"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "208AD6931985A662"
+				item: "moa_decor_holidays:mariachitrompeta"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 10.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "52C820DBC9C2368E"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:mariachi_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "62CBADACD7E1F206"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "44AB195AFF0742DC"
+				item: "moa_decor_holidays:mariachiviolin"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 10.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5871CAC50AAABC09"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:mariachi_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4EDD63A7A145DF21"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0E528C374D0EB2E3"
+				item: "moa_decor_holidays:catrinaroja"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 10.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "7E65B38C99BDACD2"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:mariachi_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "394091827907D347"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5DE51F4052846D31"
+				item: "moa_decor_holidays:catrinamorada"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 10.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "39C2075FDD4E2680"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:mariachi_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "098A463A957F9B76"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6280A664E6DA9637"
+				item: "moa_decor_holidays:catrinacian"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 10.5d
+		}
+		{
+			dependencies: [
+				"71446589E811DA83"
+				"553FD2FCE5CD0DB2"
+				"52C820DBC9C2368E"
+				"5871CAC50AAABC09"
+				"7E65B38C99BDACD2"
+				"39C2075FDD4E2680"
+			]
+			icon: "moa_decor_holidays:mariachiguitarra"
+			id: "657B078BDC51DEA7"
+			rewards: [{
+				count: 8
+				id: "482D98EF5F2B0D1C"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "08317C871D3324DA"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Mariachi Completion"
+			x: -1.0d
+			y: 10.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "716EA88414F9C987"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:graveyard_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7778D7BD89F9C19E"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "54C9DDC506901EB4"
+				item: "moa_decor_holidays:lapida"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3502E3D3F7F940F9"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:graveyard_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "26E6E4745D8D63A7"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0038D309882A2459"
+				item: "moa_decor_holidays:lapida_cruz"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "354A80A96DBC2A10"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:graveyard_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3A8C74FB1F689B26"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "3C573E10F579AC56"
+				item: "moa_decor_holidays:fantasma"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1C4F5AE08707F5A6"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:graveyard_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4413FE5D30DEAA1D"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "03516F0CC430BE8E"
+				item: "moa_decor_holidays:esqueletoacostado"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "260E9AE2516BF46F"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:graveyard_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0286474653550871"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "35C59D311AF6A713"
+				item: "moa_decor_holidays:esqueletosentado"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0DBA19FE2D482D42"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:graveyard_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1C1617EDCDB01F6B"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "08E6681756AB2CBD"
+				item: "moa_decor_holidays:tumba"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "313421DD1670C47A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:graveyard_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "711436560138025C"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "70120D8D3B66182E"
+				item: "moa_decor_holidays:tumbaabierta"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2B9A8A519046B814"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:graveyard_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "75BE379F284610D6"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0BEF4EF9EFBC2328"
+				item: "moa_decor_holidays:tumbaesqueleto"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "352C6DB593F602B8"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:graveyard_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4493478567CB9056"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "3F2F779849490AB4"
+				item: "moa_decor_holidays:tumbaesqueletosentado"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "54FAA78D1ED02021"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:graveyard_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4FB415BE534F5D4D"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "3E388BA47A1D516C"
+				item: "moa_decor_holidays:jaula"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0EB25FD53DDE5E65"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:graveyard_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "78095839F32DCFBC"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "61BCBDF0133B46F7"
+				item: "moa_decor_holidays:esqueleto_enjaulado"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4F5AED811A0880D3"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:graveyard_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4B238AA3A0C8BD4B"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "187B860826A5B8FB"
+				item: "moa_decor_holidays:bruja_escoba"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "33CF6F7E3D3379F7"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:graveyard_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "03657EAFF12DED92"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "24E932259BCA11E5"
+				item: "moa_decor_holidays:zombieacostado"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0BB79B4DB22BE8B9"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:graveyard_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "58A20719AAE87AC5"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "04BA39A690098E33"
+				item: "moa_decor_holidays:zombieenterrado"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4600001B5E09A513"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:graveyard_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "42D7ECE1590866EB"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "35DCC7D99BCDA566"
+				item: "moa_decor_holidays:zombiesaliendotierra"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0D94E8B08796D6A8"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:graveyard_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "105F2F99E59896D9"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "3AA8A5616301BC6A"
+				item: "moa_decor_holidays:murcielagocerrado"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "37EE998D0BE955EC"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:graveyard_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5CB598AC68D09904"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6F762EBCB3E818AF"
+				item: "moa_decor_holidays:murcielagoabierto"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "594347D5DBB23FC3"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:graveyard_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "132BDE9FF6B097DB"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "2EEB2492E4B327CA"
+				item: "moa_decor_holidays:arana_en_telarana"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "79241C50F3EECB12"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:graveyard_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0463C952BD5B9040"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "45665A8D383A49A2"
+				item: "moa_decor_holidays:arana_en_telarana_2"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 15.0d
+		}
+		{
+			dependencies: [
+				"716EA88414F9C987"
+				"3502E3D3F7F940F9"
+				"354A80A96DBC2A10"
+				"1C4F5AE08707F5A6"
+				"260E9AE2516BF46F"
+				"0DBA19FE2D482D42"
+				"313421DD1670C47A"
+				"2B9A8A519046B814"
+				"352C6DB593F602B8"
+				"54FAA78D1ED02021"
+				"0EB25FD53DDE5E65"
+				"4F5AED811A0880D3"
+				"33CF6F7E3D3379F7"
+				"0BB79B4DB22BE8B9"
+				"4600001B5E09A513"
+				"0D94E8B08796D6A8"
+				"37EE998D0BE955EC"
+				"594347D5DBB23FC3"
+				"79241C50F3EECB12"
+			]
+			icon: "moa_decor_holidays:lapida"
+			id: "56313F851A778A25"
+			rewards: [{
+				count: 40
+				id: "43233EFA25D2B801"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "548A9BD72098BAD4"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Graveyard Completion"
+			x: -1.0d
+			y: 13.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5B9EEB5983A60BE0"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:bathroom_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6D368B1F362DBA5F"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5C5676D45A21B6FA"
+				item: "moa_decor_bath:inodoro"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "018AE09F1E409850"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:bathroom_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "49FD57726BB56111"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "3FD75C11A9F68FA6"
+				item: "moa_decor_bath:mingitorio"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4F743C9949CD66F5"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:bathroom_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5D0046D0BE4B0CFC"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "003299D490C24D12"
+				item: "moa_decor_bath:regadera"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "105BD716D00B8FE7"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:bathroom_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4ABFB7FF7CE54717"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "226735EA9E2881DC"
+				item: "moa_decor_bath:llavesderegadera"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "66DA64A099D7666E"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:bathroom_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5AA87C94C1BA737D"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "02F1217F99F7ECE9"
+				item: "moa_decor_bath:llavesdebanera"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "65DB82F80179938F"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:bathroom_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "55E57B9168391FB2"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "54BF2DA723D8E7C4"
+				item: "moa_decor_bath:banera"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6BF2CC3EACE0D152"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:bathroom_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3473251620731DEB"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6B2CB1C7573DB07B"
+				item: "moa_decor_bath:lavabo"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 17.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4F780C6555559F7F"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:bathroom_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "32CEDF0B91802109"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "2D45AC87F7276D53"
+				item: "moa_decor_bath:lavaboconpedestal"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 17.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "583D2B2EC6DA4155"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:bathroom_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6361F96369CCB1EE"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "149964D283CDC70B"
+				item: "moa_decor_bath:esponjadebano"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 17.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "71A1E8C1E6F71390"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:bathroom_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "37ECD05B438BE06E"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "13C640AC03892691"
+				item: "moa_decor_bath:jabon"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 17.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "092905FD4D0C8989"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:bathroom_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "211E1F33A25D007A"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4052DA6E2F3B8AE1"
+				item: "moa_decor_bath:soporteparajabon"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 17.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2A535BFD3EF50AB7"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:bathroom_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "48F6DD8503D8F569"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "237B78A27263C5ED"
+				item: "moa_decor_bath:jabonera"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 17.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3BE33A96160E9509"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:bathroom_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0CF291D255830F9B"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "3C16DB79BE01E74C"
+				item: "moa_decor_bath:jaboneradepared"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 18.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0AA3A36CE03B9FC1"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:bathroom_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "653C059EB293B77B"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5FB7B969B06AB6ED"
+				item: "moa_decor_bath:tabladeplanchar"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 18.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "717F962B296B176B"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:bathroom_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7FDE02807F836328"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "02EC5D60A306F597"
+				item: "moa_decor_bath:tendederoconropamasculina"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 18.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0C78A876E0D0F883"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:bathroom_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7C7AD3423470B2AC"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "27993661BA7BFC7F"
+				item: "moa_decor_bath:tendederoconropafemenina"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 18.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2998C7C5F806505B"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:bathroom_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "76FEB80C12EFCB93"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0328E23C880D33FB"
+				item: "moa_decor_bath:tendederoconsabanas"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 18.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "7805B5A8FFEC9C91"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:bathroom_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "589117653D6FA90D"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "22AFD8C199A010CF"
+				item: "moa_decor_bath:vasocepillosdedientes"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 18.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5B14CA1327294561"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:bathroom_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "056CB693621F25D3"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "73137E8FD4BD8216"
+				item: "moa_decor_bath:cubetadeagua"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 19.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4ED3C045EC69FD99"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:bathroom_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5545805FE028EEB4"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "586937167CB9CFC1"
+				item: "moa_decor_bath:secadormanos"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 19.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "527C2995935D7031"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:bathroom_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4673B2DD1A42D841"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "44EF1ED921E0B44F"
+				item: "moa_decor_bath:destapador"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 19.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "003DA11C4C3F8CF4"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:bathroom_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4BCC1C17503AF764"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5BDA20AC27CCA495"
+				item: "moa_decor_bath:esco"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 19.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5AB7BC269EC9E4B4"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:bathroom_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7FF4CACE6B3D91A0"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7C733593B398097F"
+				item: "moa_decor_bath:trap"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 19.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "083F2F5C2B606E90"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:bathroom_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1BB2840178341AF5"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "60BEDAEEA3B29A72"
+				item: "moa_decor_bath:planch"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 19.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3CADBEB7961C84AB"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:bathroom_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "15C706E60D1BE34C"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1826B92E8448E18E"
+				item: "moa_decor_bath:letreropisomojado"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 20.5d
+		}
+		{
+			dependencies: [
+				"5B9EEB5983A60BE0"
+				"018AE09F1E409850"
+				"4F743C9949CD66F5"
+				"105BD716D00B8FE7"
+				"66DA64A099D7666E"
+				"65DB82F80179938F"
+				"6BF2CC3EACE0D152"
+				"4F780C6555559F7F"
+				"583D2B2EC6DA4155"
+				"71A1E8C1E6F71390"
+				"092905FD4D0C8989"
+				"2A535BFD3EF50AB7"
+				"3BE33A96160E9509"
+				"0AA3A36CE03B9FC1"
+				"717F962B296B176B"
+				"0C78A876E0D0F883"
+				"2998C7C5F806505B"
+				"7805B5A8FFEC9C91"
+				"5B14CA1327294561"
+				"4ED3C045EC69FD99"
+				"527C2995935D7031"
+				"003DA11C4C3F8CF4"
+				"5AB7BC269EC9E4B4"
+				"083F2F5C2B606E90"
+				"3CADBEB7961C84AB"
+			]
+			icon: "moa_decor_bath:inodoro"
+			id: "72A9FAAFB2FF125A"
+			rewards: [{
+				count: 62
+				id: "0BF75C5A254D5E40"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "218C98DD1A20297A"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Bathroom Completion"
+			x: -1.0d
+			y: 18.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0380F2EC7312B3F3"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:arts_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2B3D242CCEE60AC2"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4346153F051EABEB"
+				item: "moa_decor_art:paletadepintura"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 22.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3D648FFE0F5CB7B6"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:arts_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3E8ECE4B810773EC"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0F9D73785A844001"
+				item: "moa_decor_art:microfono"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 22.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4AD920950F463A52"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:arts_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "581CE2D8F98F8DCC"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0E6F727C3C35B601"
+				item: "moa_decor_art:microfonoenpedestal"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 22.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "50977C73D13FE11A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:arts_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6A80732F7E8B28EE"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "15545C44B8E11864"
+				item: "moa_decor_art:tecladomusical"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 22.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "021B446D89FBB307"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:arts_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5D9DF1B8F7EFA924"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "174886E656FB2AC5"
+				item: "moa_decor_art:arpa"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 22.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3E4BECCAD5BCA197"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:arts_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "76A0EC0D8D894278"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "3FAF2F309E9E22E2"
+				item: "moa_decor_art:amplificador"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 22.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2F2A96984A975F7C"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:arts_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1B3CF2904827F4D7"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "2410BC13FFE8A900"
+				item: "moa_decor_art:mezcladordj"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 23.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6FFC82AA18BA2114"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:arts_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5FF2084CE81256AB"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5CAE0CC6F28F9B39"
+				item: "moa_decor_art:tocadiscos"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 23.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5DAB00E3244271C7"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:arts_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4C997A06EA2FF898"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "352EF4E56A38BD69"
+				item: "moa_decor_art:acuarelas"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 23.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "05A37DD7EBFC71CE"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:arts_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "08F3742F14D5A974"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5CE8DA0E51013AE9"
+				item: "moa_decor_art:pincelesenagua"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 23.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "68BF87A466520328"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:arts_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "176571B7E644A996"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4D0C35CB797471A7"
+				item: "moa_decor_art:martilloycincel"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 23.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "329FF1F152A143DE"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:arts_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6C4C9A797E7D824E"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5097DC6538F9FC94"
+				item: "moa_decor_art:maquinadecoser"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 23.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "395D72BDE555812D"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:arts_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6DD19282E77D20E6"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7896FA40D46C57E7"
+				item: "moa_decor_art:maniqui"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 24.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "072CBD3C22C65513"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:arts_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "305D02961430EA5C"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "72597CB869C5968C"
+				item: "moa_decor_art:tijeras"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 24.0d
+		}
+		{
+			dependencies: [
+				"0380F2EC7312B3F3"
+				"3D648FFE0F5CB7B6"
+				"4AD920950F463A52"
+				"50977C73D13FE11A"
+				"021B446D89FBB307"
+				"3E4BECCAD5BCA197"
+				"2F2A96984A975F7C"
+				"6FFC82AA18BA2114"
+				"5DAB00E3244271C7"
+				"05A37DD7EBFC71CE"
+				"68BF87A466520328"
+				"329FF1F152A143DE"
+				"395D72BDE555812D"
+				"072CBD3C22C65513"
+			]
+			icon: "moa_decor_art:paletadepintura"
+			id: "5DC963E3E7C846AE"
+			rewards: [{
+				count: 25
+				id: "30C36AE83E560BDE"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "3EF690BAD2723035"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Arts Completion"
+			x: -1.0d
+			y: 23.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "34FF5FAC970E4E68"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:film_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0A6CA3905D756616"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "62661864A0C2CA05"
+				item: "moa_decor_art:rollodepelicula"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 25.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3C1DB9C7FE620C2A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:film_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "58EC072A453E0C31"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7959A5057A8A590D"
+				item: "moa_decor_art:rollosdepelicula"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 25.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0E41EFF9B1DA70B0"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:film_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "075AB49EE7BEC4AA"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4DDCA3833F37DEF3"
+				item: "moa_decor_art:camaradecine"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 25.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "23FE3501BD88641A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:film_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0FEFC5D9FB3FFF65"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5537752309C699A0"
+				item: "moa_decor_art:claqueta"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 25.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3CE67A1C0E4890FC"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:film_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "21CD1DF3C6FDD12E"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "377612D6BEC9B727"
+				item: "moa_decor_art:silladedirector"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 25.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "66FF95B15400250C"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:film_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5E9D396B7651414E"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "329E3F47A5600339"
+				item: "moa_decor_art:reflector"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 25.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2C4140921F4BBA0A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:film_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "13314459A68AE58E"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "32FF75B5C11EB535"
+				item: "moa_decor_art:gafas_3d"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 26.5d
+		}
+		{
+			dependencies: [
+				"34FF5FAC970E4E68"
+				"3C1DB9C7FE620C2A"
+				"0E41EFF9B1DA70B0"
+				"23FE3501BD88641A"
+				"3CE67A1C0E4890FC"
+				"66FF95B15400250C"
+				"2C4140921F4BBA0A"
+			]
+			icon: "moa_decor_art:claqueta"
+			id: "55CB06AFC03E4212"
+			rewards: [{
+				count: 9
+				id: "6921777BABB52CC8"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "3CCFE0834D5B19B4"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Film Completion"
+			x: -1.0d
+			y: 26.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "28BD90A58539B64D"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:festive_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "07204AB2D6A3019F"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0CE475111329EC59"
+				item: "moa_decor_holidays:clabaza_creeper_nav"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 28.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2FE8F40095911337"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:festive_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0C1824C028C5D221"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "28AB95E5AEA5A9C8"
+				item: "moa_decor_holidays:corona_navidena"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 28.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6339D5E153AEAA73"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:festive_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6BAABFA669EB8347"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "61CC8810F78340E9"
+				item: "moa_decor_holidays:santa_claus"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 28.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5C4C3E6BDF730E84"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:festive_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "66EF1A95D3759383"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "2853E886BA6FADBC"
+				item: "moa_decor_holidays:duende_navideno"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 28.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5A8895CC5E62939C"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:festive_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "24B4E8953A7C1FE3"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "24CEC72959AFDDAF"
+				item: "moa_decor_holidays:duende_navidena"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 28.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "195DCFC912CA63B2"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:festive_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "278FC82B67751A72"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "157154EF0C94F546"
+				item: "moa_decor_holidays:creeper_nieve"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 28.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2D1758137231C339"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:festive_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4D9311936DEEC065"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7DCB8FA794FA3D94"
+				item: "moa_decor_holidays:base_pino_navideno"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 29.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6346C112E5D53401"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:festive_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4ABDF7665BECE8AA"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1C2AA682F7CB633F"
+				item: "moa_decor_holidays:pino_navideno"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 29.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "31A36F572F0B6033"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:festive_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "643EC7CB96837CFF"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "570E2B03226398A2"
+				item: "moa_decor_holidays:estrella_navidena"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 29.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4D55E8E745E46AD5"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:festive_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5013B7A92ED315AC"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "41905E0BC50E2C18"
+				item: "moa_decor_holidays:p_oso_polar_n"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 29.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3954D903FAFDFC0C"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:festive_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "57BAE6A6819323EC"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4B78EC76FA4EC9E9"
+				item: "moa_decor_holidays:p_galleta_jengibre"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 29.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "76A77EACFD502F94"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:festive_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "721653F428A31255"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "22D250D7C6039598"
+				item: "moa_decor_holidays:p_galleta_jengibre_n"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 29.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "77AD38C892301C45"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:festive_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "47FCBBC8FE5952A4"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "3FF3E8552F41E502"
+				item: "moa_decor_holidays:leprechaun"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 30.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5C6182AC566976B6"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:festive_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "40B171CD34849EA5"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "561F9DE916DC4CB5"
+				item: "moa_decor_holidays:leprechaunolladeoro"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 30.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "789533DED0E7A5FE"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:festive_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2CCF771872A0DA1E"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "2F3885EB3739B3B6"
+				item: "moa_decor_holidays:c_pblanco"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 30.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "390F2D20FD2A0749"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:festive_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4F7CBDBF2B676F4B"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6E363627D400D745"
+				item: "moa_decor_holidays:c_pcafe"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 30.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "343DBB81301A7199"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:festive_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "68B06BED7B740220"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "57F2F3159458AE03"
+				item: "moa_decor_holidays:c_pdorado"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 30.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "275218C721F7BEDE"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:festive_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7DE8BE68DA9C16E4"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "37C43A4D6492B169"
+				item: "moa_decor_holidays:c_pnegro"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 30.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "70C06DD02D9D8DC1"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:festive_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "16DBB35601C066DA"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0EBB6EDF5123AC77"
+				item: "moa_decor_holidays:conejo_chocolate"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 31.0d
+		}
+		{
+			dependencies: [
+				"28BD90A58539B64D"
+				"2FE8F40095911337"
+				"6339D5E153AEAA73"
+				"5C4C3E6BDF730E84"
+				"5A8895CC5E62939C"
+				"195DCFC912CA63B2"
+				"2D1758137231C339"
+				"6346C112E5D53401"
+				"31A36F572F0B6033"
+				"4D55E8E745E46AD5"
+				"3954D903FAFDFC0C"
+				"76A77EACFD502F94"
+				"77AD38C892301C45"
+				"5C6182AC566976B6"
+				"789533DED0E7A5FE"
+				"390F2D20FD2A0749"
+				"343DBB81301A7199"
+				"275218C721F7BEDE"
+				"70C06DD02D9D8DC1"
+			]
+			icon: "moa_decor_holidays:corona_navidena"
+			id: "5DF3E7B40A3B7BED"
+			rewards: [{
+				count: 40
+				id: "38CA04FE5EDB6EDE"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "2793A160150EAB46"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Festive Completion"
+			x: -1.0d
+			y: 29.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "261A2537C5FEC74F"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:books_and_exploration_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "58E8472348422F73"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "10263FDA0C5F0CAE"
+				item: "moa_decor_science:telescopio"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 32.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "430C9DEB208C9809"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:books_and_exploration_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1F4F867C5998995F"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "3FFA5483FC0BCD73"
+				item: "moa_decor_science:globoterraqueo"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 32.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "680B46DA7B632A0E"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:books_and_exploration_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "228FB423B29F35C4"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "077002029E140787"
+				item: "moa_decor_science:brujula"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 32.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3CC8E20633C69938"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:books_and_exploration_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4441BA07D6D0934C"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1B7244FF03EEABD3"
+				item: "moa_decor_science:mapadeltesoro"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 32.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2051DE3C85768E10"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:books_and_exploration_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4FF86DA40A3D532D"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "19426AD83FC7A23D"
+				item: "moa_decor_science:libro"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 32.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1D3B925F21006415"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:books_and_exploration_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2A215489803B7418"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "2FF6B13C8D2A45D7"
+				item: "moa_decor_science:libroabierto"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 32.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0799E9A7D0A718BF"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:books_and_exploration_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "76408C1B87628E87"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4CFBE624ABD1FAFB"
+				item: "moa_decor_science:libroytintero"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 33.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0554C2569E5F16E1"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:books_and_exploration_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "47C3ED087CC5FBAB"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "458C3ED7F236E169"
+				item: "moa_decor_science:tintero"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 33.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "78191BA2D3A871F4"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:books_and_exploration_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "18C94A1883B4D1B8"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "21B9984880FA55A4"
+				item: "moa_decor_science:libros"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 33.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "47ECF5DF41B3626F"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:books_and_exploration_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "085F1C5B4F9CCC9D"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "328A2BFA6A96AC8B"
+				item: "moa_decor_science:librosapilados"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 33.5d
+		}
+		{
+			dependencies: [
+				"261A2537C5FEC74F"
+				"430C9DEB208C9809"
+				"680B46DA7B632A0E"
+				"3CC8E20633C69938"
+				"2051DE3C85768E10"
+				"1D3B925F21006415"
+				"0799E9A7D0A718BF"
+				"0554C2569E5F16E1"
+				"78191BA2D3A871F4"
+				"47ECF5DF41B3626F"
+			]
+			icon: "moa_decor_science:globoterraqueo"
+			id: "1A18D249B325E5FE"
+			rewards: [{
+				count: 16
+				id: "5CCF7C05A8D5352D"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "7A5E0099A2AAF6AF"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Books and Exploration Completion"
+			x: -1.0d
+			y: 33.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "10BA915745C74939"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:lab_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "41DA009C236214A1"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6024A071754F3639"
+				item: "moa_decor_science:lupa"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 35.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "302ED4DDACEA7DEC"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:lab_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "24D9E33F5AFC6BF3"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "13422DCDB4D53763"
+				item: "moa_decor_science:microscopio"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 35.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "242F92826BFECC86"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:lab_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2E9941019147C51B"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6F4C490E23D970FC"
+				item: "moa_decor_science:calculadora"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 35.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "18F304DE65293F4E"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:lab_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3B2EF31A286E67F0"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "276F1F48A5ED81D3"
+				item: "moa_decor_science:bascula"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 35.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4879E007E0A7DBBF"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:lab_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4287CEBDC0722744"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4CB1D0F3204349D0"
+				item: "moa_decor_science:veneno"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 35.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3B4C3B7EFFBF8E76"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:lab_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "69993556BFB2842A"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "53DE6EC31ECCD1D1"
+				item: "moa_decor_science:barriltoxico"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 35.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "48ECC19E23BFF099"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:lab_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "52BA8A857AA937A3"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "3D16E99C0F4A13D6"
+				item: "moa_decor_science:barriltoxicoderramado"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 36.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "10F734B70646C210"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:lab_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7B072AA78BB55756"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "659A54E3438DD730"
+				item: "moa_decor_science:barrilinflamable"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 36.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1A93952F2DE3BAF7"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:lab_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "212B605E5FEB362E"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "30B313599AEF2BE7"
+				item: "moa_decor_science:barrilinflamablederramado"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 36.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4020EDE7613BA7A9"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:lab_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "33BCB4315132965D"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6F40C9C8CA2FBE67"
+				item: "moa_decor_science:frascodepildoras"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 36.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3F4D23EA6AB19EC2"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:lab_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "70486991A2A64FE2"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "71EED9EC47D817D3"
+				item: "moa_decor_science:frascodepildorasabierto"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 36.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0950942B451D186B"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:lab_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2DE4375C6184F089"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "29AB2384977E4088"
+				item: "moa_decor_science:botiquindepared"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 36.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0F9DAC6AF99E11B2"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:lab_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1973E5D80FB11720"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "46936D2DB1771F3C"
+				item: "moa_decor_science:lectordesignosvitales"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 37.0d
+		}
+		{
+			dependencies: [
+				"10BA915745C74939"
+				"302ED4DDACEA7DEC"
+				"242F92826BFECC86"
+				"18F304DE65293F4E"
+				"4879E007E0A7DBBF"
+				"3B4C3B7EFFBF8E76"
+				"48ECC19E23BFF099"
+				"10F734B70646C210"
+				"1A93952F2DE3BAF7"
+				"4020EDE7613BA7A9"
+				"3F4D23EA6AB19EC2"
+				"0950942B451D186B"
+				"0F9DAC6AF99E11B2"
+			]
+			icon: "moa_decor_science:microscopio"
+			id: "5F4B15EA37F5CCB3"
+			rewards: [{
+				count: 23
+				id: "18D6120B4E510880"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "420B54E2C8C6D5FE"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Lab Completion"
+			x: -1.0d
+			y: 36.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "7129F92F81411451"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:sheep_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5B716E00A62D60DB"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "03531BADF7F6EFE9"
+				item: "moa_decor_toys:ovejablanca"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 38.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "030D6CC2075ECA26"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:sheep_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "768F8EA5105BDC57"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "3A390F123371DAB6"
+				item: "moa_decor_toys:ovejagrisclara"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 38.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "255767F3F6ED0106"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:sheep_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2AB17F5FB322DDAE"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5EC7D497F1E11F08"
+				item: "moa_decor_toys:ovejagris"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 38.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "106E311DEC5AE3B3"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:sheep_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4897E1302EBDAB24"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "175631C8543467A2"
+				item: "moa_decor_toys:ovejanegra"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 38.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "38F88CC61356CF83"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:sheep_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "401E5C65A74EB0C1"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "360ADA8E2C6A8C7A"
+				item: "moa_decor_toys:ovejacafe"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 38.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0366382C75AB9449"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:sheep_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "59203C55DE912B69"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5E03ED1726C98FD5"
+				item: "moa_decor_toys:ovejaroja"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 38.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "183C4A21851C1E02"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:sheep_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5F4613418FECB018"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "211658681E6FAC53"
+				item: "moa_decor_toys:ovejanaranja"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 39.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "33360C618C42171B"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:sheep_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "33087555CB21D1A2"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "08CAABA4F185D3E7"
+				item: "moa_decor_toys:ovejaamarilla"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 39.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "178E2B88433FB9BA"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:sheep_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0C63C9D1FF364F01"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1A890514CB8AE590"
+				item: "moa_decor_toys:ovejaverdelima"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 39.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "37738AD86CDB0EAD"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:sheep_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3F164EF4B502827A"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7A2D9882E48BC252"
+				item: "moa_decor_toys:ovejaverde"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 39.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1151D49FADF2965C"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:sheep_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "36B8D53B4548CD4F"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "30514A61731545E3"
+				item: "moa_decor_toys:ovejacian"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 39.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "7690BEF602B3CBCB"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:sheep_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0E7E1A043D74EF32"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "21D1D91190B37F1F"
+				item: "moa_decor_toys:ovejaazulclara"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 39.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "33B89129C297F04C"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:sheep_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2D2B5F8B0A96A8B9"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "43AB82CBA058DE2A"
+				item: "moa_decor_toys:ovejaazul"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 40.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "207A8B1E02582569"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:sheep_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6534EA46457DCB0E"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "69D6EAC7775E72B9"
+				item: "moa_decor_toys:ovejamorada"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 40.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3B7341D69CFD272D"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:sheep_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "146D529377D09EE2"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "2D485A1C83E31B38"
+				item: "moa_decor_toys:ovejamagenta"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 40.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5E4E409F1A4E4713"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:sheep_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0C673BCB5B3F0F82"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "04D3C7712D9339D2"
+				item: "moa_decor_toys:ovejarosa"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 40.5d
+		}
+		{
+			dependencies: [
+				"7129F92F81411451"
+				"030D6CC2075ECA26"
+				"255767F3F6ED0106"
+				"106E311DEC5AE3B3"
+				"38F88CC61356CF83"
+				"0366382C75AB9449"
+				"183C4A21851C1E02"
+				"33360C618C42171B"
+				"178E2B88433FB9BA"
+				"37738AD86CDB0EAD"
+				"1151D49FADF2965C"
+				"7690BEF602B3CBCB"
+				"33B89129C297F04C"
+				"207A8B1E02582569"
+				"3B7341D69CFD272D"
+				"5E4E409F1A4E4713"
+			]
+			icon: "moa_decor_toys:ovejarosa"
+			id: "25FB34AE0007C525"
+			rewards: [{
+				count: 31
+				id: "3CBEDC3B0C2FDFC1"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "601E552A508E0A32"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Sheep Plushes Completion"
+			x: -1.0d
+			y: 39.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "7AD73DD1AC18887D"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:horse_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "194C1298CB1768FE"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "68283657A2B87709"
+				item: "moa_decor_toys:caballoblanco"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 42.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "094D077A251666EC"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:horse_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "03502C1E456E3DF2"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "13AFBDB594351DDE"
+				item: "moa_decor_toys:caballocafe"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 42.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5C45449CE69C8F8D"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:horse_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1C2E39FF63135F3C"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "2D1C7B1C9A9F8C8A"
+				item: "moa_decor_toys:caballocafeosc"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 42.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2C5AA21E47407E9C"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:horse_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "16BA0603FF9C53AD"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "2872A00924A7A606"
+				item: "moa_decor_toys:caballocastano"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 42.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6DC677AB79373C73"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:horse_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "62EE4B39687A233E"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7AC25A4FE8E10282"
+				item: "moa_decor_toys:caballocrema"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 42.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "74E8729BCA42D2EA"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:horse_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "601E71B53C1301F7"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "62D6CC7D20C558A3"
+				item: "moa_decor_toys:caballogris"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 42.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4A737169DC908078"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:horse_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3E5A2D7BA4B542C0"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1196D2349D03D0B0"
+				item: "moa_decor_toys:caballonegro"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 43.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "191500AA44A66DFB"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:horse_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "19B6DE6F65E76108"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0D0BEFDD89B29CE1"
+				item: "moa_decor_toys:caballocafe_r"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 43.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "128D610DD2D73D90"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:horse_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5671619F5AD6B4FD"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "31331D30C7A67CCF"
+				item: "moa_decor_toys:caballocafeosc_r"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 43.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "17EB810DAC548B73"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:horse_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3472725680FD1A6B"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "61A920E0FD7FD2C3"
+				item: "moa_decor_toys:caballocastano_r"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 43.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2D4028238C88F728"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:horse_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0A37FA2F51918044"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5038D78E2B304CAF"
+				item: "moa_decor_toys:caballocrema_r"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 43.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "30C39BF2F4E1D836"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:horse_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3596D66C4FFCF694"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "47B8C91BA4D039C1"
+				item: "moa_decor_toys:caballogris_r"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 43.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5F68A07D1394642E"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:horse_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "413DC1873219BEC3"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6F23687EA9553902"
+				item: "moa_decor_toys:caballonegro_r"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 44.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1039DBCC03EC7EFD"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:horse_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7463A1952DAB7BCB"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "3F7F97B34E907697"
+				item: "moa_decor_toys:caballocafe_m"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 44.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "585F44BE1989D95F"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:horse_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "18746C0AA2CB7D2B"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "32C3A97577B7AB40"
+				item: "moa_decor_toys:caballocafeosc_m_1"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 44.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2632A8657C1F9B39"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:horse_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "62AE35156FA2E3DD"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7AD23322350C5B26"
+				item: "moa_decor_toys:caballocastano_m"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 44.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "7FA51F86B57119B7"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:horse_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "01885DAC6B7B31EA"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7BFCAAFC887891CA"
+				item: "moa_decor_toys:caballocrema_m"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 44.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "74521ECFBF7DC9ED"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:horse_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6F5F7B06B4FFABF8"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "23DF42E3CD31881C"
+				item: "moa_decor_toys:caballogris_m"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 44.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "671CEE13C646706C"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:horse_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4CA35413F69CBF36"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "594AD1C55C60D1A2"
+				item: "moa_decor_toys:caballonegro_m"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 45.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3FA33ED38DEDC117"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:horse_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "03668BE46C6CB0F4"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "60FB5AA25DE7CACB"
+				item: "moa_decor_toys:caballoblanco_h"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 45.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "21F56A64EFA37E99"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:horse_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3AD5C9AA70CD6AFD"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5611102E1C60AB47"
+				item: "moa_decor_toys:caballocafe_h"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 45.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "05320611C8653184"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:horse_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7B6BA9619C709F7A"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "2A9F1F3376E0D465"
+				item: "moa_decor_toys:caballocafeosc_h"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 45.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "774BAA21D7AA9A4F"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:horse_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "414082A68865E503"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "522F9F7CBCCA1CB1"
+				item: "moa_decor_toys:caballocastano_h"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 45.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "11CB8B49A8324FE4"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:horse_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "27C8216F1BD904EB"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "3E16B5F63407FCD0"
+				item: "moa_decor_toys:caballocrema_h"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 45.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2EC9ACAF3C10E3F8"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:horse_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4D7152967A19B7C4"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "17E60051B29A9DC3"
+				item: "moa_decor_toys:caballogris_h"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 46.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3043B8D1B08D9A67"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:horse_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "674726E590057A5E"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "09E15E579DF86827"
+				item: "moa_decor_toys:caballonegro_h"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 46.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "682C3EA55E6BF047"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:horse_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2B9E6F367471E58E"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "15421692899EBCE9"
+				item: "moa_decor_toys:caballocafe_c"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 46.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "652BB3A52F570527"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:horse_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3E4C1FBFFF95DC8B"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "51CADDB76AC2F724"
+				item: "moa_decor_toys:caballocafeosc_c"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 46.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "57F22D0A818B0D74"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:horse_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3AD67E2725280950"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4823A0C509C92089"
+				item: "moa_decor_toys:caballocastano_c"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 46.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2FC2A9A24923E4C9"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:horse_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6EE6BB143859A133"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "2EA15651DA718E88"
+				item: "moa_decor_toys:caballocrema_c"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 46.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "117A281E01E01B97"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:horse_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "69902469AD5841D5"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7F38CEA52014C013"
+				item: "moa_decor_toys:caballogris_c"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 47.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "325EA61660B2CD34"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:horse_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4CCDBB08801C3FA6"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1F17DE3B6C689D09"
+				item: "moa_decor_toys:caballonegro_c"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 47.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "245D5E803D3C6239"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:horse_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "678AB856A04B85BC"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "10A501A6A2537B77"
+				item: "moa_decor_toys:caballoesqueleto"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 47.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "33036A5086AE12DC"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:horse_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0F00F59CA9486A3A"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "322AEAF6380506C4"
+				item: "moa_decor_toys:burro"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 47.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6B89AEFBF22F78F0"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:horse_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4FCB5EC3DABF4ED5"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "72C94F51C5FB0D37"
+				item: "moa_decor_toys:mula"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 47.0d
+		}
+		{
+			dependencies: [
+				"7AD73DD1AC18887D"
+				"094D077A251666EC"
+				"5C45449CE69C8F8D"
+				"2C5AA21E47407E9C"
+				"6DC677AB79373C73"
+				"74E8729BCA42D2EA"
+				"4A737169DC908078"
+				"191500AA44A66DFB"
+				"128D610DD2D73D90"
+				"17EB810DAC548B73"
+				"2D4028238C88F728"
+				"30C39BF2F4E1D836"
+				"5F68A07D1394642E"
+				"1039DBCC03EC7EFD"
+				"585F44BE1989D95F"
+				"2632A8657C1F9B39"
+				"7FA51F86B57119B7"
+				"74521ECFBF7DC9ED"
+				"671CEE13C646706C"
+				"3FA33ED38DEDC117"
+				"21F56A64EFA37E99"
+				"05320611C8653184"
+				"774BAA21D7AA9A4F"
+				"11CB8B49A8324FE4"
+				"2EC9ACAF3C10E3F8"
+				"3043B8D1B08D9A67"
+				"682C3EA55E6BF047"
+				"652BB3A52F570527"
+				"57F22D0A818B0D74"
+				"2FC2A9A24923E4C9"
+				"117A281E01E01B97"
+				"325EA61660B2CD34"
+				"245D5E803D3C6239"
+				"33036A5086AE12DC"
+				"6B89AEFBF22F78F0"
+			]
+			icon: "moa_decor_toys:caballocafe"
+			id: "1B9726F3A1CE51CC"
+			rewards: [{
+				count: 108
+				id: "546877A4C0919480"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "12BAAF2C3B806E5F"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Horse Plushes Completion"
+			x: -1.0d
+			y: 44.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "57FADD50584918C8"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:home_animal_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2144389906AC60E9"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7CB613200D3D865E"
+				item: "moa_decor_toys:lobo"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 48.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "376ED8941FD4F183"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:home_animal_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3CCF7FBA31B50A53"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "717B477877701A2D"
+				item: "moa_decor_toys:vaca"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 48.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5C528F5D9D25F010"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:home_animal_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3FC689C03F70423F"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1D8DCEE653F0F779"
+				item: "moa_decor_toys:gallina"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 48.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "602DDFE5FCDB772D"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:home_animal_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0B8224DE9303B0BB"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "168D560F8D8E5465"
+				item: "moa_decor_toys:cerdo"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 48.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1E52D695390F0E99"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:home_animal_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "427BCD3AC9F60D6F"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "2671156F21595BD2"
+				item: "moa_decor_toys:abeja"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 48.5d
+		}
+		{
+			dependencies: [
+				"57FADD50584918C8"
+				"376ED8941FD4F183"
+				"5C528F5D9D25F010"
+				"602DDFE5FCDB772D"
+				"1E52D695390F0E99"
+			]
+			icon: "moa_decor_toys:gallina"
+			id: "53B0EA87640A30BB"
+			rewards: [{
+				count: 6
+				id: "7B4B044AE875FDAA"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "737C6D668071CB63"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Home Animal Plushes Completion"
+			x: -1.0d
+			y: 48.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "08A012C5DF4C3248"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rabbit_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "241CBDBFDBACB915"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "32D858D78216B740"
+				item: "moa_decor_toys:conejoblancoynegro"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 50.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "642C22178BF8B821"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rabbit_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "19A5DB69263ECD03"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4DF3A197FE5EACA1"
+				item: "moa_decor_toys:conejoblanco"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 50.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "43670E1D08041EFE"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rabbit_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7F8B412A0D5CBE26"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "041A3C6BD7A30923"
+				item: "moa_decor_toys:conejocafe"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 50.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "10F131F2C5237848"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rabbit_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "66F399DBF2D48FA7"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "39D22C702E8574C7"
+				item: "moa_decor_toys:conejocastano"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 50.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6CB3B2BA392B0F7A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rabbit_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "514A42E4FD142DF5"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "302B5F07DC9095AB"
+				item: "moa_decor_toys:conejodorado"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 50.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "468BE78DE1C167DD"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:rabbit_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5D0A166356C78B7D"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4B2125FD2AB544A1"
+				item: "moa_decor_toys:conejonegro"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 50.0d
+		}
+		{
+			dependencies: [
+				"08A012C5DF4C3248"
+				"642C22178BF8B821"
+				"43670E1D08041EFE"
+				"10F131F2C5237848"
+				"6CB3B2BA392B0F7A"
+				"468BE78DE1C167DD"
+			]
+			icon: "moa_decor_toys:conejocastano"
+			id: "7FC689864BCEA79E"
+			rewards: [{
+				count: 8
+				id: "3AD8209EB5226594"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "6DF37C8D9445F644"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Rabbit Plushes Completion"
+			x: -1.0d
+			y: 50.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3CCA951540845FD1"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:cat_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "290864BF5848D1BA"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "56F5B680B225872E"
+				item: "moa_decor_toys:ocelote"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 51.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "315BC7F8BDC5EDF2"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:cat_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "30FC5A3CD788C4FC"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "50C7547959592F23"
+				item: "moa_decor_toys:gatoatigrado"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 51.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2CA72F08ABFCAF89"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:cat_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5E9E40175A2C9ED0"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5128CC1B0C30589E"
+				item: "moa_decor_toys:gatoblanco"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 51.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1FBDA2774348F53B"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:cat_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "568B22D0A6BA42B3"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "3B486DA2891EE4FE"
+				item: "moa_decor_toys:gatobritanico"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 51.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "22CC8FEE2391D935"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:cat_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5D2BD0BFABB5E042"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "12F4D995D9DA1999"
+				item: "moa_decor_toys:gatocalico"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 51.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1EBB8AF4308A853E"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:cat_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "06CD560297622B59"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5215F2D6616BDA7C"
+				item: "moa_decor_toys:gatojellie"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 51.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5AAF3E544BE31D9F"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:cat_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7E781417D855DAAE"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "104ABB75D382C11C"
+				item: "moa_decor_toys:gatonegro"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 52.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "350328AFA1AA4B19"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:cat_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "65B8A7BB232D04B0"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0B0713E99C91EC0D"
+				item: "moa_decor_toys:gatopersa"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 52.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "336371B956F92831"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:cat_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7E689D440C9B01A2"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "42071E1A46AEA994"
+				item: "moa_decor_toys:gatoragdoll"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 52.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4F70E119D1D75BD9"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:cat_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "37FDEC46EFCA4668"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "743FB0ED5348297D"
+				item: "moa_decor_toys:gatosiames"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 52.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "00F0163AD270782E"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:cat_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2F193E165C3B8E6B"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "285D85D3F30B6430"
+				item: "moa_decor_toys:gatotabby"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 52.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "48BDFA2623A2756F"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:cat_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1C651FB6EC6B5E36"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "05C2AE1E7D3EEE56"
+				item: "moa_decor_toys:gatotuxedo"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 52.5d
+		}
+		{
+			dependencies: [
+				"3CCA951540845FD1"
+				"315BC7F8BDC5EDF2"
+				"2CA72F08ABFCAF89"
+				"1FBDA2774348F53B"
+				"22CC8FEE2391D935"
+				"1EBB8AF4308A853E"
+				"5AAF3E544BE31D9F"
+				"350328AFA1AA4B19"
+				"336371B956F92831"
+				"4F70E119D1D75BD9"
+				"00F0163AD270782E"
+				"48BDFA2623A2756F"
+			]
+			icon: "moa_decor_toys:gatojellie"
+			id: "6BC4762162B47AE7"
+			rewards: [{
+				count: 20
+				id: "7A2BCC5423B0B8A1"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "602096726D2D84F4"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Cat Plushes Completion"
+			x: -1.0d
+			y: 52.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "06B35771FEC092D4"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:parrot_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "553DD08460DE5432"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "3BB08EADE093F025"
+				item: "moa_decor_toys:loroazul"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 54.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "10773320A4386E8D"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:parrot_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7983F90A5663D3AE"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7A6144128CFBFC57"
+				item: "moa_decor_toys:lorocian"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 54.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2C20BDF763104C8C"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:parrot_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3255756AB9A81B02"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "16DD9E77F3B7170A"
+				item: "moa_decor_toys:lorogris"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 54.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4B42348E8F6DAF98"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:parrot_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6BCE32663216CC1F"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "77B9FCBDE231CBF3"
+				item: "moa_decor_toys:lororojo"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 54.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "363D77FD4CFE6DD5"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:parrot_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3C061FCB98FB104B"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6BE964CB13A543BD"
+				item: "moa_decor_toys:loroverde"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 54.0d
+		}
+		{
+			dependencies: [
+				"06B35771FEC092D4"
+				"10773320A4386E8D"
+				"2C20BDF763104C8C"
+				"4B42348E8F6DAF98"
+				"363D77FD4CFE6DD5"
+			]
+			icon: "moa_decor_toys:loroazul"
+			id: "7088BB21BF411B2B"
+			rewards: [{
+				count: 6
+				id: "4E053AA79D1C62FB"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "474564FF4EB30657"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Parrot Plushes Completion"
+			x: -1.0d
+			y: 54.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2155F8513A5F803B"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:frog_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7C12256DF7C55EFE"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "36733F6C5E50EB6E"
+				item: "moa_decor_toys:ranatemplada"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 55.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4FA2CACE0630E9A8"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:frog_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2C1822B563AEB1E3"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4271176EE5CF7102"
+				item: "moa_decor_toys:ranacalida"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 55.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "780EE0AD09BDE9E6"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:frog_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7EE38059B1100222"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "2876C6953DB18FF0"
+				item: "moa_decor_toys:ranahelada"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 55.5d
+		}
+		{
+			dependencies: [
+				"2155F8513A5F803B"
+				"4FA2CACE0630E9A8"
+				"780EE0AD09BDE9E6"
+			]
+			icon: "moa_decor_toys:ranahelada"
+			id: "35E526429F59F2EE"
+			rewards: [{
+				count: 3
+				id: "2DBAD790F0ED00BC"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "77EB68B68984B052"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Frog Plushes Completion"
+			x: -1.0d
+			y: 55.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "058820E01329BA85"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:llama_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5743D74FD590B8B9"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "3EA60BED650B8234"
+				item: "moa_decor_toys:llamablanca"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 57.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "196332C60281FB5A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:llama_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2C5A68E086FDA9D9"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "276B03B4646C90E2"
+				item: "moa_decor_toys:llamacrema"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 57.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "04D3701F7844B31D"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:llama_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4CF6A439BCC60F15"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "113FB863EC6B0D4B"
+				item: "moa_decor_toys:llamagris"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 57.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4824A9A6C2298859"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:llama_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0A62A24973456E93"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5EA0D77E5D37C6FE"
+				item: "moa_decor_toys:llamacafe"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 57.0d
+		}
+		{
+			dependencies: [
+				"058820E01329BA85"
+				"196332C60281FB5A"
+				"04D3701F7844B31D"
+				"4824A9A6C2298859"
+			]
+			icon: "moa_decor_toys:llamagris"
+			id: "03E314A3A0229262"
+			rewards: [{
+				count: 4
+				id: "30E656E3C6055B61"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "56D93F44F2268FD9"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Llama Plushes Completion"
+			x: -1.0d
+			y: 57.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "304A0D6A356051F2"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:wild_animal_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "29891E90FBB0C027"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "649F4929C255104C"
+				item: "moa_decor_toys:zorro"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 58.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5345168BDD03B73D"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:wild_animal_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2F9250F558AB9DAD"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "79ECB76B803E919F"
+				item: "moa_decor_toys:zorroblanco"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 58.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4E259629EE3E3CD6"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:wild_animal_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6D1F1A6CC0E239D7"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "135EEC1296B64047"
+				item: "moa_decor_toys:osopolar"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 58.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "251F73E767441E7B"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:wild_animal_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0F6E6E06B7DD7F59"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0E763F9ED72DB423"
+				item: "moa_decor_toys:panda"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 58.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "7EDE0B851A7FB664"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:wild_animal_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2AC1B2E121608B8F"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0D3F886DCD77490F"
+				item: "moa_decor_toys:murcielago"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 58.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1C4BF62A417D1B00"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:wild_animal_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2797715EB10A4F28"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6D0675D08D082BFD"
+				item: "moa_decor_toys:champivaca"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 58.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "058C8029241CC5B7"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:wild_animal_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "77EA195AA9088420"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "37B1A632A5BC9FE8"
+				item: "moa_decor_toys:cabra"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 59.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0D4336932D09E53A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:wild_animal_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "33CF1ECCF26607B3"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "227631BDBE7BE41B"
+				item: "moa_decor_toys:golemdenieve"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 59.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "56A9F98D8FCAC138"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:wild_animal_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5E92544D1133146D"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "3E7932BF847C7A33"
+				item: "moa_decor_toys:camello"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 59.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "249857FB3D4DA8F5"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:wild_animal_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3F4B22AE7F37B528"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "3827895978F2817B"
+				item: "moa_decor_toys:sniffer"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 59.5d
+		}
+		{
+			dependencies: [
+				"304A0D6A356051F2"
+				"5345168BDD03B73D"
+				"4E259629EE3E3CD6"
+				"251F73E767441E7B"
+				"7EDE0B851A7FB664"
+				"1C4BF62A417D1B00"
+				"058C8029241CC5B7"
+				"0D4336932D09E53A"
+				"56A9F98D8FCAC138"
+				"249857FB3D4DA8F5"
+			]
+			icon: "moa_decor_toys:zorro"
+			id: "775D56FCD326D2E2"
+			rewards: [{
+				count: 16
+				id: "513B084AFFD1135F"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "5D96480C597086BE"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Wild Animal Plushes Completion"
+			x: -1.0d
+			y: 59.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "7CC7642C7EBA09E6"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:axolotl_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4115B09AB8DCC791"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "38F2605AC3B784C3"
+				item: "moa_decor_toys:ajoloteazul"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 61.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "70E2E89D9429A3DB"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:axolotl_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "16FBBED1D8BBA62F"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "50D3302A9299EC1F"
+				item: "moa_decor_toys:ajolotecafe"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 61.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "74C1C2A4E1898FA8"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:axolotl_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4106085AEFD6B6E8"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "619B9197D07C1762"
+				item: "moa_decor_toys:ajolotecian"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 61.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6F93F834430FDD32"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:axolotl_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2BF205D36E1CB738"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5F7BF6F74736EC35"
+				item: "moa_decor_toys:ajolotedorado"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 61.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0A9EF7AD70AB0034"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:axolotl_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "47B3D01838C6DDBC"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1F1AA4133DD344A3"
+				item: "moa_decor_toys:ajoloterosa"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 61.0d
+		}
+		{
+			dependencies: [
+				"7CC7642C7EBA09E6"
+				"70E2E89D9429A3DB"
+				"74C1C2A4E1898FA8"
+				"6F93F834430FDD32"
+				"0A9EF7AD70AB0034"
+			]
+			icon: "moa_decor_toys:ajoloterosa"
+			id: "19C31D851C700791"
+			rewards: [{
+				count: 6
+				id: "1218ADAF1CF64AD3"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "292FCD104396A3F7"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Axolotl Plushes Completion"
+			x: -1.0d
+			y: 61.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "14313933507D64A1"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:water_animal_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "43E0B98595F62CA6"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "423AC98B5CD45DF2"
+				item: "moa_decor_toys:tortugamarina"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 62.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "04F34241B705B028"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:water_animal_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6FD0539565DDFF09"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "10C126573AF94E95"
+				item: "moa_decor_toys:calamar"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 62.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "72C59E85BEE0CB86"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:water_animal_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0B9DA8A5A8588ED1"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "261BFAA20E539703"
+				item: "moa_decor_toys:calamarbrillante"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 62.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "14DC3C49BC7F9127"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:water_animal_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "69C8DD46119EE456"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "405406293ACA8045"
+				item: "moa_decor_toys:delfin"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 62.5d
+		}
+		{
+			dependencies: [
+				"14313933507D64A1"
+				"04F34241B705B028"
+				"72C59E85BEE0CB86"
+				"14DC3C49BC7F9127"
+			]
+			icon: "moa_decor_toys:delfin"
+			id: "0497968ACB88C974"
+			rewards: [{
+				count: 4
+				id: "6354CE518E33D985"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "7B13F26C696A2883"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Water Animal Plushes Completion"
+			x: -1.0d
+			y: 62.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "27A77D0459E5AC41"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:village_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "59F0D268149EA859"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1136F7187479CFAF"
+				item: "moa_decor_toys:aldeano"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 64.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "119FB4ECDBDB1239"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:village_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6CAE26DD1875A762"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "611022D8E13734F0"
+				item: "moa_decor_toys:aldeanodesierto"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 64.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "520790DDC422A759"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:village_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "40912843365AB22A"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "2A8E45E7682A1605"
+				item: "moa_decor_toys:aldeanosabana"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 64.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "428CD711993E7E9A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:village_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "16306434813418C6"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1E6056275E178B0C"
+				item: "moa_decor_toys:aldeanoinvierno"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 64.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5F5E3903EEBECBCC"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:village_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2C55D36DB12F9E26"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6FD0209DA65E7550"
+				item: "moa_decor_toys:aldeanotaiga"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 64.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2A037C3DF75EC383"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:village_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7D952088CC1F3CF3"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "00D4E8124835EBF4"
+				item: "moa_decor_toys:aldeanopantano"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 64.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0A45C57DF6EDF19E"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:village_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3DA40F89F205CFF4"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "311ACA973502B5ED"
+				item: "moa_decor_toys:vendedorambulante"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 65.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "69B19538DFBB3D1C"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:village_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3AB648D9A85F0384"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1FE67C5577245461"
+				item: "moa_decor_toys:golemdehierro"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 65.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5F3F9D41EBCF0873"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:village_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6EEB03E184908784"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "43277F2028B33FAC"
+				item: "moa_decor_toys:steve"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 65.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6DE79CF1D596B765"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:village_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "745F5C005009A096"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "21D8D86FF57E6C63"
+				item: "moa_decor_toys:alex"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 65.0d
+		}
+		{
+			dependencies: [
+				"27A77D0459E5AC41"
+				"119FB4ECDBDB1239"
+				"520790DDC422A759"
+				"428CD711993E7E9A"
+				"5F5E3903EEBECBCC"
+				"2A037C3DF75EC383"
+				"0A45C57DF6EDF19E"
+				"69B19538DFBB3D1C"
+				"5F3F9D41EBCF0873"
+				"6DE79CF1D596B765"
+			]
+			icon: "moa_decor_toys:aldeano"
+			id: "0867A804F661C7B1"
+			rewards: [{
+				count: 16
+				id: "5CA6F79B0BE47E20"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "1144FDD55E99EC63"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Village Plushes Completion"
+			x: -1.0d
+			y: 64.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4236384190DDBB3F"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:nether_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "73A626C3D7DB9BA7"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "13F42404AC5DBE33"
+				item: "moa_decor_toys:lavagante"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 66.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3BBE1C7E176C70A4"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:nether_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5F3AC6477814604C"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6D5CB74185A71C0D"
+				item: "moa_decor_toys:piglin"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 66.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "7B1C469D404CE2FB"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:nether_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6504910B905A9BAD"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "2B998597A1D39FF0"
+				item: "moa_decor_toys:piglinbruto"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 66.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "250AC471DBE3B35D"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:nether_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2946235DF63B683C"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4A8ED134908046EC"
+				item: "moa_decor_toys:piglinzombie"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 66.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "12A1559CF28D9399"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:nether_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7A9487AE42F133FD"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6B4CEC79AFBA27A3"
+				item: "moa_decor_toys:esqueletowither"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 66.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1D751AB886B3D59A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:nether_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3BB5D017C6C76CB1"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "2F1954CF4C33D7F0"
+				item: "moa_decor_toys:blaze"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 66.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5DCBE2B3D9B5EA43"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:nether_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "508FBA834CE43C2A"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1B04B609FA8E2EF6"
+				item: "moa_decor_toys:ghast"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 67.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "69A00D8EDD28080A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:nether_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5B7C178C0F2F4544"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4C701F902B85BF4A"
+				item: "moa_decor_toys:hoglin"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 67.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3B2D2E04E5A12011"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:nether_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "40B9CE80E6B18492"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4A073B1DBD582777"
+				item: "moa_decor_toys:zoglin"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 67.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6210EEE783262D7F"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:nether_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "56E896BED7E34589"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "64F8A29FDA44F69F"
+				item: "moa_decor_toys:lavaganteypiglinzombie"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 67.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "35AD8F602C303CC6"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:nether_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "50801F32FBFA1893"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "58D226C609E34685"
+				item: "moa_decor_toys:gallinaypiglinzombie"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 67.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "07D15B959E4D03AE"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:nether_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "48E1EC7F4F9A0C8A"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7473C882FF73899C"
+				item: "moa_decor_toys:cubodemagma"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 67.5d
+		}
+		{
+			dependencies: [
+				"4236384190DDBB3F"
+				"3BBE1C7E176C70A4"
+				"7B1C469D404CE2FB"
+				"250AC471DBE3B35D"
+				"12A1559CF28D9399"
+				"1D751AB886B3D59A"
+				"5DCBE2B3D9B5EA43"
+				"69A00D8EDD28080A"
+				"3B2D2E04E5A12011"
+				"6210EEE783262D7F"
+				"35AD8F602C303CC6"
+				"07D15B959E4D03AE"
+			]
+			icon: "moa_decor_toys:blaze"
+			id: "1F37FA073EC9773E"
+			rewards: [{
+				count: 20
+				id: "36F9DC3CF5A5F7D2"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "007B5EE23E336C9A"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Nether Plushes Completion"
+			x: -1.0d
+			y: 67.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "515E70E29C21C635"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:zombie_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5910EBCA211C5AE4"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5EBFB74EB1CF42D7"
+				item: "moa_decor_toys:zombie"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 69.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3ACC4C33067D3AD8"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:zombie_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "165395E6A6614885"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1337801ED2DF9BF7"
+				item: "moa_decor_toys:zombiemomificado"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 69.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "22C79F27B79DF188"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:zombie_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "31B64A2561DB9364"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "382A8D0512937CCC"
+				item: "moa_decor_toys:zombieahogado"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 69.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0775F9A9FCF56200"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:zombie_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "74D3901A275E6887"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "73871E3CB1C96C6E"
+				item: "moa_decor_toys:aleanozombie"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 69.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1D7B1CC6B5CB79F2"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:zombie_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "61847D9DB73B69C6"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "2A791AAA3524FB90"
+				item: "moa_decor_toys:gallinayzombie"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 69.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3921978F2AF0E7A6"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:zombie_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1031AEFC2BB88115"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "148DDF7A57E1424E"
+				item: "moa_decor_toys:gallinayzombiemomificado"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 69.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "7E322D2C1E468ED3"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:zombie_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "716677276A867438"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "044578E7DBE6F3B4"
+				item: "moa_decor_toys:gallinayahogado"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 70.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "56B346FE43DBC833"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:zombie_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2EC58F64F1380E13"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "50CABDC5412D5D64"
+				item: "moa_decor_toys:gallinayjinetealdeanozombie"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 70.0d
+		}
+		{
+			dependencies: [
+				"515E70E29C21C635"
+				"3ACC4C33067D3AD8"
+				"22C79F27B79DF188"
+				"0775F9A9FCF56200"
+				"1D7B1CC6B5CB79F2"
+				"3921978F2AF0E7A6"
+				"7E322D2C1E468ED3"
+				"56B346FE43DBC833"
+			]
+			icon: "moa_decor_toys:zombie"
+			id: "7C95C118FE9E734D"
+			rewards: [{
+				count: 11
+				id: "626158D9714C6D27"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "6D1AB40924CFA1DF"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Zombie Plushes Completion"
+			x: -1.0d
+			y: 69.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "721557B112D1F3D8"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:raid_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "650808F16CB7D33B"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "08B7E07B1DD7531A"
+				item: "moa_decor_toys:bruja"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 71.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1895AF13217B948C"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:raid_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1C230E341484CD42"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "27126DA26820FB88"
+				item: "moa_decor_toys:vindicador"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 71.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "7DB5E99222386998"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:raid_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "54D7778812306EA7"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "50344C14A3C8CB45"
+				item: "moa_decor_toys:invocador"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 71.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "54FD5AD8A7359584"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:raid_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "32C635731B0AC85B"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "205C5A992D47D89C"
+				item: "moa_decor_toys:vex"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 71.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "36F3551990912448"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:raid_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2298039AB9FBF9B8"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "3E588A4E694124D4"
+				item: "moa_decor_toys:saqueador"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 71.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0B650EDA7BF3C117"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:raid_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5786F96EFF4A2C0A"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7A83C910CEBCDD94"
+				item: "moa_decor_toys:devastador"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 71.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4F587558C26C5164"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:raid_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2EC281FA3A31B22C"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7C3B4498AD5DD202"
+				item: "moa_decor_toys:allay"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 72.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5567904DBDFFA0EE"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:raid_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "339FED801DEF6610"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "00812ECAD8C11DFE"
+				item: "moa_decor_toys:devastadorysaqueador"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 72.5d
+		}
+		{
+			dependencies: [
+				"721557B112D1F3D8"
+				"1895AF13217B948C"
+				"7DB5E99222386998"
+				"54FD5AD8A7359584"
+				"36F3551990912448"
+				"0B650EDA7BF3C117"
+				"4F587558C26C5164"
+				"5567904DBDFFA0EE"
+			]
+			icon: "moa_decor_toys:invocador"
+			id: "7E092D74FF0D05FC"
+			rewards: [{
+				count: 11
+				id: "773A59D1EC42C42B"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "2E444620171FBB09"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Raid Plushes Completion"
+			x: -1.0d
+			y: 72.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "55FE968D4D8A39A0"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:hostile_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "137A6F9C319256F5"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "46047FC9A4AA7540"
+				item: "moa_decor_toys:arana"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 74.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1DAB570346182984"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:hostile_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "786A77361842F00F"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "41D51D7C488753E0"
+				item: "moa_decor_toys:aranadelascuevas"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 74.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "7F8CF39285354729"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:hostile_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "478ACD0B678A1E5E"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "3BEA92C366D36EC5"
+				item: "moa_decor_toys:enderman"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 74.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "251063C2909CE639"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:hostile_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "13DF5E1AB8B1A9B1"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "61A3527A4D4F7537"
+				item: "moa_decor_toys:slime"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 74.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "186DD159DA22C3E8"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:hostile_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "14198F6D2B8CDCAE"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6DAF8E103BD5FB1D"
+				item: "moa_decor_toys:creeper"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 74.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "103790739ED854B9"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:hostile_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1C67BE7DADA870FE"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0377704DF7435167"
+				item: "moa_decor_toys:esqueleto"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 74.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "7B5FC926FA840F5A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:hostile_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3A8BC9295BB28B00"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "25DDB78F6833BADF"
+				item: "moa_decor_toys:esqueletoglacial"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 75.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "35A649EEFD12B838"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:hostile_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3916DD717C2D8559"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0546CCFBD54B1B46"
+				item: "moa_decor_toys:shulker"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 75.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "7BB6AAFB094F1931"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:hostile_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0542E01A263F5C44"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4DBB1559D6BD0CCA"
+				item: "moa_decor_toys:fantasma"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 75.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "60A3C3C62EEA53F5"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:hostile_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "55CDF6D54234AAAB"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6D43BB117C0FA176"
+				item: "moa_decor_toys:endermite"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 75.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "67C6B185C9940334"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:hostile_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "61CCEE5EF98B45A7"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "569421601FB003D9"
+				item: "moa_decor_toys:lepisma"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 75.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "06BACFBF702B6E82"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:hostile_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4EEE7D2C5559163C"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "462381626F964AB5"
+				item: "moa_decor_toys:guardian"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 75.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0B758447D4D7120F"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:hostile_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "70102021228B5C93"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1C91F80CAADA78EA"
+				item: "moa_decor_toys:aranayesqueleto"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 76.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5164FC924A823A1A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:hostile_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7A7DBFB477631EAE"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "329AA5D6E4D42D33"
+				item: "moa_decor_toys:caballoesqueletoyesqueleto"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 76.0d
+		}
+		{
+			dependencies: [
+				"55FE968D4D8A39A0"
+				"1DAB570346182984"
+				"7F8CF39285354729"
+				"251063C2909CE639"
+				"186DD159DA22C3E8"
+				"103790739ED854B9"
+				"7B5FC926FA840F5A"
+				"35A649EEFD12B838"
+				"7BB6AAFB094F1931"
+				"60A3C3C62EEA53F5"
+				"67C6B185C9940334"
+				"06BACFBF702B6E82"
+				"0B758447D4D7120F"
+				"5164FC924A823A1A"
+			]
+			icon: "moa_decor_toys:creeper"
+			id: "1233F62681E50A7E"
+			rewards: [{
+				count: 25
+				id: "479419EBA3BD89E2"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "1944C039B85C0956"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Hostile Plushes Completion"
+			x: -1.0d
+			y: 75.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2B38604913BADAF8"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:boss_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4285731A6BAA0566"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "2FE5F429B1FF8816"
+				item: "moa_decor_toys:guardiananciano"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 77.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "7DD5606385F29CE3"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:boss_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1702F9377A2A1F0D"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6AE8D8337A93148B"
+				item: "moa_decor_toys:wither"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 77.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1118597FFB7D8E2B"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:boss_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2363C62A9F0E24A0"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1AC234A19AFE51DF"
+				item: "moa_decor_toys:dragondelender"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 77.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0B69F03826588259"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:boss_plushes_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "202049D5B02DA436"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1521ED0AA6B0AE05"
+				item: "moa_decor_toys:warden"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 77.5d
+		}
+		{
+			dependencies: [
+				"2B38604913BADAF8"
+				"7DD5606385F29CE3"
+				"1118597FFB7D8E2B"
+				"0B69F03826588259"
+			]
+			icon: "moa_decor_toys:dragondelender"
+			id: "02FEE6568A7ADD02"
+			rewards: [{
+				count: 4
+				id: "473DC7AA605628E5"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "7B86A8BE795BAD65"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Boss Plushes Completion"
+			x: -1.0d
+			y: 77.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1E6CEF10DD954F67"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:toys_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3EB69875093D110C"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "37DC9C00390690C1"
+				item: "playdate:toy_bench"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 79.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5B2AB98FC318F95B"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:toys_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5986372AFFB3C08D"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4307B56C2001CB3E"
+				item: "playdate:dino"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 79.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "780147EEBB2F4DAD"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:toys_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4D6CAA1BA76F158B"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "10792B0365F2E496"
+				item: "playdate:teddy_bear"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 79.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "58444A9451F02B62"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:toys_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "69A12D7D8E64B4CE"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "07E78F51C2C2953F"
+				item: "playdate:ring_tower"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 79.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4F053B8C8C66797B"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:toys_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6C626418D35F2997"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "58A94E2AFDDCA643"
+				item: "playdate:rocking_horse"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 79.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "35F884D9C9BD9EA6"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:toys_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "13628D3559855690"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "2CFCBB799CB5FF72"
+				item: "playdate:toy_boat"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 79.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1FBDF1AEB0FC843A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:toys_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1B19350AE1817277"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "74C4375B58FF9272"
+				item: "playdate:toy_train"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 80.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2BDF6AA4BC0BEEF7"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:toys_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "34A0897114376721"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "3B8291D480236098"
+				item: "playdate:piggy_bank"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 80.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "649169AACC1334B3"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:toys_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "24C510AD2EEAACF4"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "584D97F8C0D25AC9"
+				item: "playdate:music_box"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 80.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1B99B6FC34938749"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:toys_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "684EA28C3408E8E8"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "069AA420542158A8"
+				item: "playdate:sock_monkey"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 80.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0DFDD0E326C156DB"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:toys_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7A3D5A1C4B0373E9"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "40F38CEC1EDDE01C"
+				item: "playdate:toy_clock"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 80.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "131E71DBFF03FDDE"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:toys_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "658F8B21B43B0E7D"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7DF84E45BF6D3FFE"
+				item: "playdate:toy_robot"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 80.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0C3964FD59767CD4"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:toys_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "37310311D27CA77B"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "253DE358A65D2588"
+				item: "playdate:wooden_duck"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 81.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "55EFA52F2AACDB1C"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:toys_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3EB0A9BF521A2AAD"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "20A656684623CD94"
+				item: "playdate:wooden_soldier"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 81.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "71FE44FCF8D1F033"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:toys_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7A65E3BCBDE62D06"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6768275EEDA3F14A"
+				item: "moa_decor_science:pizarra"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 81.0d
+		}
+		{
+			dependencies: [
+				"1E6CEF10DD954F67"
+				"5B2AB98FC318F95B"
+				"780147EEBB2F4DAD"
+				"58444A9451F02B62"
+				"4F053B8C8C66797B"
+				"35F884D9C9BD9EA6"
+				"1FBDF1AEB0FC843A"
+				"2BDF6AA4BC0BEEF7"
+				"649169AACC1334B3"
+				"1B99B6FC34938749"
+				"0DFDD0E326C156DB"
+				"131E71DBFF03FDDE"
+				"0C3964FD59767CD4"
+				"55EFA52F2AACDB1C"
+				"71FE44FCF8D1F033"
+			]
+			icon: "playdate:rocking_horse"
+			id: "34284D48873FF81A"
+			rewards: [{
+				count: 28
+				id: "240F27F041247205"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "49139D72B2523AA5"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Toys Completion"
+			x: -1.0d
+			y: 80.0d
+		}
+	]
+	title: "Common Decorations"
+}
