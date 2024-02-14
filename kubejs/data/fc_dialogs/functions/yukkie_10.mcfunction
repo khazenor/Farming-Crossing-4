@@ -1,0 +1,1 @@
+tellraw @p ["",{"text":"<Yukkie> ","color":"aqua"},{"text":"You found 10 different plants?!  Sweet!  When you find 35 different plants, let me know.  I’m sure you’ll have plenty of fruits for me by then!","color":"white"}]
