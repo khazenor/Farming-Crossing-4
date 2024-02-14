@@ -4,12 +4,16 @@
     - Now all collection questline have sub category completions with ticket rewards
     - Each item in the collection will have tooltips indicating which collection and sub collection they are in
     - Collecting an item (or spotting an animal) will trigger server chat messages indicating your main and sub collection progress
+    - unfortunately this would reset the collection progress for all existing players
   # Minor Updates:
     - animal fat now purchaseable from the market
     - pumpkin can now be seared on the farmer's delight cutting board with a minecraft shear
     - combined tutorial quests back to just one quest chapter
     - added a bare bones quest chapter guide for create
     - added create_central_kitchen for better integration between create and farmers delight
+  # Mods added 
+    - create_central_kitchen
+    - create_confectionary
 
 2.3:
   - removed TaxOceanVillager: it was generating command blocks on the server.
