@@ -5,3 +5,6 @@ def cleanedNameStr(nameStr):
 	newStr = re.sub(' +', '_', newStr)
 	newStr = newStr.lower()
 	return newStr
+
+def cleanQuotes(inStr):
+	return inStr.replace("'", "\\'")

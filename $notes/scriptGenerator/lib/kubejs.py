@@ -1,6 +1,10 @@
 import os
 from src import const
 
+def writeClientFile(content, filename):
+	with open(os.path.join(const.clientScripts(), f'{filename}.js'), 'w') as clientFile:
+		clientFile.write(content)
+
 def tradeStr(output, payment, paymentNum, level=1):
 	return f"  event.addTrade({level}, ['{paymentNum}x {payment}'], '{output}')\n"
 
