@@ -1,3 +1,8 @@
+3.0:
+  # Completely re-worked the collections quests
+    - Now all collection questline have sub category completions with ticket rewards
+    - Each item in the collection will have tooltips indicating which collection and sub collection they are in
+    - Collecting an item (or spotting an animal) will trigger server chat messages indicating your main and sub collection progress
 2.3:
   - removed TaxOceanVillager: it was generating command blocks on the server.
   - apple and cherry saplings from vinery should now be compostable
