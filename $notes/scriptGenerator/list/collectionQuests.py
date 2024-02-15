@@ -759,6 +759,11 @@ hatAccesories = [
   "simplehats:villagernose",
   "simplehats:supersandhat"
 ]
+allHats = (
+  hatFlat + hatMedium + hatTall + hatFaceCovering + hatHeadTopper +
+  hatDisguise + hatAnimal + hatEyewear + hatAroundHead +
+  hatAnimatedDetail + hatAccesories
+)
 commonHandheldInstruments = [
   'moa_decor_art:guitarra',
   'moa_decor_art:banyo',

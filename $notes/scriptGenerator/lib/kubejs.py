@@ -5,6 +5,10 @@ def writeClientFile(content, filename):
 	with open(os.path.join(const.clientScripts(), f'{filename}.js'), 'w') as clientFile:
 		clientFile.write(content)
 
+def writeServerFile(content, filename):
+	with(open(os.path.join(const.serverScripts(), f'{filename}.js'), "w")) as f:
+		f.write(content)
+
 def tradeStr(output, payment, paymentNum, level=1):
 	return f"  event.addTrade({level}, ['{paymentNum}x {payment}'], '{output}')\n"
 
@@ -35,6 +39,18 @@ def woodcutting(tagInput, outputItem, outputNumber):
 	outstr += f'    count:{outputNumber}\n'
 	outstr += '  })\n'
 	return outstr
+
+def villagerTradeWithDefaults(villagerItem, villagerNum, playerItem, playerNum, profession, level):
+	tradeExperience = 25
+	priceMultiplier = 0.035
+	return villagerTradeWCallback(
+		f'{playerNum}x {playerItem}',
+		f'{villagerNum}x {villagerItem}',
+		profession,
+		level,
+		tradeExperience,
+		priceMultiplier
+	)
 
 def villagerTradeWCallback(item, paymentItem, profession, level, experince, priceMultiplier):
 	outStr = f"  event.addCustomTrade('{profession}', {level}, (offer, entity, random) => {{\n"

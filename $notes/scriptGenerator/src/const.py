@@ -32,7 +32,7 @@ def farmingForBlockheads():
 	return os.path.join(data(), 'farmingforblockheads', 'farmingforblockheads_compat')
 
 def kubejs():
-	return '../../kubejs'
+	return '..\\..\\kubejs'
 
 def config():
 	return '../../config'

@@ -8,8 +8,10 @@ from src import gemCraftingTableSell
 from src import nonWanderingTrades
 from src import customVillagers
 from src import musicDiscs
+from src import clothesVillagerSell
 
 if __name__ == "__main__":
+	clothesVillagerSell.genClotheVillagerTrades()
 	musicDiscs.deployMusicDiscs()
 	customVillagers.deployFunctions()
 	nonWanderingTrades.genNonWanderingTrades()
