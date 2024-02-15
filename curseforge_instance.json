@@ -20802,6 +20802,302 @@
       }
     },
     {
+      "instanceID": "4af75b8a-bef8-428f-ab3f-d131ebb10b3f",
+      "modSource": 0,
+      "addonID": 443570,
+      "gameID": 432,
+      "categoryClassID": 6,
+      "gameInstanceID": "1dc6b087-a5ec-4bbf-8505-dcefe6146cd1",
+      "name": "Diet (Fabric/Forge/Quilt)",
+      "modFolderPath": null,
+      "fileNameOnDisk": "diet-forge-2.1.1+1.20.1.jar",
+      "authors": [
+        {
+          "Id": 34683772,
+          "Name": "TheIllusiveC4"
+        }
+      ],
+      "primaryAuthor": "TheIllusiveC4",
+      "primaryCategoryId": 436,
+      "packageType": 6,
+      "webSiteURL": "https://www.curseforge.com/minecraft/mc-mods/diet",
+      "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/344/704/256/256/637491222848246631.png",
+      "tags": [],
+      "installedFile": {
+        "id": 4813904,
+        "fileName": "diet-forge-2.1.1+1.20.1.jar",
+        "fileDate": "2023-10-24T01:57:42.553Z",
+        "fileLength": 368483,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/4813/904/diet-forge-2.1.1+1.20.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 706389576,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": ".cache",
+            "fingerprint": 2694597337,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "CHANGELOG.md",
+            "fingerprint": 2415124314,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "COPYING",
+            "fingerprint": 2226923820,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "COPYING.LESSER",
+            "fingerprint": 1136524626,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 3828459174,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "README.md",
+            "fingerprint": 796185843,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3220816229,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 435300495,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 1000352077,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "diet.mixins.json",
+            "fingerprint": 554656194,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "diet.refmap.json",
+            "fingerprint": 2502452041,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "diet_icon.png",
+            "fingerprint": 2571709559,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2447302212,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "spectrelib",
+            "fingerprint": 4247955780,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2585483751,
+        "gameVersion": [
+          "1.20.1",
+          "Forge",
+          "1.20"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersion": "1.20.1",
+            "gameVersionName": "1.20.1",
+            "gameVersionTypeId": 75125
+          },
+          {
+            "gameVersion": "",
+            "gameVersionName": "Forge",
+            "gameVersionTypeId": 68441
+          },
+          {
+            "gameVersion": "1.20",
+            "gameVersionName": "1.20",
+            "gameVersionTypeId": 75125
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "isEarlyAccessContent": false,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 4,
+        "projectId": 443570,
+        "fileNameOnDisk": "diet-forge-2.1.1+1.20.1.jar",
+        "hashes": [
+          {
+            "type": 1,
+            "value": "c5f5d5980803259931dfa62236e888fb08ecf70a"
+          },
+          {
+            "type": 2,
+            "value": "9a3d884e073eb6791be3fbcafd38f2b2"
+          }
+        ]
+      },
+      "dateInstalled": "2024-02-15T01:56:47.4118588Z",
+      "dateUpdated": "2024-02-15T01:56:47.4131136Z",
+      "status": 4,
+      "installSource": 6,
+      "preferenceReleaseType": null,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "manifestName": null,
+      "installedTargets": [],
+      "latestFile": {
+        "id": 4813904,
+        "fileName": "diet-forge-2.1.1+1.20.1.jar",
+        "fileDate": "2023-10-24T01:57:42.553Z",
+        "fileLength": 368483,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/4813/904/diet-forge-2.1.1+1.20.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 706389576,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": ".cache",
+            "fingerprint": 2694597337,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "CHANGELOG.md",
+            "fingerprint": 2415124314,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "COPYING",
+            "fingerprint": 2226923820,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "COPYING.LESSER",
+            "fingerprint": 1136524626,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE",
+            "fingerprint": 3828459174,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "README.md",
+            "fingerprint": 796185843,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3220816229,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 435300495,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "data",
+            "fingerprint": 1000352077,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "diet.mixins.json",
+            "fingerprint": 554656194,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "diet.refmap.json",
+            "fingerprint": 2502452041,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "diet_icon.png",
+            "fingerprint": 2571709559,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2447302212,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "spectrelib",
+            "fingerprint": 4247955780,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 2585483751,
+        "gameVersion": [
+          "1.20.1",
+          "Forge",
+          "1.20"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersion": "1.20.1",
+            "gameVersionName": "1.20.1",
+            "gameVersionTypeId": 75125
+          },
+          {
+            "gameVersion": "",
+            "gameVersionName": "Forge",
+            "gameVersionTypeId": 68441
+          },
+          {
+            "gameVersion": "1.20",
+            "gameVersionName": "1.20",
+            "gameVersionTypeId": 75125
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "isEarlyAccessContent": false,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 4,
+        "projectId": 443570,
+        "fileNameOnDisk": "diet-forge-2.1.1+1.20.1.jar",
+        "hashes": [
+          {
+            "type": 1,
+            "value": "c5f5d5980803259931dfa62236e888fb08ecf70a"
+          },
+          {
+            "type": 2,
+            "value": "9a3d884e073eb6791be3fbcafd38f2b2"
+          }
+        ]
+      }
+    },
+    {
       "instanceID": "07cd864d-f29f-4054-b304-a5ead09cdc76",
       "modSource": 0,
       "addonID": 577629,
