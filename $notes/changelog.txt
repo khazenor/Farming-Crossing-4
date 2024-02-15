@@ -18,6 +18,7 @@
     - create_central_kitchen
     - create_confectionary
     - diet
+    - constantmusic: you can change the music delay in the audio settings
 
 2.3:
   - removed TaxOceanVillager: it was generating command blocks on the server.

@@ -18,7 +18,8 @@ personalConfigs = [
 	'config\\xaerominimap.txt',
 	'config\\xaeropatreon.txt',
 	'config\\xaeroworldmap.txt',
-	'config\\dynamic_lights_reforged.toml'
+	'config\\dynamic_lights_reforged.toml',
+	'config\\constantmusic.toml'
 ]
 
 configFolderName = 'config'
