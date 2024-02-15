@@ -1,1 +1,0 @@
-tellraw @p ["",{"text":"<Ren> ","color":"aqua"},{"text":"I'm Woodpecker Ren...  Cutter of wood for many years... Making furniture? Simple. Find yourself some good materials and I'll help you from there","color":"white"}]

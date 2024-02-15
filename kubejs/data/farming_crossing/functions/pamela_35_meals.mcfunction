@@ -1,1 +1,0 @@
-tellraw @p ["",{"text":"<Pamela> ","color":"aqua"},{"text":"You did it! Congratulations on preparing 35 different meals!  If you find me a place to stay, I’d be delighted to sell you some cooking supplies!","color":"white"}]

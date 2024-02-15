@@ -1,1 +1,0 @@
-tellraw @p ["",{"text":"<Pamela> ","color":"aqua"},{"text":"Amazing!  You cooked all the recipes I shared with you!  There’s nothing left for me to teach you – you are a master chef!","color":"white"}]

@@ -28,6 +28,7 @@ def writeSummonCommands():
 	for villager in villagersWithTrades:
 		name = villager[nameKey]
 		mcfunction.writeFunction(
+			'fc_villagers',
 			name,
 			summonNpcCommand(
 				villager[textureKey],
@@ -38,6 +39,7 @@ def writeSummonCommands():
 	for villager in otherVillagers:
 		name = villager[nameKey]
 		mcfunction.writeFunction(
+			'fc_villagers',
 			name,
 			summonNpcCommand(
 				villager[textureKey],
@@ -60,12 +62,13 @@ def summonNpcCommand(texture, name, offerStr=""):
 def writeHighlightCommands():
 	for villager in villagersWithTrades + otherVillagers:
 		name = villager[nameKey]
-		mcfunction.writeFunction(f'{name}_highlight', highlightVillagerCommand(name))
+		mcfunction.writeFunction('fc_villagers', f'{name}_highlight', highlightVillagerCommand(name))
 
 def writeTradeUpdateCommands():
 	for villager in villagersWithTrades:
 		name = villager[nameKey]
 		mcfunction.writeFunction(
+			'fc_villagers',
 			f'{name}_update_trades',
 			highlightVillagerCommand(name) + "\n" +
 			tradeUpdateCommand(name)

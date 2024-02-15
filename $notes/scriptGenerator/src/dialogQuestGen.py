@@ -52,7 +52,7 @@ def villagerDialogQuestContent(dialogs, title, x, y, dependencyId):
 	outStr += f'		id: "{ftbQuest.randomId()}"\n'
 	outStr += '		rewards: [{\n'
 	outStr += '			auto: "invisible"\n'
-	outStr += f'			command: "/function farming_crossing:{stringCleaning.cleanedNameStr(title)}"\n'
+	outStr += f'			command: "/function fc_dialogs:{stringCleaning.cleanedNameStr(title)}"\n'
 	outStr += '			elevate_perms: true\n'
 	outStr += f'			id: "{ftbQuest.randomId()}"\n'
 	outStr += '			silent: true\n'

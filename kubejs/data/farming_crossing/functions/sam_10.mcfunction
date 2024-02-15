@@ -1,1 +1,0 @@
-tellraw @p ["",{"text":"<Sam> ","color":"aqua"},{"text":"I see you have caught 10 different fishes. So, have you embraced the joys of fishing?  Catch 20 fishes, and I will consider moving nearby.","color":"white"}]

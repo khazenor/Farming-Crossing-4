@@ -1,1 +1,0 @@
-tellraw @p ["",{"text":"<Pamela> ","color":"aqua"},{"text":"Oh, I’m so excited you've cooked 10 different meals! Excellent for a budding chef, I must say. If you cook 35 different meals, I’d be happy to come over and sell you some supplies for your cooking needs.","color":"white"}]

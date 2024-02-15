@@ -1,2 +1,0 @@
-tellraw @p ["",{"text":"<Jess> ","color":"aqua"},{"text":"I see you’ve been making good use of your Miles Tickets. For a nominal fee of 16 Miles Tickets, I’d be happy to offer you even more wares and decorations for purchase.","color":"white"}]
-tellraw @p ["",{"text":"<Jess> ","color":"aqua"},{"text":"Oh, and if you don’t mind, could you find a good place for me to set up shop? You can put all my belongings there.","color":"white"}]

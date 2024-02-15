@@ -1,1 +1,0 @@
-tellraw @p ["",{"text":"<Jess> ","color":"aqua"},{"text":"You’ve obtained every common item we have in our catalog. You are quite the dedicated collector!  Thank you for your patronage!","color":"white"}]

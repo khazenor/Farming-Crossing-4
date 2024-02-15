@@ -1,1 +1,0 @@
-tellraw @p ["",{"text":"<Pamela> ","color":"aqua"},{"text":"Hi there, human!  I'm Pamela the Rabbit, hobbyist gardener and head chef of the Carrot Place! Jess told me you are aspiring to be a great chef one day - that's wonderful! I'd be delighted to help you get started.","color":"white"}]

@@ -29,7 +29,7 @@
 			id: "756B6CAC42F98D92"
 			rewards: [
 				{
-					command: "/function farming_crossing:jess"
+					command: "/function fc_villagers:jess"
 					elevate_perms: true
 					exclude_from_claim_all: true
 					icon: "candlelight:letter_open"
@@ -113,7 +113,7 @@
 			icon: "moa_decor_cookery:bandejadegalletas"
 			id: "0D03125982F6A791"
 			rewards: [{
-				command: "/function farming_crossing:pamela"
+				command: "/function fc_villagers:pamela"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				icon: "candlelight:letter_open"
@@ -191,7 +191,7 @@
 			icon: "minecraft:amethyst_block"
 			id: "32315F192BEB4876"
 			rewards: [{
-				command: "/function farming_crossing:laly"
+				command: "/function fc_villagers:laly"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				icon: "candlelight:letter_open"
@@ -269,7 +269,7 @@
 			icon: "moa_decor_cookery:sushi"
 			id: "24D59BF6E757524F"
 			rewards: [{
-				command: "/function farming_crossing:sam"
+				command: "/function fc_villagers:sam"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				icon: "candlelight:letter_open"
@@ -347,7 +347,7 @@
 			icon: "moa_decor_cookery:manzanacortada"
 			id: "78BB8E151802329C"
 			rewards: [{
-				command: "/function farming_crossing:yukkie"
+				command: "/function fc_villagers:yukkie"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				icon: "candlelight:letter_open"
@@ -425,7 +425,7 @@
 			icon: "moa_decor_garden_:comedero_trigo"
 			id: "1B8E82ADB3063C94"
 			rewards: [{
-				command: "/function farming_crossing:andre"
+				command: "/function fc_villagers:andre"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				icon: "candlelight:letter_open"
@@ -505,7 +505,7 @@
 			icon: "corail_woodcutter:oak_woodcutter"
 			id: "468E43123E8DB4F9"
 			rewards: [{
-				command: "/function farming_crossing:ren"
+				command: "/function fc_villagers:ren"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				icon: "candlelight:letter_open"
@@ -573,7 +573,7 @@
 			icon: "chiselsandbits:magnifying_glass"
 			id: "72A8820CE32DF938"
 			rewards: [{
-				command: "/function farming_crossing:jess_highlight"
+				command: "/function fc_villagers:jess_highlight"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "0319AD50864A791D"
@@ -601,7 +601,7 @@
 			icon: "chiselsandbits:magnifying_glass"
 			id: "512BADF33A088EBA"
 			rewards: [{
-				command: "/function farming_crossing:andre_update_trades"
+				command: "/function fc_villagers:andre_update_trades"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "0EDEB814B1EE2B5C"
@@ -629,7 +629,7 @@
 			icon: "chiselsandbits:magnifying_glass"
 			id: "411A015BA96920ED"
 			rewards: [{
-				command: "/function farming_crossing:laly_update_trades"
+				command: "/function fc_villagers:laly_update_trades"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "6EF660D9CBDFE771"
@@ -657,7 +657,7 @@
 			icon: "chiselsandbits:magnifying_glass"
 			id: "0AC907ED825810E1"
 			rewards: [{
-				command: "/function farming_crossing:pamela_update_trades"
+				command: "/function fc_villagers:pamela_update_trades"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "2B45C52637D9F49E"
@@ -685,7 +685,7 @@
 			icon: "chiselsandbits:magnifying_glass"
 			id: "767DD13CDF3F90D1"
 			rewards: [{
-				command: "/function farming_crossing:ren_update_trades"
+				command: "/function fc_villagers:ren_update_trades"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "525C1E20E25B3B56"
@@ -713,7 +713,7 @@
 			icon: "chiselsandbits:magnifying_glass"
 			id: "3FC799C7A2A8C9ED"
 			rewards: [{
-				command: "/function farming_crossing:sam_update_trades"
+				command: "/function fc_villagers:sam_update_trades"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "5F367A1FF3C0B858"
@@ -741,7 +741,7 @@
 			icon: "chiselsandbits:magnifying_glass"
 			id: "642BFEA807DA5610"
 			rewards: [{
-				command: "/function farming_crossing:yukkie_update_trades"
+				command: "/function fc_villagers:yukkie_update_trades"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "7597F07ED15F2F0F"
