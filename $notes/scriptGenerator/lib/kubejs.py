@@ -40,6 +40,41 @@ def woodcutting(tagInput, outputItem, outputNumber):
 	outstr += '  })\n'
 	return outstr
 
+def villagerTradeWithDefaultSales(
+	villagerItem,
+	villagerNum,
+	playerItem,
+	playerNum,
+	profession,
+	level,
+	doDiscountVillager
+):
+	# number of price: price ratio
+	priceRatio = {
+		8: 1,
+		2: 0.75,
+		1: 0.5
+	}
+	tradeContent = ''
+	for priceOccur in priceRatio:
+		for i in range(priceOccur):
+			if doDiscountVillager:
+				updatedVillagerNum = int(villagerNum * priceRatio[priceOccur])
+				updatedPlayerNum = playerNum
+			else:
+				updatedVillagerNum = villagerNum
+				updatedPlayerNum = int(playerNum * priceRatio[priceOccur])
+
+			tradeContent += villagerTradeWithDefaults(
+				villagerItem,
+				updatedVillagerNum,
+				playerItem,
+				updatedPlayerNum,
+				profession,
+				level
+			)
+	return tradeContent
+
 def villagerTradeWithDefaults(villagerItem, villagerNum, playerItem, playerNum, profession, level):
 	tradeExperience = 25
 	priceMultiplier = 0.035

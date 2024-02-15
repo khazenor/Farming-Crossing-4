@@ -1,6 +1,7 @@
 from list import cosmeticArmors
 from list import collectionQuests
 from lib import kubejs
+from lib import util
 
 profession = 'spacecatcustomprofessions:clothes_seller'
 
@@ -26,19 +27,39 @@ priceReference = {
 
 def genClotheVillagerTrades():
 	tradeContent = ''
+	itemsByPrice = {}
 	for level, villagerItems in enumerate(itemsForSell):
 		for villagerItem in villagerItems:
-			tradeContent += kubejs.villagerTradeWithDefaults(
+			price = priceLookup(villagerItem)
+			util.addToDictList(itemsByPrice, price, villagerItem)
+			tradeContent += kubejs.villagerTradeWithDefaultSales(
 				villagerItem,
 				1,
 				'kubejs:miles_ticket',
-				priceLookup(villagerItem),
+				price,
 				profession,
-				level
+				level,
+				False
 			)
 	kubejs.writeServerFile(
 		kubejs.villagerTradesContent(tradeContent),
 		'clothes_villager_trades'
+	)
+	generatePriceTooltips(itemsByPrice)
+
+def generatePriceTooltips(itemsByPrice):
+	tooltipContent = ''
+	for price in itemsByPrice:
+		pluralString = 's' if price > 1 else ''
+		tooltipContent += kubejs.eventAdd(
+			itemsByPrice[price],
+			[f'Regular Price: {price} ticket{pluralString}']
+		)
+	kubejs.writeClientFile(
+		kubejs.tooltipFileContent(
+			tooltipContent
+		),
+		'clothing_pricing_tooltips'
 	)
 
 def priceLookup(itemId):
