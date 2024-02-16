@@ -7,11 +7,11 @@ profession = 'spacecatcustomprofessions:clothes_seller'
 
 itemsForSell = [
 	[],
-	collectionQuests.allHats,
-	cosmeticArmors.boots,
+	cosmeticArmors.accessories,
 	cosmeticArmors.helmet,
+	cosmeticArmors.chestplate,
 	cosmeticArmors.leggings,
-	cosmeticArmors.chestplate
+	cosmeticArmors.boots
 ]
 
 hatPrice = 5
