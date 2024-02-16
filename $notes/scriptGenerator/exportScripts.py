@@ -9,8 +9,10 @@ from src import nonWanderingTrades
 from src import customVillagers
 from src import musicDiscs
 from src import clothesVillagerSell
+from src import hatVillagerSell
 
 if __name__ == "__main__":
+	hatVillagerSell.genHatVillagerTrades()
 	clothesVillagerSell.genClotheVillagerTrades()
 	musicDiscs.deployMusicDiscs()
 	customVillagers.deployFunctions()
