@@ -1155,6 +1155,15 @@ commonToy= [
   'playdate:wooden_soldier',
   'moa_decor_science:pizarra'
 ]
+allCommon = (
+  commonHandheldInstruments + commonTrophies + commonSnare + commonMariachi
+  + commonGraveyard + commonBathroom + commonArts + commonFilm + commonFestive
+  + commonBooksExploration + commonLab + commonPlushSheep + commonPlushHorse
+  + commonPlushHomeAnimal + commonPlushRabbit + commonPlushCat + commonPlushParrot
+  + commonPlushFrog + commonPlushLlama + commonPlushWildAnimal + commonPlushAxolotl
+  + commonPlushWaterAnimal + commonPlushVillage + commonPlushNether + commonPlushZombie
+  + commonPlushRaid + commonPlushHostileMob + commonPlushBoss + commonToy
+)
 rareStatues = [
   'moa_decor_art:esculturaeldavid',
   'moa_decor_art:esculturaelpensador',
@@ -1243,6 +1252,13 @@ rareOneulMisc = [
   'kubejs:oneul_snow_dance',
   'kubejs:oneul_winter_glow'
 ]
+allRareDeco = (
+  rareStatues + rareMobTrophies + rarePaintings + rareMisc 
+)
+allRareMusic = (
+  rareOneulFood + rareOneulPinkBear + rareOneulMisc
+)
+allRare = allRareDeco + allRareMusic
 cosmRoyalOutfit = [
   'cosmeticarmoursmod:royal_tunic_black_chestplate',
   'cosmeticarmoursmod:royal_tunic_blue_chestplate',

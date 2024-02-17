@@ -5,7 +5,7 @@ from src import foodVillagerSales
 from src import fishCraftingTableSell
 from src import flowers
 from src import gemCraftingTableSell
-from src import nonWanderingTrades
+from src import jessDecoShop
 from src import customVillagers
 from src import musicDiscs
 from src import clothesVillagerSell
@@ -16,7 +16,7 @@ if __name__ == "__main__":
 	clothesVillagerSell.genClotheVillagerTrades()
 	musicDiscs.deployMusicDiscs()
 	customVillagers.deployFunctions()
-	nonWanderingTrades.genNonWanderingTrades()
+	jessDecoShop.genNonWanderingTrades()
 	gemCraftingTableSell.genGemCraftingTableSell()
 	flowers.generateDuplicationRecipes()
 	fishCraftingTableSell.generateFishCraftingSellRecipes()
