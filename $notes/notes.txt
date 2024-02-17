@@ -9,8 +9,10 @@
 # crafttweaker ids regex
   \[\d\d:\d\d:\d\d\.\d\d\d\]\[INFO\]\[CraftTweaker-Commands\]: - <item:
 
+Bernina Elna
 
 /summon ssls_npc_maker_mod:npc ~ ~ ~ {texture_name: "rabbit", CustomName: "\"Pamela\"}"}
+/summon ssls_npc_maker_mod:npc ~ ~ ~ {texture_name: "hedgehog", CustomName: "\"Pamela\"}"}
 /data modify entity @e[type=ssls_npc_maker_mod:npc, limit=1, sort=nearest] Offers.Recipes append value {maxUses: 2147483647}
 /data modify entity @e[type=ssls_npc_maker_mod:npc, limit=1, sort=nearest] Offers.Recipes[0].buyB set value {id: "minecraft:air",Count: 0}
 /data modify entity @e[type=ssls_npc_maker_mod:npc, limit=1, sort=nearest] Offers.Recipes[0].buy set value {id: "bakery:glowberry_jam",Count: 64}
