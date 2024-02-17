@@ -13,7 +13,9 @@ villagersWithTrades = [
 ]
 
 otherVillagers = [
-	{nameKey: 'Jess', textureKey: 'beaver'}
+	{nameKey: 'Jess', textureKey: 'beaver'},
+	{nameKey: 'Bernina', textureKey: 'hedgehog'},
+	{nameKey: 'Elna', textureKey: 'hedgehog2'}
 ]
 
 def offerFolder():
