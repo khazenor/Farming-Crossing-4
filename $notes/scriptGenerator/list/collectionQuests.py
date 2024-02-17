@@ -1520,3 +1520,8 @@ cosmMiscHats = [
   'cosmeticarmoursmod:yorkshire_cap_helmet',
   'cosmeticarmoursmod:saw_accident_helmet'
 ]
+allCosm = (cosmRoyalOutfit + cosmSteampunkers + cosmWinterSurvivalist
+  + cosmAstronaut + cosmCenturion + cosmFarmer + cosmFisherman + cosmGhillieSuit
+  + cosmMobster + cosmTops + cosmSkirtBoots + cosmThighHighSocks + cosmKnightArmors
+  + cosmArchersAttire + cosmChristmas + cosmElves + cosmCrowns + cosmCatEars + cosmMasks
+  + cosmHalos + cosmMiscHats)

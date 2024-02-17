@@ -83,6 +83,7 @@ ItemEvents.tooltip(event => {
       'cosmeticarmoursmod:red_knight_armour_boots'
     ],
     [
+      'Can be purchased from Elna\'s fashion shop', 
       'Regular Price: 7 tickets'
     ])
   event.add(
@@ -105,6 +106,7 @@ ItemEvents.tooltip(event => {
       'cosmeticarmoursmod:saw_accident_helmet'
     ],
     [
+      'Can be purchased from Elna\'s fashion shop', 
       'Regular Price: 4 tickets'
     ])
   event.add(
@@ -184,6 +186,7 @@ ItemEvents.tooltip(event => {
       'cosmeticarmoursmod:yellow_skirt_boots'
     ],
     [
+      'Can be purchased from Elna\'s fashion shop', 
       'Regular Price: 5 tickets'
     ])
   event.add(
@@ -243,6 +246,7 @@ ItemEvents.tooltip(event => {
       'cosmeticarmoursmod:astronaut_leggings'
     ],
     [
+      'Can be purchased from Elna\'s fashion shop', 
       'Regular Price: 9 tickets'
     ])
   event.add(
@@ -256,6 +260,7 @@ ItemEvents.tooltip(event => {
       'cosmeticarmoursmod:red_knight_armour_leggings'
     ],
     [
+      'Can be purchased from Elna\'s fashion shop', 
       'Regular Price: 15 tickets'
     ])
   event.add(
@@ -268,6 +273,7 @@ ItemEvents.tooltip(event => {
       'cosmeticarmoursmod:red_knight_armour_chestplate'
     ],
     [
+      'Can be purchased from Elna\'s fashion shop', 
       'Regular Price: 20 tickets'
     ])
 

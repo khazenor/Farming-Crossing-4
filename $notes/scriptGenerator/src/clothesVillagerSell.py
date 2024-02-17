@@ -46,6 +46,7 @@ def genClotheVillagerTrades():
 		'clothes_villager_trades'
 	)
 	generatePriceTooltips(itemsByPrice)
+	removeCraftingRecipes()
 
 def generatePriceTooltips(itemsByPrice):
 	tooltipContent = ''
@@ -53,13 +54,24 @@ def generatePriceTooltips(itemsByPrice):
 		pluralString = 's' if price > 1 else ''
 		tooltipContent += kubejs.eventAdd(
 			itemsByPrice[price],
-			[f'Regular Price: {price} ticket{pluralString}']
+			["Can be purchased from Elna\\'s fashion shop", f'Regular Price: {price} ticket{pluralString}']
 		)
 	kubejs.writeClientFile(
 		kubejs.tooltipFileContent(
 			tooltipContent
 		),
 		'clothing_pricing_tooltips'
+	)
+
+def removeCraftingRecipes():
+	removeContent = ""
+	for itemId in collectionQuests.allCosm:
+		removeContent += kubejs.removeRecipeOutput(itemId)
+	kubejs.writeServerFile(
+		kubejs.recipeFileContent(
+			removeContent
+		),
+		'clothes_recipe_removal'
 	)
 
 def priceLookup(itemId):
