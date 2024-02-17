@@ -86,5 +86,15 @@ collections = [
 		collectionKey: "Hat Catalog",
 		increaseRateKey: 0.04,
 		questFilenameKey: 'hat_collection'
+	},
+	{
+		nameKey: "Clothes",
+		pluralKey: "",
+		iconKey: "cosmeticarmoursmod:royal_tunic_light_blue_chestplate",
+		lastQuestItemKey: 'kubejs:cert_clothes_diamond',
+		actionKey: "Collected",
+		collectionKey: "Clothing Collection",
+		increaseRateKey: 0.07,
+		questFilenameKey: 'clothing_collection'
 	}
 ]

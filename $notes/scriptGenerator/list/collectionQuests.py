@@ -1243,39 +1243,86 @@ rareOneulMisc = [
   'kubejs:oneul_snow_dance',
   'kubejs:oneul_winter_glow'
 ]
-cosmThighHighSocks = [
-  'cosmeticarmoursmod:black_skirt_leggings',
-  'cosmeticarmoursmod:blue_skirt_leggings',
-  'cosmeticarmoursmod:brown_skirt_leggings',
-  'cosmeticarmoursmod:cyan_skirt_leggings',
-  'cosmeticarmoursmod:green_skirt_leggings',
-  'cosmeticarmoursmod:grey_skirt_leggings',
-  'cosmeticarmoursmod:light_blue_skirt_leggings',
-  'cosmeticarmoursmod:light_grey_skirt_leggings',
-  'cosmeticarmoursmod:lime_skirt_leggings',
-  'cosmeticarmoursmod:magenta_skirt_leggings',
-  'cosmeticarmoursmod:orange_skirt_leggings',
-  'cosmeticarmoursmod:pink_skirt_leggings',
-  'cosmeticarmoursmod:purple_skirt_leggings',
-  'cosmeticarmoursmod:red_skirt_leggings',
-  'cosmeticarmoursmod:white_skirt_leggings',
-  'cosmeticarmoursmod:yellow_skirt_leggings',
-  'cosmeticarmoursmod:black_plaid_skirt_leggings',
-  'cosmeticarmoursmod:blue_plaid_skirt_leggings',
-  'cosmeticarmoursmod:brown_plaid_skirt_leggings',
-  'cosmeticarmoursmod:cyan_plaid_skirt_leggings',
-  'cosmeticarmoursmod:green_plaid_skirt_leggings',
-  'cosmeticarmoursmod:grey_plaid_skirt_leggings',
-  'cosmeticarmoursmod:light_blue_plaid_skirt_leggings',
-  'cosmeticarmoursmod:light_grey_plaid_skirt_leggings',
-  'cosmeticarmoursmod:lime_plaid_skirt_leggings',
-  'cosmeticarmoursmod:magenta_plaid_skirt_leggings',
-  'cosmeticarmoursmod:orange_plaid_skirt_leggings',
-  'cosmeticarmoursmod:pink_plaid_skirt_leggings',
-  'cosmeticarmoursmod:purple_plaid_skirt_leggings',
-  'cosmeticarmoursmod:red_plaid_skirt_leggings',
-  'cosmeticarmoursmod:white_plaid_skirt_leggings',
-  'cosmeticarmoursmod:yellow_plaid_skirt_leggings'
+cosmRoyalOutfit = [
+  'cosmeticarmoursmod:royal_tunic_black_chestplate',
+  'cosmeticarmoursmod:royal_tunic_blue_chestplate',
+  'cosmeticarmoursmod:royal_tunic_brown_chestplate',
+  'cosmeticarmoursmod:royal_tunic_cyan_chestplate',
+  'cosmeticarmoursmod:royal_tunic_green_chestplate',
+  'cosmeticarmoursmod:royal_tunic_grey_chestplate',
+  'cosmeticarmoursmod:royal_tunic_light_blue_chestplate',
+  'cosmeticarmoursmod:royal_tunic_light_grey_chestplate',
+  'cosmeticarmoursmod:royal_tunic_lime_chestplate',
+  'cosmeticarmoursmod:royal_tunic_magenta_chestplate',
+  'cosmeticarmoursmod:royal_tunic_orange_chestplate',
+  'cosmeticarmoursmod:royal_tunic_pink_chestplate',
+  'cosmeticarmoursmod:royal_tunic_purple_chestplate',
+  'cosmeticarmoursmod:royal_tunic_red_chestplate',
+  'cosmeticarmoursmod:royal_tunic_white_chestplate',
+  'cosmeticarmoursmod:royal_tunic_yellow_chestplate',
+  'cosmeticarmoursmod:royal_leggings',
+  'cosmeticarmoursmod:royal_boots'
+]
+cosmSteampunkers = [
+  'cosmeticarmoursmod:steampunkers_goggles_helmet',
+  'cosmeticarmoursmod:steampunkers_tophat_f_helmet',
+  'cosmeticarmoursmod:steampunkers_attire_f_boots',
+  'cosmeticarmoursmod:steampunkers_attire_f_chestplate',
+  'cosmeticarmoursmod:steampunkers_attire_f_leggings',
+  'cosmeticarmoursmod:steampunkers_tophat_helmet',
+  'cosmeticarmoursmod:steampunkers_attire_chestplate',
+  'cosmeticarmoursmod:steampunkers_attire_leggings',
+  'cosmeticarmoursmod:steampunkers_attire_boots',
+]
+cosmWinterSurvivalist = [
+  'cosmeticarmoursmod:blue_ushanka_hat_helmet',
+  'cosmeticarmoursmod:winter_survivalist_blue_chestplate',
+  'cosmeticarmoursmod:winter_survivalist_blue_leggings',
+  'cosmeticarmoursmod:winter_survivalist_blue_boots',
+  'cosmeticarmoursmod:brown_ushanka_hat_helmet',
+  'cosmeticarmoursmod:winter_survivalist_brown_chestplate',
+  'cosmeticarmoursmod:winter_survivalist_brown_leggings',
+  'cosmeticarmoursmod:winter_survivalist_brown_boots',
+  'cosmeticarmoursmod:grey_ushanka_hat_helmet',
+  'cosmeticarmoursmod:winter_survivalist_grey_chestplate',
+  'cosmeticarmoursmod:winter_survivalist_grey_leggings',
+  'cosmeticarmoursmod:winter_survivalist_grey_boots'
+]
+cosmAstronaut = [
+  'cosmeticarmoursmod:astronaut_helmet',
+  'cosmeticarmoursmod:astronaut_chestplate',
+  'cosmeticarmoursmod:astronaut_leggings',
+  'cosmeticarmoursmod:astronaut_boots'
+]
+cosmCenturion = [
+  'cosmeticarmoursmod:centurions_helmet_helmet',
+  'cosmeticarmoursmod:centurion_uniform_chestplate',
+  'cosmeticarmoursmod:centurion_uniform_leggings',
+  'cosmeticarmoursmod:centurion_uniform_boots'
+]
+cosmFarmer = [
+  'cosmeticarmoursmod:straw_hat_helmet',
+  'cosmeticarmoursmod:farmer_attire_boots',
+  'cosmeticarmoursmod:farmer_attire_chestplate',
+  'cosmeticarmoursmod:farmer_attire_leggings',
+]
+cosmFisherman = [
+  'cosmeticarmoursmod:fishermans_bucket_hat_helmet',
+  'cosmeticarmoursmod:fishermans_attire_chestplate',
+  'cosmeticarmoursmod:fishermans_attire_leggings',
+  'cosmeticarmoursmod:fishermans_attire_boots'
+]
+cosmGhillieSuit = [
+  'cosmeticarmoursmod:ghillie_suit_helmet',
+  'cosmeticarmoursmod:ghillie_suit_chestplate',
+  'cosmeticarmoursmod:ghillie_suit_leggings',
+  'cosmeticarmoursmod:ghillie_suit_boots'
+]
+cosmMobster = [
+  'cosmeticarmoursmod:mobster_helmet',
+  'cosmeticarmoursmod:mobster_chestplate',
+  'cosmeticarmoursmod:mobster_leggings',
+  'cosmeticarmoursmod:mobster_boots',
 ]
 cosmTops = [
   'cosmeticarmoursmod:black_skirt_chestplate',
@@ -1329,87 +1376,39 @@ cosmSkirtBoots = [
   'cosmeticarmoursmod:white_plaid_skirt_boots',
   'cosmeticarmoursmod:yellow_plaid_skirt_boots'
 ]
-cosmElves = [
-  'cosmeticarmoursmod:christmas_elf_hat_green_helmet',
-  'cosmeticarmoursmod:christmas_elf_attire_green_female_chestplate',
-  'cosmeticarmoursmod:christmas_elf_attire_green_female_leggings',
-  'cosmeticarmoursmod:christmas_elf_attire_green_female_boots',
-  'cosmeticarmoursmod:christmas_elf_attire_male_green_chestplate',
-  'cosmeticarmoursmod:christmas_elf_attire_male_green_leggings',
-  'cosmeticarmoursmod:christmas_elf_attire_male_green_boots',
-  'cosmeticarmoursmod:christmas_elf_hat_red_helmet',
-  'cosmeticarmoursmod:christmas_elf_attire_red_female_chestplate',
-  'cosmeticarmoursmod:christmas_elf_attire_red_female_leggings',
-  'cosmeticarmoursmod:christmas_elf_attire_red_female_boots',
-  'cosmeticarmoursmod:christmas_elf_attire_red_male_chestplate',
-  'cosmeticarmoursmod:christmas_elf_attire_red_male_leggings',
-  'cosmeticarmoursmod:christmas_elf_attire_red_male_boots'
-]
-cosmRoyalOutfit = [
-  'cosmeticarmoursmod:royal_tunic_black_chestplate',
-  'cosmeticarmoursmod:royal_tunic_blue_chestplate',
-  'cosmeticarmoursmod:royal_tunic_brown_chestplate',
-  'cosmeticarmoursmod:royal_tunic_cyan_chestplate',
-  'cosmeticarmoursmod:royal_tunic_green_chestplate',
-  'cosmeticarmoursmod:royal_tunic_grey_chestplate',
-  'cosmeticarmoursmod:royal_tunic_light_blue_chestplate',
-  'cosmeticarmoursmod:royal_tunic_light_grey_chestplate',
-  'cosmeticarmoursmod:royal_tunic_lime_chestplate',
-  'cosmeticarmoursmod:royal_tunic_magenta_chestplate',
-  'cosmeticarmoursmod:royal_tunic_orange_chestplate',
-  'cosmeticarmoursmod:royal_tunic_pink_chestplate',
-  'cosmeticarmoursmod:royal_tunic_purple_chestplate',
-  'cosmeticarmoursmod:royal_tunic_red_chestplate',
-  'cosmeticarmoursmod:royal_tunic_white_chestplate',
-  'cosmeticarmoursmod:royal_tunic_yellow_chestplate',
-  'cosmeticarmoursmod:royal_leggings',
-  'cosmeticarmoursmod:royal_boots'
-]
-cosmSteampunkers = [
-  'cosmeticarmoursmod:steampunkers_goggles_helmet',
-  'cosmeticarmoursmod:steampunkers_tophat_f_helmet',
-  'cosmeticarmoursmod:steampunkers_attire_f_boots',
-  'cosmeticarmoursmod:steampunkers_attire_f_chestplate',
-  'cosmeticarmoursmod:steampunkers_attire_f_leggings',
-  'cosmeticarmoursmod:steampunkers_tophat_helmet',
-  'cosmeticarmoursmod:steampunkers_attire_chestplate',
-  'cosmeticarmoursmod:steampunkers_attire_leggings',
-  'cosmeticarmoursmod:steampunkers_attire_boots',
-]
-cosmWinterSurvivalist = [
-  'cosmeticarmoursmod:blue_ushanka_hat_helmet',
-  'cosmeticarmoursmod:winter_survivalist_blue_chestplate',
-  'cosmeticarmoursmod:winter_survivalist_blue_leggings',
-  'cosmeticarmoursmod:winter_survivalist_blue_boots',
-  'cosmeticarmoursmod:brown_ushanka_hat_helmet',
-  'cosmeticarmoursmod:winter_survivalist_brown_chestplate',
-  'cosmeticarmoursmod:winter_survivalist_brown_leggings',
-  'cosmeticarmoursmod:winter_survivalist_brown_boots',
-  'cosmeticarmoursmod:grey_ushanka_hat_helmet',
-  'cosmeticarmoursmod:winter_survivalist_grey_chestplate',
-  'cosmeticarmoursmod:winter_survivalist_grey_leggings',
-  'cosmeticarmoursmod:winter_survivalist_grey_boots'
-]
-cosmCrowns = [
-  'cosmeticarmoursmod:amethyst_crown_helmet',
-  'cosmeticarmoursmod:amethyst_plated_crown_helmet',
-  'cosmeticarmoursmod:crown_helmet',
-  'cosmeticarmoursmod:diamond_crown_helmet',
-  'cosmeticarmoursmod:emerald_crown_helmet',
-  'cosmeticarmoursmod:flower_crown_helmet',
-  'cosmeticarmoursmod:netherite_plated_crown_helmet',
-  'cosmeticarmoursmod:prismarine_plated_crown_helmet',
-  'cosmeticarmoursmod:quartz_crown_helmet',
-  'cosmeticarmoursmod:redstone_crown_helmet',
-  'cosmeticarmoursmod:rose_gold_plated_crown_helmet'
-]
-cosmCatEars = [
-  'cosmeticarmoursmod:cat_ears_black_helmet',
-  'cosmeticarmoursmod:cat_ears_brown_helmet',
-  'cosmeticarmoursmod:cat_ears_grey_helmet',
-  'cosmeticarmoursmod:cat_ears_orange_helmet',
-  'cosmeticarmoursmod:cat_ears_pink_helmet',
-  'cosmeticarmoursmod:cat_ears_white_helmet'
+cosmThighHighSocks = [
+  'cosmeticarmoursmod:black_skirt_leggings',
+  'cosmeticarmoursmod:blue_skirt_leggings',
+  'cosmeticarmoursmod:brown_skirt_leggings',
+  'cosmeticarmoursmod:cyan_skirt_leggings',
+  'cosmeticarmoursmod:green_skirt_leggings',
+  'cosmeticarmoursmod:grey_skirt_leggings',
+  'cosmeticarmoursmod:light_blue_skirt_leggings',
+  'cosmeticarmoursmod:light_grey_skirt_leggings',
+  'cosmeticarmoursmod:lime_skirt_leggings',
+  'cosmeticarmoursmod:magenta_skirt_leggings',
+  'cosmeticarmoursmod:orange_skirt_leggings',
+  'cosmeticarmoursmod:pink_skirt_leggings',
+  'cosmeticarmoursmod:purple_skirt_leggings',
+  'cosmeticarmoursmod:red_skirt_leggings',
+  'cosmeticarmoursmod:white_skirt_leggings',
+  'cosmeticarmoursmod:yellow_skirt_leggings',
+  'cosmeticarmoursmod:black_plaid_skirt_leggings',
+  'cosmeticarmoursmod:blue_plaid_skirt_leggings',
+  'cosmeticarmoursmod:brown_plaid_skirt_leggings',
+  'cosmeticarmoursmod:cyan_plaid_skirt_leggings',
+  'cosmeticarmoursmod:green_plaid_skirt_leggings',
+  'cosmeticarmoursmod:grey_plaid_skirt_leggings',
+  'cosmeticarmoursmod:light_blue_plaid_skirt_leggings',
+  'cosmeticarmoursmod:light_grey_plaid_skirt_leggings',
+  'cosmeticarmoursmod:lime_plaid_skirt_leggings',
+  'cosmeticarmoursmod:magenta_plaid_skirt_leggings',
+  'cosmeticarmoursmod:orange_plaid_skirt_leggings',
+  'cosmeticarmoursmod:pink_plaid_skirt_leggings',
+  'cosmeticarmoursmod:purple_plaid_skirt_leggings',
+  'cosmeticarmoursmod:red_plaid_skirt_leggings',
+  'cosmeticarmoursmod:white_plaid_skirt_leggings',
+  'cosmeticarmoursmod:yellow_plaid_skirt_leggings'
 ]
 cosmKnightArmors = [
   'cosmeticarmoursmod:blue_knight_helmet_helmet',
@@ -1456,6 +1455,42 @@ cosmChristmas = [
   'cosmeticarmoursmod:male_claus_attire_leggings',
   'cosmeticarmoursmod:male_claus_attire_boots'
 ]
+cosmElves = [
+  'cosmeticarmoursmod:christmas_elf_hat_green_helmet',
+  'cosmeticarmoursmod:christmas_elf_attire_green_female_chestplate',
+  'cosmeticarmoursmod:christmas_elf_attire_green_female_leggings',
+  'cosmeticarmoursmod:christmas_elf_attire_green_female_boots',
+  'cosmeticarmoursmod:christmas_elf_attire_male_green_chestplate',
+  'cosmeticarmoursmod:christmas_elf_attire_male_green_leggings',
+  'cosmeticarmoursmod:christmas_elf_attire_male_green_boots',
+  'cosmeticarmoursmod:christmas_elf_hat_red_helmet',
+  'cosmeticarmoursmod:christmas_elf_attire_red_female_chestplate',
+  'cosmeticarmoursmod:christmas_elf_attire_red_female_leggings',
+  'cosmeticarmoursmod:christmas_elf_attire_red_female_boots',
+  'cosmeticarmoursmod:christmas_elf_attire_red_male_chestplate',
+  'cosmeticarmoursmod:christmas_elf_attire_red_male_leggings',
+  'cosmeticarmoursmod:christmas_elf_attire_red_male_boots'
+]
+cosmCrowns = [
+  'cosmeticarmoursmod:crown_helmet',
+  'cosmeticarmoursmod:diamond_crown_helmet',
+  'cosmeticarmoursmod:emerald_crown_helmet',
+  'cosmeticarmoursmod:flower_crown_helmet',
+  'cosmeticarmoursmod:prismarine_plated_crown_helmet',
+  'cosmeticarmoursmod:quartz_crown_helmet',
+  'cosmeticarmoursmod:redstone_crown_helmet',
+  'cosmeticarmoursmod:amethyst_crown_helmet',
+  'cosmeticarmoursmod:amethyst_plated_crown_helmet',
+  'cosmeticarmoursmod:rose_gold_plated_crown_helmet'
+]
+cosmCatEars = [
+  'cosmeticarmoursmod:cat_ears_black_helmet',
+  'cosmeticarmoursmod:cat_ears_brown_helmet',
+  'cosmeticarmoursmod:cat_ears_grey_helmet',
+  'cosmeticarmoursmod:cat_ears_orange_helmet',
+  'cosmeticarmoursmod:cat_ears_pink_helmet',
+  'cosmeticarmoursmod:cat_ears_white_helmet'
+]
 cosmMasks = [
   'cosmeticarmoursmod:axolotl_mask_helmet',
   'cosmeticarmoursmod:creeper_mask_helmet',
@@ -1474,42 +1509,6 @@ cosmHalos = [
   'cosmeticarmoursmod:winged_fallen_angel_halo_helmet',
   'cosmeticarmoursmod:rose_gold_halo_helmet',
   'cosmeticarmoursmod:winged_rose_gold_halo_helmet'
-]
-cosmAstronaut = [
-  'cosmeticarmoursmod:astronaut_helmet',
-  'cosmeticarmoursmod:astronaut_chestplate',
-  'cosmeticarmoursmod:astronaut_leggings',
-  'cosmeticarmoursmod:astronaut_boots'
-]
-cosmCenturion = [
-  'cosmeticarmoursmod:centurions_helmet_helmet',
-  'cosmeticarmoursmod:centurion_uniform_chestplate',
-  'cosmeticarmoursmod:centurion_uniform_leggings',
-  'cosmeticarmoursmod:centurion_uniform_boots'
-]
-cosmFarmer = [
-  'cosmeticarmoursmod:straw_hat_helmet',
-  'cosmeticarmoursmod:farmer_attire_boots',
-  'cosmeticarmoursmod:farmer_attire_chestplate',
-  'cosmeticarmoursmod:farmer_attire_leggings',
-]
-cosmFisherman = [
-  'cosmeticarmoursmod:fishermans_bucket_hat_helmet',
-  'cosmeticarmoursmod:fishermans_attire_chestplate',
-  'cosmeticarmoursmod:fishermans_attire_leggings',
-  'cosmeticarmoursmod:fishermans_attire_boots'
-]
-cosmGhillieSuit = [
-  'cosmeticarmoursmod:ghillie_suit_helmet',
-  'cosmeticarmoursmod:ghillie_suit_chestplate',
-  'cosmeticarmoursmod:ghillie_suit_leggings',
-  'cosmeticarmoursmod:ghillie_suit_boots'
-]
-cosmMobster = [
-  'cosmeticarmoursmod:mobster_helmet',
-  'cosmeticarmoursmod:mobster_chestplate',
-  'cosmeticarmoursmod:mobster_leggings',
-  'cosmeticarmoursmod:mobster_boots',
 ]
 cosmMiscHats = [
   'cosmeticarmoursmod:antlers_black_helmet',

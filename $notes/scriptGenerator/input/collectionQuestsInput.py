@@ -1016,175 +1016,175 @@ questlines = [
       { # Handheld Instruments
         nameKey: 'Handheld Instruments Completion',
         iconKey: 'moa_decor_art:guitarra',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
         tasksKey: cqlist.commonHandheldInstruments
       },
       { # Trophies
         nameKey: 'Trophies Completion',
         iconKey: 'handcrafted:bear_trophy',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
         tasksKey: cqlist.commonTrophies
       },
       { # Snare
         nameKey: 'Snare Completion',
         iconKey: 'moa_decor_art:tamborrojo',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
         tasksKey: cqlist.commonSnare
       },
       { # Mariachi
         nameKey: 'Mariachi Completion',
         iconKey: 'moa_decor_holidays:mariachiguitarra',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
         tasksKey: cqlist.commonMariachi
       },
       { # Graveyard
         nameKey: 'Graveyard Completion',
         iconKey: 'moa_decor_holidays:lapida',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
         tasksKey: cqlist.commonGraveyard
       },
       { # Bathroom
         nameKey: 'Bathroom Completion',
         iconKey: 'moa_decor_bath:inodoro',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
         tasksKey: cqlist.commonBathroom
       },
       { # Arts
         nameKey: 'Arts Completion',
         iconKey: 'moa_decor_art:paletadepintura',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
         tasksKey: cqlist.commonArts
       },
       { # Film
         nameKey: 'Film Completion',
         iconKey: 'moa_decor_art:claqueta',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
         tasksKey: cqlist.commonFilm
       },
       { # Festive
         nameKey: 'Festive Completion',
         iconKey: 'moa_decor_holidays:corona_navidena',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
         tasksKey: cqlist.commonFestive
       },
       { # Books and Exploration
         nameKey: 'Books and Exploration Completion',
         iconKey: 'moa_decor_science:globoterraqueo',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
         tasksKey: cqlist.commonBooksExploration
       },
       { # Lab
         nameKey: 'Lab Completion',
         iconKey: 'moa_decor_science:microscopio',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
         tasksKey: cqlist.commonLab
       },
       { # Sheep Plushes
         nameKey: 'Sheep Plushes Completion',
         iconKey: 'moa_decor_toys:ovejarosa',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
         tasksKey: cqlist.commonPlushSheep
       },
       { # Horse Plushes
         nameKey: 'Horse Plushes Completion',
         iconKey: 'moa_decor_toys:caballocafe',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
         tasksKey: cqlist.commonPlushHorse
       },
       { # Home Animal Plushes
         nameKey: 'Home Animal Plushes Completion',
         iconKey: 'moa_decor_toys:gallina',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
         tasksKey: cqlist.commonPlushHomeAnimal
       },
       { # Rabbit Plushes
         nameKey: 'Rabbit Plushes Completion',
         iconKey: 'moa_decor_toys:conejocastano',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
         tasksKey: cqlist.commonPlushRabbit
       },
       { # Cat Plushes
         nameKey: 'Cat Plushes Completion',
         iconKey: 'moa_decor_toys:gatojellie',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
         tasksKey: cqlist.commonPlushCat
       },
       { # Parrot Plushes
         nameKey: 'Parrot Plushes Completion',
         iconKey: 'moa_decor_toys:loroazul',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
         tasksKey: cqlist.commonPlushParrot
       },
       { # Frog Plushes
         nameKey: 'Frog Plushes Completion',
         iconKey: 'moa_decor_toys:ranahelada',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
         tasksKey: cqlist.commonPlushFrog
       },
       { # Llama Plushes
         nameKey: 'Llama Plushes Completion',
         iconKey: 'moa_decor_toys:llamagris',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
         tasksKey: cqlist.commonPlushLlama
       },
       { # Wild Animal Plushes
         nameKey: 'Wild Animal Plushes Completion',
         iconKey: 'moa_decor_toys:zorro',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
         tasksKey: cqlist.commonPlushWildAnimal
       },
       { # Axolotl Plushes
         nameKey: 'Axolotl Plushes Completion',
         iconKey: 'moa_decor_toys:ajoloterosa',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
         tasksKey: cqlist.commonPlushAxolotl
       },
       { # Water Animal Plushes
         nameKey: 'Water Animal Plushes Completion',
         iconKey: 'moa_decor_toys:delfin',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
         tasksKey: cqlist.commonPlushWaterAnimal
       },
       { # Village Plushes
         nameKey: 'Village Plushes Completion',
         iconKey: 'moa_decor_toys:aldeano',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
         tasksKey: cqlist.commonPlushVillage
       },
       { # Nether Plushes
         nameKey: 'Nether Plushes Completion',
         iconKey: 'moa_decor_toys:blaze',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
         tasksKey: cqlist.commonPlushNether
       },
       { # Zombie Plushes
         nameKey: 'Zombie Plushes Completion',
         iconKey: 'moa_decor_toys:zombie',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
         tasksKey: cqlist.commonPlushZombie
       },
       { # Raid Plushes
         nameKey: 'Raid Plushes Completion',
         iconKey: 'moa_decor_toys:invocador',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
         tasksKey: cqlist.commonPlushRaid
       },
       { # Hostile Plushes
         nameKey: 'Hostile Plushes Completion',
         iconKey: 'moa_decor_toys:creeper',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
         tasksKey: cqlist.commonPlushHostileMob
       },
       { # Boss Plushes
         nameKey: 'Boss Plushes Completion',
         iconKey: 'moa_decor_toys:dragondelender',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
         tasksKey: cqlist.commonPlushBoss
       },
       { # Toys
         nameKey: 'Toys Completion',
         iconKey: 'playdate:rocking_horse',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
         tasksKey: cqlist.commonToy
       }
     ]
@@ -1200,43 +1200,43 @@ questlines = [
       { # Statues
         nameKey: 'Statues Completion',
         iconKey: 'moa_decor_art:esculturaelpensador',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
         tasksKey: cqlist.rareStatues
       },
       { # Mob Trophies
         nameKey: 'Mob Trophies Completion',
         iconKey: 'handcrafted:creeper_trophy',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
         tasksKey: cqlist.rareMobTrophies
       },
       { # Paintings
         nameKey: 'Paintings Completion',
         iconKey: 'moa_decor_art:plamonalisa',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
         tasksKey: cqlist.rarePaintings
       },
       { # Misc
         nameKey: 'Misc Completion',
         iconKey: 'moa_decor_art:maquinadediscos',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
         tasksKey: cqlist.rareMisc
       },
       { # Oneul Food Music Disc
         nameKey: 'Oneul Food Music Discs Completion',
         iconKey: 'kubejs:oneul_melon_bread',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
         tasksKey: cqlist.rareOneulFood
       },
       { # Oneul Pink Bear Music Disc
         nameKey: 'Oneul Pink Bear Music Disc Completion',
         iconKey: 'kubejs:oneul_around_midnight',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
         tasksKey: cqlist.rareOneulPinkBear
       },
       { # Oneul Misc Music Disc
         nameKey: 'Oneul Misc Music Disc Completion',
         iconKey: 'kubejs:oneul_april_daisy',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
         tasksKey: cqlist.rareOneulMisc
       }
     ]
@@ -1252,68 +1252,204 @@ questlines = [
       { # Flat Hats
         nameKey: 'Flat Hats Completion',
         iconKey: 'kubejs:miles_ticket',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '08BD5EF1DC4E8167', # Bernina moves in
         tasksKey: cqlist.hatFlat
       },
       { # Medium Hats
         nameKey: 'Medium Hats Completion',
         iconKey: 'kubejs:miles_ticket',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '08BD5EF1DC4E8167', # Bernina moves in
         tasksKey: cqlist.hatMedium
       },
       { # Tall Hats
         nameKey: 'Tall Hats Completion',
         iconKey: 'kubejs:miles_ticket',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '08BD5EF1DC4E8167', # Bernina moves in
         tasksKey: cqlist.hatTall
       },
       { # Face Overings
         nameKey: 'Face Overings Completion',
         iconKey: 'kubejs:miles_ticket',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '08BD5EF1DC4E8167', # Bernina moves in
         tasksKey: cqlist.hatFaceCovering
       },
       { # Head Toppers
         nameKey: 'Head Toppers Completion',
         iconKey: 'kubejs:miles_ticket',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '08BD5EF1DC4E8167', # Bernina moves in
         tasksKey: cqlist.hatHeadTopper
       },
       { # Disguise
         nameKey: 'Disguise Completion',
         iconKey: 'kubejs:miles_ticket',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '08BD5EF1DC4E8167', # Bernina moves in
         tasksKey: cqlist.hatDisguise
       },
       { # Animal Hats
         nameKey: 'Animal Hats Completion',
         iconKey: 'kubejs:miles_ticket',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '08BD5EF1DC4E8167', # Bernina moves in
         tasksKey: cqlist.hatAnimal
       },
       { # Eyewear
         nameKey: 'Eyewear Completion',
         iconKey: 'kubejs:miles_ticket',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '08BD5EF1DC4E8167', # Bernina moves in
         tasksKey: cqlist.hatEyewear
       },
       { # Around the Head
         nameKey: 'Around the Head Completion',
         iconKey: 'kubejs:miles_ticket',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '08BD5EF1DC4E8167', # Bernina moves in
         tasksKey: cqlist.hatAroundHead
       },
       { # Animated Details
         nameKey: 'Animated Details Completion',
         iconKey: 'kubejs:miles_ticket',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '08BD5EF1DC4E8167', # Bernina moves in
         tasksKey: cqlist.hatAnimatedDetail
       },
       { # Accessories
         nameKey: 'Accessories Completion',
         iconKey: 'kubejs:miles_ticket',
-        dependencyIdKey: '7DA124C26F220448',
+        dependencyIdKey: '08BD5EF1DC4E8167', # Bernina moves in
         tasksKey: cqlist.hatAccesories
+      }
+    ]
+  },
+  { # Clothing
+    filenameKey: 'clothing_collection',
+    nameKey: 'Clothing Collection',
+    iconKey: 'cosmeticarmoursmod:royal_tunic_light_blue_chestplate',
+    collectionNotificationKey: 'New clothing item obtained!',
+    increaseRateKey: 0.06,
+    typeKey: itemQuestTypeConst,
+    questGroupsKey: [
+      { # Royal Outfit
+        nameKey: 'Royal Outfit Completion',
+        iconKey: 'cosmeticarmoursmod:royal_tunic_light_blue_chestplate',
+        dependencyIdKey: '29DA88DDFAC79F20', # Elna moves in
+        tasksKey: cqlist.cosmRoyalOutfit
+      },
+      { # Steampunkers
+        nameKey: 'Steampunkers Completion',
+        iconKey: 'cosmeticarmoursmod:steampunkers_goggles_helmet',
+        dependencyIdKey: '29DA88DDFAC79F20', # Elna moves in
+        tasksKey: cqlist.cosmSteampunkers
+      },
+      { # Winter Survivalist
+        nameKey: 'Winter Survivalist Completion',
+        iconKey: 'cosmeticarmoursmod:brown_ushanka_hat_helmet',
+        dependencyIdKey: '29DA88DDFAC79F20', # Elna moves in
+        tasksKey: cqlist.cosmWinterSurvivalist
+      },
+      { # Astronaut
+        nameKey: 'Astronaut Completion',
+        iconKey: 'cosmeticarmoursmod:astronaut_helmet',
+        dependencyIdKey: '29DA88DDFAC79F20', # Elna moves in
+        tasksKey: cqlist.cosmAstronaut
+      },
+      { # Centurion
+        nameKey: 'Centurion Completion',
+        iconKey: 'cosmeticarmoursmod:centurions_helmet_helmet',
+        dependencyIdKey: '29DA88DDFAC79F20', # Elna moves in
+        tasksKey: cqlist.cosmCenturion
+      },
+      { # Farmer
+        nameKey: 'Farmer Completion',
+        iconKey: 'cosmeticarmoursmod:straw_hat_helmet',
+        dependencyIdKey: '29DA88DDFAC79F20', # Elna moves in
+        tasksKey: cqlist.cosmFarmer
+      },
+      { # Fisherman
+        nameKey: 'Fisherman Completion',
+        iconKey: 'cosmeticarmoursmod:fishermans_bucket_hat_helmet',
+        dependencyIdKey: '29DA88DDFAC79F20', # Elna moves in
+        tasksKey: cqlist.cosmFisherman
+      },
+      { # Ghillie Suit
+        nameKey: 'Ghillie Suit Completion',
+        iconKey: 'cosmeticarmoursmod:ghillie_suit_chestplate',
+        dependencyIdKey: '29DA88DDFAC79F20', # Elna moves in
+        tasksKey: cqlist.cosmGhillieSuit
+      },
+      { # Mobster
+        nameKey: 'Mobster Completion',
+        iconKey: 'cosmeticarmoursmod:mobster_chestplate',
+        dependencyIdKey: '29DA88DDFAC79F20', # Elna moves in
+        tasksKey: cqlist.cosmMobster
+      },
+      { # Tops
+        nameKey: 'Tops Completion',
+        iconKey: 'cosmeticarmoursmod:pink_skirt_chestplate',
+        dependencyIdKey: '29DA88DDFAC79F20', # Elna moves in
+        tasksKey: cqlist.cosmTops
+      },
+      { # Skirts and Boots
+        nameKey: 'Skirts and Boots Completion',
+        iconKey: 'cosmeticarmoursmod:orange_plaid_skirt_boots',
+        dependencyIdKey: '29DA88DDFAC79F20', # Elna moves in
+        tasksKey: cqlist.cosmSkirtBoots
+      },
+      { # Thigh High Socks
+        nameKey: 'Thigh High Socks Completion',
+        iconKey: 'cosmeticarmoursmod:orange_plaid_skirt_leggings',
+        dependencyIdKey: '29DA88DDFAC79F20', # Elna moves in
+        tasksKey: cqlist.cosmThighHighSocks
+      },
+      { # Knight Armor
+        nameKey: 'Knight Armor Completion',
+        iconKey: 'cosmeticarmoursmod:red_knight_helmet_helmet',
+        dependencyIdKey: '29DA88DDFAC79F20', # Elna moves in
+        tasksKey: cqlist.cosmKnightArmors
+      },
+      { # Archer
+        nameKey: 'Archer Completion',
+        iconKey: 'cosmeticarmoursmod:red_archers_attire_chestplate',
+        dependencyIdKey: '29DA88DDFAC79F20', # Elna moves in
+        tasksKey: cqlist.cosmArchersAttire
+      },
+      { # Christmas
+        nameKey: 'Christmas Completion',
+        iconKey: 'cosmeticarmoursmod:santa_hat_helmet',
+        dependencyIdKey: '29DA88DDFAC79F20', # Elna moves in
+        tasksKey: cqlist.cosmChristmas
+      },
+      { # Christmas Elves
+        nameKey: 'Christmas Elves Completion',
+        iconKey: 'cosmeticarmoursmod:christmas_elf_hat_green_helmet',
+        dependencyIdKey: '29DA88DDFAC79F20', # Elna moves in
+        tasksKey: cqlist.cosmElves
+      },
+      { # Crowns
+        nameKey: 'Crowns Completion',
+        iconKey: 'cosmeticarmoursmod:crown_helmet',
+        dependencyIdKey: '29DA88DDFAC79F20', # Elna moves in
+        tasksKey: cqlist.cosmCrowns
+      },
+      { # Cat Ears
+        nameKey: 'Cat Ears Completion',
+        iconKey: 'cosmeticarmoursmod:cat_ears_white_helmet',
+        dependencyIdKey: '29DA88DDFAC79F20', # Elna moves in
+        tasksKey: cqlist.cosmCatEars
+      },
+      { # Masks
+        nameKey: 'Masks Completion',
+        iconKey: 'cosmeticarmoursmod:axolotl_mask_helmet',
+        dependencyIdKey: '29DA88DDFAC79F20', # Elna moves in
+        tasksKey: cqlist.cosmMasks
+      },
+      { # Halo
+        nameKey: 'Halo Completion',
+        iconKey: 'cosmeticarmoursmod:gold_halo_helmet',
+        dependencyIdKey: '29DA88DDFAC79F20', # Elna moves in
+        tasksKey: cqlist.cosmHalos
+      },
+      { # Misc Hats
+        nameKey: 'Misc Hats Completion',
+        iconKey: 'cosmeticarmoursmod:frankenstein_bolts_helmet',
+        dependencyIdKey: '29DA88DDFAC79F20', # Elna moves in
+        tasksKey: cqlist.cosmMiscHats
       }
     ]
   }

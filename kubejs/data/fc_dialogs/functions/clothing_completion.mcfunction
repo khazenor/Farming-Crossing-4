@@ -1,0 +1,1 @@
+tellraw @p ["",{"text":"<Elna> ","color":"aqua"},{"text":"You're the REAL deal. You bought all the clothes I designed! My fashion brand's been on the up and up. Might even start another shop somewhere new. Very cool!","color":"white"}]

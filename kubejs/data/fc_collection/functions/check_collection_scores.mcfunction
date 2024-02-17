@@ -14,3 +14,5 @@ scoreboard players add @p rare_decorations 1
 tellraw @p ["", {"text":"Rare Decorations ("}, {"score":{"name":"@p","objective":"rare_decorations"}}, {"text":"/74)"}]
 scoreboard players add @p hat_collection 1
 tellraw @p ["", {"text":"Hat Collection ("}, {"score":{"name":"@p","objective":"hat_collection"}}, {"text":"/234)"}]
+scoreboard players add @p clothing_collection 1
+tellraw @p ["", {"text":"Clothing Collection ("}, {"score":{"name":"@p","objective":"clothing_collection"}}, {"text":"/235)"}]

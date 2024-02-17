@@ -10,6 +10,8 @@ laly = "Laly"
 ren = "Ren"
 sam = "Sam"
 yukkie = "Yukkie"
+bernina = "Bernina"
+elna = "Elna"
 
 speakers = [
   jess,
@@ -18,7 +20,9 @@ speakers = [
   laly,
   ren,
   sam,
-  yukkie
+  yukkie,
+  bernina,
+  elna
 ]
 
 dialogs = [
@@ -204,5 +208,72 @@ dialogs = [
     speakerKey: jess,
     textsKey: ['You’ve collected every rare item we have in our catalog. Very impressive indeed! Thank you for your patronage!'],
     questIdKey: "12E196AACE27C694"
+  }, {
+    nameKey: "Bernina Introduces Herself",
+    speakerKey: bernina,
+    questIdKey: "3849AFF8198316DC", # player collects 5 common decorations
+    textsKey: [
+      # Hi I'm Bernina the Shrew
+      # Jess told her that her decorations are selling well in her area.
+      # If player buys 10 common decorations she would like to move in to see if her hats will sell well
+      "'Ello, 'ello! Nice to make your aquaintance. My name is Bernina the Shrew. Jess told me you might be interested in buying some hats, and well, I happen to be selling 'em.",
+      "I see you bought 5 decorations from Jess. If you buy 5 more, I may swing by... Tata for now!"
+    ]
+  }, {
+    nameKey: "Bernina Agrees to Move in",
+    speakerKey: bernina,
+    questIdKey: "0863DC7647001CDF", # player collects 10 common decorations
+    textsKey: [
+      # You collected 10 common decorations? If you help setup my hat shop I'll be more than
+      # happy to move in!
+      "'Ello, again! Jess said you bought 10 decorations. How lovely! If you are interested in hats, I would be delighted to set up shop. Would you be a dear and help me move in?"
+    ]
+  }, {
+    nameKey: "Bernina Moves in",
+    speakerKey: bernina,
+    questIdKey: "08BD5EF1DC4E8167", # player summons bernina to the world,
+    textsKey: [
+      # hat shop is how open! I'm looking to more business from you!
+      "'Ello there! I am pleased to say that Bernina's Hat Shop is now open for business! Please do come by and try on some hats."
+    ]
+  }, {
+    nameKey: "Hat Completion",
+    speakerKey: bernina,
+    questIdKey: "75CFB8902849CA56",
+    textsKey: ["Well, well! You just gathered yourself all the hats in my collection. How marvelous! Please wear 'em with pride."]
+  }, {
+    nameKey: "Elna Introduces Herself",
+    speakerKey: elna,
+    questIdKey: "0F7916F7B5FED6A9", # player collects 10 hats,
+    textsKey: [
+      "Hey there! I'm Elna the Shrew. My older sis, Berni, told me about you. Said you were into the fashion scene. I'm actually starting my own fashion brand, and would totally be down to open a shop near you, if you're the real deal.",
+      "If you get 25 hats, then I'll think about moving over, k?"
+    ]
+  }, {
+    nameKey: "Elna Agrees to Move In",
+    speakerKey: elna,
+    questIdKey: "108CC9B40298ABCA", # player collects 20 hats
+    textsKey: [
+      "So you got 20 hats? Nice, nice. I guess you're the real deal. You mind helping me set up shop?"
+    ]
+  }, {
+    nameKey: "Elna Moves In",
+    speakerKey: elna,
+    questIdKey: "29DA88DDFAC79F20", # player spawns Elna into the world
+    textsKey: [
+      # Elna clothing shop is now open for business!  Thank you so much for all your help in
+      # setting up the shop!
+      "Elna's is now open for business! Come by, I'll hook you up with a new look."
+    ]
+  }, {
+    nameKey: "Clothing Completion",
+    speakerKey: elna,
+    questIdKey: "740AD798B928114A",
+    textsKey: [
+      # I saw that you have purchase all of the clothes in my clothing brand.
+      # I'm so excited!  My brand has now been a lot more successful because of you!
+      # Maybe I'll even start another shop in another area!
+      "You're the REAL deal. You bought all the clothes I designed! My fashion brand's been on the up and up. Might even start another shop somewhere new. Very cool!"
+    ]
   }
 ]

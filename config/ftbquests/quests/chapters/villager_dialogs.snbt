@@ -8,1023 +8,1179 @@
 	order_index: 3
 	quest_links: [ ]
 	quests: [
-	{
-		dependencies: ["3040D972C5FB1772"]
-		disable_toast: true
-		hide: true
-		description: [
-			"Hi, Jess the Beaver here! Thank you for signing up for our new Adventurer's Settlement package. An intrepid adventurer like yourself is sure to find all the thrills and delights you seek in this new land. I'm happy to provide you a complimentary backpack to aid you on your journey. But first, demonstrate your survival prowess by gathering some wood please."
-		]
-		icon: "minecraft:flower_banner_pattern"
-		id: "4F64442C961D2821"
-		rewards: [{
-			auto: "invisible"
-			command: "/function fc_dialogs:welcome_to_farming_crossing_4"
-			elevate_perms: true
-			id: "26085B5EA7945A27"
-			silent: true
-			type: "command"
-		}]
-		tasks: [{
-			icon: "minecraft:glass"
-			id: "72238FFFC28B3220"
-			stat: "minecraft:walk_one_cm"
-			title: "Free Task"
-			type: "stat"
-			value: 1
-		}]
-		title: "Welcome to Farming Crossing 4"
-		x: 0.0d
-		y: 0.0d
-	}
-	{
-		dependencies: ["0D0FDA6FBDCEFF3B"]
-		disable_toast: true
-		hide: true
-		description: [
-			"As you discover more and more about this new land, you’ll be rewarded with Miles Tickets for your efforts. These are as good as gold! Craft a market, and you’ll see what I mean."
-		]
-		icon: "minecraft:flower_banner_pattern"
-		id: "574ECCA766A19D60"
-		rewards: [{
-			auto: "invisible"
-			command: "/function fc_dialogs:turning_a_profit"
-			elevate_perms: true
-			id: "322D88B8F02F8BDD"
-			silent: true
-			type: "command"
-		}]
-		tasks: [{
-			icon: "minecraft:glass"
-			id: "5FBED33D4DC3E14D"
-			stat: "minecraft:walk_one_cm"
-			title: "Free Task"
-			type: "stat"
-			value: 1
-		}]
-		title: "Turning a profit"
-		x: 1.0d
-		y: 0.0d
-	}
-	{
-		dependencies: ["67410832B3588F76"]
-		disable_toast: true
-		hide: true
-		description: [
-			"I see you’ve been making good use of your Miles Tickets. For a nominal fee of 16 Miles Tickets, I’d be happy to offer you even more wares and decorations for purchase."
-			""
-			"Oh, and if you don’t mind, could you find a good place for me to set up shop? You can put all my belongings there."
-		]
-		icon: "minecraft:flower_banner_pattern"
-		id: "6708226356EFD116"
-		rewards: [{
-			auto: "invisible"
-			command: "/function fc_dialogs:jess_move_in"
-			elevate_perms: true
-			id: "6B8131ED4A2ED531"
-			silent: true
-			type: "command"
-		}]
-		tasks: [{
-			icon: "minecraft:glass"
-			id: "3C6DF727F006AAB0"
-			stat: "minecraft:walk_one_cm"
-			title: "Free Task"
-			type: "stat"
-			value: 1
-		}]
-		title: "Jess move in"
-		x: 2.0d
-		y: 0.0d
-	}
-	{
-		dependencies: ["756B6CAC42F98D92"]
-		disable_toast: true
-		hide: true
-		description: [
-			"Jess’ Decor Emporium is now open for business!  What can I do for you today?"
-		]
-		icon: "minecraft:flower_banner_pattern"
-		id: "742507C44245E20A"
-		rewards: [{
-			auto: "invisible"
-			command: "/function fc_dialogs:jess_appears"
-			elevate_perms: true
-			id: "2BAE64F77F21FBAD"
-			silent: true
-			type: "command"
-		}]
-		tasks: [{
-			icon: "minecraft:glass"
-			id: "02CC42448CCA537C"
-			stat: "minecraft:walk_one_cm"
-			title: "Free Task"
-			type: "stat"
-			value: 1
-		}]
-		title: "Jess appears"
-		x: 3.0d
-		y: 0.0d
-	}
-	{
-		dependencies: ["50E1ACC3A3655BDA"]
-		disable_toast: true
-		hide: true
-		description: [
-			"Hi there, human!  I'm Pamela the Rabbit, hobbyist gardener and head chef of the Carrot Place! Jess told me you are aspiring to be a great chef one day - that's wonderful! I'd be delighted to help you get started."
-		]
-		icon: "minecraft:flower_banner_pattern"
-		id: "6AE42AD5A7F8EF5C"
-		rewards: [{
-			auto: "invisible"
-			command: "/function fc_dialogs:pamela_introduction"
-			elevate_perms: true
-			id: "4D528F62DA0648C3"
-			silent: true
-			type: "command"
-		}]
-		tasks: [{
-			icon: "minecraft:glass"
-			id: "09E982C2894BE34A"
-			stat: "minecraft:walk_one_cm"
-			title: "Free Task"
-			type: "stat"
-			value: 1
-		}]
-		title: "Pamela Introduction"
-		x: 0.0d
-		y: 1.0d
-	}
-	{
-		dependencies: ["7B60A27CBE993B29"]
-		disable_toast: true
-		hide: true
-		description: [
-			"Oh, I’m so excited you've cooked 10 different meals! Excellent for a budding chef, I must say. If you cook 35 different meals, I’d be happy to come over and sell you some supplies for your cooking needs."
-		]
-		icon: "minecraft:flower_banner_pattern"
-		id: "00F850DA46147E5F"
-		rewards: [{
-			auto: "invisible"
-			command: "/function fc_dialogs:pamela_10_meals"
-			elevate_perms: true
-			id: "18397AAAA0E45926"
-			silent: true
-			type: "command"
-		}]
-		tasks: [{
-			icon: "minecraft:glass"
-			id: "2751444DE5E06E07"
-			stat: "minecraft:walk_one_cm"
-			title: "Free Task"
-			type: "stat"
-			value: 1
-		}]
-		title: "Pamela 10 Meals"
-		x: 1.0d
-		y: 1.0d
-	}
-	{
-		dependencies: ["66D8F2E7F4AE7A7E"]
-		disable_toast: true
-		hide: true
-		description: [
-			"You did it! Congratulations on preparing 35 different meals!  If you find me a place to stay, I’d be delighted to sell you some cooking supplies!"
-		]
-		icon: "minecraft:flower_banner_pattern"
-		id: "63BA43275036D546"
-		rewards: [{
-			auto: "invisible"
-			command: "/function fc_dialogs:pamela_35_meals"
-			elevate_perms: true
-			id: "1EC7529503380864"
-			silent: true
-			type: "command"
-		}]
-		tasks: [{
-			icon: "minecraft:glass"
-			id: "26BBD91090A3FBDB"
-			stat: "minecraft:walk_one_cm"
-			title: "Free Task"
-			type: "stat"
-			value: 1
-		}]
-		title: "Pamela 35 Meals"
-		x: 2.0d
-		y: 1.0d
-	}
-	{
-		dependencies: ["0D03125982F6A791"]
-		disable_toast: true
-		hide: true
-		description: [
-			"Hi there, fellow chef! I'm here to help you with your cooking journey. I'm positive other villagers will enjoy tasting your meals!"
-		]
-		icon: "minecraft:flower_banner_pattern"
-		id: "1FF366E916A1E6D3"
-		rewards: [{
-			auto: "invisible"
-			command: "/function fc_dialogs:pamela_move_in"
-			elevate_perms: true
-			id: "1ED8B4E2B2F25985"
-			silent: true
-			type: "command"
-		}]
-		tasks: [{
-			icon: "minecraft:glass"
-			id: "2639414D5B4F559E"
-			stat: "minecraft:walk_one_cm"
-			title: "Free Task"
-			type: "stat"
-			value: 1
-		}]
-		title: "Pamela move in"
-		x: 3.0d
-		y: 1.0d
-	}
-	{
-		dependencies: ["642264CEB01A2048"]
-		disable_toast: true
-		hide: true
-		description: [
-			"Amazing!  You cooked all the recipes I shared with you!  There’s nothing left for me to teach you – you are a master chef!"
-		]
-		icon: "minecraft:flower_banner_pattern"
-		id: "38129CBF2F6FC92F"
-		rewards: [{
-			auto: "invisible"
-			command: "/function fc_dialogs:cooking_quest_complete"
-			elevate_perms: true
-			id: "7561A6C3253BE3D7"
-			silent: true
-			type: "command"
-		}]
-		tasks: [{
-			icon: "minecraft:glass"
-			id: "0117EB16B1E97531"
-			stat: "minecraft:walk_one_cm"
-			title: "Free Task"
-			type: "stat"
-			value: 1
-		}]
-		title: "Cooking quest complete"
-		x: 4.0d
-		y: 1.0d
-	}
-	{
-		dependencies: ["75254634F98A2970"]
-		disable_toast: true
-		hide: true
-		description: [
-			"G'day, I'm Andre the Dog! I've been farming since I was old enough to fill a trough. I'm retired now, but I must say, I'm enjoying it well enough. No losing sleep over managing the farm. No need to worry about logistics, the weather... I can focus my full attention on training my animals. The other day, I taught my chicken Bessie to roll over. She's a smart one, that hen. I even have time to help out at the Oyster Creek Zoo every now and then."
-		]
-		icon: "minecraft:flower_banner_pattern"
-		id: "1391EF38FA9D5EFE"
-		rewards: [{
-			auto: "invisible"
-			command: "/function fc_dialogs:andre_introduction"
-			elevate_perms: true
-			id: "7EDF1CE58C3EF6EE"
-			silent: true
-			type: "command"
-		}]
-		tasks: [{
-			icon: "minecraft:glass"
-			id: "1BD2A692C017CA6F"
-			stat: "minecraft:walk_one_cm"
-			title: "Free Task"
-			type: "stat"
-			value: 1
-		}]
-		title: "Andre Introduction"
-		x: 0.0d
-		y: 2.0d
-	}
-	{
-		dependencies: ["14C387DFE531E853"]
-		disable_toast: true
-		hide: true
-		description: [
-			"Great job on spotting 10 new animals, kiddo!  If you spot 35 new animals, I'd be mighty tempted to join you."
-		]
-		icon: "minecraft:flower_banner_pattern"
-		id: "0E0499BA581C2C56"
-		rewards: [{
-			auto: "invisible"
-			command: "/function fc_dialogs:andre_10"
-			elevate_perms: true
-			id: "771050D36EA28872"
-			silent: true
-			type: "command"
-		}]
-		tasks: [{
-			icon: "minecraft:glass"
-			id: "78FEFCAE3DFEED93"
-			stat: "minecraft:walk_one_cm"
-			title: "Free Task"
-			type: "stat"
-			value: 1
-		}]
-		title: "Andre 10"
-		x: 1.0d
-		y: 2.0d
-	}
-	{
-		dependencies: ["3DE5B692E6031ECB"]
-		disable_toast: true
-		hide: true
-		description: [
-			"You’ve spotted 35 new animals, huh?  Well, I reckon I'd like to come out there myself.  Would you mind finding me a place?"
-		]
-		icon: "minecraft:flower_banner_pattern"
-		id: "7C820D066BCFA046"
-		rewards: [{
-			auto: "invisible"
-			command: "/function fc_dialogs:andre_35"
-			elevate_perms: true
-			id: "72B31A1DF69EA942"
-			silent: true
-			type: "command"
-		}]
-		tasks: [{
-			icon: "minecraft:glass"
-			id: "48DE5E79AB950BCA"
-			stat: "minecraft:walk_one_cm"
-			title: "Free Task"
-			type: "stat"
-			value: 1
-		}]
-		title: "Andre 35"
-		x: 2.0d
-		y: 2.0d
-	}
-	{
-		dependencies: ["1B8E82ADB3063C94"]
-		disable_toast: true
-		hide: true
-		description: [
-			"Howdy, kiddo.  Searching for animal care supplies?  I’ve got 'em right here."
-		]
-		icon: "minecraft:flower_banner_pattern"
-		id: "42B14572377428EF"
-		rewards: [{
-			auto: "invisible"
-			command: "/function fc_dialogs:andre_move_in"
-			elevate_perms: true
-			id: "1C5F9278AA01DB40"
-			silent: true
-			type: "command"
-		}]
-		tasks: [{
-			icon: "minecraft:glass"
-			id: "6827E96F9F4B67E8"
-			stat: "minecraft:walk_one_cm"
-			title: "Free Task"
-			type: "stat"
-			value: 1
-		}]
-		title: "Andre move in"
-		x: 3.0d
-		y: 2.0d
-	}
-	{
-		dependencies: ["38F539E62CB6A9F3"]
-		disable_toast: true
-		hide: true
-		description: [
-			"Well I’ll be. You’ve seen all the animals there are in this world.  I tip my hat to you, explorer.  You’ve done good."
-		]
-		icon: "minecraft:flower_banner_pattern"
-		id: "047665A3018FF0F4"
-		rewards: [{
-			auto: "invisible"
-			command: "/function fc_dialogs:animal_quest_complete"
-			elevate_perms: true
-			id: "2A0D567C6B37016C"
-			silent: true
-			type: "command"
-		}]
-		tasks: [{
-			icon: "minecraft:glass"
-			id: "2FF18CF0C7BC5B3D"
-			stat: "minecraft:walk_one_cm"
-			title: "Free Task"
-			type: "stat"
-			value: 1
-		}]
-		title: "Animal quest complete"
-		x: 4.0d
-		y: 2.0d
-	}
-	{
-		dependencies: ["3CC8790E7C998439"]
-		disable_toast: true
-		hide: true
-		description: [
-			"Hi, hi! I'm Laly, Laly the Meerkat! I'm a geologist who loves caving, and a curator of the Oyster Creek Museum's gems and minerals exhibit. I spend A LOT of time underground. It's my happy place. But lately I haven't been able to get out in the field as much as I'd like, since work at the museum has been picking up. I was sooo jealous when Jess told me where she sent you. Lucky you! Turns out, the land is an absolute treasure trove for gems. Since you'll be finding a ton of gems while you mine, you wouldn't mind sending me some specimens for science, right? I can't wait to see what you find!"
-		]
-		icon: "minecraft:flower_banner_pattern"
-		id: "05618C6BAD32991E"
-		rewards: [{
-			auto: "invisible"
-			command: "/function fc_dialogs:laly_introduction"
-			elevate_perms: true
-			id: "70F21C221834D5AE"
-			silent: true
-			type: "command"
-		}]
-		tasks: [{
-			icon: "minecraft:glass"
-			id: "21753C284DE910C4"
-			stat: "minecraft:walk_one_cm"
-			title: "Free Task"
-			type: "stat"
-			value: 1
-		}]
-		title: "Laly Introduction"
-		x: 0.0d
-		y: 3.0d
-	}
-	{
-		dependencies: ["5680A2527AE9521F"]
-		disable_toast: true
-		hide: true
-		description: [
-			"Laly: Ooooh, you found 10 different minerals?  If you find 35 different minerals, I’ll come buy them from you personally for my museum collection"
-		]
-		icon: "minecraft:flower_banner_pattern"
-		id: "1B456CDEC3E2CC3A"
-		rewards: [{
-			auto: "invisible"
-			command: "/function fc_dialogs:laly_10"
-			elevate_perms: true
-			id: "52C2C26F3D1D752D"
-			silent: true
-			type: "command"
-		}]
-		tasks: [{
-			icon: "minecraft:glass"
-			id: "696D2E44A2441E6D"
-			stat: "minecraft:walk_one_cm"
-			title: "Free Task"
-			type: "stat"
-			value: 1
-		}]
-		title: "Laly 10"
-		x: 1.0d
-		y: 3.0d
-	}
-	{
-		dependencies: ["3AF201F39530F503"]
-		disable_toast: true
-		hide: true
-		description: [
-			"Oooooh, you found 35 different minerals?  Perfect, I’m headed over to buy them for my museum collection!  If you could find a place for me to stay, that would be super!"
-		]
-		icon: "minecraft:flower_banner_pattern"
-		id: "34738A9F4D9CED63"
-		rewards: [{
-			auto: "invisible"
-			command: "/function fc_dialogs:laly_35"
-			elevate_perms: true
-			id: "0D606574DBD967CE"
-			silent: true
-			type: "command"
-		}]
-		tasks: [{
-			icon: "minecraft:glass"
-			id: "32C2493BD855AEF3"
-			stat: "minecraft:walk_one_cm"
-			title: "Free Task"
-			type: "stat"
-			value: 1
-		}]
-		title: "Laly 35"
-		x: 2.0d
-		y: 3.0d
-	}
-	{
-		dependencies: ["32315F192BEB4876"]
-		disable_toast: true
-		hide: true
-		description: [
-			"Howdy, kiddo.  Searching for animal care supplies?  I’ve got 'em right here."
-		]
-		icon: "minecraft:flower_banner_pattern"
-		id: "3C15E93C4EF5A14A"
-		rewards: [{
-			auto: "invisible"
-			command: "/function fc_dialogs:laly_move_in"
-			elevate_perms: true
-			id: "0A4605C9A4710759"
-			silent: true
-			type: "command"
-		}]
-		tasks: [{
-			icon: "minecraft:glass"
-			id: "30495E5702ADD54D"
-			stat: "minecraft:walk_one_cm"
-			title: "Free Task"
-			type: "stat"
-			value: 1
-		}]
-		title: "Laly move in"
-		x: 3.0d
-		y: 3.0d
-	}
-	{
-		dependencies: ["6FA340C0FFE7FB26"]
-		disable_toast: true
-		hide: true
-		description: [
-			"I'm Woodpecker Ren...  Cutter of wood for many years... Making furniture? Simple. Find yourself some good materials and I'll help you from there"
-		]
-		icon: "minecraft:flower_banner_pattern"
-		id: "3B7F91C9C5C2850E"
-		rewards: [{
-			auto: "invisible"
-			command: "/function fc_dialogs:ren_furniture_cutting"
-			elevate_perms: true
-			id: "7BF35F314176CAD6"
-			silent: true
-			type: "command"
-		}]
-		tasks: [{
-			icon: "minecraft:glass"
-			id: "7A0127E624084CB5"
-			stat: "minecraft:walk_one_cm"
-			title: "Free Task"
-			type: "stat"
-			value: 1
-		}]
-		title: "Ren: Furniture Cutting"
-		x: 0.0d
-		y: 4.0d
-	}
-	{
-		dependencies: ["7CE7B5249150EEC7"]
-		disable_toast: true
-		hide: true
-		description: [
-			"Making furniture?  Simple. First, build these… Then… I’ll come to help."
-		]
-		icon: "minecraft:flower_banner_pattern"
-		id: "1BA75D3C3CCB0E28"
-		rewards: [{
-			auto: "invisible"
-			command: "/function fc_dialogs:ren_interior_decoration"
-			elevate_perms: true
-			id: "603D68E1EFD24B65"
-			silent: true
-			type: "command"
-		}]
-		tasks: [{
-			icon: "minecraft:glass"
-			id: "57FEC1C75C9D7685"
-			stat: "minecraft:walk_one_cm"
-			title: "Free Task"
-			type: "stat"
-			value: 1
-		}]
-		title: "Ren: Interior Decoration"
-		x: 1.0d
-		y: 4.0d
-	}
-	{
-		dependencies: ["468E43123E8DB4F9"]
-		disable_toast: true
-		hide: true
-		description: [
-			"Very good.  Making furniture?  Here is wood for sale."
-		]
-		icon: "minecraft:flower_banner_pattern"
-		id: "524100E08B564BD7"
-		rewards: [{
-			auto: "invisible"
-			command: "/function fc_dialogs:ren_moves_in"
-			elevate_perms: true
-			id: "05D065C57F5DF20C"
-			silent: true
-			type: "command"
-		}]
-		tasks: [{
-			icon: "minecraft:glass"
-			id: "7C16515F718CCB54"
-			stat: "minecraft:walk_one_cm"
-			title: "Free Task"
-			type: "stat"
-			value: 1
-		}]
-		title: "Ren moves in"
-		x: 2.0d
-		y: 4.0d
-	}
-	{
-		dependencies: ["2E74D36DEA106550"]
-		disable_toast: true
-		hide: true
-		description: [
-			"This is Sam the Osprey.  I'm somewhat of a connoisseur of aquatic life, both in terms of natural history and consumption.  My life revolves around fish - I'm a sushi chef by day and a fisherman by night. When Jess told me you were considering a fishing career, I must say I was overjoyed. The delight of capturing your own fish and eating it the same day -- the fresh fatty umami taste melting on your tongue with every bite -- is one of the greatest pleasures in life. At least, that's how I see it. Fish is all I eat, all that sustains me. I hope that you will come to understand my point of view, and perhaps embrace it with me."
-		]
-		icon: "minecraft:flower_banner_pattern"
-		id: "798C87581264024C"
-		rewards: [{
-			auto: "invisible"
-			command: "/function fc_dialogs:sam_introduction"
-			elevate_perms: true
-			id: "2794EB78BF70154B"
-			silent: true
-			type: "command"
-		}]
-		tasks: [{
-			icon: "minecraft:glass"
-			id: "43B008D15CB1FEF6"
-			stat: "minecraft:walk_one_cm"
-			title: "Free Task"
-			type: "stat"
-			value: 1
-		}]
-		title: "Sam Introduction"
-		x: 0.0d
-		y: 5.0d
-	}
-	{
-		dependencies: ["0C12F1D35E0F5D5B"]
-		disable_toast: true
-		hide: true
-		description: [
-			"I see you have caught 10 different fishes. So, have you embraced the joys of fishing?  Catch 20 fishes, and I will consider moving nearby."
-		]
-		icon: "minecraft:flower_banner_pattern"
-		id: "34F4CBB8D0F90982"
-		rewards: [{
-			auto: "invisible"
-			command: "/function fc_dialogs:sam_10"
-			elevate_perms: true
-			id: "325E07AAFFAB7AF2"
-			silent: true
-			type: "command"
-		}]
-		tasks: [{
-			icon: "minecraft:glass"
-			id: "08DED0B23AE6D772"
-			stat: "minecraft:walk_one_cm"
-			title: "Free Task"
-			type: "stat"
-			value: 1
-		}]
-		title: "Sam 10"
-		x: 1.0d
-		y: 5.0d
-	}
-	{
-		dependencies: ["3870A577D3E6D95E"]
-		disable_toast: true
-		hide: true
-		description: [
-			"I see you have caught 20 different fishes. That’s quite an impressive haul. Indeed, I’d like to evaluate the quality of your catch in person. If you prepare a space for me, I will open a sushi stall nearby"
-		]
-		icon: "minecraft:flower_banner_pattern"
-		id: "6A0FDD1327434CBA"
-		rewards: [{
-			auto: "invisible"
-			command: "/function fc_dialogs:sam_20"
-			elevate_perms: true
-			id: "40316249A31C6BAD"
-			silent: true
-			type: "command"
-		}]
-		tasks: [{
-			icon: "minecraft:glass"
-			id: "68800EF4723A3B90"
-			stat: "minecraft:walk_one_cm"
-			title: "Free Task"
-			type: "stat"
-			value: 1
-		}]
-		title: "Sam 20"
-		x: 2.0d
-		y: 5.0d
-	}
-	{
-		dependencies: ["24D59BF6E757524F"]
-		disable_toast: true
-		hide: true
-		description: [
-			"Please bring me your finest catch, and I will make it worth your while. I will prepare your fish with care and serve them as fresh sushi."
-		]
-		icon: "minecraft:flower_banner_pattern"
-		id: "305E96CD57ED7196"
-		rewards: [{
-			auto: "invisible"
-			command: "/function fc_dialogs:sam_moves_in"
-			elevate_perms: true
-			id: "1C91ED0CC1042011"
-			silent: true
-			type: "command"
-		}]
-		tasks: [{
-			icon: "minecraft:glass"
-			id: "2E60E030E0EDB3BC"
-			stat: "minecraft:walk_one_cm"
-			title: "Free Task"
-			type: "stat"
-			value: 1
-		}]
-		title: "Sam moves in"
-		x: 3.0d
-		y: 5.0d
-	}
-	{
-		dependencies: ["62DFEC1308C2BC8E"]
-		disable_toast: true
-		hide: true
-		description: [
-			"I LOVE FRUITS! There are so many fruit trees here! Oh, I'm Yukkie the Bat, by the way. You're an adventurer too?  Nice to meet you! The world is my orchard. It can be yours too. Keep your eyes peeled, and you're bound to find nature's bounty on every branch and bough. Once you pick one - you'll be hooked! You know, you can make a good living off just selling wild fruit and nuts. As for me, I'm happy just keeping them all for myself. Ha!"
-		]
-		icon: "minecraft:flower_banner_pattern"
-		id: "0F1272E08904C006"
-		rewards: [{
-			auto: "invisible"
-			command: "/function fc_dialogs:yukkie_introduction"
-			elevate_perms: true
-			id: "373B416F60DE4823"
-			silent: true
-			type: "command"
-		}]
-		tasks: [{
-			icon: "minecraft:glass"
-			id: "7E3D2B031FF0446F"
-			stat: "minecraft:walk_one_cm"
-			title: "Free Task"
-			type: "stat"
-			value: 1
-		}]
-		title: "Yukkie Introduction"
-		x: 0.0d
-		y: 6.0d
-	}
-	{
-		dependencies: ["3CD7614C74864E35"]
-		disable_toast: true
-		hide: true
-		description: [
-			"You found 10 different plants?!  Sweet!  When you find 35 different plants, let me know.  I’m sure you’ll have plenty of fruits for me by then!"
-		]
-		icon: "minecraft:flower_banner_pattern"
-		id: "1D6AD6DE5B7A2C5B"
-		rewards: [{
-			auto: "invisible"
-			command: "/function fc_dialogs:yukkie_10"
-			elevate_perms: true
-			id: "5E451F7216582357"
-			silent: true
-			type: "command"
-		}]
-		tasks: [{
-			icon: "minecraft:glass"
-			id: "39C7F8E9E54721D2"
-			stat: "minecraft:walk_one_cm"
-			title: "Free Task"
-			type: "stat"
-			value: 1
-		}]
-		title: "Yukkie 10"
-		x: 1.0d
-		y: 6.0d
-	}
-	{
-		dependencies: ["64174F6BF0BE0173"]
-		disable_toast: true
-		hide: true
-		description: [
-			"YOU FOUND 35 DIFFERENT PLANTS?!?  How much FRUIT do you have?  I need to know! You mind if I crash at your place?"
-		]
-		icon: "minecraft:flower_banner_pattern"
-		id: "71B94F2AEEB5CEF3"
-		rewards: [{
-			auto: "invisible"
-			command: "/function fc_dialogs:yukkie_35"
-			elevate_perms: true
-			id: "24A31F6B632240F7"
-			silent: true
-			type: "command"
-		}]
-		tasks: [{
-			icon: "minecraft:glass"
-			id: "0267E41D864EBFA9"
-			stat: "minecraft:walk_one_cm"
-			title: "Free Task"
-			type: "stat"
-			value: 1
-		}]
-		title: "Yukkie 35"
-		x: 2.0d
-		y: 6.0d
-	}
-	{
-		dependencies: ["78BB8E151802329C"]
-		disable_toast: true
-		hide: true
-		description: [
-			"I’M HERE!  Please sell me your FRUIT!  I LOVE FRUIT!"
-		]
-		icon: "minecraft:flower_banner_pattern"
-		id: "2E6408A054A21573"
-		rewards: [{
-			auto: "invisible"
-			command: "/function fc_dialogs:yukkie_moves_in"
-			elevate_perms: true
-			id: "7BD8C99AA9A40E76"
-			silent: true
-			type: "command"
-		}]
-		tasks: [{
-			icon: "minecraft:glass"
-			id: "24D7330DBCBF5004"
-			stat: "minecraft:walk_one_cm"
-			title: "Free Task"
-			type: "stat"
-			value: 1
-		}]
-		title: "Yukkie moves in"
-		x: 3.0d
-		y: 6.0d
-	}
-	{
-		dependencies: ["7FFECB00FD52493F"]
-		disable_toast: true
-		hide: true
-		description: [
-			"Oooo, fantastic work, explorer!  You’ve found every mineral in our known records - That’s dedication!  Please, please, pleeease consider selling your finds to my museum. We’re always on the lookout for new shiny specimens!"
-		]
-		icon: "minecraft:flower_banner_pattern"
-		id: "73B8B75AEF08B513"
-		rewards: [{
-			auto: "invisible"
-			command: "/function fc_dialogs:laly_museum_completion"
-			elevate_perms: true
-			id: "249A41159CF7A551"
-			silent: true
-			type: "command"
-		}]
-		tasks: [{
-			icon: "minecraft:glass"
-			id: "31BC4C8D8C24FE13"
-			stat: "minecraft:walk_one_cm"
-			title: "Free Task"
-			type: "stat"
-			value: 1
-		}]
-		title: "Laly Museum Completion"
-		x: 4.0d
-		y: 3.0d
-	}
-	{
-		dependencies: ["31E7355A76438FA8"]
-		disable_toast: true
-		hide: true
-		description: [
-			"Ah, so you have scoured the waters and captured every single fish known to this land.  The sneaky catfish! The mysterious red shrooma!  Even the mighty tuna!  How sublime!  It gives me such pleasure to know you are as devoted to the art of fishing as I.  (Sam sheds a single tear, he’s so proud.)"
-		]
-		icon: "minecraft:flower_banner_pattern"
-		id: "67C1AC2E1B55D105"
-		rewards: [{
-			auto: "invisible"
-			command: "/function fc_dialogs:sam_aquarium_completion"
-			elevate_perms: true
-			id: "3CBE34A4401C3A12"
-			silent: true
-			type: "command"
-		}]
-		tasks: [{
-			icon: "minecraft:glass"
-			id: "7E384B9C420DD555"
-			stat: "minecraft:walk_one_cm"
-			title: "Free Task"
-			type: "stat"
-			value: 1
-		}]
-		title: "Sam Aquarium Completion"
-		x: 4.0d
-		y: 5.0d
-	}
-	{
-		dependencies: ["5A6147A02E9D19BB"]
-		disable_toast: true
-		hide: true
-		description: [
-			"YOU DID IT!  You’ve collected all the plants!  WOOHOOOO!"
-		]
-		icon: "minecraft:flower_banner_pattern"
-		id: "64B2CCCD1AF2943F"
-		rewards: [{
-			auto: "invisible"
-			command: "/function fc_dialogs:flora_collection_completion"
-			elevate_perms: true
-			id: "17346A8B8EABB6EA"
-			silent: true
-			type: "command"
-		}]
-		tasks: [{
-			icon: "minecraft:glass"
-			id: "4F805D1FC713D169"
-			stat: "minecraft:walk_one_cm"
-			title: "Free Task"
-			type: "stat"
-			value: 1
-		}]
-		title: "Flora Collection Completion"
-		x: 4.0d
-		y: 6.0d
-	}
-	{
-		dependencies: ["75CFB8902849CA56"]
-		disable_toast: true
-		hide: true
-		description: [
-			"You’ve collected every hat we have in our catalog. With that sizable collection of hats, I’m confident you will be able to make any fashion statement you desire."
-		]
-		icon: "minecraft:flower_banner_pattern"
-		id: "5B9B58A5F846E19F"
-		rewards: [{
-			auto: "invisible"
-			command: "/function fc_dialogs:jess_hat_collection_completion"
-			elevate_perms: true
-			id: "0DF3A68D328FD81A"
-			silent: true
-			type: "command"
-		}]
-		tasks: [{
-			icon: "minecraft:glass"
-			id: "7CED612CE003D2A8"
-			stat: "minecraft:walk_one_cm"
-			title: "Free Task"
-			type: "stat"
-			value: 1
-		}]
-		title: "Jess Hat Collection Completion"
-		x: 4.0d
-		y: 0.0d
-	}
-	{
-		dependencies: ["4346B1BF9630F17A"]
-		disable_toast: true
-		hide: true
-		description: [
-			"You’ve obtained every common item we have in our catalog. You are quite the dedicated collector!  Thank you for your patronage!"
-		]
-		icon: "minecraft:flower_banner_pattern"
-		id: "6BAFCAA97DB50120"
-		rewards: [{
-			auto: "invisible"
-			command: "/function fc_dialogs:jess_common_decoration_completion"
-			elevate_perms: true
-			id: "2DDE1A952574E3E0"
-			silent: true
-			type: "command"
-		}]
-		tasks: [{
-			icon: "minecraft:glass"
-			id: "4718A9E890310766"
-			stat: "minecraft:walk_one_cm"
-			title: "Free Task"
-			type: "stat"
-			value: 1
-		}]
-		title: "Jess Common Decoration Completion"
-		x: 5.0d
-		y: 0.0d
-	}
-	{
-		dependencies: ["12E196AACE27C694"]
-		disable_toast: true
-		hide: true
-		description: [
-			"You’ve collected every rare item we have in our catalog. Very impressive indeed! Thank you for your patronage!"
-		]
-		icon: "minecraft:flower_banner_pattern"
-		id: "299210319A3EEBD0"
-		rewards: [{
-			auto: "invisible"
-			command: "/function fc_dialogs:jess_rare_decoration_completion"
-			elevate_perms: true
-			id: "6DCE04B23FD9AC0F"
-			silent: true
-			type: "command"
-		}]
-		tasks: [{
-			icon: "minecraft:glass"
-			id: "6CF7BB660A91A8A7"
-			stat: "minecraft:walk_one_cm"
-			title: "Free Task"
-			type: "stat"
-			value: 1
-		}]
-		title: "Jess Rare Decoration Completion"
-		x: 6.0d
-		y: 0.0d
-	}
+		{
+			dependencies: ["3040D972C5FB1772"]
+			description: ["Hi, Jess the Beaver here! Thank you for signing up for our new Adventurer's Settlement package. An intrepid adventurer like yourself is sure to find all the thrills and delights you seek in this new land. I'm happy to provide you a complimentary backpack to aid you on your journey. But first, demonstrate your survival prowess by gathering some wood please."]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "4F64442C961D2821"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:welcome_to_farming_crossing_4"
+				elevate_perms: true
+				id: "26085B5EA7945A27"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "72238FFFC28B3220"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Welcome to Farming Crossing 4"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0D0FDA6FBDCEFF3B"]
+			description: ["As you discover more and more about this new land, you’ll be rewarded with Miles Tickets for your efforts. These are as good as gold! Craft a market, and you’ll see what I mean."]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "574ECCA766A19D60"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:turning_a_profit"
+				elevate_perms: true
+				id: "322D88B8F02F8BDD"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "5FBED33D4DC3E14D"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Turning a profit"
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["67410832B3588F76"]
+			description: [
+				"I see you’ve been making good use of your Miles Tickets. For a nominal fee of 16 Miles Tickets, I’d be happy to offer you even more wares and decorations for purchase."
+				""
+				"Oh, and if you don’t mind, could you find a good place for me to set up shop? You can put all my belongings there."
+			]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "6708226356EFD116"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:jess_move_in"
+				elevate_perms: true
+				id: "6B8131ED4A2ED531"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "3C6DF727F006AAB0"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Jess move in"
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["756B6CAC42F98D92"]
+			description: ["Jess’ Decor Emporium is now open for business!  What can I do for you today?"]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "742507C44245E20A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:jess_appears"
+				elevate_perms: true
+				id: "2BAE64F77F21FBAD"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "02CC42448CCA537C"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Jess appears"
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["50E1ACC3A3655BDA"]
+			description: ["Hi there, human!  I'm Pamela the Rabbit, hobbyist gardener and head chef of the Carrot Place! Jess told me you are aspiring to be a great chef one day - that's wonderful! I'd be delighted to help you get started."]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "6AE42AD5A7F8EF5C"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:pamela_introduction"
+				elevate_perms: true
+				id: "4D528F62DA0648C3"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "09E982C2894BE34A"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Pamela Introduction"
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7B60A27CBE993B29"]
+			description: ["Oh, I’m so excited you've cooked 10 different meals! Excellent for a budding chef, I must say. If you cook 35 different meals, I’d be happy to come over and sell you some supplies for your cooking needs."]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "00F850DA46147E5F"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:pamela_10_meals"
+				elevate_perms: true
+				id: "18397AAAA0E45926"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "2751444DE5E06E07"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Pamela 10 Meals"
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["66D8F2E7F4AE7A7E"]
+			description: ["You did it! Congratulations on preparing 35 different meals!  If you find me a place to stay, I’d be delighted to sell you some cooking supplies!"]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "63BA43275036D546"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:pamela_35_meals"
+				elevate_perms: true
+				id: "1EC7529503380864"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "26BBD91090A3FBDB"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Pamela 35 Meals"
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["0D03125982F6A791"]
+			description: ["Hi there, fellow chef! I'm here to help you with your cooking journey. I'm positive other villagers will enjoy tasting your meals!"]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "1FF366E916A1E6D3"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:pamela_move_in"
+				elevate_perms: true
+				id: "1ED8B4E2B2F25985"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "2639414D5B4F559E"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Pamela move in"
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["642264CEB01A2048"]
+			description: ["Amazing!  You cooked all the recipes I shared with you!  There’s nothing left for me to teach you – you are a master chef!"]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "38129CBF2F6FC92F"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:cooking_quest_complete"
+				elevate_perms: true
+				id: "7561A6C3253BE3D7"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "0117EB16B1E97531"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Cooking quest complete"
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["75254634F98A2970"]
+			description: ["G'day, I'm Andre the Dog! I've been farming since I was old enough to fill a trough. I'm retired now, but I must say, I'm enjoying it well enough. No losing sleep over managing the farm. No need to worry about logistics, the weather... I can focus my full attention on training my animals. The other day, I taught my chicken Bessie to roll over. She's a smart one, that hen. I even have time to help out at the Oyster Creek Zoo every now and then."]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "1391EF38FA9D5EFE"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:andre_introduction"
+				elevate_perms: true
+				id: "7EDF1CE58C3EF6EE"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "1BD2A692C017CA6F"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Andre Introduction"
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["14C387DFE531E853"]
+			description: ["Great job on spotting 10 new animals, kiddo!  If you spot 35 new animals, I'd be mighty tempted to join you."]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "0E0499BA581C2C56"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:andre_10"
+				elevate_perms: true
+				id: "771050D36EA28872"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "78FEFCAE3DFEED93"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Andre 10"
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3DE5B692E6031ECB"]
+			description: ["You’ve spotted 35 new animals, huh?  Well, I reckon I'd like to come out there myself.  Would you mind finding me a place?"]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "7C820D066BCFA046"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:andre_35"
+				elevate_perms: true
+				id: "72B31A1DF69EA942"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "48DE5E79AB950BCA"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Andre 35"
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1B8E82ADB3063C94"]
+			description: ["Howdy, kiddo.  Searching for animal care supplies?  I’ve got 'em right here."]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "42B14572377428EF"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:andre_move_in"
+				elevate_perms: true
+				id: "1C5F9278AA01DB40"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "6827E96F9F4B67E8"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Andre move in"
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["38F539E62CB6A9F3"]
+			description: ["Well I’ll be. You’ve seen all the animals there are in this world.  I tip my hat to you, explorer.  You’ve done good."]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "047665A3018FF0F4"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:animal_quest_complete"
+				elevate_perms: true
+				id: "2A0D567C6B37016C"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "2FF18CF0C7BC5B3D"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Animal quest complete"
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3CC8790E7C998439"]
+			description: ["Hi, hi! I'm Laly, Laly the Meerkat! I'm a geologist who loves caving, and a curator of the Oyster Creek Museum's gems and minerals exhibit. I spend A LOT of time underground. It's my happy place. But lately I haven't been able to get out in the field as much as I'd like, since work at the museum has been picking up. I was sooo jealous when Jess told me where she sent you. Lucky you! Turns out, the land is an absolute treasure trove for gems. Since you'll be finding a ton of gems while you mine, you wouldn't mind sending me some specimens for science, right? I can't wait to see what you find!"]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "05618C6BAD32991E"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:laly_introduction"
+				elevate_perms: true
+				id: "70F21C221834D5AE"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "21753C284DE910C4"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Laly Introduction"
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5680A2527AE9521F"]
+			description: ["Laly: Ooooh, you found 10 different minerals?  If you find 35 different minerals, I’ll come buy them from you personally for my museum collection"]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "1B456CDEC3E2CC3A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:laly_10"
+				elevate_perms: true
+				id: "52C2C26F3D1D752D"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "696D2E44A2441E6D"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Laly 10"
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3AF201F39530F503"]
+			description: ["Oooooh, you found 35 different minerals?  Perfect, I’m headed over to buy them for my museum collection!  If you could find a place for me to stay, that would be super!"]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "34738A9F4D9CED63"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:laly_35"
+				elevate_perms: true
+				id: "0D606574DBD967CE"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "32C2493BD855AEF3"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Laly 35"
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["32315F192BEB4876"]
+			description: ["Howdy, kiddo.  Searching for animal care supplies?  I’ve got 'em right here."]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "3C15E93C4EF5A14A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:laly_move_in"
+				elevate_perms: true
+				id: "0A4605C9A4710759"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "30495E5702ADD54D"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Laly move in"
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6FA340C0FFE7FB26"]
+			description: ["I'm Woodpecker Ren...  Cutter of wood for many years... Making furniture? Simple. Find yourself some good materials and I'll help you from there"]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "3B7F91C9C5C2850E"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:ren_furniture_cutting"
+				elevate_perms: true
+				id: "7BF35F314176CAD6"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "7A0127E624084CB5"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Ren: Furniture Cutting"
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["7CE7B5249150EEC7"]
+			description: ["Making furniture?  Simple. First, build these… Then… I’ll come to help."]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "1BA75D3C3CCB0E28"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:ren_interior_decoration"
+				elevate_perms: true
+				id: "603D68E1EFD24B65"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "57FEC1C75C9D7685"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Ren: Interior Decoration"
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["468E43123E8DB4F9"]
+			description: ["Very good.  Making furniture?  Here is wood for sale."]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "524100E08B564BD7"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:ren_moves_in"
+				elevate_perms: true
+				id: "05D065C57F5DF20C"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "7C16515F718CCB54"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Ren moves in"
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["2E74D36DEA106550"]
+			description: ["This is Sam the Osprey.  I'm somewhat of a connoisseur of aquatic life, both in terms of natural history and consumption.  My life revolves around fish - I'm a sushi chef by day and a fisherman by night. When Jess told me you were considering a fishing career, I must say I was overjoyed. The delight of capturing your own fish and eating it the same day -- the fresh fatty umami taste melting on your tongue with every bite -- is one of the greatest pleasures in life. At least, that's how I see it. Fish is all I eat, all that sustains me. I hope that you will come to understand my point of view, and perhaps embrace it with me."]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "798C87581264024C"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:sam_introduction"
+				elevate_perms: true
+				id: "2794EB78BF70154B"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "43B008D15CB1FEF6"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Sam Introduction"
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["0C12F1D35E0F5D5B"]
+			description: ["I see you have caught 10 different fishes. So, have you embraced the joys of fishing?  Catch 20 fishes, and I will consider moving nearby."]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "34F4CBB8D0F90982"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:sam_10"
+				elevate_perms: true
+				id: "325E07AAFFAB7AF2"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "08DED0B23AE6D772"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Sam 10"
+			x: 1.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["3870A577D3E6D95E"]
+			description: ["I see you have caught 20 different fishes. That’s quite an impressive haul. Indeed, I’d like to evaluate the quality of your catch in person. If you prepare a space for me, I will open a sushi stall nearby"]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "6A0FDD1327434CBA"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:sam_20"
+				elevate_perms: true
+				id: "40316249A31C6BAD"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "68800EF4723A3B90"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Sam 20"
+			x: 2.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["24D59BF6E757524F"]
+			description: ["Please bring me your finest catch, and I will make it worth your while. I will prepare your fish with care and serve them as fresh sushi."]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "305E96CD57ED7196"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:sam_moves_in"
+				elevate_perms: true
+				id: "1C91ED0CC1042011"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "2E60E030E0EDB3BC"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Sam moves in"
+			x: 3.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["62DFEC1308C2BC8E"]
+			description: ["I LOVE FRUITS! There are so many fruit trees here! Oh, I'm Yukkie the Bat, by the way. You're an adventurer too?  Nice to meet you! The world is my orchard. It can be yours too. Keep your eyes peeled, and you're bound to find nature's bounty on every branch and bough. Once you pick one - you'll be hooked! You know, you can make a good living off just selling wild fruit and nuts. As for me, I'm happy just keeping them all for myself. Ha!"]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "0F1272E08904C006"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:yukkie_introduction"
+				elevate_perms: true
+				id: "373B416F60DE4823"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "7E3D2B031FF0446F"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Yukkie Introduction"
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["3CD7614C74864E35"]
+			description: ["You found 10 different plants?!  Sweet!  When you find 35 different plants, let me know.  I’m sure you’ll have plenty of fruits for me by then!"]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "1D6AD6DE5B7A2C5B"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:yukkie_10"
+				elevate_perms: true
+				id: "5E451F7216582357"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "39C7F8E9E54721D2"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Yukkie 10"
+			x: 1.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["64174F6BF0BE0173"]
+			description: ["YOU FOUND 35 DIFFERENT PLANTS?!?  How much FRUIT do you have?  I need to know! You mind if I crash at your place?"]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "71B94F2AEEB5CEF3"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:yukkie_35"
+				elevate_perms: true
+				id: "24A31F6B632240F7"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "0267E41D864EBFA9"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Yukkie 35"
+			x: 2.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["78BB8E151802329C"]
+			description: ["I’M HERE!  Please sell me your FRUIT!  I LOVE FRUIT!"]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "2E6408A054A21573"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:yukkie_moves_in"
+				elevate_perms: true
+				id: "7BD8C99AA9A40E76"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "24D7330DBCBF5004"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Yukkie moves in"
+			x: 3.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["7FFECB00FD52493F"]
+			description: ["Oooo, fantastic work, explorer!  You’ve found every mineral in our known records - That’s dedication!  Please, please, pleeease consider selling your finds to my museum. We’re always on the lookout for new shiny specimens!"]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "73B8B75AEF08B513"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:laly_museum_completion"
+				elevate_perms: true
+				id: "249A41159CF7A551"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "31BC4C8D8C24FE13"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Laly Museum Completion"
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["31E7355A76438FA8"]
+			description: ["Ah, so you have scoured the waters and captured every single fish known to this land.  The sneaky catfish! The mysterious red shrooma!  Even the mighty tuna!  How sublime!  It gives me such pleasure to know you are as devoted to the art of fishing as I.  (Sam sheds a single tear, he’s so proud.)"]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "67C1AC2E1B55D105"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:sam_aquarium_completion"
+				elevate_perms: true
+				id: "3CBE34A4401C3A12"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "7E384B9C420DD555"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Sam Aquarium Completion"
+			x: 4.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["5A6147A02E9D19BB"]
+			description: ["YOU DID IT!  You’ve collected all the plants!  WOOHOOOO!"]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "64B2CCCD1AF2943F"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:flora_collection_completion"
+				elevate_perms: true
+				id: "17346A8B8EABB6EA"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "4F805D1FC713D169"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Flora Collection Completion"
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["75CFB8902849CA56"]
+			description: ["You’ve collected every hat we have in our catalog. With that sizable collection of hats, I’m confident you will be able to make any fashion statement you desire."]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "5B9B58A5F846E19F"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:jess_hat_collection_completion"
+				elevate_perms: true
+				id: "0DF3A68D328FD81A"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "7CED612CE003D2A8"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Jess Hat Collection Completion"
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4346B1BF9630F17A"]
+			description: ["You’ve obtained every common item we have in our catalog. You are quite the dedicated collector!  Thank you for your patronage!"]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "6BAFCAA97DB50120"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:jess_common_decoration_completion"
+				elevate_perms: true
+				id: "2DDE1A952574E3E0"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "4718A9E890310766"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Jess Common Decoration Completion"
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["12E196AACE27C694"]
+			description: ["You’ve collected every rare item we have in our catalog. Very impressive indeed! Thank you for your patronage!"]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "299210319A3EEBD0"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:jess_rare_decoration_completion"
+				elevate_perms: true
+				id: "6DCE04B23FD9AC0F"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "6CF7BB660A91A8A7"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Jess Rare Decoration Completion"
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3849AFF8198316DC"]
+			description: [
+				"'Ello, 'ello! Nice to make your aquaintance. My name is Bernina the Shrew. Jess told me you might be interested in buying some hats, and well, I happen to be selling 'em."
+				""
+				"I see you bought 5 decorations from Jess. If you buy 5 more, I may swing by... Tata for now!"
+			]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "4F94AE42C4960F5C"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:bernina_introduces_herself"
+				elevate_perms: true
+				id: "171E2BC0E023E52A"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "6FCC85932DCEE0DB"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Bernina Introduces Herself"
+			x: 0.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["0863DC7647001CDF"]
+			description: ["'Ello, again! Jess said you bought 10 decorations. How lovely! If you are interested in hats, I would be delighted to set up shop. Would you be a dear and help me move in?"]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "404C144F54D05B5B"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:bernina_agrees_to_move_in"
+				elevate_perms: true
+				id: "5887879C65F51E19"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "195B4826E96A67D0"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Bernina Agrees to Move in"
+			x: 1.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["08BD5EF1DC4E8167"]
+			description: ["'Ello there! I am pleased to say that Bernina's Hat Shop is now open for business! Please do come by and try on some hats."]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "3B01A8A105917EFA"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:bernina_moves_in"
+				elevate_perms: true
+				id: "7367EDF02FF132E9"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "6840B8B15A9EB9ED"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Bernina Moves in"
+			x: 2.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["75CFB8902849CA56"]
+			description: ["Well, well! You just gathered yourself all the hats in my collection. How marvelous! Please wear 'em with pride."]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "08D3FEE0251657AB"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:hat_completion"
+				elevate_perms: true
+				id: "5172BDFFD209CCCD"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "3E5653B6B2695A9C"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Hat Completion"
+			x: 3.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["0F7916F7B5FED6A9"]
+			description: [
+				"Hey there! I'm Elna the Shrew. My older sis, Berni, told me about you. Said you were into the fashion scene. I'm actually starting my own fashion brand, and would totally be down to open a shop near you, if you're the real deal."
+				""
+				"If you get 25 hats, then I'll think about moving over, k?"
+			]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "1FB9EA335C9BC883"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:elna_introduces_herself"
+				elevate_perms: true
+				id: "74F824ECFD4D8FE0"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "7087C8A68C054080"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Elna Introduces Herself"
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["108CC9B40298ABCA"]
+			description: ["So you got 20 hats? Nice, nice. I guess you're the real deal. You mind helping me set up shop?"]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "63B2CB2EB2E2772F"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:elna_agrees_to_move_in"
+				elevate_perms: true
+				id: "3D844E4B8DE04811"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "680C4CA668B4685E"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Elna Agrees to Move In"
+			x: 1.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["29DA88DDFAC79F20"]
+			description: ["Elna's is now open for business! Come by, I'll hook you up with a new look."]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "04EB97FAC154A2EA"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:elna_moves_in"
+				elevate_perms: true
+				id: "08BB51FC51965D8C"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "20442D822878AC90"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Elna Moves In"
+			x: 2.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["740AD798B928114A"]
+			description: ["You're the REAL deal. You bought all the clothes I designed! My fashion brand's been on the up and up. Might even start another shop somewhere new. Very cool!"]
+			disable_toast: true
+			hide: true
+			icon: "minecraft:flower_banner_pattern"
+			id: "5082D34E31F9DCF2"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_dialogs:clothing_completion"
+				elevate_perms: true
+				id: "4D76A2C1B8098F81"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "17AF5FBD9C272202"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Clothing Completion"
+			x: 3.0d
+			y: 8.0d
+		}
 	]
 	title: "Villager Dialogs"
 }

@@ -1,0 +1,1 @@
+tellraw @p ["",{"text":"<Bernina> ","color":"aqua"},{"text":"'Ello there! I am pleased to say that Bernina's Hat Shop is now open for business! Please do come by and try on some hats.","color":"white"}]

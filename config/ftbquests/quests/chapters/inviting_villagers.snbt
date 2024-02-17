@@ -757,6 +757,228 @@
 			x: -2.0d
 			y: 1.5d
 		}
+		{
+			can_repeat: true
+			dependencies: ["0863DC7647001CDF"]
+			description: [
+				"Place down the following blocks to help Bernina move in!"
+				""
+				"Also remember to put down Bernina's Shop block, she won't be able to sell you decorations otherwise!"
+				""
+				"While you are at it, also feel free to build a room or house for Bernina!  Make sure you include a bed so she can have a good place to rest!"
+				""
+				"-----"
+				"Bernina the Shrew is a talented seamstress and hat maker who loves designing new fashion accessories to share with the world.  She will sell you a variety of hats and accessories you can wear on your head."
+				"-----"
+				""
+				"(This is a repeatable quest. In the event that this villager goes missing, you can resummon this villager by completing this quest again)"
+			]
+			hide: true
+			icon: "moa_decor_bath:c_tmagentas"
+			id: "08BD5EF1DC4E8167"
+			rewards: [
+				{
+					command: "/function fc_villagers:bernina"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					icon: "candlelight:letter_open"
+					id: "63081D7404E76A23"
+					silent: true
+					title: "Invite Bernina"
+					type: "command"
+				}
+				{
+					id: "02ABD6F24A684E60"
+					item: "non_wandering_trader:travellers_table"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					block: "moa_decor_bath:c_tmagentas"
+					block_type: 0
+					id: "018DFABC63B2058A"
+					replace: false
+					replaced: "minecraft:air"
+					type: "questsadditions:place"
+					value: 1L
+				}
+				{
+					block: "moa_decor_bath:c_trosas"
+					block_type: 0
+					id: "56A02D5C90BA821F"
+					replace: false
+					replaced: "minecraft:air"
+					type: "questsadditions:place"
+					value: 1L
+				}
+				{
+					block: "moa_decor_bath:toallascafes"
+					block_type: 0
+					id: "0DA291AE865056E2"
+					replace: false
+					replaced: "minecraft:air"
+					type: "questsadditions:place"
+					value: 1L
+				}
+				{
+					block: "moa_decor_bath:esp_d"
+					block_type: 0
+					id: "6A76F84565644949"
+					replace: false
+					replaced: "minecraft:air"
+					type: "questsadditions:place"
+					value: 1L
+				}
+				{
+					block: "chipped:loom_table"
+					block_type: 0
+					id: "73EDB666CF744394"
+					replace: false
+					replaced: "minecraft:air"
+					type: "questsadditions:place"
+					value: 1L
+				}
+			]
+			title: "Help Bernina open up her shop"
+			x: -3.0d
+			y: 3.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["0863DC7647001CDF"]
+			description: ["Use this checkpoint quest to help locate Bernina!"]
+			hide: true
+			icon: "chiselsandbits:magnifying_glass"
+			id: "52D27F0D078EB60E"
+			rewards: [{
+				command: "/function fc_villagers:bernina_highlight"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7C1103600EC43DA4"
+				silent: true
+				title: "Highlight Bernina for 30 seconds"
+				type: "command"
+			}]
+			tasks: [{
+				id: "33BF610565EB895C"
+				title: "Help Locating Bernina"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: 3.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["108CC9B40298ABCA"]
+			description: [
+				"Place down the following blocks to help Elna move in!"
+				""
+				"Also remember to put down Elna's Shop block, she won't be able to sell you decorations otherwise!"
+				""
+				"While you are at it, also feel free to build a room or house for Elna!  Make sure you include a bed so she can have a good place to rest!"
+				""
+				"-----"
+				"Elna the Shrew is an up and coming fashion designer starting her own clothing brand. Her older sister, Bernina, helps Elna source only the highest quality fabrics and materials to make the tasteful clothes that Elna envisions.  Elna will sell you a variety of clothing items and decorative armor for your wardrobe."
+				"-----"
+				""
+				"(This is a repeatable quest. In the event that this villager goes missing, you can resummon this villager by completing this quest again)"
+			]
+			hide: true
+			icon: "moa_decor_bath:c_tblancas"
+			id: "29DA88DDFAC79F20"
+			rewards: [
+				{
+					command: "/function fc_villagers:elna"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					icon: "candlelight:letter_open"
+					id: "3E918E1CB9DBE94D"
+					silent: true
+					title: "Invite Elna"
+					type: "command"
+				}
+				{
+					id: "4962F1D5125963E7"
+					item: "non_wandering_trader:travellers_table"
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					block: "moa_decor_bath:c_tblancas"
+					block_type: 0
+					id: "5F6613FE8714ECC5"
+					replace: false
+					replaced: "minecraft:air"
+					type: "questsadditions:place"
+					value: 1L
+				}
+				{
+					block: "moa_decor_bath:c_tgrises"
+					block_type: 0
+					id: "227472375D931954"
+					replace: false
+					replaced: "minecraft:air"
+					type: "questsadditions:place"
+					value: 1L
+				}
+				{
+					block: "moa_decor_bath:toallaszulesclaras"
+					block_type: 0
+					id: "13F12141D2CFDA98"
+					replace: false
+					replaced: "minecraft:air"
+					type: "questsadditions:place"
+					value: 1L
+				}
+				{
+					block: "moa_decor_bath:esp_n"
+					block_type: 0
+					id: "7F61E401F782F32B"
+					replace: false
+					replaced: "minecraft:air"
+					type: "questsadditions:place"
+					value: 1L
+				}
+				{
+					block: "chipped:loom_table"
+					block_type: 0
+					id: "0DC2C27E454BD62B"
+					replace: false
+					replaced: "minecraft:air"
+					type: "questsadditions:place"
+					value: 1L
+				}
+			]
+			title: "Help Elna open up her shop"
+			x: -3.0d
+			y: 4.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["108CC9B40298ABCA"]
+			description: ["Use this checkpoint quest to help locate Elna!"]
+			hide: true
+			icon: "chiselsandbits:magnifying_glass"
+			id: "23E15AD0DC4B11BD"
+			rewards: [{
+				command: "/function fc_villagers:elna_highlight"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0B9D513680D2A24A"
+				silent: true
+				title: "Highlight Elna for 30 seconds"
+				type: "command"
+			}]
+			tasks: [{
+				id: "5AFA2DCD937B642A"
+				title: "Help Locating Elna"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: 4.5d
+		}
 	]
 	title: "Inviting Villagers"
 }

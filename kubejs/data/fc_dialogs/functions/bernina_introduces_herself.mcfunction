@@ -1,0 +1,2 @@
+tellraw @p ["",{"text":"<Bernina> ","color":"aqua"},{"text":"'Ello, 'ello! Nice to make your aquaintance. My name is Bernina the Shrew. Jess told me you might be interested in buying some hats, and well, I happen to be selling 'em.","color":"white"}]
+tellraw @p ["",{"text":"<Bernina> ","color":"aqua"},{"text":"I see you bought 5 decorations from Jess. If you buy 5 more, I may swing by... Tata for now!","color":"white"}]

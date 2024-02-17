@@ -1,0 +1,1 @@
+tellraw @p ["",{"text":"<Bernina> ","color":"aqua"},{"text":"'Ello, again! Jess said you bought 10 decorations. How lovely! If you are interested in hats, I would be delighted to set up shop. Would you be a dear and help me move in?","color":"white"}]
