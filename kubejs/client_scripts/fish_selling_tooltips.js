@@ -13,7 +13,7 @@ ItemEvents.tooltip(event => {
       'aquaculture:red_grouper'
     ],
     [
-      'You can sell 4 of these fishes', 
+      'You can sell 2 of these fishes', 
       'for 5 miles tickets'
     ])
   event.add(
@@ -24,7 +24,7 @@ ItemEvents.tooltip(event => {
       'alexsmobs:blobfish'
     ],
     [
-      'You can sell 4 of these fishes', 
+      'You can sell 2 of these fishes', 
       'for 3 miles tickets'
     ])
   event.add(
@@ -38,7 +38,7 @@ ItemEvents.tooltip(event => {
       'minecraft:pufferfish'
     ],
     [
-      'You can sell 4 of these fishes', 
+      'You can sell 2 of these fishes', 
       'for 2 miles tickets'
     ])
   event.add(
@@ -52,7 +52,7 @@ ItemEvents.tooltip(event => {
       'aquaculture:leech'
     ],
     [
-      'You can sell 4 of these fishes', 
+      'You can sell 2 of these fishes', 
       'for 4 miles tickets'
     ])
   event.add(
@@ -66,7 +66,7 @@ ItemEvents.tooltip(event => {
       'aquaculture:starshell_turtle'
     ],
     [
-      'You can sell 4 of these fishes', 
+      'You can sell 2 of these fishes', 
       'for 6 miles tickets'
     ])
   event.add(
@@ -77,7 +77,7 @@ ItemEvents.tooltip(event => {
       'minecraft:salmon'
     ],
     [
-      'You can sell 4 of these fishes', 
+      'You can sell 2 of these fishes', 
       'for 1 miles tickets'
     ])
 

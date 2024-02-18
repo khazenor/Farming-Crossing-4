@@ -15,11 +15,21 @@
     - combined tutorial quests back to just one quest chapter
     - added a bare bones quest chapter guide for create
     - added create_central_kitchen for better integration between create and farmers delight
+    - fish now only need 2 items in the crafting table to sell
   # Mods added 
     - create_central_kitchen
     - create_confectionary
     - diet
     - constantmusic: you can change the music delay in the audio settings
+    - charmofundying
+    - macawsroofsbop
+    - mcw-fences
+    - mcw-furniture
+    - mcw-lights
+    - mcw-roofs
+    - mcw-trapdoors
+    - mcw-windows
+    - mcwfurnituresbop
 
 2.3:
   - removed TaxOceanVillager: it was generating command blocks on the server.

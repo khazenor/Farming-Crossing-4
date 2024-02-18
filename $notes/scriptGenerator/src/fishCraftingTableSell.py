@@ -9,7 +9,7 @@ def generateFishCraftingSellRecipes():
 
 	craftingTableSell.generateCraftingSellRecipes(
 		fishPrices,
-		4,
+		2,
 		'fish',
 		'es'
 	)
