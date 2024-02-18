@@ -560,6 +560,413 @@
     },
     {
       "output": {
+        "item": "minecraft:cod",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "minecraft:salmon",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "minecraft:tropical_fish",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "minecraft:pufferfish",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "aquaculture:smallmouth_bass",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "aquaculture:bluegill",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "aquaculture:brown_trout",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "aquaculture:carp",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "aquaculture:catfish",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "aquaculture:gar",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "aquaculture:minnow",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "aquaculture:muskellunge",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "aquaculture:perch",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "aquaculture:bayad",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "aquaculture:boulti",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "aquaculture:capitaine",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "aquaculture:synodontis",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "aquaculture:atlantic_cod",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "aquaculture:blackfish",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "aquaculture:pacific_halibut",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "aquaculture:atlantic_halibut",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "aquaculture:atlantic_herring",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "aquaculture:pink_salmon",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "aquaculture:pollock",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "aquaculture:rainbow_trout",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "aquaculture:jellyfish",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "aquaculture:red_grouper",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "aquaculture:tuna",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "aquaculture:box_turtle",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "aquaculture:leech",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "aquaculture:goldfish",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "aquaculture:brown_shrooma",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "aquaculture:red_shrooma",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "aquaculture:arapaima",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "aquaculture:piranha",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "aquaculture:tambaqui",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "aquaculture:arrau_turtle",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
         "item": "alexsmobs:spawn_egg_alligator_snapping_turtle",
         "count": 1
       },

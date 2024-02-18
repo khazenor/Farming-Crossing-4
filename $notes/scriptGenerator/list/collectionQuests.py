@@ -51,6 +51,10 @@ fishJungle = [
   "aquaculture:tambaqui",
   "aquaculture:arrau_turtle"
 ]
+allFish = (
+  fishVanilla + fishFreshWater + fishArid + fishArtic + fishSaltWater +
+  fishSwamp + fishMushroom + fishJungle
+)
 foodOven = [
   'bakery:croissant',
   'bakery:crusty_bread',

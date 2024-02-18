@@ -1,3 +1,5 @@
+from list import collectionQuests as cqlist
+
 fcCategoryKey = 'fc'
 floraCategoryKey = 'flora'
 farmCategoryKey = 'farm'
@@ -717,6 +719,10 @@ categories = {
       {
         priceKey: 4,
         itemsKey: ["alexsmobs:bone_serpent_tooth"]
+      },
+      { # fish mercy trades
+        priceKey: 64,
+        itemsKey: cqlist.allFish
       },
       { # spawn eggs
         priceKey: 64,
