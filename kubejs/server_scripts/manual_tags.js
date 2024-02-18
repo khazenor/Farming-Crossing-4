@@ -80,15 +80,15 @@ ServerEvents.tags('item', event => {
   ])
 
   
-  event.add('forge:nutrients/vegetables', [
+  event.add('diet:vegetables', [
     'candlelight:tomato',
     'candlelight:lettuce'
   ])
 
-  // event.add('forge:nutrients/proteins', [
+  // event.add('diet:proteins', [
   // ])
 
-  event.add('forge:nutrients/fruits', [
+  event.add('diet:fruits', [
     "vinery:jungle_grapes_red",
     "vinery:jungle_grapes_white",
     "vinery:savanna_grapes_red",
@@ -107,10 +107,10 @@ ServerEvents.tags('item', event => {
     "vinery:white_grapejuice_wine_bottle"
   ])
 
-  // event.add('forge:nutrients/sugars', [
+  // event.add('diet:sugars', [
   // ])
 
-  event.add('forge:nutrients/carbs', [
+  event.add('diet:grains', [
     'bakery:oat',
     'bakery:dough',
     'bakery:sweet_dough',
