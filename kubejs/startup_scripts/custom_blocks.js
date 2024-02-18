@@ -1,6 +1,11 @@
 
 
 StartupEvents.registry("block", (event) => {
+  const textureAvailable = [
+    "Elna's Shop",
+    "Bernina's Shop",
+    "Bakery Customer Table",
+  ]
   const blockNames = [
     "Elna's Shop",
     "Bernina's Shop",
@@ -16,13 +21,23 @@ StartupEvents.registry("block", (event) => {
   }
 
   for (let blockName of blockNames) {
-    console.log(blockName, stringToName(blockName))
-    event.create(stringToName(blockName), "cardinal")
-      .displayName(blockName)
-      .material("wood") // Set a material (affects the sounds and some properties)
-      .hardness(1.0) // Set hardness (affects mining time)
-      .tagBlock("mineable/axe") //can be mined faster with an axe
-      .modelJson = {
+    let modelJson
+    let blockId = stringToName(blockName)
+    if (textureAvailable.includes(blockName)) {
+      modelJson = {
+        "parent": "minecraft:block/cube",
+        "textures": {
+          "up": `kubejs:block/${blockId}_top`,
+          "down": `kubejs:block/${blockId}_bottom`,
+          "north": `kubejs:block/${blockId}_side2`,
+          "south": `kubejs:block/${blockId}_side2`,
+          "east": `kubejs:block/${blockId}_side1`,
+          "west": `kubejs:block/${blockId}_side1`,
+          "particle": `kubejs:block/${blockId}_side1`
+        }
+      }
+    } else {
+      modelJson = {
         "parent": "minecraft:block/cube",
         "textures": {
           "down": "kubejs:block/bottom",
@@ -34,5 +49,13 @@ StartupEvents.registry("block", (event) => {
           "west": "kubejs:block/side"
         }
       }
+    }
+    console.log(modelJson)
+    event.create(blockId, "cardinal")
+      .displayName(blockName)
+      .material("wood") // Set a material (affects the sounds and some properties)
+      .hardness(1.0) // Set hardness (affects mining time)
+      .tagBlock("mineable/axe") //can be mined faster with an axe
+      .modelJson = modelJson
   }
 })
