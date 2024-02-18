@@ -24,6 +24,9 @@ def removeRecipeOutput(output):
 def eventAdd(items, tooltips):
 	return f"  event.add(\n{arrayToString(items, indent=4)},\n{arrayToString(tooltips, indent=4)})\n"
 
+def eventAddItemToList(item, itemList):
+	return f"  event.add(\n\t\t'{item}',\n{arrayToString(itemList, indent=4)})\n"
+
 def eventStonecutting(outputMat, inputMat):
 	return f"  event.stonecutting('{outputMat}', '{inputMat}')\n"
 
@@ -130,12 +133,12 @@ def tagsContent(content):
 	return f"ServerEvents.tags('item', event => {{\n{content}\n}})"
 
 def generateSimpleTags(itemIds, tag, filename):
-	tagContent = ""
-	for itemId in itemIds:
-		tagContent += eventAddSimple(tag, itemId)
-
-	with open(os.path.join(const.serverScripts(), f'{filename}.js'), 'w') as f:
-		f.write(tagsContent(tagContent))
+	writeServerFile(
+		tagsContent(
+			eventAddItemToList(tag, itemIds)
+		),
+		filename
+	)
 
 # HELPERS
 

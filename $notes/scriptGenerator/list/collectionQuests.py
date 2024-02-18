@@ -436,6 +436,10 @@ floraMisc = [
   "biomesoplenty:glowing_moss_block",
   "biomesoplenty:glowing_moss_carpet"
 ]
+allFlora = (
+  floraFoodVanilla + floraMiscFood + floraFlowerVanilla + floraFlowerBiomesoPlenty
+  + floraFlowerMisc + floraSaplingVanilla + floraSaplingModded + floraMisc
+)
 mineralVanilla = [
   "minecraft:cobblestone",
   "minecraft:mossy_cobblestone",
