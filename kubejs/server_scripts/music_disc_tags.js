@@ -1,47 +1,51 @@
 ServerEvents.tags('item', event => {
-  event.add('minecraft:music_discs', 'kubejs:oneul_april_daisy')
-  event.add('minecraft:music_discs', 'kubejs:oneul_around_midnight')
-  event.add('minecraft:music_discs', 'kubejs:oneul_autumn_blessing')
-  event.add('minecraft:music_discs', 'kubejs:oneul_autumn_breeze')
-  event.add('minecraft:music_discs', 'kubejs:oneul_brunch')
-  event.add('minecraft:music_discs', 'kubejs:oneul_bubble')
-  event.add('minecraft:music_discs', 'kubejs:oneul_byesummer')
-  event.add('minecraft:music_discs', 'kubejs:oneul_canele')
-  event.add('minecraft:music_discs', 'kubejs:oneul_cheeseburger')
-  event.add('minecraft:music_discs', 'kubejs:oneul_chestnut_latte')
-  event.add('minecraft:music_discs', 'kubejs:oneul_chocolate_world')
-  event.add('minecraft:music_discs', 'kubejs:oneul_chuseok')
-  event.add('minecraft:music_discs', 'kubejs:oneul_cloudy_rain')
-  event.add('minecraft:music_discs', 'kubejs:oneul_cookie_tree')
-  event.add('minecraft:music_discs', 'kubejs:oneul_dreamy')
-  event.add('minecraft:music_discs', 'kubejs:oneul_flamingo')
-  event.add('minecraft:music_discs', 'kubejs:oneul_floating_marshmallow')
-  event.add('minecraft:music_discs', 'kubejs:oneul_full_moon')
-  event.add('minecraft:music_discs', 'kubejs:oneul_get_up')
-  event.add('minecraft:music_discs', 'kubejs:oneul_gift')
-  event.add('minecraft:music_discs', 'kubejs:oneul_happy_reindeer')
-  event.add('minecraft:music_discs', 'kubejs:oneul_joy')
-  event.add('minecraft:music_discs', 'kubejs:oneul_melon_bread')
-  event.add('minecraft:music_discs', 'kubejs:oneul_miracle_morning')
-  event.add('minecraft:music_discs', 'kubejs:oneul_mistletoe')
-  event.add('minecraft:music_discs', 'kubejs:oneul_moonlight')
-  event.add('minecraft:music_discs', 'kubejs:oneul_morning_peppermint')
-  event.add('minecraft:music_discs', 'kubejs:oneul_painting')
-  event.add('minecraft:music_discs', 'kubejs:oneul_pajama')
-  event.add('minecraft:music_discs', 'kubejs:oneul_raindrops')
-  event.add('minecraft:music_discs', 'kubejs:oneul_roommate')
-  event.add('minecraft:music_discs', 'kubejs:oneul_sandwich')
-  event.add('minecraft:music_discs', 'kubejs:oneul_smile_peach')
-  event.add('minecraft:music_discs', 'kubejs:oneul_snow_dance')
-  event.add('minecraft:music_discs', 'kubejs:oneul_story')
-  event.add('minecraft:music_discs', 'kubejs:oneul_strawberry_dance')
-  event.add('minecraft:music_discs', 'kubejs:oneul_summer_vacation')
-  event.add('minecraft:music_discs', 'kubejs:oneul_surf')
-  event.add('minecraft:music_discs', 'kubejs:oneul_tiramisu')
-  event.add('minecraft:music_discs', 'kubejs:oneul_umbrella')
-  event.add('minecraft:music_discs', 'kubejs:oneul_vanilla_milkshake')
-  event.add('minecraft:music_discs', 'kubejs:oneul_watermelon_fizz')
-  event.add('minecraft:music_discs', 'kubejs:oneul_weekend_blanket')
-  event.add('minecraft:music_discs', 'kubejs:oneul_winter_glow')
+  event.add(
+		'minecraft:music_discs',
+    [
+      'kubejs:oneul_april_daisy', 
+      'kubejs:oneul_around_midnight', 
+      'kubejs:oneul_autumn_blessing', 
+      'kubejs:oneul_autumn_breeze', 
+      'kubejs:oneul_brunch', 
+      'kubejs:oneul_bubble', 
+      'kubejs:oneul_byesummer', 
+      'kubejs:oneul_canele', 
+      'kubejs:oneul_cheeseburger', 
+      'kubejs:oneul_chestnut_latte', 
+      'kubejs:oneul_chocolate_world', 
+      'kubejs:oneul_chuseok', 
+      'kubejs:oneul_cloudy_rain', 
+      'kubejs:oneul_cookie_tree', 
+      'kubejs:oneul_dreamy', 
+      'kubejs:oneul_flamingo', 
+      'kubejs:oneul_floating_marshmallow', 
+      'kubejs:oneul_full_moon', 
+      'kubejs:oneul_get_up', 
+      'kubejs:oneul_gift', 
+      'kubejs:oneul_happy_reindeer', 
+      'kubejs:oneul_joy', 
+      'kubejs:oneul_melon_bread', 
+      'kubejs:oneul_miracle_morning', 
+      'kubejs:oneul_mistletoe', 
+      'kubejs:oneul_moonlight', 
+      'kubejs:oneul_morning_peppermint', 
+      'kubejs:oneul_painting', 
+      'kubejs:oneul_pajama', 
+      'kubejs:oneul_raindrops', 
+      'kubejs:oneul_roommate', 
+      'kubejs:oneul_sandwich', 
+      'kubejs:oneul_smile_peach', 
+      'kubejs:oneul_snow_dance', 
+      'kubejs:oneul_story', 
+      'kubejs:oneul_strawberry_dance', 
+      'kubejs:oneul_summer_vacation', 
+      'kubejs:oneul_surf', 
+      'kubejs:oneul_tiramisu', 
+      'kubejs:oneul_umbrella', 
+      'kubejs:oneul_vanilla_milkshake', 
+      'kubejs:oneul_watermelon_fizz', 
+      'kubejs:oneul_weekend_blanket', 
+      'kubejs:oneul_winter_glow'
+    ])
 
 })

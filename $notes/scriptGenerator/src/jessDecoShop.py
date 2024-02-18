@@ -80,7 +80,7 @@ def writeToolTips():
 			]) +
 			kubejs.eventAdd(tradeableItemsCommon, [
 				"",
-				"You can duplicate this furniture",
+				"You can duplicate this decoration",
 				"using the crafting table"
 			])
 		))

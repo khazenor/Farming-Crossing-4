@@ -25,3 +25,8 @@ def appendToSetList(setList, item):
 	if item not in setList:
 		setList.append(item)
 
+def stringHasSubstringFromList(testString, substrings):
+	for substring in substrings:
+		if substring in testString:
+			return True
+	return False

@@ -1,58 +1,90 @@
+from list import furnitureCutting as fList
+from input import woodFurnitureInput as wIn
+from lib import util
 from lib import kubejs
-from src import const
-import os
 
-def furnitureFolder():
-	return os.path.join('input', 'furniture')
+def genFurnitureCuttingSupport():
+	woodAndContent, woodAndFurniture, allCuttables, materials = sortThroughData()
 
-def tag(material):
-	return f"forge:furniture_{material}"
+	kubejs.generateSimpleTags(allCuttables, 'forge:furniture_cuttable', 'furniture_all_cuttable_tags')
+	genCuttingRecipes(woodAndContent)
+	genTooltips(woodAndFurniture, materials)
 
-cuttableFurnitureTag = 'forge:furniture_cuttable'
-
-def tooltip():
-	return ["Put this in a sawmill or stonecutter to", "convert it to another furniture"]
-
-def generateFurnitureCuttingRecipes():
+def genCuttingRecipes(woodAndContent):
 	tagContent = ""
-	allCuttableTagContent = ""
-	cuttingContent = ""
-	allFurniture = readFurniture()
-	allFurnitureList = []
+	recipeContent = ""
+	for wood in woodAndContent:
+		furniture = woodAndContent[wood]
+		tag = f"forge:furniture_{wood}"
+		tagContent += kubejs.eventAddItemToList(
+			tag,
+			furniture
+		)
+		for singleFurniture in furniture:
+			recipeContent += kubejs.eventStonecutting(singleFurniture, f"#{tag}")
+			recipeContent += kubejs.woodcutting(tag, singleFurniture, 1)
+	kubejs.writeServerFile(
+		kubejs.recipeFileContent(
+			recipeContent
+		),
+		'furniture_cutting_recipes'
+	)
+	kubejs.writeServerFile(
+		kubejs.tagsContent(
+			tagContent
+		),
+		'furniture_cutting_tags'
+	)
 
-	for material in allFurniture:
-		furniture = allFurniture[material]
-		allFurnitureList += furniture
+def genTooltips(woodAndFurniture, materials):
+	tooltipContent = kubejs.eventAdd(
+		materials,
+		[
+			"Put this block into a Sawmill or Stonecutter",
+			"to make different furniture"
+		]
+	)
+	for wood in woodAndFurniture:
+		tooltipContent += kubejs.eventAdd(
+			woodAndFurniture[wood],
+			[
+				f"You can make this furniture by putting",
+				f"{wood.replace('_', ' ')} in to a Sawmill or Stonecutter"
+			]
+		)
+	kubejs.writeClientFile(
+		kubejs.tooltipFileContent(
+			tooltipContent
+		),
+		'furniture_cutting_tooltips'
+	)
 
-		for i in range(len(furniture)):
-			singleFurniture = furniture[i]
 
-			# don't tag the first item:
-			if i > 0:
-				allCuttableTagContent += kubejs.eventAddSimple(cuttableFurnitureTag, singleFurniture)
-			tagContent += kubejs.eventAddSimple(tag(material), singleFurniture)
-			cuttingContent += kubejs.eventStonecutting(singleFurniture, f"#{tag(material)}")
-			cuttingContent += kubejs.woodcutting(tag(material), singleFurniture, 1)
+def sortThroughData():
+	woodAndContent = {}
+	woodAndFurniture = {}
+	materials = []
+	allCuttables = []
+	for furnitureItemId in fList.possibleWoodFurniture:
+		wood, initContent = getWoodAndInitContent(furnitureItemId)
+		if wood != -1:
+			if wood not in woodAndContent:
+				woodAndContent[wood] = initContent
+				materials += initContent
 
-	with open(os.path.join(const.serverScripts(), 'furniture_cutting_recipes.js'), 'w') as cuttingFile:
-		cuttingFile.write(kubejs.recipeFileContent(cuttingContent))
+			woodAndContent[wood].append(furnitureItemId)
+			util.addToDictList(woodAndFurniture, wood, furnitureItemId)
+			allCuttables.append(furnitureItemId)
 
-	with open(os.path.join(const.serverScripts(), 'furniture_cutting_tags.js'), 'w') as tagFile:
-		tagFile.write(kubejs.tagsContent(tagContent))
+	return woodAndContent, woodAndFurniture, allCuttables, materials
 
-	with open(os.path.join(const.serverScripts(), 'furniture_all_cuttable_tags.js'), 'w') as allTagFile:
-		allTagFile.write(kubejs.tagsContent(allCuttableTagContent))
 
-	with open(os.path.join(const.clientScripts(), 'furniture_cutting_tooltips.js'), 'w') as tooltipFile:
-		tooltipFile.write(kubejs.tooltipFileContent(
-			kubejs.eventAdd(allFurnitureList, tooltip())
-		))
-
-def readFurniture():
-	allFurniture = {}
-	for furnitureFile in os.listdir(furnitureFolder()):
-		material = furnitureFile.replace('.txt', '')
-		with open(os.path.join(furnitureFolder(), furnitureFile), 'r') as f:
-			allFurniture[material] = f.read().split('\n')
-	return allFurniture
-
+def getWoodAndInitContent(itemId):
+	isPlank = util.stringHasSubstringFromList(itemId, wIn.planksKeys)
+	for woodInfo in wIn.woodTypesInfo:
+		if util.stringHasSubstringFromList(itemId, woodInfo[wIn.translationKey]):
+			if isPlank:
+				return f"{woodInfo[wIn.woodKey]}_planks", woodInfo[wIn.plankContentKey]
+			else:
+				return f"{woodInfo[wIn.woodKey]}_log", woodInfo[wIn.contentKey]
+	return -1, -1

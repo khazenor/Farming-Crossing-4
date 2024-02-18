@@ -21,6 +21,6 @@ if __name__ == "__main__":
 	flowers.generateDuplicationRecipes()
 	fishCraftingTableSell.generateFishCraftingSellRecipes()
 	foodVillagerSales.generateSales()
-	furnitureCutting.generateFurnitureCuttingRecipes()
+	furnitureCutting.genFurnitureCuttingSupport()
 	marketShopGen.generateMarketShops()
 	buildingMaterialsScripts.exportScripts()

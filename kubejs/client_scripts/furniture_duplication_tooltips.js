@@ -758,7 +758,7 @@ ItemEvents.tooltip(event => {
     ],
     [
       '', 
-      'You can duplicate this furniture', 
+      'You can duplicate this decoration', 
       'using the crafting table'
     ])
 
