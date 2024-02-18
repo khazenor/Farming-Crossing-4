@@ -970,7 +970,8 @@ categories = {
         priceKey: 32,
         itemsKey: [
           "minecraft:ice",
-          "minecraft:blackstone"
+          "minecraft:blackstone",
+          "minecraft:end_stone"
         ]
       }
     ]

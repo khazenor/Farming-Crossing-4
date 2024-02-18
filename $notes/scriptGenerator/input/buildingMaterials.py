@@ -18,6 +18,8 @@ buildingMaterials = [
     "minecraft:moss_block",
     "minecraft:ice",
     "minecraft:clay",
+    "minecraft:end_stone",
+    "minecraft:stone",
 
     # in quests
     "minecraft:calcite",

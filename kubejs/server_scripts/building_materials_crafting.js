@@ -54,6 +54,12 @@ ServerEvents.recipes(event => {
     Item.of('minecraft:clay', 32),
     ['minecraft:clay', 'kubejs:miles_ticket'])
   event.shapeless(
+    Item.of('minecraft:end_stone', 32),
+    ['minecraft:end_stone', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:stone', 32),
+    ['minecraft:stone', 'kubejs:miles_ticket'])
+  event.shapeless(
     Item.of('minecraft:calcite', 32),
     ['minecraft:calcite', 'kubejs:miles_ticket'])
   event.shapeless(

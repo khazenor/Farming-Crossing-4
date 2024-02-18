@@ -19,6 +19,8 @@ ItemEvents.tooltip(event => {
       'minecraft:moss_block', 
       'minecraft:ice', 
       'minecraft:clay', 
+      'minecraft:end_stone', 
+      'minecraft:stone', 
       'minecraft:calcite', 
       'minecraft:dripstone_block', 
       'minecraft:blackstone', 

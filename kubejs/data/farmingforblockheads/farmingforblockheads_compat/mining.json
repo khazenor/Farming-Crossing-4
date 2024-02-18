@@ -73,6 +73,17 @@
         "count": 32
       },
       "category": "mining"
+    },
+    {
+      "output": {
+        "item": "minecraft:end_stone",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "mining"
     }
   ]
 }
