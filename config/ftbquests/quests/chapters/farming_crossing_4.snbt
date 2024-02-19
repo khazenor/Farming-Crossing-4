@@ -177,8 +177,8 @@
 				item: "vinery:red_grapejuice_wine_bottle"
 				type: "item"
 			}]
-			x: 4.5d
-			y: -3.5d
+			x: 1.5d
+			y: -4.5d
 		}
 		{
 			dependencies: ["17FA2E4902522B36"]
@@ -223,8 +223,8 @@
 				}
 				type: "item"
 			}]
-			x: 5.5d
-			y: -3.5d
+			x: 2.5d
+			y: -4.5d
 		}
 		{
 			dependencies: ["65B28F78A7DDBD06"]
@@ -240,7 +240,7 @@
 				item: "meadow:cheese_block"
 				type: "item"
 			}]
-			x: 2.5d
+			x: 3.5d
 			y: -4.5d
 		}
 		{
@@ -264,7 +264,7 @@
 				item: "meadow:cheese_stick"
 				type: "item"
 			}]
-			x: 3.5d
+			x: 4.5d
 			y: -4.5d
 		}
 		{
@@ -294,8 +294,8 @@
 				item: "candlelight:mushroom_soup"
 				type: "item"
 			}]
-			x: 4.5d
-			y: -4.5d
+			x: 1.5d
+			y: -5.5d
 		}
 		{
 			dependencies: ["48C7E0AF4C9A3C3E"]
@@ -319,8 +319,8 @@
 				item: "candlelight:pizza"
 				type: "item"
 			}]
-			x: 5.5d
-			y: -4.5d
+			x: 2.5d
+			y: -5.5d
 		}
 		{
 			dependencies: ["56C6F1D87FA09C24"]
@@ -336,8 +336,8 @@
 				item: "beachparty:icecream_coconut"
 				type: "item"
 			}]
-			x: 2.5d
-			y: -5.5d
+			x: 1.5d
+			y: -6.5d
 		}
 		{
 			dependencies: ["2D0063702FDE9B52"]
@@ -420,8 +420,8 @@
 				item: "beachparty:coconut_cocktail"
 				type: "item"
 			}]
-			x: 3.5d
-			y: -5.5d
+			x: 2.5d
+			y: -6.5d
 		}
 		{
 			dependencies: ["7CF35DAE02E4B6C0"]
@@ -727,28 +727,21 @@
 				"Villagers change their trades every time they restock/every day. This makes it so that you won't have to get rid of villagers with bad trades after having spent resources on them, and it won't be necessary to breed a large number of them either."
 			]
 			hide: true
-			icon: "villagersplus:oak_horticulturist_table"
+			icon: "kubejs:bakery_customer_table"
 			id: "2D7BAAE0667F927B"
 			rewards: [{
-				id: "794BE09573A4A53E"
+				id: "127DDE663E9D18DB"
 				item: "minecraft:villager_spawn_egg"
 				type: "item"
 			}]
 			tasks: [{
-				id: "06C4AF1BFA885D6D"
-				item: {
-					Count: 1b
-					id: "itemfilters:tag"
-					tag: {
-						value: "forge:customer_tables"
-					}
-				}
-				title: "Any #forge:customer_tables"
+				id: "10FB1849AEF33288"
+				item: "kubejs:bakery_customer_table"
 				type: "item"
 			}]
-			title: "Starting a Restaurant"
-			x: 1.5d
-			y: -4.5d
+			title: "Starting a Bakery"
+			x: 0.5d
+			y: -3.5d
 		}
 		{
 			dependencies: ["7CF35DAE02E4B6C0"]
@@ -1869,7 +1862,7 @@
 				}
 			]
 			title: "Interior Decorations"
-			x: 0.5d
+			x: -0.5d
 			y: -3.5d
 		}
 		{
@@ -1946,8 +1939,8 @@
 				item: "minecraft:baked_potato"
 				type: "item"
 			}]
-			x: 4.5d
-			y: -5.5d
+			x: 3.5d
+			y: -6.5d
 		}
 		{
 			dependencies: ["5202BD912333D54E"]
@@ -1999,8 +1992,8 @@
 				item: "farmersdelight:cabbage_leaf"
 				type: "item"
 			}]
-			x: 5.5d
-			y: -5.5d
+			x: 4.5d
+			y: -6.5d
 		}
 		{
 			dependencies: ["277E14B2EF5D2F6A"]
@@ -2060,8 +2053,8 @@
 				item: "farmersdelight:cabbage_rolls"
 				type: "item"
 			}]
-			x: 2.5d
-			y: -6.5d
+			x: 1.5d
+			y: -7.5d
 		}
 		{
 			dependencies: ["29F10804B90D8DA8"]
@@ -2171,8 +2164,76 @@
 				item: "cuisinedelight:vegetable_fried_rice"
 				type: "item"
 			}]
-			x: 3.5d
+			x: 2.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["29F10804B90D8DA8"]
+			id: "0207854039AA0D94"
+			rewards: [{
+				id: "5CB0F78784F91357"
+				item: "minecraft:villager_spawn_egg"
+				type: "item"
+			}]
+			tasks: [{
+				id: "36C7C080FAD348EB"
+				item: "kubejs:farmers_delight_customer_table"
+				type: "item"
+			}]
+			title: "Starting a Delightful Restaurant"
+			x: 0.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["2D0063702FDE9B52"]
+			id: "349C13D22ADD0A75"
+			rewards: [{
+				id: "6FF77A18530EC0E7"
+				item: "minecraft:villager_spawn_egg"
+				type: "item"
+			}]
+			tasks: [{
+				id: "70AFCFDA2F1243DC"
+				item: "kubejs:beach_customer_table"
+				type: "item"
+			}]
+			title: "Starting a Beachside Stand"
+			x: 0.5d
 			y: -6.5d
+		}
+		{
+			dependencies: ["48C7E0AF4C9A3C3E"]
+			id: "60D5B5C074840CB2"
+			rewards: [{
+				id: "4DDD4A0B62E77CCA"
+				item: "minecraft:villager_spawn_egg"
+				type: "item"
+			}]
+			tasks: [{
+				id: "48FB68F2D2F1A8F2"
+				item: "kubejs:candlelight_customer_table"
+				type: "item"
+			}]
+			title: "Starting a Fancy Restaurant"
+			x: 0.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["17FA2E4902522B36"]
+			id: "288973CC8C58E475"
+			rewards: [{
+				id: "361538A5591586B6"
+				item: "minecraft:villager_spawn_egg"
+				type: "item"
+			}]
+			tasks: [{
+				id: "7748DABC2D697E70"
+				item: "kubejs:drink_customer_table"
+				type: "item"
+			}]
+			title: "Starting a Drink Shop"
+			x: 0.5d
+			y: -4.5d
 		}
 	]
 	title: "Farming Crossing 4"
