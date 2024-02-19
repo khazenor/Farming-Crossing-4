@@ -57,7 +57,7 @@ def writeTrades():
 				prices[level],
 				profession,
 				level,
-				False
+				decreasePlayerNum=True
 			)
 
 	with(open(os.path.join(const.serverScripts(), "jess_shop_trades.js"), "w")) as f:

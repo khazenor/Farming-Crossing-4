@@ -39,7 +39,7 @@ def genClotheVillagerTrades():
 				price,
 				profession,
 				level,
-				False
+				decreasePlayerNum=True
 			)
 	kubejs.writeServerFile(
 		kubejs.villagerTradesContent(tradeContent),

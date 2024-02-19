@@ -50,7 +50,8 @@ def villagerTradeWithDefaultSales(
 	playerNum,
 	profession,
 	level,
-	doDiscountVillager
+	decreasePlayerNum=False,
+	increaseVillagerNum=False
 ):
 	# number of price: price ratio
 	priceRatio = {
@@ -61,12 +62,15 @@ def villagerTradeWithDefaultSales(
 	tradeContent = ''
 	for priceOccur in priceRatio:
 		for i in range(priceOccur):
-			if doDiscountVillager:
-				updatedVillagerNum = int(villagerNum * priceRatio[priceOccur])
+			if decreasePlayerNum:
+				updatedVillagerNum = villagerNum
+				updatedPlayerNum = int(playerNum * priceRatio[priceOccur])
+			elif increaseVillagerNum:
+				updatedVillagerNum = int(villagerNum * (1 / priceRatio[priceOccur]))
 				updatedPlayerNum = playerNum
 			else:
 				updatedVillagerNum = villagerNum
-				updatedPlayerNum = int(playerNum * priceRatio[priceOccur])
+				updatedPlayerNum = playerNum
 
 			tradeContent += villagerTradeWithDefaults(
 				villagerItem,

@@ -30,3 +30,9 @@ def stringHasSubstringFromList(testString, substrings):
 		if substring in testString:
 			return True
 	return False
+
+def defaultDict(dictVar, tryKey, default):
+	if tryKey in dictVar:
+		return dictVar[tryKey]
+	else:
+		return default

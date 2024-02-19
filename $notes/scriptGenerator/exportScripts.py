@@ -10,8 +10,10 @@ from src import customVillagers
 from src import musicDiscs
 from src import clothesVillagerSell
 from src import hatVillagerSell
+from src import foodProfessionTrades
 
 if __name__ == "__main__":
+	foodProfessionTrades.genFoodProfessionTrades()
 	hatVillagerSell.genHatVillagerTrades()
 	clothesVillagerSell.genClotheVillagerTrades()
 	musicDiscs.deployMusicDiscs()

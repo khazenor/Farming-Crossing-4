@@ -25,7 +25,7 @@ def genHatVillagerTrades():
 				hatPrice,
 				profession,
 				level,
-				False
+				decreasePlayerNum=True
 			)
 	kubejs.writeServerFile(
 		kubejs.villagerTradesContent(
