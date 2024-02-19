@@ -2,19 +2,20 @@
     "net.minecraft.client.gui.screens.inventory.InventoryScreen": {
         "buttonHints": {
             "MOVE_TO_CONTAINER": {
-                "horizontalOffset": -4
+                "horizontalOffset": -18,
+                "bottom": -12
             },
             "SORT": {
-                "horizontalOffset": -17,
+                "horizontalOffset": -42,
                 "bottom": 12
             },
             "SORT_COLUMNS": {
-                "horizontalOffset": -5,
-                "bottom": 1
+                "horizontalOffset": -30,
+                "bottom": 24
             },
             "SORT_ROWS": {
-                "horizontalOffset": -4,
-                "bottom": 1
+                "horizontalOffset": -18,
+                "bottom": 36
             },
             "SHOW_EDITOR": {
                 "horizontalOffset": 125,
@@ -35,6 +36,25 @@
             "SETTINGS": {
                 "horizontalOffset": 125,
                 "top": -18
+            },
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -20,
+                "bottom": 1
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": -20
+            },
+            "SORT": {
+                "horizontalOffset": -56,
+                "top": 36
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -44,
+                "top": 24
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -32,
+                "top": 12
             }
         }
     }
