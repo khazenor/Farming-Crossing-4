@@ -57,5 +57,31 @@
                 "top": 12
             }
         }
+    },
+    "top.theillusivec4.curios.client.gui.CuriosScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -30,
+                "bottom": -12
+            },
+            "SORT": {
+                "horizontalOffset": -42
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -30,
+                "bottom": 12
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -18,
+                "bottom": 24
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 73,
+                "top": 3
+            },
+            "SETTINGS": {
+                "horizontalOffset": 73
+            }
+        }
     }
 }
