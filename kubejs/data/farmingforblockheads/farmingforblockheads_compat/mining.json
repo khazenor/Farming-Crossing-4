@@ -84,6 +84,72 @@
         "count": 32
       },
       "category": "mining"
+    },
+    {
+      "output": {
+        "item": "quark:permafrost",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "mining"
+    },
+    {
+      "output": {
+        "item": "quark:permafrost",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "mining"
+    },
+    {
+      "output": {
+        "item": "quark:myalite",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "mining"
+    },
+    {
+      "output": {
+        "item": "quark:shale",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "mining"
+    },
+    {
+      "output": {
+        "item": "quark:jasper",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "mining"
+    },
+    {
+      "output": {
+        "item": "quark:limestone",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "mining"
     }
   ]
 }

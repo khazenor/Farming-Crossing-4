@@ -122,5 +122,13 @@ buildingMaterials = [
     "minecraft:prismarine",
     "minecraft:prismarine_bricks",
     "minecraft:dark_prismarine",
-    "meadow:limestone"
+    "meadow:limestone",
+
+    # quark
+    "quark:permafrost",
+    "quark:permafrost",
+    "quark:myalite",
+    "quark:shale",
+    "quark:jasper",
+    "quark:limestone"
 ]

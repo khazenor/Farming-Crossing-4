@@ -341,5 +341,23 @@ ServerEvents.recipes(event => {
   event.shapeless(
     Item.of('meadow:limestone', 32),
     ['meadow:limestone', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('quark:permafrost', 32),
+    ['quark:permafrost', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('quark:permafrost', 32),
+    ['quark:permafrost', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('quark:myalite', 32),
+    ['quark:myalite', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('quark:shale', 32),
+    ['quark:shale', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('quark:jasper', 32),
+    ['quark:jasper', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('quark:limestone', 32),
+    ['quark:limestone', 'kubejs:miles_ticket'])
 
 })

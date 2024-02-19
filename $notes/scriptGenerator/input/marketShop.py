@@ -971,7 +971,14 @@ categories = {
         itemsKey: [
           "minecraft:ice",
           "minecraft:blackstone",
-          "minecraft:end_stone"
+          "minecraft:end_stone",
+          # quark
+          "quark:permafrost",
+          "quark:permafrost",
+          "quark:myalite",
+          "quark:shale",
+          "quark:jasper",
+          "quark:limestone"
         ]
       }
     ]

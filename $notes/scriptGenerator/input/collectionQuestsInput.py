@@ -989,6 +989,13 @@ questlines = [
         increaseRateKey: 0.03,
         tasksKey: cqlist.mineralOre
       },
+      {
+        nameKey: 'Corundums Completion',
+        iconKey: 'kubejs:miles_ticket',
+        dependencyIdKey: '44DB551B93AA28F9',
+        increaseRateKey: 0.03,
+        tasksKey: cqlist.mineralCorundum
+      },
       { # Rare Gems
         nameKey: 'Rare Gems Completion',
         iconKey: 'kubejs:miles_ticket',

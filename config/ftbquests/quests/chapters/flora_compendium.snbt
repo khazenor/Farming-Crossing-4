@@ -2550,6 +2550,116 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			disable_toast: true
 			hide: true
+			id: "4D5F7FFB3B60CDC3"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:flora_compendium_modded_sapling_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1328D88B2E995D24"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "083CF8B284122252"
+				item: "quark:blue_blossom_sapling"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 22.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "322D11166DE155DC"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:flora_compendium_modded_sapling_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "33F589A81CC24784"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "14EB82FADA109880"
+				item: "quark:lavender_blossom_sapling"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 22.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "7C9C9387B8281F47"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:flora_compendium_modded_sapling_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5B5EBB77564772B9"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0D2F5C21E8CD08A4"
+				item: "quark:orange_blossom_sapling"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 22.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "6467E93D23D63EFA"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:flora_compendium_modded_sapling_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5DB816F575A0C0E2"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5408E6CDA9C5400E"
+				item: "quark:yellow_blossom_sapling"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 23.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "13432ADC63C601B4"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:flora_compendium_modded_sapling_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "05FF1FAE96BC6095"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "383A55E21FE34EF4"
+				item: "quark:red_blossom_sapling"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 23.0d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
 			id: "24ACD63AA34E573E"
 			rewards: [{
 				auto: "invisible"
@@ -2565,8 +2675,8 @@
 				item: "beachparty:palm_sapling"
 				type: "item"
 			}]
-			x: 3.0d
-			y: 22.0d
+			x: 2.0d
+			y: 23.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2587,8 +2697,8 @@
 				item: "meadow:pine_sapling"
 				type: "item"
 			}]
-			x: 4.0d
-			y: 22.0d
+			x: 3.0d
+			y: 23.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2609,8 +2719,8 @@
 				item: "vinery:cherry_sapling"
 				type: "item"
 			}]
-			x: 5.0d
-			y: 22.0d
+			x: 4.0d
+			y: 23.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2631,7 +2741,7 @@
 				item: "vinery:apple_tree_sapling"
 				type: "item"
 			}]
-			x: 0.0d
+			x: 5.0d
 			y: 23.0d
 		}
 		{
@@ -2651,6 +2761,11 @@
 				"7D03F6D0F994FBB6"
 				"7DD6E6DC37FBFB49"
 				"3C981F41551AD878"
+				"4D5F7FFB3B60CDC3"
+				"322D11166DE155DC"
+				"7C9C9387B8281F47"
+				"6467E93D23D63EFA"
+				"13432ADC63C601B4"
 				"24ACD63AA34E573E"
 				"6551AA8053CCC483"
 				"7FB23B8B23C666BB"
@@ -2659,7 +2774,7 @@
 			icon: "kubejs:miles_ticket"
 			id: "5A9C2CC1DCFC0971"
 			rewards: [{
-				count: 26
+				count: 35
 				id: "68D30EF8CC69D8D0"
 				item: "kubejs:miles_ticket"
 				type: "item"

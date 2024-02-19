@@ -112,6 +112,8 @@ scoreboard objectives add mineral_museum_modded_blocks_completion dummy {"text":
 scoreboard players set @p mineral_museum_modded_blocks_completion 0
 scoreboard objectives add mineral_museum_ore_completion dummy {"text":"mineral_museum_ore_completion"}
 scoreboard players set @p mineral_museum_ore_completion 0
+scoreboard objectives add mineral_museum_corundums_completion dummy {"text":"mineral_museum_corundums_completion"}
+scoreboard players set @p mineral_museum_corundums_completion 0
 scoreboard objectives add mineral_museum_rare_gems_completion dummy {"text":"mineral_museum_rare_gems_completion"}
 scoreboard players set @p mineral_museum_rare_gems_completion 0
 scoreboard objectives add mineral_museum_common_gems_completion dummy {"text":"mineral_museum_common_gems_completion"}

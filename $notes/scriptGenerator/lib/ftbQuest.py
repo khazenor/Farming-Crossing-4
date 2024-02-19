@@ -126,15 +126,15 @@ def simpleItemContent(itemId, count=1):
 
 def observationTaskContent(icon, title, observation):
 	outStr = ''
-	outStr += '				{'
-	outStr += f'					icon: "{icon}"'
-	outStr += f'					id: "{randomId()}"'
-	outStr += '					observe_type: 5'
-	outStr += '					timer: 0L'
-	outStr += f'					title: "{title}"'
-	outStr += f'					to_observe: "{observation}"'
-	outStr += '					type: "observation"'
-	outStr += '				}'
+	outStr += '				{\n'
+	outStr += f'					icon: "{icon}"\n'
+	outStr += f'					id: "{randomId()}"\n'
+	outStr += '					observe_type: 5\n'
+	outStr += '					timer: 0L\n'
+	outStr += f'					title: "{title}"\n'
+	outStr += f'					to_observe: "{observation}"\n'
+	outStr += '					type: "observation"\n'
+	outStr += '				}\n'
 	return outStr
 
 def freeTaskContent():
