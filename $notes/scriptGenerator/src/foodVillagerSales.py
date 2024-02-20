@@ -3,6 +3,8 @@ from lib import kubejs
 from src import const
 import os
 
+# no longer in use
+
 professionName = "villagersplus:horticulturist"
 tradeExperience = 25
 priceMultiplier = 0.035
