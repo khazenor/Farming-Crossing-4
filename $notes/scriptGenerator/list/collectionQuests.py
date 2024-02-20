@@ -541,6 +541,10 @@ mineralGemCommon = [
   "gemsnjewels:kunzite",
   "gemsnjewels:jade"
 ]
+allMinerals = (
+  mineralVanilla + mineralModded + mineralOre + mineralCorundum +
+  mineralGemRare + mineralGemCommon
+)
 hatFlat = [
   "simplehats:beaniejuly",
   "simplehats:beaniefestive",
