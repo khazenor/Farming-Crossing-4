@@ -478,6 +478,32 @@
 			y: 4.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
+			disable_toast: true
+			hide: true
+			id: "0320C3AA93A0B1C2"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animal_watching_beaches_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "238FC25B5D05305D"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "quark:crab_spawn_egg"
+				id: "32400F3393A975A2"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a Crab"
+				to_observe: "quark:crab"
+				type: "observation"
+			}]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
 			dependencies: [
 				"481EA9C89C1408B4"
 				"73D3CF73E7599B5B"
@@ -488,11 +514,12 @@
 				"24FABF284F06C04B"
 				"3EFBA4A3E40E8CEE"
 				"221EA18ECBCCDD08"
+				"0320C3AA93A0B1C2"
 			]
 			icon: "beachparty:beach_umbrella"
 			id: "15D4AD19820415DF"
 			rewards: [{
-				count: 10
+				count: 12
 				id: "0A93D95ED4417518"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -1943,10 +1970,40 @@
 			y: 18.5d
 		}
 		{
-			dependencies: ["7D5556405A67FADF"]
+			dependencies: ["2D62FBEF18E6ABF6"]
+			disable_toast: true
+			hide: true
+			id: "1E2F4F6A1F3817BA"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animal_watching_mountain_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "451E8C03FE968DF6"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "quark:shiba_spawn_egg"
+				id: "30BE5D13AA6167F4"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a Shiba"
+				to_observe: "quark:shiba"
+				type: "observation"
+			}]
+			x: 1.0d
+			y: 18.5d
+		}
+		{
+			dependencies: [
+				"7D5556405A67FADF"
+				"1E2F4F6A1F3817BA"
+			]
 			icon: "minecraft:goat_horn"
 			id: "129745994375569D"
 			rewards: [{
+				count: 2
 				id: "4C13FD40A023FC08"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -3077,17 +3134,71 @@
 			y: 29.0d
 		}
 		{
+			dependencies: ["2D62FBEF18E6ABF6"]
+			disable_toast: true
+			hide: true
+			id: "3CA3A8FD3CEFB2BC"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animal_watching_caves_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "067084F2C89F8F1B"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "quark:stoneling_spawn_egg"
+				id: "3E08F07097FE45BE"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a Stoneling"
+				to_observe: "quark:stoneling"
+				type: "observation"
+			}]
+			x: 5.0d
+			y: 29.0d
+		}
+		{
+			dependencies: ["2D62FBEF18E6ABF6"]
+			disable_toast: true
+			hide: true
+			id: "4521BD119D49CEA2"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animal_watching_caves_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2784CB6AD496FCDC"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "quark:toretoise_spawn_egg"
+				id: "53E79C697591DBB0"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a Toretoise"
+				to_observe: "quark:toretoise"
+				type: "observation"
+			}]
+			x: 0.0d
+			y: 30.0d
+		}
+		{
 			dependencies: [
 				"146751189BDC436F"
 				"14CABCA3287E1DED"
 				"3CA2F45B06BD4293"
 				"6B813D107CF1D561"
 				"306283F27FAC08C6"
+				"3CA3A8FD3CEFB2BC"
+				"4521BD119D49CEA2"
 			]
 			icon: "minecraft:stone"
 			id: "6427EF320B80E37D"
 			rewards: [{
-				count: 5
+				count: 7
 				id: "3932201E9B0617D4"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -3102,7 +3213,7 @@
 			}]
 			title: "Caves Completion"
 			x: -1.0d
-			y: 29.0d
+			y: 29.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -3128,7 +3239,7 @@
 				type: "observation"
 			}]
 			x: 0.0d
-			y: 30.5d
+			y: 31.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -3154,7 +3265,7 @@
 				type: "observation"
 			}]
 			x: 1.0d
-			y: 30.5d
+			y: 31.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -3180,7 +3291,7 @@
 				type: "observation"
 			}]
 			x: 2.0d
-			y: 30.5d
+			y: 31.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -3206,7 +3317,7 @@
 				type: "observation"
 			}]
 			x: 3.0d
-			y: 30.5d
+			y: 31.5d
 		}
 		{
 			dependencies: [
@@ -3233,7 +3344,7 @@
 			}]
 			title: "Snowy Completion"
 			x: -1.0d
-			y: 30.5d
+			y: 31.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -3259,7 +3370,7 @@
 				type: "observation"
 			}]
 			x: 0.0d
-			y: 32.0d
+			y: 33.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -3285,7 +3396,7 @@
 				type: "observation"
 			}]
 			x: 1.0d
-			y: 32.0d
+			y: 33.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -3311,7 +3422,7 @@
 				type: "observation"
 			}]
 			x: 2.0d
-			y: 32.0d
+			y: 33.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -3337,7 +3448,7 @@
 				type: "observation"
 			}]
 			x: 3.0d
-			y: 32.0d
+			y: 33.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -3363,7 +3474,7 @@
 				type: "observation"
 			}]
 			x: 4.0d
-			y: 32.0d
+			y: 33.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -3389,7 +3500,7 @@
 				type: "observation"
 			}]
 			x: 5.0d
-			y: 32.0d
+			y: 33.0d
 		}
 		{
 			dependencies: [
@@ -3418,7 +3529,7 @@
 			}]
 			title: "Swamp Completion"
 			x: -1.0d
-			y: 32.0d
+			y: 33.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -3444,7 +3555,7 @@
 				type: "observation"
 			}]
 			x: 0.0d
-			y: 33.5d
+			y: 34.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -3470,7 +3581,7 @@
 				type: "observation"
 			}]
 			x: 1.0d
-			y: 33.5d
+			y: 34.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -3496,7 +3607,7 @@
 				type: "observation"
 			}]
 			x: 2.0d
-			y: 33.5d
+			y: 34.5d
 		}
 		{
 			dependencies: [
@@ -3522,7 +3633,7 @@
 			}]
 			title: "Mushroom Completion"
 			x: -1.0d
-			y: 33.5d
+			y: 34.5d
 		}
 	]
 	title: "Animal Watching"

@@ -125,6 +125,11 @@ questlines = [
             iconKey: "beachparty:pelican_spawn_egg",
             nameKey: "Spot a Pelican",
             observeKey: "beachparty:pelican"
+          },
+          {
+            iconKey: "quark:crab_spawn_egg",
+            nameKey: "Spot a Crab",
+            observeKey: "quark:crab"
           }
         ]
       },
@@ -415,6 +420,11 @@ questlines = [
             iconKey: "minecraft:goat_spawn_egg",
             nameKey: "Spot a Goat",
             observeKey: "minecraft:goat"
+          },
+          {
+            iconKey: "quark:shiba_spawn_egg",
+            nameKey: "Spot a Shiba",
+            observeKey: "quark:shiba"
           }
         ]
       },
@@ -640,6 +650,16 @@ questlines = [
             iconKey: "minecraft:axolotl_spawn_egg",
             nameKey: "Spot an axolotl",
             observeKey: "minecraft:axolotl"
+          },
+          {
+            iconKey: "quark:stoneling_spawn_egg",
+            nameKey: "Spot a Stoneling",
+            observeKey: "quark:stoneling"
+          },
+          {
+            iconKey: "quark:toretoise_spawn_egg",
+            nameKey: "Spot a Toretoise",
+            observeKey: "quark:toretoise"
           }
         ]
       },

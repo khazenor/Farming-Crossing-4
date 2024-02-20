@@ -511,28 +511,6 @@
 			dependencies: ["44DB551B93AA28F9"]
 			disable_toast: true
 			hide: true
-			id: "344B7BF50FED71C8"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:mineral_museum_modded_blocks_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "77858ADE681FA176"
-				silent: true
-				type: "command"
-			}]
-			tasks: [{
-				id: "3A701D19031F0747"
-				item: "quark:permafrost"
-				type: "item"
-			}]
-			x: 1.0d
-			y: 4.5d
-		}
-		{
-			dependencies: ["44DB551B93AA28F9"]
-			disable_toast: true
-			hide: true
 			id: "64E1377B896F1107"
 			rewards: [{
 				auto: "invisible"
@@ -548,7 +526,7 @@
 				item: "quark:myalite"
 				type: "item"
 			}]
-			x: 2.0d
+			x: 1.0d
 			y: 4.5d
 		}
 		{
@@ -570,7 +548,7 @@
 				item: "quark:shale"
 				type: "item"
 			}]
-			x: 3.0d
+			x: 2.0d
 			y: 4.5d
 		}
 		{
@@ -592,7 +570,7 @@
 				item: "quark:jasper"
 				type: "item"
 			}]
-			x: 4.0d
+			x: 3.0d
 			y: 4.5d
 		}
 		{
@@ -614,7 +592,7 @@
 				item: "quark:limestone"
 				type: "item"
 			}]
-			x: 5.0d
+			x: 4.0d
 			y: 4.5d
 		}
 		{
@@ -636,8 +614,8 @@
 				item: "meadow:mossy_cobbled_limestone"
 				type: "item"
 			}]
-			x: 0.0d
-			y: 5.5d
+			x: 5.0d
+			y: 4.5d
 		}
 		{
 			dependencies: ["44DB551B93AA28F9"]
@@ -658,7 +636,7 @@
 				item: "meadow:cobbled_limestone"
 				type: "item"
 			}]
-			x: 1.0d
+			x: 0.0d
 			y: 5.5d
 		}
 		{
@@ -680,7 +658,7 @@
 				item: "biomesoplenty:white_sandstone"
 				type: "item"
 			}]
-			x: 2.0d
+			x: 1.0d
 			y: 5.5d
 		}
 		{
@@ -702,7 +680,7 @@
 				item: "biomesoplenty:orange_sandstone"
 				type: "item"
 			}]
-			x: 3.0d
+			x: 2.0d
 			y: 5.5d
 		}
 		{
@@ -724,7 +702,7 @@
 				item: "biomesoplenty:black_sandstone"
 				type: "item"
 			}]
-			x: 4.0d
+			x: 3.0d
 			y: 5.5d
 		}
 		{
@@ -746,7 +724,7 @@
 				item: "biomesoplenty:dried_salt"
 				type: "item"
 			}]
-			x: 5.0d
+			x: 4.0d
 			y: 5.5d
 		}
 		{
@@ -757,7 +735,6 @@
 				"21A6FB72B1F37C29"
 				"5479FF2C6A0DD3EE"
 				"100CCD0B3AAFB32A"
-				"0ECE180C82781FC0"
 				"0ECE180C82781FC0"
 				"64E1377B896F1107"
 				"3B04352357221714"
@@ -773,7 +750,7 @@
 			icon: "kubejs:miles_ticket"
 			id: "2DBD39E55D723D37"
 			rewards: [{
-				count: 21
+				count: 19
 				id: "7A84A1F0EFE70E1D"
 				item: "kubejs:miles_ticket"
 				type: "item"
