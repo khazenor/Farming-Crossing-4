@@ -1076,6 +1076,66 @@
 			x: 0.5d
 			y: 8.0d
 		}
+		{
+			description: [
+				"{image:khazenor:textures/quark/matrix_enchant.png width:150 height:100 align:1}"
+				""
+				"Matrix Enchanting is a complete overhaul of the enchanting system. Pieces can be generated using lapis and XP. The pieces then have to be laid on the grid to enchant the item. Pieces can be rotated and upgraded into higher levels."
+				""
+				"Lapis can be placed in the the bottom-left slot. The lapis is stored as a \"charge\" meter, which you can see in the left blue bar."
+				""
+				"You can press the + button to generate new pieces. Each piece will contain an enchantment."
+				""
+				"The pieces you generate will land in the docket, the rightmost side bar."
+				""
+				"You can pick pieces from the docket and put them in the grid. Pieces put in the grid will affect the output enchantment."
+				""
+				"You can rotate pieces by right clicking."
+				""
+				"Generated pieces always come at enchantment level 1. To upgrade a piece you placed down in the grid, simply grab one with the same enchantment and click it on top of the placed one."
+				""
+				"Tips:"
+				""
+				"  - Incompatible pieces can never be generated - if you see a Fortune piece, you'll never see Silk Touch in that session."
+				""
+				"  - The item you're enchanting will retain its pending enchantments if you take it out."
+				""
+				"  - Candles can be used those to manipulate what type of enchantments you'd like to get. Placing down up to 4 candles of a single type will enhance the chance you'll find a given enchantment. Candles must be lit to manipulate enchantment types"
+				""
+				"  - Soul Candles have an inverted effect as normal candles, making the respective enchantment less likely to appear."
+				""
+				"Candle Influences"
+				"  - White: Unbreaking"
+				"  - Orange: Fire Protection"
+				"  - Magenta: Knockback, Punch"
+				"  - Light Blue: Feather Falling"
+				"  - Yellow: Looting, Fortune, Luck of the Sea"
+				"  - Lime: Blast Protection"
+				"  - Pink: Silk Touch, Channeling"
+				"  - Gray: Bane of Arthropods"
+				"  - Light Gray: Protection"
+				"  - Cyan: Respiration, Loyalty, Infinity"
+				"  - Purple: Sweeping Edge, Multishot"
+				"  - Blue: Efficiency, Sharpness, Lure, Power, Impaling, Quick Charge"
+				"  - Brown: Aqua Affinity, Depth Strider, Riptide"
+				"  - Green: Thorns, Piercing"
+				"  - Red: Fire Aspect, Flame"
+				"  - Black: Smite, Projectile Protection"
+				""
+				"You can also find the candle influences by searching them up in the inventory screen (JEI)"
+			]
+			id: "7C38D573D3A751D0"
+			subtitle: "Control what enchantment you get with matrix enchanting!"
+			tasks: [{
+				consume_items: false
+				id: "04CCEAB24AC43A97"
+				item: "minecraft:enchanting_table"
+				type: "item"
+			}]
+			title: "Info: Matrix Enchanting"
+			x: 2.5d
+			y: 2.5d
+		}
 	]
 	title: "Getting Started / FAQ's"
 }
