@@ -5,7 +5,7 @@
         id: "aquaculture:catfish", Count: 1
       },
       sell: {
-        id: "kubejs:miles_ticket", Count: 10
+        id: "kubejs:miles_ticket", Count: 16
       },
       maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
     }, {
@@ -13,7 +13,7 @@
         id: "aquaculture:capitaine", Count: 1
       },
       sell: {
-        id: "kubejs:miles_ticket", Count: 10
+        id: "kubejs:miles_ticket", Count: 16
       },
       maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
     }, {
@@ -21,7 +21,7 @@
         id: "aquaculture:tuna", Count: 1
       },
       sell: {
-        id: "kubejs:miles_ticket", Count: 10
+        id: "kubejs:miles_ticket", Count: 16
       },
       maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
     }, {
@@ -29,7 +29,7 @@
         id: "aquaculture:arrau_turtle", Count: 1
       },
       sell: {
-        id: "kubejs:miles_ticket", Count: 10
+        id: "kubejs:miles_ticket", Count: 16
       },
       maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
     }, {
@@ -37,7 +37,7 @@
         id: "aquaculture:starshell_turtle", Count: 1
       },
       sell: {
-        id: "kubejs:miles_ticket", Count: 10
+        id: "kubejs:miles_ticket", Count: 16
       },
       maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
     }, {

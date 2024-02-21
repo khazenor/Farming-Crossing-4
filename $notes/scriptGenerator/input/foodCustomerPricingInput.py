@@ -203,8 +203,10 @@ pricing = {
     {itemKey: "candlelight:beef_wellington"}
   ],
   15: [
-    {itemKey: "aquaculturedelight:tuna_spaghetti"},
-    {itemKey: "aquaculture:turtle_soup"},
     {itemKey: "vinery:jellie_wine"}
+  ],
+  20: [
+    {itemKey: "aquaculturedelight:tuna_spaghetti"},
+    {itemKey: "aquaculture:turtle_soup"}
   ]
 }
