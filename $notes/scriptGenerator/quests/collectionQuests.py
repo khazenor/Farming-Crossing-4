@@ -1,7 +1,9 @@
 from lib import ftbQuest
 from lib import stringCleaning
+from lib import util
 from input import collectionQuestsInput
 from quests import questFunctions
+import math
 
 numQuestPerRow = 5
 
@@ -11,17 +13,27 @@ def genQuestLines():
 		questsContent = ''
 		questIds = []
 		questLineName = questline[collectionQuestsInput.nameKey]
-		y = 0
+		y_positive = 0
+		y_negative = 0
 		for questGroup in questline[collectionQuestsInput.questGroupsKey]:
-			x = -1
-			initY = y
 
 			taskIds = questGroup[collectionQuestsInput.tasksKey]
 			questGroupName = questGroup[collectionQuestsInput.nameKey]
 			dependencyId = questGroup[collectionQuestsInput.dependencyIdKey]
 			subQuestDependencies = []
-			for taskId in taskIds:
+			doStartAtCenter = util.defaultDict(questline, collectionQuestsInput.questStartAtCenterKey, False)
+			# init positions
+			x = -1
+			if y_positive > abs(y_negative) and doStartAtCenter:
+				y_negative -=  math.ceil(len(taskIds) / (numQuestPerRow + 1)) + 0.5
+				initY = y_negative
+				y = initY
+			else:
+				initY = y_positive
+				y = initY
+				y_positive += math.ceil(len(taskIds) / (numQuestPerRow + 1)) + 0.5
 
+			for taskId in taskIds:
 				x += 1
 				if x > numQuestPerRow:
 					x = 0

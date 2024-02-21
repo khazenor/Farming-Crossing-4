@@ -16,6 +16,7 @@ questGroupsKey = 'questGroups'
 tasksKey = 'tasks'
 observeKey = 'observe'
 additionalRewardsKey = 'additionalRewards'
+questStartAtCenterKey = 'questStartAtCenter'
 
 questlineGroupId = '5326E5A8132593FA'
 questlines = [
@@ -817,6 +818,7 @@ questlines = [
     collectionNotificationKey: 'New dish cooked!',
     increaseRateKey: 0.04,
     typeKey: itemQuestTypeConst,
+    questStartAtCenterKey: True,
     questGroupsKey: [
       ## Lets Do Foods
       { # Oven
