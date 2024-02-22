@@ -1045,175 +1045,175 @@ questlines = [
       { # Handheld Instruments
         nameKey: 'Handheld Instruments Completion',
         iconKey: 'moa_decor_art:guitarra',
-        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
+        dependencyIdKey: '7DA124C26F220448', # buy first decoration
         tasksKey: cqlist.commonHandheldInstruments
       },
       { # Trophies
         nameKey: 'Trophies Completion',
         iconKey: 'handcrafted:bear_trophy',
-        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
+        dependencyIdKey: '7DA124C26F220448', # buy first decoration
         tasksKey: cqlist.commonTrophies
       },
       { # Snare
         nameKey: 'Snare Completion',
         iconKey: 'moa_decor_art:tamborrojo',
-        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
+        dependencyIdKey: '7DA124C26F220448', # buy first decoration
         tasksKey: cqlist.commonSnare
       },
       { # Mariachi
         nameKey: 'Mariachi Completion',
         iconKey: 'moa_decor_holidays:mariachiguitarra',
-        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
+        dependencyIdKey: '7DA124C26F220448', # buy first decoration
         tasksKey: cqlist.commonMariachi
       },
       { # Graveyard
         nameKey: 'Graveyard Completion',
         iconKey: 'moa_decor_holidays:lapida',
-        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
+        dependencyIdKey: '7DA124C26F220448', # buy first decoration
         tasksKey: cqlist.commonGraveyard
       },
       { # Bathroom
         nameKey: 'Bathroom Completion',
         iconKey: 'moa_decor_bath:inodoro',
-        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
+        dependencyIdKey: '7DA124C26F220448', # buy first decoration
         tasksKey: cqlist.commonBathroom
       },
       { # Arts
         nameKey: 'Arts Completion',
         iconKey: 'moa_decor_art:paletadepintura',
-        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
+        dependencyIdKey: '7DA124C26F220448', # buy first decoration
         tasksKey: cqlist.commonArts
       },
       { # Film
         nameKey: 'Film Completion',
         iconKey: 'moa_decor_art:claqueta',
-        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
+        dependencyIdKey: '7DA124C26F220448', # buy first decoration
         tasksKey: cqlist.commonFilm
       },
       { # Festive
         nameKey: 'Festive Completion',
         iconKey: 'moa_decor_holidays:corona_navidena',
-        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
+        dependencyIdKey: '7DA124C26F220448', # buy first decoration
         tasksKey: cqlist.commonFestive
       },
       { # Books and Exploration
         nameKey: 'Books and Exploration Completion',
         iconKey: 'moa_decor_science:globoterraqueo',
-        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
+        dependencyIdKey: '7DA124C26F220448', # buy first decoration
         tasksKey: cqlist.commonBooksExploration
       },
       { # Lab
         nameKey: 'Lab Completion',
         iconKey: 'moa_decor_science:microscopio',
-        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
+        dependencyIdKey: '7DA124C26F220448', # buy first decoration
         tasksKey: cqlist.commonLab
       },
       { # Sheep Plushes
         nameKey: 'Sheep Plushes Completion',
         iconKey: 'moa_decor_toys:ovejarosa',
-        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
+        dependencyIdKey: '7DA124C26F220448', # buy first decoration
         tasksKey: cqlist.commonPlushSheep
       },
       { # Horse Plushes
         nameKey: 'Horse Plushes Completion',
         iconKey: 'moa_decor_toys:caballocafe',
-        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
+        dependencyIdKey: '7DA124C26F220448', # buy first decoration
         tasksKey: cqlist.commonPlushHorse
       },
       { # Home Animal Plushes
         nameKey: 'Home Animal Plushes Completion',
         iconKey: 'moa_decor_toys:gallina',
-        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
+        dependencyIdKey: '7DA124C26F220448', # buy first decoration
         tasksKey: cqlist.commonPlushHomeAnimal
       },
       { # Rabbit Plushes
         nameKey: 'Rabbit Plushes Completion',
         iconKey: 'moa_decor_toys:conejocastano',
-        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
+        dependencyIdKey: '7DA124C26F220448', # buy first decoration
         tasksKey: cqlist.commonPlushRabbit
       },
       { # Cat Plushes
         nameKey: 'Cat Plushes Completion',
         iconKey: 'moa_decor_toys:gatojellie',
-        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
+        dependencyIdKey: '7DA124C26F220448', # buy first decoration
         tasksKey: cqlist.commonPlushCat
       },
       { # Parrot Plushes
         nameKey: 'Parrot Plushes Completion',
         iconKey: 'moa_decor_toys:loroazul',
-        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
+        dependencyIdKey: '7DA124C26F220448', # buy first decoration
         tasksKey: cqlist.commonPlushParrot
       },
       { # Frog Plushes
         nameKey: 'Frog Plushes Completion',
         iconKey: 'moa_decor_toys:ranahelada',
-        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
+        dependencyIdKey: '7DA124C26F220448', # buy first decoration
         tasksKey: cqlist.commonPlushFrog
       },
       { # Llama Plushes
         nameKey: 'Llama Plushes Completion',
         iconKey: 'moa_decor_toys:llamagris',
-        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
+        dependencyIdKey: '7DA124C26F220448', # buy first decoration
         tasksKey: cqlist.commonPlushLlama
       },
       { # Wild Animal Plushes
         nameKey: 'Wild Animal Plushes Completion',
         iconKey: 'moa_decor_toys:zorro',
-        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
+        dependencyIdKey: '7DA124C26F220448', # buy first decoration
         tasksKey: cqlist.commonPlushWildAnimal
       },
       { # Axolotl Plushes
         nameKey: 'Axolotl Plushes Completion',
         iconKey: 'moa_decor_toys:ajoloterosa',
-        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
+        dependencyIdKey: '7DA124C26F220448', # buy first decoration
         tasksKey: cqlist.commonPlushAxolotl
       },
       { # Water Animal Plushes
         nameKey: 'Water Animal Plushes Completion',
         iconKey: 'moa_decor_toys:delfin',
-        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
+        dependencyIdKey: '7DA124C26F220448', # buy first decoration
         tasksKey: cqlist.commonPlushWaterAnimal
       },
       { # Village Plushes
         nameKey: 'Village Plushes Completion',
         iconKey: 'moa_decor_toys:aldeano',
-        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
+        dependencyIdKey: '7DA124C26F220448', # buy first decoration
         tasksKey: cqlist.commonPlushVillage
       },
       { # Nether Plushes
         nameKey: 'Nether Plushes Completion',
         iconKey: 'moa_decor_toys:blaze',
-        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
+        dependencyIdKey: '7DA124C26F220448', # buy first decoration
         tasksKey: cqlist.commonPlushNether
       },
       { # Zombie Plushes
         nameKey: 'Zombie Plushes Completion',
         iconKey: 'moa_decor_toys:zombie',
-        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
+        dependencyIdKey: '7DA124C26F220448', # buy first decoration
         tasksKey: cqlist.commonPlushZombie
       },
       { # Raid Plushes
         nameKey: 'Raid Plushes Completion',
         iconKey: 'moa_decor_toys:invocador',
-        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
+        dependencyIdKey: '7DA124C26F220448', # buy first decoration
         tasksKey: cqlist.commonPlushRaid
       },
       { # Hostile Plushes
         nameKey: 'Hostile Plushes Completion',
         iconKey: 'moa_decor_toys:creeper',
-        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
+        dependencyIdKey: '7DA124C26F220448', # buy first decoration
         tasksKey: cqlist.commonPlushHostileMob
       },
       { # Boss Plushes
         nameKey: 'Boss Plushes Completion',
         iconKey: 'moa_decor_toys:dragondelender',
-        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
+        dependencyIdKey: '7DA124C26F220448', # buy first decoration
         tasksKey: cqlist.commonPlushBoss
       },
       { # Toys
         nameKey: 'Toys Completion',
         iconKey: 'playdate:rocking_horse',
-        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
+        dependencyIdKey: '7DA124C26F220448', # buy first decoration
         tasksKey: cqlist.commonToy
       }
     ]
@@ -1229,43 +1229,43 @@ questlines = [
       { # Statues
         nameKey: 'Statues Completion',
         iconKey: 'moa_decor_art:esculturaelpensador',
-        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
+        dependencyIdKey: '7DA124C26F220448', # buy first decoration
         tasksKey: cqlist.rareStatues
       },
       { # Mob Trophies
         nameKey: 'Mob Trophies Completion',
         iconKey: 'handcrafted:creeper_trophy',
-        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
+        dependencyIdKey: '7DA124C26F220448', # buy first decoration
         tasksKey: cqlist.rareMobTrophies
       },
       { # Paintings
         nameKey: 'Paintings Completion',
         iconKey: 'moa_decor_art:plamonalisa',
-        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
+        dependencyIdKey: '7DA124C26F220448', # buy first decoration
         tasksKey: cqlist.rarePaintings
       },
       { # Misc
         nameKey: 'Misc Completion',
         iconKey: 'moa_decor_art:maquinadediscos',
-        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
+        dependencyIdKey: '7DA124C26F220448', # buy first decoration
         tasksKey: cqlist.rareMisc
       },
       { # Oneul Food Music Disc
         nameKey: 'Oneul Food Music Discs Completion',
         iconKey: 'kubejs:oneul_melon_bread',
-        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
+        dependencyIdKey: '7DA124C26F220448', # buy first decoration
         tasksKey: cqlist.rareOneulFood
       },
       { # Oneul Pink Bear Music Disc
         nameKey: 'Oneul Pink Bear Music Disc Completion',
         iconKey: 'kubejs:oneul_around_midnight',
-        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
+        dependencyIdKey: '7DA124C26F220448', # buy first decoration
         tasksKey: cqlist.rareOneulPinkBear
       },
       { # Oneul Misc Music Disc
         nameKey: 'Oneul Misc Music Disc Completion',
         iconKey: 'kubejs:oneul_april_daisy',
-        dependencyIdKey: '756B6CAC42F98D92', # Jess moves in
+        dependencyIdKey: '7DA124C26F220448', # buy first decoration
         tasksKey: cqlist.rareOneulMisc
       }
     ]

@@ -66,22 +66,6 @@
 					item: "minecraft:sugar_cane"
 					type: "item"
 				}
-				{
-					auto: "invisible"
-					command: "/scoreboard objectives add meals_cooked dummy {\"text\": \"Meals Cooked\"}"
-					elevate_perms: true
-					id: "61E3655236FD69AF"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/scoreboard players set @p meals_cooked 0"
-					elevate_perms: true
-					id: "76209B45DC479F94"
-					silent: true
-					type: "command"
-				}
 			]
 			tasks: [{
 				id: "3BE140032757C3C5"
@@ -501,29 +485,11 @@
 			hide: true
 			icon: "aquaculture:atlantic_cod"
 			id: "51AC164BB0124EBA"
-			rewards: [
-				{
-					id: "241BA34ED463BCF0"
-					item: "minecraft:bundle"
-					type: "item"
-				}
-				{
-					auto: "invisible"
-					command: "/scoreboard objectives add fishes_caught dummy {\"text\": \"Fishes Caught\"}"
-					elevate_perms: true
-					id: "45C7C07A5B8073F3"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/scoreboard players set @p fishes_caught 0"
-					elevate_perms: true
-					id: "34E59E2844D76680"
-					silent: true
-					type: "command"
-				}
-			]
+			rewards: [{
+				id: "241BA34ED463BCF0"
+				item: "minecraft:bundle"
+				type: "item"
+			}]
 			tasks: [{
 				id: "4BF169FE298B5E41"
 				item: {
@@ -552,30 +518,12 @@
 				}
 			}
 			id: "44DB551B93AA28F9"
-			rewards: [
-				{
-					count: 16
-					id: "485A1BAFDEF6D09B"
-					item: "minecraft:torch"
-					type: "item"
-				}
-				{
-					auto: "invisible"
-					command: "/scoreboard objectives add minerals_collected dummy {\"text\": \"Minerals Collected\"}"
-					elevate_perms: true
-					id: "494299BE3E6F883D"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/scoreboard players set @p minerals_collected 0"
-					elevate_perms: true
-					id: "3D7AEC795A697798"
-					silent: true
-					type: "command"
-				}
-			]
+			rewards: [{
+				count: 16
+				id: "485A1BAFDEF6D09B"
+				item: "minecraft:torch"
+				type: "item"
+			}]
 			tasks: [{
 				id: "5CE78A08221C0A01"
 				item: {
@@ -595,77 +543,27 @@
 		{
 			dependencies: ["67410832B3588F76"]
 			description: [
-				"You can buy decorations from wondering traders."
+				"You can buy decorations from Jess. Make sure you place her shop block and she is able to link it as her work station."
 				""
 				"After you have bought enough unique decorations, you will be able get some Miles Tickets back from the Miles Reward Program chapter"
 			]
 			hide: true
 			icon: "moa_decor_science:libros"
 			id: "7DA124C26F220448"
-			rewards: [
-				{
-					id: "5CF6A3AA210353A2"
-					item: {
-						Count: 1b
-						id: "lootbags:loot_bag"
-						tag: {
-							Color: 13882323
-							Loot: "lootbags:furniture/loot_furniture"
-							Name: "Furniture Kit"
-							Type: "COMMON"
-						}
+			rewards: [{
+				id: "5CF6A3AA210353A2"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: 13882323
+						Loot: "lootbags:furniture/loot_furniture"
+						Name: "Furniture Kit"
+						Type: "COMMON"
 					}
-					type: "item"
 				}
-				{
-					auto: "invisible"
-					command: "/scoreboard objectives add common_decoration dummy {\"text\": \"Common Decoration Purchased\"}"
-					elevate_perms: true
-					id: "4AABC31590798D31"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/scoreboard players set @p common_decoration 0"
-					elevate_perms: true
-					id: "26651F58DD1EB771"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/scoreboard objectives add rare_decoration dummy {\"text\": \"Rare Decoration Purchased\"}"
-					elevate_perms: true
-					id: "26645326E412E720"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/scoreboard players set @p rare_decoration 0"
-					elevate_perms: true
-					id: "7E0E91D6390CCA52"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/scoreboard objectives add hat_collected dummy {\"text\": \"Hat Collected\"}"
-					elevate_perms: true
-					id: "375D719D60B86FB6"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/scoreboard players set @p hat_collected 0"
-					elevate_perms: true
-					id: "2A43EE15214CB6F6"
-					silent: true
-					type: "command"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "095F05B96F9B7B74"
 				item: {
@@ -791,33 +689,15 @@
 			hide: true
 			icon: "moa_decor_toys:conejodorado"
 			id: "2D62FBEF18E6ABF6"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard objectives add animals_observed dummy {\"text\": \"Animals Observed\"}"
-					elevate_perms: true
-					id: "4223BF5BD1A4E7EF"
-					silent: true
-					type: "command"
+			rewards: [{
+				id: "067F85B892561726"
+				item: {
+					Count: 1b
+					id: "mobcapturingtool:mob_capturing_tool"
+					tag: { }
 				}
-				{
-					auto: "invisible"
-					command: "/scoreboard players set @p animals_observed 0"
-					elevate_perms: true
-					id: "0A1350400399CDE5"
-					silent: true
-					type: "command"
-				}
-				{
-					id: "067F85B892561726"
-					item: {
-						Count: 1b
-						id: "mobcapturingtool:mob_capturing_tool"
-						tag: { }
-					}
-					type: "item"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_mimic_octopus"
 				id: "1AB8B8F4CD9EEDA8"
@@ -1019,29 +899,11 @@
 			hide: true
 			icon: "minecraft:cherry_sapling"
 			id: "0EABDA42EA87C46C"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/scoreboard objectives add flora_collected dummy {\"text\": \"Flora Collected\"}"
-					elevate_perms: true
-					id: "195C2431BB9CB5A9"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/scoreboard players set @p flora_collected 0"
-					elevate_perms: true
-					id: "7804712B3F04829B"
-					silent: true
-					type: "command"
-				}
-				{
-					id: "5EFF7EE1E4FA051F"
-					item: "paraglider:paraglider"
-					type: "item"
-				}
-			]
+			rewards: [{
+				id: "5EFF7EE1E4FA051F"
+				item: "paraglider:paraglider"
+				type: "item"
+			}]
 			tasks: [{
 				id: "512D2BAECBD98AAE"
 				item: {
