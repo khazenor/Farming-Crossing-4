@@ -1,12 +1,14 @@
 from lib import stringCleaning
+
+def collectionTally(objName):
+	return f"scoreboard players add @p {objName} 1\n"
+
 def collectionNotification(collectedText, objName, total):
-	outStr = f"scoreboard players add @p {objName} 1\n"
-	outStr += tellRaw([
+	return tellRaw([
 		textJson(f'{collectedText} ('),
 		scoreJson(objName),
 		textJson(f'/{total})'),
 	])
-	return outStr
 
 def tellRaw(texts):
 	outStr = 'tellraw @p [""'
