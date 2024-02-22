@@ -1005,13 +1005,13 @@ ItemEvents.tooltip(event => {
 		'aquaculture:turtle_soup',
     [
       'A farmers delight customer villager regularly', 
-      'buys this meal for 20 tickets'
+      'buys this meal for 25 tickets'
     ])
   event.add(
 		'aquaculturedelight:tuna_spaghetti',
     [
       'A farmers delight customer villager regularly', 
-      'buys this meal for 20 tickets'
+      'buys this meal for 25 tickets'
     ])
 
 })

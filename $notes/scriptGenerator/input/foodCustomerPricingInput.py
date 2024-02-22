@@ -205,7 +205,7 @@ pricing = {
   15: [
     {itemKey: "vinery:jellie_wine"}
   ],
-  20: [
+  25: [
     {itemKey: "aquaculturedelight:tuna_spaghetti"},
     {itemKey: "aquaculture:turtle_soup"}
   ]
