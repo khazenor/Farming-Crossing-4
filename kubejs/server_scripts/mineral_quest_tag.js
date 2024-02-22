@@ -23,7 +23,6 @@ ServerEvents.tags('item', event => {
       'create:scoria', 
       'create:limestone', 
       'quark:permafrost', 
-      'quark:myalite', 
       'quark:shale', 
       'quark:jasper', 
       'quark:limestone', 
