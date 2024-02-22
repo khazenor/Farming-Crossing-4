@@ -1,61 +1,55 @@
 
 
 StartupEvents.registry("block", (event) => {
-  const textureAvailable = [
-    "Elna's Shop",
-    "Bernina's Shop",
-    "Bakery Customer Table",
-  ]
-  const blockNames = [
-    "Elna's Shop",
-    "Bernina's Shop",
-    "Bakery Customer Table",
-    "Drink Customer Table",
-    "Candlelight Customer Table",
-    "Beach Customer Table",
-    "Farmer's Delight Customer Table"
-  ]
-  
-  const stringToName = (name) => {
-    return name.replace(/'/g, "").replace(/ /g, '_').toLowerCase()
-  }
-
-  for (let blockName of blockNames) {
-    let modelJson
-    let blockId = stringToName(blockName)
-    if (textureAvailable.includes(blockName)) {
-      modelJson = {
-        "parent": "minecraft:block/cube",
-        "textures": {
-          "up": `kubejs:block/${blockId}_top`,
-          "down": `kubejs:block/${blockId}_bottom`,
-          "north": `kubejs:block/${blockId}_side2`,
-          "south": `kubejs:block/${blockId}_side2`,
-          "east": `kubejs:block/${blockId}_side1`,
-          "west": `kubejs:block/${blockId}_side1`,
-          "particle": `kubejs:block/${blockId}_side1`
-        }
-      }
-    } else {
-      modelJson = {
-        "parent": "minecraft:block/cube",
-        "textures": {
-          "down": "kubejs:block/bottom",
-          "east": "kubejs:block/side",
-          "north": "kubejs:block/side",
-          "particle": "kubejs:block/side",
-          "south": "kubejs:block/side",
-          "up": "kubejs:block/top",
-          "west": "kubejs:block/side"
-        }
+  const createBlock = (id, name, topTexture, sideTexture) => {
+    event.create(id, "cardinal")
+    .displayName(name)
+    .material("wood") // Set a material (affects the sounds and some properties)
+    .hardness(1.0) // Set hardness (affects mining time)
+    .tagBlock("mineable/axe") //can be mined faster with an axe
+    .modelJson = {
+      "parent": "minecraft:block/cube",
+      "textures": {
+        "north": "kubejs:block/side",
+        "south": "kubejs:block/side",
+        "east": `kubejs:block/${sideTexture}`,
+        "west": `kubejs:block/${sideTexture}`,
+        "up": `kubejs:block/${topTexture}`,
+        "down": "kubejs:block/bottom",
+        "particle": "kubejs:block/side"
       }
     }
-    console.log(modelJson)
-    event.create(blockId, "cardinal")
-      .displayName(blockName)
-      .material("wood") // Set a material (affects the sounds and some properties)
-      .hardness(1.0) // Set hardness (affects mining time)
-      .tagBlock("mineable/axe") //can be mined faster with an axe
-      .modelJson = modelJson
   }
+  createBlock('berninas_shop', "Bernina's Shop", 'berninas_shop', 'shop_side')
+  createBlock('elnas_shop', "Elna's Shop", 'elnas_shop', 'shop_side')
+  createBlock(
+    'bakery_customer_table',
+    "Bakery Customer Table",
+    'bakery_customer',
+    'customer_side'
+  )
+  createBlock(
+    'beach_customer_table',
+    "Beach Customer Table",
+    'beach_customer',
+    'customer_side'
+  )
+  createBlock(
+    'candlelight_customer_table',
+    "Candlelight Customer Table",
+    'candlelight_customer',
+    'customer_side'
+  )
+  createBlock(
+    'drink_customer_table',
+    "Drink Customer Table",
+    'drink_customer',
+    'customer_side'
+  )
+  createBlock(
+    'farmers_delight_customer_table',
+    "Farmer's Delight Customer Table",
+    'farmers_delight_customer',
+    'customer_side'
+  )
 })
