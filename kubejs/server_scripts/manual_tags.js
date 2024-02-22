@@ -26,20 +26,6 @@ ServerEvents.tags('item', event => {
   ])
   event.add('meadow:water_bottles', 'pamhc2foodcore:freshwateritem')
   event.add('candlelight:water_bottles', 'pamhc2foodcore:freshwateritem')
-
-  event.add('forge:customer_tables',[
-    "villagersplus:acacia_horticulturist_table",
-    "villagersplus:bamboo_horticulturist_table",
-    "villagersplus:birch_horticulturist_table",
-    "villagersplus:cherry_horticulturist_table",
-    "villagersplus:crimson_horticulturist_table",
-    "villagersplus:dark_oak_horticulturist_table",
-    "villagersplus:jungle_horticulturist_table",
-    "villagersplus:mangrove_horticulturist_table",
-    "villagersplus:oak_horticulturist_table",
-    "villagersplus:spruce_horticulturist_table",
-    "villagersplus:warped_horticulturist_table"
-  ])
   
   event.add('diet:vegetables', [
     'candlelight:tomato',

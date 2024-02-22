@@ -6,17 +6,6 @@ MoreJSEvents.wandererTrades((event) => {
 })
 
 MoreJSEvents.villagerTrades((event) => {
-	event.removeModdedTrades(["villagersplus:horticulturist"], 1)
-	event.removeModdedTrades(["villagersplus:horticulturist"], 2)
-	event.removeModdedTrades(["villagersplus:horticulturist"], 3)
-	event.removeModdedTrades(["villagersplus:horticulturist"], 4)
-	event.removeModdedTrades(["villagersplus:horticulturist"], 5)
-	event.removeVanillaTrades(["villagersplus:horticulturist"], 1)
-	event.removeVanillaTrades(["villagersplus:horticulturist"], 2)
-	event.removeVanillaTrades(["villagersplus:horticulturist"], 3)
-	event.removeVanillaTrades(["villagersplus:horticulturist"], 4)
-	event.removeVanillaTrades(["villagersplus:horticulturist"], 5)
-
 	event.removeModdedTrades(["non_wandering_trader:traveller"], 1)
 	event.removeModdedTrades(["non_wandering_trader:traveller"], 2)
 	event.removeModdedTrades(["non_wandering_trader:traveller"], 3)
