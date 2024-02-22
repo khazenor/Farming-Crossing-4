@@ -722,6 +722,8 @@
 				""
 				"Customer villagers will buy meals from you in exchange for miles tickets."
 				""
+				"This villager will buy bakery items from you."
+				""
 				"Villager trades are also dynamic:"
 				""
 				"Villagers change their trades every time they restock/every day. This makes it so that you won't have to get rid of villagers with bad trades after having spent resources on them, and it won't be necessary to breed a large number of them either."
@@ -2169,6 +2171,17 @@
 		}
 		{
 			dependencies: ["29F10804B90D8DA8"]
+			description: [
+				"You can attract a customer by putting a customer table near a minecraft villager. "
+				""
+				"Customer villagers will buy meals from you in exchange for miles tickets."
+				""
+				"This villager will buy farmer's delight items from you."
+				""
+				"Villager trades are also dynamic:"
+				""
+				"Villagers change their trades every time they restock/every day. This makes it so that you won't have to get rid of villagers with bad trades after having spent resources on them, and it won't be necessary to breed a large number of them either."
+			]
 			id: "0207854039AA0D94"
 			rewards: [{
 				id: "5CB0F78784F91357"
@@ -2186,6 +2199,17 @@
 		}
 		{
 			dependencies: ["2D0063702FDE9B52"]
+			description: [
+				"You can attract a customer by putting a customer table near a minecraft villager. "
+				""
+				"Customer villagers will buy meals from you in exchange for miles tickets."
+				""
+				"This villager will buy beach food items from you."
+				""
+				"Villager trades are also dynamic:"
+				""
+				"Villagers change their trades every time they restock/every day. This makes it so that you won't have to get rid of villagers with bad trades after having spent resources on them, and it won't be necessary to breed a large number of them either."
+			]
 			id: "349C13D22ADD0A75"
 			rewards: [{
 				id: "6FF77A18530EC0E7"
@@ -2203,6 +2227,17 @@
 		}
 		{
 			dependencies: ["48C7E0AF4C9A3C3E"]
+			description: [
+				"You can attract a customer by putting a customer table near a minecraft villager. "
+				""
+				"Customer villagers will buy meals from you in exchange for miles tickets."
+				""
+				"This villager will buy candlelight items from you."
+				""
+				"Villager trades are also dynamic:"
+				""
+				"Villagers change their trades every time they restock/every day. This makes it so that you won't have to get rid of villagers with bad trades after having spent resources on them, and it won't be necessary to breed a large number of them either."
+			]
 			id: "60D5B5C074840CB2"
 			rewards: [{
 				id: "4DDD4A0B62E77CCA"
@@ -2220,6 +2255,17 @@
 		}
 		{
 			dependencies: ["17FA2E4902522B36"]
+			description: [
+				"You can attract a customer by putting a customer table near a minecraft villager. "
+				""
+				"Customer villagers will buy meals from you in exchange for miles tickets."
+				""
+				"This villager will buy drink items from you."
+				""
+				"Villager trades are also dynamic:"
+				""
+				"Villagers change their trades every time they restock/every day. This makes it so that you won't have to get rid of villagers with bad trades after having spent resources on them, and it won't be necessary to breed a large number of them either."
+			]
 			id: "288973CC8C58E475"
 			rewards: [{
 				id: "361538A5591586B6"
