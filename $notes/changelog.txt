@@ -1,17 +1,21 @@
 
 3.0:
+  # Farming Crossing 4 v4.0: The Fashion Update!
+  # Back up your world before this update.  There is a re-work of the quests so many of your collection quest progress will be reset upon update
   # Completely re-worked the collections quests
     - Now all collection questline have sub category completions with ticket rewards
     - Each item in the collection will have tooltips indicating which collection and sub collection they are in
     - Collecting an item (or spotting an animal) will trigger server chat messages indicating your main and sub collection progress
     - unfortunately this would reset the collection progress for all existing players
   # New villagers Bernina and Elna are moving in!
+    - Bernina and Elna's texture are made with Lyrra Madril's help! (https://www.daz3d.com/lyrra-madril)
     - Bernina will now be the villager that sells hats and Jess now will specialize in selling decorations
     - Elna will sell new clothing items for you to mix up for style!
     - The clothing items have tooltip with their regular pricing so you know when an item is on sale!
   # Major Updates:
     - Previous Customer villagers are removed and reverted back to Horticulturists from villagersPlus
     - There are now 5 Customer professions! Follow the questline to figure out how to get them!
+    - New Customer tables are also made with Lyrra Madril's help!
   # Minor Updates:
     - animal fat now purchaseable from the market
     - pumpkin can now be seared on the farmer's delight cutting board with a minecraft shear
