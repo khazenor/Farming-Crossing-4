@@ -74,7 +74,8 @@ def mileageRewardQuestContent(icon, numTickets, dependents, numRequired=0, title
 		x=x,
 		y=y,
 		dependencies=dependents,
-		numRequired=numRequired
+		numRequired=numRequired,
+		hide=False
 	)
 
 def questContent(
