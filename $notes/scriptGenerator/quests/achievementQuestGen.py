@@ -5,6 +5,7 @@ import math
 from src import const
 import os
 
+seedPrefix = 'fc4_3_'
 def genMileageRewardProgramQuests(questIdsByFilename):
 	filename = "collection_achievements"
 	random.seed(123)
@@ -45,7 +46,7 @@ def getQuestContent(questIdsByFilename):
 			action = collection[mrc.actionKey]
 			itemName = collection[mrc.nameKey] + collection[mrc.pluralKey]
 
-			seed(collection[mrc.iconKey], numRequired)
+			seed(f'{seedPrefix}{collection[mrc.iconKey]}', numRequired)
 			questContent += ftbQuest.mileageRewardQuestContent(
 				collection[mrc.iconKey],
 				ticketValue,
@@ -71,7 +72,7 @@ def getQuestContent(questIdsByFilename):
 			x += 1
 
 		# final completion quest
-		seed(collection[mrc.iconKey], -1)
+		seed(f'{seedPrefix}{collection[mrc.iconKey]}', -1)
 		questContent += ftbQuest.mileageRewardQuestContent(
 			collection[mrc.iconKey],
 			numUnpaidQuests * finalTicketValue,

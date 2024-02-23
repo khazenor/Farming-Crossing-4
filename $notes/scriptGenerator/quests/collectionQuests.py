@@ -6,7 +6,6 @@ from quests import questFunctions
 import math
 
 numQuestPerRow = 5
-
 def genQuestLines():
 	questIdsByFilename = {}
 	for questlineIdx, questline in enumerate(collectionQuestsInput.questlines):

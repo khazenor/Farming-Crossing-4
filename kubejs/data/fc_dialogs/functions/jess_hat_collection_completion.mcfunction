@@ -1,1 +1,0 @@
-tellraw @p ["",{"text":"<Jess> ","color":"aqua"},{"text":"You’ve collected every hat we have in our catalog. With that sizable collection of hats, I’m confident you will be able to make any fashion statement you desire.","color":"white"}]
