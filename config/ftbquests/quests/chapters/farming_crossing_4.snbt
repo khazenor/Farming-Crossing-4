@@ -2143,6 +2143,85 @@
 			x: 0.5d
 			y: -4.5d
 		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			description: [
+				"You can buy hats from Bernina. Make sure you place her shop block and she is able to link it as her work station."
+				""
+				"After you have bought enough unique hats, you will be able get some Miles Tickets back from the Miles Reward Program chapter"
+			]
+			icon: "simplehats:haticon"
+			id: "4D5EC74BAEAA9C3A"
+			rewards: [{
+				id: "6BA53E84B2597C7A"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: 13882323
+						Loot: "lootbags:furniture/loot_furniture"
+						Name: "Furniture Kit"
+						Type: "COMMON"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "03481ACE11489A7A"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "forge:hats"
+					}
+				}
+				title: "Any #forge:hats"
+				type: "item"
+			}]
+			title: "Buying Hats"
+			x: 4.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["4D5EC74BAEAA9C3A"]
+			icon: {
+				Count: 1b
+				id: "cosmeticarmoursmod:steampunkers_attire_f_chestplate"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "3EEF31508FB57A05"
+			rewards: [{
+				id: "05614A906753DDD2"
+				item: {
+					Count: 1b
+					id: "lootbags:loot_bag"
+					tag: {
+						Color: 13882323
+						Loot: "lootbags:furniture/loot_furniture"
+						Name: "Furniture Kit"
+						Type: "COMMON"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "17D6A0E69A6BEED1"
+				item: {
+					Count: 1b
+					id: "itemfilters:tag"
+					tag: {
+						value: "forge:clothes"
+					}
+				}
+				title: "Any #forge:clothes"
+				type: "item"
+			}]
+			title: "Buy Clothes"
+			x: 4.5d
+			y: 0.5d
+		}
 	]
 	title: "Farming Crossing 4"
 }

@@ -1281,67 +1281,67 @@ questlines = [
       { # Flat Hats
         nameKey: 'Flat Hats Completion',
         iconKey: 'kubejs:miles_ticket',
-        dependencyIdKey: '08BD5EF1DC4E8167', # Bernina moves in
+        dependencyIdKey: '4D5EC74BAEAA9C3A', # Buy a hat
         tasksKey: cqlist.hatFlat
       },
       { # Medium Hats
         nameKey: 'Medium Hats Completion',
         iconKey: 'kubejs:miles_ticket',
-        dependencyIdKey: '08BD5EF1DC4E8167', # Bernina moves in
+        dependencyIdKey: '4D5EC74BAEAA9C3A', # Buy a hat
         tasksKey: cqlist.hatMedium
       },
       { # Tall Hats
         nameKey: 'Tall Hats Completion',
         iconKey: 'kubejs:miles_ticket',
-        dependencyIdKey: '08BD5EF1DC4E8167', # Bernina moves in
+        dependencyIdKey: '4D5EC74BAEAA9C3A', # Buy a hat
         tasksKey: cqlist.hatTall
       },
       { # Face Overings
         nameKey: 'Face Overings Completion',
         iconKey: 'kubejs:miles_ticket',
-        dependencyIdKey: '08BD5EF1DC4E8167', # Bernina moves in
+        dependencyIdKey: '4D5EC74BAEAA9C3A', # Buy a hat
         tasksKey: cqlist.hatFaceCovering
       },
       { # Head Toppers
         nameKey: 'Head Toppers Completion',
         iconKey: 'kubejs:miles_ticket',
-        dependencyIdKey: '08BD5EF1DC4E8167', # Bernina moves in
+        dependencyIdKey: '4D5EC74BAEAA9C3A', # Buy a hat
         tasksKey: cqlist.hatHeadTopper
       },
       { # Disguise
         nameKey: 'Disguise Completion',
         iconKey: 'kubejs:miles_ticket',
-        dependencyIdKey: '08BD5EF1DC4E8167', # Bernina moves in
+        dependencyIdKey: '4D5EC74BAEAA9C3A', # Buy a hat
         tasksKey: cqlist.hatDisguise
       },
       { # Animal Hats
         nameKey: 'Animal Hats Completion',
         iconKey: 'kubejs:miles_ticket',
-        dependencyIdKey: '08BD5EF1DC4E8167', # Bernina moves in
+        dependencyIdKey: '4D5EC74BAEAA9C3A', # Buy a hat
         tasksKey: cqlist.hatAnimal
       },
       { # Eyewear
         nameKey: 'Eyewear Completion',
         iconKey: 'kubejs:miles_ticket',
-        dependencyIdKey: '08BD5EF1DC4E8167', # Bernina moves in
+        dependencyIdKey: '4D5EC74BAEAA9C3A', # Buy a hat
         tasksKey: cqlist.hatEyewear
       },
       { # Around the Head
         nameKey: 'Around the Head Completion',
         iconKey: 'kubejs:miles_ticket',
-        dependencyIdKey: '08BD5EF1DC4E8167', # Bernina moves in
+        dependencyIdKey: '4D5EC74BAEAA9C3A', # Buy a hat
         tasksKey: cqlist.hatAroundHead
       },
       { # Animated Details
         nameKey: 'Animated Details Completion',
         iconKey: 'kubejs:miles_ticket',
-        dependencyIdKey: '08BD5EF1DC4E8167', # Bernina moves in
+        dependencyIdKey: '4D5EC74BAEAA9C3A', # Buy a hat
         tasksKey: cqlist.hatAnimatedDetail
       },
       { # Accessories
         nameKey: 'Accessories Completion',
         iconKey: 'kubejs:miles_ticket',
-        dependencyIdKey: '08BD5EF1DC4E8167', # Bernina moves in
+        dependencyIdKey: '4D5EC74BAEAA9C3A', # Buy a hat
         tasksKey: cqlist.hatAccesories
       }
     ]
@@ -1357,127 +1357,127 @@ questlines = [
       { # Royal Outfit
         nameKey: 'Royal Outfit Completion',
         iconKey: 'cosmeticarmoursmod:royal_tunic_light_blue_chestplate',
-        dependencyIdKey: '29DA88DDFAC79F20', # Elna moves in
+        dependencyIdKey: '3EEF31508FB57A05', # Buy a cloths
         tasksKey: cqlist.cosmRoyalOutfit
       },
       { # Steampunkers
         nameKey: 'Steampunkers Completion',
         iconKey: 'cosmeticarmoursmod:steampunkers_goggles_helmet',
-        dependencyIdKey: '29DA88DDFAC79F20', # Elna moves in
+        dependencyIdKey: '3EEF31508FB57A05', # Buy a cloths
         tasksKey: cqlist.cosmSteampunkers
       },
       { # Winter Survivalist
         nameKey: 'Winter Survivalist Completion',
         iconKey: 'cosmeticarmoursmod:brown_ushanka_hat_helmet',
-        dependencyIdKey: '29DA88DDFAC79F20', # Elna moves in
+        dependencyIdKey: '3EEF31508FB57A05', # Buy a cloths
         tasksKey: cqlist.cosmWinterSurvivalist
       },
       { # Astronaut
         nameKey: 'Astronaut Completion',
         iconKey: 'cosmeticarmoursmod:astronaut_helmet',
-        dependencyIdKey: '29DA88DDFAC79F20', # Elna moves in
+        dependencyIdKey: '3EEF31508FB57A05', # Buy a cloths
         tasksKey: cqlist.cosmAstronaut
       },
       { # Centurion
         nameKey: 'Centurion Completion',
         iconKey: 'cosmeticarmoursmod:centurions_helmet_helmet',
-        dependencyIdKey: '29DA88DDFAC79F20', # Elna moves in
+        dependencyIdKey: '3EEF31508FB57A05', # Buy a cloths
         tasksKey: cqlist.cosmCenturion
       },
       { # Farmer
         nameKey: 'Farmer Completion',
         iconKey: 'cosmeticarmoursmod:straw_hat_helmet',
-        dependencyIdKey: '29DA88DDFAC79F20', # Elna moves in
+        dependencyIdKey: '3EEF31508FB57A05', # Buy a cloths
         tasksKey: cqlist.cosmFarmer
       },
       { # Fisherman
         nameKey: 'Fisherman Completion',
         iconKey: 'cosmeticarmoursmod:fishermans_bucket_hat_helmet',
-        dependencyIdKey: '29DA88DDFAC79F20', # Elna moves in
+        dependencyIdKey: '3EEF31508FB57A05', # Buy a cloths
         tasksKey: cqlist.cosmFisherman
       },
       { # Ghillie Suit
         nameKey: 'Ghillie Suit Completion',
         iconKey: 'cosmeticarmoursmod:ghillie_suit_chestplate',
-        dependencyIdKey: '29DA88DDFAC79F20', # Elna moves in
+        dependencyIdKey: '3EEF31508FB57A05', # Buy a cloths
         tasksKey: cqlist.cosmGhillieSuit
       },
       { # Mobster
         nameKey: 'Mobster Completion',
         iconKey: 'cosmeticarmoursmod:mobster_chestplate',
-        dependencyIdKey: '29DA88DDFAC79F20', # Elna moves in
+        dependencyIdKey: '3EEF31508FB57A05', # Buy a cloths
         tasksKey: cqlist.cosmMobster
       },
       { # Tops
         nameKey: 'Tops Completion',
         iconKey: 'cosmeticarmoursmod:pink_skirt_chestplate',
-        dependencyIdKey: '29DA88DDFAC79F20', # Elna moves in
+        dependencyIdKey: '3EEF31508FB57A05', # Buy a cloths
         tasksKey: cqlist.cosmTops
       },
       { # Skirts and Boots
         nameKey: 'Skirts and Boots Completion',
         iconKey: 'cosmeticarmoursmod:orange_plaid_skirt_boots',
-        dependencyIdKey: '29DA88DDFAC79F20', # Elna moves in
+        dependencyIdKey: '3EEF31508FB57A05', # Buy a cloths
         tasksKey: cqlist.cosmSkirtBoots
       },
       { # Thigh High Socks
         nameKey: 'Thigh High Socks Completion',
         iconKey: 'cosmeticarmoursmod:orange_plaid_skirt_leggings',
-        dependencyIdKey: '29DA88DDFAC79F20', # Elna moves in
+        dependencyIdKey: '3EEF31508FB57A05', # Buy a cloths
         tasksKey: cqlist.cosmThighHighSocks
       },
       { # Knight Armor
         nameKey: 'Knight Armor Completion',
         iconKey: 'cosmeticarmoursmod:red_knight_helmet_helmet',
-        dependencyIdKey: '29DA88DDFAC79F20', # Elna moves in
+        dependencyIdKey: '3EEF31508FB57A05', # Buy a cloths
         tasksKey: cqlist.cosmKnightArmors
       },
       { # Archer
         nameKey: 'Archer Completion',
         iconKey: 'cosmeticarmoursmod:red_archers_attire_chestplate',
-        dependencyIdKey: '29DA88DDFAC79F20', # Elna moves in
+        dependencyIdKey: '3EEF31508FB57A05', # Buy a cloths
         tasksKey: cqlist.cosmArchersAttire
       },
       { # Christmas
         nameKey: 'Christmas Completion',
         iconKey: 'cosmeticarmoursmod:santa_hat_helmet',
-        dependencyIdKey: '29DA88DDFAC79F20', # Elna moves in
+        dependencyIdKey: '3EEF31508FB57A05', # Buy a cloths
         tasksKey: cqlist.cosmChristmas
       },
       { # Christmas Elves
         nameKey: 'Christmas Elves Completion',
         iconKey: 'cosmeticarmoursmod:christmas_elf_hat_green_helmet',
-        dependencyIdKey: '29DA88DDFAC79F20', # Elna moves in
+        dependencyIdKey: '3EEF31508FB57A05', # Buy a cloths
         tasksKey: cqlist.cosmElves
       },
       { # Crowns
         nameKey: 'Crowns Completion',
         iconKey: 'cosmeticarmoursmod:crown_helmet',
-        dependencyIdKey: '29DA88DDFAC79F20', # Elna moves in
+        dependencyIdKey: '3EEF31508FB57A05', # Buy a cloths
         tasksKey: cqlist.cosmCrowns
       },
       { # Cat Ears
         nameKey: 'Cat Ears Completion',
         iconKey: 'cosmeticarmoursmod:cat_ears_white_helmet',
-        dependencyIdKey: '29DA88DDFAC79F20', # Elna moves in
+        dependencyIdKey: '3EEF31508FB57A05', # Buy a cloths
         tasksKey: cqlist.cosmCatEars
       },
       { # Masks
         nameKey: 'Masks Completion',
         iconKey: 'cosmeticarmoursmod:axolotl_mask_helmet',
-        dependencyIdKey: '29DA88DDFAC79F20', # Elna moves in
+        dependencyIdKey: '3EEF31508FB57A05', # Buy a cloths
         tasksKey: cqlist.cosmMasks
       },
       { # Halo
         nameKey: 'Halo Completion',
         iconKey: 'cosmeticarmoursmod:gold_halo_helmet',
-        dependencyIdKey: '29DA88DDFAC79F20', # Elna moves in
+        dependencyIdKey: '3EEF31508FB57A05', # Buy a cloths
         tasksKey: cqlist.cosmHalos
       },
       { # Misc Hats
         nameKey: 'Misc Hats Completion',
         iconKey: 'cosmeticarmoursmod:frankenstein_bolts_helmet',
-        dependencyIdKey: '29DA88DDFAC79F20', # Elna moves in
+        dependencyIdKey: '3EEF31508FB57A05', # Buy a cloths
         tasksKey: cqlist.cosmMiscHats
       }
     ]
