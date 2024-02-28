@@ -60,6 +60,21 @@ ServerEvents.recipes(event => {
     Item.of('minecraft:stone', 32),
     ['minecraft:stone', 'kubejs:miles_ticket'])
   event.shapeless(
+    Item.of('minecraft:sea_lantern', 32),
+    ['minecraft:sea_lantern', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:shroomlight', 32),
+    ['minecraft:shroomlight', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:ochre_froglight', 32),
+    ['minecraft:ochre_froglight', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:pearlescent_froglight', 32),
+    ['minecraft:pearlescent_froglight', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:verdant_froglight', 32),
+    ['minecraft:verdant_froglight', 'kubejs:miles_ticket'])
+  event.shapeless(
     Item.of('minecraft:calcite', 32),
     ['minecraft:calcite', 'kubejs:miles_ticket'])
   event.shapeless(

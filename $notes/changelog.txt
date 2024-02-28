@@ -2,6 +2,10 @@
   - Fix laly move in dialog
   - Added Quark logs to Ren's Trades. (You can update Ren's trades using the "Help Locating Ren" quest)
   - Quark mob spawn eggs now available to purchase from the market for 64 tickets each 
+  # Following blocks are available in the market and duplicable with tickets:
+    - sea_lantern, shroomlight, ochre_froglight, pearlescent_froglight, verdant_froglight
+  # Following blocks can be put in the belt slot for lighting
+    - sea_lantern, shroomlight, ochre_froglight, pearlescent_froglight, verdant_froglight, create:experience_block
 3.3:
   - Fix hat and clothing quests get blocked if player collects all quest rewards from moving in Elna or Bernina
 3.2:

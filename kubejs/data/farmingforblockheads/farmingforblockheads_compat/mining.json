@@ -87,6 +87,61 @@
     },
     {
       "output": {
+        "item": "minecraft:sea_lantern",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "mining"
+    },
+    {
+      "output": {
+        "item": "minecraft:shroomlight",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "mining"
+    },
+    {
+      "output": {
+        "item": "minecraft:ochre_froglight",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "mining"
+    },
+    {
+      "output": {
+        "item": "minecraft:pearlescent_froglight",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "mining"
+    },
+    {
+      "output": {
+        "item": "minecraft:verdant_froglight",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "mining"
+    },
+    {
+      "output": {
         "item": "quark:permafrost",
         "count": 1
       },

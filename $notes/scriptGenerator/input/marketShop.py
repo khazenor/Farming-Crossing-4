@@ -979,6 +979,11 @@ categories = {
           "minecraft:ice",
           "minecraft:blackstone",
           "minecraft:end_stone",
+          'minecraft:sea_lantern',
+          'minecraft:shroomlight',
+          'minecraft:ochre_froglight',
+          'minecraft:pearlescent_froglight',
+          'minecraft:verdant_froglight',
           # quark
           "quark:permafrost",
           "quark:permafrost",
