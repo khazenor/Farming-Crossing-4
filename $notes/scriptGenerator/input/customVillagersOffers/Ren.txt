@@ -197,6 +197,30 @@
         id: "kubejs:miles_ticket", Count: 4
       },
       sell: {
+        id: "quark:ancient_log", Count: 64
+      },
+      maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
+    }, {
+      buy: {
+        id: "kubejs:miles_ticket", Count: 4
+      },
+      sell: {
+        id: "quark:azalea_log", Count: 64
+      },
+      maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
+    }, {
+      buy: {
+        id: "kubejs:miles_ticket", Count: 4
+      },
+      sell: {
+        id: "quark:blossom_log", Count: 64
+      },
+      maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
+    }, {
+      buy: {
+        id: "kubejs:miles_ticket", Count: 4
+      },
+      sell: {
         id: "minecraft:crimson_stem", Count: 64
       },
       maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
