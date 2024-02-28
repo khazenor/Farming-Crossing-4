@@ -1,1 +1,1 @@
-tellraw @p ["",{"text":"<Laly> ","color":"aqua"},{"text":"Howdy, kiddo.  Searching for animal care supplies?  I’ve got 'em right here.","color":"white"}]
+tellraw @p ["",{"text":"<Laly> ","color":"aqua"},{"text":"Hi! Got any shiny mineral specimens?  I will buy them for a good price!","color":"white"}]

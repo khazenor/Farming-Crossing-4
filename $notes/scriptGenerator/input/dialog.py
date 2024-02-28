@@ -122,7 +122,7 @@ dialogs = [
   }, {
     nameKey: 'Laly move in',
     speakerKey: laly,
-    textsKey: ["Howdy, kiddo.  Searching for animal care supplies?  I’ve got 'em right here."],
+    textsKey: ["Hi! Got any shiny mineral specimens?  I will buy them for a good price!"],
     questIdKey: "32315F192BEB4876"
   }, {
     nameKey: 'Ren: Furniture Cutting',
