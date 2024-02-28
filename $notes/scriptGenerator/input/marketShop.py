@@ -942,7 +942,14 @@ categories = {
           "exoticbirds:skeleton_phoenix_spawn_egg",
           "exoticbirds:snowy_phoenix_spawn_egg",
           "exoticbirds:twilight_phoenix_spawn_egg",
-          "exoticbirds:water_phoenix_spawn_egg"
+          "exoticbirds:water_phoenix_spawn_egg",
+          'quark:crab_spawn_egg',
+          'quark:forgotten_spawn_egg',
+          'quark:foxhound_spawn_egg',
+          'quark:shiba_spawn_egg',
+          'quark:stoneling_spawn_egg',
+          'quark:toretoise_spawn_egg',
+          'quark:wraith_spawn_egg'
         ]
       }
     ]

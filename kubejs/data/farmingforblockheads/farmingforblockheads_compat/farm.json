@@ -3329,6 +3329,83 @@
         "count": 64
       },
       "category": "farm"
+    },
+    {
+      "output": {
+        "item": "quark:crab_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "quark:forgotten_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "quark:foxhound_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "quark:shiba_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "quark:stoneling_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "quark:toretoise_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "quark:wraith_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "farm"
     }
   ]
 }
