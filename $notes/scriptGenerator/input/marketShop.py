@@ -988,9 +988,34 @@ categories = {
           "quark:permafrost",
           "quark:permafrost",
           "quark:myalite",
+          "quark:dusky_myalite",
+          "quark:myalite_crystal",
           "quark:shale",
           "quark:jasper",
           "quark:limestone"
+        ]
+      },
+      { # Collections
+        priceKey: 64,
+        itemsKey: [
+          'quark:white_corundum',
+          'quark:white_corundum_cluster',
+          'quark:red_corundum',
+          'quark:red_corundum_cluster',
+          'quark:orange_corundum',
+          'quark:orange_corundum_cluster',
+          'quark:yellow_corundum',
+          'quark:yellow_corundum_cluster',
+          'quark:green_corundum',
+          'quark:green_corundum_cluster',
+          'quark:blue_corundum',
+          'quark:blue_corundum_cluster',
+          'quark:indigo_corundum',
+          'quark:indigo_corundum_cluster',
+          'quark:violet_corundum',
+          'quark:violet_corundum_cluster',
+          'quark:black_corundum',
+          'quark:black_corundum_cluster'
         ]
       }
     ]

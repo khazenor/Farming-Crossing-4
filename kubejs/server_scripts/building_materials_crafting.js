@@ -366,6 +366,12 @@ ServerEvents.recipes(event => {
     Item.of('quark:myalite', 32),
     ['quark:myalite', 'kubejs:miles_ticket'])
   event.shapeless(
+    Item.of('quark:dusky_myalite', 32),
+    ['quark:dusky_myalite', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('quark:myalite_crystal', 32),
+    ['quark:myalite_crystal', 'kubejs:miles_ticket'])
+  event.shapeless(
     Item.of('quark:shale', 32),
     ['quark:shale', 'kubejs:miles_ticket'])
   event.shapeless(

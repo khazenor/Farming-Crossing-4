@@ -123,6 +123,8 @@ ItemEvents.tooltip(event => {
       'quark:permafrost', 
       'quark:permafrost', 
       'quark:myalite', 
+      'quark:dusky_myalite', 
+      'quark:myalite_crystal', 
       'quark:shale', 
       'quark:jasper', 
       'quark:limestone'

@@ -175,6 +175,28 @@
     },
     {
       "output": {
+        "item": "quark:dusky_myalite",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "mining"
+    },
+    {
+      "output": {
+        "item": "quark:myalite_crystal",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "mining"
+    },
+    {
+      "output": {
         "item": "quark:shale",
         "count": 1
       },
@@ -203,6 +225,204 @@
       "payment": {
         "item": "kubejs:miles_ticket",
         "count": 32
+      },
+      "category": "mining"
+    },
+    {
+      "output": {
+        "item": "quark:white_corundum",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "mining"
+    },
+    {
+      "output": {
+        "item": "quark:white_corundum_cluster",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "mining"
+    },
+    {
+      "output": {
+        "item": "quark:red_corundum",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "mining"
+    },
+    {
+      "output": {
+        "item": "quark:red_corundum_cluster",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "mining"
+    },
+    {
+      "output": {
+        "item": "quark:orange_corundum",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "mining"
+    },
+    {
+      "output": {
+        "item": "quark:orange_corundum_cluster",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "mining"
+    },
+    {
+      "output": {
+        "item": "quark:yellow_corundum",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "mining"
+    },
+    {
+      "output": {
+        "item": "quark:yellow_corundum_cluster",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "mining"
+    },
+    {
+      "output": {
+        "item": "quark:green_corundum",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "mining"
+    },
+    {
+      "output": {
+        "item": "quark:green_corundum_cluster",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "mining"
+    },
+    {
+      "output": {
+        "item": "quark:blue_corundum",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "mining"
+    },
+    {
+      "output": {
+        "item": "quark:blue_corundum_cluster",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "mining"
+    },
+    {
+      "output": {
+        "item": "quark:indigo_corundum",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "mining"
+    },
+    {
+      "output": {
+        "item": "quark:indigo_corundum_cluster",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "mining"
+    },
+    {
+      "output": {
+        "item": "quark:violet_corundum",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "mining"
+    },
+    {
+      "output": {
+        "item": "quark:violet_corundum_cluster",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "mining"
+    },
+    {
+      "output": {
+        "item": "quark:black_corundum",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "mining"
+    },
+    {
+      "output": {
+        "item": "quark:black_corundum_cluster",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
       },
       "category": "mining"
     }
