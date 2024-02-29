@@ -41,7 +41,11 @@ def genQuestLines():
 				commandName = stringCleaning.cleanedNameStr(f'{questLineName} {questGroupName}')
 				command = f"function {questFunctions.functionParentName}:{commandName}"
 				if questType == collectionQuestsInput.itemQuestTypeConst:
-					questId = ftbQuest.randomId(taskId)
+					if taskId in collectionQuestsInput.itemSeedStrs:
+						seedStr = collectionQuestsInput.itemSeedStrs[taskId]
+					else:
+						seedStr = taskId
+					questId = ftbQuest.randomId(seedStr)
 					questsContent += ftbQuest.collectionQuestContent(
 						questId,
 						taskId,

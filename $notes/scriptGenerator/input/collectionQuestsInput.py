@@ -19,6 +19,11 @@ additionalRewardsKey = 'additionalRewards'
 questStartAtCenterKey = 'questStartAtCenter'
 
 questlineGroupId = '5326E5A8132593FA'
+
+itemSeedStrs = {
+  "vinery:knulp_wine": "vinery:king_danis_wine",
+  "vinery:lilitu_wine": "vinery:praetorian_wine"
+}
 questlines = [
   { # Animals
     filenameKey: 'animal_watching',

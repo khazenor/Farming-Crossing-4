@@ -1169,7 +1169,7 @@
 			}]
 			tasks: [{
 				id: "5F5C1A1418CE9F3C"
-				item: "vinery:king_danis_wine"
+				item: "vinery:knulp_wine"
 				type: "item"
 			}]
 			x: 5.0d
@@ -1477,7 +1477,7 @@
 			}]
 			tasks: [{
 				id: "73F1355CDCAD9EEA"
-				item: "vinery:praetorian_wine"
+				item: "vinery:lilitu_wine"
 				type: "item"
 			}]
 			x: 1.0d
@@ -1712,35 +1712,17 @@
 				}
 				{
 					id: "69609AEC8E297A81"
-					item: {
-						Count: 1b
-						id: "vinery:vinemaker_apron"
-						tag: {
-							Damage: 0
-						}
-					}
+					item: "vinery:vinemaker_apron"
 					type: "item"
 				}
 				{
 					id: "2B2EDDAEBCB8547C"
-					item: {
-						Count: 1b
-						id: "vinery:vinemaker_leggings"
-						tag: {
-							Damage: 0
-						}
-					}
+					item: "vinery:vinemaker_leggings"
 					type: "item"
 				}
 				{
 					id: "42AC7DD78D963E14"
-					item: {
-						Count: 1b
-						id: "vinery:vinemaker_boots"
-						tag: {
-							Damage: 0
-						}
-					}
+					item: "vinery:vinemaker_boots"
 					type: "item"
 				}
 			]
