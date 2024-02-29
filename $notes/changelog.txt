@@ -4,10 +4,13 @@
   - Quark mob spawn eggs now available to purchase from the market for 64 tickets each 
   - Quark corundums are now purchaseable from the market for 64 tickets
   # Following blocks are available in the market and duplicable with tickets:
-    - sea_lantern, shroomlight, ochre_froglight, pearlescent_froglight, verdant_froglight
-    - dusky_myalite, myalite_crystal
+  - sea_lantern, shroomlight, ochre_froglight, pearlescent_froglight, verdant_froglight
+  - dusky_myalite, myalite_crystal
   # Following blocks can be put in the belt slot for lighting
-    - sea_lantern, shroomlight, ochre_froglight, pearlescent_froglight, verdant_froglight, create:experience_block
+  - sea_lantern, shroomlight, ochre_froglight, pearlescent_froglight, verdant_froglight, create:experience_block
+  # Mods added:
+  - elytraslot
+  - mighty_mail
 3.3:
   - Fix hat and clothing quests get blocked if player collects all quest rewards from moving in Elna or Bernina
 3.2:

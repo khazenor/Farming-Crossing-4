@@ -720,12 +720,25 @@
 			]
 			hide: true
 			id: "1018A293CFF89B16"
-			rewards: [{
-				count: 2
-				id: "41A76CB7CD70C8AE"
-				item: "waystones:waystone"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 2
+					id: "41A76CB7CD70C8AE"
+					item: "waystones:waystone"
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "586E8331A834FBC1"
+					table_id: 570109225241589702L
+					type: "choice"
+				}
+				{
+					id: "240CFBF79AE30A98"
+					item: "mighty_mail:post_box"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "0FC159FFDED98A56"
 				item: "farmingforblockheads:market"
