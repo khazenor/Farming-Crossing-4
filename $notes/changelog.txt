@@ -1,3 +1,12 @@
+3.6:
+  # Added a suit of mods for sitting support 
+  - mods: emotecraft, player-animation, realcamera, Sitting+
+  - press f6 to toggle realistic camera
+  - press ctrl+r (or modify existing keybind for emote wheel) to have sitting animations as emotes available server side
+  - press alt+c (or modify existing keybind for sit) to sit client side (only visible to you)
+
+3.5:
+  - updated forge
 3.4:
   - Fix laly move in dialog
   - Added Quark logs to Ren's Trades. (You can update Ren's trades using the "Help Locating Ren" quest)
@@ -25,7 +34,7 @@
 3.1:
   - fix decoration quests not unlocking properly
 
-3.0:
+3.0: The Fashion Update
   # Farming Crossing 4 v4.0: The Fashion Update!
   # Back up your world before this update.  There is a re-work of the quests so many of your collection quest progress will be reset upon update
   # Completely re-worked the collections quests
@@ -75,7 +84,6 @@
   - removed TaxOceanVillager: it was generating command blocks on the server.
   - apple and cherry saplings from vinery should now be compostable
   - add spatula and plates as rewards for the cuisine delight cooking quest
-
 2.2:
   # EXPANDED STORAGE REMOVED: PLEASE BACKUP YOUR WORLD BEFORE UPDATING!!
     - Since expanded storage is no longer on curseforge, it's a lot harder to maintain in this modpack.

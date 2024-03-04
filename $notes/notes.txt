@@ -1,3 +1,8 @@
+# potentially problematic mods:
+- beachparty
+- embeddium
+- ksyxis
+- oculus
 # kubejs date:
   console.log(`test from khaz: ${new Date}`)
 

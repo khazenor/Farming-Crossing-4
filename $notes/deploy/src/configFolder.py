@@ -19,7 +19,8 @@ personalConfigs = [
 	'config\\xaeropatreon.txt',
 	'config\\xaeroworldmap.txt',
 	'config\\dynamic_lights_reforged.toml',
-	'config\\constantmusic.toml'
+	'config\\constantmusic.toml',
+	'config\\realcamera.json'
 ]
 
 configFolderName = 'config'
