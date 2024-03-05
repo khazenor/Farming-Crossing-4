@@ -582,12 +582,6 @@ ItemEvents.tooltip(event => {
       'buys this meal for 2 tickets'
     ])
   event.add(
-		'vinery:praetorian_wine',
-    [
-      'A drink customer villager regularly', 
-      'buys this meal for 2 tickets'
-    ])
-  event.add(
 		'vinery:creepers_crush',
     [
       'A drink customer villager regularly', 
@@ -661,12 +655,6 @@ ItemEvents.tooltip(event => {
     ])
   event.add(
 		'vinery:apple_wine',
-    [
-      'A drink customer villager regularly', 
-      'buys this meal for 4 tickets'
-    ])
-  event.add(
-		'vinery:king_danis_wine',
     [
       'A drink customer villager regularly', 
       'buys this meal for 4 tickets'

@@ -6005,67 +6005,67 @@ MoreJSEvents.villagerTrades((event) => {
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 1, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 2, (offer, entity, random) => {
     offer.setFirstInput('1x vinery:savanna_white_grapejuice_bottle')
     offer.setOutput('1x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 1, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 2, (offer, entity, random) => {
     offer.setFirstInput('1x vinery:savanna_white_grapejuice_bottle')
     offer.setOutput('1x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 1, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 2, (offer, entity, random) => {
     offer.setFirstInput('1x vinery:savanna_white_grapejuice_bottle')
     offer.setOutput('1x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 1, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 2, (offer, entity, random) => {
     offer.setFirstInput('1x vinery:savanna_white_grapejuice_bottle')
     offer.setOutput('1x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 1, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 2, (offer, entity, random) => {
     offer.setFirstInput('1x vinery:savanna_white_grapejuice_bottle')
     offer.setOutput('1x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 1, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 2, (offer, entity, random) => {
     offer.setFirstInput('1x vinery:savanna_white_grapejuice_bottle')
     offer.setOutput('1x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 1, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 2, (offer, entity, random) => {
     offer.setFirstInput('1x vinery:savanna_white_grapejuice_bottle')
     offer.setOutput('1x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 1, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 2, (offer, entity, random) => {
     offer.setFirstInput('1x vinery:savanna_white_grapejuice_bottle')
     offer.setOutput('1x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 1, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 2, (offer, entity, random) => {
     offer.setFirstInput('1x vinery:savanna_white_grapejuice_bottle')
     offer.setOutput('1x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 1, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 2, (offer, entity, random) => {
     offer.setFirstInput('1x vinery:savanna_white_grapejuice_bottle')
     offer.setOutput('1x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 1, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 2, (offer, entity, random) => {
     offer.setFirstInput('1x vinery:savanna_white_grapejuice_bottle')
     offer.setOutput('2x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
@@ -6397,72 +6397,6 @@ MoreJSEvents.villagerTrades((event) => {
   })
   event.addCustomTrade('spacecatcustomprofessions:drink_customer', 2, (offer, entity, random) => {
     offer.setFirstInput('1x vinery:red_wine')
-    offer.setOutput('4x kubejs:miles_ticket')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 2, (offer, entity, random) => {
-    offer.setFirstInput('1x vinery:praetorian_wine')
-    offer.setOutput('2x kubejs:miles_ticket')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 2, (offer, entity, random) => {
-    offer.setFirstInput('1x vinery:praetorian_wine')
-    offer.setOutput('2x kubejs:miles_ticket')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 2, (offer, entity, random) => {
-    offer.setFirstInput('1x vinery:praetorian_wine')
-    offer.setOutput('2x kubejs:miles_ticket')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 2, (offer, entity, random) => {
-    offer.setFirstInput('1x vinery:praetorian_wine')
-    offer.setOutput('2x kubejs:miles_ticket')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 2, (offer, entity, random) => {
-    offer.setFirstInput('1x vinery:praetorian_wine')
-    offer.setOutput('2x kubejs:miles_ticket')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 2, (offer, entity, random) => {
-    offer.setFirstInput('1x vinery:praetorian_wine')
-    offer.setOutput('2x kubejs:miles_ticket')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 2, (offer, entity, random) => {
-    offer.setFirstInput('1x vinery:praetorian_wine')
-    offer.setOutput('2x kubejs:miles_ticket')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 2, (offer, entity, random) => {
-    offer.setFirstInput('1x vinery:praetorian_wine')
-    offer.setOutput('2x kubejs:miles_ticket')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 2, (offer, entity, random) => {
-    offer.setFirstInput('1x vinery:praetorian_wine')
-    offer.setOutput('2x kubejs:miles_ticket')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 2, (offer, entity, random) => {
-    offer.setFirstInput('1x vinery:praetorian_wine')
-    offer.setOutput('2x kubejs:miles_ticket')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 2, (offer, entity, random) => {
-    offer.setFirstInput('1x vinery:praetorian_wine')
     offer.setOutput('4x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
@@ -7326,72 +7260,6 @@ MoreJSEvents.villagerTrades((event) => {
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('spacecatcustomprofessions:drink_customer', 4, (offer, entity, random) => {
-    offer.setFirstInput('1x vinery:king_danis_wine')
-    offer.setOutput('4x kubejs:miles_ticket')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 4, (offer, entity, random) => {
-    offer.setFirstInput('1x vinery:king_danis_wine')
-    offer.setOutput('4x kubejs:miles_ticket')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 4, (offer, entity, random) => {
-    offer.setFirstInput('1x vinery:king_danis_wine')
-    offer.setOutput('4x kubejs:miles_ticket')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 4, (offer, entity, random) => {
-    offer.setFirstInput('1x vinery:king_danis_wine')
-    offer.setOutput('4x kubejs:miles_ticket')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 4, (offer, entity, random) => {
-    offer.setFirstInput('1x vinery:king_danis_wine')
-    offer.setOutput('4x kubejs:miles_ticket')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 4, (offer, entity, random) => {
-    offer.setFirstInput('1x vinery:king_danis_wine')
-    offer.setOutput('4x kubejs:miles_ticket')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 4, (offer, entity, random) => {
-    offer.setFirstInput('1x vinery:king_danis_wine')
-    offer.setOutput('4x kubejs:miles_ticket')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 4, (offer, entity, random) => {
-    offer.setFirstInput('1x vinery:king_danis_wine')
-    offer.setOutput('4x kubejs:miles_ticket')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 4, (offer, entity, random) => {
-    offer.setFirstInput('1x vinery:king_danis_wine')
-    offer.setOutput('5x kubejs:miles_ticket')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 4, (offer, entity, random) => {
-    offer.setFirstInput('1x vinery:king_danis_wine')
-    offer.setOutput('5x kubejs:miles_ticket')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 4, (offer, entity, random) => {
-    offer.setFirstInput('1x vinery:king_danis_wine')
-    offer.setOutput('8x kubejs:miles_ticket')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 4, (offer, entity, random) => {
     offer.setFirstInput('1x vinery:solaris_wine')
     offer.setOutput('4x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
@@ -7457,67 +7325,67 @@ MoreJSEvents.villagerTrades((event) => {
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 5, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 4, (offer, entity, random) => {
     offer.setFirstInput('1x vinery:chorus_wine')
     offer.setOutput('4x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 5, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 4, (offer, entity, random) => {
     offer.setFirstInput('1x vinery:chorus_wine')
     offer.setOutput('4x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 5, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 4, (offer, entity, random) => {
     offer.setFirstInput('1x vinery:chorus_wine')
     offer.setOutput('4x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 5, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 4, (offer, entity, random) => {
     offer.setFirstInput('1x vinery:chorus_wine')
     offer.setOutput('4x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 5, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 4, (offer, entity, random) => {
     offer.setFirstInput('1x vinery:chorus_wine')
     offer.setOutput('4x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 5, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 4, (offer, entity, random) => {
     offer.setFirstInput('1x vinery:chorus_wine')
     offer.setOutput('4x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 5, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 4, (offer, entity, random) => {
     offer.setFirstInput('1x vinery:chorus_wine')
     offer.setOutput('4x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 5, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 4, (offer, entity, random) => {
     offer.setFirstInput('1x vinery:chorus_wine')
     offer.setOutput('4x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 5, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 4, (offer, entity, random) => {
     offer.setFirstInput('1x vinery:chorus_wine')
     offer.setOutput('5x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 5, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 4, (offer, entity, random) => {
     offer.setFirstInput('1x vinery:chorus_wine')
     offer.setOutput('5x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 5, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:drink_customer', 4, (offer, entity, random) => {
     offer.setFirstInput('1x vinery:chorus_wine')
     offer.setOutput('8x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
