@@ -129,7 +129,10 @@ categories = {
     entryGroupsKey: [
       {
         priceKey: 8,
-        itemsKey: ["minecraft:chorus_fruit"]
+        itemsKey: [
+          "minecraft:chorus_fruit",
+          "aquaculture:algae"
+        ]
       },
       { # dyes
         priceKey: 4,

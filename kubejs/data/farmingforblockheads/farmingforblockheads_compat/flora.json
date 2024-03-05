@@ -21,6 +21,17 @@
     },
     {
       "output": {
+        "item": "aquaculture:algae",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "flora"
+    },
+    {
+      "output": {
         "item": "minecraft:black_dye",
         "count": 8
       },
