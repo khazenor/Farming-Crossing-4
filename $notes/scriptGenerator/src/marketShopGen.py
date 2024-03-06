@@ -1,6 +1,8 @@
 from lib import farmingForBlockheads
 from lib import nbt
 from lib import pythonHelpers
+from lib import util
+from lib import kubejs
 from input import marketShop
 from src import const
 import json
@@ -15,6 +17,30 @@ def generateMarketShops():
 		'minecraft:enchanted_book',
 		os.path.join(const.farmingForBlockheads(), 'enchantments.json')
 	)
+	generateMarketTooltips(marketShop.categories)
+
+def generateMarketTooltips(categories):
+	itemsByPrice = {}
+	for categoryKey in categories:
+		category = categories[categoryKey]
+		for entryGroup in category[marketShop.entryGroupsKey]:
+			price = util.defaultDict(entryGroup, marketShop.priceKey, 1)
+			for itemId in entryGroup[marketShop.itemsKey]:
+				util.addToDictList(itemsByPrice, price, itemId)
+
+	tooltipContent = ""
+	for price in itemsByPrice:
+		items = itemsByPrice[price]
+		if price > 1:
+			plural = 's'
+		else:
+			plural = ''
+		tooltip = f"Obtainable for {price} ticket{plural} in the market"
+		tooltipContent += kubejs.eventAdd(items, [tooltip])
+		kubejs.writeClientFile(
+			kubejs.tooltipFileContent(tooltipContent),
+			'market_tooltips'
+		)
 
 def generateShopFromEnchantments(enchantments, category, categoryName, categoryItem, fileLocation):
 	entries = []

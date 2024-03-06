@@ -1136,6 +1136,37 @@
 			x: 2.5d
 			y: 2.5d
 		}
+		{
+			description: [
+				"To make an easy mob farm:"
+				""
+				"- Buy a Netherite lasso from the market for 50 tickets"
+				"- Capture a mob using the lasso by right clicking it (it might take a few tries)"
+				"- Buy a Netherite farm from the market for 50 tickets (doesn't matter which kind it is)"
+				"- Put the Catured mob lasso into the farm to farm the mob drops."
+				""
+				""
+				"Killed by Player Loot Drops:"
+				""
+				"- The killed_by_player loot drops will be only considered if an weapon (sword), is placed in the weapon slot. The item will be consumed by each drop, but it will also increase the loot luck by 20%."
+				""
+				""
+				"Collect Experience"
+				""
+				"- Experience could be collected by placing a empty bottle or experience bottle into the experience slot. The experience will be generated randomly, so not on each drop."
+			]
+			icon: "easy_mob_farm:gold_desert_farm"
+			id: "7490729ED7FA8ADC"
+			tasks: [{
+				advancement: "minecraft:adventure/kill_a_mob"
+				criterion: ""
+				id: "75FE3EB699DA2C5F"
+				type: "advancement"
+			}]
+			title: "Easy Mob Farms"
+			x: 2.5d
+			y: 3.5d
+		}
 	]
 	title: "Getting Started / FAQ's"
 }

@@ -120,6 +120,20 @@ categories = {
           "handcrafted:white_cushion",
           "handcrafted:yellow_cushion" 
         ]
+      },
+      { # Easy mob farm
+        priceKey: 50,
+        itemsKey: [
+          'easy_mob_farm:netherite_animal_plains_farm',
+          'easy_mob_farm:netherite_bee_hive_farm',
+          'easy_mob_farm:netherite_desert_farm',
+          'easy_mob_farm:netherite_jungle_farm',
+          'easy_mob_farm:netherite_monster_plains_cave_farm',
+          'easy_mob_farm:netherite_nether_fortress_farm',
+          'easy_mob_farm:netherite_ocean_farm',
+          'easy_mob_farm:netherite_swamp_farm',
+          'easy_mob_farm:netherite_lasso'
+        ]
       }
     ]
   },
