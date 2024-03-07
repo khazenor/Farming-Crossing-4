@@ -1,0 +1,37 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "pamhc2trees:pampecan"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "pamhc2trees:pampecan"
+  },
+  "categories": [
+    "dirt",
+    "farmland"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "type": "botanypots:aging",
+    "block": "pamhc2trees:pecan_sapling"
+  },
+  "drops": [
+    {
+      "chance": 1.0,
+      "output": {
+        "item": "pamhc2trees:pecan_sapling"
+      }
+    },
+    {
+      "chance": 0.01,
+      "output": {
+        "item": "pamhc2trees:pampecan"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "pamhc2trees:pamfig"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "pamhc2trees:pamfig"
+  },
+  "categories": [
+    "dirt",
+    "farmland"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "type": "botanypots:aging",
+    "block": "pamhc2trees:fig_sapling"
+  },
+  "drops": [
+    {
+      "chance": 1.0,
+      "output": {
+        "item": "pamhc2trees:fig_sapling"
+      }
+    },
+    {
+      "chance": 0.01,
+      "output": {
+        "item": "pamhc2trees:pamfig"
+      }
+    }
+  ]
+}
