@@ -10,8 +10,10 @@ from src import musicDiscs
 from src import clothesVillagerSell
 from src import hatVillagerSell
 from src import foodProfessionTrades
+from src import botanyPotSeedSupport
 
 if __name__ == "__main__":
+	botanyPotSeedSupport.genBotanySeedSupport()
 	foodProfessionTrades.genFoodProfessionTrades()
 	hatVillagerSell.genHatVillagerTrades()
 	clothesVillagerSell.genClotheVillagerTrades()

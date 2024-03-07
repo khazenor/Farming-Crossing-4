@@ -1,0 +1,37 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "vinery:savanna_grape_seeds_red"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "vinery:savanna_grape_seeds_red"
+  },
+  "categories": [
+    "dirt",
+    "farmland"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "type": "botanypots:aging",
+    "block": "vinery:savanna_grape_bush_red"
+  },
+  "drops": [
+    {
+      "chance": 1.0,
+      "output": {
+        "item": "vinery:savanna_grapes_red"
+      }
+    },
+    {
+      "chance": 0.01,
+      "output": {
+        "item": "vinery:savanna_grape_seeds_red"
+      }
+    }
+  ]
+}

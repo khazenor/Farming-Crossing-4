@@ -1,0 +1,37 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "nethervinery:crimson_grape_seeds"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "nethervinery:crimson_grape_seeds"
+  },
+  "categories": [
+    "dirt",
+    "farmland"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "type": "botanypots:aging",
+    "block": "nethervinery:crimson_grape_bush"
+  },
+  "drops": [
+    {
+      "chance": 1.0,
+      "output": {
+        "item": "nethervinery:crimson_grape"
+      }
+    },
+    {
+      "chance": 0.01,
+      "output": {
+        "item": "nethervinery:crimson_grape_seeds"
+      }
+    }
+  ]
+}

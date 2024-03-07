@@ -1,11 +1,16 @@
-# 3.6:
+# 3.7
+## Added botany pots
+- Added support for let's do cooking mod crops
+- Added BotanyPotsTiers for ability to upgrade pots for better efficiency.
+
+# 3.6: sitting/easy farm
 ## Added a suit of mods for sitting support 
 - mods: emotecraft, player-animation, realcamera, Sitting+
 - press f6 to toggle realistic camera
 - press ctrl+r (or modify existing keybind for emote wheel) to have sitting animations as emotes available server side
 - press alt+c (or modify existing keybind for sit) to sit client side (only visible to you)
 ## Added Easy Mob Farm
-- Added a tutorial quest "Getting Started/FAG's -> Easy Mob Farms" explaining how to set simple mob farms up
+- Added a tutorial quest "Getting Started/FAQ's -> Easy Mob Farms" explaining how to set simple mob farms up
 - Buy a netherite lasso in the market for 50 tickets to capture a mob
 - Put the lasso in the netherite from (also 50 tickets) to farm mob drops
 ## Minor changes

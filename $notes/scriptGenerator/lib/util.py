@@ -1,4 +1,4 @@
-
+import os
 def invertDict(parentToChild):
 	childToParent = {}
 	for parent in parentToChild:

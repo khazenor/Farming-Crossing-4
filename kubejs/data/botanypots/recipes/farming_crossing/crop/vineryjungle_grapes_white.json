@@ -1,0 +1,37 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "vinery:jungle_grape_seeds_white"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "vinery:jungle_grape_seeds_white"
+  },
+  "categories": [
+    "dirt",
+    "farmland"
+  ],
+  "growthTicks": 1200,
+  "display": {
+    "type": "botanypots:aging",
+    "block": "vinery:jungle_grape_bush_white"
+  },
+  "drops": [
+    {
+      "chance": 1.0,
+      "output": {
+        "item": "vinery:jungle_grapes_white"
+      }
+    },
+    {
+      "chance": 0.01,
+      "output": {
+        "item": "vinery:jungle_grape_seeds_white"
+      }
+    }
+  ]
+}
