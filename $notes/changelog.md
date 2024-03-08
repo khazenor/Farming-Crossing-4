@@ -1,5 +1,7 @@
 # 3.8:
 - Brimstone now duplicable with tickets
+- Fix Yukkie move in quest
+
 # 3.7: Botany Bots
 ## Added botany pots
 - Added support for let's do cooking mod crops
