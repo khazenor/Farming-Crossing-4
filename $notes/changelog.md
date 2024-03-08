@@ -3,7 +3,7 @@
 - Added support for let's do cooking mod crops
 - Added BotanyPotsTiers for ability to upgrade pots for better efficiency.
 - Added support for PamHC2Trees saplings producing fruits in pots
-## Upadated Mods:
+## Updated Mods:
 - alexsmobs
 - charmofundying
 - Delightful
