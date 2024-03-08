@@ -1,3 +1,5 @@
+# 3.8:
+- Brimstone now duplicable with tickets
 # 3.7: Botany Bots
 ## Added botany pots
 - Added support for let's do cooking mod crops

@@ -46,6 +46,7 @@ buildingMaterials = [
     "biomesoplenty:orange_sand",
     "biomesoplenty:black_sandstone",
     "biomesoplenty:black_sand",
+    "biomesoplenty:brimstone",
 
     # terracotta and concrete
     "minecraft:black_terracotta",

@@ -126,6 +126,9 @@ ServerEvents.recipes(event => {
     Item.of('biomesoplenty:black_sand', 32),
     ['biomesoplenty:black_sand', 'kubejs:miles_ticket'])
   event.shapeless(
+    Item.of('biomesoplenty:brimstone', 32),
+    ['biomesoplenty:brimstone', 'kubejs:miles_ticket'])
+  event.shapeless(
     Item.of('minecraft:black_terracotta', 32),
     ['minecraft:black_terracotta', 'kubejs:miles_ticket'])
   event.shapeless(
