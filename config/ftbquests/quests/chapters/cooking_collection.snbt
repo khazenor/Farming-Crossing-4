@@ -1712,17 +1712,35 @@
 				}
 				{
 					id: "69609AEC8E297A81"
-					item: "vinery:vinemaker_apron"
+					item: {
+						Count: 1b
+						id: "vinery:winemaker_apron"
+						tag: {
+							Damage: 0
+						}
+					}
 					type: "item"
 				}
 				{
 					id: "2B2EDDAEBCB8547C"
-					item: "vinery:vinemaker_leggings"
+					item: {
+						Count: 1b
+						id: "vinery:winemaker_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
 					type: "item"
 				}
 				{
 					id: "42AC7DD78D963E14"
-					item: "vinery:vinemaker_boots"
+					item: {
+						Count: 1b
+						id: "vinery:winemaker_boots"
+						tag: {
+							Damage: 0
+						}
+					}
 					type: "item"
 				}
 			]

@@ -1,3 +1,6 @@
+# 3.10:
+- fix missing ids from cooking collection and main questline
+
 # 3.9:
 - Fix infinite ticket cod/salmon exploit  
 # 3.8:

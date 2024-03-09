@@ -106,9 +106,9 @@ foodGrapevinePot = [
 ]
 outfitVinemaker = [
   'vinery:straw_hat',
-  'vinery:vinemaker_apron',
-  'vinery:vinemaker_leggings',
-  'vinery:vinemaker_boots'
+  'vinery:winemaker_apron',
+  'vinery:winemaker_leggings',
+  'vinery:winemaker_boots'
 ]
 foodAgingBarrel = [
   'vinery:apple_juice',
