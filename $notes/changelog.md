@@ -1,3 +1,5 @@
+# 3.9:
+- Fix infinite ticket cod/salmon exploit  
 # 3.8:
 - Brimstone now duplicable with tickets
 - Fix Yukkie move in quest

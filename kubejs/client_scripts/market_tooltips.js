@@ -600,11 +600,9 @@ ItemEvents.tooltip(event => {
     [
       'minecraft:beef', 
       'minecraft:chicken', 
-      'minecraft:cod', 
       'minecraft:mutton', 
       'minecraft:porkchop', 
       'minecraft:rabbit', 
-      'minecraft:salmon', 
       'alexsmobs:kangaroo_meat', 
       'alexsmobs:moose_ribs', 
       'alexsmobs:raw_catfish', 

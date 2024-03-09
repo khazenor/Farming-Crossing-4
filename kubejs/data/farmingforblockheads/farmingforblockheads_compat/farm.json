@@ -87,17 +87,6 @@
     },
     {
       "output": {
-        "item": "minecraft:cod",
-        "count": 8
-      },
-      "payment": {
-        "item": "kubejs:miles_ticket",
-        "count": 2
-      },
-      "category": "farm"
-    },
-    {
-      "output": {
         "item": "minecraft:mutton",
         "count": 8
       },
@@ -121,17 +110,6 @@
     {
       "output": {
         "item": "minecraft:rabbit",
-        "count": 8
-      },
-      "payment": {
-        "item": "kubejs:miles_ticket",
-        "count": 2
-      },
-      "category": "farm"
-    },
-    {
-      "output": {
-        "item": "minecraft:salmon",
         "count": 8
       },
       "payment": {
