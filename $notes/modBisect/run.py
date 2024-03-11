@@ -11,7 +11,7 @@ if __name__ == "__main__":
 		if not os.path.exists(backupFolder + backupStr):
 			os.rename(backupFolder, backupFolder+backupStr)
 
-	modBisect.modBisect(['InventoryProfilesNext'])
+	modBisect.modBisect([])
 
 	print('restore config folders...')
 	for backupFolder in config.backupFolders:

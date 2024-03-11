@@ -1,3 +1,6 @@
+# 3.12:
+- removed sitting+ mod since it was causing an issue with right clicking slabs.  You can still trigger sitting animations by setting them in the emote wheel from the emotecraft mod.
+- 
 # 3.11:
 - Added RSInfinityBooster to allow access to Refine storage systems anywhere in the world
 - Added zinc plate compatibility between Create Deco and Create Additions
