@@ -1,5 +1,6 @@
 # 3.11:
 - Added RSInfinityBooster to allow access to Refine storage systems anywhere in the world
+- Added zinc plate compatibility between Create Deco and Create Additions
 # 3.10:
 - fix missing ids from cooking collection and main questline
 
