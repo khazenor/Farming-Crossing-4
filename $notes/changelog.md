@@ -1,3 +1,5 @@
+# 3.11:
+- Added RSInfinityBooster to allow access to Refine storage systems anywhere in the world
 # 3.10:
 - fix missing ids from cooking collection and main questline
 
