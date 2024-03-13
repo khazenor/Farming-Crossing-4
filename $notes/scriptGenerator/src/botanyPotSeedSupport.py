@@ -12,8 +12,8 @@ seedSupports = [
 	},
 	{
 		seedKey: 'bakery:oat_seeds',
-		cropKey: 'bakery:oat_crop',
-		blockKey: 'bakery:oat'
+		cropKey: 'bakery:oat',
+		blockKey: 'bakery:oat_crop'
 	},
 	{
 		seedKey: 'bakery:strawberry_seeds',

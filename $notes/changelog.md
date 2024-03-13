@@ -1,6 +1,11 @@
+# 3.13:
+- Change custom villager model texture pack from one I designed to the Farming Crossing 4 Texture pack designed by lackeygirlmoon. As a result of this, some villagers are going to have different textures after this update
+- Fix bakery oats not being able to be planted in botany pots
 # 3.12:
-- removed sitting+ mod since it was causing an issue with right clicking slabs.  You can still trigger sitting animations by setting them in the emote wheel from the emotecraft mod.
-- 
+## Removed sitting+ mod:
+- It was causing an issue with right clicking slabs.
+- You can still trigger sitting animations by setting them in the emote wheel from the emotecraft mod.
+
 # 3.11:
 - Added RSInfinityBooster to allow access to Refine storage systems anywhere in the world
 - Added zinc plate compatibility between Create Deco and Create Additions
