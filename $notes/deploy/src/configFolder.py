@@ -18,6 +18,9 @@ personalConfigs = [
 	'config\\xaerominimap.txt',
 	'config\\xaeropatreon.txt',
 	'config\\xaeroworldmap.txt',
+	'config\\xaerominimap_entities.json',
+	'config\\xaerominimap-common.txt',
+	'config\\xaeroworldmap-common.txt',
 	'config\\dynamic_lights_reforged.toml',
 	'config\\constantmusic.toml',
 	'config\\realcamera.json'
