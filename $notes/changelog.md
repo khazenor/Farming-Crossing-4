@@ -4,6 +4,10 @@
 - As a result of this, some villagers are going to have different textures after this update
 ## Other Fixes
 - Fix bakery oats not being able to be planted in botany pots
+## Updated Mods:
+- sophisticatedbackpacks
+- sophisticatedcore
+- sophisticatedstorage
 # 3.12:
 ## Removed sitting+ mod:
 - It was causing an issue with right clicking slabs.
