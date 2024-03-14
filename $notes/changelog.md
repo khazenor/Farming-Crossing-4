@@ -1,3 +1,5 @@
+# 3.14:
+- The market now sells rabbit's foot 
 # 3.13:
 ## Change custom villager model texture pack from one I designed to the Farming Crossing 4 Texture pack designed by lackeygirlmoon.
 - Many mobs other than just villagers are also reskinned to be animals to match the Animal Crossing flavor.

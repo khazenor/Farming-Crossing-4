@@ -619,6 +619,7 @@ ItemEvents.tooltip(event => {
       'alexsdelight:raw_bunfungus', 
       'farmersdelight:ham', 
       'delightful:animal_fat', 
+      'minecraft:rabbit_foot', 
       'minecraft:feather', 
       'minecraft:string'
     ],

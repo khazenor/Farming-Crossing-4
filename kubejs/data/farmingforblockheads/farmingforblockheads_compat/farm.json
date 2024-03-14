@@ -296,6 +296,17 @@
     },
     {
       "output": {
+        "item": "minecraft:rabbit_foot",
+        "count": 8
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 2
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
         "item": "minecraft:arrow",
         "count": 4
       },

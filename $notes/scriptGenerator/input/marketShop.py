@@ -677,7 +677,8 @@ categories = {
           "alexsdelight:raw_bison",
           "alexsdelight:raw_bunfungus",
           "farmersdelight:ham",
-          "delightful:animal_fat"
+          "delightful:animal_fat",
+          "minecraft:rabbit_foot"
         ]
       },
       { # minecraft:arrow
