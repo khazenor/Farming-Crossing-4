@@ -1,5 +1,8 @@
 # 3.13:
-- Change custom villager model texture pack from one I designed to the Farming Crossing 4 Texture pack designed by lackeygirlmoon. As a result of this, some villagers are going to have different textures after this update
+## Change custom villager model texture pack from one I designed to the Farming Crossing 4 Texture pack designed by lackeygirlmoon.
+- Many mobs other than just villagers are also reskinned to be animals to match the Animal Crossing flavor.
+- As a result of this, some villagers are going to have different textures after this update
+## Other Fixes
 - Fix bakery oats not being able to be planted in botany pots
 # 3.12:
 ## Removed sitting+ mod:
