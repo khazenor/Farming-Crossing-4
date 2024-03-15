@@ -137,7 +137,7 @@ dialogs = [
   }, {
     nameKey: 'Ren moves in',
     speakerKey: ren,
-    textsKey: ['Very good.  Making furniture?  Here is wood for sale.'],
+    textsKey: ['Very good.  Here is furniture for sale.'],
     questIdKey: "468E43123E8DB4F9"
   }, {
     nameKey: 'Sam Introduction',
@@ -177,7 +177,7 @@ dialogs = [
   }, {
     nameKey: 'Yukkie moves in',
     speakerKey: yukkie,
-    textsKey: ['I’M HERE!  Please sell me your FRUIT!  I LOVE FRUIT!'],
+    textsKey: ['I’M HERE!  Please sell me your FRUIT DISHES!  I LOVE FRUIT!'],
     questIdKey: "78BB8E151802329C"
   }, {
     nameKey: 'Laly Museum Completion',
