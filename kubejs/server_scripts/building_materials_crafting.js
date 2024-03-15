@@ -503,5 +503,80 @@ ServerEvents.recipes(event => {
   event.shapeless(
     Item.of('vinery:grapevine_leaves', 32),
     ['vinery:grapevine_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('beachparty:palm_log', 32),
+    ['beachparty:palm_log', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('biomesoplenty:dead_log', 32),
+    ['biomesoplenty:dead_log', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('biomesoplenty:fir_log', 32),
+    ['biomesoplenty:fir_log', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('biomesoplenty:hellbark_log', 32),
+    ['biomesoplenty:hellbark_log', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('biomesoplenty:jacaranda_log', 32),
+    ['biomesoplenty:jacaranda_log', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('biomesoplenty:magic_log', 32),
+    ['biomesoplenty:magic_log', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('biomesoplenty:mahogany_log', 32),
+    ['biomesoplenty:mahogany_log', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('biomesoplenty:palm_log', 32),
+    ['biomesoplenty:palm_log', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('biomesoplenty:redwood_log', 32),
+    ['biomesoplenty:redwood_log', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('biomesoplenty:umbran_log', 32),
+    ['biomesoplenty:umbran_log', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('biomesoplenty:willow_log', 32),
+    ['biomesoplenty:willow_log', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('meadow:pine_log', 32),
+    ['meadow:pine_log', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:acacia_log', 32),
+    ['minecraft:acacia_log', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:birch_log', 32),
+    ['minecraft:birch_log', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:cherry_log', 32),
+    ['minecraft:cherry_log', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:dark_oak_log', 32),
+    ['minecraft:dark_oak_log', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:jungle_log', 32),
+    ['minecraft:jungle_log', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:mangrove_log', 32),
+    ['minecraft:mangrove_log', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:oak_log', 32),
+    ['minecraft:oak_log', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:spruce_log', 32),
+    ['minecraft:spruce_log', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('quark:ancient_log', 32),
+    ['quark:ancient_log', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('quark:azalea_log', 32),
+    ['quark:azalea_log', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('quark:blossom_log', 32),
+    ['quark:blossom_log', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('vinery:apple_log', 32),
+    ['vinery:apple_log', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('vinery:cherry_log', 32),
+    ['vinery:cherry_log', 'kubejs:miles_ticket'])
 
 })

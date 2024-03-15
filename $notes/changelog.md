@@ -2,11 +2,11 @@
 - The market now sells rabbit's foot 
 - Switch out colorfulhearts mod for OverflowingBars to help people parse out how many rows of hearts they have easier.
 - Disabled hat bags from mob drops. (They are making easy mob farms overflow)
-- Most leaf blocks are now duplicable with tickets in the crafting table.
-- Ren now sells a stack of any logs for 2 tickets instead of 4 (use the locate and update quests to update his trades)
-- Removed old meadow logs that no longer work from Ren's shop
 - Disable mobs that produces fishes from easy mob farms
 - Easy mob farms now cost more tickets from the market
+## New blocks duplicable with tickets in the crafting table
+- All Logs
+- All Leaves blocks
 ## Farming Crossing NPC Villager Trade Updates
 - All times bought and sold by villagers now have tooltips indicating that
 - Pamela no longer sells the chef outfit

@@ -180,5 +180,32 @@ buildingMaterials = [
     "quark:yellow_blossom_leaves",
     "vinery:apple_leaves",
     "vinery:cherry_leaves",
-    "vinery:grapevine_leaves"
+    "vinery:grapevine_leaves",
+
+    # logs
+    'beachparty:palm_log',
+    'biomesoplenty:dead_log',
+    'biomesoplenty:fir_log',
+    'biomesoplenty:hellbark_log',
+    'biomesoplenty:jacaranda_log',
+    'biomesoplenty:magic_log',
+    'biomesoplenty:mahogany_log',
+    'biomesoplenty:palm_log',
+    'biomesoplenty:redwood_log',
+    'biomesoplenty:umbran_log',
+    'biomesoplenty:willow_log',
+    'meadow:pine_log',
+    'minecraft:acacia_log',
+    'minecraft:birch_log',
+    'minecraft:cherry_log',
+    'minecraft:dark_oak_log',
+    'minecraft:jungle_log',
+    'minecraft:mangrove_log',
+    'minecraft:oak_log',
+    'minecraft:spruce_log',
+    'quark:ancient_log',
+    'quark:azalea_log',
+    'quark:blossom_log',
+    'vinery:apple_log',
+    'vinery:cherry_log'
 ]
