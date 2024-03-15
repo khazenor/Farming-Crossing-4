@@ -4,6 +4,7 @@
 - Disabled hat bags from mob drops
 - Most leaf blocks are now duplicable with tickets in the crafting table.
 - Ren now sells a stack of any logs for 2 tickets instead of 4 (use the locate and update quests to update his trades)
+- Removed old meadow logs that no longer work from Ren's shop
 # 3.13:
 ## Change custom villager model texture pack from one I designed to the Farming Crossing 4 Texture pack designed by lackeygirlmoon.
 - Many mobs other than just villagers are also reskinned to be animals to match the Animal Crossing flavor.

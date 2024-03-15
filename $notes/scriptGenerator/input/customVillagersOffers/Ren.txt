@@ -93,22 +93,6 @@
         id: "kubejs:miles_ticket", Count: 2
       },
       sell: {
-        id: "meadow:alpine_birch_log", Count: 64
-      },
-      maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
-    }, {
-      buy: {
-        id: "kubejs:miles_ticket", Count: 2
-      },
-      sell: {
-        id: "meadow:alpine_oak_log", Count: 64
-      },
-      maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
-    }, {
-      buy: {
-        id: "kubejs:miles_ticket", Count: 2
-      },
-      sell: {
         id: "meadow:pine_log", Count: 64
       },
       maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0, demand: 0, rewardExp: 0
