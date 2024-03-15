@@ -1,5 +1,6 @@
 # 3.14:
 - The market now sells rabbit's foot 
+- switch out colorfulhearts mod for OverflowingBars to help people parse out how many rows of hearts they have easier.
 # 3.13:
 ## Change custom villager model texture pack from one I designed to the Farming Crossing 4 Texture pack designed by lackeygirlmoon.
 - Many mobs other than just villagers are also reskinned to be animals to match the Animal Crossing flavor.
