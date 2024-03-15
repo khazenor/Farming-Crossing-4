@@ -1,98 +1,107 @@
+from lib import sslNpc
+from input import fcVillagersInput as vil
 from lib import mcfunction
-import os
-nameKey = 'name'
-textureKey = 'texture'
-
-villagersWithTrades = [
-	{nameKey: 'Andre', textureKey: 'dog'},
-	{nameKey: 'Laly', textureKey: 'merekat'},
-	{nameKey: 'Pamela', textureKey: 'rabbit'},
-	{nameKey: 'Ren', textureKey: 'woodpecker'},
-	{nameKey: 'Sam', textureKey: 'eagle'},
-	{nameKey: 'Yukkie', textureKey: 'bat'}
-]
-
-otherVillagers = [
-	{nameKey: 'Jess', textureKey: 'beaver'},
-	{nameKey: 'Bernina', textureKey: 'hedgehog'},
-	{nameKey: 'Elna', textureKey: 'hedgehog2'}
-]
-
-def offerFolder():
-	return os.path.join('input', 'customVillagersOffers')
+from lib import util
+from src import const
+from lib import kubejs
 
 def deployFunctions():
-	writeSummonCommands()
-	writeHighlightCommands()
-	writeTradeUpdateCommands()
+	for villager in vil.villagers:
+		writeSummonCommand(villager)
+		writeHighlightCommand(villager)
+		if villager[vil.hasTradesKey]:
+			writeHighlightAndUpdateTradeCommand(villager)
+			writeTradeTooltips(villager)
 
-def writeSummonCommands():
-	for villager in villagersWithTrades:
-		name = villager[nameKey]
-		mcfunction.writeFunction(
-			'fc_villagers',
+def writeSummonCommand(villager):
+	name = villager[vil.nameKey]
+	mcfunction.writeFunction(
+		'fc_villagers',
+		name,
+		sslNpc.summonNpcCommand(
+			villager[vil.textureKey],
 			name,
-			summonNpcCommand(
-				villager[textureKey],
-				name,
-				offerStr=readOffer(name)
-			)
+			getVillagerOffers(villager),
+			villager[vil.hasTradesKey]
 		)
-	for villager in otherVillagers:
-		name = villager[nameKey]
-		mcfunction.writeFunction(
-			'fc_villagers',
-			name,
-			summonNpcCommand(
-				villager[textureKey],
-				name
-			)
+	)
+
+def writeHighlightCommand(villager):
+	name = villager[vil.nameKey]
+	mcfunction.writeFunction(
+		'fc_villagers',
+		f'{name}_highlight',
+		sslNpc.highlightNpcCommand(name)
+	)
+
+def writeHighlightAndUpdateTradeCommand(villager):
+	name = villager[vil.nameKey]
+	mcfunction.writeFunction(
+		'fc_villagers',
+		f'{name}_highlight_and_update_trades',
+		sslNpc.highlightNpcCommand(name) +
+		sslNpc.updateNpcCommand(name, getVillagerOffers(villager))
+	)
+
+def writeTradeTooltips(villager):
+	buyFromVillager = []
+	sellToVillager = []
+	getFromVillager = []
+	for offer in getVillagerOffers(villager):
+		if offer[sslNpc.playerGiveKey] == const.priceItem:
+			buyFromVillager.append(offer[sslNpc.villagerItemKey])
+		elif offer[sslNpc.villagerItemKey] == const.priceItem:
+			sellToVillager.append(offer[sslNpc.playerGiveKey])
+		else:
+			getFromVillager.append(offer[sslNpc.villagerItemKey])
+
+	name = villager[vil.nameKey]
+	tooltipContent = ""
+	if len(buyFromVillager) > 0:
+		tooltipContent += kubejs.eventAdd(
+			buyFromVillager,
+			[f'You can buy this item from {name}']
+		)
+	if len(sellToVillager) > 0:
+		tooltipContent += kubejs.eventAdd(
+			sellToVillager,
+			[f'You can sell this item to {name}']
+		)
+	if len(getFromVillager) > 0:
+		tooltipContent += kubejs.eventAdd(
+			getFromVillager,
+			[f'You can get this item from {name}']
+		)
+	if len(tooltipContent) > 0:
+		kubejs.writeClientFile(
+			kubejs.tooltipFileContent(tooltipContent),
+			'fc_villager_trades_tooltips'
 		)
 
-def summonNpcCommand(texture, name, offerStr=""):
-	outStr = ""
-	outStr += 'summon ssls_npc_maker_mod:npc ~ ~ ~ {'
-	outStr += f'texture_name: "{texture}",'
-	outStr += f'CustomName: "{{\\"text\\":\\"{name}\\"}}"'
-	if offerStr != "":
-		outStr += f',Offers: '
-		outStr += offerStr
-		outStr += ',VillagerData: { profession: "minecraft:nitwit", level: 5, type: "minecraft:plains" }'
-	outStr += "}"
-	return outStr
 
-def writeHighlightCommands():
-	for villager in villagersWithTrades + otherVillagers:
-		name = villager[nameKey]
-		mcfunction.writeFunction('fc_villagers', f'{name}_highlight', highlightVillagerCommand(name))
-
-def writeTradeUpdateCommands():
-	for villager in villagersWithTrades:
-		name = villager[nameKey]
-		mcfunction.writeFunction(
-			'fc_villagers',
-			f'{name}_update_trades',
-			highlightVillagerCommand(name) + "\n" +
-			tradeUpdateCommand(name)
-		)
-
-
-def highlightVillagerCommand(name, time=30):
-	outStr = f'execute at @p if entity {nearestVillagerSelector(name)} '
-	outStr += f'run effect give {nearestVillagerSelector(name)} minecraft:glowing {time} 1 true'
-	return outStr
-
-def tradeUpdateCommand(name):
-	return f'data modify entity {nearestVillagerSelector(name)} Offers set value {readOffer(name)}'
-
-def nearestVillagerSelector(name):
-	return f'@e[type=ssls_npc_maker_mod:npc, name={name}, sort=nearest, limit=1]'
-def readOffer(name):
-	offerStr = ""
-	with open(os.path.join(offerFolder(), f"{name}.txt"), 'r') as f:
-		fileContent = f.read()
-		for line in fileContent.split("\n"):
-			offerStr += line.strip()
-	return offerStr
-
-
+def getVillagerOffers(villager):
+	if villager[vil.hasTradesKey]:
+		offers = []
+		for smartTrade in villager[vil.tradesKey]:
+			for villagerGiveItem in smartTrade[vil.villagerGiveItemsKey]:
+				offers.append({
+					sslNpc.villagerItemKey: villagerGiveItem,
+					sslNpc.villagerQtyKey: util.defaultDict(
+						smartTrade,
+						vil.villagerGiveNumKey,
+						1
+					),
+					sslNpc.playerGiveKey: util.defaultDict(
+						smartTrade,
+						vil.playerGiveItemKey,
+						const.priceItem
+					),
+					sslNpc.playerQtyKey: util.defaultDict(
+						smartTrade,
+						vil.playerGiveNumKey,
+						1
+					)
+				})
+		return offers
+	else:
+		return []

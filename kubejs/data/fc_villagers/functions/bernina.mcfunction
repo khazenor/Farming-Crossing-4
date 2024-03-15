@@ -1,1 +1,0 @@
-summon ssls_npc_maker_mod:npc ~ ~ ~ {texture_name: "hedgehog",CustomName: "{\"text\":\"Bernina\"}"}

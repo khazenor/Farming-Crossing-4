@@ -29,3 +29,9 @@ def initScoreBoard(title):
 
 def textJson(text):
 	return f'{{"text":"{text}"}}'
+
+def textJsonEscaped(text):
+	return textJson(text).replace('"', '\\"')
+
+def summonEntity(entityType, entityData=""):
+	return f'summon {entityType} ~ ~ ~ {entityData}'
