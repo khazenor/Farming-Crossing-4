@@ -1,7 +1,7 @@
 # 3.14:
 - The market now sells rabbit's foot 
 - Switch out colorfulhearts mod for OverflowingBars to help people parse out how many rows of hearts they have easier.
-- Disabled hat bags from mob drops
+- Disabled hat bags from mob drops. (They are making easy mob farms overflow)
 - Most leaf blocks are now duplicable with tickets in the crafting table.
 - Ren now sells a stack of any logs for 2 tickets instead of 4 (use the locate and update quests to update his trades)
 - Removed old meadow logs that no longer work from Ren's shop
