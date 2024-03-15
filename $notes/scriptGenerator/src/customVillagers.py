@@ -9,7 +9,7 @@ def deployFunctions():
 	for villager in vil.villagers:
 		writeSummonCommand(villager)
 		writeHighlightCommand(villager)
-		if villager[vil.hasTradesKey]:
+		if hasTrades(villager):
 			writeHighlightAndUpdateTradeCommand(villager)
 			writeTradeTooltips(villager)
 
@@ -22,7 +22,7 @@ def writeSummonCommand(villager):
 			villager[vil.textureKey],
 			name,
 			getVillagerOffers(villager),
-			villager[vil.hasTradesKey]
+			hasTrades(villager)
 		)
 	)
 
@@ -80,7 +80,7 @@ def writeTradeTooltips(villager):
 
 
 def getVillagerOffers(villager):
-	if villager[vil.hasTradesKey]:
+	if hasTrades(villager):
 		offers = []
 		for smartTrade in villager[vil.tradesKey]:
 			for villagerGiveItem in smartTrade[vil.villagerGiveItemsKey]:
@@ -105,3 +105,6 @@ def getVillagerOffers(villager):
 		return offers
 	else:
 		return []
+
+def hasTrades(villager):
+	return vil.tradesKey in villager
