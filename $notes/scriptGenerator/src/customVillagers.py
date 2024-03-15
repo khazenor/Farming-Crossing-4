@@ -83,25 +83,32 @@ def getVillagerOffers(villager):
 	if hasTrades(villager):
 		offers = []
 		for smartTrade in villager[vil.tradesKey]:
-			for villagerGiveItem in smartTrade[vil.villagerGiveItemsKey]:
-				offers.append({
-					sslNpc.villagerItemKey: villagerGiveItem,
-					sslNpc.villagerQtyKey: util.defaultDict(
-						smartTrade,
-						vil.villagerGiveNumKey,
-						1
-					),
-					sslNpc.playerGiveKey: util.defaultDict(
-						smartTrade,
-						vil.playerGiveItemKey,
-						const.priceItem
-					),
-					sslNpc.playerQtyKey: util.defaultDict(
-						smartTrade,
-						vil.playerGiveNumKey,
-						1
-					)
-				})
+			villagerGiveItems = util.defaultDict(
+				smartTrade,
+				vil.villagerGiveItemsKey,
+				[const.priceItem]
+			)
+			playerGiveItems = util.defaultDict(
+				smartTrade,
+				vil.playerGiveItemsKey,
+				[const.priceItem]
+			)
+			for villagerGiveItem in villagerGiveItems:
+				for playerGiveItem in playerGiveItems:
+					offers.append({
+						sslNpc.villagerItemKey: villagerGiveItem,
+						sslNpc.villagerQtyKey: util.defaultDict(
+							smartTrade,
+							vil.villagerGiveNumKey,
+							1
+						),
+						sslNpc.playerGiveKey: playerGiveItem,
+						sslNpc.playerQtyKey: util.defaultDict(
+							smartTrade,
+							vil.playerGiveNumKey,
+							1
+						)
+					})
 		return offers
 	else:
 		return []

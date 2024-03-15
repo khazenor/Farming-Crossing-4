@@ -6,7 +6,7 @@ textureKey = 'textureKey'
 tradesKey = 'tradesKey'
 villagerGiveItemsKey = 'villagerGiveItemsKey'
 villagerGiveNumKey = 'villagerGiveNumKey'
-playerGiveItemKey = 'playerGiveItemKey'
+playerGiveItemsKey = 'playerGiveItemsKey'
 playerGiveNumKey = 'playerGiveNumKey'
 
 villagers = [
@@ -16,8 +16,23 @@ villagers = [
 		tradesKey: [
 			{
 				villagerGiveItemsKey: ["framedblocks:framed_cube"],
-				villagerGiveNumKey: 64,
-				playerGiveItemKey: const.priceItem
+				villagerGiveNumKey: 64
+			}
+		]
+	},
+  { # Sam
+    nameKey: "Sam",
+    textureKey: "eagle",
+    tradesKey: [
+      {
+        playerGiveItemsKey: [
+          "aquaculture:catfish",
+          "aquaculture:capitaine",
+          "aquaculture:tuna",
+          "aquaculture:arrau_turtle",
+          "aquaculture:starshell_turtle"
+				],
+        villagerGiveNumKey: 20
 			}
 		]
 	},

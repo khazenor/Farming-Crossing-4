@@ -45,4 +45,6 @@ def offerRecipeString(offers):
 		offerRecipeStringOut += ',maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0'
 		offerRecipeStringOut += ', demand: 0, rewardExp: 0'
 		offerRecipeStringOut += '}'
+		if i < len(offers) - 1:
+			offerRecipeStringOut += ', '
 	return offerRecipeStringOut

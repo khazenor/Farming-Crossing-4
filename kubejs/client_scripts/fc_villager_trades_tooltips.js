@@ -1,10 +1,14 @@
 ItemEvents.tooltip(event => {
   event.add(
     [
-      'framedblocks:framed_cube'
+      'aquaculture:catfish', 
+      'aquaculture:capitaine', 
+      'aquaculture:tuna', 
+      'aquaculture:arrau_turtle', 
+      'aquaculture:starshell_turtle'
     ],
     [
-      'You can buy this item from Ren'
+      'You can sell this item to Sam'
     ])
 
 })
