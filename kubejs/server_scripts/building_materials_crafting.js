@@ -383,5 +383,125 @@ ServerEvents.recipes(event => {
   event.shapeless(
     Item.of('quark:limestone', 32),
     ['quark:limestone', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('beachparty:palm_leaves', 32),
+    ['beachparty:palm_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('biomesoplenty:bramble_leaves', 32),
+    ['biomesoplenty:bramble_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('biomesoplenty:dead_leaves', 32),
+    ['biomesoplenty:dead_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('biomesoplenty:fir_leaves', 32),
+    ['biomesoplenty:fir_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('biomesoplenty:flowering_oak_leaves', 32),
+    ['biomesoplenty:flowering_oak_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('biomesoplenty:hellbark_leaves', 32),
+    ['biomesoplenty:hellbark_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('biomesoplenty:jacaranda_leaves', 32),
+    ['biomesoplenty:jacaranda_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('biomesoplenty:magic_leaves', 32),
+    ['biomesoplenty:magic_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('biomesoplenty:mahogany_leaves', 32),
+    ['biomesoplenty:mahogany_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('biomesoplenty:maple_leaves', 32),
+    ['biomesoplenty:maple_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('biomesoplenty:orange_autumn_leaves', 32),
+    ['biomesoplenty:orange_autumn_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('biomesoplenty:origin_leaves', 32),
+    ['biomesoplenty:origin_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('biomesoplenty:palm_leaves', 32),
+    ['biomesoplenty:palm_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('biomesoplenty:rainbow_birch_leaves', 32),
+    ['biomesoplenty:rainbow_birch_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('biomesoplenty:redwood_leaves', 32),
+    ['biomesoplenty:redwood_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('biomesoplenty:snowblossom_leaves', 32),
+    ['biomesoplenty:snowblossom_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('biomesoplenty:umbran_leaves', 32),
+    ['biomesoplenty:umbran_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('biomesoplenty:willow_leaves', 32),
+    ['biomesoplenty:willow_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('biomesoplenty:yellow_autumn_leaves', 32),
+    ['biomesoplenty:yellow_autumn_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('meadow:alpine_birch_leaves_hanging', 32),
+    ['meadow:alpine_birch_leaves_hanging', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('meadow:pine_leaves', 32),
+    ['meadow:pine_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:acacia_leaves', 32),
+    ['minecraft:acacia_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:azalea_leaves', 32),
+    ['minecraft:azalea_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:birch_leaves', 32),
+    ['minecraft:birch_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:cherry_leaves', 32),
+    ['minecraft:cherry_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:dark_oak_leaves', 32),
+    ['minecraft:dark_oak_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:flowering_azalea_leaves', 32),
+    ['minecraft:flowering_azalea_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:jungle_leaves', 32),
+    ['minecraft:jungle_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:mangrove_leaves', 32),
+    ['minecraft:mangrove_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:oak_leaves', 32),
+    ['minecraft:oak_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:spruce_leaves', 32),
+    ['minecraft:spruce_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('quark:ancient_leaves', 32),
+    ['quark:ancient_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('quark:blue_blossom_leaves', 32),
+    ['quark:blue_blossom_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('quark:lavender_blossom_leaves', 32),
+    ['quark:lavender_blossom_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('quark:orange_blossom_leaves', 32),
+    ['quark:orange_blossom_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('quark:red_blossom_leaves', 32),
+    ['quark:red_blossom_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('quark:yellow_blossom_leaves', 32),
+    ['quark:yellow_blossom_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('vinery:apple_leaves', 32),
+    ['vinery:apple_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('vinery:cherry_leaves', 32),
+    ['vinery:cherry_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('vinery:grapevine_leaves', 32),
+    ['vinery:grapevine_leaves', 'kubejs:miles_ticket'])
 
 })
