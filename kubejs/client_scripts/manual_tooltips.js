@@ -43,29 +43,4 @@ ItemEvents.tooltip(event => {
     "You can reroll this villager spawn egg by",
     "putting two of these eggs in the crafting table"
   ])
-
-  event.add([
-    'gemsnjewels:dusk_emerald',
-    'gemsnjewels:opal',
-    'gemsnjewels:pale_diamond',
-    'gemsnjewels:ruby',
-    'gemsnjewels:sable_amethyst',
-    'gemsnjewels:sapphire'
-  ], [
-    '', "Laly will buy this gem at a higher rate."
-  ])
-
-  event.add([
-    'aquaculture:catfish',
-    'aquaculture:capitaine',
-    'aquaculture:tuna',
-    'aquaculture:arrau_turtle',
-    'aquaculture:starshell_turtle'
-  ], [
-    '', 'Sam will buy this fish at a higher rate.'
-  ])
-
-  event.add(['minecraft:saddle'], [
-    'You can purchase this item from Andre.'
-  ])
 })
