@@ -4,6 +4,7 @@ from lib import mcfunction
 from lib import util
 from src import const
 from lib import kubejs
+from lib import stringCleaning
 
 def deployFunctions():
 	for villager in vil.villagers:
@@ -75,7 +76,7 @@ def writeTradeTooltips(villager):
 	if len(tooltipContent) > 0:
 		kubejs.writeClientFile(
 			kubejs.tooltipFileContent(tooltipContent),
-			'fc_villager_trades_tooltips'
+			f'fc_villager_trades_tooltips_{stringCleaning.cleanedNameStr(name)}'
 		)
 
 

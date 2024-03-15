@@ -173,7 +173,7 @@ dialogs = [
     nameKey: 'Yukkie 35',
     speakerKey: yukkie,
     textsKey: ['YOU FOUND 35 DIFFERENT PLANTS?!?  How much FRUIT do you have?  I need to know! You mind if I crash at your place?'],
-    questIdKey: "3AB5ADA435969636"
+    questIdKey: "5A43CA6B86349E67" # 35 flora
   }, {
     nameKey: 'Yukkie moves in',
     speakerKey: yukkie,

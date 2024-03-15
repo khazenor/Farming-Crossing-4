@@ -7,6 +7,12 @@
 - Removed old meadow logs that no longer work from Ren's shop
 - Disable mobs that produces fishes from easy mob farms
 - Easy mob farms now cost more tickets from the market
+## Farming Crossing NPC Villager Trade Updates
+- All times bought and sold by villagers now have tooltips indicating that
+- Pamela no longer sells the chef outfit
+- Ren now sells furniture and building materials instead of wood
+- Yukkie now buys selected food made from fruits
+- Sam now also sells sushi
 # 3.13:
 ## Change custom villager model texture pack from one I designed to the Farming Crossing 4 Texture pack designed by lackeygirlmoon.
 - Many mobs other than just villagers are also reskinned to be animals to match the Animal Crossing flavor.

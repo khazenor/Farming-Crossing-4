@@ -1,0 +1,43 @@
+ItemEvents.tooltip(event => {
+  event.add(
+    [
+      'framedblocks:framed_cube', 
+      'wands:diamond_wand', 
+      'chipped:botanist_workbench', 
+      'chipped:glassblower', 
+      'chipped:carpenters_table', 
+      'chipped:loom_table', 
+      'chipped:mason_table', 
+      'chipped:alchemy_bench', 
+      'chipped:tinkering_table', 
+      'moa_decor_cookery:barril', 
+      'moa_decor_cookery:barrica', 
+      'quark:trowel', 
+      'meadow:woodcutter', 
+      'meadow:wooden_cauldron', 
+      'beautify:hanging_pot', 
+      'vinery:storage_pot', 
+      'vinery:flower_box', 
+      'vinery:flower_pot', 
+      'vinery:wine_box', 
+      'candlelight:drawer', 
+      'candlelight:cabinet', 
+      'candlelight:sideboard', 
+      'candlelight:chair', 
+      'candlelight:sofa', 
+      'candlelight:table', 
+      'candlelight:lamp', 
+      'candlelight:side_table', 
+      'moa_decor_garden_:macetero_m', 
+      'meadow:wheelbarrow', 
+      'meadow:fire_log', 
+      'meadow:flower_pot_big', 
+      'meadow:wooden_flower_pot', 
+      'meadow:flower_box', 
+      'meadow:wooden_bucket'
+    ],
+    [
+      'You can buy this item from Ren'
+    ])
+
+})

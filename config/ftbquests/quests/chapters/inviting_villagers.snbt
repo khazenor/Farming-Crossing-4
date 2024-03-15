@@ -601,7 +601,7 @@
 			icon: "chiselsandbits:magnifying_glass"
 			id: "512BADF33A088EBA"
 			rewards: [{
-				command: "/function fc_villagers:andre_update_trades"
+				command: "/function fc_villagers:andre_highlight_and_update_trades"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "0EDEB814B1EE2B5C"
@@ -629,7 +629,7 @@
 			icon: "chiselsandbits:magnifying_glass"
 			id: "411A015BA96920ED"
 			rewards: [{
-				command: "/function fc_villagers:laly_update_trades"
+				command: "/function fc_villagers:laly_highlight_and_update_trades"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "6EF660D9CBDFE771"
@@ -657,7 +657,7 @@
 			icon: "chiselsandbits:magnifying_glass"
 			id: "0AC907ED825810E1"
 			rewards: [{
-				command: "/function fc_villagers:pamela_update_trades"
+				command: "/function fc_villagers:pamela_highlight_and_update_trades"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "2B45C52637D9F49E"
@@ -685,7 +685,7 @@
 			icon: "chiselsandbits:magnifying_glass"
 			id: "767DD13CDF3F90D1"
 			rewards: [{
-				command: "/function fc_villagers:ren_update_trades"
+				command: "/function fc_villagers:ren_highlight_and_update_trades"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "525C1E20E25B3B56"
@@ -713,7 +713,7 @@
 			icon: "chiselsandbits:magnifying_glass"
 			id: "3FC799C7A2A8C9ED"
 			rewards: [{
-				command: "/function fc_villagers:sam_update_trades"
+				command: "/function fc_villagers:sam_highlight_and_update_trades"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "5F367A1FF3C0B858"
@@ -741,7 +741,7 @@
 			icon: "chiselsandbits:magnifying_glass"
 			id: "642BFEA807DA5610"
 			rewards: [{
-				command: "/function fc_villagers:yukkie_update_trades"
+				command: "/function fc_villagers:yukkie_highlight_and_update_trades"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "7597F07ED15F2F0F"
