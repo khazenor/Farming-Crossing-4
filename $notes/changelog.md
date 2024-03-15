@@ -1,9 +1,4 @@
 # 3.14:
-- The market now sells rabbit's foot 
-- Switch out colorfulhearts mod for OverflowingBars to help people parse out how many rows of hearts they have easier.
-- Disabled hat bags from mob drops. (They are making easy mob farms overflow)
-- Disable mobs that produces fishes from easy mob farms
-- Easy mob farms now cost more tickets from the market
 ## New blocks duplicable with tickets in the crafting table
 - All Logs
 - All Leaves blocks
@@ -13,6 +8,13 @@
 - Ren now sells furniture and building materials instead of wood
 - Yukkie now buys selected food made from fruits
 - Sam now also sells sushi
+## Other changes
+- The market now sells rabbit's foot 
+- Switch out colorfulhearts mod for OverflowingBars to help people parse out how many rows of hearts they have easier.
+- Disabled hat bags from mob drops. (They are making easy mob farms overflow)
+- Disable mobs that produces fishes from easy mob farms
+- Easy mob farms now cost more tickets from the market
+
 # 3.13:
 ## Change custom villager model texture pack from one I designed to the Farming Crossing 4 Texture pack designed by lackeygirlmoon.
 - Many mobs other than just villagers are also reskinned to be animals to match the Animal Crossing flavor.
