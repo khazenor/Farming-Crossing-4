@@ -594,7 +594,7 @@ ItemEvents.tooltip(event => {
       'easy_mob_farm:netherite_lasso'
     ],
     [
-      'Obtainable for 50 tickets in the market'
+      'Obtainable for 300 tickets in the market'
     ])
   event.add(
     [

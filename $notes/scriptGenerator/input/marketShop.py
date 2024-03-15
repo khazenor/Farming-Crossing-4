@@ -122,7 +122,7 @@ categories = {
         ]
       },
       { # Easy mob farm
-        priceKey: 50,
+        priceKey: 300,
         itemsKey: [
           'easy_mob_farm:netherite_animal_plains_farm',
           'easy_mob_farm:netherite_bee_hive_farm',
