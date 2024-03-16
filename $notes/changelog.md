@@ -1,3 +1,5 @@
+# 3.15: 
+- Added trashcans mod
 # 3.14: npc trades backend rework
 ## New blocks duplicable with tickets in the crafting table
 - All Logs
