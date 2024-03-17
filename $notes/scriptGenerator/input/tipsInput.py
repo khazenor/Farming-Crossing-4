@@ -13,6 +13,9 @@ tips = [
 	# Quests
   "Complete the quests and collect the materials to unlock the ability to move in special NPC to your town!",
   "'Inviting Villagers' quests require you to put down the blocks specified to move the villager in.",
+  "Some items from Refined Storage are gated by quests. Complete those quests to be able to craft those items",
+  "Vehicles from Immersive Aircraft are gated by quests. Complete those quests to be able to craft those items",
+  "Hooks from Aquaculture are gated by quests. Complete those quests to be able to craft those items",
   
 	# Mods
 	"If your sugar level is above .8, you will get an hunger effect",
