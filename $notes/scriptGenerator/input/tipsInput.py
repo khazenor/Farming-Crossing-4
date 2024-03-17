@@ -23,7 +23,7 @@ tips = [
   "You can customize tree chopping behavior with the [Open Settings Overlay] key bind from HT's TreeChop.",
   "Putting a framed corner strip right on the outer top edge of a door prevents a villager from being able to path find out.  Keep in mind this doesn't prevent it from being nudged out by another entity.",
   "You can search for key binds by name, key, or category using the search bar in the key binds screen",
-  "Holding a builders wand and pressing the key bind [wand menu] allow you to customize the wand.  You can even configure it to destroy multiple blocks!",
+  "Holding a builders wand and pressing the key bind [wand menu] allow you to customize the wand.",
   "You can make a condense crop farm using botany bots. Hopper pots also collects crops for you!",
   "You can upgrade your botany pots for better efficiency. Search '@botanypotstiers' in JEI for more information",
   
