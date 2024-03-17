@@ -805,8 +805,8 @@
 				item: "kubejs:miles_ticket"
 				type: "item"
 			}]
-			title: "Tent Storage"
-			x: 0.5d
+			title: "Mass Storage"
+			x: 1.5d
 			y: 0.5d
 		}
 		{
@@ -838,7 +838,7 @@
 				type: "item"
 			}]
 			title: "Medium Storage Expansion"
-			x: 1.5d
+			x: 2.5d
 			y: 0.5d
 		}
 		{
@@ -870,7 +870,7 @@
 				type: "item"
 			}]
 			title: "Large Storage Expansion"
-			x: 2.5d
+			x: 3.5d
 			y: 0.5d
 		}
 		{
@@ -903,7 +903,7 @@
 				type: "item"
 			}]
 			title: "Mega Storage Expansion"
-			x: 3.5d
+			x: 4.5d
 			y: 0.5d
 		}
 		{
@@ -2232,7 +2232,51 @@
 				type: "item"
 			}]
 			title: "Buy Clothes"
-			x: 4.5d
+			x: 5.5d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"334F2BF7B8D548AA"
+				"4BE09EB12590E2AD"
+			]
+			description: [
+				"The Kitchen Station needs to be placed as part of the kitchen network and the Kitchen Access Point needs to be placed in the Refined Storage Network."
+				""
+				"The Kitchen Access Point acts as Refined Storage Network Receiver and needs to be attached to a Kitchen Network Card. Then this Kitchen Network Card needs to be placed inside a Kitchen Access Point, which acts as a Refined Storage Network Transmitter."
+			]
+			icon: "refinedcooking:kitchen_station"
+			id: "7488ED8EE402FD07"
+			rewards: [
+				{
+					id: "3215957756B769EF"
+					item: "refinedcooking:kitchen_station"
+					type: "item"
+				}
+				{
+					id: "546DE89A4FDF0703"
+					item: "refinedcooking:kitchen_access_point"
+					type: "item"
+				}
+				{
+					id: "58C9C80C5D468CEC"
+					item: "refinedcooking:kitchen_network_card"
+					type: "item"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 300L
+				id: "280665038F55B2D1"
+				item: {
+					BigCount: 300
+					Count: 127b
+					id: "kubejs:miles_ticket"
+				}
+				type: "item"
+			}]
+			title: "Refine Storge and Cooking for Blockheads Integration"
+			x: 0.5d
 			y: 0.5d
 		}
 	]

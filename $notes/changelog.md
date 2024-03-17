@@ -1,4 +1,5 @@
 # 3.15: 
+- Added refinedcooking to integrate cooking for blockheads and added a quest to help you obtain the items.
 - Added trashcans mod
 - Added tips mod and added a collection of tips for the modpack for you to view while waiting for the world to load and in the pause menu.
 ## Updated mods:
