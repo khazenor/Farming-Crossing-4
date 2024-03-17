@@ -33,7 +33,8 @@ clientSideModNames = [
 	'XaeroPlus',
 	'XaerosWorldMap',
 	'Xaeros_Minimap',
-	'realcamera'
+	'realcamera',
+	'Tips'
 ]
 
 modsFolder = 'mods'

@@ -36,3 +36,8 @@ def defaultDict(dictVar, tryKey, default):
 		return dictVar[tryKey]
 	else:
 		return default
+
+def removeFiles(folder):
+	if os.path.exists(folder):
+		for filename in os.listdir(folder):
+			os.remove(os.path.join(folder, filename))

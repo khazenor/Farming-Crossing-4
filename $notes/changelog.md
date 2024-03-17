@@ -1,14 +1,20 @@
 # 3.15: 
 - Added trashcans mod
+- Added tips mod and added a collection of tips for the modpack for you to view while waiting for the world to load and in the pause menu.
+## Updated mods:
+- FramedBlocks
+- framework
+- handoveryouritems
+- TreeChop
 # 3.14: npc trades backend rework
 ## New blocks duplicable with tickets in the crafting table
 - All Logs
 - All Leaves blocks
 ## Farming Crossing NPC Villager Trade Updates
-- All times bought and sold by villagers now have tooltips indicating that
-- Pamela no longer sells the chef outfit
+- All items bought and sold by villagers now have tooltips indicating that
 - Ren now sells furniture and building materials instead of wood
 - Yukkie now buys selected food made from fruits
+- Pamela no longer sells the chef outfit
 - Sam now also sells sushi
 ## Other changes
 - The market now sells rabbit's foot 
