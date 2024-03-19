@@ -3,13 +3,13 @@
     {
       "type": "bookshelf:item_exists",
       "values": [
-        "vinery:apple_tree_sapling"
+        "vinery:cherry_sapling"
       ]
     }
   ],
   "type": "botanypots:crop",
   "seed": {
-    "item": "vinery:apple_tree_sapling"
+    "item": "vinery:cherry_sapling"
   },
   "categories": [
     "dirt",
@@ -18,19 +18,19 @@
   "growthTicks": 1200,
   "display": {
     "type": "botanypots:aging",
-    "block": "vinery:apple_tree_sapling"
+    "block": "vinery:cherry_sapling"
   },
   "drops": [
     {
       "chance": 1.0,
       "output": {
-        "item": "minecraft:apple"
+        "item": "vinery:cherry"
       }
     },
     {
       "chance": 0.01,
       "output": {
-        "item": "vinery:apple_tree_sapling"
+        "item": "vinery:cherry_sapling"
       }
     }
   ]

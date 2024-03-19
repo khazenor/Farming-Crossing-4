@@ -7,6 +7,9 @@
 - Nether Wart Block
 - Warped Stem
 - Crimson Stem
+## New saplings growable in botany pots
+- Vinery cherry tree
+- Vinery apple tree
 ## Other added mods:
 - amendments
 - trashcans

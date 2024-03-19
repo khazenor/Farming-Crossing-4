@@ -335,8 +335,21 @@ hcFruits = [
   }
 ]
 
+otherCrops = [
+	{
+		seedKey: "vinery:cherry_sapling",
+		cropKey: "vinery:cherry",
+		blockKey: "vinery:cherry_sapling"
+  },
+	{
+		seedKey: "vinery:apple_tree_sapling",
+		cropKey: "minecraft:apple",
+		blockKey: "vinery:apple_tree_sapling"
+  }
+]
+
 def genBotanySeedSupport():
-	for seedList in [seedSupports, hcFruits]:
+	for seedList in [seedSupports, hcFruits, otherCrops]:
 		for seedSupport in seedList:
 			botanyBots.writeSeedJson(
 				seedSupport[seedKey],
