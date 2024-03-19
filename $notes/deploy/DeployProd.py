@@ -11,5 +11,8 @@ if __name__ == "__main__":
 		'D:\\Lee\\Minecraft\\MultiMC\\instances\\Farming Crossing 4 Prod\\.minecraft',
 		'D:\\Lee\\Dropbox\\Share\\FarmingCrossing4\\publicServerVersion'
 	]
+	paths.servers = [
+		'D:\\Lee\\Minecraft\\MultiMC\\instances\\Farming Crossing 4\\.minecraft\\$notes\\server\\prodServer'
+	]
 
 	deploy.deployModpack()
