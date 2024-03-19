@@ -181,6 +181,8 @@ buildingMaterials = [
     "vinery:apple_leaves",
     "vinery:cherry_leaves",
     "vinery:grapevine_leaves",
+    "minecraft:warped_wart_block",
+    "minecraft:nether_wart_block",
 
     # logs
     'beachparty:palm_log',
@@ -207,5 +209,7 @@ buildingMaterials = [
     'quark:azalea_log',
     'quark:blossom_log',
     'vinery:apple_log',
-    'vinery:cherry_log'
+    'vinery:cherry_log',
+    'minecraft:warped_stem',
+    'minecraft:crimson_stem'
 ]

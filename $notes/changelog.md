@@ -2,6 +2,11 @@
 - Added refinedcooking to integrate cooking for blockheads and added a quest to help you obtain the items.
 - Added tips mod and added a collection of tips for the modpack for you to view while waiting for the world to load and in the pause menu.
 - Remove the ability for builders wands to destroy blocks
+## New blocks duplicable with tickets in the crafting table
+- Warped Wart Block
+- Nether Wart Block
+- Warped Stem
+- Crimson Stem
 ## Other added mods:
 - amendments
 - trashcans

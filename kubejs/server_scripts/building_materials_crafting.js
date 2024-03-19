@@ -504,6 +504,12 @@ ServerEvents.recipes(event => {
     Item.of('vinery:grapevine_leaves', 32),
     ['vinery:grapevine_leaves', 'kubejs:miles_ticket'])
   event.shapeless(
+    Item.of('minecraft:warped_wart_block', 32),
+    ['minecraft:warped_wart_block', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:nether_wart_block', 32),
+    ['minecraft:nether_wart_block', 'kubejs:miles_ticket'])
+  event.shapeless(
     Item.of('beachparty:palm_log', 32),
     ['beachparty:palm_log', 'kubejs:miles_ticket'])
   event.shapeless(
@@ -578,5 +584,11 @@ ServerEvents.recipes(event => {
   event.shapeless(
     Item.of('vinery:cherry_log', 32),
     ['vinery:cherry_log', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:warped_stem', 32),
+    ['minecraft:warped_stem', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('minecraft:crimson_stem', 32),
+    ['minecraft:crimson_stem', 'kubejs:miles_ticket'])
 
 })
