@@ -1,9 +1,13 @@
 tips = [
+  # Modpack general
+  "Remember to backup your configs before updating the modpack! If you have updated any configs there is a good chance they will be replaced!",
+
   # FC 4
   "Hostile mob spawning are turned off for overworld in easy and normal difficulties.",
   "You can change the default gamerules for this pack in kubejs\server_scripts\global_game_rules.js",
   "You can convert concrete powder to concrete just by putting it in the crafting table.",
   "There are many things available in the market if you have tickets! Search 'market' in JEI to find out more!",
+  "Resource packs and data packs located in the resource folder are auto-included in this modpack. To disable this you can update the config in config\global_data_and_resourcepacks.toml",
   
   # duplication
   "Many flowers can be duplicated in the crafting table with bone meal",
@@ -16,6 +20,7 @@ tips = [
   "Some items from Refined Storage are gated by quests. Complete those quests to be able to craft those items",
   "Vehicles from Immersive Aircraft are gated by quests. Complete those quests to be able to craft those items",
   "Hooks from Aquaculture are gated by quests. Complete those quests to be able to craft those items",
+  "Crouch + right-click another player with an item in your hand to handover the item without having to drop it on the ground!",
   
 	# Mods
 	"If your sugar level is above .8, you will get an hunger effect",
@@ -26,6 +31,8 @@ tips = [
   "Holding a builders wand and pressing the key bind [wand menu] allow you to customize the wand.",
   "You can make a condense crop farm using botany bots. Hopper pots also collects crops for you!",
   "You can upgrade your botany pots for better efficiency. Search '@botanypotstiers' in JEI for more information",
+  "In this pack, villagers choose their trades based on previous player interactions. For instance, a librarian you've bought many Looting books from is more likely to offer sword enchantments and luck related enchantments in the future.",
+  "In this pack, villagers change their trades every time they restock/every day. This makes it so that you won't have to get rid of villagers with bad trades after having spent resources on them, and it won't be necessary to breed a large number of them either.",
   
   # Tickets
   "Complete the quests to find out how to get customer villagers.  They will give you miles tickets in exchange for dishes.",
