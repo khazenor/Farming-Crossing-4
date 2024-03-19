@@ -2,7 +2,8 @@ from src import util, paths, log
 import os
 
 clientConfigsToCopy = [
-	"bettertitlescreen-client.toml"
+	"bettertitlescreen-client.toml",
+	"sebastrnlib-client.toml"
 ]
 
 foldersToDeleteExtrasFrom = [
