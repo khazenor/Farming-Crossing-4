@@ -8334,6 +8334,3456 @@
 			x: -1.0d
 			y: 80.0d
 		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4FD9066FE985F756"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_flower_shelf_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0AAABBA960080B5C"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7BAA0D2AFC635D0D"
+				item: "luphieclutteredmod:blue_flower_shelf"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 82.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2480644DD1A9C717"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_flower_shelf_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4A5792086A2096B2"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "25319FAD26F7CB0D"
+				item: "luphieclutteredmod:green_flower_shelf"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 82.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "33A7C707165790C5"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_flower_shelf_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0F4523B523CDFBA8"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1ED50DC9FDEDAD79"
+				item: "luphieclutteredmod:pastel_yellow_flowershelf"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 82.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "57D4BFD397BADF4C"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_flower_shelf_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "02A617E06490265E"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1875E876A5639120"
+				item: "luphieclutteredmod:pink_flower_shelf"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 82.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1C2A52EED793DBD1"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_flower_shelf_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1EF77AFF35701399"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "587A7351F0A50FF5"
+				item: "luphieclutteredmod:purple_flower_shelf"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 82.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "281F3D1AEEDE817F"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_flower_shelf_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "32F6258AD3129E5B"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "254D91CC7D969849"
+				item: "luphieclutteredmod:yellow_flower_shelf"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 82.5d
+		}
+		{
+			dependencies: [
+				"4FD9066FE985F756"
+				"2480644DD1A9C717"
+				"33A7C707165790C5"
+				"57D4BFD397BADF4C"
+				"1C2A52EED793DBD1"
+				"281F3D1AEEDE817F"
+			]
+			icon: "luphieclutteredmod:yellow_flower_shelf"
+			id: "5A88C5CBD23B9292"
+			rewards: [{
+				count: 8
+				id: "1DC1EFA238919AF4"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "5B62CE30FA4E9729"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Flower Shelf Completion"
+			x: -1.0d
+			y: 82.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "19195C7B223D86A4"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_bicycles_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "67FD5A7AE4F813ED"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6D84D16F247AC78E"
+				item: "luphieclutteredmod:pink_bicycle"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 84.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0FD3A671839A0C90"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_bicycles_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "26ED070117489BC5"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "712DCFE6045C9F50"
+				item: "luphieclutteredmod:blue_bicycle"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 84.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "7F5C6D0CA62B8690"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_bicycles_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "536EBB904E83B4E9"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "365DD74CAC2741D3"
+				item: "luphieclutteredmod:purple_bicycle"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 84.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "61DB56AA9B25364C"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_bicycles_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "501E2C1BD5CFA047"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "2EEFCCFE281C473A"
+				item: "luphieclutteredmod:yellow_bicycle"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 84.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2401B7A6D3A2743F"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_bicycles_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5C43C8E20596DFF0"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "79323C2811685FC5"
+				item: "luphieclutteredmod:cute_pink_bicycle"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 84.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2680507581FB8292"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_bicycles_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "42E62183180073A6"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5A0F2E79A4EFC0F4"
+				item: "luphieclutteredmod:cute_blue_bicycle"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 84.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "30F9046E396CA3F0"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_bicycles_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "52EF21C65CE7E25A"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "06F22BFEB928D2BF"
+				item: "luphieclutteredmod:cute_purple_bicycle"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 85.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "7BA1C6F2E54AC8E3"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_bicycles_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5E5383CAFFF5422A"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "332EA70D3B25CD4F"
+				item: "luphieclutteredmod:cute_yellow_bicycle"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 85.0d
+		}
+		{
+			dependencies: [
+				"19195C7B223D86A4"
+				"0FD3A671839A0C90"
+				"7F5C6D0CA62B8690"
+				"61DB56AA9B25364C"
+				"2401B7A6D3A2743F"
+				"2680507581FB8292"
+				"30F9046E396CA3F0"
+				"7BA1C6F2E54AC8E3"
+			]
+			icon: "luphieclutteredmod:cute_yellow_bicycle"
+			id: "0084167AE39F5DD3"
+			rewards: [{
+				count: 11
+				id: "7D232953EE2C34E6"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "3ED143F755EFD12A"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Bicycles Completion"
+			x: -1.0d
+			y: 84.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "565D20B79EA0EAE8"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_record_players_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "043EFE6B3A0CE844"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0D57ACD9116CDC85"
+				item: "luphieclutteredmod:luphie_blue_record_player"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 86.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "07629E521D78DC16"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_record_players_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1D8E49D4E67E190E"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "2D4A3B5A589C4A67"
+				item: "luphieclutteredmod:luphie_yellow_record_player"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 86.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "36836290A72AAC34"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_record_players_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "626F404F3667AFDD"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "68399976E346104A"
+				item: "luphieclutteredmod:luphie_pink_record_player"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 86.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "7EC6D70FF100CF64"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_record_players_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "41C3CA203FAC0BCA"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5AC06EDD87C1189B"
+				item: "luphieclutteredmod:luphie_brown_record_player"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 86.5d
+		}
+		{
+			dependencies: [
+				"565D20B79EA0EAE8"
+				"07629E521D78DC16"
+				"36836290A72AAC34"
+				"7EC6D70FF100CF64"
+			]
+			icon: "luphieclutteredmod:luphie_brown_record_player"
+			id: "6F076357D1043F15"
+			rewards: [{
+				count: 4
+				id: "5F3BE07A3A137C50"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "3EA9D8F9065A1EE8"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Record Players Completion"
+			x: -1.0d
+			y: 86.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4A615477F862EBA3"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_fridges_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6EDD45C785379B02"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "56E1DC63CD37EC14"
+				item: "luphieclutteredmod:luphie_retro_pink_fridge"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 88.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1E12AA191A3B5C3A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_fridges_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "40F7D3D68EE19AE5"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "3EB15BE020E59963"
+				item: "luphieclutteredmod:luphie_retro_yellow_fridge"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 88.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6C320AEB711106A5"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_fridges_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "22ADE657F73343B5"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "510CCED041BDD10A"
+				item: "luphieclutteredmod:luphie_retro_green_fridge"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 88.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "336C9B3BAC802F07"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_fridges_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1B18F0A1572DD265"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5EB7A1BA01977143"
+				item: "luphieclutteredmod:luphie_retro_black_fridge"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 88.0d
+		}
+		{
+			dependencies: [
+				"4A615477F862EBA3"
+				"1E12AA191A3B5C3A"
+				"6C320AEB711106A5"
+				"336C9B3BAC802F07"
+			]
+			icon: "luphieclutteredmod:luphie_retro_black_fridge"
+			id: "7A10CF157A19AF48"
+			rewards: [{
+				count: 4
+				id: "7B613511507AE675"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "5A164F22F90E7547"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Fridges Completion"
+			x: -1.0d
+			y: 88.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "107E1CABADFA8CEC"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_birdhouse_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "29DE4454B28E10D1"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "499D70D2EA72F5B2"
+				item: "luphieclutteredmod:blue_birdhouse"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 89.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0A7FADF8A5F039E8"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_birdhouse_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "183E7EC13C952350"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4C6956AA7BE006D5"
+				item: "luphieclutteredmod:red_birdhouse"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 89.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6BDD47D9CA15BB45"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_birdhouse_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0337D4D088B13B60"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "215ADACE1F3E1C4B"
+				item: "luphieclutteredmod:unpainted_birdhouse"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 89.5d
+		}
+		{
+			dependencies: [
+				"107E1CABADFA8CEC"
+				"0A7FADF8A5F039E8"
+				"6BDD47D9CA15BB45"
+			]
+			icon: "luphieclutteredmod:unpainted_birdhouse"
+			id: "144BFBFB969088E9"
+			rewards: [{
+				count: 3
+				id: "6D17824C4FB3B974"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "12C211646EF7C2F0"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Birdhouse Completion"
+			x: -1.0d
+			y: 89.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "013632D091E9A4D2"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_wall_decorations_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0A7507F7666E493E"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4B9C0BD6905B177A"
+				item: "luphieclutteredmod:luphie_bunny_garland"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 91.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "18424EC64850241D"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_wall_decorations_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "16298EF4F1AF9A9C"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7A8004AEBB8216B2"
+				item: "luphieclutteredmod:luphie_black_cat_garland"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 91.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6F0A7E436C2162C8"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_wall_decorations_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "219785F91220F184"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4B19C5E8BA244232"
+				item: "luphieclutteredmod:luphie_heart_garland"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 91.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1B42085565480A2C"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_wall_decorations_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "40B78599CD20176D"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "73F40833E0083108"
+				item: "luphieclutteredmod:luphie_sunflower_garland"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 91.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3917625C29054A6F"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_wall_decorations_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3BAC66317E2A1AD6"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6A673887EFF9AD6F"
+				item: "luphieclutteredmod:luphie_blossom_garland"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 91.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2DDBAA739B8788B5"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_wall_decorations_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6D2BCB518578896F"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "64AEB73F3EF5ACBF"
+				item: "luphieclutteredmod:luphie_drying_herb_garland"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 91.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2BF693EBDD2C9439"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_wall_decorations_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1C3E6D16AE9AB16F"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "70FA77F2CD8AF707"
+				item: "luphieclutteredmod:luphie_polaroid_garland_a"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 92.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "7E118BC68589C3A5"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_wall_decorations_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2DF366969E5C1EC2"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "76777B55D43DA026"
+				item: "luphieclutteredmod:luphie_polaroid_garland_b"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 92.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3D5B95F7AC5D779B"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_wall_decorations_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "39FA79A1B47F1988"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "3350A025817F33E3"
+				item: "luphieclutteredmod:luphie_polaroids_a"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 92.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3F681B11AA7F2021"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_wall_decorations_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "67316E49A2C02984"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "24678D47C845E286"
+				item: "luphieclutteredmod:luphie_polaroids_b"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 92.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0647C81AA798ACBD"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_wall_decorations_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "651E6E19EE3A326B"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5C7C7BB0750F1AF8"
+				item: "luphieclutteredmod:luphie_polaroids_c"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 92.0d
+		}
+		{
+			dependencies: [
+				"013632D091E9A4D2"
+				"18424EC64850241D"
+				"6F0A7E436C2162C8"
+				"1B42085565480A2C"
+				"3917625C29054A6F"
+				"2DDBAA739B8788B5"
+				"2BF693EBDD2C9439"
+				"7E118BC68589C3A5"
+				"3D5B95F7AC5D779B"
+				"3F681B11AA7F2021"
+				"0647C81AA798ACBD"
+			]
+			icon: "luphieclutteredmod:luphie_polaroids_c"
+			id: "487903D70A1728D3"
+			rewards: [{
+				count: 18
+				id: "1BBBC17D0817F37B"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "5E0939DEAD488D94"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Wall Decorations Completion"
+			x: -1.0d
+			y: 91.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "7AA720841116F43E"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_lamps_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "226FA5C7A3B98050"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "3B9B72CC927FABB3"
+				item: "luphieclutteredmod:luphie_honeycomb_lamp"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 93.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6A219F1965794D69"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_lamps_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6375E0C45FDDF619"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0773DA3D51345D77"
+				item: "luphieclutteredmod:luphie_lemon_table"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 93.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "004B4C63DD5688A9"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_lamps_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "01BEAE73F4ABCA62"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1C477CA87FFE9648"
+				item: "luphieclutteredmod:luphie_hoppin_park_lantern"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 93.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6692EDB7E44B86F1"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_lamps_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "657A0744D3287B56"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5198BB4A18E86C4F"
+				item: "luphieclutteredmod:luphie_handheld_sea_gem_lantern"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 93.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2DAA76447CD00831"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_lamps_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6303B30EFE049C1B"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "389C623440C617CF"
+				item: "luphieclutteredmod:luphie_antique_lamp"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 93.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "187F2EE070307BA5"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_lamps_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1650D9A198B956F2"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "288F54F790D5A257"
+				item: "luphieclutteredmod:luphie_steampunk_lamp"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 93.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5E48548677E291B0"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_lamps_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1CFBF1428815802F"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "47C41530730A54E2"
+				item: "luphieclutteredmod:luphie_caged_bulb"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 94.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "05E0FD3D352B79E3"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_lamps_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "34854687432831B9"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4E47B2023E57A49B"
+				item: "luphieclutteredmod:luphie_flower_desk_lamp"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 94.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0F063C2B976C5358"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_lamps_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "11D01C8874B8D711"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "52BD515AC8515DB7"
+				item: "luphieclutteredmod:luphie_bee_lamp"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 94.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5C3F68AA634FAB8A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_lamps_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3309EC45FEF60F8B"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "3F8751217DB2B6E4"
+				item: "luphieclutteredmod:luphie_angry_bee_lamp"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 94.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6A0A80E2DB513592"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_lamps_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "305CC2B8D7D68FE5"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4E71D8DF98C349FE"
+				item: "luphieclutteredmod:stainedglasslamp"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 94.5d
+		}
+		{
+			dependencies: [
+				"7AA720841116F43E"
+				"6A219F1965794D69"
+				"004B4C63DD5688A9"
+				"6692EDB7E44B86F1"
+				"2DAA76447CD00831"
+				"187F2EE070307BA5"
+				"5E48548677E291B0"
+				"05E0FD3D352B79E3"
+				"0F063C2B976C5358"
+				"5C3F68AA634FAB8A"
+				"6A0A80E2DB513592"
+			]
+			icon: "luphieclutteredmod:stainedglasslamp"
+			id: "6468FE28D7BA7A27"
+			rewards: [{
+				count: 18
+				id: "6B2AF16202DD833F"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "5143301F98890687"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Lamps Completion"
+			x: -1.0d
+			y: 94.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "608BD23E5F097956"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_zelda_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "259D33CA2F1ECB8C"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1B87F35C037F48CC"
+				item: "luphieclutteredmod:rito_village_books"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 96.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6FF85A3FAE5A7EA4"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_zelda_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7DB927071C2C365E"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "04777ACCB2C75D67"
+				item: "luphieclutteredmod:blue_sand_seal_plush"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 96.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "740ECDAA4690D4A0"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_zelda_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "665BD79F92C1835A"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6C0782732383D263"
+				item: "luphieclutteredmod:red_sand_seal_plush"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 96.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5BA136394439AC23"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_zelda_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1D175D5D23F73B2C"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "590966AFB8F97FC4"
+				item: "luphieclutteredmod:green_sand_seal_plush"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 96.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1006667845E5F33D"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_zelda_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "24D6220F949A1E34"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4B28C37AF718C9C3"
+				item: "luphieclutteredmod:tarrey_town_stove"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 96.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0B2FCF8D2B407C24"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_zelda_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "770A6E30FB072246"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "29197E295823EECE"
+				item: "luphieclutteredmod:cluttered_tarrey_town_wood_stove"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 96.0d
+		}
+		{
+			dependencies: [
+				"608BD23E5F097956"
+				"6FF85A3FAE5A7EA4"
+				"740ECDAA4690D4A0"
+				"5BA136394439AC23"
+				"1006667845E5F33D"
+				"0B2FCF8D2B407C24"
+			]
+			icon: "luphieclutteredmod:red_sand_seal_plush"
+			id: "0E8CC3A0C07CBDC8"
+			rewards: [{
+				count: 8
+				id: "208800B29CADCE53"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "2293DD64ADDBDD48"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Zelda Completion"
+			x: -1.0d
+			y: 96.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "53969230C797690B"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_rubiks_cube_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2508279171017BBE"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0568860F4CDE64BC"
+				item: "luphieclutteredmod:rubiks_cube"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 97.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2B10B4DD879B168B"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_rubiks_cube_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7ACD53D8532A36B3"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "079835D797AF2775"
+				item: "luphieclutteredmod:pastel_rubiks_cube"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 97.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0CA271251402F388"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_rubiks_cube_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "09143A913EC26931"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "37FACB31EF625417"
+				item: "luphieclutteredmod:scrambled_rubiks_cube"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 97.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1E657E19C942BC1F"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_rubiks_cube_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "53F5A89A6E37E984"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5504A39CC3C4BC53"
+				item: "luphieclutteredmod:scrambled_pastel_rubiks_cube"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 97.5d
+		}
+		{
+			dependencies: [
+				"53969230C797690B"
+				"2B10B4DD879B168B"
+				"0CA271251402F388"
+				"1E657E19C942BC1F"
+			]
+			icon: "luphieclutteredmod:scrambled_pastel_rubiks_cube"
+			id: "23E68774AEF39D42"
+			rewards: [{
+				count: 4
+				id: "1D7F6FBFEFAA821D"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "132CAC3B0E03182F"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Rubiks Cube Completion"
+			x: -1.0d
+			y: 97.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6F556B4AB380F8C1"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_sims_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "07177BBC36BAB7B2"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1D05CBF2A1FDF864"
+				item: "luphieclutteredmod:luphie_antique_book_stand"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 99.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6AA0135048080AD1"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_sims_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "337FA8F25A54BFFC"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "26F52226F906394B"
+				item: "luphieclutteredmod:luphie_bunny_book_ends"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 99.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "19C717081EAD1736"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_sims_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "53A6315EAA698BA1"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "710427D6C10AE4DE"
+				item: "luphieclutteredmod:luphie_unliving_chair"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 99.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "109579F8AF005D5C"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_sims_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "43C8AB3CE2D1327C"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "27F138644BCC7017"
+				item: "luphieclutteredmod:luphie_wedding_arch"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 99.0d
+		}
+		{
+			dependencies: [
+				"6F556B4AB380F8C1"
+				"6AA0135048080AD1"
+				"19C717081EAD1736"
+				"109579F8AF005D5C"
+			]
+			icon: "luphieclutteredmod:luphie_wedding_arch"
+			id: "4A3CCFB92640F712"
+			rewards: [{
+				count: 4
+				id: "490298829E8D1897"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "3E16625A17154366"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Sims Completion"
+			x: -1.0d
+			y: 99.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "36BFDE9F6148B5D8"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_starbound_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "07CE3A5E01602567"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4E350CA1F09D4422"
+				item: "luphieclutteredmod:luphie_ancient_codex"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 100.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3D9F7F6A30D43C66"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_starbound_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "637A56506643FC1E"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4150F1DAD5AEF42F"
+				item: "luphieclutteredmod:luphie_card_index"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 100.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0C3E7E21F8F90CE2"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_starbound_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5655720404803A6B"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4FDB1B7EE7F3FDA8"
+				item: "luphieclutteredmod:luphie_china_cabinet"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 100.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "765F682A2081B489"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_starbound_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "510698483DE24123"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "575686CC1EE9DB3F"
+				item: "luphieclutteredmod:luphie_classic_radio"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 100.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1BE29EDA38226828"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_starbound_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "30B6CEE73D68736A"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "70191880D7E549E0"
+				item: "luphieclutteredmod:luphie_mushroom_chest"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 100.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "397FFAFD409EF1D4"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_starbound_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0FF67EDEE2E2CE29"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "27C126FBE86859B6"
+				item: "luphieclutteredmod:luphie_mushroom_lamp"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 100.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "19E19FC1E6E18582"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_starbound_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "679D0EF95E762DE3"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "17C6529181AD6456"
+				item: "luphieclutteredmod:luphie_mushroom_table"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 101.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5FA97B1B85FC794B"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_starbound_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3AF8191C9B87A812"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "2B2BEEF9F465AE23"
+				item: "luphieclutteredmod:luphie_mushroom_wardrobe"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 101.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0245DDB41F02D9BB"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_starbound_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4BA5818C92E8E520"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "3AC5D0EC29058A6F"
+				item: "luphieclutteredmod:luphie_pastel_chair"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 101.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "56C7F43B9ED794D2"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_starbound_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "203E4D785E73F587"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6A1CCC73874D6472"
+				item: "luphieclutteredmod:luphiebunny_plushie"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 101.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2B5AC661CB02A9BA"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_starbound_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "37C66C6EF860EAE2"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7CC564B556878134"
+				item: "luphieclutteredmod:luphie_pastel_table"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 101.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4EA9B9EF4B249CA9"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_starbound_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7B9ADA8B276553A5"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "11D74D1BE0E589F7"
+				item: "luphieclutteredmod:luphie_safe"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 101.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6041C2D25C93B701"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_starbound_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "66677B012B3BDAB3"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4070B77A17792691"
+				item: "luphieclutteredmod:luphie_steampunk_globe"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 102.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1326F17872660763"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_starbound_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7DB61A0E8CC55887"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "397D9A80A169533A"
+				item: "luphieclutteredmod:luphie_pastel_wardrobe"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 102.5d
+		}
+		{
+			dependencies: [
+				"36BFDE9F6148B5D8"
+				"3D9F7F6A30D43C66"
+				"0C3E7E21F8F90CE2"
+				"765F682A2081B489"
+				"1BE29EDA38226828"
+				"397FFAFD409EF1D4"
+				"19E19FC1E6E18582"
+				"5FA97B1B85FC794B"
+				"0245DDB41F02D9BB"
+				"56C7F43B9ED794D2"
+				"2B5AC661CB02A9BA"
+				"4EA9B9EF4B249CA9"
+				"6041C2D25C93B701"
+				"1326F17872660763"
+			]
+			icon: "luphieclutteredmod:luphie_pastel_wardrobe"
+			id: "3370473BC713E6F6"
+			rewards: [{
+				count: 25
+				id: "7B4EE4977AA2B6F2"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "66EBC92DB91D7BCE"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Starbound Completion"
+			x: -1.0d
+			y: 101.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5D102FAA9C7158AF"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_animal_crossing_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3F78717D83EDD3E3"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "042B9FB1F9C21135"
+				item: "luphieclutteredmod:luphie_general_store_cabinet"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 104.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "18ABD4D9157FB496"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_animal_crossing_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3FAEE44AD77B27ED"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "2E10B44CF45D8840"
+				item: "luphieclutteredmod:luphie_art_academy_box_of_paint"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 104.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3CF87240A892A15D"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_animal_crossing_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4DE440AF9893AE64"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6DEE1292BAF1C8D9"
+				item: "luphieclutteredmod:luphie_mermaid_dresser"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 104.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "64FDDABB53FEAA1A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_animal_crossing_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "11DAF8971D9F8C66"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "41FEF078B97D92F3"
+				item: "luphieclutteredmod:luphie_briefcase"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 104.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "708C7E1AAAA8623A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_animal_crossing_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "145F2ABE785C7788"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1B7121719FAD1A4A"
+				item: "luphieclutteredmod:luphie_lunar_observatory_basket_of_papers"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 104.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "185323814414B0C6"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_animal_crossing_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "55075A1C4D4D17B9"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "59F5EA07C9517724"
+				item: "luphieclutteredmod:luphie_lunar_observatory_globe"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 104.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5B6B8265E2B092DF"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_animal_crossing_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "175A0BEE2F5746F6"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6EE8D08334DD0A3C"
+				item: "luphieclutteredmod:luphie_lunar_observatory_jars"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 105.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1A5638DE7E818EB9"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_animal_crossing_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0A2E8E09CAD16CB0"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7E105D9C4B397E8A"
+				item: "luphieclutteredmod:luphie_lunar_observatory_small_table"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 105.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "616DFC9188BCC6D6"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_animal_crossing_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0D913534FEED6277"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0D9A807DE5720DE8"
+				item: "luphieclutteredmod:luphie_lunar_observatory_table"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 105.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0B9E41F84C027691"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_animal_crossing_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2EDBDA2F9A6A18F7"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "66D7C72C83F7498A"
+				item: "luphieclutteredmod:luphie_small_cauldron_set"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 105.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "46421DF67E76B6F2"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_animal_crossing_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4BFF7EFAC071733C"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "30BB5E13925F2031"
+				item: "luphieclutteredmod:luphie_pastel_block_bookshelf"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 105.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "07D95799F41B92C5"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_animal_crossing_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "5605024D7CA832FA"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4AE34BAFF70D0DBF"
+				item: "luphieclutteredmod:luphie_lunar_observatory_books"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 105.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "505C5EC5E9A34D3D"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_animal_crossing_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "036A1A246D003E65"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "40B83B05A73535F7"
+				item: "luphieclutteredmod:luphie_baking_set_a"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 106.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1602DDFAAF4C356C"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_animal_crossing_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "16B25A5F8EDED4EE"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1FF2042F3881DEB1"
+				item: "luphieclutteredmod:luphie_pastel_traditional_table"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 106.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "35171BF91B06F301"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_animal_crossing_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "439DF052BF1431AF"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7B9FAF55CF75BBE8"
+				item: "luphieclutteredmod:luphie_coffee_grinder"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 106.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "7CF59FEE1505149B"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_animal_crossing_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "21BB28D657724973"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5BD3581734B6DEC7"
+				item: "luphieclutteredmod:luphie_retro_cafe_shelf"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 106.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0D914D102D4EDA5B"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_animal_crossing_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0C4F3837C3C217FD"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "3C6F48A204B29DC7"
+				item: "luphieclutteredmod:luphie_retro_cafe_shelf_stained_glass"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 106.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5985B83F5BDDB789"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_animal_crossing_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6EF0124155C78903"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "320F7DC8FE0DA7C6"
+				item: "luphieclutteredmod:luphie_rovers_mug"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 106.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4D19A29809C7F669"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_animal_crossing_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "029C36B447389062"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "203BFEA11FF1EBF7"
+				item: "luphieclutteredmod:luphie_rovers_stool"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 107.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "00864B04F1573655"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_animal_crossing_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "32684A94B9E8630F"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1EDEFE8AC3B8FE08"
+				item: "luphieclutteredmod:luphie_analog_kitchen_scale"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 107.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "38E439EA070A192F"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_animal_crossing_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "49386BC7F8DFF0D9"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "11538CD71C8515A1"
+				item: "luphieclutteredmod:luphie_apple_chair"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 107.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6D158888F48A70D0"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_animal_crossing_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "33A2DA952592D833"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4B2D2D3A9E8BF421"
+				item: "luphieclutteredmod:luphie_button_stool"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 107.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "45D0EA0279B64AA3"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_animal_crossing_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "428F5E3ADB897293"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "386F8F62B9AAD3C9"
+				item: "luphieclutteredmod:luphie_green_gumball_machine"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 107.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3CF5DAEC5B1AB049"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_animal_crossing_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4D62BF1E2C35221F"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "56DDA1787A38E406"
+				item: "luphieclutteredmod:luphie_purple_gumball_machine"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 107.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "094083A6B33C56F6"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_animal_crossing_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "32C1A1A0D7158759"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0B35EC27236B97FF"
+				item: "luphieclutteredmod:luphie_mermaid_pearl"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 108.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "643568A7B68ED4B1"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_animal_crossing_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "59770828275F1FB1"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "497AE78096E211DF"
+				item: "luphieclutteredmod:luphie_potion_shelf"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 108.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "15F849CB121344CC"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_animal_crossing_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2BDA98B8B729D3B8"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "258A8DC7398DC9C0"
+				item: "luphieclutteredmod:luphie_sewing_table_clutter"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 108.0d
+		}
+		{
+			dependencies: [
+				"5D102FAA9C7158AF"
+				"18ABD4D9157FB496"
+				"3CF87240A892A15D"
+				"64FDDABB53FEAA1A"
+				"708C7E1AAAA8623A"
+				"185323814414B0C6"
+				"5B6B8265E2B092DF"
+				"1A5638DE7E818EB9"
+				"616DFC9188BCC6D6"
+				"0B9E41F84C027691"
+				"46421DF67E76B6F2"
+				"07D95799F41B92C5"
+				"505C5EC5E9A34D3D"
+				"1602DDFAAF4C356C"
+				"35171BF91B06F301"
+				"7CF59FEE1505149B"
+				"0D914D102D4EDA5B"
+				"5985B83F5BDDB789"
+				"4D19A29809C7F669"
+				"00864B04F1573655"
+				"38E439EA070A192F"
+				"6D158888F48A70D0"
+				"45D0EA0279B64AA3"
+				"3CF5DAEC5B1AB049"
+				"094083A6B33C56F6"
+				"643568A7B68ED4B1"
+				"15F849CB121344CC"
+			]
+			icon: "luphieclutteredmod:luphie_apple_chair"
+			id: "2E3B0F4EAFB9E2FF"
+			rewards: [{
+				count: 70
+				id: "3756D6F0EF4E4C84"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "0E5DC8C20001D558"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Animal Crossing Completion"
+			x: -1.0d
+			y: 106.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1B5D79DD370E48CE"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_overwatch_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1855514C202ACD20"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "489FE92A1A9544C8"
+				item: "luphieclutteredmod:luphie_havana_cabinet"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 109.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "632A0E8DE7A5BCEF"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_overwatch_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "425EE2F1C0C5E61B"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "514F5682F6D0A093"
+				item: "luphieclutteredmod:luphie_cluttered_havana_cabinet"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 109.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "36322213B64703CC"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_overwatch_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1F0C2C6250D97BEA"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7CAE3A0B823DD75D"
+				item: "luphieclutteredmod:purple_cabinet"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 109.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0BFFFAD52B7B9FFB"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_overwatch_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "16A546B4B9C073E6"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7678CD0D999EFFD3"
+				item: "luphieclutteredmod:cluttered_purple_cabinet"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 109.5d
+		}
+		{
+			dependencies: [
+				"1B5D79DD370E48CE"
+				"632A0E8DE7A5BCEF"
+				"36322213B64703CC"
+				"0BFFFAD52B7B9FFB"
+			]
+			icon: "luphieclutteredmod:cluttered_purple_cabinet"
+			id: "6CC4E34D15ED3862"
+			rewards: [{
+				count: 4
+				id: "4EC642700C4B3C0F"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "2F628A7997D7B369"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Overwatch Completion"
+			x: -1.0d
+			y: 109.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "07B339BF10327BEE"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_table_and_desks_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "69BD7D9386A46D18"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "31329ECF993399A1"
+				item: "luphieclutteredmod:luphie_nightstand"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 111.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "7F908C3317188B26"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_table_and_desks_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "14A798C32F6BB190"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "431124431F2003BE"
+				item: "luphieclutteredmod:luphie_rose_endtable"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 111.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3DF5619BCF377533"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_table_and_desks_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "65AF8595B8EB9469"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "051386A6D34C42FE"
+				item: "luphieclutteredmod:luphie_gothic_rose_endtable"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 111.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0E6693AF3883F7F1"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_table_and_desks_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4A5DDB50640B047C"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "258325FA4868BB65"
+				item: "luphieclutteredmod:luphie_table_with_cloth"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 111.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "6DEA504FDF83EC2D"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_table_and_desks_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "43EE92E937D22BD5"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "03D2F63B05BB2019"
+				item: "luphieclutteredmod:luphie_greener_nightstand"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 111.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "778F1FDFAEFAD214"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_table_and_desks_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4C8C93DD24E6B85C"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6C5BDD9DB3E79A7A"
+				item: "luphieclutteredmod:luphie_cluttered_green_desk"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 111.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1C5339740F8C5049"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_table_and_desks_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3ACF15CE48E2628C"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7C7E8A09D68196E6"
+				item: "luphieclutteredmod:luphie_green_desk"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 112.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2F2FFCFD3FF3194F"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_table_and_desks_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "30EB62CBDEC07107"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "326B2E80ECC73438"
+				item: "luphieclutteredmod:luphie_cluttered_desk"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 112.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "7770358C5765FC73"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_table_and_desks_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0B7DF2C1BAC3994D"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0CDAA3CD07566FAD"
+				item: "luphieclutteredmod:luphie_brown_desk"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 112.0d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "15C20AA45D9B5781"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_table_and_desks_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "653D7350F2FFC7DA"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "782B54FB2858F4FA"
+				item: "luphieclutteredmod:luphie_imperial_table"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 112.0d
+		}
+		{
+			dependencies: [
+				"07B339BF10327BEE"
+				"7F908C3317188B26"
+				"3DF5619BCF377533"
+				"0E6693AF3883F7F1"
+				"6DEA504FDF83EC2D"
+				"778F1FDFAEFAD214"
+				"1C5339740F8C5049"
+				"2F2FFCFD3FF3194F"
+				"7770358C5765FC73"
+				"15C20AA45D9B5781"
+			]
+			icon: "luphieclutteredmod:luphie_imperial_table"
+			id: "65B53DBA0194BC50"
+			rewards: [{
+				count: 16
+				id: "4FA372C9EE50B0C6"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "046EA7D11B57E4EF"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Table and Desks Completion"
+			x: -1.0d
+			y: 111.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4FF89D4D888C41FE"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_cluttered_mod_misc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "013025180D3AB7BE"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "154300C465E233E0"
+				item: "luphieclutteredmod:luphie_antique_sewing_machine"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 113.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "4F9A29009FFE629C"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_cluttered_mod_misc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "6C23573D4AC8463F"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0D21B3C4BC4AC07F"
+				item: "luphieclutteredmod:luphie_empty_bulletin_board"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 113.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2B16C1BEEC0E5F55"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_cluttered_mod_misc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "18BB56A2713AE861"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "40011997D1A53F18"
+				item: "luphieclutteredmod:luphie_cauldron_poster"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 113.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "17C680488C280395"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_cluttered_mod_misc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7A9AE26743B6E6D1"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0B12A2D5FF3A67D7"
+				item: "luphieclutteredmod:luphie_cluttered_seltzer_cans"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 113.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "7ED0B9902702FE98"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_cluttered_mod_misc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "3544154981FEF4F3"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "54B132BC6FA233E1"
+				item: "luphieclutteredmod:luphie_envelope_stack"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 113.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "7159979859B6C486"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_cluttered_mod_misc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "30FFC1B5BCA3A0E7"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "426AC731DC8B64E8"
+				item: "luphieclutteredmod:luphie_hanging_dish_towel"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 113.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1442E5086DE304E3"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_cluttered_mod_misc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "608A5B4281761CC7"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6EA6410DF5872AD5"
+				item: "luphieclutteredmod:luphie_key"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 114.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "2632EC778E81C5D1"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_cluttered_mod_misc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7B59A1C8E461ED19"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "5A9C546568E74581"
+				item: "luphieclutteredmod:luphie_office_box"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 114.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "663E42FFFAE52A38"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_cluttered_mod_misc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "654352A6D28F56D1"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "71B4C37FFE789E56"
+				item: "luphieclutteredmod:luphie_office_supplies_clutter"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 114.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "1FB99B6BA3005BDC"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_cluttered_mod_misc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "29432F198982F056"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7A34E95D90766476"
+				item: "luphieclutteredmod:luphie_salt_and_pepper_shakers"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 114.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "0CDA04A14F104ED7"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_cluttered_mod_misc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1781853D13B253A2"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0DF12B7B3ACAA11D"
+				item: "luphieclutteredmod:luphie_sewing_clutter"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 114.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "07B8B05A69DBFC59"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_cluttered_mod_misc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "15F9D59B95F4C168"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "1647C597B3A24665"
+				item: "luphieclutteredmod:luphie_vial_stand"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 114.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "152393502B8BC71E"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_cluttered_mod_misc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1304624C8ABD6D29"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6ABE6D87C2BD6FBE"
+				item: "luphieclutteredmod:luphie_cluttered_cat_mugs"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 115.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "394E09ADE2C77DA2"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_cluttered_mod_misc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0820D57CB2A81A75"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "692A9EE7431F5773"
+				item: "luphieclutteredmod:luphie_tea_kettle"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 115.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "7765F6CAA1254204"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_cluttered_mod_misc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "76D64C66A44B01E2"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "71091818D281C81D"
+				item: "luphieclutteredmod:luphie_heart_cake"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 115.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "594DFC3A6702F29A"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_cluttered_mod_misc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "1918F8921FC822C8"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "3198C55DBC23395A"
+				item: "luphieclutteredmod:luphie_heart_armchair"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 115.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "26A2F9BF5B434D32"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_cluttered_mod_misc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "0642AAEB4491C0A8"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "41AAE404967E2239"
+				item: "luphieclutteredmod:luphie_paint_water_jar"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 115.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "5B5E4E5B9594201B"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_cluttered_mod_misc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "2FB9F4FA28DA32AC"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "3F9F34FE64C8A99E"
+				item: "luphieclutteredmod:luphie_polaroid_camera"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 115.5d
+		}
+		{
+			dependencies: ["7DA124C26F220448"]
+			disable_toast: true
+			hide: true
+			id: "3383A66CBFEF8FAC"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:common_decorations_cluttered_mod_misc_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "23EB658E7143BB6F"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "36C1C714AA8311E3"
+				item: "luphieclutteredmod:plant_ladder"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 116.5d
+		}
+		{
+			dependencies: [
+				"4FF89D4D888C41FE"
+				"4F9A29009FFE629C"
+				"2B16C1BEEC0E5F55"
+				"17C680488C280395"
+				"7ED0B9902702FE98"
+				"7159979859B6C486"
+				"1442E5086DE304E3"
+				"2632EC778E81C5D1"
+				"663E42FFFAE52A38"
+				"1FB99B6BA3005BDC"
+				"0CDA04A14F104ED7"
+				"07B8B05A69DBFC59"
+				"152393502B8BC71E"
+				"394E09ADE2C77DA2"
+				"7765F6CAA1254204"
+				"594DFC3A6702F29A"
+				"26A2F9BF5B434D32"
+				"5B5E4E5B9594201B"
+				"3383A66CBFEF8FAC"
+			]
+			icon: "luphieclutteredmod:luphie_polaroid_camera"
+			id: "6B73AA516F90D63C"
+			rewards: [{
+				count: 40
+				id: "0F886A31FBA62C4F"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "34CD7AD2909E3B8B"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Cluttered Mod Misc Completion"
+			x: -1.0d
+			y: 115.0d
+		}
 	]
 	title: "Common Decorations"
 }

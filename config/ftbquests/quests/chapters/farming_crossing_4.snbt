@@ -454,6 +454,14 @@
 					silent: true
 					type: "command"
 				}
+				{
+					auto: "no_toast"
+					command: "/function fc_collection:init_all_scores_3_15_cluttered"
+					elevate_perms: true
+					id: "546979F0DF37FFBB"
+					silent: true
+					type: "command"
+				}
 			]
 			tasks: [{
 				id: "3A6B90DF5E7B6794"

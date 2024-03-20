@@ -17,15 +17,19 @@ jessTrades = [
 	[], (
 		cqlist.commonHandheldInstruments + cqlist.commonSnare + cqlist.commonBathroom + cqlist.commonArts
 		+ cqlist.commonToy + cqlist.commonFilm + cqlist.commonTrophies
+		+ cqlist.commonFlowerShelf + cqlist.commonBicycles + cqlist.commonRecordPlayers
+		+ cqlist.commonFridges + cqlist.commonBirdhouse + cqlist.commonWallDecs + cqlist.commonLamps
 	), (
 		cqlist.commonMariachi + cqlist.commonGraveyard + cqlist.commonFestive + cqlist.commonLab
 		+ cqlist.commonBooksExploration +
-		cqlist.commonPlushSheep + cqlist.commonPlushHorse
+		cqlist.commonPlushSheep + cqlist.commonPlushHorse + cqlist.commonZelda
+		+ cqlist.commonRubiksCube + cqlist.commonSims + cqlist.commonStarbound + cqlist.commonAnimalCrossing
 	), (
 		cqlist.commonPlushHomeAnimal + cqlist.commonPlushCat + cqlist.commonPlushParrot
 		+ cqlist.commonPlushFrog + cqlist.commonPlushLlama + cqlist.commonPlushWildAnimal + cqlist.commonPlushAxolotl
 		+ cqlist.commonPlushWaterAnimal + cqlist.commonPlushVillage + cqlist.commonPlushNether + cqlist.commonPlushZombie
 		+ cqlist.commonPlushRaid + cqlist.commonPlushHostileMob + cqlist.commonPlushBoss + cqlist.commonPlushRabbit
+		+ cqlist.commonOverwatch + cqlist.commonTableAndDesks + cqlist.commonClutterModMisc
 	),
 	cqlist.allRareMusic,
 	cqlist.allRareDeco

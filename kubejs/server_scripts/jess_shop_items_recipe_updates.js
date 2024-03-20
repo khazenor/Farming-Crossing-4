@@ -332,6 +332,144 @@ ServerEvents.recipes(event => {
   event.remove({ output: 'playdate:wooden_duck' })
   event.remove({ output: 'playdate:wooden_soldier' })
   event.remove({ output: 'moa_decor_science:pizarra' })
+  event.remove({ output: 'luphieclutteredmod:blue_flower_shelf' })
+  event.remove({ output: 'luphieclutteredmod:green_flower_shelf' })
+  event.remove({ output: 'luphieclutteredmod:pastel_yellow_flowershelf' })
+  event.remove({ output: 'luphieclutteredmod:pink_flower_shelf' })
+  event.remove({ output: 'luphieclutteredmod:purple_flower_shelf' })
+  event.remove({ output: 'luphieclutteredmod:yellow_flower_shelf' })
+  event.remove({ output: 'luphieclutteredmod:pink_bicycle' })
+  event.remove({ output: 'luphieclutteredmod:blue_bicycle' })
+  event.remove({ output: 'luphieclutteredmod:purple_bicycle' })
+  event.remove({ output: 'luphieclutteredmod:yellow_bicycle' })
+  event.remove({ output: 'luphieclutteredmod:cute_pink_bicycle' })
+  event.remove({ output: 'luphieclutteredmod:cute_blue_bicycle' })
+  event.remove({ output: 'luphieclutteredmod:cute_purple_bicycle' })
+  event.remove({ output: 'luphieclutteredmod:cute_yellow_bicycle' })
+  event.remove({ output: 'luphieclutteredmod:luphie_blue_record_player' })
+  event.remove({ output: 'luphieclutteredmod:luphie_yellow_record_player' })
+  event.remove({ output: 'luphieclutteredmod:luphie_pink_record_player' })
+  event.remove({ output: 'luphieclutteredmod:luphie_brown_record_player' })
+  event.remove({ output: 'luphieclutteredmod:luphie_retro_pink_fridge' })
+  event.remove({ output: 'luphieclutteredmod:luphie_retro_yellow_fridge' })
+  event.remove({ output: 'luphieclutteredmod:luphie_retro_green_fridge' })
+  event.remove({ output: 'luphieclutteredmod:luphie_retro_black_fridge' })
+  event.remove({ output: 'luphieclutteredmod:blue_birdhouse' })
+  event.remove({ output: 'luphieclutteredmod:red_birdhouse' })
+  event.remove({ output: 'luphieclutteredmod:unpainted_birdhouse' })
+  event.remove({ output: 'luphieclutteredmod:blue_birdhouse' })
+  event.remove({ output: 'luphieclutteredmod:red_birdhouse' })
+  event.remove({ output: 'luphieclutteredmod:unpainted_birdhouse' })
+  event.remove({ output: 'luphieclutteredmod:luphie_bunny_garland' })
+  event.remove({ output: 'luphieclutteredmod:luphie_black_cat_garland' })
+  event.remove({ output: 'luphieclutteredmod:luphie_heart_garland' })
+  event.remove({ output: 'luphieclutteredmod:luphie_sunflower_garland' })
+  event.remove({ output: 'luphieclutteredmod:luphie_blossom_garland' })
+  event.remove({ output: 'luphieclutteredmod:luphie_drying_herb_garland' })
+  event.remove({ output: 'luphieclutteredmod:luphie_polaroid_garland_a' })
+  event.remove({ output: 'luphieclutteredmod:luphie_polaroid_garland_b' })
+  event.remove({ output: 'luphieclutteredmod:luphie_polaroids_a' })
+  event.remove({ output: 'luphieclutteredmod:luphie_polaroids_b' })
+  event.remove({ output: 'luphieclutteredmod:luphie_polaroids_c' })
+  event.remove({ output: 'luphieclutteredmod:luphie_honeycomb_lamp' })
+  event.remove({ output: 'luphieclutteredmod:luphie_lemon_table' })
+  event.remove({ output: 'luphieclutteredmod:luphie_hoppin_park_lantern' })
+  event.remove({ output: 'luphieclutteredmod:luphie_handheld_sea_gem_lantern' })
+  event.remove({ output: 'luphieclutteredmod:luphie_antique_lamp' })
+  event.remove({ output: 'luphieclutteredmod:luphie_steampunk_lamp' })
+  event.remove({ output: 'luphieclutteredmod:luphie_caged_bulb' })
+  event.remove({ output: 'luphieclutteredmod:luphie_flower_desk_lamp' })
+  event.remove({ output: 'luphieclutteredmod:luphie_bee_lamp' })
+  event.remove({ output: 'luphieclutteredmod:luphie_angry_bee_lamp' })
+  event.remove({ output: 'luphieclutteredmod:stainedglasslamp' })
+  event.remove({ output: 'luphieclutteredmod:rito_village_books' })
+  event.remove({ output: 'luphieclutteredmod:blue_sand_seal_plush' })
+  event.remove({ output: 'luphieclutteredmod:red_sand_seal_plush' })
+  event.remove({ output: 'luphieclutteredmod:green_sand_seal_plush' })
+  event.remove({ output: 'luphieclutteredmod:tarrey_town_stove' })
+  event.remove({ output: 'luphieclutteredmod:cluttered_tarrey_town_wood_stove' })
+  event.remove({ output: 'luphieclutteredmod:rubiks_cube' })
+  event.remove({ output: 'luphieclutteredmod:pastel_rubiks_cube' })
+  event.remove({ output: 'luphieclutteredmod:scrambled_rubiks_cube' })
+  event.remove({ output: 'luphieclutteredmod:scrambled_pastel_rubiks_cube' })
+  event.remove({ output: 'luphieclutteredmod:luphie_antique_book_stand' })
+  event.remove({ output: 'luphieclutteredmod:luphie_bunny_book_ends' })
+  event.remove({ output: 'luphieclutteredmod:luphie_unliving_chair' })
+  event.remove({ output: 'luphieclutteredmod:luphie_wedding_arch' })
+  event.remove({ output: 'luphieclutteredmod:luphie_ancient_codex' })
+  event.remove({ output: 'luphieclutteredmod:luphie_card_index' })
+  event.remove({ output: 'luphieclutteredmod:luphie_china_cabinet' })
+  event.remove({ output: 'luphieclutteredmod:luphie_classic_radio' })
+  event.remove({ output: 'luphieclutteredmod:luphie_mushroom_chest' })
+  event.remove({ output: 'luphieclutteredmod:luphie_mushroom_lamp' })
+  event.remove({ output: 'luphieclutteredmod:luphie_mushroom_table' })
+  event.remove({ output: 'luphieclutteredmod:luphie_mushroom_wardrobe' })
+  event.remove({ output: 'luphieclutteredmod:luphie_pastel_chair' })
+  event.remove({ output: 'luphieclutteredmod:luphiebunny_plushie' })
+  event.remove({ output: 'luphieclutteredmod:luphie_pastel_table' })
+  event.remove({ output: 'luphieclutteredmod:luphie_safe' })
+  event.remove({ output: 'luphieclutteredmod:luphie_steampunk_globe' })
+  event.remove({ output: 'luphieclutteredmod:luphie_pastel_wardrobe' })
+  event.remove({ output: 'luphieclutteredmod:luphie_general_store_cabinet' })
+  event.remove({ output: 'luphieclutteredmod:luphie_art_academy_box_of_paint' })
+  event.remove({ output: 'luphieclutteredmod:luphie_mermaid_dresser' })
+  event.remove({ output: 'luphieclutteredmod:luphie_briefcase' })
+  event.remove({ output: 'luphieclutteredmod:luphie_lunar_observatory_basket_of_papers' })
+  event.remove({ output: 'luphieclutteredmod:luphie_lunar_observatory_globe' })
+  event.remove({ output: 'luphieclutteredmod:luphie_lunar_observatory_jars' })
+  event.remove({ output: 'luphieclutteredmod:luphie_lunar_observatory_small_table' })
+  event.remove({ output: 'luphieclutteredmod:luphie_lunar_observatory_table' })
+  event.remove({ output: 'luphieclutteredmod:luphie_small_cauldron_set' })
+  event.remove({ output: 'luphieclutteredmod:luphie_pastel_block_bookshelf' })
+  event.remove({ output: 'luphieclutteredmod:luphie_lunar_observatory_books' })
+  event.remove({ output: 'luphieclutteredmod:luphie_baking_set_a' })
+  event.remove({ output: 'luphieclutteredmod:luphie_pastel_traditional_table' })
+  event.remove({ output: 'luphieclutteredmod:luphie_coffee_grinder' })
+  event.remove({ output: 'luphieclutteredmod:luphie_retro_cafe_shelf' })
+  event.remove({ output: 'luphieclutteredmod:luphie_retro_cafe_shelf_stained_glass' })
+  event.remove({ output: 'luphieclutteredmod:luphie_rovers_mug' })
+  event.remove({ output: 'luphieclutteredmod:luphie_rovers_stool' })
+  event.remove({ output: 'luphieclutteredmod:luphie_analog_kitchen_scale' })
+  event.remove({ output: 'luphieclutteredmod:luphie_apple_chair' })
+  event.remove({ output: 'luphieclutteredmod:luphie_button_stool' })
+  event.remove({ output: 'luphieclutteredmod:luphie_green_gumball_machine' })
+  event.remove({ output: 'luphieclutteredmod:luphie_purple_gumball_machine' })
+  event.remove({ output: 'luphieclutteredmod:luphie_mermaid_pearl' })
+  event.remove({ output: 'luphieclutteredmod:luphie_potion_shelf' })
+  event.remove({ output: 'luphieclutteredmod:luphie_sewing_table_clutter' })
+  event.remove({ output: 'luphieclutteredmod:luphie_havana_cabinet' })
+  event.remove({ output: 'luphieclutteredmod:luphie_cluttered_havana_cabinet' })
+  event.remove({ output: 'luphieclutteredmod:purple_cabinet' })
+  event.remove({ output: 'luphieclutteredmod:cluttered_purple_cabinet' })
+  event.remove({ output: 'luphieclutteredmod:luphie_nightstand' })
+  event.remove({ output: 'luphieclutteredmod:luphie_rose_endtable' })
+  event.remove({ output: 'luphieclutteredmod:luphie_gothic_rose_endtable' })
+  event.remove({ output: 'luphieclutteredmod:luphie_table_with_cloth' })
+  event.remove({ output: 'luphieclutteredmod:luphie_greener_nightstand' })
+  event.remove({ output: 'luphieclutteredmod:luphie_cluttered_green_desk' })
+  event.remove({ output: 'luphieclutteredmod:luphie_green_desk' })
+  event.remove({ output: 'luphieclutteredmod:luphie_cluttered_desk' })
+  event.remove({ output: 'luphieclutteredmod:luphie_brown_desk' })
+  event.remove({ output: 'luphieclutteredmod:luphie_imperial_table' })
+  event.remove({ output: 'luphieclutteredmod:luphie_antique_sewing_machine' })
+  event.remove({ output: 'luphieclutteredmod:luphie_empty_bulletin_board' })
+  event.remove({ output: 'luphieclutteredmod:luphie_cauldron_poster' })
+  event.remove({ output: 'luphieclutteredmod:luphie_cluttered_seltzer_cans' })
+  event.remove({ output: 'luphieclutteredmod:luphie_envelope_stack' })
+  event.remove({ output: 'luphieclutteredmod:luphie_hanging_dish_towel' })
+  event.remove({ output: 'luphieclutteredmod:luphie_key' })
+  event.remove({ output: 'luphieclutteredmod:luphie_office_box' })
+  event.remove({ output: 'luphieclutteredmod:luphie_office_supplies_clutter' })
+  event.remove({ output: 'luphieclutteredmod:luphie_salt_and_pepper_shakers' })
+  event.remove({ output: 'luphieclutteredmod:luphie_sewing_clutter' })
+  event.remove({ output: 'luphieclutteredmod:luphie_vial_stand' })
+  event.remove({ output: 'luphieclutteredmod:luphie_cluttered_cat_mugs' })
+  event.remove({ output: 'luphieclutteredmod:luphie_tea_kettle' })
+  event.remove({ output: 'luphieclutteredmod:luphie_heart_cake' })
+  event.remove({ output: 'luphieclutteredmod:luphie_heart_armchair' })
+  event.remove({ output: 'luphieclutteredmod:luphie_paint_water_jar' })
+  event.remove({ output: 'luphieclutteredmod:luphie_polaroid_camera' })
+  event.remove({ output: 'luphieclutteredmod:plant_ladder' })
   event.remove({ output: 'moa_decor_art:esculturaeldavid' })
   event.remove({ output: 'moa_decor_art:esculturaelpensador' })
   event.remove({ output: 'moa_decor_art:esculturaeldiscobolo' })
@@ -1405,5 +1543,419 @@ ServerEvents.recipes(event => {
   event.shapeless(
     Item.of('moa_decor_science:pizarra', 2),
     ['moa_decor_science:pizarra', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:blue_flower_shelf', 2),
+    ['luphieclutteredmod:blue_flower_shelf', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:green_flower_shelf', 2),
+    ['luphieclutteredmod:green_flower_shelf', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:pastel_yellow_flowershelf', 2),
+    ['luphieclutteredmod:pastel_yellow_flowershelf', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:pink_flower_shelf', 2),
+    ['luphieclutteredmod:pink_flower_shelf', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:purple_flower_shelf', 2),
+    ['luphieclutteredmod:purple_flower_shelf', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:yellow_flower_shelf', 2),
+    ['luphieclutteredmod:yellow_flower_shelf', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:pink_bicycle', 2),
+    ['luphieclutteredmod:pink_bicycle', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:blue_bicycle', 2),
+    ['luphieclutteredmod:blue_bicycle', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:purple_bicycle', 2),
+    ['luphieclutteredmod:purple_bicycle', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:yellow_bicycle', 2),
+    ['luphieclutteredmod:yellow_bicycle', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:cute_pink_bicycle', 2),
+    ['luphieclutteredmod:cute_pink_bicycle', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:cute_blue_bicycle', 2),
+    ['luphieclutteredmod:cute_blue_bicycle', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:cute_purple_bicycle', 2),
+    ['luphieclutteredmod:cute_purple_bicycle', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:cute_yellow_bicycle', 2),
+    ['luphieclutteredmod:cute_yellow_bicycle', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_blue_record_player', 2),
+    ['luphieclutteredmod:luphie_blue_record_player', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_yellow_record_player', 2),
+    ['luphieclutteredmod:luphie_yellow_record_player', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_pink_record_player', 2),
+    ['luphieclutteredmod:luphie_pink_record_player', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_brown_record_player', 2),
+    ['luphieclutteredmod:luphie_brown_record_player', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_retro_pink_fridge', 2),
+    ['luphieclutteredmod:luphie_retro_pink_fridge', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_retro_yellow_fridge', 2),
+    ['luphieclutteredmod:luphie_retro_yellow_fridge', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_retro_green_fridge', 2),
+    ['luphieclutteredmod:luphie_retro_green_fridge', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_retro_black_fridge', 2),
+    ['luphieclutteredmod:luphie_retro_black_fridge', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:blue_birdhouse', 2),
+    ['luphieclutteredmod:blue_birdhouse', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:red_birdhouse', 2),
+    ['luphieclutteredmod:red_birdhouse', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:unpainted_birdhouse', 2),
+    ['luphieclutteredmod:unpainted_birdhouse', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:blue_birdhouse', 2),
+    ['luphieclutteredmod:blue_birdhouse', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:red_birdhouse', 2),
+    ['luphieclutteredmod:red_birdhouse', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:unpainted_birdhouse', 2),
+    ['luphieclutteredmod:unpainted_birdhouse', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_bunny_garland', 2),
+    ['luphieclutteredmod:luphie_bunny_garland', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_black_cat_garland', 2),
+    ['luphieclutteredmod:luphie_black_cat_garland', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_heart_garland', 2),
+    ['luphieclutteredmod:luphie_heart_garland', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_sunflower_garland', 2),
+    ['luphieclutteredmod:luphie_sunflower_garland', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_blossom_garland', 2),
+    ['luphieclutteredmod:luphie_blossom_garland', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_drying_herb_garland', 2),
+    ['luphieclutteredmod:luphie_drying_herb_garland', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_polaroid_garland_a', 2),
+    ['luphieclutteredmod:luphie_polaroid_garland_a', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_polaroid_garland_b', 2),
+    ['luphieclutteredmod:luphie_polaroid_garland_b', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_polaroids_a', 2),
+    ['luphieclutteredmod:luphie_polaroids_a', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_polaroids_b', 2),
+    ['luphieclutteredmod:luphie_polaroids_b', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_polaroids_c', 2),
+    ['luphieclutteredmod:luphie_polaroids_c', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_honeycomb_lamp', 2),
+    ['luphieclutteredmod:luphie_honeycomb_lamp', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_lemon_table', 2),
+    ['luphieclutteredmod:luphie_lemon_table', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_hoppin_park_lantern', 2),
+    ['luphieclutteredmod:luphie_hoppin_park_lantern', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_handheld_sea_gem_lantern', 2),
+    ['luphieclutteredmod:luphie_handheld_sea_gem_lantern', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_antique_lamp', 2),
+    ['luphieclutteredmod:luphie_antique_lamp', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_steampunk_lamp', 2),
+    ['luphieclutteredmod:luphie_steampunk_lamp', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_caged_bulb', 2),
+    ['luphieclutteredmod:luphie_caged_bulb', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_flower_desk_lamp', 2),
+    ['luphieclutteredmod:luphie_flower_desk_lamp', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_bee_lamp', 2),
+    ['luphieclutteredmod:luphie_bee_lamp', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_angry_bee_lamp', 2),
+    ['luphieclutteredmod:luphie_angry_bee_lamp', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:stainedglasslamp', 2),
+    ['luphieclutteredmod:stainedglasslamp', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:rito_village_books', 2),
+    ['luphieclutteredmod:rito_village_books', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:blue_sand_seal_plush', 2),
+    ['luphieclutteredmod:blue_sand_seal_plush', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:red_sand_seal_plush', 2),
+    ['luphieclutteredmod:red_sand_seal_plush', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:green_sand_seal_plush', 2),
+    ['luphieclutteredmod:green_sand_seal_plush', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:tarrey_town_stove', 2),
+    ['luphieclutteredmod:tarrey_town_stove', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:cluttered_tarrey_town_wood_stove', 2),
+    ['luphieclutteredmod:cluttered_tarrey_town_wood_stove', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:rubiks_cube', 2),
+    ['luphieclutteredmod:rubiks_cube', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:pastel_rubiks_cube', 2),
+    ['luphieclutteredmod:pastel_rubiks_cube', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:scrambled_rubiks_cube', 2),
+    ['luphieclutteredmod:scrambled_rubiks_cube', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:scrambled_pastel_rubiks_cube', 2),
+    ['luphieclutteredmod:scrambled_pastel_rubiks_cube', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_antique_book_stand', 2),
+    ['luphieclutteredmod:luphie_antique_book_stand', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_bunny_book_ends', 2),
+    ['luphieclutteredmod:luphie_bunny_book_ends', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_unliving_chair', 2),
+    ['luphieclutteredmod:luphie_unliving_chair', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_wedding_arch', 2),
+    ['luphieclutteredmod:luphie_wedding_arch', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_ancient_codex', 2),
+    ['luphieclutteredmod:luphie_ancient_codex', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_card_index', 2),
+    ['luphieclutteredmod:luphie_card_index', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_china_cabinet', 2),
+    ['luphieclutteredmod:luphie_china_cabinet', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_classic_radio', 2),
+    ['luphieclutteredmod:luphie_classic_radio', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_mushroom_chest', 2),
+    ['luphieclutteredmod:luphie_mushroom_chest', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_mushroom_lamp', 2),
+    ['luphieclutteredmod:luphie_mushroom_lamp', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_mushroom_table', 2),
+    ['luphieclutteredmod:luphie_mushroom_table', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_mushroom_wardrobe', 2),
+    ['luphieclutteredmod:luphie_mushroom_wardrobe', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_pastel_chair', 2),
+    ['luphieclutteredmod:luphie_pastel_chair', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphiebunny_plushie', 2),
+    ['luphieclutteredmod:luphiebunny_plushie', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_pastel_table', 2),
+    ['luphieclutteredmod:luphie_pastel_table', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_safe', 2),
+    ['luphieclutteredmod:luphie_safe', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_steampunk_globe', 2),
+    ['luphieclutteredmod:luphie_steampunk_globe', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_pastel_wardrobe', 2),
+    ['luphieclutteredmod:luphie_pastel_wardrobe', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_general_store_cabinet', 2),
+    ['luphieclutteredmod:luphie_general_store_cabinet', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_art_academy_box_of_paint', 2),
+    ['luphieclutteredmod:luphie_art_academy_box_of_paint', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_mermaid_dresser', 2),
+    ['luphieclutteredmod:luphie_mermaid_dresser', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_briefcase', 2),
+    ['luphieclutteredmod:luphie_briefcase', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_lunar_observatory_basket_of_papers', 2),
+    ['luphieclutteredmod:luphie_lunar_observatory_basket_of_papers', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_lunar_observatory_globe', 2),
+    ['luphieclutteredmod:luphie_lunar_observatory_globe', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_lunar_observatory_jars', 2),
+    ['luphieclutteredmod:luphie_lunar_observatory_jars', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_lunar_observatory_small_table', 2),
+    ['luphieclutteredmod:luphie_lunar_observatory_small_table', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_lunar_observatory_table', 2),
+    ['luphieclutteredmod:luphie_lunar_observatory_table', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_small_cauldron_set', 2),
+    ['luphieclutteredmod:luphie_small_cauldron_set', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_pastel_block_bookshelf', 2),
+    ['luphieclutteredmod:luphie_pastel_block_bookshelf', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_lunar_observatory_books', 2),
+    ['luphieclutteredmod:luphie_lunar_observatory_books', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_baking_set_a', 2),
+    ['luphieclutteredmod:luphie_baking_set_a', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_pastel_traditional_table', 2),
+    ['luphieclutteredmod:luphie_pastel_traditional_table', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_coffee_grinder', 2),
+    ['luphieclutteredmod:luphie_coffee_grinder', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_retro_cafe_shelf', 2),
+    ['luphieclutteredmod:luphie_retro_cafe_shelf', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_retro_cafe_shelf_stained_glass', 2),
+    ['luphieclutteredmod:luphie_retro_cafe_shelf_stained_glass', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_rovers_mug', 2),
+    ['luphieclutteredmod:luphie_rovers_mug', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_rovers_stool', 2),
+    ['luphieclutteredmod:luphie_rovers_stool', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_analog_kitchen_scale', 2),
+    ['luphieclutteredmod:luphie_analog_kitchen_scale', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_apple_chair', 2),
+    ['luphieclutteredmod:luphie_apple_chair', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_button_stool', 2),
+    ['luphieclutteredmod:luphie_button_stool', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_green_gumball_machine', 2),
+    ['luphieclutteredmod:luphie_green_gumball_machine', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_purple_gumball_machine', 2),
+    ['luphieclutteredmod:luphie_purple_gumball_machine', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_mermaid_pearl', 2),
+    ['luphieclutteredmod:luphie_mermaid_pearl', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_potion_shelf', 2),
+    ['luphieclutteredmod:luphie_potion_shelf', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_sewing_table_clutter', 2),
+    ['luphieclutteredmod:luphie_sewing_table_clutter', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_havana_cabinet', 2),
+    ['luphieclutteredmod:luphie_havana_cabinet', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_cluttered_havana_cabinet', 2),
+    ['luphieclutteredmod:luphie_cluttered_havana_cabinet', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:purple_cabinet', 2),
+    ['luphieclutteredmod:purple_cabinet', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:cluttered_purple_cabinet', 2),
+    ['luphieclutteredmod:cluttered_purple_cabinet', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_nightstand', 2),
+    ['luphieclutteredmod:luphie_nightstand', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_rose_endtable', 2),
+    ['luphieclutteredmod:luphie_rose_endtable', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_gothic_rose_endtable', 2),
+    ['luphieclutteredmod:luphie_gothic_rose_endtable', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_table_with_cloth', 2),
+    ['luphieclutteredmod:luphie_table_with_cloth', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_greener_nightstand', 2),
+    ['luphieclutteredmod:luphie_greener_nightstand', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_cluttered_green_desk', 2),
+    ['luphieclutteredmod:luphie_cluttered_green_desk', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_green_desk', 2),
+    ['luphieclutteredmod:luphie_green_desk', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_cluttered_desk', 2),
+    ['luphieclutteredmod:luphie_cluttered_desk', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_brown_desk', 2),
+    ['luphieclutteredmod:luphie_brown_desk', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_imperial_table', 2),
+    ['luphieclutteredmod:luphie_imperial_table', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_antique_sewing_machine', 2),
+    ['luphieclutteredmod:luphie_antique_sewing_machine', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_empty_bulletin_board', 2),
+    ['luphieclutteredmod:luphie_empty_bulletin_board', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_cauldron_poster', 2),
+    ['luphieclutteredmod:luphie_cauldron_poster', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_cluttered_seltzer_cans', 2),
+    ['luphieclutteredmod:luphie_cluttered_seltzer_cans', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_envelope_stack', 2),
+    ['luphieclutteredmod:luphie_envelope_stack', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_hanging_dish_towel', 2),
+    ['luphieclutteredmod:luphie_hanging_dish_towel', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_key', 2),
+    ['luphieclutteredmod:luphie_key', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_office_box', 2),
+    ['luphieclutteredmod:luphie_office_box', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_office_supplies_clutter', 2),
+    ['luphieclutteredmod:luphie_office_supplies_clutter', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_salt_and_pepper_shakers', 2),
+    ['luphieclutteredmod:luphie_salt_and_pepper_shakers', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_sewing_clutter', 2),
+    ['luphieclutteredmod:luphie_sewing_clutter', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_vial_stand', 2),
+    ['luphieclutteredmod:luphie_vial_stand', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_cluttered_cat_mugs', 2),
+    ['luphieclutteredmod:luphie_cluttered_cat_mugs', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_tea_kettle', 2),
+    ['luphieclutteredmod:luphie_tea_kettle', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_heart_cake', 2),
+    ['luphieclutteredmod:luphie_heart_cake', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_heart_armchair', 2),
+    ['luphieclutteredmod:luphie_heart_armchair', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_paint_water_jar', 2),
+    ['luphieclutteredmod:luphie_paint_water_jar', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:luphie_polaroid_camera', 2),
+    ['luphieclutteredmod:luphie_polaroid_camera', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('luphieclutteredmod:plant_ladder', 2),
+    ['luphieclutteredmod:plant_ladder', 'kubejs:miles_ticket'])
 
 })

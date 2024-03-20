@@ -1220,6 +1220,96 @@ questlines = [
         iconKey: 'playdate:rocking_horse',
         dependencyIdKey: '7DA124C26F220448', # buy first decoration
         tasksKey: cqlist.commonToy
+      },
+      { # Flower Shelf
+        nameKey: 'Flower Shelf Completion',
+        iconKey: 'luphieclutteredmod:yellow_flower_shelf',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonFlowerShelf
+      },
+      { # Bicycles
+        nameKey: 'Bicycles Completion',
+        iconKey: 'luphieclutteredmod:cute_yellow_bicycle',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonBicycles
+      },
+      { # Record Players
+        nameKey: 'Record Players Completion',
+        iconKey: 'luphieclutteredmod:luphie_brown_record_player',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonRecordPlayers
+      },
+      { # Fridges
+        nameKey: 'Fridges Completion',
+        iconKey: 'luphieclutteredmod:luphie_retro_black_fridge',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonFridges
+      },
+      { # Birdhouse
+        nameKey: 'Birdhouse Completion',
+        iconKey: 'luphieclutteredmod:unpainted_birdhouse',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonBirdhouse
+      },
+      { # Wall Decorations
+        nameKey: 'Wall Decorations Completion',
+        iconKey: 'luphieclutteredmod:luphie_polaroids_c',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonWallDecs
+      },
+      { # Lamps
+        nameKey: 'Lamps Completion',
+        iconKey: 'luphieclutteredmod:stainedglasslamp',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonLamps
+      },
+      { # Zelda
+        nameKey: 'Zelda Completion',
+        iconKey: 'luphieclutteredmod:red_sand_seal_plush',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonZelda
+      },
+      { # Rubiks Cube
+        nameKey: 'Rubiks Cube Completion',
+        iconKey: 'luphieclutteredmod:scrambled_pastel_rubiks_cube',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonRubiksCube
+      },
+      { # Sims
+        nameKey: 'Sims Completion',
+        iconKey: 'luphieclutteredmod:luphie_wedding_arch',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonSims
+      },
+      { # Starbound
+        nameKey: 'Starbound Completion',
+        iconKey: 'luphieclutteredmod:luphie_pastel_wardrobe',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonStarbound
+      },
+      { # Animal Crossing
+        nameKey: 'Animal Crossing Completion',
+        iconKey: 'luphieclutteredmod:luphie_apple_chair',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonAnimalCrossing
+      },
+      { # Overwatch
+        nameKey: 'Overwatch Completion',
+        iconKey: 'luphieclutteredmod:cluttered_purple_cabinet',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonOverwatch
+      },
+      { # Table and Desks
+        nameKey: 'Table and Desks Completion',
+        iconKey: 'luphieclutteredmod:luphie_imperial_table',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonTableAndDesks
+      },
+      { # Cluttered Mod Misc
+        nameKey: 'Cluttered Mod Misc Completion',
+        iconKey: 'luphieclutteredmod:luphie_polaroid_camera',
+        dependencyIdKey: '7DA124C26F220448',
+        tasksKey: cqlist.commonClutterModMisc
       }
     ]
   },
