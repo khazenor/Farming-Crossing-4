@@ -1,4 +1,7 @@
 # 3.15: 
+## Release Note
+- There are changes to the collection logs in this update.
+- In general it's good practice to backup your worlds and configs before updating.  And since there are updates to the collection logs, I would recommend testing out the collection quests for the newly added clutter mods and existing common decorations are completing normally with cheats after you update. (You can turn on cheats in single player world by opening your game into lan).  After that you can restore your world backup and continue playing with a better sense of security haha. 
 ## Added Cluttered
 - A mod that add furniture and decoration from many games, including Animal Crossing!
 - Jess now sells many of the decorations from this mod in her common decorations section.
@@ -25,6 +28,8 @@
 - framework
 - handoveryouritems
 - TreeChop
+## Server Pack Download:
+- https://www.dropbox.com/scl/fi/oy38hnm1nsgdm24e4gl03/Farming-Crossing-4-Server-v3.15.zip?rlkey=zeitb4rmqkygiktezzhlv6mce&dl=0
 # 3.14: npc trades backend rework
 ## New blocks duplicable with tickets in the crafting table
 - All Logs
