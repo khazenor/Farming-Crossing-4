@@ -9,6 +9,7 @@ if __name__ == "__main__":
 
 	paths.otherInsts = [
 		'D:\\Lee\\Minecraft\\MultiMC\\instances\\Farming Crossing 4 Prod\\.minecraft',
+		'D:\\Lee\\Minecraft\\MultiMC\\instances\\Farming Crossing 4 Prod2\\.minecraft',
 		'D:\\Lee\\Dropbox\\Share\\FarmingCrossing4\\publicServerVersion'
 	]
 	paths.servers = [
