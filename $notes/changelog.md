@@ -1,6 +1,7 @@
 # 3.16:
 - Updated the Farming Crossing 4 resource pack
 - Added some more loading screen tips
+- beach party palm tree can now be placed in a botany pot to produce coconuts
 ## Following items are now available in the Market:
 - ink sac
 - glow ink sac
