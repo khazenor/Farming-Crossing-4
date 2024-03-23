@@ -1140,9 +1140,9 @@
 			description: [
 				"To make an easy mob farm:"
 				""
-				"- Buy a Netherite lasso from the market for 50 tickets"
+				"- Craft a Netherite lasso"
 				"- Capture a mob using the lasso by right clicking it (it might take a few tries)"
-				"- Buy a Netherite farm from the market for 50 tickets (doesn't matter which kind it is)"
+				"- Craft a Netherite farm (doesn't matter which kind it is)"
 				"- Put the Catured mob lasso into the farm to farm the mob drops."
 				""
 				""
@@ -1157,12 +1157,19 @@
 			]
 			icon: "easy_mob_farm:gold_desert_farm"
 			id: "7490729ED7FA8ADC"
-			tasks: [{
-				advancement: "minecraft:adventure/kill_a_mob"
-				criterion: ""
-				id: "75FE3EB699DA2C5F"
-				type: "advancement"
-			}]
+			tasks: [
+				{
+					advancement: "minecraft:adventure/kill_a_mob"
+					criterion: ""
+					id: "75FE3EB699DA2C5F"
+					type: "advancement"
+				}
+				{
+					id: "7F7521AF593E625B"
+					item: "minecraft:netherite_ingot"
+					type: "item"
+				}
+			]
 			title: "Easy Mob Farms"
 			x: 2.5d
 			y: 3.5d
