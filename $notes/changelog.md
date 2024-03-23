@@ -1,8 +1,11 @@
 # 3.16:
-## Release Note
-- There are changes to the collection logs in this update.
+## Release Notes
+### There are changes to the collection logs in this update.
 - In general it's good practice to backup your worlds and configs before updating.  And since there are updates to the collection logs, I would recommend testing out the animal observation quests with a backup of your world.
 - To test, first make a back up of the world. Go into the world and trigger some observation quest (like the newly added camel and maybe some others).  If the server messages are appearing as expected and you can still complete collection achievements. Then all is clear!
+### I've also added a script that checks for potential problem block placements when any players place blocks
+- I've tested this on single player and my scripts doesn't seem to cause any performance problems.
+- Server admins, you guys might want to monitor the server a bit around players placing blocks just to make sure they there is not a significant lag (though personally I think it's unlikely, just want to point out in case)
 ## Updates 
 - Disable the ability to place botany pots on top of let's do work stations as it causes a server crash
 - Added a tool tip on beach party radio explaining that changing the channels on it causes other players to crash.
