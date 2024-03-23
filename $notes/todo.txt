@@ -1,5 +1,10 @@
 
 
+mob biset:
+  - merge modgroups with common dependencies
+  - remove duplicates in modgroups
+  - detect double failures
+
 patchouli tutorial migration?
 seasonal update
   - villagers buy seasonal foods
