@@ -43,4 +43,8 @@ ItemEvents.tooltip(event => {
     "You can reroll this villager spawn egg by",
     "putting two of these eggs in the crafting table"
   ])
+
+  event.add('moa_decor_cookery:tetera', [
+    "This item can be created with a water bottle or any potion"
+  ])
 })

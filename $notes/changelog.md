@@ -10,6 +10,7 @@
 - beach party palm tree can now be placed in a botany pot to produce coconuts
 - Added camel to Animal Observation Quests
 - Removed Easy mob farms from the market and re-enable the their recipes from the original mod author.
+- Added a tooltip for teta pots to help people craft them.
 ## Following items are now available in the Market:
 - ink sac
 - glow ink sac
