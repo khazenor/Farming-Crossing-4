@@ -133,8 +133,8 @@ def villagerTradesContent(content):
 def registryFileContent(registryType, content):
 	return f"StartupEvents.registry('{registryType}', event => {{\n{content}}})"
 
-def tagsContent(content):
-	return f"ServerEvents.tags('item', event => {{\n{content}\n}})"
+def tagsContent(content, tagType='item'):
+	return f"ServerEvents.tags('{tagType}', event => {{\n{content}\n}})"
 
 def generateSimpleTags(itemIds, tag, filename):
 	writeServerFile(
