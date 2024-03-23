@@ -152,7 +152,8 @@ ItemEvents.tooltip(event => {
       'minecraft:spider_eye', 
       'minecraft:gunpowder', 
       'minecraft:prismarine_shard', 
-      'minecraft:prismarine_crystals'
+      'minecraft:prismarine_crystals', 
+      'minecraft:glow_ink_sac'
     ],
     [
       'Obtainable for 8 tickets in the market'
@@ -361,6 +362,7 @@ ItemEvents.tooltip(event => {
       'minecraft:bone', 
       'minecraft:slime_ball', 
       'minecraft:bow', 
+      'minecraft:ink_sac', 
       'alexsmobs:bone_serpent_tooth', 
       'minecraft:quartz'
     ],
@@ -629,7 +631,8 @@ ItemEvents.tooltip(event => {
   event.add(
     [
       'minecraft:ender_pearl', 
-      'minecraft:blaze_rod'
+      'minecraft:blaze_rod', 
+      'minecraft:ghast_tear'
     ],
     [
       'Obtainable for 24 tickets in the market'

@@ -1,5 +1,10 @@
 # 3.16:
 - Updated the Farming Crossing 4 resource pack
+- Added some more loading screen tips
+## Following items are now available in the Market:
+- ink sac
+- glow ink sac
+- ghast tears
 # 3.15: 
 ## Release Note
 - There are changes to the collection logs in this update.

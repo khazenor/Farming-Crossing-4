@@ -417,6 +417,17 @@
     },
     {
       "output": {
+        "item": "minecraft:ink_sac",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
         "item": "minecraft:spider_eye",
         "count": 1
       },
@@ -461,6 +472,17 @@
     },
     {
       "output": {
+        "item": "minecraft:glow_ink_sac",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
         "item": "minecraft:ender_pearl",
         "count": 1
       },
@@ -473,6 +495,17 @@
     {
       "output": {
         "item": "minecraft:blaze_rod",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 24
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "minecraft:ghast_tear",
         "count": 1
       },
       "payment": {

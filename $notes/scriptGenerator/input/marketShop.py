@@ -701,7 +701,8 @@ categories = {
           "alexsmobs:kangaroo_hide",
           "minecraft:bone",
           "minecraft:slime_ball",
-          "minecraft:bow"
+          "minecraft:bow",
+          "minecraft:ink_sac"
         ]
       },
       {
@@ -710,14 +711,16 @@ categories = {
           "minecraft:spider_eye",
           "minecraft:gunpowder",
           "minecraft:prismarine_shard",
-          "minecraft:prismarine_crystals"
+          "minecraft:prismarine_crystals",
+          "minecraft:glow_ink_sac"
         ]
       },
       {
         priceKey: 24,
         itemsKey: [
           "minecraft:ender_pearl",
-          "minecraft:blaze_rod"
+          "minecraft:blaze_rod",
+          "minecraft:ghast_tear"
         ]
       },
       { # alexmobs items
