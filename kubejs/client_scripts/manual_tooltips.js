@@ -47,4 +47,9 @@ ItemEvents.tooltip(event => {
   event.add('moa_decor_cookery:tetera', [
     "This item can be created with a water bottle or any potion"
   ])
+
+  event.add('beachparty:radio', [
+    "Please don't place this block down in multiplayer server.",
+    "Changing channels causes all other players clients to crash"
+  ])
 })

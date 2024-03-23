@@ -5,12 +5,15 @@
 - To test, first make a back up of the world. Go into the world and trigger some observation quest (like the newly added camel and maybe some others).  If the server messages are appearing as expected and you can still complete collection achievements. Then all is clear!
 ## Updates 
 - Disable the ability to place botany pots on top of let's do work stations as it causes a server crash
-- Updated the Farming Crossing 4 resource pack
+- Added a tool tip on beach party radio explaining that changing the channels on it causes other players to crash.
 - Added some more loading screen tips
 - beach party palm tree can now be placed in a botany pot to produce coconuts
 - Added camel to Animal Observation Quests
 - Removed Easy mob farms from the market and re-enable the their recipes from the original mod author.
 - Added a tooltip for teta pots to help people craft them.
+## Resource pack changes
+- Updated the Farming Crossing 4 resource pack
+- Added Candland Cover resource pack by Lackygirlmoon to turn the Flesh realm into Candyland.
 ## Following items are now available in the Market:
 - ink sac
 - glow ink sac
