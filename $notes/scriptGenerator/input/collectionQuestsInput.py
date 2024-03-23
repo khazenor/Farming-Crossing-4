@@ -226,6 +226,11 @@ questlines = [
         dependencyIdKey: '2D62FBEF18E6ABF6', # Spotting animals
         tasksKey: [
           {
+            iconKey: "minecraft:camel_spawn_egg",
+            nameKey: "Spot a camel",
+            observeKey: "minecraft:camel"
+          },
+          {
             iconKey: "alexsmobs:spawn_egg_rain_frog",
             nameKey: "Spot a rain frog",
             observeKey: "alexsmobs:rain_frog"

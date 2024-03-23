@@ -933,6 +933,32 @@
 			dependencies: ["2D62FBEF18E6ABF6"]
 			disable_toast: true
 			hide: true
+			id: "3554D3C57EA39548"
+			rewards: [{
+				auto: "invisible"
+				command: "/function fc_collection:animal_watching_desert_completion"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4C710BC834A7E4D7"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				icon: "minecraft:camel_spawn_egg"
+				id: "57DA3BA33B958977"
+				observe_type: 5
+				timer: 0L
+				title: "Spot a camel"
+				to_observe: "minecraft:camel"
+				type: "observation"
+			}]
+			x: 0.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["2D62FBEF18E6ABF6"]
+			disable_toast: true
+			hide: true
 			id: "008613A90AB3373D"
 			rewards: [{
 				auto: "invisible"
@@ -952,7 +978,7 @@
 				to_observe: "alexsmobs:rain_frog"
 				type: "observation"
 			}]
-			x: 0.0d
+			x: 1.0d
 			y: 11.0d
 		}
 		{
@@ -978,7 +1004,7 @@
 				to_observe: "alexsmobs:triops"
 				type: "observation"
 			}]
-			x: 1.0d
+			x: 2.0d
 			y: 11.0d
 		}
 		{
@@ -1004,7 +1030,7 @@
 				to_observe: "alexsmobs:jerboa"
 				type: "observation"
 			}]
-			x: 2.0d
+			x: 3.0d
 			y: 11.0d
 		}
 		{
@@ -1030,7 +1056,7 @@
 				to_observe: "alexsmobs:roadrunner"
 				type: "observation"
 			}]
-			x: 3.0d
+			x: 4.0d
 			y: 11.0d
 		}
 		{
@@ -1056,7 +1082,7 @@
 				to_observe: "exoticbirds:roadrunner"
 				type: "observation"
 			}]
-			x: 4.0d
+			x: 5.0d
 			y: 11.0d
 		}
 		{
@@ -1082,11 +1108,12 @@
 				to_observe: "exoticbirds:ostrich"
 				type: "observation"
 			}]
-			x: 5.0d
-			y: 11.0d
+			x: 0.0d
+			y: 12.0d
 		}
 		{
 			dependencies: [
+				"3554D3C57EA39548"
 				"008613A90AB3373D"
 				"77BCB6D4FEEF12EC"
 				"64E12975D6C6DF0F"
@@ -1097,7 +1124,7 @@
 			icon: "minecraft:dead_bush"
 			id: "7DBED7DA198DC1F2"
 			rewards: [{
-				count: 6
+				count: 7
 				id: "1E0D0007F70181E9"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -1112,7 +1139,7 @@
 			}]
 			title: "Desert Completion"
 			x: -1.0d
-			y: 11.0d
+			y: 11.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1138,7 +1165,7 @@
 				type: "observation"
 			}]
 			x: 0.0d
-			y: 12.5d
+			y: 13.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1164,7 +1191,7 @@
 				type: "observation"
 			}]
 			x: 1.0d
-			y: 12.5d
+			y: 13.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1190,7 +1217,7 @@
 				type: "observation"
 			}]
 			x: 2.0d
-			y: 12.5d
+			y: 13.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1216,7 +1243,7 @@
 				type: "observation"
 			}]
 			x: 3.0d
-			y: 12.5d
+			y: 13.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1242,7 +1269,7 @@
 				type: "observation"
 			}]
 			x: 4.0d
-			y: 12.5d
+			y: 13.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1268,7 +1295,7 @@
 				type: "observation"
 			}]
 			x: 5.0d
-			y: 12.5d
+			y: 13.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1294,7 +1321,7 @@
 				type: "observation"
 			}]
 			x: 0.0d
-			y: 13.5d
+			y: 14.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1320,7 +1347,7 @@
 				type: "observation"
 			}]
 			x: 1.0d
-			y: 13.5d
+			y: 14.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1346,7 +1373,7 @@
 				type: "observation"
 			}]
 			x: 2.0d
-			y: 13.5d
+			y: 14.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1372,7 +1399,7 @@
 				type: "observation"
 			}]
 			x: 3.0d
-			y: 13.5d
+			y: 14.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1398,7 +1425,7 @@
 				type: "observation"
 			}]
 			x: 4.0d
-			y: 13.5d
+			y: 14.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1424,7 +1451,7 @@
 				type: "observation"
 			}]
 			x: 5.0d
-			y: 13.5d
+			y: 14.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1450,7 +1477,7 @@
 				type: "observation"
 			}]
 			x: 0.0d
-			y: 14.5d
+			y: 15.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1476,7 +1503,7 @@
 				type: "observation"
 			}]
 			x: 1.0d
-			y: 14.5d
+			y: 15.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1502,7 +1529,7 @@
 				type: "observation"
 			}]
 			x: 2.0d
-			y: 14.5d
+			y: 15.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1528,7 +1555,7 @@
 				type: "observation"
 			}]
 			x: 3.0d
-			y: 14.5d
+			y: 15.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1554,7 +1581,7 @@
 				type: "observation"
 			}]
 			x: 4.0d
-			y: 14.5d
+			y: 15.5d
 		}
 		{
 			dependencies: [
@@ -1594,7 +1621,7 @@
 			}]
 			title: "Forest Completion"
 			x: -1.0d
-			y: 13.5d
+			y: 14.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1620,7 +1647,7 @@
 				type: "observation"
 			}]
 			x: 0.0d
-			y: 16.0d
+			y: 17.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1646,7 +1673,7 @@
 				type: "observation"
 			}]
 			x: 1.0d
-			y: 16.0d
+			y: 17.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1672,7 +1699,7 @@
 				type: "observation"
 			}]
 			x: 2.0d
-			y: 16.0d
+			y: 17.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1698,7 +1725,7 @@
 				type: "observation"
 			}]
 			x: 3.0d
-			y: 16.0d
+			y: 17.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1724,7 +1751,7 @@
 				type: "observation"
 			}]
 			x: 4.0d
-			y: 16.0d
+			y: 17.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1750,7 +1777,7 @@
 				type: "observation"
 			}]
 			x: 5.0d
-			y: 16.0d
+			y: 17.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1776,7 +1803,7 @@
 				type: "observation"
 			}]
 			x: 0.0d
-			y: 17.0d
+			y: 18.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1802,7 +1829,7 @@
 				type: "observation"
 			}]
 			x: 1.0d
-			y: 17.0d
+			y: 18.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1828,7 +1855,7 @@
 				type: "observation"
 			}]
 			x: 2.0d
-			y: 17.0d
+			y: 18.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1854,7 +1881,7 @@
 				type: "observation"
 			}]
 			x: 3.0d
-			y: 17.0d
+			y: 18.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1880,7 +1907,7 @@
 				type: "observation"
 			}]
 			x: 4.0d
-			y: 17.0d
+			y: 18.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1906,7 +1933,7 @@
 				type: "observation"
 			}]
 			x: 5.0d
-			y: 17.0d
+			y: 18.0d
 		}
 		{
 			dependencies: [
@@ -1941,7 +1968,7 @@
 			}]
 			title: "Jungle Completion"
 			x: -1.0d
-			y: 16.5d
+			y: 17.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1967,7 +1994,7 @@
 				type: "observation"
 			}]
 			x: 0.0d
-			y: 18.5d
+			y: 19.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -1993,7 +2020,7 @@
 				type: "observation"
 			}]
 			x: 1.0d
-			y: 18.5d
+			y: 19.5d
 		}
 		{
 			dependencies: [
@@ -2018,7 +2045,7 @@
 			}]
 			title: "Mountain Completion"
 			x: -1.0d
-			y: 18.5d
+			y: 19.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -2044,7 +2071,7 @@
 				type: "observation"
 			}]
 			x: 0.0d
-			y: 20.0d
+			y: 21.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -2070,7 +2097,7 @@
 				type: "observation"
 			}]
 			x: 1.0d
-			y: 20.0d
+			y: 21.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -2096,7 +2123,7 @@
 				type: "observation"
 			}]
 			x: 2.0d
-			y: 20.0d
+			y: 21.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -2122,7 +2149,7 @@
 				type: "observation"
 			}]
 			x: 3.0d
-			y: 20.0d
+			y: 21.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -2148,7 +2175,7 @@
 				type: "observation"
 			}]
 			x: 4.0d
-			y: 20.0d
+			y: 21.0d
 		}
 		{
 			dependencies: [
@@ -2176,7 +2203,7 @@
 			}]
 			title: "Special Completion"
 			x: -1.0d
-			y: 20.0d
+			y: 21.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -2202,7 +2229,7 @@
 				type: "observation"
 			}]
 			x: 0.0d
-			y: 21.5d
+			y: 22.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -2228,7 +2255,7 @@
 				type: "observation"
 			}]
 			x: 1.0d
-			y: 21.5d
+			y: 22.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -2254,7 +2281,7 @@
 				type: "observation"
 			}]
 			x: 2.0d
-			y: 21.5d
+			y: 22.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -2280,7 +2307,7 @@
 				type: "observation"
 			}]
 			x: 3.0d
-			y: 21.5d
+			y: 22.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -2306,7 +2333,7 @@
 				type: "observation"
 			}]
 			x: 4.0d
-			y: 21.5d
+			y: 22.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -2332,7 +2359,7 @@
 				type: "observation"
 			}]
 			x: 5.0d
-			y: 21.5d
+			y: 22.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -2358,7 +2385,7 @@
 				type: "observation"
 			}]
 			x: 0.0d
-			y: 22.5d
+			y: 23.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -2384,7 +2411,7 @@
 				type: "observation"
 			}]
 			x: 1.0d
-			y: 22.5d
+			y: 23.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -2410,7 +2437,7 @@
 				type: "observation"
 			}]
 			x: 2.0d
-			y: 22.5d
+			y: 23.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -2436,7 +2463,7 @@
 				type: "observation"
 			}]
 			x: 3.0d
-			y: 22.5d
+			y: 23.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -2462,7 +2489,7 @@
 				type: "observation"
 			}]
 			x: 4.0d
-			y: 22.5d
+			y: 23.5d
 		}
 		{
 			dependencies: [
@@ -2496,7 +2523,7 @@
 			}]
 			title: "Savanna Completion"
 			x: -1.0d
-			y: 22.0d
+			y: 23.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -2522,7 +2549,7 @@
 				type: "observation"
 			}]
 			x: 0.0d
-			y: 24.0d
+			y: 25.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -2548,7 +2575,7 @@
 				type: "observation"
 			}]
 			x: 1.0d
-			y: 24.0d
+			y: 25.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -2574,7 +2601,7 @@
 				type: "observation"
 			}]
 			x: 2.0d
-			y: 24.0d
+			y: 25.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -2600,7 +2627,7 @@
 				type: "observation"
 			}]
 			x: 3.0d
-			y: 24.0d
+			y: 25.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -2626,7 +2653,7 @@
 				type: "observation"
 			}]
 			x: 4.0d
-			y: 24.0d
+			y: 25.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -2652,7 +2679,7 @@
 				type: "observation"
 			}]
 			x: 5.0d
-			y: 24.0d
+			y: 25.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -2678,7 +2705,7 @@
 				type: "observation"
 			}]
 			x: 0.0d
-			y: 25.0d
+			y: 26.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -2704,7 +2731,7 @@
 				type: "observation"
 			}]
 			x: 1.0d
-			y: 25.0d
+			y: 26.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -2730,7 +2757,7 @@
 				type: "observation"
 			}]
 			x: 2.0d
-			y: 25.0d
+			y: 26.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -2756,7 +2783,7 @@
 				type: "observation"
 			}]
 			x: 3.0d
-			y: 25.0d
+			y: 26.0d
 		}
 		{
 			dependencies: [
@@ -2789,7 +2816,7 @@
 			}]
 			title: "Plains Completion"
 			x: -1.0d
-			y: 24.5d
+			y: 25.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -2815,7 +2842,7 @@
 				type: "observation"
 			}]
 			x: 0.0d
-			y: 26.5d
+			y: 27.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -2841,7 +2868,7 @@
 				type: "observation"
 			}]
 			x: 1.0d
-			y: 26.5d
+			y: 27.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -2867,7 +2894,7 @@
 				type: "observation"
 			}]
 			x: 2.0d
-			y: 26.5d
+			y: 27.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -2893,7 +2920,7 @@
 				type: "observation"
 			}]
 			x: 3.0d
-			y: 26.5d
+			y: 27.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -2919,7 +2946,7 @@
 				type: "observation"
 			}]
 			x: 4.0d
-			y: 26.5d
+			y: 27.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -2945,7 +2972,7 @@
 				type: "observation"
 			}]
 			x: 5.0d
-			y: 26.5d
+			y: 27.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -2971,7 +2998,7 @@
 				type: "observation"
 			}]
 			x: 0.0d
-			y: 27.5d
+			y: 28.5d
 		}
 		{
 			dependencies: [
@@ -3001,7 +3028,7 @@
 			}]
 			title: "Grass Completion"
 			x: -1.0d
-			y: 27.0d
+			y: 28.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -3027,7 +3054,7 @@
 				type: "observation"
 			}]
 			x: 0.0d
-			y: 29.0d
+			y: 30.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -3053,7 +3080,7 @@
 				type: "observation"
 			}]
 			x: 1.0d
-			y: 29.0d
+			y: 30.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -3079,7 +3106,7 @@
 				type: "observation"
 			}]
 			x: 2.0d
-			y: 29.0d
+			y: 30.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -3105,7 +3132,7 @@
 				type: "observation"
 			}]
 			x: 3.0d
-			y: 29.0d
+			y: 30.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -3131,7 +3158,7 @@
 				type: "observation"
 			}]
 			x: 4.0d
-			y: 29.0d
+			y: 30.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -3157,7 +3184,7 @@
 				type: "observation"
 			}]
 			x: 5.0d
-			y: 29.0d
+			y: 30.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -3183,7 +3210,7 @@
 				type: "observation"
 			}]
 			x: 0.0d
-			y: 30.0d
+			y: 31.0d
 		}
 		{
 			dependencies: [
@@ -3213,7 +3240,7 @@
 			}]
 			title: "Caves Completion"
 			x: -1.0d
-			y: 29.5d
+			y: 30.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -3239,7 +3266,7 @@
 				type: "observation"
 			}]
 			x: 0.0d
-			y: 31.5d
+			y: 32.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -3265,7 +3292,7 @@
 				type: "observation"
 			}]
 			x: 1.0d
-			y: 31.5d
+			y: 32.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -3291,7 +3318,7 @@
 				type: "observation"
 			}]
 			x: 2.0d
-			y: 31.5d
+			y: 32.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -3317,7 +3344,7 @@
 				type: "observation"
 			}]
 			x: 3.0d
-			y: 31.5d
+			y: 32.5d
 		}
 		{
 			dependencies: [
@@ -3344,7 +3371,7 @@
 			}]
 			title: "Snowy Completion"
 			x: -1.0d
-			y: 31.5d
+			y: 32.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -3370,7 +3397,7 @@
 				type: "observation"
 			}]
 			x: 0.0d
-			y: 33.0d
+			y: 34.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -3396,7 +3423,7 @@
 				type: "observation"
 			}]
 			x: 1.0d
-			y: 33.0d
+			y: 34.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -3422,7 +3449,7 @@
 				type: "observation"
 			}]
 			x: 2.0d
-			y: 33.0d
+			y: 34.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -3448,7 +3475,7 @@
 				type: "observation"
 			}]
 			x: 3.0d
-			y: 33.0d
+			y: 34.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -3474,7 +3501,7 @@
 				type: "observation"
 			}]
 			x: 4.0d
-			y: 33.0d
+			y: 34.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -3500,7 +3527,7 @@
 				type: "observation"
 			}]
 			x: 5.0d
-			y: 33.0d
+			y: 34.0d
 		}
 		{
 			dependencies: [
@@ -3529,7 +3556,7 @@
 			}]
 			title: "Swamp Completion"
 			x: -1.0d
-			y: 33.0d
+			y: 34.0d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -3555,7 +3582,7 @@
 				type: "observation"
 			}]
 			x: 0.0d
-			y: 34.5d
+			y: 35.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -3581,7 +3608,7 @@
 				type: "observation"
 			}]
 			x: 1.0d
-			y: 34.5d
+			y: 35.5d
 		}
 		{
 			dependencies: ["2D62FBEF18E6ABF6"]
@@ -3607,7 +3634,7 @@
 				type: "observation"
 			}]
 			x: 2.0d
-			y: 34.5d
+			y: 35.5d
 		}
 		{
 			dependencies: [
@@ -3633,7 +3660,7 @@
 			}]
 			title: "Mushroom Completion"
 			x: -1.0d
-			y: 34.5d
+			y: 35.5d
 		}
 	]
 	title: "Animal Watching"
