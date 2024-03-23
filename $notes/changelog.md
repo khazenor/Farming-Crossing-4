@@ -4,6 +4,7 @@
 - In general it's good practice to backup your worlds and configs before updating.  And since there are updates to the collection logs, I would recommend testing out the animal observation quests with a backup of your world.
 - To test, first make a back up of the world. Go into the world and trigger some observation quest (like the newly added camel and maybe some others).  If the server messages are appearing as expected and you can still complete collection achievements. Then all is clear!
 ## Updates 
+- Disable the ability to place botany pots on top of let's do work stations as it causes a server crash
 - Updated the Farming Crossing 4 resource pack
 - Added some more loading screen tips
 - beach party palm tree can now be placed in a botany pot to produce coconuts
