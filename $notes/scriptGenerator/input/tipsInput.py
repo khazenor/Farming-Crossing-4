@@ -33,6 +33,8 @@ tips = [
   "You can upgrade your botany pots for better efficiency. Search '@botanypotstiers' in JEI for more information",
   "In this pack, villagers choose their trades based on previous player interactions. For instance, a librarian you've bought many Looting books from is more likely to offer sword enchantments and luck related enchantments in the future.",
   "In this pack, villagers change their trades every time they restock/every day. This makes it so that you won't have to get rid of villagers with bad trades after having spent resources on them, and it won't be necessary to breed a large number of them either.",
+  "Sneak right-click a camera to get more options including photo filters and the ability to upload your own images!",
+  "Swords, Pickaxes, Axes, Shovels, Hoes, Bows, and Enchanted Books can all be upgraded by applying a jeweled ring to them. To upgrade use a ring on a smithing table while holding the tool in your off-hand you will increase the Luck and Armor of the tool by +2.",
   
   # Tickets
   "Complete the quests to find out how to get customer villagers.  They will give you miles tickets in exchange for dishes.",
