@@ -114,6 +114,7 @@ alexsmobs:void_worm_part
 alexsmobs:void_worm_shot
 alexsmobs:warped_mosco
 alexsmobs:warped_toad
+amendments:falling_lantern
 aquaculture:acacia_fish_mount
 aquaculture:arapaima
 aquaculture:arrau_turtle
@@ -219,10 +220,21 @@ handcrafted:fancy_painting
 handcrafted:seat
 immersive_aircraft:airship
 immersive_aircraft:biplane
+immersive_aircraft:bullet
 immersive_aircraft:cargo_airship
 immersive_aircraft:gyrodyne
 immersive_aircraft:quadrocopter
+immersive_aircraft:tiny_tnt
 lootr:lootr_minecart
+luphieclutteredmod:imperial_and_pastel_chair_entity
+luphieclutteredmod:log_bed_seating_entity
+luphieclutteredmod:log_set_seating_entity
+luphieclutteredmod:lovely_love_seats_entity
+luphieclutteredmod:luphie_armchair_entity
+luphieclutteredmod:mushroom_bed_seat_entity
+luphieclutteredmod:pastel_chair_entity
+luphieclutteredmod:rovers_stool_entity
+luphieclutteredmod:unliving_chair_entity
 mcwfurnitures:chair
 meadow:brown_bear
 meadow:water_buffalo
@@ -390,9 +402,9 @@ sophisticatedbackpacks:everlasting_backpack_item
 ssls_npc_maker_mod:npc
 supplementaries:bomb
 supplementaries:brick_projectile
+supplementaries:cannon_camera
 supplementaries:dispenser_minecart
 supplementaries:falling_ash
-supplementaries:falling_lantern
 supplementaries:falling_sack
 supplementaries:falling_urn
 supplementaries:hat_stand
@@ -407,6 +419,5 @@ utilitix:ender_cart
 utilitix:piston_cart
 utilitix:shulker_boat
 utilitix:stonecutter_cart
-vinery:chair
 vinery:mule
 vinery:wandering_winemaker
