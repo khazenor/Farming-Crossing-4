@@ -1,6 +1,5 @@
 # 4.0:
 ## Mods Added
-- Anti Mob Farm: de-incentivize mob farming
 - Little Tiles
 ## Mods Removed:
 - Botany Pots Tiers
