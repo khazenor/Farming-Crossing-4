@@ -1,5 +1,11 @@
 # 4.0:
-
+## Mods Added
+- Anti Mob Farm: de-incentivize mob farming
+- Little Tiles
+## Mods Removed:
+- Botany Pots Tiers
+- chisels and bits
+- Easy Mob Farm
 # 3.17:
 - Slowed down botany pot crop growth to a bit slower than how fast they grow on the ground.
 - Removed from Qol recipes that are already added by Quark
