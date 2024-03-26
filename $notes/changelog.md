@@ -4,6 +4,9 @@
 - Added warning message for storing netherite lasso storage drawers.
 - Removed realcamera
 - Added slice and dice
+## Added Liberty Villagers
+- disable villager spawning iron golems (they don't really need it)
+- disable nitwits
 # 3.16:
 ## Release Notes
 ### There are changes to the collection logs in this update.
