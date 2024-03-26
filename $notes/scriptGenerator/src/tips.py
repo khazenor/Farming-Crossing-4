@@ -7,11 +7,11 @@ from lib import util
 def genTips():
 	folder = os.path.join(const.assets(), "fc_tips", "tips")
 	util.removeFiles(folder)
-	for i, tip in enumerate(tipsInput.tips):
+	for tip in tipsInput.tips:
 		json.dump({
 			"tip": {
 				"text": tip
 			}
 		}, open(
-			os.path.join(folder, f'tip_{i}.json'), "w"
+			os.path.join(folder, f'tip_{hash(tip) % (10 ** 8)}.json'), "w"
 		))
