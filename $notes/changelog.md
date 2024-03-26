@@ -1,3 +1,5 @@
+# 4.0:
+
 # 3.17:
 - Slowed down botany pot crop growth to a bit slower than how fast they grow on the ground.
 - Removed from Qol recipes that are already added by Quark
@@ -7,6 +9,8 @@
 ## Added Liberty Villagers
 - disable villager spawning iron golems (they don't really need it)
 - disable nitwits
+## Server link:
+- https://www.dropbox.com/s/hxlzevfpzz0f6qi/Farming%20Crossing%204%20Server%20v3.17.zip?dl=0
 # 3.16:
 ## Release Notes
 ### There are changes to the collection logs in this update.
