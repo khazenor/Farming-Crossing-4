@@ -12,28 +12,6 @@ ServerEvents.recipes(event => {
         "minecraft:charcoal",
         "minecraft:charcoal"])
 
-    event.shaped("16x minecraft:stick", [
-        "L",
-        "L"
-    ], {
-        L: "#minecraft:logs"
-    })
-    event.shaped("4x minecraft:chest", [
-        "LLL",
-        "L L",
-        "LLL"
-    ], {
-        L: "#minecraft:logs"
-    })
-    event.shaped("minecraft:hopper", [
-        "ILI",
-        "ILI",
-        " I "
-    ], {
-        I: "minecraft:iron_ingot",
-        L: "#minecraft:logs"
-    })
-
     event.remove({ id: "minecraft:melon" })
     event.shapeless("minecraft:melon", [
         "minecraft:melon_slice", "minecraft:melon_slice",
