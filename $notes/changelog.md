@@ -1,7 +1,8 @@
 # 3.17:
 - Slowed down botany pot crop growth to a bit slower than how fast they grow on the ground.
 - Remove from Qol recipes that are already added by Quark
-- add warning message for storing netherite lasso storage drawers.
+- Add warning message for storing netherite lasso storage drawers.
+- Removed realcamera
 # 3.16:
 ## Release Notes
 ### There are changes to the collection logs in this update.
