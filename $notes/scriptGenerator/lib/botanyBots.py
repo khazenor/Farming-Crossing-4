@@ -33,7 +33,7 @@ def defaultSeedDict(seedId, cropId, blockId):
 			"dirt",
 			"farmland"
 		],
-		"growthTicks": 1200,
+		"growthTicks": 15000,
 		"display": {
 			"type": "botanypots:aging",
 			"block": blockId
