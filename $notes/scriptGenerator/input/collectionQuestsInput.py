@@ -925,12 +925,6 @@ questlines = [
         iconKey: 'farmersdelight:pasta_with_meatballs',
         dependencyIdKey: '277E14B2EF5D2F6A', # cabbage leaf
         tasksKey: cqlist.foodFarmersDelight
-      },
-      { # Cuisine Delight
-        nameKey: 'Cuisine Delight Recipes Completion',
-        iconKey: 'cuisinedelight:cuisine_skillet',
-        dependencyIdKey: '29F10804B90D8DA8', # cabbage rolls
-        tasksKey: cqlist.foodCuisineDelight
       }
     ]
   },

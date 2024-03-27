@@ -370,33 +370,6 @@ ItemEvents.tooltip(event => {
     ])
   event.add(
     [
-      'cuisinedelight:ham_fried_rice', 
-      'cuisinedelight:fried_rice', 
-      'cuisinedelight:mixed_fried_rice', 
-      'cuisinedelight:meat_with_seafood', 
-      'cuisinedelight:meat_with_vegetables', 
-      'cuisinedelight:seafood_with_vegetables', 
-      'cuisinedelight:fried_pasta', 
-      'cuisinedelight:mixed_pasta', 
-      'cuisinedelight:meat_fried_rice', 
-      'cuisinedelight:meat_pasta', 
-      'cuisinedelight:scrambled_egg_and_tomato', 
-      'cuisinedelight:fried_meat_and_melon', 
-      'cuisinedelight:meat_platter', 
-      'cuisinedelight:seafood_fried_rice', 
-      'cuisinedelight:seafood_pasta', 
-      'cuisinedelight:vegetable_fried_rice', 
-      'cuisinedelight:vegetable_pasta', 
-      'cuisinedelight:seafood_platter', 
-      'cuisinedelight:vegetable_platter', 
-      'cuisinedelight:fried_mushroom'
-    ],
-    [
-      'Cooking Collection', 
-      'Cuisine Delight Recipes Completion'
-    ])
-  event.add(
-    [
       'minecraft:apple', 
       'minecraft:bamboo', 
       'minecraft:beetroot_seeds', 
