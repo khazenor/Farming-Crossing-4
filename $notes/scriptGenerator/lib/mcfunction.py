@@ -17,3 +17,6 @@ def clearFunctionFiles(parent):
 
 def functionFolder(parent):
 	return os.path.join(const.data(), parent, 'functions')
+
+def functionFileUrl(parent, functionName):
+	return os.path.join(functionFolder(parent), functionName+".mcfunction")

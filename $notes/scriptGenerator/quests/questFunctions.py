@@ -2,10 +2,14 @@ from input import collectionQuestsInput
 from lib import mcfunction
 from lib import commands
 from lib import stringCleaning
+from lib import util
+import os
 
 functionParentName = 'fc_collection'
+initScoreFilename = 'init_all_scores'
 def genQuestFunctions():
 	initFunctionContent = ''
+	prevInitScoreFiles = getPrevInitScoreFiles()
 	mcfunction.clearFunctionFiles(functionParentName)
 
 	checkScoreContent = ''
@@ -54,7 +58,7 @@ def genQuestFunctions():
 
 		questlineName = questline[collectionQuestsInput.nameKey]
 		initFunctionContent += commands.initScoreBoard(questlineName)
-		mcfunction.writeFunction(functionParentName, 'init_all_scores', initFunctionContent)
+		writeInitScoreFunctions(initFunctionContent, prevInitScoreFiles)
 		mcfunction.writeFunction(functionParentName, 'check_collection_scores', checkScoreContent)
 
 def totalTasksForQuestline(questline):
@@ -62,3 +66,34 @@ def totalTasksForQuestline(questline):
 	for questGroup in questline[collectionQuestsInput.questGroupsKey]:
 		totalNumTasks += len(questGroup[collectionQuestsInput.tasksKey])
 	return totalNumTasks
+
+def getPrevInitScoreFiles():
+	fileIdx = 0
+	initFileContents = []
+	while os.path.exists(initScoreFileUrl(fileIdx)):
+		with open(initScoreFileUrl(fileIdx), 'r') as initScoreFile:
+			initFileContents.append(initScoreFile.read())
+		fileIdx += 1
+	return initFileContents
+
+def initScoreFileUrl(fileIdx):
+	return mcfunction.functionFileUrl(
+		functionParentName,
+		f"{initScoreFilename}_{fileIdx}"
+	)
+
+def writeInitScoreFunctions(initFunctionContent, prevInitScoreFiles):
+	fileContents = {}
+	for functionLine in initFunctionContent.split('\n'):
+		updateFileContents(fileContents, functionLine, prevInitScoreFiles)
+	for fileUrl in fileContents:
+		with open(fileUrl, 'w') as f:
+			f.write(fileContents[fileUrl])
+
+def updateFileContents(fileContents, functionLine, prevInitScoreFiles):
+	if len(functionLine) > 0:
+		for i, prevInitScoreFile in enumerate(prevInitScoreFiles):
+			if functionLine in prevInitScoreFile:
+				util.addToDictString(fileContents, initScoreFileUrl(i), functionLine)
+				return
+		util.addToDictString(fileContents, initScoreFileUrl(len(prevInitScoreFiles)), functionLine)

@@ -21,6 +21,13 @@ def addToDictList(dictList, key, value):
 	else:
 		dictList[key] = [value]
 
+def addToDictString(dictString, key, strValue):
+	strLine = f'{strValue}\n'
+	if key in dictString:
+		dictString[key] += strLine
+	else:
+		dictString[key] = strLine
+
 def appendToSetList(setList, item):
 	if item not in setList:
 		setList.append(item)
