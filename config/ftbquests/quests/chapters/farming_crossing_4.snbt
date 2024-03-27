@@ -448,9 +448,17 @@
 				}
 				{
 					auto: "no_toast"
-					command: "/function fc_collection:init_all_scores"
+					command: "/function fc_collection:init_all_scores_0"
 					elevate_perms: true
 					id: "0D2C7F7B732C34B0"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "no_toast"
+					command: "/function fc_collection:init_all_scores_1"
+					elevate_perms: true
+					id: "546979F0DF37FFBB"
 					silent: true
 					type: "command"
 				}
