@@ -18,13 +18,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_general_water_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "18F4CF064C42D88A"
+				id: "555CB2FDD90C6E8F"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "minecraft:squid_spawn_egg"
-				id: "298B41EA5AA9921D"
+				id: "6501CAC1BF672554"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a squid"
@@ -44,13 +44,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_general_water_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "59F8E8F2DDB7C23B"
+				id: "773AC25D273AF97D"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_flying_fish"
-				id: "40E23C128F22D407"
+				id: "4A6543E9BAB81D38"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a flying fish"
@@ -70,13 +70,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_general_water_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "0BE3A50BCBC781AD"
+				id: "44F0CED8D898B351"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "minecraft:dolphin_spawn_egg"
-				id: "5A2321DDA1679CF7"
+				id: "37C8CDDA06C5A19A"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a dolphin"
@@ -96,13 +96,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_general_water_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "5343E18839DD8D07"
+				id: "63F10855B20BAF5F"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_blobfish"
-				id: "53547F39CF6B3BEB"
+				id: "6E21716E9FA43F91"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a blobfish"
@@ -122,13 +122,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_general_water_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "6164286E5A85DFCD"
+				id: "41F614946735C171"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_cachalot_whale"
-				id: "52DD80D727928078"
+				id: "62B406E81F124EFC"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a cachalot whale"
@@ -176,13 +176,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_warm_oceans_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "4E3588529EA5BEAE"
+				id: "1763FC623D0D116C"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_mimic_octopus"
-				id: "149DCE3515554779"
+				id: "394175D1E3D713E2"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a mimic octopus"
@@ -202,13 +202,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_warm_oceans_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "6943590E6EF02BAE"
+				id: "4CDEBB817949F122"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_mantis_shrimp"
-				id: "1DEAEB1C7E1BCD59"
+				id: "5B868AE6D932BD52"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a mantis shrimp"
@@ -253,13 +253,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_beaches_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "00B7B9BCEB5E45A7"
+				id: "2002102E25B5C8F5"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_lobster"
-				id: "1DE10167A08E5195"
+				id: "1EB27E217DA5F606"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a lobster"
@@ -279,13 +279,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_beaches_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "7B55149733E29050"
+				id: "29CB3E3326BB02BF"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_seagull"
-				id: "5478BF073288D2F4"
+				id: "378B93DC6F74F45C"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a seagull"
@@ -305,13 +305,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_beaches_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "0DD9FD8F000D0AAA"
+				id: "4FCCABECDAC04D21"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_seal"
-				id: "0910264769D8DDB2"
+				id: "3DDB2F609EF30835"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a seal"
@@ -331,13 +331,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_beaches_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "3B775CB66545E3E6"
+				id: "2E03F40DAC2B9964"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "exoticbirds:crane_spawn_egg"
-				id: "351D079002F94211"
+				id: "550999510E482580"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a Crane"
@@ -357,13 +357,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_beaches_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "7AE4CF6DC62DBABF"
+				id: "537D890BE21AD185"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "exoticbirds:gull_spawn_egg"
-				id: "623CFF13D46F21AD"
+				id: "29B8C6D16FDB6F7A"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a Gull"
@@ -383,13 +383,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_beaches_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "69688A1AAF3AAC11"
+				id: "33868A2A57F5385C"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "exoticbirds:heron_spawn_egg"
-				id: "13A203358A2B8E01"
+				id: "766B17F3A6A7A9E1"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a Heron"
@@ -409,13 +409,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_beaches_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "1DC11CD98FBC2A52"
+				id: "39048237C9614F33"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "minecraft:turtle_spawn_egg"
-				id: "38BF2A1F934E06E0"
+				id: "7CE1809C9D0F243F"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a turtle"
@@ -435,13 +435,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_beaches_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "16FB19A9B2954C1A"
+				id: "71915B76E64401EC"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "exoticbirds:pelican_spawn_egg"
-				id: "16F2D9ED7313BE04"
+				id: "1B6FD51E1DB815C9"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a Pelican"
@@ -461,13 +461,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_beaches_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "238FC25B5D05305D"
+				id: "3849AF9D53ED70E0"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "quark:crab_spawn_egg"
-				id: "32400F3393A975A2"
+				id: "5BA04E13C84821D0"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a Crab"
@@ -519,13 +519,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_river_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "757B126F3F9709BE"
+				id: "36E5317755238DE6"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "exoticbirds:kingfisher_spawn_egg"
-				id: "080096E289D67831"
+				id: "5257EDECF6E1ED88"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a Kingfisher"
@@ -545,13 +545,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_river_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "69D158FBCEE44429"
+				id: "26876169B791730D"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "exoticbirds:swan_spawn_egg"
-				id: "0CD76A282E6689C6"
+				id: "6E0FA0C0A64A9980"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a Swan"
@@ -571,13 +571,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_river_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "5FE4334F9E5C40FD"
+				id: "5479960BD4AE03FD"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "exoticbirds:flamingo_spawn_egg"
-				id: "0CCD34545EE404A1"
+				id: "44210D0F2EED42AD"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a Flamingo"
@@ -597,13 +597,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_river_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "099814DA2BFE370C"
+				id: "5FB601C1D3A1A651"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "exoticbirds:penguin_spawn_egg"
-				id: "5274690ABEF2DD02"
+				id: "4D70589F51A4528D"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a Penguin"
@@ -623,13 +623,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_river_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "059E40D6DEB3E3C9"
+				id: "10CCD68FD73D3679"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_platypus"
-				id: "2AE56546278F7E00"
+				id: "69F671BDC8FA0245"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a platypus"
@@ -649,13 +649,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_river_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "4D82E1BEBA77A39C"
+				id: "6B7FEC30F7E5D5EA"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_terrapin"
-				id: "30995FA008C19C3B"
+				id: "3D0CD2A4576A8096"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a terrapin"
@@ -675,13 +675,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_river_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "7E6DE159184E80AC"
+				id: "4BE042F7EFA0285E"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "exoticbirds:booby_spawn_egg"
-				id: "713DC59FE06F735A"
+				id: "3CB89D6C87C5A0B1"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a Booby"
@@ -701,13 +701,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_river_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "5770893F638A1771"
+				id: "4BA2D66AA24FE750"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "exoticbirds:duck_spawn_egg"
-				id: "74DB9B677FB2CAE5"
+				id: "065271FC32117970"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a Duck"
@@ -758,13 +758,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_frozen_ocean_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "618F4DB4E0E417B2"
+				id: "49DB604EE5528718"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_orca"
-				id: "385A2097B0AE9456"
+				id: "0DBD54D227443BEB"
 				observe_type: 5
 				timer: 0L
 				title: "Spot an orca"
@@ -784,13 +784,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_frozen_ocean_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "3BDCE67AF2859C71"
+				id: "64E643FEEBB06A5A"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_comb_jelly"
-				id: "5ED839B899D80449"
+				id: "7064424D3C6383C1"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a comb jelly"
@@ -835,13 +835,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_deepest_ocean_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "07D720737354F812"
+				id: "2E7CAD181AE24ABE"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_giant_squid"
-				id: "7BD10D6C36357C08"
+				id: "52267B628F6C1DED"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a giant squid"
@@ -861,13 +861,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_deepest_ocean_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "446FDD2AB723F652"
+				id: "1CFC55470064CDED"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_frilled_shark"
-				id: "7EA1108142B11E3A"
+				id: "52B3588DB7D9B84D"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a frilled shark"
@@ -912,13 +912,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_desert_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "4C710BC834A7E4D7"
+				id: "30C55B1050F3CC9B"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "minecraft:camel_spawn_egg"
-				id: "57DA3BA33B958977"
+				id: "3428EDAFDCF77F5D"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a camel"
@@ -938,13 +938,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_desert_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "65F528F98951996F"
+				id: "13C77B9DCF9C99F2"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_rain_frog"
-				id: "2227E749A53B3188"
+				id: "19A2DE826D5D239B"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a rain frog"
@@ -964,13 +964,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_desert_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "0624A8A889B1F29F"
+				id: "378C783DDDDFF815"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_triops"
-				id: "2DD040C6B07882CE"
+				id: "45B80F5A922D867F"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a Triops"
@@ -990,13 +990,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_desert_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "2627F04B4D905273"
+				id: "2A17C922C5061F22"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_jerboa"
-				id: "5D7994940919D643"
+				id: "084B6C5C1F9BE10B"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a jerboa"
@@ -1016,13 +1016,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_desert_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "7CC6997261C57CC9"
+				id: "4CCEA411E96597BE"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_roadrunner"
-				id: "535D42FE545C8A1E"
+				id: "19CE91E9D02E2D27"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a roadrunner"
@@ -1042,13 +1042,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_desert_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "0D891F30924C3F92"
+				id: "63F693967DF887FC"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "exoticbirds:roadrunner_spawn_egg"
-				id: "3B2DA5B1F36AB926"
+				id: "460D2EA6DE546A55"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a Roadrunner"
@@ -1068,13 +1068,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_desert_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "2E699578872D9539"
+				id: "56B24623AAFEBA25"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "exoticbirds:ostrich_spawn_egg"
-				id: "77B3FD607194F956"
+				id: "7B9F55759DFE7F6C"
 				observe_type: 5
 				timer: 0L
 				title: "Spot an Ostrich"
@@ -1124,13 +1124,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_forest_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "25F528D99EA89498"
+				id: "730AFFF2C1742E9C"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "minecraft:wolf_spawn_egg"
-				id: "34C5B4399EFAA7FA"
+				id: "55DA224E19F7BCB1"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a wolf"
@@ -1150,13 +1150,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_forest_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "38697738EA5C713E"
+				id: "29C1F65679DDB326"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_skunk"
-				id: "67AB1E83457B8E01"
+				id: "43FD0EE5A23B9086"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a skunk"
@@ -1176,13 +1176,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_forest_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "017C361C507DBB71"
+				id: "5D04CDF807F2C7DB"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_tasmanian_devil"
-				id: "3BED005C37F518BC"
+				id: "4F035EBCBCC66224"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a tasmanian devil"
@@ -1202,13 +1202,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_forest_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "345952A4DCE1669E"
+				id: "4143B04E116D10B2"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_potoo"
-				id: "3C4E9A83C034AED9"
+				id: "397936303B625F24"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a potoo"
@@ -1228,13 +1228,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_forest_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "2CDCAD0E31E77719"
+				id: "5A31D89C1FCCB73D"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "exoticbirds:bluejay_spawn_egg"
-				id: "4164A7948E4E35D9"
+				id: "4939238ED44B2809"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a Blue Jay"
@@ -1254,13 +1254,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_forest_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "0A22BBD4E46A2973"
+				id: "4897E68FFC72CBEA"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_blue_jay"
-				id: "105890B4DA44352E"
+				id: "28686B95CA20B1A3"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a blue jay"
@@ -1280,13 +1280,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_forest_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "1D9C810563452CE7"
+				id: "035C6346E162AD5C"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_banana_slug"
-				id: "041FE5B1932EFB85"
+				id: "1CCB7A60068AE59C"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a banana slug"
@@ -1306,13 +1306,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_forest_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "57902B6E49D1F5D1"
+				id: "774BB8FE6AA6C7D5"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_sugar_glider"
-				id: "214AF1D7271931AB"
+				id: "6FCCA90BC2767268"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a sugar glider"
@@ -1332,13 +1332,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_forest_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "17742775F39DF469"
+				id: "13E563E7FDB8FD87"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_bald_eagle"
-				id: "502A4C915DDC20F3"
+				id: "22D0D06926281F22"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a bald eagle"
@@ -1358,13 +1358,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_forest_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "2BF50A5FE347781F"
+				id: "0AFCC3643DEAA292"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "exoticbirds:kiwi_spawn_egg"
-				id: "76A9B86D7BADAD5D"
+				id: "11466FDA185E331F"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a Kiwi"
@@ -1384,13 +1384,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_forest_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "461453595FF30CB6"
+				id: "1D16F939E605A639"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "exoticbirds:owl_spawn_egg"
-				id: "7113D687BC273E6E"
+				id: "619AD88F80641250"
 				observe_type: 5
 				timer: 0L
 				title: "Spot an Owl"
@@ -1410,13 +1410,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_forest_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "04C7F8E5E3C4D78A"
+				id: "51006FB426235670"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "exoticbirds:cardinal_spawn_egg"
-				id: "0A03A1A60544A35D"
+				id: "04F9C142FC9E9DAF"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a Cardinal"
@@ -1436,13 +1436,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_forest_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "0F3A646115224113"
+				id: "5930FE91E0B0E789"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "exoticbirds:cassowary_spawn_egg"
-				id: "6DA93B2737E67860"
+				id: "705E0A1E99E332B8"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a Cassowary"
@@ -1462,13 +1462,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_forest_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "696374C81A689F9E"
+				id: "56107AA57E4FCDB9"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "exoticbirds:magpie_spawn_egg"
-				id: "49BE900DB97E7419"
+				id: "34788B04EEFEAB9E"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a Magpie"
@@ -1488,13 +1488,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_forest_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "6E5FB13C39DD85A1"
+				id: "43F3080E6E65552B"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "exoticbirds:lyrebird_spawn_egg"
-				id: "0AA046A75164F974"
+				id: "73F661B68AA4D9C4"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a Lyrebird"
@@ -1514,13 +1514,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_forest_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "485946E8854FBFFE"
+				id: "5E50F600FE81175B"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "exoticbirds:robin_spawn_egg"
-				id: "33A5146B3A7C7DD7"
+				id: "7507CEF1CA90D508"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a Robin"
@@ -1540,13 +1540,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_forest_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "7F9AF9614254EAC8"
+				id: "47492DACDFDB0A6A"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "exoticbirds:kookaburra_spawn_egg"
-				id: "52D7925F4A1D4D26"
+				id: "093B1924482E28D5"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a Kookaburra"
@@ -1606,13 +1606,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_jungle_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "1DA57C4C1A70729A"
+				id: "7735616754A37227"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "minecraft:panda_spawn_egg"
-				id: "7C18F18C17C4B175"
+				id: "6BE3AD71B9CFD5AE"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a panda"
@@ -1632,13 +1632,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_jungle_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "4803936A5B8021E1"
+				id: "13E59387AC10720D"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "minecraft:parrot_spawn_egg"
-				id: "5FD7C58130595A8B"
+				id: "348E8DFE99CAE81A"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a parrot"
@@ -1658,13 +1658,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_jungle_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "1151A10A1EB7ECCD"
+				id: "2C032A91C7AEE116"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_leafcutter_ant"
-				id: "24D87275CD012F03"
+				id: "0BC255652B660575"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a leafcutter ant"
@@ -1684,13 +1684,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_jungle_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "3D5D89467C863936"
+				id: "18ECA9B557C4F96C"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_gorilla"
-				id: "40F08225EFFBB50B"
+				id: "0A1DB1AE7DA6A84F"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a gorilla"
@@ -1710,13 +1710,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_jungle_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "70FCB0FF1A00D017"
+				id: "57EB096CB555638F"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_toucan"
-				id: "654C42C03AE08455"
+				id: "4B198CB150B129F5"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a toucan"
@@ -1736,13 +1736,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_jungle_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "28DE66FEE83976B1"
+				id: "340BB1700D8F559F"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "minecraft:ocelot_spawn_egg"
-				id: "4C5EA9CF600DED38"
+				id: "72B04E4FAD5ED467"
 				observe_type: 5
 				timer: 0L
 				title: "Spot an ocelot"
@@ -1762,13 +1762,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_jungle_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "575F5676AC1D23F9"
+				id: "3A7FC3884EA53458"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_capuchin_monkey"
-				id: "3B99A178C3E98C93"
+				id: "04A523792E86350E"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a capuchin monkey"
@@ -1788,13 +1788,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_jungle_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "4A7CDC79C7E7B4A5"
+				id: "18CE4C989D660941"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_anteater"
-				id: "6B4BB0687300118E"
+				id: "68A38064002704B6"
 				observe_type: 5
 				timer: 0L
 				title: "Spot an anteater"
@@ -1814,13 +1814,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_jungle_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "4AA733B1F0E324C3"
+				id: "268481E1528F5E7F"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "exoticbirds:hummingbird_spawn_egg"
-				id: "11EE7FB522C76A22"
+				id: "5EAB010646946632"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a Hummingbird"
@@ -1840,13 +1840,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_jungle_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "69498055E1E26627"
+				id: "716311B16D3A4F4A"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_hummingbird"
-				id: "578D0F382EC8904C"
+				id: "0DD728C098AF58DA"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a hummingbird"
@@ -1866,13 +1866,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_jungle_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "6DBC8C5503F2A09E"
+				id: "52DBDBCF0956C977"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "exoticbirds:macaw_spawn_egg"
-				id: "382AEE62FD45146A"
+				id: "0A7D8F6D9A1BFF70"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a Macaw"
@@ -1892,13 +1892,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_jungle_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "6581EFD17F9A1BB2"
+				id: "7C78137BEB11A2D2"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "exoticbirds:toucan_spawn_egg"
-				id: "1FB1233BC8D74274"
+				id: "2B11ED11D4206CEC"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a Toucan"
@@ -1953,13 +1953,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_mountain_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "0D7CD37C2F6AA6FF"
+				id: "061B859FED0105EE"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "minecraft:goat_spawn_egg"
-				id: "536683E0EC13FF0A"
+				id: "0E156888D7E6C537"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a Goat"
@@ -1979,13 +1979,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_mountain_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "451E8C03FE968DF6"
+				id: "09A44A7B42E7820E"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "quark:shiba_spawn_egg"
-				id: "30BE5D13AA6167F4"
+				id: "4F6CFD38419C1E56"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a Shiba"
@@ -2030,13 +2030,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_special_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "6DB08BBAC00017F1"
+				id: "37466945894C6D45"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_sunbird"
-				id: "7E4EFB62DA1BFDD6"
+				id: "401614FDB3B6CBC2"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a sunbird"
@@ -2056,13 +2056,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_special_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "0280183D056D7555"
+				id: "27F21ED88C1F4F4B"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "minecraft:bee_spawn_egg"
-				id: "4DA35191D429AB21"
+				id: "153DDBD6E63AEB1C"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a bee"
@@ -2082,13 +2082,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_special_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "1C4800F50438B604"
+				id: "61F1B7D3CC5D9466"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_devils_hole_pupfish"
-				id: "21808E13DFE8E6B4"
+				id: "56918F320F2F2288"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a devils hole pupfish"
@@ -2108,13 +2108,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_special_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "5A23780B6BBEAC7F"
+				id: "18E3A861B944F448"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "minecraft:allay_spawn_egg"
-				id: "130DD3F7A613A244"
+				id: "5619407FCF8FB5E5"
 				observe_type: 5
 				timer: 0L
 				title: "Spot an allay"
@@ -2134,13 +2134,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_special_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "17B6B56791E44559"
+				id: "77D019C494B99B16"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "minecraft:cat_spawn_egg"
-				id: "645EC95E892473F5"
+				id: "0746FFA18510DBC3"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a cat"
@@ -2188,13 +2188,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_savanna_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "4586BC7492524407"
+				id: "6AE0149AB6FEC8CE"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_emu"
-				id: "5DC0515F3EB5602B"
+				id: "7ED7FA32E4A203CF"
 				observe_type: 5
 				timer: 0L
 				title: "Spot an emu"
@@ -2214,13 +2214,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_savanna_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "0B4F6908D1DC2990"
+				id: "3DB4A04DE582C38D"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "minecraft:llama_spawn_egg"
-				id: "0DF9F8080B2F7E34"
+				id: "30A905705D5FED54"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a llama"
@@ -2240,13 +2240,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_savanna_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "5EF7E8082945CDBB"
+				id: "5B4CCCCDBFF42D31"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_kangaroo"
-				id: "61524B387E8A9745"
+				id: "2BA739EA07C82F5C"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a kangaroo"
@@ -2266,13 +2266,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_savanna_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "43288FD3F930F8DE"
+				id: "580039DB70C0A562"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_gazelle"
-				id: "44D5A769ADED5C72"
+				id: "69F97CA71DED5829"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a gazelle"
@@ -2292,13 +2292,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_savanna_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "4A2218D7AD4DEB15"
+				id: "35EFA78CF5F12DA8"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_maned_wolf"
-				id: "68117CBE967D79C0"
+				id: "6512EBD440A3018F"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a maned wolf"
@@ -2318,13 +2318,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_savanna_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "0C59D8CE92742910"
+				id: "108B48F80914A284"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_elephant"
-				id: "4A1BDBE21DA637EC"
+				id: "247549D5A8BBD012"
 				observe_type: 5
 				timer: 0L
 				title: "Spot an elephant"
@@ -2344,13 +2344,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_savanna_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "5291E16C0C731701"
+				id: "7AF684F135AC6DB3"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_rhinoceros"
-				id: "754E2FB0E463CAE4"
+				id: "56FD6FF4EF3006C1"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a rhinoceros"
@@ -2370,13 +2370,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_savanna_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "0A8F94C341FEEE85"
+				id: "12E87CD995DBD5B0"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "exoticbirds:gouldianfinch_spawn_egg"
-				id: "6CE4AAF126DAE279"
+				id: "71DC25B3CC083CB5"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a Gouldian Finch"
@@ -2396,13 +2396,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_savanna_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "31E56C4C5370F223"
+				id: "5DA8F99121FC8347"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "exoticbirds:budgerigar_spawn_egg"
-				id: "66B044E13CF047A1"
+				id: "20F8F9A11F9AABAF"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a Budgerigar"
@@ -2422,13 +2422,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_savanna_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "03536D674636854C"
+				id: "43B39C358BF726BD"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "exoticbirds:cockatoo_spawn_egg"
-				id: "0BF9CACD53A04A2A"
+				id: "2DAA8DF6D05574E4"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a Cockatoo"
@@ -2448,13 +2448,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_savanna_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "6430E261DFC4DE0F"
+				id: "64263E0A4EC8D543"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "exoticbirds:woodpecker_spawn_egg"
-				id: "1CCD6EB8D511F35B"
+				id: "035E8CF6B6BBA46B"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a Woodpecker"
@@ -2508,13 +2508,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_plains_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "5710D624BA2130D9"
+				id: "0C274A18B0C8A594"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "minecraft:horse_spawn_egg"
-				id: "56B48CA96F0419C9"
+				id: "0773727717376174"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a horse"
@@ -2534,13 +2534,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_plains_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "507E10DFD709280A"
+				id: "06BF4953DDF97176"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_crow"
-				id: "06A65FC49CC9FC26"
+				id: "0571C813D6F955DB"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a crow"
@@ -2560,13 +2560,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_plains_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "40D500F1EB8C9005"
+				id: "53ABD345782EB5BC"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_bison"
-				id: "12280DAB1D5D5656"
+				id: "3468D45E284BBA10"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a bison"
@@ -2586,13 +2586,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_plains_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "4C0B0115E66117CD"
+				id: "00C69C2822AF7BB9"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "minecraft:donkey_spawn_egg"
-				id: "12C59D7989E59441"
+				id: "59BF4E6324ACBAE9"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a donkey"
@@ -2612,13 +2612,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_plains_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "5BB33A7E5E73FD35"
+				id: "713F1E0EFAEC5542"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_raccoon"
-				id: "55E1ED677607AD3B"
+				id: "501C083B6FFA74C8"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a raccoon"
@@ -2638,13 +2638,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_plains_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "4A97C19EB216CD15"
+				id: "7E1017B5E1AFB071"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_gelada_monkey"
-				id: "5B8D454E9E470BEF"
+				id: "4E46B5510E33BBF8"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a gelada monkey"
@@ -2664,13 +2664,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_plains_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "5AF3FA0605F8B721"
+				id: "27F4A53D43E75F8E"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "exoticbirds:peafowl_spawn_egg"
-				id: "219C6FD76AAE1CE7"
+				id: "05A54A9CA15296B9"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a Peafowl"
@@ -2690,13 +2690,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_plains_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "687806CACC033D2D"
+				id: "73417F8610F49110"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "meadow:brown_bear_spawn_egg"
-				id: "1B73161E50738B2A"
+				id: "655FD279C1640209"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a Brown Bear"
@@ -2716,13 +2716,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_plains_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "64F22381CF661A42"
+				id: "03914DFCC3D27C98"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "meadow:wooly_cow_spawn_egg"
-				id: "0582D04E6B9B1852"
+				id: "6359DE4B1AC7D0EE"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a Wooly Cow"
@@ -2742,13 +2742,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_plains_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "127EE3AAA9CA0762"
+				id: "68A5787DC3221995"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "meadow:water_buffalo_spawn_egg"
-				id: "230A39F841285C11"
+				id: "1E119D3EED2F3125"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a Water Buffalo"
@@ -2801,13 +2801,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_grass_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "718147A8789BC139"
+				id: "69B0D19ED7D0DEB7"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_fly"
-				id: "70AC7B1B3E5BEFEC"
+				id: "17C92C2322FCF58E"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a fly"
@@ -2827,13 +2827,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_grass_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "64F11798BC72F804"
+				id: "6A6E4CD6CCECE361"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "minecraft:pig_spawn_egg"
-				id: "546750D7398C01BE"
+				id: "6367BF525EA4D2C1"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a pig"
@@ -2853,13 +2853,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_grass_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "24DCF13A557BCA72"
+				id: "2C1DC0F368B3CC87"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "minecraft:chicken_spawn_egg"
-				id: "7F4F065E785898B7"
+				id: "7263DA38D5AF6552"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a chicken"
@@ -2879,13 +2879,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_grass_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "62348312B2FE9853"
+				id: "2C088B79424B6422"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "minecraft:rabbit_spawn_egg"
-				id: "63AB872A7E76E8CB"
+				id: "0EA94199CB759038"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a rabbit"
@@ -2905,13 +2905,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_grass_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "276429D1E96F303F"
+				id: "6E3A050ACB292817"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "exoticbirds:pigeon_spawn_egg"
-				id: "740C542CDF119D92"
+				id: "1B291CAEDED52A3B"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a Pigeon"
@@ -2931,13 +2931,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_grass_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "61EBDD175793F183"
+				id: "4CDF95B3D5DC4629"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "minecraft:sheep_spawn_egg"
-				id: "2F66A175F83E0904"
+				id: "7AF478B11729BA5C"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a sheep"
@@ -2957,13 +2957,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_grass_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "45308DF801C4F7BB"
+				id: "29D01AA4046EFD6F"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "minecraft:cow_spawn_egg"
-				id: "74E3629CE61574DF"
+				id: "1F40B3D3BBF2AE12"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a cow"
@@ -3013,13 +3013,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_caves_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "634A215F4848E55E"
+				id: "1191B7AAEF5F986A"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "minecraft:bat_spawn_egg"
-				id: "271D114E5D014D38"
+				id: "1A621EE9399B1208"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a bat"
@@ -3039,13 +3039,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_caves_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "2E429C33C0AC882B"
+				id: "6C88210D83CD55A7"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "minecraft:glow_squid_spawn_egg"
-				id: "0308550CA745A042"
+				id: "2743853787D2B34E"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a glow squid"
@@ -3065,13 +3065,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_caves_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "2FA3A40CA29CD40B"
+				id: "0B95EE1F61B87896"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_flutter"
-				id: "32BF00A58694B62B"
+				id: "49722C7402806DAE"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a flutter"
@@ -3091,13 +3091,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_caves_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "7D1ADC9BAFE57822"
+				id: "0F28006D28F88CE2"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_cockroach"
-				id: "0A76B420EEDB19FD"
+				id: "55978415BA105997"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a cockroach"
@@ -3117,13 +3117,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_caves_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "6FE73FB22646452B"
+				id: "1F2F602AE7F3031A"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "minecraft:axolotl_spawn_egg"
-				id: "00CB7B9530CE4DBB"
+				id: "51E0D49987BFC68F"
 				observe_type: 5
 				timer: 0L
 				title: "Spot an axolotl"
@@ -3143,13 +3143,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_caves_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "067084F2C89F8F1B"
+				id: "5BFCA9D6630AB88B"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "quark:stoneling_spawn_egg"
-				id: "3E08F07097FE45BE"
+				id: "1A18B7DA1932C629"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a Stoneling"
@@ -3169,13 +3169,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_caves_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "2784CB6AD496FCDC"
+				id: "298F9048E747D401"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "quark:toretoise_spawn_egg"
-				id: "53E79C697591DBB0"
+				id: "255382F4E9C308E9"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a Toretoise"
@@ -3225,13 +3225,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_snowy_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "29713977EB059D1D"
+				id: "437AF22E2BF7B289"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "minecraft:polar_bear_spawn_egg"
-				id: "6E73B573C6C57CDD"
+				id: "5621D080B6A91F56"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a polar bear"
@@ -3251,13 +3251,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_snowy_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "072F785508964155"
+				id: "0969BCABB180C437"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_moose"
-				id: "400534B481E3B99D"
+				id: "3AAF2A618C4C767D"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a moose"
@@ -3277,13 +3277,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_snowy_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "4C093940D6531082"
+				id: "1CBEC821112B37E7"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_snow_leopard"
-				id: "3B5323AA2D1B6142"
+				id: "0754CC59742A0AEC"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a snow leopard"
@@ -3303,13 +3303,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_snowy_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "1289BCE4BBE2DC23"
+				id: "7991F5E4D9BD5487"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "minecraft:fox_spawn_egg"
-				id: "3A9542C5121DC550"
+				id: "1BC84B770B838AD4"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a fox"
@@ -3356,13 +3356,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_swamp_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "00EA0B5E81C50617"
+				id: "57840BEBD39070D6"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_shoebill"
-				id: "633D7B5B66B37375"
+				id: "0906C472A9DED98C"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a shoebill"
@@ -3382,13 +3382,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_swamp_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "71838C0DB04CBC18"
+				id: "26E56DFEC262E56F"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_catfish"
-				id: "581707544918D326"
+				id: "510B88CFEEBC8CF8"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a catfish"
@@ -3408,13 +3408,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_swamp_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "1D5269F55B7F3A43"
+				id: "3D72FCC04477FE58"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "minecraft:frog_spawn_egg"
-				id: "4F32B651F430DEB6"
+				id: "351DE797C3874C5C"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a frog"
@@ -3434,13 +3434,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_swamp_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "4BEC8525A03D8BE3"
+				id: "6EB975E6EDD49923"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "minecraft:tadpole_spawn_egg"
-				id: "20654A05F47980F2"
+				id: "43739A0E69363A1F"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a tadpole"
@@ -3460,13 +3460,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_swamp_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "76F9DDF498DA937A"
+				id: "248DC69ADD30E750"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_caiman"
-				id: "0F7558E476FB9EBC"
+				id: "4289F0EF5F5DCE00"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a Caiman"
@@ -3486,13 +3486,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_swamp_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "7AF426D0DB88406C"
+				id: "6C799D338322E765"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_mudskipper"
-				id: "3D0A013476B0A7D8"
+				id: "764B0997A3207938"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a mudskipper"
@@ -3541,13 +3541,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_mushroom_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "50AA140FC7705B07"
+				id: "06F28A5494043254"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_bunfungus"
-				id: "3EC9311E768BD3EC"
+				id: "74D9E314042B68AA"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a bunfungus"
@@ -3567,13 +3567,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_mushroom_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "1533F85DAB42570E"
+				id: "2540D86608937A72"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_mungus"
-				id: "7AC51AF01608BC9B"
+				id: "4965F527D1F7587C"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a mungus"
@@ -3593,13 +3593,13 @@
 				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_mushroom_completion']"
 				elevate_perms: true
 				exclude_from_claim_all: true
-				id: "7387415B84905B23"
+				id: "62E56B1854C50FF3"
 				silent: true
 				type: "command"
 			}]
 			tasks: [{
 				icon: "minecraft:mooshroom_spawn_egg"
-				id: "3A18328294626313"
+				id: "4B184C7082BFF2FF"
 				observe_type: 5
 				timer: 0L
 				title: "Spot a mooshroom"

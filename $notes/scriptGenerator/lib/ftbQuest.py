@@ -1,6 +1,7 @@
 import random
 import os
 from src import const
+from quests import const as qConst
 parentStr = "0123456789ABCDEF"
 stringLength = 15
 ticketId = 'kubejs:miles_ticket'
@@ -23,10 +24,13 @@ def questFileContent(icon, filename, title, questContent, orderIndex=1, questGro
 	outStr += f'}}\n'
 	return outStr
 
-def observationQuestContent(questId, icon, name, observe, command, dependency, x=0, y=0):
+def observationQuestContent(questId, icon, name, observe, command, dependency, x=0, y=0, seedStr=''):
+	if len(seedStr) > 0:
+		random.seed(qConst.rewardSeedStarter + seedStr)
+	rewardContent = commandRewardContent(command)
 	return questContent(
 		questId,
-		commandRewardContent(command),
+		rewardContent,
 		observationTaskContent(icon, name, observe),
 		x=x,
 		y=y,
@@ -34,10 +38,13 @@ def observationQuestContent(questId, icon, name, observe, command, dependency, x
 		disableToast=True
 	)
 
-def collectionQuestContent(questId, itemId, commands, dependency, x=0, y=0):
+def collectionQuestContent(questId, itemId, commands, dependency, x=0, y=0, seedStr=''):
 	rewardContent = ''
+	if len(seedStr) > 0:
+		random.seed(qConst.rewardSeedStarter + seedStr)
 	for command in commands:
 		rewardContent += commandRewardContent(command)
+	random.seed(seedStr)
 	return questContent(
 		questId,
 		rewardContent,

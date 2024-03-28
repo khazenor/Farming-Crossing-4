@@ -56,7 +56,8 @@ def genQuestLines():
 						commands,
 						dependencyId,
 						x=x,
-						y=y
+						y=y,
+						seedStr=seedStr
 					)
 				else: # questType == collectionQuestsInput.observationQuestTypeConst
 					icon = taskId[collectionQuestsInput.iconKey]
@@ -71,7 +72,8 @@ def genQuestLines():
 						commands,
 						dependencyId,
 						x=x,
-						y=y
+						y=y,
+						seedStr=observe
 					)
 				subQuestDependencies.append(questId)
 
