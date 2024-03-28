@@ -1,6 +1,7 @@
 # 4.0:
 
 # 3.18:
+- as always, remember to backup your world before updating!
 - remove excessive server logging from the lasso crash warning script.
 - re-enable nitwit villagers with Liberty Villagers since it was causing issues with FC4 NPCs.
   - fix any broken existing FC4 NPC's by using the "Highlight *name* for 30 seconds and update their trades" quests in the "Inviting Villagers" chapter
