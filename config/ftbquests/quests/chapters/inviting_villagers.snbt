@@ -570,7 +570,7 @@
 			dependencies: ["67410832B3588F76"]
 			description: ["Use this checkpoint quest to help locate Jess!"]
 			hide: true
-			icon: "chiselsandbits:magnifying_glass"
+			icon: "moa_decor_science:lupa"
 			id: "72A8820CE32DF938"
 			rewards: [{
 				command: "/function fc_villagers:jess_highlight"
@@ -598,7 +598,7 @@
 				"This also updates Andre's trades to the latest version of the modpack."
 			]
 			hide: true
-			icon: "chiselsandbits:magnifying_glass"
+			icon: "moa_decor_science:lupa"
 			id: "512BADF33A088EBA"
 			rewards: [{
 				command: "/function fc_villagers:andre_highlight_and_update_trades"
@@ -626,7 +626,7 @@
 				"This also updates Laly's trades to the latest version of the modpack."
 			]
 			hide: true
-			icon: "chiselsandbits:magnifying_glass"
+			icon: "moa_decor_science:lupa"
 			id: "411A015BA96920ED"
 			rewards: [{
 				command: "/function fc_villagers:laly_highlight_and_update_trades"
@@ -654,7 +654,7 @@
 				"This also updates Pamela's trades to the latest version of the modpack."
 			]
 			hide: true
-			icon: "chiselsandbits:magnifying_glass"
+			icon: "moa_decor_science:lupa"
 			id: "0AC907ED825810E1"
 			rewards: [{
 				command: "/function fc_villagers:pamela_highlight_and_update_trades"
@@ -682,7 +682,7 @@
 				"This also updates Ren's trades to the latest version of the modpack."
 			]
 			hide: true
-			icon: "chiselsandbits:magnifying_glass"
+			icon: "moa_decor_science:lupa"
 			id: "767DD13CDF3F90D1"
 			rewards: [{
 				command: "/function fc_villagers:ren_highlight_and_update_trades"
@@ -710,7 +710,7 @@
 				"This also updates Sam's trades to the latest version of the modpack."
 			]
 			hide: true
-			icon: "chiselsandbits:magnifying_glass"
+			icon: "moa_decor_science:lupa"
 			id: "3FC799C7A2A8C9ED"
 			rewards: [{
 				command: "/function fc_villagers:sam_highlight_and_update_trades"
@@ -738,7 +738,7 @@
 				"This also updates Yukkie's trades to the latest version of the modpack."
 			]
 			hide: true
-			icon: "chiselsandbits:magnifying_glass"
+			icon: "moa_decor_science:lupa"
 			id: "642BFEA807DA5610"
 			rewards: [{
 				command: "/function fc_villagers:yukkie_highlight_and_update_trades"
@@ -849,7 +849,7 @@
 			dependencies: ["63B3DEB3D6738664"]
 			description: ["Use this checkpoint quest to help locate Bernina!"]
 			hide: true
-			icon: "chiselsandbits:magnifying_glass"
+			icon: "moa_decor_science:lupa"
 			id: "52D27F0D078EB60E"
 			rewards: [{
 				command: "/function fc_villagers:bernina_highlight"
@@ -960,7 +960,7 @@
 			dependencies: ["7A541B9B0899FD02"]
 			description: ["Use this checkpoint quest to help locate Elna!"]
 			hide: true
-			icon: "chiselsandbits:magnifying_glass"
+			icon: "moa_decor_science:lupa"
 			id: "23E15AD0DC4B11BD"
 			rewards: [{
 				command: "/function fc_villagers:elna_highlight"
