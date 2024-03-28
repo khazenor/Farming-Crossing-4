@@ -2,6 +2,7 @@
 
 # 3.18:
 - remove excessive server logging from the lasso crash warning script.
+- re-enable nitwit villagers with Liberty Villagers since it was causing issues with FC4 NPCs
 # 3.17:
 - Slowed down botany pot crop growth to a bit slower than how fast they grow on the ground.
 - Removed from Qol recipes that are already added by Quark
