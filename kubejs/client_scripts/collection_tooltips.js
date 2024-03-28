@@ -109,7 +109,11 @@ ItemEvents.tooltip(event => {
       'bakery:glowberry_tart', 
       'bakery:chocolate_tart', 
       'bakery:bundt_cake', 
-      'bakery:waffle'
+      'bakery:waffle', 
+      'bakery:cornet', 
+      'bakery:chocolate_box', 
+      'bakery:chocolate_gateau', 
+      'bakery:misslilitu_biscuit'
     ],
     [
       'Cooking Collection', 

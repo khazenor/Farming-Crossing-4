@@ -71,7 +71,11 @@ foodOven = [
   'bakery:glowberry_tart',
   'bakery:chocolate_tart',
   'bakery:bundt_cake',
-  'bakery:waffle'
+  'bakery:waffle',
+  'bakery:cornet',
+  'bakery:chocolate_box',
+  'bakery:chocolate_gateau',
+  'bakery:misslilitu_biscuit'
 ]
 foodSmallCookingPot = [
   'bakery:strawberry_jam',
