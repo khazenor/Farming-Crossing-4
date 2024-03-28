@@ -7,7 +7,7 @@
 - Easy Mob Farm
 - Cuisine Delight
 ## Mods Updated
-- Lets do bakery
+- Lets do bakery, beach party
   - Collection quests updated with new foods
 # 3.17:
 - Slowed down botany pot crop growth to a bit slower than how fast they grow on the ground.
