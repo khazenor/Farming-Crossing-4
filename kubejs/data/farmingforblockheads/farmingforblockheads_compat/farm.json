@@ -241,17 +241,6 @@
     },
     {
       "output": {
-        "item": "beachparty:raw_pelican",
-        "count": 8
-      },
-      "payment": {
-        "item": "kubejs:miles_ticket",
-        "count": 2
-      },
-      "category": "farm"
-    },
-    {
-      "output": {
         "item": "alexsdelight:raw_bison",
         "count": 8
       },
@@ -2013,17 +2002,6 @@
     {
       "output": {
         "item": "bakery:wandering_baker_spawn_egg",
-        "count": 1
-      },
-      "payment": {
-        "item": "kubejs:miles_ticket",
-        "count": 64
-      },
-      "category": "farm"
-    },
-    {
-      "output": {
-        "item": "beachparty:pelican_spawn_egg",
         "count": 1
       },
       "payment": {

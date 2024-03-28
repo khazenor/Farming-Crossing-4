@@ -128,11 +128,6 @@ questlines = [
             observeKey: "exoticbirds:pelican"
           },
           {
-            iconKey: "beachparty:pelican_spawn_egg",
-            nameKey: "Spot a Pelican",
-            observeKey: "beachparty:pelican"
-          },
-          {
             iconKey: "quark:crab_spawn_egg",
             nameKey: "Spot a Crab",
             observeKey: "quark:crab"

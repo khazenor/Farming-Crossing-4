@@ -455,32 +455,6 @@
 			dependencies: ["2D62FBEF18E6ABF6"]
 			disable_toast: true
 			hide: true
-			id: "221EA18ECBCCDD08"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:animal_watching_beaches_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "4DC21546094BE8DE"
-				silent: true
-				type: "command"
-			}]
-			tasks: [{
-				icon: "beachparty:pelican_spawn_egg"
-				id: "552276F1213ED302"
-				observe_type: 5
-				timer: 0L
-				title: "Spot a Pelican"
-				to_observe: "beachparty:pelican"
-				type: "observation"
-			}]
-			x: 2.0d
-			y: 4.0d
-		}
-		{
-			dependencies: ["2D62FBEF18E6ABF6"]
-			disable_toast: true
-			hide: true
 			id: "0320C3AA93A0B1C2"
 			rewards: [{
 				auto: "invisible"
@@ -500,7 +474,7 @@
 				to_observe: "quark:crab"
 				type: "observation"
 			}]
-			x: 3.0d
+			x: 2.0d
 			y: 4.0d
 		}
 		{
@@ -513,13 +487,12 @@
 				"298731F2CB70FED1"
 				"24FABF284F06C04B"
 				"3EFBA4A3E40E8CEE"
-				"221EA18ECBCCDD08"
 				"0320C3AA93A0B1C2"
 			]
 			icon: "beachparty:beach_umbrella"
 			id: "15D4AD19820415DF"
 			rewards: [{
-				count: 12
+				count: 10
 				id: "0A93D95ED4417518"
 				item: "kubejs:miles_ticket"
 				type: "item"

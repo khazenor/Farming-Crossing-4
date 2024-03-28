@@ -56,7 +56,6 @@ ServerEvents.tags('entity_type', event => {
       'alexsmobs:terrapin', 
       'alexsmobs:toucan', 
       'alexsmobs:triops', 
-      'beachparty:pelican', 
       'exoticbirds:bluejay', 
       'exoticbirds:booby', 
       'exoticbirds:budgerigar', 
