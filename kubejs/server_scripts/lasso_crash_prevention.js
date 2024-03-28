@@ -52,7 +52,6 @@ const drawers = [
 ]
 
 BlockEvents.rightClicked(event => {
-  console.log('block:', event.getBlock().id)
   if (
     (event.getItem().getId() === 'easy_mob_farm:netherite_lasso') &&
     (drawers.indexOf(event.getBlock().id) !== -1)

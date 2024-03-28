@@ -1,5 +1,7 @@
 # 4.0:
 
+# 3.18:
+- remove excessive server logging from the lasso crash warning script.
 # 3.17:
 - Slowed down botany pot crop growth to a bit slower than how fast they grow on the ground.
 - Removed from Qol recipes that are already added by Quark
