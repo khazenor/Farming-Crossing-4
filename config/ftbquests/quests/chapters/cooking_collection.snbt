@@ -586,7 +586,13 @@
 				"2F9EAE9A525E30F6"
 				"7AF639094FA1F055"
 			]
-			icon: "bakery:small_cooking_pot"
+			icon: {
+				Count: 1b
+				id: "bakery:small_cooking_pot"
+				tag: {
+					Damage: 0
+				}
+			}
 			id: "29196E9A39384E52"
 			rewards: [{
 				count: 10

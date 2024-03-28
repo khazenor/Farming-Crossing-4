@@ -1,0 +1,17 @@
+{
+  "type": "bakery:stove",
+  "ingredients": [
+    {
+      "tag": "bakery:dough"
+    },
+    {
+      "item": "bakery:yeast"
+    },
+    {
+      "tag": "forge:water"
+    }
+  ],
+  "item": "bakery:crusty_bread",
+  "count": 4,
+  "experience": 0.35
+}

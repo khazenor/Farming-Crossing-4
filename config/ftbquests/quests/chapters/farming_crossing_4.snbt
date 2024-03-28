@@ -21,7 +21,13 @@
 				}
 				{
 					id: "1A0D9D85B3BA6BA8"
-					item: "bakery:small_cooking_pot"
+					item: {
+						Count: 1b
+						id: "bakery:small_cooking_pot"
+						tag: {
+							Damage: 0
+						}
+					}
 					type: "item"
 				}
 				{
@@ -110,7 +116,15 @@
 		}
 		{
 			dependencies: ["5E93B9E15372F454"]
+			description: [
+				"Right click the caking station while holding a cake dough. After that you can do different interactions with the cake dough: "
+				""
+				"Knife -> Cutting -> Use Jam on it -> Make Cupcakes "
+				"Knife -> Rolling Pin -> Use Jam on it -> Make Cookies "
+				"Using Jam on it -> Make a cake"
+			]
 			hide: true
+			icon: "bakery:strawberry_cake"
 			id: "45CAACDFDC15E734"
 			rewards: [
 				{
@@ -125,11 +139,23 @@
 					type: "item"
 				}
 			]
-			tasks: [{
-				id: "3AB93F30CDA1780F"
-				item: "bakery:strawberry_cake"
-				type: "item"
-			}]
+			tasks: [
+				{
+					id: "3AB93F30CDA1780F"
+					item: "bakery:strawberry_cake"
+					type: "item"
+				}
+				{
+					id: "2A4512658A74CF04"
+					item: "bakery:strawberry_glazed_cookie"
+					type: "item"
+				}
+				{
+					id: "39D12A3D58AC6C98"
+					item: "bakery:strawberry_cupcake"
+					type: "item"
+				}
+			]
 			x: 3.5d
 			y: -3.5d
 		}
