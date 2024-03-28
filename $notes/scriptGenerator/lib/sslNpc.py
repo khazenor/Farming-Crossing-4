@@ -1,6 +1,6 @@
 from lib import commands
 
-nitwitVillagerData = ',VillagerData: { profession: "minecraft:nitwit", level: 5, type: "minecraft:plains" }'
+nitwitVillagerData = '{ profession: "minecraft:nitwit", level: 5, type: "minecraft:plains" }'
 
 villagerItemKey = 'villagerItemKey'
 villagerQtyKey = 'villagerQtyKey'
@@ -13,24 +13,25 @@ def summonNpcCommand(texture, name, offers, hasTradesDefined):
 	if len(offers) > 0:
 		entityData += f',Offers: {offerString(offers)}'
 	if hasTradesDefined:
-		entityData += nitwitVillagerData
+		entityData += f', VillagerData: {nitwitVillagerData}'
 	entityData += '}\n'
 	return commands.summonEntity('ssls_npc_maker_mod:npc', entityData=entityData)
 
 def updateNpcCommand(name, offers):
-	command = 'data modify entity '
-	command += f'@e[type=ssls_npc_maker_mod:npc, name={name}, sort=nearest, limit=1]'
-	command += f' Offers set value {offerString(offers)}'
-	command += '\n'
+	command = f'data modify entity {nameSelector(name)} Offers set value {offerString(offers)}\n'
+	command += f'data modify entity {nameSelector(name)} VillagerData set value {nitwitVillagerData}\n'
 	return command
 
 def highlightNpcCommand(name):
 	command = 'execute at @p'
-	command += f' if entity @e[type=ssls_npc_maker_mod:npc, name={name}, sort=nearest, limit=1]'
-	command += f' run effect give @e[type=ssls_npc_maker_mod:npc, name={name}, sort=nearest, limit=1]'
+	command += f' if entity {nameSelector(name)}'
+	command += f' run effect give {nameSelector(name)}'
 	command += ' minecraft:glowing 30 1 true'
 	command += '\n'
 	return command
+
+def nameSelector(name):
+	return f'@e[type=ssls_npc_maker_mod:npc, name={name}, sort=nearest, limit=1]'
 
 def offerString(offers):
 	return f"{{Recipes: [{offerRecipeString(offers)}]}}"
