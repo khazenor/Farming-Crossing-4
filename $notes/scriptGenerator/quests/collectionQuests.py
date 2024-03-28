@@ -38,8 +38,12 @@ def genQuestLines():
 					x = 0
 					y += 1
 				questType = questline[collectionQuestsInput.typeKey]
-				commandName = stringCleaning.cleanedNameStr(f'{questLineName} {questGroupName}')
-				command = f"function {questFunctions.functionParentName}:{commandName}"
+				groupCommandName = stringCleaning.cleanedNameStr(f'{questLineName}')
+				subGroupCommandName = stringCleaning.cleanedNameStr(f'{questLineName} {questGroupName}')
+				commands = [
+					f"function {questFunctions.functionParentName}:{groupCommandName}",
+					f"function {questFunctions.functionParentName}:{subGroupCommandName}"
+				]
 				if questType == collectionQuestsInput.itemQuestTypeConst:
 					if taskId in collectionQuestsInput.itemSeedStrs:
 						seedStr = collectionQuestsInput.itemSeedStrs[taskId]
@@ -49,7 +53,7 @@ def genQuestLines():
 					questsContent += ftbQuest.collectionQuestContent(
 						questId,
 						taskId,
-						command,
+						commands,
 						dependencyId,
 						x=x,
 						y=y
@@ -64,7 +68,7 @@ def genQuestLines():
 						icon,
 						name,
 						observe,
-						command,
+						commands,
 						dependencyId,
 						x=x,
 						y=y

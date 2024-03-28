@@ -34,10 +34,13 @@ def observationQuestContent(questId, icon, name, observe, command, dependency, x
 		disableToast=True
 	)
 
-def collectionQuestContent(questId, itemId, command, dependency, x=0, y=0):
+def collectionQuestContent(questId, itemId, commands, dependency, x=0, y=0):
+	rewardContent = ''
+	for command in commands:
+		rewardContent += commandRewardContent(command)
 	return questContent(
 		questId,
-		commandRewardContent(command),
+		rewardContent,
 		simpleItemContent(itemId),
 		x=x,
 		y=y,

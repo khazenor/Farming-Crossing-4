@@ -13,17 +13,28 @@
 			disable_toast: true
 			hide: true
 			id: "60E5DEF00ADBE016"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_oven_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "227F2C01D39B4ED5"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "227F2C01D39B4ED5"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_oven_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6819AC8B5526F9EC"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "6819AC8B5526F9EC"
+				id: "4403F078B29C4491"
 				item: "bakery:croissant"
 				type: "item"
 			}]
@@ -35,17 +46,28 @@
 			disable_toast: true
 			hide: true
 			id: "6C1D193F0FE31A15"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_oven_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "4B802901F38CD0FF"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4B802901F38CD0FF"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_oven_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3B7D3AF3D5DDF1EF"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "3B7D3AF3D5DDF1EF"
+				id: "5120A43EC1D984FA"
 				item: "bakery:crusty_bread"
 				type: "item"
 			}]
@@ -57,17 +79,28 @@
 			disable_toast: true
 			hide: true
 			id: "775E1FA43207D698"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_oven_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "62014704DBC9AC4A"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "62014704DBC9AC4A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_oven_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "21A63CAD6D795AD9"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "21A63CAD6D795AD9"
+				id: "78E76667EDD27E07"
 				item: "bakery:bread"
 				type: "item"
 			}]
@@ -79,17 +112,28 @@
 			disable_toast: true
 			hide: true
 			id: "2BDB89E660FF4F54"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_oven_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "3DF1C7DD953EA1DD"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3DF1C7DD953EA1DD"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_oven_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0D25E35C8CEB0008"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "0D25E35C8CEB0008"
+				id: "4C99815D9A47AC38"
 				item: "bakery:baguette"
 				type: "item"
 			}]
@@ -101,17 +145,28 @@
 			disable_toast: true
 			hide: true
 			id: "4D9B1DC8666A7379"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_oven_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "5402CF8DB7C137F2"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5402CF8DB7C137F2"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_oven_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "066EDCF96CAFE8B8"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "066EDCF96CAFE8B8"
+				id: "5AB2506C1452EF2C"
 				item: "bakery:toast"
 				type: "item"
 			}]
@@ -123,17 +178,28 @@
 			disable_toast: true
 			hide: true
 			id: "746FC56C432D9D72"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_oven_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "724FA9B6465DA46A"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "724FA9B6465DA46A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_oven_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6DC3407865DAF23F"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "6DC3407865DAF23F"
+				id: "38968709D5CD550C"
 				item: "bakery:braided_bread"
 				type: "item"
 			}]
@@ -145,17 +211,28 @@
 			disable_toast: true
 			hide: true
 			id: "762812A543E15A59"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_oven_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "3420F7A882EC4F45"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3420F7A882EC4F45"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_oven_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "18F9E3157000BE6C"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "18F9E3157000BE6C"
+				id: "4BEE16BEEBBD833D"
 				item: "bakery:bun"
 				type: "item"
 			}]
@@ -167,17 +244,28 @@
 			disable_toast: true
 			hide: true
 			id: "683249A732E9ED46"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_oven_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "0EFD8A0387E3B48F"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0EFD8A0387E3B48F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_oven_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "330F68371BE232E1"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "330F68371BE232E1"
+				id: "2C33316523352F3A"
 				item: "bakery:vegetable_sandwich"
 				type: "item"
 			}]
@@ -189,17 +277,28 @@
 			disable_toast: true
 			hide: true
 			id: "7FC86682023BE36A"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_oven_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "15296DF5C6E41397"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "15296DF5C6E41397"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_oven_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "09DD60D8FC6F85D9"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "09DD60D8FC6F85D9"
+				id: "2A07BFDE468F2E92"
 				item: "bakery:sandwich"
 				type: "item"
 			}]
@@ -211,17 +310,28 @@
 			disable_toast: true
 			hide: true
 			id: "726316947246AA20"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_oven_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "151E51B9911A7955"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "151E51B9911A7955"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_oven_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4022EC2A0D35A9C7"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "4022EC2A0D35A9C7"
+				id: "34C06575A40550E1"
 				item: "bakery:bread_crate"
 				type: "item"
 			}]
@@ -233,17 +343,28 @@
 			disable_toast: true
 			hide: true
 			id: "189DCD77ED287270"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_oven_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "4F6654836C1CC8C4"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4F6654836C1CC8C4"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_oven_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "19E3B2F7A8F04723"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "19E3B2F7A8F04723"
+				id: "2F8B2652F069DF33"
 				item: "bakery:linzer_tart"
 				type: "item"
 			}]
@@ -255,17 +376,28 @@
 			disable_toast: true
 			hide: true
 			id: "73B287C3F642F110"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_oven_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "3F173BA288E57F0F"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3F173BA288E57F0F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_oven_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "55966086BDFD19EB"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "55966086BDFD19EB"
+				id: "3C578BEE49217709"
 				item: "bakery:apple_pie"
 				type: "item"
 			}]
@@ -277,17 +409,28 @@
 			disable_toast: true
 			hide: true
 			id: "6D74268AD496D2DE"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_oven_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "63493C2AB3434277"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "63493C2AB3434277"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_oven_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "72EB3FBEE23F6B36"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "72EB3FBEE23F6B36"
+				id: "5D6BE207144DE753"
 				item: "bakery:glowberry_tart"
 				type: "item"
 			}]
@@ -299,17 +442,28 @@
 			disable_toast: true
 			hide: true
 			id: "70330F56008B72F6"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_oven_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "3FBCF25F467C1BB8"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3FBCF25F467C1BB8"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_oven_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5015EB3D2D227A16"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "5015EB3D2D227A16"
+				id: "2993A5B5FFD51844"
 				item: "bakery:chocolate_tart"
 				type: "item"
 			}]
@@ -321,17 +475,28 @@
 			disable_toast: true
 			hide: true
 			id: "4AD97AB2D90083BB"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_oven_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "63F96DB1E126D031"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "63F96DB1E126D031"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_oven_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "544A1FEE9E235F99"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "544A1FEE9E235F99"
+				id: "53E677ACDA9E27D1"
 				item: "bakery:bundt_cake"
 				type: "item"
 			}]
@@ -343,17 +508,28 @@
 			disable_toast: true
 			hide: true
 			id: "0FDDBA02385FAAA7"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_oven_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "699F2B137BE8A393"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "699F2B137BE8A393"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_oven_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2F94B142DB84C711"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "2F94B142DB84C711"
+				id: "024899BE214BB72C"
 				item: "bakery:waffle"
 				type: "item"
 			}]
@@ -365,17 +541,28 @@
 			disable_toast: true
 			hide: true
 			id: "4563B0814D68CFE9"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_oven_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "48ED91E46CD6DB92"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "48ED91E46CD6DB92"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_oven_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2A81D564DCCFA367"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "2A81D564DCCFA367"
+				id: "654EAF26072DA73A"
 				item: "bakery:cornet"
 				type: "item"
 			}]
@@ -387,17 +574,28 @@
 			disable_toast: true
 			hide: true
 			id: "738A25DE20CB3CAD"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_oven_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "44A11B6BE6DBE554"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "44A11B6BE6DBE554"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_oven_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "06F35B0E8E7EC706"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "06F35B0E8E7EC706"
+				id: "3A5154758746406A"
 				item: "bakery:chocolate_box"
 				type: "item"
 			}]
@@ -409,17 +607,28 @@
 			disable_toast: true
 			hide: true
 			id: "5CEA82E0684D5499"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_oven_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "0D18523BC1CEA6B5"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0D18523BC1CEA6B5"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_oven_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0878B76342518601"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "0878B76342518601"
+				id: "47B8374B05321379"
 				item: "bakery:chocolate_gateau"
 				type: "item"
 			}]
@@ -431,17 +640,28 @@
 			disable_toast: true
 			hide: true
 			id: "4468692F48C58382"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_oven_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "72D635FEC9C83570"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "72D635FEC9C83570"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_oven_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "43832C1016135E52"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "43832C1016135E52"
+				id: "7E1D3BA0678D0006"
 				item: "bakery:misslilitu_biscuit"
 				type: "item"
 			}]
@@ -496,17 +716,28 @@
 			disable_toast: true
 			hide: true
 			id: "3D32DDF4480FE57A"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_small_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "0C97A4AD0807B645"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0C97A4AD0807B645"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_small_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "60F248452ABAFDB1"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "60F248452ABAFDB1"
+				id: "6D30F200588B79E8"
 				item: "bakery:strawberry_jam"
 				type: "item"
 			}]
@@ -518,17 +749,28 @@
 			disable_toast: true
 			hide: true
 			id: "4BB2F2A0A2FC23E7"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_small_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "3E81AC9300F887A5"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3E81AC9300F887A5"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_small_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "706DF9CE56CF6D24"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "706DF9CE56CF6D24"
+				id: "77A5C0CC5CF1FBAB"
 				item: "bakery:sweetberry_jam"
 				type: "item"
 			}]
@@ -540,17 +782,28 @@
 			disable_toast: true
 			hide: true
 			id: "1564E99B50B443DF"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_small_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "4B5786F47D3D9DE1"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4B5786F47D3D9DE1"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_small_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4917C7479DA11843"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "4917C7479DA11843"
+				id: "0D7F4C38B1FAE2F7"
 				item: "bakery:glowberry_jam"
 				type: "item"
 			}]
@@ -562,17 +815,28 @@
 			disable_toast: true
 			hide: true
 			id: "0A3E5EFB3536D9A0"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_small_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "7084FA7963A7692F"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7084FA7963A7692F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_small_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "376A783E1B1ED971"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "376A783E1B1ED971"
+				id: "0AF8F3862F85829F"
 				item: "bakery:apple_jam"
 				type: "item"
 			}]
@@ -584,17 +848,28 @@
 			disable_toast: true
 			hide: true
 			id: "5A8F0310AC8BBDAC"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_small_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "3970E835CC0A8160"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3970E835CC0A8160"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_small_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5774B390B2DA915B"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "5774B390B2DA915B"
+				id: "225F3D762B9F0028"
 				item: "bakery:chocolate_jam"
 				type: "item"
 			}]
@@ -606,17 +881,28 @@
 			disable_toast: true
 			hide: true
 			id: "1ECACE19E1D5371D"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_small_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "0406FA49DD856922"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0406FA49DD856922"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_small_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2B9A8227FBE25C98"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "2B9A8227FBE25C98"
+				id: "15C8C4FB6D26D218"
 				item: "bakery:chocolate_truffle"
 				type: "item"
 			}]
@@ -628,17 +914,28 @@
 			disable_toast: true
 			hide: true
 			id: "2F9EAE9A525E30F6"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_small_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "30DCB1F2BD4BC26F"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "30DCB1F2BD4BC26F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_small_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "65F6B9EC0F5BB9B7"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "65F6B9EC0F5BB9B7"
+				id: "1C2976F846B022D1"
 				item: "bakery:pudding"
 				type: "item"
 			}]
@@ -650,17 +947,28 @@
 			disable_toast: true
 			hide: true
 			id: "7AF639094FA1F055"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_small_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "5F63C7B0A6C684C8"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5F63C7B0A6C684C8"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_small_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6BC34F726E6A2115"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "6BC34F726E6A2115"
+				id: "262B8243F2420F50"
 				item: "bakery:jam_roll"
 				type: "item"
 			}]
@@ -709,17 +1017,28 @@
 			disable_toast: true
 			hide: true
 			id: "2A822D2BA1F6C7E1"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_baking_station_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "30EF61DACAC60A25"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "30EF61DACAC60A25"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_baking_station_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "44C7A6087DD7C09B"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "44C7A6087DD7C09B"
+				id: "1F896FFC766CAC20"
 				item: "bakery:strawberry_cupcake"
 				type: "item"
 			}]
@@ -731,17 +1050,28 @@
 			disable_toast: true
 			hide: true
 			id: "0591BA7D8D82FC3A"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_baking_station_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "462DB7283A759C0A"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "462DB7283A759C0A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_baking_station_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5C36C653C6EB7527"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "5C36C653C6EB7527"
+				id: "6CD07E6142C8E210"
 				item: "bakery:sweetberry_cupcake"
 				type: "item"
 			}]
@@ -753,17 +1083,28 @@
 			disable_toast: true
 			hide: true
 			id: "3CE25F1E07752F82"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_baking_station_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "0437656A5E77E9DF"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0437656A5E77E9DF"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_baking_station_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2C3CB933BFBA6D18"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "2C3CB933BFBA6D18"
+				id: "79289A4B60A6AD79"
 				item: "bakery:apple_cupcake"
 				type: "item"
 			}]
@@ -775,17 +1116,28 @@
 			disable_toast: true
 			hide: true
 			id: "43192B5022DAC37A"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_baking_station_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "0DBEBF2B98A2FCA8"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0DBEBF2B98A2FCA8"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_baking_station_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "172F1A3CFC961A4A"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "172F1A3CFC961A4A"
+				id: "1E0A4D96A6FA4FC2"
 				item: "bakery:strawberry_glazed_cookie"
 				type: "item"
 			}]
@@ -797,17 +1149,28 @@
 			disable_toast: true
 			hide: true
 			id: "48C5C3D0B5E646E9"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_baking_station_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "5258E6E731F9BB80"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5258E6E731F9BB80"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_baking_station_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "14DA3E1D9CDDEFF8"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "14DA3E1D9CDDEFF8"
+				id: "7F0D23FE87AC3447"
 				item: "bakery:sweetberry_glazed_cookie"
 				type: "item"
 			}]
@@ -819,17 +1182,28 @@
 			disable_toast: true
 			hide: true
 			id: "27BA2007EBD7CBD6"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_baking_station_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "37B6DF69FCE0FA0D"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "37B6DF69FCE0FA0D"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_baking_station_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0F9DA575D9C7916D"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "0F9DA575D9C7916D"
+				id: "383CD555E47F5DC4"
 				item: "bakery:chocolate_glazed_cookie"
 				type: "item"
 			}]
@@ -841,17 +1215,28 @@
 			disable_toast: true
 			hide: true
 			id: "7C50806F9EC14C42"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_baking_station_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "7897125679F7ED96"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7897125679F7ED96"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_baking_station_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0550D223B019E6DE"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "0550D223B019E6DE"
+				id: "551D95FAACC299FB"
 				item: "bakery:strawberry_cake"
 				type: "item"
 			}]
@@ -863,17 +1248,28 @@
 			disable_toast: true
 			hide: true
 			id: "0BFB835E5C4A0DA8"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_baking_station_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "5FBA0F9208152235"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5FBA0F9208152235"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_baking_station_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "212CA6320F1C8AE4"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "212CA6320F1C8AE4"
+				id: "2D216AC1653BA1CF"
 				item: "bakery:sweetberry_cake"
 				type: "item"
 			}]
@@ -885,17 +1281,28 @@
 			disable_toast: true
 			hide: true
 			id: "4AF823330636BEFB"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_baking_station_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "3BC6011019C91516"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3BC6011019C91516"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_baking_station_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0B7A2C6BA8F1E15B"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "0B7A2C6BA8F1E15B"
+				id: "69D2D3C4A5590E52"
 				item: "bakery:chocolate_cake"
 				type: "item"
 			}]
@@ -939,17 +1346,28 @@
 			disable_toast: true
 			hide: true
 			id: "11A8CC2CF0505C2E"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_grapevine_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "7F34BBD758E0AC39"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7F34BBD758E0AC39"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_grapevine_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "162164BBDB532A49"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "162164BBDB532A49"
+				id: "6704A7DADED28E8C"
 				item: "vinery:red_grapejuice_wine_bottle"
 				type: "item"
 			}]
@@ -961,17 +1379,28 @@
 			disable_toast: true
 			hide: true
 			id: "1BB22CF63950A947"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_grapevine_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "366F539808314BDD"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "366F539808314BDD"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_grapevine_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4CB1A8CE448A1E57"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "4CB1A8CE448A1E57"
+				id: "3ECE7D6141B7035A"
 				item: "vinery:white_grapejuice_wine_bottle"
 				type: "item"
 			}]
@@ -983,17 +1412,28 @@
 			disable_toast: true
 			hide: true
 			id: "38A485C36DDF3F62"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_grapevine_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "11A2767BCB077C9E"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "11A2767BCB077C9E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_grapevine_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "794A49AA15618CD2"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "794A49AA15618CD2"
+				id: "30C26AED4074AA0E"
 				item: "vinery:taiga_red_grapejuice_bottle"
 				type: "item"
 			}]
@@ -1005,17 +1445,28 @@
 			disable_toast: true
 			hide: true
 			id: "5096B96714818FD6"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_grapevine_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "63C5A247C0E41D1C"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "63C5A247C0E41D1C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_grapevine_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7669E0B1F1CF60AA"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "7669E0B1F1CF60AA"
+				id: "73DED6F9403640EE"
 				item: "vinery:taiga_white_grapejuice_bottle"
 				type: "item"
 			}]
@@ -1027,17 +1478,28 @@
 			disable_toast: true
 			hide: true
 			id: "4F6EA368B5BDC4C2"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_grapevine_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "22532AE3DBDFDC5C"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "22532AE3DBDFDC5C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_grapevine_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "046999572CE9DCC2"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "046999572CE9DCC2"
+				id: "24341F1D7554AB5D"
 				item: "vinery:jungle_red_grapejuice_bottle"
 				type: "item"
 			}]
@@ -1049,17 +1511,28 @@
 			disable_toast: true
 			hide: true
 			id: "387318B112D06445"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_grapevine_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "14C69744AD274A4A"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "14C69744AD274A4A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_grapevine_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "11A313F5D9C16A43"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "11A313F5D9C16A43"
+				id: "73C1AC360EA6BC9F"
 				item: "vinery:jungle_white_grapejuice_bottle"
 				type: "item"
 			}]
@@ -1071,17 +1544,28 @@
 			disable_toast: true
 			hide: true
 			id: "62AAE0E7E87BFCCB"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_grapevine_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "5309515273971975"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5309515273971975"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_grapevine_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "00F4EC1C7FA68B06"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "00F4EC1C7FA68B06"
+				id: "2BDDBB1EA8DCB560"
 				item: "vinery:savanna_red_grapejuice_bottle"
 				type: "item"
 			}]
@@ -1093,17 +1577,28 @@
 			disable_toast: true
 			hide: true
 			id: "545A47C57C56BD73"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_grapevine_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "2B6E4DC0F4519250"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2B6E4DC0F4519250"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_grapevine_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2BD79414B9212FAE"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "2BD79414B9212FAE"
+				id: "3AC1133DAA10A8E1"
 				item: "vinery:savanna_white_grapejuice_bottle"
 				type: "item"
 			}]
@@ -1146,17 +1641,28 @@
 			disable_toast: true
 			hide: true
 			id: "1E29B1CA3BD398A7"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "2F072A06507186CB"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2F072A06507186CB"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3180F51DF6FB7C31"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "3180F51DF6FB7C31"
+				id: "04D0C5E6611A5F5B"
 				item: "vinery:apple_juice"
 				type: "item"
 			}]
@@ -1168,17 +1674,28 @@
 			disable_toast: true
 			hide: true
 			id: "44CBDDD5DBB6B3B2"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "63C5016A153A07E2"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "63C5016A153A07E2"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "24C6936CFA2C9938"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "24C6936CFA2C9938"
+				id: "32CEBFD448C3D86D"
 				item: "vinery:apple_wine"
 				type: "item"
 			}]
@@ -1190,17 +1707,28 @@
 			disable_toast: true
 			hide: true
 			id: "382CFC831D95C883"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "6FD7185697F89F10"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6FD7185697F89F10"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5858C71ACDFBC7C9"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "5858C71ACDFBC7C9"
+				id: "08E99B4F5FFE8934"
 				item: "vinery:cherry_wine"
 				type: "item"
 			}]
@@ -1212,17 +1740,28 @@
 			disable_toast: true
 			hide: true
 			id: "564959925998C3C5"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "1A7D7CD9B576E02A"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1A7D7CD9B576E02A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "49C947964F8E8B03"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "49C947964F8E8B03"
+				id: "7BE545ACF54AE320"
 				item: "vinery:magnetic_wine"
 				type: "item"
 			}]
@@ -1234,17 +1773,28 @@
 			disable_toast: true
 			hide: true
 			id: "38E59623101BCAA3"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "50B20CA5A0F9FD4A"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "50B20CA5A0F9FD4A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "20DDE429C755EFAE"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "20DDE429C755EFAE"
+				id: "07F55E7344F55F65"
 				item: "vinery:noir_wine"
 				type: "item"
 			}]
@@ -1256,17 +1806,28 @@
 			disable_toast: true
 			hide: true
 			id: "2FE81A75D247B4BD"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "1C2E79792FD7C6B5"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1C2E79792FD7C6B5"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5F5C1A1418CE9F3C"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "5F5C1A1418CE9F3C"
+				id: "2B9C98126407F68B"
 				item: "vinery:knulp_wine"
 				type: "item"
 			}]
@@ -1278,17 +1839,28 @@
 			disable_toast: true
 			hide: true
 			id: "5CFE6A6E9C572DD7"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "06DE1011C9D68BC8"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "06DE1011C9D68BC8"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "594C68957D297AE9"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "594C68957D297AE9"
+				id: "1BFE26DBD73FD272"
 				item: "vinery:mellohi_wine"
 				type: "item"
 			}]
@@ -1300,17 +1872,28 @@
 			disable_toast: true
 			hide: true
 			id: "48E249B84A116081"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "0595B304F43859D3"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0595B304F43859D3"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0655F38FC02E7EA6"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "0655F38FC02E7EA6"
+				id: "76095252EF40E49D"
 				item: "vinery:stal_wine"
 				type: "item"
 			}]
@@ -1322,17 +1905,28 @@
 			disable_toast: true
 			hide: true
 			id: "1B414E80C478C42A"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "1DDD9C3CE3EA20DA"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1DDD9C3CE3EA20DA"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5676EF17CA814C79"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "5676EF17CA814C79"
+				id: "00C6EA9C079D53F2"
 				item: "vinery:strad_wine"
 				type: "item"
 			}]
@@ -1344,17 +1938,28 @@
 			disable_toast: true
 			hide: true
 			id: "64D0D2737E46127E"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "3A99E992B8EBEA52"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3A99E992B8EBEA52"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "40621F18900F7A9E"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "40621F18900F7A9E"
+				id: "4ED03F5F920A9240"
 				item: "vinery:solaris_wine"
 				type: "item"
 			}]
@@ -1366,17 +1971,28 @@
 			disable_toast: true
 			hide: true
 			id: "65916077890F30B5"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "7D0B89448E7A1C53"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7D0B89448E7A1C53"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6EE51DB51E8AE74D"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "6EE51DB51E8AE74D"
+				id: "3464C4AC56108595"
 				item: "vinery:chorus_wine"
 				type: "item"
 			}]
@@ -1388,17 +2004,28 @@
 			disable_toast: true
 			hide: true
 			id: "18555223A20ADACB"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "70E45793149B03FD"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "70E45793149B03FD"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "26B0C1C06AE828D8"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "26B0C1C06AE828D8"
+				id: "492CE3C818F572BF"
 				item: "vinery:aegis_wine"
 				type: "item"
 			}]
@@ -1410,17 +2037,28 @@
 			disable_toast: true
 			hide: true
 			id: "7B62B4A9731A12BB"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "5B2861135FFF7474"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5B2861135FFF7474"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "15F5B99F55FA5BD2"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "15F5B99F55FA5BD2"
+				id: "2E9CE41825F8A11D"
 				item: "vinery:clark_wine"
 				type: "item"
 			}]
@@ -1432,17 +2070,28 @@
 			disable_toast: true
 			hide: true
 			id: "0DB0361A0B3CD4E7"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "0C5361498D93F587"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0C5361498D93F587"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "79BB3D5469DEFE97"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "79BB3D5469DEFE97"
+				id: "26DEB74EBDDBE699"
 				item: "vinery:bolvar_wine"
 				type: "item"
 			}]
@@ -1454,17 +2103,28 @@
 			disable_toast: true
 			hide: true
 			id: "39702AD582CA562B"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "430E72BAE05A178A"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "430E72BAE05A178A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0950C73AC7B607B7"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "0950C73AC7B607B7"
+				id: "56C0C449AD349CA9"
 				item: "vinery:kelp_cider"
 				type: "item"
 			}]
@@ -1476,17 +2136,28 @@
 			disable_toast: true
 			hide: true
 			id: "4C042B77B6FB6193"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "1498A7FF837BCB69"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1498A7FF837BCB69"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7044EF404ED86691"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "7044EF404ED86691"
+				id: "38B5595EFC4771DC"
 				item: "vinery:chenet_wine"
 				type: "item"
 			}]
@@ -1498,17 +2169,28 @@
 			disable_toast: true
 			hide: true
 			id: "607570E6758826B5"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "779D8D0378826B9B"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "779D8D0378826B9B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1FFDB6C280AD457C"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "1FFDB6C280AD457C"
+				id: "4EBD2D15F239F984"
 				item: "vinery:apple_cider"
 				type: "item"
 			}]
@@ -1520,17 +2202,28 @@
 			disable_toast: true
 			hide: true
 			id: "0356F992FC4AC89B"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "0C181DC65F15A1AF"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0C181DC65F15A1AF"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3F2699EE56E0D45C"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "3F2699EE56E0D45C"
+				id: "379CE54A24F2C974"
 				item: "vinery:jellie_wine"
 				type: "item"
 			}]
@@ -1542,17 +2235,28 @@
 			disable_toast: true
 			hide: true
 			id: "793C7AB9200C7F53"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "62FD7506D291482D"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "62FD7506D291482D"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "00BC109F8E7569F4"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "00BC109F8E7569F4"
+				id: "3B145F8EFE1F3C38"
 				item: "vinery:red_wine"
 				type: "item"
 			}]
@@ -1564,17 +2268,28 @@
 			disable_toast: true
 			hide: true
 			id: "3DD905267A096AE0"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "78D12527140E66E2"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "78D12527140E66E2"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "73F1355CDCAD9EEA"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "73F1355CDCAD9EEA"
+				id: "2A4CFD4DBEFC426A"
 				item: "vinery:lilitu_wine"
 				type: "item"
 			}]
@@ -1586,17 +2301,28 @@
 			disable_toast: true
 			hide: true
 			id: "5C6C28BA162E7DEF"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "037CE7463949837C"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "037CE7463949837C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "55FBB140E53F10F1"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "55FBB140E53F10F1"
+				id: "76DB68641FF2AD16"
 				item: "vinery:jo_special_mixture"
 				type: "item"
 			}]
@@ -1608,17 +2334,28 @@
 			disable_toast: true
 			hide: true
 			id: "043C7161E9BAA559"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "2994E621884B5757"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2994E621884B5757"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "341D2CF7324A5AF4"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "341D2CF7324A5AF4"
+				id: "0456FAB8AA24AC25"
 				item: "vinery:cristel_wine"
 				type: "item"
 			}]
@@ -1630,17 +2367,28 @@
 			disable_toast: true
 			hide: true
 			id: "2D3974B63D40EADB"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "0E65AF8353061BD8"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0E65AF8353061BD8"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "12206B7A73C89B12"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "12206B7A73C89B12"
+				id: "4338F0A6A5E3FBDC"
 				item: "vinery:creepers_crush"
 				type: "item"
 			}]
@@ -1652,17 +2400,28 @@
 			disable_toast: true
 			hide: true
 			id: "0301C54CF719A0EC"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "5FDB72797CA249DA"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5FDB72797CA249DA"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "431A0545147002AB"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "431A0545147002AB"
+				id: "191B69224F2EBEE8"
 				item: "vinery:villagers_fright"
 				type: "item"
 			}]
@@ -1674,17 +2433,28 @@
 			disable_toast: true
 			hide: true
 			id: "5EDAB63C31AE3142"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "3404A3CF5E697741"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3404A3CF5E697741"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "34391A435EBD1392"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "34391A435EBD1392"
+				id: "6E393BDB17326F0E"
 				item: "vinery:glowing_wine"
 				type: "item"
 			}]
@@ -1696,17 +2466,28 @@
 			disable_toast: true
 			hide: true
 			id: "0E628389D09DC111"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "61A0228ABD451689"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "61A0228ABD451689"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "47426EA7ACBA6098"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "47426EA7ACBA6098"
+				id: "630CB7659DBFC34F"
 				item: "vinery:mead"
 				type: "item"
 			}]
@@ -1718,17 +2499,28 @@
 			disable_toast: true
 			hide: true
 			id: "3E1A71DEDE5FF098"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "43450C1A7C0E275E"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "43450C1A7C0E275E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7D83088E4429608D"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "7D83088E4429608D"
+				id: "337EFDEFB8792EAB"
 				item: "vinery:bottle_mojang_noir"
 				type: "item"
 			}]
@@ -1740,17 +2532,28 @@
 			disable_toast: true
 			hide: true
 			id: "61162518A74AB64A"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "3E2EAE9849BE956E"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3E2EAE9849BE956E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_aging_barrel_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "28C328F2EFC6111E"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "28C328F2EFC6111E"
+				id: "3AF4258F1E99A6D4"
 				item: "vinery:eiswein"
 				type: "item"
 			}]
@@ -1859,17 +2662,28 @@
 			disable_toast: true
 			hide: true
 			id: "0AC1A5768819D843"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_cheese_press_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "2FA1BC7157AA7FBB"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2FA1BC7157AA7FBB"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_cheese_press_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5A0E57ACAB74F9D5"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "5A0E57ACAB74F9D5"
+				id: "62E3FF467E08FB9D"
 				item: "meadow:cheese_block"
 				type: "item"
 			}]
@@ -1881,17 +2695,28 @@
 			disable_toast: true
 			hide: true
 			id: "5649D037ED8CED69"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_cheese_press_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "13B789E250A6703B"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "13B789E250A6703B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_cheese_press_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7DA326BA2EA04543"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "7DA326BA2EA04543"
+				id: "25544905C0E8B5CC"
 				item: "meadow:sheep_cheese_block"
 				type: "item"
 			}]
@@ -1903,17 +2728,28 @@
 			disable_toast: true
 			hide: true
 			id: "38C853BD616F172C"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_cheese_press_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "79F24D72A45C512B"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "79F24D72A45C512B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_cheese_press_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "47A9B93E1C3A0088"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "47A9B93E1C3A0088"
+				id: "2F70B0E816B57D06"
 				item: "meadow:grain_cheese_block"
 				type: "item"
 			}]
@@ -1925,17 +2761,28 @@
 			disable_toast: true
 			hide: true
 			id: "4DEF3E5465001C03"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_cheese_press_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "131B12C2474F1D3E"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "131B12C2474F1D3E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_cheese_press_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7A1BF454E0DDBAC9"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "7A1BF454E0DDBAC9"
+				id: "126F310637C2052C"
 				item: "meadow:amethyst_cheese_block"
 				type: "item"
 			}]
@@ -1947,17 +2794,28 @@
 			disable_toast: true
 			hide: true
 			id: "7ADCA9256E3D1BC2"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_cheese_press_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "450131D8004FB02C"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "450131D8004FB02C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_cheese_press_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1952CA37EAD6B314"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "1952CA37EAD6B314"
+				id: "141719504FB661E5"
 				item: "meadow:buffalo_cheese_block"
 				type: "item"
 			}]
@@ -1969,17 +2827,28 @@
 			disable_toast: true
 			hide: true
 			id: "189F329A98D467FE"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_cheese_press_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "2C483DE209E9FCF1"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2C483DE209E9FCF1"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_cheese_press_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3C247A35E43C686D"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "3C247A35E43C686D"
+				id: "7440C36534CB0ED8"
 				item: "meadow:goat_cheese_block"
 				type: "item"
 			}]
@@ -1991,17 +2860,28 @@
 			disable_toast: true
 			hide: true
 			id: "15DDCA904ED304B4"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_cheese_press_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "3DA2CAFC7D6DB269"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3DA2CAFC7D6DB269"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_cheese_press_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5138F651B75E4A49"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "5138F651B75E4A49"
+				id: "133D10588636C4B3"
 				item: "meadow:cheese_sandwich"
 				type: "item"
 			}]
@@ -2013,17 +2893,28 @@
 			disable_toast: true
 			hide: true
 			id: "2BB8B7F1C3A43F36"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_cheese_press_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "4306EF21376B5832"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4306EF21376B5832"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_cheese_press_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "494F140C814222B9"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "494F140C814222B9"
+				id: "363D59B087A098BB"
 				item: "meadow:cheese_roll"
 				type: "item"
 			}]
@@ -2035,17 +2926,28 @@
 			disable_toast: true
 			hide: true
 			id: "5950A6A012F596ED"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_cheese_press_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "1773B21F3AEB01F8"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1773B21F3AEB01F8"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_cheese_press_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0D301E6E9BAB8525"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "0D301E6E9BAB8525"
+				id: "6CD06003F8E30E03"
 				item: "meadow:cheesecake"
 				type: "item"
 			}]
@@ -2057,17 +2959,28 @@
 			disable_toast: true
 			hide: true
 			id: "1B1A51F6AAD1FEC8"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_cheese_press_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "783CDCC65F3C7F9E"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "783CDCC65F3C7F9E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_cheese_press_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6425F63BD7F2DD52"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "6425F63BD7F2DD52"
+				id: "4779FB28F6104466"
 				item: "meadow:cheese_tart"
 				type: "item"
 			}]
@@ -2158,17 +3071,28 @@
 			disable_toast: true
 			hide: true
 			id: "237F51C7ECA00F7F"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "059AF4CB86DBB9A1"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "059AF4CB86DBB9A1"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "553300A26D62B83D"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "553300A26D62B83D"
+				id: "5D92CE58DBB5C4DA"
 				item: "candlelight:tomato_soup"
 				type: "item"
 			}]
@@ -2180,17 +3104,28 @@
 			disable_toast: true
 			hide: true
 			id: "2BE369B845E8826A"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "4586DBC848EBC7A6"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4586DBC848EBC7A6"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "48FE6168CA7D7543"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "48FE6168CA7D7543"
+				id: "3EF42AC8F3B42EFB"
 				item: "candlelight:mushroom_soup"
 				type: "item"
 			}]
@@ -2202,17 +3137,28 @@
 			disable_toast: true
 			hide: true
 			id: "38A9B3CCF32F4128"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "7783BC3ED6BFDE71"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7783BC3ED6BFDE71"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0641D71B5B6E6851"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "0641D71B5B6E6851"
+				id: "528E0EBBCA3D95A1"
 				item: "candlelight:pasta"
 				type: "item"
 			}]
@@ -2224,17 +3170,28 @@
 			disable_toast: true
 			hide: true
 			id: "186CC10956B5B2B5"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "16B9AABF7F867268"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "16B9AABF7F867268"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1FFCABF46DAA72AF"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "1FFCABF46DAA72AF"
+				id: "04B2454CBB0EC282"
 				item: "candlelight:chicken_teriyaki"
 				type: "item"
 			}]
@@ -2246,17 +3203,28 @@
 			disable_toast: true
 			hide: true
 			id: "255100D73663C879"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "522867E7C5C192B2"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "522867E7C5C192B2"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "64ECB617FD30D2E3"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "64ECB617FD30D2E3"
+				id: "2509770D5A040330"
 				item: "candlelight:chocolate"
 				type: "item"
 			}]
@@ -2268,17 +3236,28 @@
 			disable_toast: true
 			hide: true
 			id: "33F8A6FFB0745F55"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "52D2C4E35AD32028"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "52D2C4E35AD32028"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "70CC5760587428D2"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "70CC5760587428D2"
+				id: "036712A152BE24A1"
 				item: "candlelight:lasagne"
 				type: "item"
 			}]
@@ -2290,17 +3269,28 @@
 			disable_toast: true
 			hide: true
 			id: "5398D48B4A8F39F2"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "2220423327951956"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2220423327951956"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6D4DCA9F80DB1545"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "6D4DCA9F80DB1545"
+				id: "29634A850138B1AF"
 				item: "candlelight:chicken"
 				type: "item"
 			}]
@@ -2312,17 +3302,28 @@
 			disable_toast: true
 			hide: true
 			id: "4E62B57C3181F9BF"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "5AFB8306F45FC589"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5AFB8306F45FC589"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "00348A28C4CDC90F"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "00348A28C4CDC90F"
+				id: "241EEC412909ABDF"
 				item: "candlelight:pork_ribs"
 				type: "item"
 			}]
@@ -2334,17 +3335,28 @@
 			disable_toast: true
 			hide: true
 			id: "4D72D42579777DB8"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "22E2292525F0C5F3"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "22E2292525F0C5F3"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6C01747A25CBBA85"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "6C01747A25CBBA85"
+				id: "13E5D2C62F4DBAAC"
 				item: "candlelight:salmon_wine"
 				type: "item"
 			}]
@@ -2388,17 +3400,28 @@
 			disable_toast: true
 			hide: true
 			id: "2F95D0CCC5373F20"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_cooking_pan_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "71DDAC25B9C94B5D"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "71DDAC25B9C94B5D"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_cooking_pan_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1586C716B2663BC1"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "1586C716B2663BC1"
+				id: "1432207343AE95F7"
 				item: "candlelight:pancake"
 				type: "item"
 			}]
@@ -2410,17 +3433,28 @@
 			disable_toast: true
 			hide: true
 			id: "2C5F3F5282699ADC"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_cooking_pan_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "306182E2F8500A2F"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "306182E2F8500A2F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_cooking_pan_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3546A014D7F388C1"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "3546A014D7F388C1"
+				id: "10D612EE7ED3065C"
 				item: "candlelight:fricasse"
 				type: "item"
 			}]
@@ -2432,17 +3466,28 @@
 			disable_toast: true
 			hide: true
 			id: "5562867C8991E382"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_cooking_pan_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "552904DAC1982FD0"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "552904DAC1982FD0"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_cooking_pan_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2D87103C356F577A"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "2D87103C356F577A"
+				id: "1C18FD030AE56664"
 				item: "candlelight:roastbeef_carrots"
 				type: "item"
 			}]
@@ -2454,17 +3499,28 @@
 			disable_toast: true
 			hide: true
 			id: "01C5F36EA3F8CFB2"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_cooking_pan_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "5C73018AB313254E"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5C73018AB313254E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_cooking_pan_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "444A942765A45BEF"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "444A942765A45BEF"
+				id: "1014BCBFBCE52F59"
 				item: "candlelight:beef_wellington"
 				type: "item"
 			}]
@@ -2476,17 +3532,28 @@
 			disable_toast: true
 			hide: true
 			id: "3566C2114BBBB697"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_cooking_pan_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "4891A6FF7C67A437"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4891A6FF7C67A437"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_cooking_pan_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "334EC5FCC279BF3A"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "334EC5FCC279BF3A"
+				id: "1FEBA6B85842E037"
 				item: "candlelight:pizza"
 				type: "item"
 			}]
@@ -2498,17 +3565,28 @@
 			disable_toast: true
 			hide: true
 			id: "2C79D805EEE88CDB"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_cooking_pan_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "4EDFD38D9F3B2E1C"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4EDFD38D9F3B2E1C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_cooking_pan_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0CBFBE54E036C581"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "0CBFBE54E036C581"
+				id: "1136ED8D5FD620FB"
 				item: "candlelight:cooked_beef"
 				type: "item"
 			}]
@@ -2520,17 +3598,28 @@
 			disable_toast: true
 			hide: true
 			id: "6D098667CB82A202"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_cooking_pan_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "3718D4D029B0257A"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3718D4D029B0257A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_cooking_pan_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3DB1E0529A4F4CFD"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "3DB1E0529A4F4CFD"
+				id: "452FC34FAB7978AC"
 				item: "candlelight:bolognese"
 				type: "item"
 			}]
@@ -2542,17 +3631,28 @@
 			disable_toast: true
 			hide: true
 			id: "5D71A19F24327AE8"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_cooking_pan_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "4E692846A12FC35D"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4E692846A12FC35D"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_cooking_pan_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "23AB7C7CEC544228"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "23AB7C7CEC544228"
+				id: "7BF444C4889CCB36"
 				item: "candlelight:chicken_alfredo"
 				type: "item"
 			}]
@@ -2564,17 +3664,28 @@
 			disable_toast: true
 			hide: true
 			id: "2F216952B68E440C"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_cooking_pan_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "0CE2180918AAC80D"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0CE2180918AAC80D"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_cooking_pan_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "250615C2732D51DF"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "250615C2732D51DF"
+				id: "5F2C288AAAFED196"
 				item: "candlelight:lettuce_beef"
 				type: "item"
 			}]
@@ -2586,17 +3697,28 @@
 			disable_toast: true
 			hide: true
 			id: "07DA8FB6F3351147"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_cooking_pan_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "1D777574B3C6EA97"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1D777574B3C6EA97"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_cooking_pan_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "072845D6545F5F49"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "072845D6545F5F49"
+				id: "4AC25ED36941DA39"
 				item: "candlelight:pasta_bolognese"
 				type: "item"
 			}]
@@ -2608,17 +3730,28 @@
 			disable_toast: true
 			hide: true
 			id: "4DDFC4636A780F31"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_cooking_pan_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "232FE0286A00859A"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "232FE0286A00859A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_cooking_pan_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6B27B3896026C66B"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "6B27B3896026C66B"
+				id: "3C75737942561277"
 				item: "candlelight:pasta_lettuce"
 				type: "item"
 			}]
@@ -2716,17 +3849,28 @@
 			disable_toast: true
 			hide: true
 			id: "2D10F45201A28DE1"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_regular_crafting_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "19F06593B0C0D2D8"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "19F06593B0C0D2D8"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_regular_crafting_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2F356CBCA2B1B1F9"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "2F356CBCA2B1B1F9"
+				id: "14F9B10BBF0E428A"
 				item: "candlelight:tomato_mozzarella_salad"
 				type: "item"
 			}]
@@ -2738,17 +3882,28 @@
 			disable_toast: true
 			hide: true
 			id: "5F7BCE45D5C5DE93"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_regular_crafting_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "5E18494EA8DB8E66"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5E18494EA8DB8E66"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_regular_crafting_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2CD735592A16EEE9"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "2CD735592A16EEE9"
+				id: "66E58150D9D23B27"
 				item: "candlelight:veggie_plate"
 				type: "item"
 			}]
@@ -2760,17 +3915,28 @@
 			disable_toast: true
 			hide: true
 			id: "42AE3560994A58DF"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_regular_crafting_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "48E861B14A74CD3C"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "48E861B14A74CD3C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_regular_crafting_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "18C4F5706AD9FA9D"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "18C4F5706AD9FA9D"
+				id: "6BB317C856B75292"
 				item: "candlelight:lettuce_tomato"
 				type: "item"
 			}]
@@ -2782,17 +3948,28 @@
 			disable_toast: true
 			hide: true
 			id: "3FA4B21B33D23B69"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_regular_crafting_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "23BB72376014B668"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "23BB72376014B668"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_regular_crafting_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "55BEB82F45FE7EAF"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "55BEB82F45FE7EAF"
+				id: "4D906D025FA4AEB8"
 				item: "candlelight:lettuce_salad"
 				type: "item"
 			}]
@@ -2804,17 +3981,28 @@
 			disable_toast: true
 			hide: true
 			id: "5E5CFC017C3AAA8C"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_regular_crafting_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "30BA1A9CCDACE6C9"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "30BA1A9CCDACE6C9"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_regular_crafting_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "473F3373DE61DC46"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "473F3373DE61DC46"
+				id: "6087296AC1727EA8"
 				item: "candlelight:beef_tartare"
 				type: "item"
 			}]
@@ -2826,17 +4014,28 @@
 			disable_toast: true
 			hide: true
 			id: "2009969084AFEB8A"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_regular_crafting_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "350CEEA9999B87D4"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "350CEEA9999B87D4"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_regular_crafting_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "780518CDA7E30F36"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "780518CDA7E30F36"
+				id: "6E37B91166C07BE4"
 				item: "candlelight:beetroot_salad"
 				type: "item"
 			}]
@@ -2877,17 +4076,28 @@
 			disable_toast: true
 			hide: true
 			id: "1F00361BF50D843F"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_mini_fridge_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "23EBEFB6E97F5871"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "23EBEFB6E97F5871"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_mini_fridge_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "13A5A3368075213E"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "13A5A3368075213E"
+				id: "2D0D20DF594D9BA1"
 				item: "beachparty:sweetberry_icecream"
 				type: "item"
 			}]
@@ -2899,17 +4109,28 @@
 			disable_toast: true
 			hide: true
 			id: "5FBFB159A6F06B42"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_mini_fridge_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "250EB76E63185692"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "250EB76E63185692"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_mini_fridge_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "47FC67909457AA0A"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "47FC67909457AA0A"
+				id: "0FF0B7811E88ABD7"
 				item: "beachparty:coconut_icecream"
 				type: "item"
 			}]
@@ -2921,17 +4142,28 @@
 			disable_toast: true
 			hide: true
 			id: "558607A286044043"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_mini_fridge_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "73877B2C10373C5C"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "73877B2C10373C5C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_mini_fridge_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "06863AA7E0FC7AD7"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "06863AA7E0FC7AD7"
+				id: "2B52CD5BCAB6F09B"
 				item: "beachparty:chocolate_icecream"
 				type: "item"
 			}]
@@ -2943,17 +4175,28 @@
 			disable_toast: true
 			hide: true
 			id: "56C1817555C8F9D8"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_mini_fridge_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "1B2EF677D17823A8"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1B2EF677D17823A8"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_mini_fridge_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7D1155451874F9D6"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "7D1155451874F9D6"
+				id: "4E1AE1F4532E06C0"
 				item: "beachparty:icecream_chocolate"
 				type: "item"
 			}]
@@ -2965,17 +4208,28 @@
 			disable_toast: true
 			hide: true
 			id: "378B2462C86DE618"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_mini_fridge_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "09D394D7CB8A9948"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "09D394D7CB8A9948"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_mini_fridge_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "19BC3C9E95FAFC06"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "19BC3C9E95FAFC06"
+				id: "09E1343FF5156F45"
 				item: "beachparty:icecream_coconut"
 				type: "item"
 			}]
@@ -2987,17 +4241,28 @@
 			disable_toast: true
 			hide: true
 			id: "59C220B431363325"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_mini_fridge_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "4EBFC4005DD958B2"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4EBFC4005DD958B2"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_mini_fridge_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2B4B0181EE7B27F3"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "2B4B0181EE7B27F3"
+				id: "31BAB7B7B520EB4A"
 				item: "beachparty:icecream_cactus"
 				type: "item"
 			}]
@@ -3009,17 +4274,28 @@
 			disable_toast: true
 			hide: true
 			id: "7F21A44D22588358"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_mini_fridge_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "3A7CB986D0702200"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3A7CB986D0702200"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_mini_fridge_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "063A727D024D5B3D"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "063A727D024D5B3D"
+				id: "71142C903979A5B3"
 				item: "beachparty:icecream_melon"
 				type: "item"
 			}]
@@ -3031,17 +4307,28 @@
 			disable_toast: true
 			hide: true
 			id: "4A4D7C57DB78CDF6"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_mini_fridge_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "0A4CC83F8B16D70F"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0A4CC83F8B16D70F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_mini_fridge_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "40AFD5B41CAFE638"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "40AFD5B41CAFE638"
+				id: "43D5B2968ED9449F"
 				item: "beachparty:icecream_sweetberries"
 				type: "item"
 			}]
@@ -3084,17 +4371,28 @@
 			disable_toast: true
 			hide: true
 			id: "5F6E1234B486AC08"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_tiki_bar_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "72FE8E16B4833300"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "72FE8E16B4833300"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_tiki_bar_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "46F645CAC7AC0598"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "46F645CAC7AC0598"
+				id: "2CD8B4A9BED60147"
 				item: "beachparty:chocolate_milkshake"
 				type: "item"
 			}]
@@ -3106,17 +4404,28 @@
 			disable_toast: true
 			hide: true
 			id: "4ABEA7073D519001"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_tiki_bar_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "114F5B1D66F29716"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "114F5B1D66F29716"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_tiki_bar_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4F5FFFF1BBB6EE8C"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "4F5FFFF1BBB6EE8C"
+				id: "4322A5672B5EBDB8"
 				item: "beachparty:coconut_milkshake"
 				type: "item"
 			}]
@@ -3128,17 +4437,28 @@
 			disable_toast: true
 			hide: true
 			id: "2D4DABF1FD6F2010"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_tiki_bar_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "0F855FEAFB5A3934"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0F855FEAFB5A3934"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_tiki_bar_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "166A3F9F9B3D1868"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "166A3F9F9B3D1868"
+				id: "45910189F0F4A858"
 				item: "beachparty:sweetberry_milkshake"
 				type: "item"
 			}]
@@ -3150,17 +4470,28 @@
 			disable_toast: true
 			hide: true
 			id: "60B0C7C54A62DD10"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_tiki_bar_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "35EC720CD84B290C"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "35EC720CD84B290C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_tiki_bar_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7568EC7BB9F01E93"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "7568EC7BB9F01E93"
+				id: "5D5CDBC1DE242753"
 				item: "beachparty:honey_cocktail"
 				type: "item"
 			}]
@@ -3172,17 +4503,28 @@
 			disable_toast: true
 			hide: true
 			id: "09B6C9B502C8BA02"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_tiki_bar_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "20F8B6DEDF7ED55A"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "20F8B6DEDF7ED55A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_tiki_bar_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1826FE51B48D21E1"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "1826FE51B48D21E1"
+				id: "053F8A9FDA59AD1D"
 				item: "beachparty:melon_cocktail"
 				type: "item"
 			}]
@@ -3194,17 +4536,28 @@
 			disable_toast: true
 			hide: true
 			id: "72BC45E63CF01BB0"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_tiki_bar_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "3BDFF9A078E0CD08"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3BDFF9A078E0CD08"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_tiki_bar_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3B793091819C36C3"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "3B793091819C36C3"
+				id: "1BABC31C1A7461E8"
 				item: "beachparty:pumpkin_cocktail"
 				type: "item"
 			}]
@@ -3216,17 +4569,28 @@
 			disable_toast: true
 			hide: true
 			id: "21E2955791DA5B6B"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_tiki_bar_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "608852669A301E9B"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "608852669A301E9B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_tiki_bar_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6B4ECDA13E415181"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "6B4ECDA13E415181"
+				id: "4DC7B03FA768C864"
 				item: "beachparty:cocoa_cocktail"
 				type: "item"
 			}]
@@ -3238,17 +4602,28 @@
 			disable_toast: true
 			hide: true
 			id: "4B4289A8C4BA3C41"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_tiki_bar_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "56C059E11457CDF0"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "56C059E11457CDF0"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_tiki_bar_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3B7588D7D226EFDF"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "3B7588D7D226EFDF"
+				id: "6737ECCCF3007E34"
 				item: "beachparty:sweetberries_cocktail"
 				type: "item"
 			}]
@@ -3260,21 +4635,65 @@
 			disable_toast: true
 			hide: true
 			id: "3B81A6DFDFBE7ADB"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_tiki_bar_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "25160B2FD82FF5C0"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "25160B2FD82FF5C0"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_tiki_bar_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0231B97066831A72"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "0231B97066831A72"
+				id: "18B36B8F226C8A74"
 				item: "beachparty:coconut_cocktail"
 				type: "item"
 			}]
 			x: 2.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["2D0063702FDE9B52"]
+			disable_toast: true
+			hide: true
+			id: "2CB7D0A428E23E3D"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "794591EC0D52BB3C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_tiki_bar_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2FA7CE39EDF2DE86"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "661DE77C2C03A27A"
+				item: "beachparty:refreshing_drink"
+				type: "item"
+			}]
+			x: 3.0d
 			y: 14.5d
 		}
 		{
@@ -3288,12 +4707,13 @@
 				"21E2955791DA5B6B"
 				"4B4289A8C4BA3C41"
 				"3B81A6DFDFBE7ADB"
+				"2CB7D0A428E23E3D"
 			]
 			icon: "beachparty:tiki_bar"
 			id: "5A90A4144966D75B"
 			rewards: [
 				{
-					count: 12
+					count: 14
 					id: "4FDA50AEFE3CE024"
 					item: "kubejs:miles_ticket"
 					type: "item"
@@ -3360,17 +4780,28 @@
 			disable_toast: true
 			hide: true
 			id: "68D8C00BC8BFFD84"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_delightful_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "3C0325A10AEF2FA2"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3C0325A10AEF2FA2"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_delightful_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "493F3E231F54FBF1"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "493F3E231F54FBF1"
+				id: "3BAAB64A04316E90"
 				item: "delightful:animal_oil_bottle"
 				type: "item"
 			}]
@@ -3382,17 +4813,28 @@
 			disable_toast: true
 			hide: true
 			id: "6F41ADE1A4B19A15"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_delightful_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "2DDBA24FC2736D75"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2DDBA24FC2736D75"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_delightful_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0C0B9899F0D8881C"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "0C0B9899F0D8881C"
+				id: "0A7EE1C6E8AF0AB1"
 				item: "delightful:ender_nectar"
 				type: "item"
 			}]
@@ -3404,17 +4846,28 @@
 			disable_toast: true
 			hide: true
 			id: "7CE8B8CA61C19A6C"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_delightful_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "54B7299D4C09CBA5"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "54B7299D4C09CBA5"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_delightful_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "50488592FF231BB0"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "50488592FF231BB0"
+				id: "02B886A2EC1FFD87"
 				item: "delightful:glow_jelly_bottle"
 				type: "item"
 			}]
@@ -3426,17 +4879,28 @@
 			disable_toast: true
 			hide: true
 			id: "64A76611478AC550"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_delightful_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "1AD5EA14FF961DA3"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1AD5EA14FF961DA3"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_delightful_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "56B785B8DA0776F1"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "56B785B8DA0776F1"
+				id: "12BB4030B40A87E3"
 				item: "delightful:jelly_bottle"
 				type: "item"
 			}]
@@ -3448,17 +4912,28 @@
 			disable_toast: true
 			hide: true
 			id: "26465EDAD42D5D65"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_delightful_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "168D3BCFF2B4EF41"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "168D3BCFF2B4EF41"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_delightful_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "43A29140EB8ECF2E"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "43A29140EB8ECF2E"
+				id: "31BBC3D83A71A23C"
 				item: "delightful:lavender_tea"
 				type: "item"
 			}]
@@ -3470,17 +4945,28 @@
 			disable_toast: true
 			hide: true
 			id: "080F099D867AD981"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_delightful_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "0D4368E412D5F5AD"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0D4368E412D5F5AD"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_delightful_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1E9164F3B1B9E5C1"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "1E9164F3B1B9E5C1"
+				id: "029542EE80B83C1D"
 				item: "delightful:matcha"
 				type: "item"
 			}]
@@ -3492,17 +4978,28 @@
 			disable_toast: true
 			hide: true
 			id: "0F4F6279AE33D15B"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_delightful_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "2E37D4CFBEB307B6"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2E37D4CFBEB307B6"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_delightful_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "56755ABDF1ED2CC7"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "56755ABDF1ED2CC7"
+				id: "54BA34509F4BB433"
 				item: "delightful:nut_butter_bottle"
 				type: "item"
 			}]
@@ -3514,17 +5011,28 @@
 			disable_toast: true
 			hide: true
 			id: "7D8AFF4CC63C1DC9"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_delightful_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "45537D11CD65D564"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "45537D11CD65D564"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_delightful_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1563C8B5EAEA7CDC"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "1563C8B5EAEA7CDC"
+				id: "026DF026CE70C9B9"
 				item: "delightful:rock_candy"
 				type: "item"
 			}]
@@ -3536,17 +5044,28 @@
 			disable_toast: true
 			hide: true
 			id: "5E4AAB26E666C416"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_delightful_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "0D4764B023B696EA"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0D4764B023B696EA"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_delightful_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2155B958ED5EB6A2"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "2155B958ED5EB6A2"
+				id: "5E7ECCE35E44DC46"
 				item: "delightful:salmonberry_gummy"
 				type: "item"
 			}]
@@ -3558,17 +5077,28 @@
 			disable_toast: true
 			hide: true
 			id: "24CDD19FAF7C7EA4"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_delightful_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "07CA9282487960F1"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "07CA9282487960F1"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_delightful_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2D6130418146D88A"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "2D6130418146D88A"
+				id: "0449949C805D75C1"
 				item: "delightful:sinigang"
 				type: "item"
 			}]
@@ -3613,17 +5143,28 @@
 			disable_toast: true
 			hide: true
 			id: "2E8077F10BBCEB45"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_alexs_delight_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "3AFAA5DA88BFD572"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3AFAA5DA88BFD572"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_alexs_delight_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2502CD602AA103DD"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "2502CD602AA103DD"
+				id: "0F2F8FF7D4E10459"
 				item: "alexsdelight:acacia_blossom_soup"
 				type: "item"
 			}]
@@ -3635,17 +5176,28 @@
 			disable_toast: true
 			hide: true
 			id: "1694E33167BE2867"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_alexs_delight_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "74660504D4A9E511"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "74660504D4A9E511"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_alexs_delight_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "56EEAC05CC15D678"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "56EEAC05CC15D678"
+				id: "283FDE44ED874765"
 				item: "alexsdelight:kangaroo_pasta"
 				type: "item"
 			}]
@@ -3657,17 +5209,28 @@
 			disable_toast: true
 			hide: true
 			id: "040A2573E084C374"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_alexs_delight_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "183E346DAD9665CF"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "183E346DAD9665CF"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_alexs_delight_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1D5B40B04484ED70"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "1D5B40B04484ED70"
+				id: "3D8E2B28388AEA00"
 				item: "alexsdelight:kangaroo_stew"
 				type: "item"
 			}]
@@ -3679,17 +5242,28 @@
 			disable_toast: true
 			hide: true
 			id: "7A6D22E09FFC3978"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_alexs_delight_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "0A073130BA7B986A"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0A073130BA7B986A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_alexs_delight_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "56BEFFB49905BE08"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "56BEFFB49905BE08"
+				id: "66A56631A34F1B13"
 				item: "alexsdelight:lobster_pasta"
 				type: "item"
 			}]
@@ -3728,17 +5302,28 @@
 			disable_toast: true
 			hide: true
 			id: "15B4A29DDAB57C1C"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_aquaculture_delight_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "676441BA5718BB04"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "676441BA5718BB04"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_aquaculture_delight_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5D85C4CE98BC2F90"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "5D85C4CE98BC2F90"
+				id: "0E7AA9CC7DA5898E"
 				item: "aquaculture:turtle_soup"
 				type: "item"
 			}]
@@ -3750,17 +5335,28 @@
 			disable_toast: true
 			hide: true
 			id: "594FB7C9156D17D7"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_aquaculture_delight_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "63630D804AAAF75B"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "63630D804AAAF75B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_aquaculture_delight_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0A669BAC20B200D9"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "0A669BAC20B200D9"
+				id: "442E43E0A0A3F871"
 				item: "aquaculturedelight:baked_pollock_with_carrots"
 				type: "item"
 			}]
@@ -3772,17 +5368,28 @@
 			disable_toast: true
 			hide: true
 			id: "7D52503D5C008EEE"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_aquaculture_delight_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "075A91C95B128158"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "075A91C95B128158"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_aquaculture_delight_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "26079B5C7BD8CC8C"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "26079B5C7BD8CC8C"
+				id: "589948BC220AA0D5"
 				item: "aquaculturedelight:bass_stew"
 				type: "item"
 			}]
@@ -3794,17 +5401,28 @@
 			disable_toast: true
 			hide: true
 			id: "01E85EC788315F8F"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_aquaculture_delight_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "406CD5E736DEA350"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "406CD5E736DEA350"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_aquaculture_delight_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "45035A19350C14F1"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "45035A19350C14F1"
+				id: "2EC3FC60DB1FBB15"
 				item: "aquaculturedelight:buckling"
 				type: "item"
 			}]
@@ -3816,17 +5434,28 @@
 			disable_toast: true
 			hide: true
 			id: "3840403EA9CB2952"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_aquaculture_delight_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "53E78687881377A2"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "53E78687881377A2"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_aquaculture_delight_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1F59DAD63A73070A"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "1F59DAD63A73070A"
+				id: "7BC53EEDEFBE213A"
 				item: "aquaculturedelight:halaszle"
 				type: "item"
 			}]
@@ -3838,17 +5467,28 @@
 			disable_toast: true
 			hide: true
 			id: "05315256C0B34085"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_aquaculture_delight_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "156B3E7117198512"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "156B3E7117198512"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_aquaculture_delight_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "744D3CFC9BB2F752"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "744D3CFC9BB2F752"
+				id: "31A0EF8849C30C52"
 				item: "aquaculturedelight:halibut_with_tartar_sauce"
 				type: "item"
 			}]
@@ -3860,17 +5500,28 @@
 			disable_toast: true
 			hide: true
 			id: "43B4B8774B8CE218"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_aquaculture_delight_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "75AB42BCDB592708"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "75AB42BCDB592708"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_aquaculture_delight_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "302B140DABDAB792"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "302B140DABDAB792"
+				id: "7916D7B77BE39D2C"
 				item: "aquaculturedelight:jellyfish_jelly"
 				type: "item"
 			}]
@@ -3882,17 +5533,28 @@
 			disable_toast: true
 			hide: true
 			id: "46708223F1740A6B"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_aquaculture_delight_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "273FC8092E467519"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "273FC8092E467519"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_aquaculture_delight_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1B6B0E8296A11813"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "1B6B0E8296A11813"
+				id: "79C07765819DFE30"
 				item: "aquaculturedelight:poor_fisher_chowder"
 				type: "item"
 			}]
@@ -3904,17 +5566,28 @@
 			disable_toast: true
 			hide: true
 			id: "291BF70A97FDED81"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_aquaculture_delight_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "35EE3D528A25D066"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "35EE3D528A25D066"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_aquaculture_delight_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "50E6D565155BC5C9"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "50E6D565155BC5C9"
+				id: "086F686BA8F6F197"
 				item: "aquaculturedelight:rollmops"
 				type: "item"
 			}]
@@ -3926,17 +5599,28 @@
 			disable_toast: true
 			hide: true
 			id: "501E569E8BEAE3CE"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_aquaculture_delight_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "1A69FE2AFB91A5DE"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1A69FE2AFB91A5DE"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_aquaculture_delight_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7E87E981FDAEEC54"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "7E87E981FDAEEC54"
+				id: "58154D5BC89CC119"
 				item: "aquaculturedelight:tuna_spaghetti"
 				type: "item"
 			}]
@@ -3948,17 +5632,28 @@
 			disable_toast: true
 			hide: true
 			id: "0590D353B404691A"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_aquaculture_delight_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "4936D4CD13AE7960"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4936D4CD13AE7960"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_aquaculture_delight_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4C1EE74E00F3163E"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "4C1EE74E00F3163E"
+				id: "7964D3065360D190"
 				item: "aquaculturedelight:unusual_fish_soup"
 				type: "item"
 			}]
@@ -4004,17 +5699,28 @@
 			disable_toast: true
 			hide: true
 			id: "537323A7EEAA77E0"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "65D36765F388F300"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "65D36765F388F300"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6394CA4F6F4BB9C0"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "6394CA4F6F4BB9C0"
+				id: "44228AE8405D094E"
 				item: "farmersdelight:apple_cider"
 				type: "item"
 			}]
@@ -4026,17 +5732,28 @@
 			disable_toast: true
 			hide: true
 			id: "5D2AE0847C5CC600"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "426216764F481108"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "426216764F481108"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "23221EB7FFAE586F"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "23221EB7FFAE586F"
+				id: "3373E1963ABEF247"
 				item: "farmersdelight:baked_cod_stew"
 				type: "item"
 			}]
@@ -4048,17 +5765,28 @@
 			disable_toast: true
 			hide: true
 			id: "248FBC2E07CE6486"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "37494619237A5BEF"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "37494619237A5BEF"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4DB91DFE859D9F78"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "4DB91DFE859D9F78"
+				id: "1F9AADF4CF895BE0"
 				item: "farmersdelight:beef_stew"
 				type: "item"
 			}]
@@ -4070,17 +5798,28 @@
 			disable_toast: true
 			hide: true
 			id: "75F845ED022F4BB2"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "646790914D9F4C04"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "646790914D9F4C04"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "78A733FF985FC7BF"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "78A733FF985FC7BF"
+				id: "34A27245381EBBC8"
 				item: "farmersdelight:bone_broth"
 				type: "item"
 			}]
@@ -4092,17 +5831,28 @@
 			disable_toast: true
 			hide: true
 			id: "6F7727A28E446001"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "7A566F1D710CF7B8"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7A566F1D710CF7B8"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6AD60C0BAE3B60A0"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "6AD60C0BAE3B60A0"
+				id: "75D77E32B1C7BC69"
 				item: "farmersdelight:cabbage_rolls"
 				type: "item"
 			}]
@@ -4114,17 +5864,28 @@
 			disable_toast: true
 			hide: true
 			id: "5C45BF8BC926F6B4"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "62EC2976F19934E3"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "62EC2976F19934E3"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0FF13943A49D073D"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "0FF13943A49D073D"
+				id: "5F9AC012630A52D6"
 				item: "farmersdelight:chicken_soup"
 				type: "item"
 			}]
@@ -4136,17 +5897,28 @@
 			disable_toast: true
 			hide: true
 			id: "5E266201DDDA69F8"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "07A48A383EAB8094"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "07A48A383EAB8094"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3CF0C93CCC2C0BF1"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "3CF0C93CCC2C0BF1"
+				id: "740A95A88848537D"
 				item: "farmersdelight:cooked_rice"
 				type: "item"
 			}]
@@ -4158,17 +5930,28 @@
 			disable_toast: true
 			hide: true
 			id: "2888566D253D06B6"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "365CD756E7AAEA50"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "365CD756E7AAEA50"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "36ABA38D4FC016F9"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "36ABA38D4FC016F9"
+				id: "77C4111B0E7278DB"
 				item: "farmersdelight:dog_food"
 				type: "item"
 			}]
@@ -4180,17 +5963,28 @@
 			disable_toast: true
 			hide: true
 			id: "198DC68F7344C985"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "5AF4BF189BE29034"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5AF4BF189BE29034"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "19BF3CE3FD68BF2B"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "19BF3CE3FD68BF2B"
+				id: "5FAB8209895E6F4C"
 				item: "farmersdelight:dumplings"
 				type: "item"
 			}]
@@ -4202,17 +5996,28 @@
 			disable_toast: true
 			hide: true
 			id: "4846894904926BD1"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "4856AF763A301976"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4856AF763A301976"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "23B6A93C488A7222"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "23B6A93C488A7222"
+				id: "3AE5570FBB6DF904"
 				item: "farmersdelight:fish_stew"
 				type: "item"
 			}]
@@ -4224,17 +6029,28 @@
 			disable_toast: true
 			hide: true
 			id: "108E31CE66261D6A"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "016D7DEB2DF84D15"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "016D7DEB2DF84D15"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3DBD34B93113F360"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "3DBD34B93113F360"
+				id: "31425D37C79B8249"
 				item: "farmersdelight:fried_rice"
 				type: "item"
 			}]
@@ -4246,17 +6062,28 @@
 			disable_toast: true
 			hide: true
 			id: "004B69A07DC118D7"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "3B7E4649C95114BF"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3B7E4649C95114BF"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "28245DA13A066653"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "28245DA13A066653"
+				id: "7894A45963987CFA"
 				item: "farmersdelight:glow_berry_custard"
 				type: "item"
 			}]
@@ -4268,17 +6095,28 @@
 			disable_toast: true
 			hide: true
 			id: "23EF22020DCC6360"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "21FFE1F68FA7BEBB"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "21FFE1F68FA7BEBB"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3FCF3B26396D1FBC"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "3FCF3B26396D1FBC"
+				id: "148D642C7C5505DF"
 				item: "farmersdelight:hot_cocoa"
 				type: "item"
 			}]
@@ -4290,17 +6128,28 @@
 			disable_toast: true
 			hide: true
 			id: "6401D63FEC664E58"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "28B8F856CAF6A14D"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "28B8F856CAF6A14D"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "06CA9460F067E239"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "06CA9460F067E239"
+				id: "7ADE4A9695D68DEE"
 				item: "farmersdelight:mushroom_rice"
 				type: "item"
 			}]
@@ -4312,17 +6161,28 @@
 			disable_toast: true
 			hide: true
 			id: "507C1D926D78F353"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "01F0BE04D4C28D55"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "01F0BE04D4C28D55"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2B32C3BC2C57309C"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "2B32C3BC2C57309C"
+				id: "7BB407F51D300676"
 				item: "farmersdelight:noodle_soup"
 				type: "item"
 			}]
@@ -4334,17 +6194,28 @@
 			disable_toast: true
 			hide: true
 			id: "659B10DBEE970758"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "7C9DE2B43F04D537"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7C9DE2B43F04D537"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7B41D172F115B37B"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "7B41D172F115B37B"
+				id: "003E64E820EE5C78"
 				item: "farmersdelight:pasta_with_meatballs"
 				type: "item"
 			}]
@@ -4356,17 +6227,28 @@
 			disable_toast: true
 			hide: true
 			id: "1FE2711DEC73EBCC"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "373B37AED9EC2DD8"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "373B37AED9EC2DD8"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "460F07756FBE2CC1"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "460F07756FBE2CC1"
+				id: "66F0141D58B76F13"
 				item: "farmersdelight:pasta_with_mutton_chop"
 				type: "item"
 			}]
@@ -4378,17 +6260,28 @@
 			disable_toast: true
 			hide: true
 			id: "3FEAB699E8971D11"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "76FD491EAFA1C47C"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "76FD491EAFA1C47C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5FD1CB6B231FCE5C"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "5FD1CB6B231FCE5C"
+				id: "5503D5390EE5E0E7"
 				item: "farmersdelight:pumpkin_soup"
 				type: "item"
 			}]
@@ -4400,17 +6293,28 @@
 			disable_toast: true
 			hide: true
 			id: "07F879D47AC02CC2"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "0753CEA71D7DABFC"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0753CEA71D7DABFC"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "57A50B45281DC444"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "57A50B45281DC444"
+				id: "617CD114D5629DAB"
 				item: "farmersdelight:ratatouille"
 				type: "item"
 			}]
@@ -4422,17 +6326,28 @@
 			disable_toast: true
 			hide: true
 			id: "7E454C91F7E3021F"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "4BE173787CE66BC4"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4BE173787CE66BC4"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "68C3A24D2A45E941"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "68C3A24D2A45E941"
+				id: "3029AAE5410344CC"
 				item: "farmersdelight:squid_ink_pasta"
 				type: "item"
 			}]
@@ -4444,17 +6359,28 @@
 			disable_toast: true
 			hide: true
 			id: "4F58C0743CABFEC1"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "347B43B861A1ED67"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "347B43B861A1ED67"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0224309638C5E6F2"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "0224309638C5E6F2"
+				id: "3AE084FFBCF1B5BB"
 				item: "farmersdelight:stuffed_pumpkin_block"
 				type: "item"
 			}]
@@ -4466,17 +6392,28 @@
 			disable_toast: true
 			hide: true
 			id: "46D19307E3033181"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "46017CDD5959C54B"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "46017CDD5959C54B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "271E26B524B0AC4A"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "271E26B524B0AC4A"
+				id: "24FDF0B0E35DB61A"
 				item: "farmersdelight:tomato_sauce"
 				type: "item"
 			}]
@@ -4488,17 +6425,28 @@
 			disable_toast: true
 			hide: true
 			id: "373F7DEAA6C5F0E0"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "6E343D70B866006B"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6E343D70B866006B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5AC3B895E03ECCA3"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "5AC3B895E03ECCA3"
+				id: "0819DD138FA728EA"
 				item: "farmersdelight:vegetable_noodles"
 				type: "item"
 			}]
@@ -4510,17 +6458,28 @@
 			disable_toast: true
 			hide: true
 			id: "0EC35D6A6E854B5E"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "43A22555D5F756F1"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "43A22555D5F756F1"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_farmers_delight_cooking_pot_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0AFA71050EE90665"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "0AFA71050EE90665"
+				id: "1E9F0BF1D8D02DF0"
 				item: "farmersdelight:vegetable_soup"
 				type: "item"
 			}]

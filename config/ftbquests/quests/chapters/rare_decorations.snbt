@@ -13,17 +13,28 @@
 			disable_toast: true
 			hide: true
 			id: "5B9CC053272B46FB"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_statues_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "3743EC7E078B25B9"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3743EC7E078B25B9"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_statues_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "59FF020FA2E34D23"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "59FF020FA2E34D23"
+				id: "56633083C2BB7232"
 				item: "moa_decor_art:esculturaeldavid"
 				type: "item"
 			}]
@@ -35,17 +46,28 @@
 			disable_toast: true
 			hide: true
 			id: "35375C1922E920D5"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_statues_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "0F4F3F0C64D64A81"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0F4F3F0C64D64A81"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_statues_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2FC67D7927943C15"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "2FC67D7927943C15"
+				id: "2C4A1331E87895A1"
 				item: "moa_decor_art:esculturaelpensador"
 				type: "item"
 			}]
@@ -57,17 +79,28 @@
 			disable_toast: true
 			hide: true
 			id: "480FE5C9FBD01CCB"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_statues_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "5740B3B11926B97B"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5740B3B11926B97B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_statues_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0A1F7781181D7445"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "0A1F7781181D7445"
+				id: "016A8A35E09ACAAC"
 				item: "moa_decor_art:esculturaeldiscobolo"
 				type: "item"
 			}]
@@ -79,17 +112,28 @@
 			disable_toast: true
 			hide: true
 			id: "0077CBEC39A13073"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_statues_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "79B829024FF92E18"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "79B829024FF92E18"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_statues_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3592B587CFAE8EB3"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "3592B587CFAE8EB3"
+				id: "3AB15853DB04DA79"
 				item: "moa_decor_art:esculturavenusdemilo"
 				type: "item"
 			}]
@@ -101,17 +145,28 @@
 			disable_toast: true
 			hide: true
 			id: "78AE1C02D3D72403"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_statues_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "2865442CC1567A37"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2865442CC1567A37"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_statues_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0850A8BCA5E744D2"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "0850A8BCA5E744D2"
+				id: "49FB6E38C57CB38B"
 				item: "moa_decor_art:esculturalavictoriodesamotracia"
 				type: "item"
 			}]
@@ -123,17 +178,28 @@
 			disable_toast: true
 			hide: true
 			id: "5C60B0B3F51E4B7A"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_statues_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "7C026A2823B07169"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7C026A2823B07169"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_statues_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3F783D957E44C80C"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "3F783D957E44C80C"
+				id: "08346A7B01E1B2B2"
 				item: "moa_decor_art:esculturamujerconjarra"
 				type: "item"
 			}]
@@ -145,17 +211,28 @@
 			disable_toast: true
 			hide: true
 			id: "10D4E0E67F139C63"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_statues_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "3B8FC968CC3C3307"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3B8FC968CC3C3307"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_statues_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "66BA8234D2F988BC"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "66BA8234D2F988BC"
+				id: "7C9F4F25AC870566"
 				item: "moa_decor_art:esculturadragonchino"
 				type: "item"
 			}]
@@ -167,17 +244,28 @@
 			disable_toast: true
 			hide: true
 			id: "32495AECBCDE982C"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_statues_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "71E829C0F2EFE968"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "71E829C0F2EFE968"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_statues_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2356138DFB4B4750"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "2356138DFB4B4750"
+				id: "7FD237FD8901013D"
 				item: "moa_decor_art:esculturachacmool"
 				type: "item"
 			}]
@@ -189,17 +277,28 @@
 			disable_toast: true
 			hide: true
 			id: "227B4F1BE2D88019"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_statues_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "6139D9D41E35B7D3"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6139D9D41E35B7D3"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_statues_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5606DF987AB68F67"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "5606DF987AB68F67"
+				id: "3A411841F2375BD3"
 				item: "moa_decor_art:esculturabuda"
 				type: "item"
 			}]
@@ -211,17 +310,28 @@
 			disable_toast: true
 			hide: true
 			id: "1844FF1662039861"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_statues_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "51F3FEB075A6703D"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "51F3FEB075A6703D"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_statues_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3694DB847CE15864"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "3694DB847CE15864"
+				id: "0F2571F4495DE5B5"
 				item: "moa_decor_art:esculturajesuscrucificado"
 				type: "item"
 			}]
@@ -266,17 +376,28 @@
 			disable_toast: true
 			hide: true
 			id: "42AED6C4F5A3658A"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_mob_trophies_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "2ACA5E5FA416D96E"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2ACA5E5FA416D96E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_mob_trophies_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "732AA026B8D6D2F2"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "732AA026B8D6D2F2"
+				id: "282F82BF454AD73E"
 				item: "handcrafted:phantom_trophy"
 				type: "item"
 			}]
@@ -288,17 +409,28 @@
 			disable_toast: true
 			hide: true
 			id: "08AAB4409E08362C"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_mob_trophies_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "7A6F6D853AAFD2DE"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7A6F6D853AAFD2DE"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_mob_trophies_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "733A86CBB75C71E1"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "733A86CBB75C71E1"
+				id: "0E3313E60FC186B3"
 				item: "handcrafted:creeper_trophy"
 				type: "item"
 			}]
@@ -310,17 +442,28 @@
 			disable_toast: true
 			hide: true
 			id: "7D06FAE3FE035519"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_mob_trophies_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "6BA9C5E1AE870D11"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6BA9C5E1AE870D11"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_mob_trophies_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "686D2773893C31CC"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "686D2773893C31CC"
+				id: "2D1AE48BD3E069E4"
 				item: "handcrafted:skeleton_trophy"
 				type: "item"
 			}]
@@ -332,17 +475,28 @@
 			disable_toast: true
 			hide: true
 			id: "5294D8DB92D4B9AF"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_mob_trophies_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "15D3EBE75656EAAD"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "15D3EBE75656EAAD"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_mob_trophies_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4964BFE1D10710F9"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "4964BFE1D10710F9"
+				id: "2B61FC9EADA20179"
 				item: "handcrafted:evoker_trophy"
 				type: "item"
 			}]
@@ -354,17 +508,28 @@
 			disable_toast: true
 			hide: true
 			id: "68F502129C33EE3D"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_mob_trophies_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "76DFAF3807BE13FC"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "76DFAF3807BE13FC"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_mob_trophies_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1861A11519944411"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "1861A11519944411"
+				id: "13216D54A2046F79"
 				item: "handcrafted:pillager_trophy"
 				type: "item"
 			}]
@@ -376,17 +541,28 @@
 			disable_toast: true
 			hide: true
 			id: "2D6E1D4C985F8F68"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_mob_trophies_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "7D7E293C8190DB61"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7D7E293C8190DB61"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_mob_trophies_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "22D344DAE86A2D5E"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "22D344DAE86A2D5E"
+				id: "45CF5CFF8B3B253C"
 				item: "handcrafted:vindicator_trophy"
 				type: "item"
 			}]
@@ -398,17 +574,28 @@
 			disable_toast: true
 			hide: true
 			id: "3EA0D774547ABEC5"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_mob_trophies_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "3CB357CB816280B5"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3CB357CB816280B5"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_mob_trophies_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "209AF5EBC06C252D"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "209AF5EBC06C252D"
+				id: "2568DD331574ABB7"
 				item: "handcrafted:witch_trophy"
 				type: "item"
 			}]
@@ -450,17 +637,28 @@
 			disable_toast: true
 			hide: true
 			id: "0F8998004E4CBBBD"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_paintings_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "262619ED548CBCFF"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "262619ED548CBCFF"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_paintings_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5C3DF38CBEC86A2B"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "5C3DF38CBEC86A2B"
+				id: "080F612169E2CBF9"
 				item: "moa_decor_art:pelgrito"
 				type: "item"
 			}]
@@ -472,17 +670,28 @@
 			disable_toast: true
 			hide: true
 			id: "2596D59CC0173EFE"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_paintings_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "1A91787FE99C4A68"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1A91787FE99C4A68"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_paintings_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "29B5D99F32F45743"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "29B5D99F32F45743"
+				id: "2E57D79017D13381"
 				item: "moa_decor_art:pgoticoestadounidense"
 				type: "item"
 			}]
@@ -494,17 +703,28 @@
 			disable_toast: true
 			hide: true
 			id: "4638118AA1EF5B2B"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_paintings_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "4880FAD4AF11EE1E"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4880FAD4AF11EE1E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_paintings_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3FCDABFB09D37B24"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "3FCDABFB09D37B24"
+				id: "6399A9296255660D"
 				item: "moa_decor_art:plajovendelaperla"
 				type: "item"
 			}]
@@ -516,17 +736,28 @@
 			disable_toast: true
 			hide: true
 			id: "7C19DC0F56BA079E"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_paintings_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "494343468E4F7355"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "494343468E4F7355"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_paintings_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "480DB60867687CEF"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "480DB60867687CEF"
+				id: "5A7237C8100D773B"
 				item: "moa_decor_art:planocheestrellada"
 				type: "item"
 			}]
@@ -538,17 +769,28 @@
 			disable_toast: true
 			hide: true
 			id: "66B441C58C251736"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_paintings_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "0F767DB9DAB9167B"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0F767DB9DAB9167B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_paintings_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4A855F3103732252"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "4A855F3103732252"
+				id: "13428B65BB689EFC"
 				item: "moa_decor_art:plamonalisa"
 				type: "item"
 			}]
@@ -560,17 +802,28 @@
 			disable_toast: true
 			hide: true
 			id: "701148A5C43F837A"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_paintings_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "5BE39B27520FAA90"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5BE39B27520FAA90"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_paintings_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1D34466579C3A022"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "1D34466579C3A022"
+				id: "423BA0937C19858E"
 				item: "moa_decor_art:pserenatamexicana"
 				type: "item"
 			}]
@@ -611,17 +864,28 @@
 			disable_toast: true
 			hide: true
 			id: "0FF1FC4D0973EBA4"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_misc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "066857909D08F7F2"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "066857909D08F7F2"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_misc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0B48BDE5CDF4F130"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "0B48BDE5CDF4F130"
+				id: "0B6C9CCCA7772DBB"
 				item: "moa_decor_art:pianodecola"
 				type: "item"
 			}]
@@ -633,17 +897,28 @@
 			disable_toast: true
 			hide: true
 			id: "2D51ECCD268CBBA2"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_misc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "0547BA083395691B"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0547BA083395691B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_misc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6F0C847C94E06F18"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "6F0C847C94E06F18"
+				id: "267D49441D79705C"
 				item: "moa_decor_art:fonografo"
 				type: "item"
 			}]
@@ -655,17 +930,28 @@
 			disable_toast: true
 			hide: true
 			id: "3FC0A2E4E138561C"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_misc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "24F48CC851FB099F"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "24F48CC851FB099F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_misc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7FED92E91F0B2E11"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "7FED92E91F0B2E11"
+				id: "5F59F7D025ADACAE"
 				item: "moa_decor_art:maquinadediscos"
 				type: "item"
 			}]
@@ -677,17 +963,28 @@
 			disable_toast: true
 			hide: true
 			id: "726089EF4A5757E3"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_misc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "52ED8119A1107819"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "52ED8119A1107819"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_misc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2D8A18642060BCF5"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "2D8A18642060BCF5"
+				id: "38728769573D33E7"
 				item: "moa_decor_art:premiogrammy"
 				type: "item"
 			}]
@@ -699,17 +996,28 @@
 			disable_toast: true
 			hide: true
 			id: "322C7A72C1F57043"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_misc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "5EB087329EAB7BDA"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5EB087329EAB7BDA"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_misc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2F7361591D32596B"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "2F7361591D32596B"
+				id: "34A43E25C90AFFB3"
 				item: "moa_decor_art:premiooscar"
 				type: "item"
 			}]
@@ -721,17 +1029,28 @@
 			disable_toast: true
 			hide: true
 			id: "44F9D3C457D5ECD1"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_misc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "3B4CB7447EEC2026"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3B4CB7447EEC2026"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_misc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "759EAE0BAEDEA6BC"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "759EAE0BAEDEA6BC"
+				id: "5B47BC2530BA5AB2"
 				item: "moa_decor_holidays:trineo"
 				type: "item"
 			}]
@@ -743,17 +1062,28 @@
 			disable_toast: true
 			hide: true
 			id: "29E98F137D3FCD6D"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_misc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "106C95ADDBB76E21"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "106C95ADDBB76E21"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_misc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "75E56C1DEC0CBF8A"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "75E56C1DEC0CBF8A"
+				id: "50A986A131051805"
 				item: "moa_decor_holidays:olladeoro"
 				type: "item"
 			}]
@@ -795,17 +1125,28 @@
 			disable_toast: true
 			hide: true
 			id: "5D5C27F5B8D810A6"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_food_music_discs_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "2AF245886CF2E847"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2AF245886CF2E847"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_food_music_discs_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "53809966DA484727"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "53809966DA484727"
+				id: "78D2E59DE2EC57A8"
 				item: "kubejs:oneul_brunch"
 				type: "item"
 			}]
@@ -817,17 +1158,28 @@
 			disable_toast: true
 			hide: true
 			id: "6431634A84A01913"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_food_music_discs_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "3B05C94D3B03FD80"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3B05C94D3B03FD80"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_food_music_discs_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "410A6AEC7E8DC6F3"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "410A6AEC7E8DC6F3"
+				id: "423F4B1060E54F4A"
 				item: "kubejs:oneul_vanilla_milkshake"
 				type: "item"
 			}]
@@ -839,17 +1191,28 @@
 			disable_toast: true
 			hide: true
 			id: "3E96EA4D06B01399"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_food_music_discs_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "6A684BF4E135F4CB"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6A684BF4E135F4CB"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_food_music_discs_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "445555A601996D49"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "445555A601996D49"
+				id: "367DD904A0051B25"
 				item: "kubejs:oneul_canele"
 				type: "item"
 			}]
@@ -861,17 +1224,28 @@
 			disable_toast: true
 			hide: true
 			id: "527722459C70A4DC"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_food_music_discs_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "52E831216C29CCE7"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "52E831216C29CCE7"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_food_music_discs_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "01DEDA5D670A0246"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "01DEDA5D670A0246"
+				id: "572C3EC1864FF84B"
 				item: "kubejs:oneul_tiramisu"
 				type: "item"
 			}]
@@ -883,17 +1257,28 @@
 			disable_toast: true
 			hide: true
 			id: "29899D162CD03C50"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_food_music_discs_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "29AA92FCE7FD80F8"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "29AA92FCE7FD80F8"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_food_music_discs_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1A48228E3267E3F2"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "1A48228E3267E3F2"
+				id: "150068D8B6AD6393"
 				item: "kubejs:oneul_sandwich"
 				type: "item"
 			}]
@@ -905,17 +1290,28 @@
 			disable_toast: true
 			hide: true
 			id: "23A30E5336A4B4F6"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_food_music_discs_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "46CBE5F478B5D378"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "46CBE5F478B5D378"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_food_music_discs_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "276013BED7C84100"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "276013BED7C84100"
+				id: "5360B7A9DEEA70DE"
 				item: "kubejs:oneul_melon_bread"
 				type: "item"
 			}]
@@ -927,17 +1323,28 @@
 			disable_toast: true
 			hide: true
 			id: "651394FDF650F46E"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_food_music_discs_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "6BBEE9DB6869212E"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6BBEE9DB6869212E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_food_music_discs_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "00B484329729A142"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "00B484329729A142"
+				id: "6AEC485BD00A9FF4"
 				item: "kubejs:oneul_strawberry_dance"
 				type: "item"
 			}]
@@ -979,17 +1386,28 @@
 			disable_toast: true
 			hide: true
 			id: "604425417FAE1654"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "610FACB0B32C36C3"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "610FACB0B32C36C3"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6A64E0D82192EC26"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "6A64E0D82192EC26"
+				id: "57A16CDE92575F72"
 				item: "kubejs:oneul_around_midnight"
 				type: "item"
 			}]
@@ -1001,17 +1419,28 @@
 			disable_toast: true
 			hide: true
 			id: "46D7929E33A55036"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "0CEC98C9F45F1A5B"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0CEC98C9F45F1A5B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0A3F72F464320151"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "0A3F72F464320151"
+				id: "3D2CDA5F2E975C7F"
 				item: "kubejs:oneul_autumn_blessing"
 				type: "item"
 			}]
@@ -1023,17 +1452,28 @@
 			disable_toast: true
 			hide: true
 			id: "335817468F025E1A"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "17A77C46A783B54D"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "17A77C46A783B54D"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3AA3FCAB3FA425D3"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "3AA3FCAB3FA425D3"
+				id: "7931463EDFA113A0"
 				item: "kubejs:oneul_bubble"
 				type: "item"
 			}]
@@ -1045,17 +1485,28 @@
 			disable_toast: true
 			hide: true
 			id: "04EB28CE2DDE9E81"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "079F9F9F363B3F45"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "079F9F9F363B3F45"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0E10665AE58F5056"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "0E10665AE58F5056"
+				id: "5E166D29AAF8DA67"
 				item: "kubejs:oneul_byesummer"
 				type: "item"
 			}]
@@ -1067,17 +1518,28 @@
 			disable_toast: true
 			hide: true
 			id: "576F338251A5C3B6"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "02A17E192A2AAED8"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "02A17E192A2AAED8"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5D92E866601D8330"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "5D92E866601D8330"
+				id: "6F225B322947C4BC"
 				item: "kubejs:oneul_cheeseburger"
 				type: "item"
 			}]
@@ -1089,17 +1551,28 @@
 			disable_toast: true
 			hide: true
 			id: "3579D72E2335DAA0"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "02670F324EF97BDF"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "02670F324EF97BDF"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4649A46EBCF38FC6"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "4649A46EBCF38FC6"
+				id: "4498F008B8B25765"
 				item: "kubejs:oneul_chestnut_latte"
 				type: "item"
 			}]
@@ -1111,17 +1584,28 @@
 			disable_toast: true
 			hide: true
 			id: "0E5247AAA421D408"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "22BF112B31466C90"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "22BF112B31466C90"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "50F98073155534BF"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "50F98073155534BF"
+				id: "40E810A7875AF507"
 				item: "kubejs:oneul_chuseok"
 				type: "item"
 			}]
@@ -1133,17 +1617,28 @@
 			disable_toast: true
 			hide: true
 			id: "5BC05605A828D015"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "117E22F3CB7FDC18"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "117E22F3CB7FDC18"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1CEAD1C6DEE9C618"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "1CEAD1C6DEE9C618"
+				id: "1988C7B66379CC4F"
 				item: "kubejs:oneul_cloudy_rain"
 				type: "item"
 			}]
@@ -1155,17 +1650,28 @@
 			disable_toast: true
 			hide: true
 			id: "1DCFD407FBF85AAF"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "418E563575B2BC16"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "418E563575B2BC16"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "67BF20BDDBD8ED60"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "67BF20BDDBD8ED60"
+				id: "4F76641C9E32CD7C"
 				item: "kubejs:oneul_dreamy"
 				type: "item"
 			}]
@@ -1177,17 +1683,28 @@
 			disable_toast: true
 			hide: true
 			id: "79D81C8AF7A39D8A"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "52373766681003D7"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "52373766681003D7"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7DAB2593D0CB93DC"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "7DAB2593D0CB93DC"
+				id: "4C19A012AA164DAA"
 				item: "kubejs:oneul_flamingo"
 				type: "item"
 			}]
@@ -1199,17 +1716,28 @@
 			disable_toast: true
 			hide: true
 			id: "4094966F2508F68A"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "63756A55E0BF900D"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "63756A55E0BF900D"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1F5FA17EFE22CCF1"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "1F5FA17EFE22CCF1"
+				id: "6D55019A16B8469C"
 				item: "kubejs:oneul_floating_marshmallow"
 				type: "item"
 			}]
@@ -1221,17 +1749,28 @@
 			disable_toast: true
 			hide: true
 			id: "6CA6E28520A59BFC"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "2FE40448CE190E7A"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2FE40448CE190E7A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "20FC131102A2B0D6"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "20FC131102A2B0D6"
+				id: "790912527851491B"
 				item: "kubejs:oneul_get_up"
 				type: "item"
 			}]
@@ -1243,17 +1782,28 @@
 			disable_toast: true
 			hide: true
 			id: "37F6864D7E63459C"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "23AEEC254564467C"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "23AEEC254564467C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6E6BDCAC425C6F97"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "6E6BDCAC425C6F97"
+				id: "5C26E24DFBDA81C6"
 				item: "kubejs:oneul_gift"
 				type: "item"
 			}]
@@ -1265,17 +1815,28 @@
 			disable_toast: true
 			hide: true
 			id: "00E254E950B820AD"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "06713BA34B40D391"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "06713BA34B40D391"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "677C3A6BEFE2ADE2"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "677C3A6BEFE2ADE2"
+				id: "685CD50B7EA32E7E"
 				item: "kubejs:oneul_happy_reindeer"
 				type: "item"
 			}]
@@ -1287,17 +1848,28 @@
 			disable_toast: true
 			hide: true
 			id: "78BA829D045010D1"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "4942AB7E70C865C2"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4942AB7E70C865C2"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "378F66854556B0B9"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "378F66854556B0B9"
+				id: "518D70CE887CD94F"
 				item: "kubejs:oneul_joy"
 				type: "item"
 			}]
@@ -1309,17 +1881,28 @@
 			disable_toast: true
 			hide: true
 			id: "3D828F4079A2DFD9"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "334F5DCCEAAB312A"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "334F5DCCEAAB312A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "498FB80D7EB99622"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "498FB80D7EB99622"
+				id: "2ACC758D56E83E99"
 				item: "kubejs:oneul_mistletoe"
 				type: "item"
 			}]
@@ -1331,17 +1914,28 @@
 			disable_toast: true
 			hide: true
 			id: "11FBB735C5F87FC5"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "290EBC44A85CBFD6"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "290EBC44A85CBFD6"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "66B9E9A7A7F3C616"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "66B9E9A7A7F3C616"
+				id: "6D7D7426EEB82F78"
 				item: "kubejs:oneul_moonlight"
 				type: "item"
 			}]
@@ -1353,17 +1947,28 @@
 			disable_toast: true
 			hide: true
 			id: "7614FC68CE3EC8E1"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "07C5DADDD10F2949"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "07C5DADDD10F2949"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "01C5263B07353492"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "01C5263B07353492"
+				id: "168C8CCC9CEEE617"
 				item: "kubejs:oneul_painting"
 				type: "item"
 			}]
@@ -1375,17 +1980,28 @@
 			disable_toast: true
 			hide: true
 			id: "176909E433E9D6FE"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "6A56E8C232BF6A84"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6A56E8C232BF6A84"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "796C2A11DBBA4558"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "796C2A11DBBA4558"
+				id: "0EC38CC033501093"
 				item: "kubejs:oneul_pajama"
 				type: "item"
 			}]
@@ -1397,17 +2013,28 @@
 			disable_toast: true
 			hide: true
 			id: "4E839AE0EF9E726C"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "2C4D03F8EF4204CD"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2C4D03F8EF4204CD"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0A2E2730C6F127C3"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "0A2E2730C6F127C3"
+				id: "4BFF9A11DFCA6E81"
 				item: "kubejs:oneul_smile_peach"
 				type: "item"
 			}]
@@ -1419,17 +2046,28 @@
 			disable_toast: true
 			hide: true
 			id: "5D28DCB9C08ECD9C"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "5A03EEAA8E2CB13D"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5A03EEAA8E2CB13D"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "57CE4A1FF860CA63"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "57CE4A1FF860CA63"
+				id: "3B00AE81989C5EDB"
 				item: "kubejs:oneul_story"
 				type: "item"
 			}]
@@ -1441,17 +2079,28 @@
 			disable_toast: true
 			hide: true
 			id: "2C0222CCCBEF387D"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "05110065490C87A0"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "05110065490C87A0"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4C29A7A9B43B76FD"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "4C29A7A9B43B76FD"
+				id: "394A587924A57B28"
 				item: "kubejs:oneul_summer_vacation"
 				type: "item"
 			}]
@@ -1463,17 +2112,28 @@
 			disable_toast: true
 			hide: true
 			id: "0EF0F660F4D0084E"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "1CF154C23C52FE48"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1CF154C23C52FE48"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4D00F6A1FCFAED6D"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "4D00F6A1FCFAED6D"
+				id: "3525E8B985287586"
 				item: "kubejs:oneul_surf"
 				type: "item"
 			}]
@@ -1485,17 +2145,28 @@
 			disable_toast: true
 			hide: true
 			id: "5526A0B602D25AC3"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "3181728EB8D0CC37"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3181728EB8D0CC37"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3AAD0D6560E6F5BC"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "3AAD0D6560E6F5BC"
+				id: "5B640398A5B8701D"
 				item: "kubejs:oneul_umbrella"
 				type: "item"
 			}]
@@ -1507,17 +2178,28 @@
 			disable_toast: true
 			hide: true
 			id: "58351FF2F8B29AB1"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "335ABECFCCCA636A"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "335ABECFCCCA636A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5CD2CD706EDE7AFC"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "5CD2CD706EDE7AFC"
+				id: "34DC6E878222414F"
 				item: "kubejs:oneul_watermelon_fizz"
 				type: "item"
 			}]
@@ -1529,17 +2211,28 @@
 			disable_toast: true
 			hide: true
 			id: "009D6883BB487F61"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "4BD17EF0CDE17021"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4BD17EF0CDE17021"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_pink_bear_music_disc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "115006DA694CCBE7"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "115006DA694CCBE7"
+				id: "57B503CC6BD768E0"
 				item: "kubejs:oneul_weekend_blanket"
 				type: "item"
 			}]
@@ -1600,17 +2293,28 @@
 			disable_toast: true
 			hide: true
 			id: "77FCD4BE299762E1"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "028B9423F4F018ED"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "028B9423F4F018ED"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3FEC2C19EFD2ABCE"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "3FEC2C19EFD2ABCE"
+				id: "4F83E25A8FEFBA52"
 				item: "kubejs:oneul_april_daisy"
 				type: "item"
 			}]
@@ -1622,17 +2326,28 @@
 			disable_toast: true
 			hide: true
 			id: "5569BA890C459F77"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "109367413F119BE2"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "109367413F119BE2"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0BDFB56806828D39"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "0BDFB56806828D39"
+				id: "2445B12354F53CD2"
 				item: "kubejs:oneul_autumn_breeze"
 				type: "item"
 			}]
@@ -1644,17 +2359,28 @@
 			disable_toast: true
 			hide: true
 			id: "57E24540E587E336"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "208BFF58B77C5B07"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "208BFF58B77C5B07"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3B1547C078AB807F"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "3B1547C078AB807F"
+				id: "4D73E63370A1663E"
 				item: "kubejs:oneul_chocolate_world"
 				type: "item"
 			}]
@@ -1666,17 +2392,28 @@
 			disable_toast: true
 			hide: true
 			id: "4C639E9E1BF61510"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "0FDCB82729A974A7"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0FDCB82729A974A7"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "28982DD8A5135F0C"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "28982DD8A5135F0C"
+				id: "4203C6E3C0AF83A3"
 				item: "kubejs:oneul_cookie_tree"
 				type: "item"
 			}]
@@ -1688,17 +2425,28 @@
 			disable_toast: true
 			hide: true
 			id: "44074CC1D0262DCD"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "692BCD6DF229078C"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "692BCD6DF229078C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "76D12A49D80913C5"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "76D12A49D80913C5"
+				id: "37F55FC04295C296"
 				item: "kubejs:oneul_full_moon"
 				type: "item"
 			}]
@@ -1710,17 +2458,28 @@
 			disable_toast: true
 			hide: true
 			id: "6AC461F118FAD8AB"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "36C0CA832C8A6B9A"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "36C0CA832C8A6B9A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7901DB734C123E54"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "7901DB734C123E54"
+				id: "7960A8AAF6DC9B4D"
 				item: "kubejs:oneul_miracle_morning"
 				type: "item"
 			}]
@@ -1732,17 +2491,28 @@
 			disable_toast: true
 			hide: true
 			id: "2E60E06F58CF8CC6"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "4FA7AD4ACAC10979"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4FA7AD4ACAC10979"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "30BE7BFE2A0884FF"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "30BE7BFE2A0884FF"
+				id: "6F65C1E84B2C642B"
 				item: "kubejs:oneul_morning_peppermint"
 				type: "item"
 			}]
@@ -1754,17 +2524,28 @@
 			disable_toast: true
 			hide: true
 			id: "1584F8FD24BCF3FF"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "6567720587D6AA4B"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6567720587D6AA4B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "715D232438FCB860"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "715D232438FCB860"
+				id: "59D291554BAC7CCC"
 				item: "kubejs:oneul_raindrops"
 				type: "item"
 			}]
@@ -1776,17 +2557,28 @@
 			disable_toast: true
 			hide: true
 			id: "5AFC249507353E37"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "3CCBA90C26C0E7B5"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3CCBA90C26C0E7B5"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3B868EF7E4B8FCE6"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "3B868EF7E4B8FCE6"
+				id: "02AB85790DBB18CC"
 				item: "kubejs:oneul_roommate"
 				type: "item"
 			}]
@@ -1798,17 +2590,28 @@
 			disable_toast: true
 			hide: true
 			id: "10C20F12987915DF"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "183CACE12DCBA008"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "183CACE12DCBA008"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "113F55F2AA8D1113"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "113F55F2AA8D1113"
+				id: "0411448650C521C2"
 				item: "kubejs:oneul_snow_dance"
 				type: "item"
 			}]
@@ -1820,17 +2623,28 @@
 			disable_toast: true
 			hide: true
 			id: "4A9011768B17E3F4"
-			rewards: [{
-				auto: "invisible"
-				command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "5ACA52357F5F1580"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5ACA52357F5F1580"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:rare_decorations_oneul_misc_music_disc_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "18834B97FF6C9237"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
-				id: "18834B97FF6C9237"
+				id: "3125E3DBBE00EA2E"
 				item: "kubejs:oneul_winter_glow"
 				type: "item"
 			}]

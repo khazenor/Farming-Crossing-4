@@ -34,13 +34,21 @@ def genQuestFunctions():
 			)
 
 			subGroupObjName = f'{questlineObjName}_{subGroupNameCleaned}'
-			subGroupFunctionContent = (
+			groupFunctionContent = (
 				commands.collectionTally(questlineObjName) +
 				commands.collectionNotification(
 					fullCollectionNotification,
 					questlineObjName,
 					totalCollectibles
-				) +
+				)
+			)
+			mcfunction.writeFunction(
+				functionParentName,
+				questlineObjName,
+				groupFunctionContent
+			)
+
+			subGroupFunctionContent = (
 				commands.collectionTally(subGroupObjName) +
 				commands.collectionNotification(
 					subGroupName,

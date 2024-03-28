@@ -225,7 +225,8 @@ foodTikiBar = [
   'beachparty:pumpkin_cocktail',
   'beachparty:cocoa_cocktail',
   'beachparty:sweetberries_cocktail',
-  'beachparty:coconut_cocktail'
+  'beachparty:coconut_cocktail',
+  'beachparty:refreshing_drink'
 ]
 foodDelightful = [
   'delightful:animal_oil_bottle',
