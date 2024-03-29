@@ -419,7 +419,14 @@ const letsDoStations = [
   "nethervinery:warped_apple_press",
   "nethervinery:warped_fermentation_barrel",
   "vinery:apple_press",
-  "vinery:fermentation_barrel"
+  "vinery:fermentation_barrel",
+  "brewery:copper_brewingstation",
+  "brewery:netherite_brewingstation",
+  "brewery:wooden_brewingstation",
+  "herbalbrews:copper_tea_kettle",
+  "herbalbrews:tea_kettle",
+  "luphieclutteredmod:luphie_tea_kettle",
+  "herbalbrews:cauldron"
 ]
 
 const isBotanyBot = (block) => (botanyPots.indexOf(block.id) !== -1)
