@@ -15,5 +15,5 @@ def genTips():
 				"text": tip
 			}
 		}, open(
-			os.path.join(folder, f'tip_{ftbQuest.randomId(tip)}.json'), "w"
+			os.path.join(folder, f'tip_{ftbQuest.randomId(tip).lower()}.json'), "w"
 		))
