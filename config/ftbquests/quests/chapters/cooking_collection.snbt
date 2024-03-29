@@ -3726,6 +3726,39 @@
 			y: -12.0d
 		}
 		{
+			dependencies: ["48C7E0AF4C9A3C3E"]
+			disable_toast: true
+			hide: true
+			id: "2E99704DC2569F9F"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6679900EAB494EE9"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:cooking_collection_cooking_pan_recipes_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "171EC251C5F87B2D"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "45B6F61A43E22E0A"
+				item: "candlelight:tropical_fish_supreme"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -12.0d
+		}
+		{
 			dependencies: [
 				"2F95D0CCC5373F20"
 				"2C5F3F5282699ADC"
@@ -3737,6 +3770,7 @@
 				"2F216952B68E440C"
 				"07DA8FB6F3351147"
 				"4DDFC4636A780F31"
+				"2E99704DC2569F9F"
 			]
 			icon: {
 				Count: 1b
@@ -3748,7 +3782,7 @@
 			id: "5DA563CAFEFACDBB"
 			rewards: [
 				{
-					count: 14
+					count: 15
 					id: "32F77CFC213126BA"
 					item: "kubejs:miles_ticket"
 					type: "item"

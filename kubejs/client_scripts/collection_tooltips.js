@@ -244,7 +244,8 @@ ItemEvents.tooltip(event => {
       'candlelight:chicken_alfredo', 
       'candlelight:lettuce_beef', 
       'candlelight:pasta_bolognese', 
-      'candlelight:pasta_lettuce'
+      'candlelight:pasta_lettuce', 
+      'candlelight:tropical_fish_supreme'
     ],
     [
       'Cooking Collection', 

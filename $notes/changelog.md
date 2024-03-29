@@ -15,6 +15,7 @@
 - Let's do:  bakery
   - Collection quests updated with new foods
 - Let's do: beach party
+- Let's do: candlelight
 # 3.18:
 - as always, remember to backup your world before updating!
 - remove excessive server logging from the lasso crash warning script.
