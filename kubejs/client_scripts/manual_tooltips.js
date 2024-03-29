@@ -52,4 +52,8 @@ ItemEvents.tooltip(event => {
     "Please don't place this block down in multiplayer server.",
     "Changing channels causes all other players clients to crash"
   ])
+
+  event.add('brewery:mashed_potatoes', [
+    'Created by throwing a baked potato on top of a stonecutter'
+  ])
 })

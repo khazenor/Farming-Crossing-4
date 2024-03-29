@@ -75,7 +75,9 @@ foodOven = [
   'bakery:cornet',
   'bakery:chocolate_box',
   'bakery:chocolate_gateau',
-  'bakery:misslilitu_biscuit'
+  'bakery:misslilitu_biscuit',
+  'brewery:pretzel',
+  'brewery:gingerbread'
 ]
 foodSmallCookingPot = [
   'bakery:strawberry_jam',
@@ -198,7 +200,13 @@ foodCraftingTable = [
   'candlelight:lettuce_tomato',
   'candlelight:lettuce_salad',
   'candlelight:beef_tartare',
-  'candlelight:beetroot_salad'
+  'candlelight:beetroot_salad',
+  'brewery:pork_knuckle',
+  'brewery:fried_chicken',
+  'brewery:sausage',
+  'brewery:mashed_potatoes',
+  'brewery:potato_salad',
+  'brewery:dumplings'
 ]
 foodMiniFridge = [
   'beachparty:sweetberry_icecream',
@@ -227,6 +235,38 @@ foodTikiBar = [
   'beachparty:sweetberries_cocktail',
   'beachparty:coconut_cocktail',
   'beachparty:refreshing_drink'
+]
+foodBrewingWood = [
+  'brewery:beer_barley',
+  'brewery:beer_haley',
+  'brewery:beer_hops',
+  'brewery:beer_wheat'
+]
+foodBrewingCopper = [
+  'brewery:whiskey_maggoallan',
+  'brewery:whiskey_lilitusinglemalt',
+  'brewery:whiskey_jojannik',
+  'brewery:whiskey_carrasconlabel',
+  'brewery:whiskey_cristelwalker'
+]
+foodTeaKettle = [
+  'herbalbrews:green_tea',
+  'herbalbrews:black_tea',
+  'herbalbrews:hibiscus_tea',
+  'herbalbrews:lavender_tea',
+  'herbalbrews:yerba_mate_tea',
+  'herbalbrews:rooibos_tea',
+  'herbalbrews:oolong_tea',
+  'herbalbrews:coffee',
+  'herbalbrews:milk_coffee'
+]
+foodCauldron = [
+  'herbalbrews:armor_flask',
+  'herbalbrews:armor_flask_big',
+  'herbalbrews:damage_flask',
+  'herbalbrews:damage_flask_big',
+  'herbalbrews:feral_flask',
+  'herbalbrews:feral_flask_big'
 ]
 foodDelightful = [
   'delightful:animal_oil_bottle',
@@ -325,7 +365,13 @@ floraMiscFood = [
   "vinery:savanna_grape_seeds_white",
   "vinery:taiga_grape_seeds_red",
   "vinery:taiga_grape_seeds_white",
-  "vinery:white_grape_seeds"
+  "vinery:white_grape_seeds",
+  "herbalbrews:tea_blossom",
+  "herbalbrews:rooibos_leaf",
+  "herbalbrews:coffee_beans",
+  "brewery:hops_seeds",
+  "brewery:barley_seeds",
+  "brewery:corn_seeds"
 ]
 floraFlowerVanilla = [
   "minecraft:allium",
@@ -405,7 +451,9 @@ floraFlowerMisc = [
   "meadow:eriophorum_tall",
   "meadow:eriophorum",
   "meadow:fire_lily",
-  "meadow:saxifrage"
+  "meadow:saxifrage",
+  "herbalbrews:hibiscus",
+  "herbalbrews:lavender"
 ]
 floraAllFlowers = (
   floraFlowerVanilla + floraFlowerBiomesoPlenty +

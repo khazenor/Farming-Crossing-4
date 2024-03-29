@@ -1303,6 +1303,204 @@
 			y: 6.5d
 		}
 		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "0DA89AE698C81D2D"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5CF5C3AEC8CB1838"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_moded_foods_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "44C77D35CAD35D4E"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "06009C7552B4EAA6"
+				item: "herbalbrews:tea_blossom"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "37182AAF7E2890D3"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1BB86A97E716CE35"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_moded_foods_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5521A9A39DDF09F6"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "26C4897E65F134BA"
+				item: "herbalbrews:rooibos_leaf"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "4A286A2192E6E23A"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "11811ED15F492CD0"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_moded_foods_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "155DD8C30DE50F8E"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "2967E9367D69D97D"
+				item: "herbalbrews:coffee_beans"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "12EA69FC84ADB559"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "33113F12D834ABBF"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_moded_foods_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2DF83900BB285193"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "2FE9F440353F0418"
+				item: "brewery:hops_seeds"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "1A458974EC21C3A5"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6EDAAD9CE5A24C3F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_moded_foods_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "43051C406509FB7F"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "2BC14967F269966B"
+				item: "brewery:barley_seeds"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "2EEABF1E16EC61FE"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4D8EEFA78A83047B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_moded_foods_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7229DB481D22691B"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "2A6EE609A9DEC11A"
+				item: "brewery:corn_seeds"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 7.5d
+		}
+		{
 			dependencies: [
 				"56230D3490D59367"
 				"0130F1017D3A1819"
@@ -1325,11 +1523,17 @@
 				"08F2FB4BFAF2C3CB"
 				"08D4B1BDC2EDE8C8"
 				"10C382C57F9AA7C8"
+				"0DA89AE698C81D2D"
+				"37182AAF7E2890D3"
+				"4A286A2192E6E23A"
+				"12EA69FC84ADB559"
+				"1A458974EC21C3A5"
+				"2EEABF1E16EC61FE"
 			]
 			icon: "kubejs:miles_ticket"
 			id: "579E859E39D82F0B"
 			rewards: [{
-				count: 29
+				count: 41
 				id: "00C5010E975B315C"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -1344,7 +1548,7 @@
 			}]
 			title: "Moded Foods Completion"
 			x: -1.0d
-			y: 5.0d
+			y: 5.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1377,7 +1581,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 8.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1410,7 +1614,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 8.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1443,7 +1647,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 8.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1476,7 +1680,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 8.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1509,7 +1713,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 8.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1542,7 +1746,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 8.0d
+			y: 9.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1575,7 +1779,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 9.0d
+			y: 10.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1608,7 +1812,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 9.0d
+			y: 10.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1641,7 +1845,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 9.0d
+			y: 10.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1674,7 +1878,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 9.0d
+			y: 10.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1707,7 +1911,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 9.0d
+			y: 10.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1740,7 +1944,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 9.0d
+			y: 10.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1773,7 +1977,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 10.0d
+			y: 11.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1806,7 +2010,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 10.0d
+			y: 11.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1839,7 +2043,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 10.0d
+			y: 11.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1872,7 +2076,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 10.0d
+			y: 11.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1905,7 +2109,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 10.0d
+			y: 11.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -1938,7 +2142,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 10.0d
+			y: 11.0d
 		}
 		{
 			dependencies: [
@@ -1979,7 +2183,7 @@
 			}]
 			title: "Vanilla Flower Completion"
 			x: -1.0d
-			y: 9.0d
+			y: 10.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2012,7 +2216,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 11.5d
+			y: 12.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2045,7 +2249,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 11.5d
+			y: 12.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2078,7 +2282,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 11.5d
+			y: 12.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2111,7 +2315,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 11.5d
+			y: 12.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2144,7 +2348,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 11.5d
+			y: 12.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2177,7 +2381,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 11.5d
+			y: 12.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2210,7 +2414,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 12.5d
+			y: 13.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2243,7 +2447,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 12.5d
+			y: 13.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2276,7 +2480,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 12.5d
+			y: 13.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2309,7 +2513,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 12.5d
+			y: 13.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2342,7 +2546,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 12.5d
+			y: 13.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2375,7 +2579,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 12.5d
+			y: 13.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2408,7 +2612,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 13.5d
+			y: 14.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2441,7 +2645,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 13.5d
+			y: 14.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2474,7 +2678,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 13.5d
+			y: 14.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2507,7 +2711,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 13.5d
+			y: 14.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2540,7 +2744,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 13.5d
+			y: 14.5d
 		}
 		{
 			dependencies: [
@@ -2580,7 +2784,7 @@
 			}]
 			title: "Biomes o Plenty Flowers Completion"
 			x: -1.0d
-			y: 12.5d
+			y: 13.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2613,7 +2817,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 15.0d
+			y: 16.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2646,7 +2850,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 15.0d
+			y: 16.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2679,7 +2883,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 15.0d
+			y: 16.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2712,7 +2916,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 15.0d
+			y: 16.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2745,7 +2949,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 15.0d
+			y: 16.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2778,7 +2982,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 15.0d
+			y: 16.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2811,7 +3015,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 16.0d
+			y: 17.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2844,7 +3048,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 16.0d
+			y: 17.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2877,7 +3081,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 16.0d
+			y: 17.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2910,7 +3114,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 16.0d
+			y: 17.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2943,7 +3147,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 16.0d
+			y: 17.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -2976,7 +3180,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 16.0d
+			y: 17.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3009,7 +3213,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 17.0d
+			y: 18.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3042,7 +3246,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 17.0d
+			y: 18.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3075,7 +3279,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 17.0d
+			y: 18.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3108,7 +3312,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 17.0d
+			y: 18.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3141,7 +3345,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 17.0d
+			y: 18.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3174,7 +3378,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 17.0d
+			y: 18.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3207,7 +3411,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 18.0d
+			y: 19.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3240,7 +3444,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 18.0d
+			y: 19.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3273,7 +3477,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 18.0d
+			y: 19.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3306,7 +3510,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 18.0d
+			y: 19.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3339,7 +3543,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 18.0d
+			y: 19.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3372,7 +3576,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 18.0d
+			y: 19.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3405,7 +3609,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 19.0d
+			y: 20.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3438,7 +3642,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 19.0d
+			y: 20.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3471,7 +3675,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 19.0d
+			y: 20.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3504,7 +3708,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 19.0d
+			y: 20.0d
 		}
 		{
 			dependencies: [
@@ -3555,7 +3759,7 @@
 			}]
 			title: "Blooming Nature Flowers Completion"
 			x: -1.0d
-			y: 17.0d
+			y: 18.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3588,7 +3792,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 20.5d
+			y: 21.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3621,7 +3825,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 20.5d
+			y: 21.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3654,7 +3858,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 20.5d
+			y: 21.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3687,7 +3891,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 20.5d
+			y: 21.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3720,7 +3924,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 20.5d
+			y: 21.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3753,7 +3957,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 20.5d
+			y: 21.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3786,7 +3990,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 21.5d
+			y: 22.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3819,7 +4023,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 21.5d
+			y: 22.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3852,7 +4056,73 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 21.5d
+			y: 22.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "1C77B62C2E8DF077"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1AB0D2A413E9EA37"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_misc_flower_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "75396110FC0B1CFF"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "68671698B9F7D5F6"
+				item: "herbalbrews:hibiscus"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 22.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "3E1E683686AF447D"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "455BE548C305E6C1"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_misc_flower_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5335CBD106FA29BB"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "020132C3B6C01F44"
+				item: "herbalbrews:lavender"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 22.5d
 		}
 		{
 			dependencies: [
@@ -3865,11 +4135,13 @@
 				"362C66886E7D7F4B"
 				"152B1CB2B35BF495"
 				"4E5F821153A90EB1"
+				"1C77B62C2E8DF077"
+				"3E1E683686AF447D"
 			]
 			icon: "kubejs:miles_ticket"
 			id: "3E78B292A589A11B"
 			rewards: [{
-				count: 10
+				count: 13
 				id: "4BE9F8A4D8266943"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -3884,7 +4156,7 @@
 			}]
 			title: "Misc Flower Completion"
 			x: -1.0d
-			y: 21.0d
+			y: 22.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3917,7 +4189,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 23.0d
+			y: 24.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3950,7 +4222,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 23.0d
+			y: 24.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -3983,7 +4255,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 23.0d
+			y: 24.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4016,7 +4288,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 23.0d
+			y: 24.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4049,7 +4321,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 23.0d
+			y: 24.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4082,7 +4354,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 23.0d
+			y: 24.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4115,7 +4387,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 24.0d
+			y: 25.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4148,7 +4420,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 24.0d
+			y: 25.0d
 		}
 		{
 			dependencies: [
@@ -4179,7 +4451,7 @@
 			}]
 			title: "Vanilla Sapling Completion"
 			x: -1.0d
-			y: 23.5d
+			y: 24.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4212,7 +4484,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 25.5d
+			y: 26.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4245,7 +4517,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 25.5d
+			y: 26.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4278,7 +4550,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 25.5d
+			y: 26.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4311,7 +4583,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 25.5d
+			y: 26.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4344,7 +4616,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 25.5d
+			y: 26.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4377,7 +4649,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 25.5d
+			y: 26.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4410,7 +4682,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 26.5d
+			y: 27.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4443,7 +4715,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 26.5d
+			y: 27.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4476,7 +4748,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 26.5d
+			y: 27.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4509,7 +4781,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 26.5d
+			y: 27.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4542,7 +4814,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 26.5d
+			y: 27.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4575,7 +4847,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 26.5d
+			y: 27.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4608,7 +4880,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 27.5d
+			y: 28.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4641,7 +4913,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 27.5d
+			y: 28.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4674,7 +4946,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 27.5d
+			y: 28.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4707,7 +4979,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 27.5d
+			y: 28.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4740,7 +5012,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 27.5d
+			y: 28.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4773,7 +5045,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 27.5d
+			y: 28.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4806,7 +5078,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 28.5d
+			y: 29.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4839,7 +5111,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 28.5d
+			y: 29.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4872,7 +5144,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 28.5d
+			y: 29.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4905,7 +5177,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 28.5d
+			y: 29.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4938,7 +5210,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 28.5d
+			y: 29.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4971,7 +5243,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 28.5d
+			y: 29.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5004,7 +5276,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 29.5d
+			y: 30.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5037,7 +5309,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 29.5d
+			y: 30.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5070,7 +5342,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 29.5d
+			y: 30.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5103,7 +5375,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 29.5d
+			y: 30.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5136,7 +5408,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 29.5d
+			y: 30.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5169,7 +5441,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 29.5d
+			y: 30.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5202,7 +5474,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 30.5d
+			y: 31.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5235,7 +5507,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 30.5d
+			y: 31.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5268,7 +5540,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 30.5d
+			y: 31.5d
 		}
 		{
 			dependencies: [
@@ -5324,7 +5596,7 @@
 			}]
 			title: "Modded Sapling Completion"
 			x: -1.0d
-			y: 28.0d
+			y: 29.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5357,7 +5629,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 32.0d
+			y: 33.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5390,7 +5662,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 32.0d
+			y: 33.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5423,7 +5695,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 32.0d
+			y: 33.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5456,7 +5728,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 32.0d
+			y: 33.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5489,7 +5761,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 32.0d
+			y: 33.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5522,7 +5794,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 32.0d
+			y: 33.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5555,7 +5827,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 33.0d
+			y: 34.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5588,7 +5860,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 33.0d
+			y: 34.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5621,7 +5893,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 33.0d
+			y: 34.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5654,7 +5926,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 33.0d
+			y: 34.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5687,7 +5959,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 33.0d
+			y: 34.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5720,7 +5992,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 33.0d
+			y: 34.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5753,7 +6025,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 34.0d
+			y: 35.0d
 		}
 		{
 			dependencies: [
@@ -5789,7 +6061,7 @@
 			}]
 			title: "Misc Flora Completion"
 			x: -1.0d
-			y: 33.0d
+			y: 34.0d
 		}
 	]
 	title: "Flora Compendium"

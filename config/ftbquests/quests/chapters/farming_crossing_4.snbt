@@ -351,80 +351,15 @@
 		}
 		{
 			dependencies: ["2D0063702FDE9B52"]
-			description: [
-				"## STOVE (FARMER'S DELIGHT) ##"
-				""
-				"To add items to its grill, simply right-click the Stove when it has no objects blocking its top face. Stoves detect campfire recipes to cook, meaning they usually also take 30 seconds to fully prepare items. Stoves cannot be automated through item transferring blocks (e.g. Hoppers), but require no fuel to cook items, much like a Campfire."
-				""
-				"Stoves can hold six (6) items on its grill, and will gently pop cooked outputs above its surface, instead of throwing them around."
-				""
-				"If the middle of the Stove's grill is obstructed by any block, such as a closed Trapdoor or a Cooking Pot, all foods on the grill will be flung away, and the Stove will be unable to receive ingredients until the obstruction is removed."
-				""
-				"Stoves can be put out using shovels or buckets of water, and reignited with Flint and Steel."
-				""
-				""
-				"## SKILLET ##"
-				""
-				"The Skillet is a weapon and a portable food-cooking station, which can be operated by hand or as a block."
-				"Overview"
-				""
-				"Skillets can process any campfire cooking recipe, taking roughly 20% of the original time to cook each item (by default, 6 seconds for most recipes)."
-				""
-				"It has two modes of operation:"
-				""
-				"#Block"
-				""
-				"Players can sneak-use the skillet to place it down as a block. If placed above a valid heat source (like stove or a campfire), it will be able to cook food items placed on it. The block form can hold on to a single stack of items, dropping them to the right side (handle pointing to the observer) when finished, requiring an item catcher to collect the items. Hoppers or Baskets are recommended."
-				""
-				"Skillets can be quickly mined by hand. The block will remember all of the item's traits, such as names, enchantments etc."
-				""
-				"#Handheld"
-				""
-				"When a player is wielding a skillet close to any heat_sources, they'll be able to cook any valid items in their opposite hand by holding the use button. This takes just as long as the block-mode operation. Processed items are put in the player's inventory, or dropped if there's not enough space."
-				""
-				"Players are able to operate the Skillet by hand at any location if they're currently on fire."
-				""
-				"#Weapon"
-				""
-				"Skillets can be used as a heavyweight melee weapon. They deal slightly less damage than an Iron Axe and have the same swing speed, but also possess higher knockback on each hit (roughly 2x as much). Their durability is the same as any Iron tool."
-				"Enchantments"
-				""
-				"Skillets can receive the same enchantments that a Sword can, with the exception of Sweeping Edge."
-				""
-				"Fire Aspect will increase the Skillet's cooking speed slightly per level, for both handheld and block modes. As a block, a heated Fire Aspect skillet will emit magic sparks to indicate this."
-			]
+			description: [""]
 			hide: true
 			id: "19DDD6BE0B345083"
-			rewards: [
-				{
-					count: 24
-					id: "678A6A2DF29E682E"
-					item: "kubejs:miles_ticket"
-					type: "item"
-				}
-				{
-					id: "33FD4829A398375B"
-					item: "farmersdelight:stove"
-					type: "item"
-				}
-				{
-					id: "6EA1A8050532BC5C"
-					item: {
-						Count: 1b
-						id: "farmersdelight:skillet"
-						tag: {
-							Damage: 0
-						}
-					}
-					type: "item"
-				}
-				{
-					count: 4
-					id: "262DF9E14A3C9551"
-					item: "minecraft:potato"
-					type: "item"
-				}
-			]
+			rewards: [{
+				count: 4
+				id: "271A8EEDE358920C"
+				item: "herbalbrews:tea_blossom"
+				type: "item"
+			}]
 			tasks: [{
 				id: "29A7F283F3D55A42"
 				item: "beachparty:coconut_cocktail"
@@ -1821,7 +1756,7 @@
 			y: -0.5d
 		}
 		{
-			dependencies: ["19DDD6BE0B345083"]
+			dependencies: ["1A0D7948DC9AD13D"]
 			hide: true
 			id: "5202BD912333D54E"
 			rewards: [
@@ -1842,8 +1777,8 @@
 				item: "minecraft:baked_potato"
 				type: "item"
 			}]
-			x: 3.5d
-			y: -6.5d
+			x: 2.5d
+			y: -8.5d
 		}
 		{
 			dependencies: ["5202BD912333D54E"]
@@ -1895,8 +1830,8 @@
 				item: "farmersdelight:cabbage_leaf"
 				type: "item"
 			}]
-			x: 4.5d
-			y: -6.5d
+			x: 1.5d
+			y: -8.5d
 		}
 		{
 			dependencies: ["277E14B2EF5D2F6A"]
@@ -2006,8 +1941,8 @@
 				item: "farmersdelight:cabbage_rolls"
 				type: "item"
 			}]
-			x: 1.5d
-			y: -7.5d
+			x: 3.5d
+			y: -8.5d
 		}
 		{
 			dependencies: ["29F10804B90D8DA8"]
@@ -2035,7 +1970,7 @@
 			}]
 			title: "Starting a Delightful Restaurant"
 			x: 0.5d
-			y: -7.5d
+			y: -8.5d
 		}
 		{
 			dependencies: ["2D0063702FDE9B52"]
@@ -2243,6 +2178,247 @@
 			title: "Refine Storge and Cooking for Blockheads Integration"
 			x: 0.5d
 			y: 0.5d
+		}
+		{
+			dependencies: ["5CC639A6833863A1"]
+			description: [
+				"To get dried corn, wheat, or barley you need to use a silo."
+				""
+				"The silo connects in a 1x1, 2x2, or 3x3 grid and can be extended up to a height of 9 blocks"
+				""
+				"Make sure both of your hands are empty, and right click on the hatch of the silo to open it."
+				""
+				"After that right click the hatch of the silo with corn, wheat, or barley."
+				""
+				"After a while the dried goods will pop out of the sile if the hatch is still open.  Or if you have closed the hatch the good will pop out after you open the hatch again."
+			]
+			hide: true
+			id: "451FA11444C0ADC0"
+			rewards: [{
+				id: "1CA9ADBA95827C38"
+				item: "brewery:wooden_brewingstation"
+				type: "item"
+			}]
+			tasks: [{
+				id: "14E997443B438E55"
+				item: "brewery:dried_barley"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["451FA11444C0ADC0"]
+			description: [
+				"To start brewing, place down the brewing station."
+				""
+				"Put the ingredients you looked up in JEI in to the basket by right clicking them in."
+				""
+				"After that put in some water by right clicking with a water bucket."
+				""
+				"Right click the stove with a coal to fire up the brewing machine"
+				""
+				""
+				"=== BREWING PROCESS ==="
+				""
+				"During the brewing process, you need to monitor the brewing station."
+				""
+				"If the temperature gauge is red, you need to cool it down with a bucket of water"
+				""
+				"If the chimney is smoking, you need to add more coal to the stove."
+				""
+				"If the water runs out, you need to add more with a water bucket."
+				""
+				"If the water runs over, you need to remove some water with an empty bucket."
+			]
+			hide: true
+			id: "5864CE9EC333F521"
+			rewards: [{
+				id: "2B8C8A0204B9799B"
+				item: "brewery:copper_brewingstation"
+				type: "item"
+			}]
+			tasks: [{
+				id: "352DC88519512E23"
+				item: "brewery:beer_barley"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["5864CE9EC333F521"]
+			description: [
+				"Whiskey drinks are made using the copper brewing station instead of a wooden one."
+				""
+				"========================"
+				""
+				"## STOVE (FARMER'S DELIGHT) ##"
+				""
+				"To add items to its grill, simply right-click the Stove when it has no objects blocking its top face. Stoves detect campfire recipes to cook, meaning they usually also take 30 seconds to fully prepare items. Stoves cannot be automated through item transferring blocks (e.g. Hoppers), but require no fuel to cook items, much like a Campfire."
+				""
+				"Stoves can hold six (6) items on its grill, and will gently pop cooked outputs above its surface, instead of throwing them around."
+				""
+				"If the middle of the Stove's grill is obstructed by any block, such as a closed Trapdoor or a Cooking Pot, all foods on the grill will be flung away, and the Stove will be unable to receive ingredients until the obstruction is removed."
+				""
+				"Stoves can be put out using shovels or buckets of water, and reignited with Flint and Steel."
+				""
+				""
+				"## SKILLET ##"
+				""
+				"The Skillet is a weapon and a portable food-cooking station, which can be operated by hand or as a block."
+				"Overview"
+				""
+				"Skillets can process any campfire cooking recipe, taking roughly 20% of the original time to cook each item (by default, 6 seconds for most recipes)."
+				""
+				"It has two modes of operation:"
+				""
+				"#Block"
+				""
+				"Players can sneak-use the skillet to place it down as a block. If placed above a valid heat source (like stove or a campfire), it will be able to cook food items placed on it. The block form can hold on to a single stack of items, dropping them to the right side (handle pointing to the observer) when finished, requiring an item catcher to collect the items. Hoppers or Baskets are recommended."
+				""
+				"Skillets can be quickly mined by hand. The block will remember all of the item's traits, such as names, enchantments etc."
+				""
+				"#Handheld"
+				""
+				"When a player is wielding a skillet close to any heat_sources, they'll be able to cook any valid items in their opposite hand by holding the use button. This takes just as long as the block-mode operation. Processed items are put in the player's inventory, or dropped if there's not enough space."
+				""
+				"Players are able to operate the Skillet by hand at any location if they're currently on fire."
+				""
+				"#Weapon"
+				""
+				"Skillets can be used as a heavyweight melee weapon. They deal slightly less damage than an Iron Axe and have the same swing speed, but also possess higher knockback on each hit (roughly 2x as much). Their durability is the same as any Iron tool."
+				"Enchantments"
+				""
+				"Skillets can receive the same enchantments that a Sword can, with the exception of Sweeping Edge."
+				""
+				"Fire Aspect will increase the Skillet's cooking speed slightly per level, for both handheld and block modes. As a block, a heated Fire Aspect skillet will emit magic sparks to indicate this."
+			]
+			hide: true
+			id: "1A0D7948DC9AD13D"
+			rewards: [
+				{
+					id: "33FD4829A398375B"
+					item: "farmersdelight:stove"
+					type: "item"
+				}
+				{
+					id: "6EA1A8050532BC5C"
+					item: {
+						Count: 1b
+						id: "farmersdelight:skillet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "262DF9E14A3C9551"
+					item: "minecraft:potato"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3456D52AB8D9EB86"
+				item: "brewery:whiskey_jojannik"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["19DDD6BE0B345083"]
+			description: [
+				"You can get tea blossoms by breaking any flowers with a regular minecraft shear."
+				""
+				"After that, you can plant the blossom on the ground for green tea leaves."
+				""
+				"Putting 9 of the green tea leaves in the crafting table makes a green tea leaves block."
+				""
+				"Placing the green tea leaves down and wait until it converts to a dried green tea leaves block."
+				""
+				"After that you can break it for dried green tea."
+				""
+				"To make black tea, put 9 dried green tea in the crafting table to make a dried green tea block and put it out to dry into dred black tea block."
+			]
+			hide: true
+			icon: "herbalbrews:green_tea_leaf"
+			id: "524F06C306C3B675"
+			rewards: [{
+				id: "164094CE59BD7EB9"
+				item: "herbalbrews:tea_kettle"
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "55041E4A962E9748"
+					item: "herbalbrews:green_tea_leaf"
+					type: "item"
+				}
+				{
+					id: "23B08D79F3B54E10"
+					item: "herbalbrews:green_tea_leaf_block"
+					type: "item"
+				}
+				{
+					id: "4A784A621AE5EBD2"
+					item: "herbalbrews:dried_green_tea"
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["524F06C306C3B675"]
+			id: "55EF5DFF6C8B14A1"
+			rewards: [
+				{
+					id: "02E20C7027C7E6A4"
+					item: "herbalbrews:cauldron"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "5FF15C3C720799DD"
+					item: "minecraft:redstone"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "2A2261837785FFB9"
+					item: "herbalbrews:lavender"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "527AE3A0633E3210"
+				item: "herbalbrews:green_tea"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["55EF5DFF6C8B14A1"]
+			description: ["You can get lavender blossom by breaking a lavender plant with a regular minecraft shear."]
+			hide: true
+			id: "5CC639A6833863A1"
+			rewards: [{
+				count: 8
+				id: "69F78E01EDCDFB29"
+				item: "brewery:silo_wood"
+				type: "item"
+			}]
+			tasks: [{
+				id: "657AD422FBBABCCE"
+				item: "herbalbrews:damage_flask"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -6.5d
 		}
 	]
 	title: "Farming Crossing 4"

@@ -113,7 +113,9 @@ ItemEvents.tooltip(event => {
       'bakery:cornet', 
       'bakery:chocolate_box', 
       'bakery:chocolate_gateau', 
-      'bakery:misslilitu_biscuit'
+      'bakery:misslilitu_biscuit', 
+      'brewery:pretzel', 
+      'brewery:gingerbread'
     ],
     [
       'Cooking Collection', 
@@ -258,7 +260,13 @@ ItemEvents.tooltip(event => {
       'candlelight:lettuce_tomato', 
       'candlelight:lettuce_salad', 
       'candlelight:beef_tartare', 
-      'candlelight:beetroot_salad'
+      'candlelight:beetroot_salad', 
+      'brewery:pork_knuckle', 
+      'brewery:fried_chicken', 
+      'brewery:sausage', 
+      'brewery:mashed_potatoes', 
+      'brewery:potato_salad', 
+      'brewery:dumplings'
     ],
     [
       'Cooking Collection', 
@@ -295,6 +303,58 @@ ItemEvents.tooltip(event => {
     [
       'Cooking Collection', 
       'Tiki Bar Recipes Completion'
+    ])
+  event.add(
+    [
+      'herbalbrews:green_tea', 
+      'herbalbrews:black_tea', 
+      'herbalbrews:hibiscus_tea', 
+      'herbalbrews:lavender_tea', 
+      'herbalbrews:yerba_mate_tea', 
+      'herbalbrews:rooibos_tea', 
+      'herbalbrews:oolong_tea', 
+      'herbalbrews:coffee', 
+      'herbalbrews:milk_coffee'
+    ],
+    [
+      'Cooking Collection', 
+      'Tea Kettle Recipes Completion'
+    ])
+  event.add(
+    [
+      'herbalbrews:armor_flask', 
+      'herbalbrews:armor_flask_big', 
+      'herbalbrews:damage_flask', 
+      'herbalbrews:damage_flask_big', 
+      'herbalbrews:feral_flask', 
+      'herbalbrews:feral_flask_big'
+    ],
+    [
+      'Cooking Collection', 
+      'Brewing Cauldron Recipes Completion'
+    ])
+  event.add(
+    [
+      'brewery:beer_barley', 
+      'brewery:beer_haley', 
+      'brewery:beer_hops', 
+      'brewery:beer_wheat'
+    ],
+    [
+      'Cooking Collection', 
+      'Wooden Brewing Station Recipes Completion'
+    ])
+  event.add(
+    [
+      'brewery:whiskey_maggoallan', 
+      'brewery:whiskey_lilitusinglemalt', 
+      'brewery:whiskey_jojannik', 
+      'brewery:whiskey_carrasconlabel', 
+      'brewery:whiskey_cristelwalker'
+    ],
+    [
+      'Cooking Collection', 
+      'Copper Brewing Station Recipes Completion'
     ])
   event.add(
     [
@@ -419,7 +479,13 @@ ItemEvents.tooltip(event => {
       'vinery:savanna_grape_seeds_white', 
       'vinery:taiga_grape_seeds_red', 
       'vinery:taiga_grape_seeds_white', 
-      'vinery:white_grape_seeds'
+      'vinery:white_grape_seeds', 
+      'herbalbrews:tea_blossom', 
+      'herbalbrews:rooibos_leaf', 
+      'herbalbrews:coffee_beans', 
+      'brewery:hops_seeds', 
+      'brewery:barley_seeds', 
+      'brewery:corn_seeds'
     ],
     [
       'Flora Compendium', 
@@ -519,7 +585,9 @@ ItemEvents.tooltip(event => {
       'meadow:eriophorum_tall', 
       'meadow:eriophorum', 
       'meadow:fire_lily', 
-      'meadow:saxifrage'
+      'meadow:saxifrage', 
+      'herbalbrews:hibiscus', 
+      'herbalbrews:lavender'
     ],
     [
       'Flora Compendium', 

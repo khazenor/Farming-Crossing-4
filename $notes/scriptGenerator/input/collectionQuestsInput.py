@@ -950,6 +950,30 @@ questlines = [
         dependencyIdKey: '2D0063702FDE9B52', # ice cream coconut
         tasksKey: cqlist.foodTikiBar
       },
+      { # Tea kettle
+        nameKey: 'Tea Kettle Recipes Completion',
+        iconKey: 'herbalbrews:tea_kettle',
+        dependencyIdKey: '524F06C306C3B675', # green tea leaf
+        tasksKey: cqlist.foodTeaKettle
+      },
+      { # Brewing Cauldron
+        nameKey: 'Brewing Cauldron Recipes Completion',
+        iconKey: 'herbalbrews:cauldron',
+        dependencyIdKey: '55EF5DFF6C8B14A1', # green tea
+        tasksKey: cqlist.foodCauldron
+      },
+      { # Brewing Station
+        nameKey: 'Wooden Brewing Station Recipes Completion',
+        iconKey: 'brewery:wooden_brewingstation',
+        dependencyIdKey: '451FA11444C0ADC0', # dried barley
+        tasksKey: cqlist.foodBrewingWood
+      },
+      {
+        nameKey: 'Copper Brewing Station Recipes Completion',
+        iconKey: 'brewery:copper_brewingstation',
+        dependencyIdKey: '5864CE9EC333F521', # barley beer
+        tasksKey: cqlist.foodBrewingCopper
+      },
       ## Farmers Delight Suite Recipes
       { # Delightful
         nameKey: 'Delightful Cooking Pot Recipes Completion',
