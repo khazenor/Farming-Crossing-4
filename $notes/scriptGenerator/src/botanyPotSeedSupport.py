@@ -350,6 +350,41 @@ otherCrops = [
 		seedKey: "beachparty:palm_sapling",
 		cropKey: "beachparty:coconut",
 		blockKey: "beachparty:palm_sapling"
+  },
+	{
+    seedKey: "brewery:hops_seeds",
+    cropKey: "brewery:hops",
+		blockKey: "brewery:hops_crop"
+  },
+	{
+    seedKey: "brewery:barley_seeds",
+    cropKey: "brewery:barley",
+		blockKey: "brewery:barley_crop"
+  },
+	{
+    seedKey: "brewery:corn_seeds",
+    cropKey: "brewery:corn",
+		blockKey: "brewery:corn_crop"
+  },
+	{
+		seedKey: "herbalbrews:tea_blossom",
+		cropKey: "herbalbrews:green_tea_leaf",
+		blockKey: "herbalbrews:tea_plant"
+  },
+	{
+		seedKey: "herbalbrews:yerba_mate_leaf",
+		cropKey: "herbalbrews:yerba_mate_leaf",
+		blockKey: "herbalbrews:yerba_mate_plant"
+  },
+	{
+		seedKey: "herbalbrews:rooibos_leaf",
+		cropKey: "herbalbrews:rooibos_leaf",
+		blockKey: "herbalbrews:rooibos_plant"
+  },
+	{
+		seedKey: "herbalbrews:coffee_beans",
+		cropKey: "herbalbrews:coffee_beans",
+		blockKey: "herbalbrews:coffee_plant"
   }
 ]
 

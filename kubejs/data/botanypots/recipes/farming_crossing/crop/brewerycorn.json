@@ -1,0 +1,37 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "brewery:corn_seeds"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "brewery:corn_seeds"
+  },
+  "categories": [
+    "dirt",
+    "farmland"
+  ],
+  "growthTicks": 15000,
+  "display": {
+    "type": "botanypots:aging",
+    "block": "brewery:corn_crop"
+  },
+  "drops": [
+    {
+      "chance": 1.0,
+      "output": {
+        "item": "brewery:corn"
+      }
+    },
+    {
+      "chance": 0.01,
+      "output": {
+        "item": "brewery:corn_seeds"
+      }
+    }
+  ]
+}

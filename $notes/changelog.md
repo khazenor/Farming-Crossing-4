@@ -10,11 +10,13 @@
   - Brewing stations added to main cooking quest
   - Beers and Whisky added to the cooking collection questline
   - Prezels and gingerbread converted to oven recipes
+  - Crops plantable in botany pots
 - Let's do: Herbal Brews
   - Cauldron and tea kettle added to main cooking quest
   - potions and teas added to teh cooking collection questline
   - crops and flowers added to the market
   - flowers duplicable with bonemeal
+  - Crops plantable in botany pots
 ## Mods Removed:
 - Botany Pots Tiers
 - chisels and bits

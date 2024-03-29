@@ -1,0 +1,37 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "herbalbrews:tea_blossom"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "herbalbrews:tea_blossom"
+  },
+  "categories": [
+    "dirt",
+    "farmland"
+  ],
+  "growthTicks": 15000,
+  "display": {
+    "type": "botanypots:aging",
+    "block": "herbalbrews:tea_plant"
+  },
+  "drops": [
+    {
+      "chance": 1.0,
+      "output": {
+        "item": "herbalbrews:green_tea_leaf"
+      }
+    },
+    {
+      "chance": 0.01,
+      "output": {
+        "item": "herbalbrews:tea_blossom"
+      }
+    }
+  ]
+}

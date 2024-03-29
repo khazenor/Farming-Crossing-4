@@ -1,0 +1,37 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "brewery:hops_seeds"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "brewery:hops_seeds"
+  },
+  "categories": [
+    "dirt",
+    "farmland"
+  ],
+  "growthTicks": 15000,
+  "display": {
+    "type": "botanypots:aging",
+    "block": "brewery:hops_crop"
+  },
+  "drops": [
+    {
+      "chance": 1.0,
+      "output": {
+        "item": "brewery:hops"
+      }
+    },
+    {
+      "chance": 0.01,
+      "output": {
+        "item": "brewery:hops_seeds"
+      }
+    }
+  ]
+}
