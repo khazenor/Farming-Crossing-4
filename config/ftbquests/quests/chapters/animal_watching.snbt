@@ -13,15 +13,26 @@
 			disable_toast: true
 			hide: true
 			id: "6BC03ABC66ACE87E"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_general_water_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "555CB2FDD90C6E8F"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "555CB2FDD90C6E8F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_general_water_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6501CAC1BF672554"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:squid_spawn_egg"
 				id: "31493B0617220666"
@@ -39,15 +50,26 @@
 			disable_toast: true
 			hide: true
 			id: "28D9975ED20AFA2F"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_general_water_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "773AC25D273AF97D"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "773AC25D273AF97D"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_general_water_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4A6543E9BAB81D38"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_flying_fish"
 				id: "6A4CF246BC19F88E"
@@ -65,15 +87,26 @@
 			disable_toast: true
 			hide: true
 			id: "0C97E9B382AA78C9"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_general_water_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "44F0CED8D898B351"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "44F0CED8D898B351"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_general_water_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "37C8CDDA06C5A19A"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:dolphin_spawn_egg"
 				id: "4E83AEDE08E24E70"
@@ -91,15 +124,26 @@
 			disable_toast: true
 			hide: true
 			id: "2B1D1F4485281F8F"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_general_water_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "63F10855B20BAF5F"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "63F10855B20BAF5F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_general_water_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6E21716E9FA43F91"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_blobfish"
 				id: "267C59ABB835957A"
@@ -117,15 +161,26 @@
 			disable_toast: true
 			hide: true
 			id: "79D19EF8C97C8B9C"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_general_water_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "41F614946735C171"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "41F614946735C171"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_general_water_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "62B406E81F124EFC"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_cachalot_whale"
 				id: "6C72C7F633A993E4"
@@ -171,15 +226,26 @@
 			disable_toast: true
 			hide: true
 			id: "24716AF6C6BDE008"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_warm_oceans_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "1763FC623D0D116C"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1763FC623D0D116C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_warm_oceans_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "394175D1E3D713E2"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_mimic_octopus"
 				id: "07721D22AE7B5121"
@@ -197,15 +263,26 @@
 			disable_toast: true
 			hide: true
 			id: "7E990266EB1DC187"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_warm_oceans_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "4CDEBB817949F122"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4CDEBB817949F122"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_warm_oceans_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5B868AE6D932BD52"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_mantis_shrimp"
 				id: "7BCA66B2BB7BA22C"
@@ -248,15 +325,26 @@
 			disable_toast: true
 			hide: true
 			id: "481EA9C89C1408B4"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_beaches_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "2002102E25B5C8F5"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2002102E25B5C8F5"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_beaches_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1EB27E217DA5F606"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_lobster"
 				id: "4D0C1921529DED6F"
@@ -274,15 +362,26 @@
 			disable_toast: true
 			hide: true
 			id: "73D3CF73E7599B5B"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_beaches_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "29CB3E3326BB02BF"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "29CB3E3326BB02BF"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_beaches_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "378B93DC6F74F45C"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_seagull"
 				id: "01754C6D170A5DFB"
@@ -300,15 +399,26 @@
 			disable_toast: true
 			hide: true
 			id: "3C97780D6E0BD1F2"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_beaches_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "4FCCABECDAC04D21"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4FCCABECDAC04D21"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_beaches_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3DDB2F609EF30835"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_seal"
 				id: "60F6BCA3FB08A2D0"
@@ -326,15 +436,26 @@
 			disable_toast: true
 			hide: true
 			id: "2D3B92C5377D7FAD"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_beaches_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "2E03F40DAC2B9964"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2E03F40DAC2B9964"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_beaches_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "550999510E482580"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:crane_spawn_egg"
 				id: "678380236DF1F99F"
@@ -352,15 +473,26 @@
 			disable_toast: true
 			hide: true
 			id: "27D5478265C11EF6"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_beaches_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "537D890BE21AD185"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "537D890BE21AD185"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_beaches_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "29B8C6D16FDB6F7A"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:gull_spawn_egg"
 				id: "0DA20DEF96CB8798"
@@ -378,15 +510,26 @@
 			disable_toast: true
 			hide: true
 			id: "298731F2CB70FED1"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_beaches_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "33868A2A57F5385C"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "33868A2A57F5385C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_beaches_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "766B17F3A6A7A9E1"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:heron_spawn_egg"
 				id: "336BBDDCF8ACE9D9"
@@ -404,15 +547,26 @@
 			disable_toast: true
 			hide: true
 			id: "24FABF284F06C04B"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_beaches_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "39048237C9614F33"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "39048237C9614F33"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_beaches_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7CE1809C9D0F243F"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:turtle_spawn_egg"
 				id: "016571F26C6AA861"
@@ -430,15 +584,26 @@
 			disable_toast: true
 			hide: true
 			id: "3EFBA4A3E40E8CEE"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_beaches_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "71915B76E64401EC"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "71915B76E64401EC"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_beaches_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1B6FD51E1DB815C9"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:pelican_spawn_egg"
 				id: "179E4BDEC3B9C402"
@@ -456,15 +621,26 @@
 			disable_toast: true
 			hide: true
 			id: "0320C3AA93A0B1C2"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_beaches_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "3849AF9D53ED70E0"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3849AF9D53ED70E0"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_beaches_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5BA04E13C84821D0"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "quark:crab_spawn_egg"
 				id: "4A367B8F343CA481"
@@ -482,15 +658,26 @@
 			disable_toast: true
 			hide: true
 			id: "3FDB719E40191DCF"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_beaches_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "4090300E277D6F7E"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4090300E277D6F7E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_beaches_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1CD6D9496DDC0F9A"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "bloomingnature:pelican_spawn_egg"
 				id: "299B629FDD3D1458"
@@ -541,15 +728,26 @@
 			disable_toast: true
 			hide: true
 			id: "370453FE30F5D2F8"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_river_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "36E5317755238DE6"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "36E5317755238DE6"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_river_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5257EDECF6E1ED88"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:kingfisher_spawn_egg"
 				id: "4BCC4958708835D6"
@@ -567,15 +765,26 @@
 			disable_toast: true
 			hide: true
 			id: "4F3AADBCC889D8FD"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_river_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "26876169B791730D"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "26876169B791730D"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_river_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6E0FA0C0A64A9980"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:swan_spawn_egg"
 				id: "1AB5E9C128520352"
@@ -593,15 +802,26 @@
 			disable_toast: true
 			hide: true
 			id: "432E034EE29154D4"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_river_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "5479960BD4AE03FD"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5479960BD4AE03FD"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_river_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "44210D0F2EED42AD"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:flamingo_spawn_egg"
 				id: "2BFB43FC63E6B09C"
@@ -619,15 +839,26 @@
 			disable_toast: true
 			hide: true
 			id: "52A6E2E145644B89"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_river_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "5FB601C1D3A1A651"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5FB601C1D3A1A651"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_river_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4D70589F51A4528D"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:penguin_spawn_egg"
 				id: "25762043AB8978B2"
@@ -645,15 +876,26 @@
 			disable_toast: true
 			hide: true
 			id: "0FC4168A298E7B15"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_river_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "10CCD68FD73D3679"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "10CCD68FD73D3679"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_river_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "69F671BDC8FA0245"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_platypus"
 				id: "27DE7E66C11DBD1A"
@@ -671,15 +913,26 @@
 			disable_toast: true
 			hide: true
 			id: "71094C99888C2B91"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_river_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "6B7FEC30F7E5D5EA"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6B7FEC30F7E5D5EA"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_river_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3D0CD2A4576A8096"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_terrapin"
 				id: "362F2DD616F2B3B0"
@@ -697,15 +950,26 @@
 			disable_toast: true
 			hide: true
 			id: "2F72165A6C6DA1C0"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_river_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "4BE042F7EFA0285E"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4BE042F7EFA0285E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_river_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3CB89D6C87C5A0B1"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:booby_spawn_egg"
 				id: "09DFA00ACEDBCDB7"
@@ -723,15 +987,26 @@
 			disable_toast: true
 			hide: true
 			id: "0D90E8A6AD14A9F8"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_river_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "4BA2D66AA24FE750"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4BA2D66AA24FE750"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_river_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "065271FC32117970"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:duck_spawn_egg"
 				id: "1EFE52F4C9131147"
@@ -780,15 +1055,26 @@
 			disable_toast: true
 			hide: true
 			id: "1D29B3800ED5F047"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_frozen_ocean_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "49DB604EE5528718"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "49DB604EE5528718"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_frozen_ocean_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0DBD54D227443BEB"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_orca"
 				id: "29B4952E747AD844"
@@ -806,15 +1092,26 @@
 			disable_toast: true
 			hide: true
 			id: "612D9EA981D47186"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_frozen_ocean_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "64E643FEEBB06A5A"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "64E643FEEBB06A5A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_frozen_ocean_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7064424D3C6383C1"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_comb_jelly"
 				id: "2046CFB3FCE7DA08"
@@ -857,15 +1154,26 @@
 			disable_toast: true
 			hide: true
 			id: "74F683340A32E0DA"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_deepest_ocean_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "2E7CAD181AE24ABE"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2E7CAD181AE24ABE"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_deepest_ocean_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "52267B628F6C1DED"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_giant_squid"
 				id: "62BEC4E065CEAB7F"
@@ -883,15 +1191,26 @@
 			disable_toast: true
 			hide: true
 			id: "2616A5754474CB4E"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_deepest_ocean_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "1CFC55470064CDED"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1CFC55470064CDED"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_deepest_ocean_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "52B3588DB7D9B84D"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_frilled_shark"
 				id: "1D2FFBF54B37FE13"
@@ -934,15 +1253,26 @@
 			disable_toast: true
 			hide: true
 			id: "3554D3C57EA39548"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_desert_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "30C55B1050F3CC9B"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "30C55B1050F3CC9B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_desert_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3428EDAFDCF77F5D"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:camel_spawn_egg"
 				id: "2B3B976E4DA0826C"
@@ -960,15 +1290,26 @@
 			disable_toast: true
 			hide: true
 			id: "008613A90AB3373D"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_desert_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "13C77B9DCF9C99F2"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "13C77B9DCF9C99F2"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_desert_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "19A2DE826D5D239B"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_rain_frog"
 				id: "39B96F26982F6311"
@@ -986,15 +1327,26 @@
 			disable_toast: true
 			hide: true
 			id: "77BCB6D4FEEF12EC"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_desert_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "378C783DDDDFF815"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "378C783DDDDFF815"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_desert_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "45B80F5A922D867F"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_triops"
 				id: "56BA8B3A90ACB84B"
@@ -1012,15 +1364,26 @@
 			disable_toast: true
 			hide: true
 			id: "64E12975D6C6DF0F"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_desert_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "2A17C922C5061F22"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2A17C922C5061F22"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_desert_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "084B6C5C1F9BE10B"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_jerboa"
 				id: "049B221620E8BD00"
@@ -1038,15 +1401,26 @@
 			disable_toast: true
 			hide: true
 			id: "413D6D58E51BEA36"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_desert_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "4CCEA411E96597BE"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4CCEA411E96597BE"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_desert_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "19CE91E9D02E2D27"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_roadrunner"
 				id: "4C7D74AD503499E0"
@@ -1064,15 +1438,26 @@
 			disable_toast: true
 			hide: true
 			id: "4FF7DD0A9F4653A3"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_desert_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "63F693967DF887FC"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "63F693967DF887FC"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_desert_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "460D2EA6DE546A55"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:roadrunner_spawn_egg"
 				id: "335F0BF468217E9A"
@@ -1090,15 +1475,26 @@
 			disable_toast: true
 			hide: true
 			id: "5A11FB3653093A42"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_desert_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "56B24623AAFEBA25"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "56B24623AAFEBA25"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_desert_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7B9F55759DFE7F6C"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:ostrich_spawn_egg"
 				id: "68ADD3AECAF8E826"
@@ -1146,15 +1542,26 @@
 			disable_toast: true
 			hide: true
 			id: "1ED2AA8F11140834"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_forest_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "730AFFF2C1742E9C"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "730AFFF2C1742E9C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_forest_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "55DA224E19F7BCB1"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:wolf_spawn_egg"
 				id: "76DCDFC2541CCFCD"
@@ -1172,15 +1579,26 @@
 			disable_toast: true
 			hide: true
 			id: "3DCB95F419650E52"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_forest_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "29C1F65679DDB326"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "29C1F65679DDB326"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_forest_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "43FD0EE5A23B9086"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_skunk"
 				id: "7924C33750D9FCE2"
@@ -1198,15 +1616,26 @@
 			disable_toast: true
 			hide: true
 			id: "238A4B8351C78B80"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_forest_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "5D04CDF807F2C7DB"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5D04CDF807F2C7DB"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_forest_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4F035EBCBCC66224"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_tasmanian_devil"
 				id: "023267FEF07441F5"
@@ -1224,15 +1653,26 @@
 			disable_toast: true
 			hide: true
 			id: "7CB69DC8B18274E5"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_forest_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "4143B04E116D10B2"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4143B04E116D10B2"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_forest_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "397936303B625F24"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_potoo"
 				id: "2BD3982836AAED99"
@@ -1250,15 +1690,26 @@
 			disable_toast: true
 			hide: true
 			id: "542D10B47F3B1385"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_forest_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "5A31D89C1FCCB73D"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5A31D89C1FCCB73D"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_forest_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4939238ED44B2809"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:bluejay_spawn_egg"
 				id: "0B5E0D280A7BC1D6"
@@ -1276,15 +1727,26 @@
 			disable_toast: true
 			hide: true
 			id: "71E5BE81B64FFF1F"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_forest_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "4897E68FFC72CBEA"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4897E68FFC72CBEA"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_forest_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "28686B95CA20B1A3"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_blue_jay"
 				id: "196ADCF288EA3813"
@@ -1302,15 +1764,26 @@
 			disable_toast: true
 			hide: true
 			id: "786C9623E2BD258C"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_forest_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "035C6346E162AD5C"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "035C6346E162AD5C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_forest_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1CCB7A60068AE59C"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_banana_slug"
 				id: "517A3E9CC4A3BCDC"
@@ -1328,15 +1801,26 @@
 			disable_toast: true
 			hide: true
 			id: "25B0DBAA8B24F519"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_forest_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "774BB8FE6AA6C7D5"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "774BB8FE6AA6C7D5"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_forest_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6FCCA90BC2767268"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_sugar_glider"
 				id: "214EF2F0028D0A41"
@@ -1354,15 +1838,26 @@
 			disable_toast: true
 			hide: true
 			id: "46B46790E3AB989C"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_forest_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "13E563E7FDB8FD87"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "13E563E7FDB8FD87"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_forest_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "22D0D06926281F22"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_bald_eagle"
 				id: "6B45B323413472E6"
@@ -1380,15 +1875,26 @@
 			disable_toast: true
 			hide: true
 			id: "21F787F6BA02D93B"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_forest_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "0AFCC3643DEAA292"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0AFCC3643DEAA292"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_forest_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "11466FDA185E331F"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:kiwi_spawn_egg"
 				id: "6DBE066E0C37ED42"
@@ -1406,15 +1912,26 @@
 			disable_toast: true
 			hide: true
 			id: "7122135F12455F2E"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_forest_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "1D16F939E605A639"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1D16F939E605A639"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_forest_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "619AD88F80641250"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:owl_spawn_egg"
 				id: "2BA6FB06840DE4BF"
@@ -1432,15 +1949,26 @@
 			disable_toast: true
 			hide: true
 			id: "64C6B6C2BE3DAF21"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_forest_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "51006FB426235670"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "51006FB426235670"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_forest_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "04F9C142FC9E9DAF"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:cardinal_spawn_egg"
 				id: "76612D86D0A6FDAE"
@@ -1458,15 +1986,26 @@
 			disable_toast: true
 			hide: true
 			id: "71FCE06D8A6982BB"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_forest_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "5930FE91E0B0E789"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5930FE91E0B0E789"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_forest_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "705E0A1E99E332B8"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:cassowary_spawn_egg"
 				id: "403B1D8028D1E101"
@@ -1484,15 +2023,26 @@
 			disable_toast: true
 			hide: true
 			id: "059EACC580CD55D2"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_forest_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "56107AA57E4FCDB9"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "56107AA57E4FCDB9"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_forest_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "34788B04EEFEAB9E"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:magpie_spawn_egg"
 				id: "484DF05EA2363AFF"
@@ -1510,15 +2060,26 @@
 			disable_toast: true
 			hide: true
 			id: "37212B218AB2A17F"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_forest_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "43F3080E6E65552B"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "43F3080E6E65552B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_forest_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "73F661B68AA4D9C4"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:lyrebird_spawn_egg"
 				id: "29B8254151FB24AB"
@@ -1536,15 +2097,26 @@
 			disable_toast: true
 			hide: true
 			id: "75B3AB3070793EFB"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_forest_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "5E50F600FE81175B"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5E50F600FE81175B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_forest_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7507CEF1CA90D508"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:robin_spawn_egg"
 				id: "520F09D336B24677"
@@ -1562,15 +2134,26 @@
 			disable_toast: true
 			hide: true
 			id: "7C188414FB438B6E"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_forest_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "47492DACDFDB0A6A"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "47492DACDFDB0A6A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_forest_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "093B1924482E28D5"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:kookaburra_spawn_egg"
 				id: "339B18CE58ECA88F"
@@ -1588,15 +2171,26 @@
 			disable_toast: true
 			hide: true
 			id: "0866606E7B5A9E2C"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_forest_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "6CD0DFA14F05416C"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6CD0DFA14F05416C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_forest_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "464E1555F08EEA75"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "bloomingnature:deer_spawn_egg"
 				id: "10AE5670146E906E"
@@ -1614,15 +2208,26 @@
 			disable_toast: true
 			hide: true
 			id: "6874CABA665D7CE5"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_forest_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "3CFF27B6276BEAFE"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3CFF27B6276BEAFE"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_forest_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3E33B1A28D460970"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "bloomingnature:turkey_spawn_egg"
 				id: "6C01672E406908C1"
@@ -1640,15 +2245,26 @@
 			disable_toast: true
 			hide: true
 			id: "555D120C91A8E0BA"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_forest_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "2A42F1D3C05645FF"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2A42F1D3C05645FF"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_forest_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7BCCA420CD7CAF46"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "bloomingnature:owl_spawn_egg"
 				id: "240B8BAD0255CF54"
@@ -1666,15 +2282,26 @@
 			disable_toast: true
 			hide: true
 			id: "6CECCD62A4FB9531"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_forest_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "2FB3F07F48FD9593"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2FB3F07F48FD9593"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_forest_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7FD2EAE813F8BFBB"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "bloomingnature:boar_spawn_egg"
 				id: "7D8872E970204217"
@@ -1692,15 +2319,26 @@
 			disable_toast: true
 			hide: true
 			id: "0725A00DBA449968"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_forest_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "51E5C5B342433393"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "51E5C5B342433393"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_forest_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2C7BE6A4F92952C8"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "bloomingnature:red_wolf_spawn_egg"
 				id: "0771B026484DB112"
@@ -1763,15 +2401,26 @@
 			disable_toast: true
 			hide: true
 			id: "0F76579E007CDCE7"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_jungle_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "7735616754A37227"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7735616754A37227"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_jungle_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6BE3AD71B9CFD5AE"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:panda_spawn_egg"
 				id: "289AEDAD592249B8"
@@ -1789,15 +2438,26 @@
 			disable_toast: true
 			hide: true
 			id: "7543705CF9751CF7"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_jungle_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "13E59387AC10720D"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "13E59387AC10720D"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_jungle_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "348E8DFE99CAE81A"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:parrot_spawn_egg"
 				id: "6325782B4E4EE509"
@@ -1815,15 +2475,26 @@
 			disable_toast: true
 			hide: true
 			id: "5E03E6CA4022BDDB"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_jungle_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "2C032A91C7AEE116"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2C032A91C7AEE116"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_jungle_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0BC255652B660575"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_leafcutter_ant"
 				id: "2D10C8429D350A83"
@@ -1841,15 +2512,26 @@
 			disable_toast: true
 			hide: true
 			id: "322D5B791780813E"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_jungle_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "18ECA9B557C4F96C"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "18ECA9B557C4F96C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_jungle_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0A1DB1AE7DA6A84F"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_gorilla"
 				id: "5E74F951C0129D6B"
@@ -1867,15 +2549,26 @@
 			disable_toast: true
 			hide: true
 			id: "03E629B07E1B2DEB"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_jungle_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "57EB096CB555638F"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "57EB096CB555638F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_jungle_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4B198CB150B129F5"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_toucan"
 				id: "274DA06EFA4A2240"
@@ -1893,15 +2586,26 @@
 			disable_toast: true
 			hide: true
 			id: "0B4E6E650C91CC1C"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_jungle_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "340BB1700D8F559F"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "340BB1700D8F559F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_jungle_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "72B04E4FAD5ED467"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:ocelot_spawn_egg"
 				id: "22361EDCFDB08689"
@@ -1919,15 +2623,26 @@
 			disable_toast: true
 			hide: true
 			id: "418A609115C4010A"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_jungle_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "3A7FC3884EA53458"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3A7FC3884EA53458"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_jungle_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "04A523792E86350E"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_capuchin_monkey"
 				id: "0A7164FFD33474F6"
@@ -1945,15 +2660,26 @@
 			disable_toast: true
 			hide: true
 			id: "665CE35022CEF3E6"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_jungle_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "18CE4C989D660941"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "18CE4C989D660941"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_jungle_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "68A38064002704B6"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_anteater"
 				id: "3A325FA19C6828E4"
@@ -1971,15 +2697,26 @@
 			disable_toast: true
 			hide: true
 			id: "3487AF1A6CACE473"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_jungle_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "268481E1528F5E7F"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "268481E1528F5E7F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_jungle_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5EAB010646946632"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:hummingbird_spawn_egg"
 				id: "6816C783C79A6F8D"
@@ -1997,15 +2734,26 @@
 			disable_toast: true
 			hide: true
 			id: "13CC641EF411F37B"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_jungle_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "716311B16D3A4F4A"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "716311B16D3A4F4A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_jungle_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0DD728C098AF58DA"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_hummingbird"
 				id: "4E8C83A653C1B689"
@@ -2023,15 +2771,26 @@
 			disable_toast: true
 			hide: true
 			id: "637C4C4C478A8378"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_jungle_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "52DBDBCF0956C977"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "52DBDBCF0956C977"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_jungle_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0A7D8F6D9A1BFF70"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:macaw_spawn_egg"
 				id: "16091E0FCB8BF624"
@@ -2049,15 +2808,26 @@
 			disable_toast: true
 			hide: true
 			id: "15B0D19DC758050F"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_jungle_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "7C78137BEB11A2D2"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7C78137BEB11A2D2"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_jungle_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2B11ED11D4206CEC"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:toucan_spawn_egg"
 				id: "6EF1017957EFABE5"
@@ -2110,15 +2880,26 @@
 			disable_toast: true
 			hide: true
 			id: "7D5556405A67FADF"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_mountain_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "061B859FED0105EE"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "061B859FED0105EE"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_mountain_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0E156888D7E6C537"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:goat_spawn_egg"
 				id: "45CAA0CD71F8C360"
@@ -2136,15 +2917,26 @@
 			disable_toast: true
 			hide: true
 			id: "1E2F4F6A1F3817BA"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_mountain_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "09A44A7B42E7820E"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "09A44A7B42E7820E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_mountain_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4F6CFD38419C1E56"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "quark:shiba_spawn_egg"
 				id: "38A32BF0953B3972"
@@ -2187,15 +2979,26 @@
 			disable_toast: true
 			hide: true
 			id: "184F4BA4EE6D0C9B"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_special_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "37466945894C6D45"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "37466945894C6D45"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_special_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "401614FDB3B6CBC2"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_sunbird"
 				id: "693B3C8B1C29118F"
@@ -2213,15 +3016,26 @@
 			disable_toast: true
 			hide: true
 			id: "66BE27EBD32B3B31"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_special_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "27F21ED88C1F4F4B"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "27F21ED88C1F4F4B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_special_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "153DDBD6E63AEB1C"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:bee_spawn_egg"
 				id: "02DB503B032F9F56"
@@ -2239,15 +3053,26 @@
 			disable_toast: true
 			hide: true
 			id: "2EAF4EBB9AAACFA5"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_special_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "61F1B7D3CC5D9466"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "61F1B7D3CC5D9466"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_special_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "56918F320F2F2288"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_devils_hole_pupfish"
 				id: "36908F8DF84FF87D"
@@ -2265,15 +3090,26 @@
 			disable_toast: true
 			hide: true
 			id: "3D8D317A3970F636"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_special_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "18E3A861B944F448"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "18E3A861B944F448"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_special_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5619407FCF8FB5E5"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:allay_spawn_egg"
 				id: "7C3CCF3B0377FDF4"
@@ -2291,15 +3127,26 @@
 			disable_toast: true
 			hide: true
 			id: "49BDC3EB14488FA2"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_special_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "77D019C494B99B16"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "77D019C494B99B16"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_special_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0746FFA18510DBC3"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:cat_spawn_egg"
 				id: "08117153A695BC30"
@@ -2345,15 +3192,26 @@
 			disable_toast: true
 			hide: true
 			id: "5AEAD16AEBC9242A"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_savanna_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "6AE0149AB6FEC8CE"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6AE0149AB6FEC8CE"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_savanna_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7ED7FA32E4A203CF"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_emu"
 				id: "5EBAE9781DF66AB1"
@@ -2371,15 +3229,26 @@
 			disable_toast: true
 			hide: true
 			id: "4ADDA508CDDED809"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_savanna_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "3DB4A04DE582C38D"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3DB4A04DE582C38D"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_savanna_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "30A905705D5FED54"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:llama_spawn_egg"
 				id: "7EFEE5B04490929F"
@@ -2397,15 +3266,26 @@
 			disable_toast: true
 			hide: true
 			id: "79FB0B97F67F06D6"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_savanna_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "5B4CCCCDBFF42D31"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5B4CCCCDBFF42D31"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_savanna_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2BA739EA07C82F5C"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_kangaroo"
 				id: "309FA3C31F3FAD30"
@@ -2423,15 +3303,26 @@
 			disable_toast: true
 			hide: true
 			id: "25A77A91512D6E6B"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_savanna_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "580039DB70C0A562"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "580039DB70C0A562"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_savanna_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "69F97CA71DED5829"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_gazelle"
 				id: "45D540202CF97397"
@@ -2449,15 +3340,26 @@
 			disable_toast: true
 			hide: true
 			id: "4E39B09BCE8D8674"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_savanna_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "35EFA78CF5F12DA8"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "35EFA78CF5F12DA8"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_savanna_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6512EBD440A3018F"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_maned_wolf"
 				id: "2136308ABCE10BD7"
@@ -2475,15 +3377,26 @@
 			disable_toast: true
 			hide: true
 			id: "226500A5A41F25D8"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_savanna_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "108B48F80914A284"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "108B48F80914A284"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_savanna_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "247549D5A8BBD012"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_elephant"
 				id: "0A7146875FDC0584"
@@ -2501,15 +3414,26 @@
 			disable_toast: true
 			hide: true
 			id: "4F7D5EC7E6F78BD8"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_savanna_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "7AF684F135AC6DB3"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7AF684F135AC6DB3"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_savanna_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "56FD6FF4EF3006C1"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_rhinoceros"
 				id: "1CBA7226027CDD04"
@@ -2527,15 +3451,26 @@
 			disable_toast: true
 			hide: true
 			id: "4CF51C38AFCBD5CE"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_savanna_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "12E87CD995DBD5B0"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "12E87CD995DBD5B0"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_savanna_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "71DC25B3CC083CB5"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:gouldianfinch_spawn_egg"
 				id: "305CDFF8723C829E"
@@ -2553,15 +3488,26 @@
 			disable_toast: true
 			hide: true
 			id: "6185DEB7478ABA8B"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_savanna_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "5DA8F99121FC8347"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5DA8F99121FC8347"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_savanna_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "20F8F9A11F9AABAF"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:budgerigar_spawn_egg"
 				id: "59C004E8B85D0F4C"
@@ -2579,15 +3525,26 @@
 			disable_toast: true
 			hide: true
 			id: "2E3C2D9CE553CFAE"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_savanna_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "43B39C358BF726BD"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "43B39C358BF726BD"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_savanna_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2DAA8DF6D05574E4"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:cockatoo_spawn_egg"
 				id: "0E33F44127179720"
@@ -2605,15 +3562,26 @@
 			disable_toast: true
 			hide: true
 			id: "66AB8EE2E4A9666A"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_savanna_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "64263E0A4EC8D543"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "64263E0A4EC8D543"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_savanna_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "035E8CF6B6BBA46B"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:woodpecker_spawn_egg"
 				id: "07D78AEE931681DD"
@@ -2631,15 +3599,26 @@
 			disable_toast: true
 			hide: true
 			id: "571E2A812570FE87"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_savanna_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "667615166BA32B4E"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "667615166BA32B4E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_savanna_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6BBC82B0778C8C89"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "bloomingnature:bison_spawn_egg"
 				id: "370836C8479A155F"
@@ -2692,15 +3671,26 @@
 			disable_toast: true
 			hide: true
 			id: "72ED61BCFABFD296"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_plains_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "0C274A18B0C8A594"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0C274A18B0C8A594"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_plains_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0773727717376174"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:horse_spawn_egg"
 				id: "337C31047003D75D"
@@ -2718,15 +3708,26 @@
 			disable_toast: true
 			hide: true
 			id: "45886EE7CCA2E82C"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_plains_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "06BF4953DDF97176"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "06BF4953DDF97176"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_plains_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0571C813D6F955DB"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_crow"
 				id: "6B4B7B1B2D0536B5"
@@ -2744,15 +3745,26 @@
 			disable_toast: true
 			hide: true
 			id: "3362572F8413CCD8"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_plains_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "53ABD345782EB5BC"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "53ABD345782EB5BC"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_plains_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3468D45E284BBA10"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_bison"
 				id: "314354DCC57267B7"
@@ -2770,15 +3782,26 @@
 			disable_toast: true
 			hide: true
 			id: "48C0B87C3EE883D1"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_plains_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "00C69C2822AF7BB9"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "00C69C2822AF7BB9"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_plains_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "59BF4E6324ACBAE9"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:donkey_spawn_egg"
 				id: "44DDEA6456729975"
@@ -2796,15 +3819,26 @@
 			disable_toast: true
 			hide: true
 			id: "6AC16418D7460FCA"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_plains_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "713F1E0EFAEC5542"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "713F1E0EFAEC5542"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_plains_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "501C083B6FFA74C8"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_raccoon"
 				id: "4ACCDD068394DC9D"
@@ -2822,15 +3856,26 @@
 			disable_toast: true
 			hide: true
 			id: "28DFC774790A4F97"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_plains_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "7E1017B5E1AFB071"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7E1017B5E1AFB071"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_plains_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4E46B5510E33BBF8"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_gelada_monkey"
 				id: "278E7161D5EA0655"
@@ -2848,15 +3893,26 @@
 			disable_toast: true
 			hide: true
 			id: "6D4CA4C7C11CE938"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_plains_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "27F4A53D43E75F8E"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "27F4A53D43E75F8E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_plains_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "05A54A9CA15296B9"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:peafowl_spawn_egg"
 				id: "7D851C0C4F4C1CCB"
@@ -2874,15 +3930,26 @@
 			disable_toast: true
 			hide: true
 			id: "17A02DC271C854DF"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_plains_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "73417F8610F49110"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "73417F8610F49110"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_plains_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "655FD279C1640209"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "meadow:brown_bear_spawn_egg"
 				id: "0E2E9E5A8F47E342"
@@ -2900,15 +3967,26 @@
 			disable_toast: true
 			hide: true
 			id: "2B9AA10350F86ED8"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_plains_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "03914DFCC3D27C98"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "03914DFCC3D27C98"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_plains_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6359DE4B1AC7D0EE"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "meadow:wooly_cow_spawn_egg"
 				id: "0F63ADCA27600F12"
@@ -2926,15 +4004,26 @@
 			disable_toast: true
 			hide: true
 			id: "0DB50F650352F3F8"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_plains_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "68A5787DC3221995"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "68A5787DC3221995"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_plains_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1E119D3EED2F3125"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "meadow:water_buffalo_spawn_egg"
 				id: "096AD759971CA090"
@@ -2952,15 +4041,26 @@
 			disable_toast: true
 			hide: true
 			id: "6A90FC1BCD199A99"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_plains_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "6B23C8C55ED0ADAE"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6B23C8C55ED0ADAE"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_plains_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "25D673879ACA2842"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "bloomingnature:raccoon_spawn_egg"
 				id: "45E354AD355EB4D9"
@@ -2978,15 +4078,26 @@
 			disable_toast: true
 			hide: true
 			id: "4B07C4D6728B351D"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_plains_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "3D46188C747BAB0C"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3D46188C747BAB0C"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_plains_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "601B7CF3203C65F1"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "bloomingnature:squirrel_spawn_egg"
 				id: "44ECFB3231995058"
@@ -3039,15 +4150,26 @@
 			disable_toast: true
 			hide: true
 			id: "7A76E1B14743846B"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_grass_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "69B0D19ED7D0DEB7"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "69B0D19ED7D0DEB7"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_grass_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "17C92C2322FCF58E"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_fly"
 				id: "15D298D7630D2608"
@@ -3065,15 +4187,26 @@
 			disable_toast: true
 			hide: true
 			id: "5B11A89B9F3B7F0B"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_grass_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "6A6E4CD6CCECE361"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6A6E4CD6CCECE361"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_grass_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6367BF525EA4D2C1"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:pig_spawn_egg"
 				id: "36506EEC2564AE18"
@@ -3091,15 +4224,26 @@
 			disable_toast: true
 			hide: true
 			id: "32C50FED0D7CC117"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_grass_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "2C1DC0F368B3CC87"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2C1DC0F368B3CC87"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_grass_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7263DA38D5AF6552"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:chicken_spawn_egg"
 				id: "5059434775C86E8B"
@@ -3117,15 +4261,26 @@
 			disable_toast: true
 			hide: true
 			id: "66C59A6B8C3E63FF"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_grass_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "2C088B79424B6422"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2C088B79424B6422"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_grass_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0EA94199CB759038"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:rabbit_spawn_egg"
 				id: "5C3EB0AF0854D721"
@@ -3143,15 +4298,26 @@
 			disable_toast: true
 			hide: true
 			id: "3A3D19D9883EF8F3"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_grass_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "6E3A050ACB292817"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6E3A050ACB292817"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_grass_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1B291CAEDED52A3B"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "exoticbirds:pigeon_spawn_egg"
 				id: "36B506D229D5FA16"
@@ -3169,15 +4335,26 @@
 			disable_toast: true
 			hide: true
 			id: "2A0F8A1BD9978F2F"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_grass_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "4CDF95B3D5DC4629"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4CDF95B3D5DC4629"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_grass_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7AF478B11729BA5C"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:sheep_spawn_egg"
 				id: "09F392B1BDBA3313"
@@ -3195,15 +4372,26 @@
 			disable_toast: true
 			hide: true
 			id: "73F2392647C5AF8F"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_grass_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "29D01AA4046EFD6F"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "29D01AA4046EFD6F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_grass_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1F40B3D3BBF2AE12"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:cow_spawn_egg"
 				id: "4D03B4297EDF0229"
@@ -3251,15 +4439,26 @@
 			disable_toast: true
 			hide: true
 			id: "146751189BDC436F"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_caves_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "1191B7AAEF5F986A"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1191B7AAEF5F986A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_caves_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1A621EE9399B1208"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:bat_spawn_egg"
 				id: "5D67EE86CA027380"
@@ -3277,15 +4476,26 @@
 			disable_toast: true
 			hide: true
 			id: "14CABCA3287E1DED"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_caves_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "6C88210D83CD55A7"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6C88210D83CD55A7"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_caves_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2743853787D2B34E"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:glow_squid_spawn_egg"
 				id: "58B2A274840BA894"
@@ -3303,15 +4513,26 @@
 			disable_toast: true
 			hide: true
 			id: "3CA2F45B06BD4293"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_caves_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "0B95EE1F61B87896"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0B95EE1F61B87896"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_caves_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "49722C7402806DAE"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_flutter"
 				id: "2322AFD4CB16EF1A"
@@ -3329,15 +4550,26 @@
 			disable_toast: true
 			hide: true
 			id: "6B813D107CF1D561"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_caves_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "0F28006D28F88CE2"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0F28006D28F88CE2"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_caves_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "55978415BA105997"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_cockroach"
 				id: "52EBF805E455EAFE"
@@ -3355,15 +4587,26 @@
 			disable_toast: true
 			hide: true
 			id: "306283F27FAC08C6"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_caves_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "1F2F602AE7F3031A"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1F2F602AE7F3031A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_caves_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "51E0D49987BFC68F"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:axolotl_spawn_egg"
 				id: "6226524FC93BDDC0"
@@ -3381,15 +4624,26 @@
 			disable_toast: true
 			hide: true
 			id: "3CA3A8FD3CEFB2BC"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_caves_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "5BFCA9D6630AB88B"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5BFCA9D6630AB88B"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_caves_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1A18B7DA1932C629"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "quark:stoneling_spawn_egg"
 				id: "58655BCDE6C23FDD"
@@ -3407,15 +4661,26 @@
 			disable_toast: true
 			hide: true
 			id: "4521BD119D49CEA2"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_caves_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "298F9048E747D401"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "298F9048E747D401"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_caves_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "255382F4E9C308E9"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "quark:toretoise_spawn_egg"
 				id: "36509C3D86244A1F"
@@ -3463,15 +4728,26 @@
 			disable_toast: true
 			hide: true
 			id: "791294BA248BEB43"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_snowy_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "437AF22E2BF7B289"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "437AF22E2BF7B289"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_snowy_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5621D080B6A91F56"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:polar_bear_spawn_egg"
 				id: "0D1A94EF9F3A8107"
@@ -3489,15 +4765,26 @@
 			disable_toast: true
 			hide: true
 			id: "2F727C1A360886AF"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_snowy_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "0969BCABB180C437"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0969BCABB180C437"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_snowy_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3AAF2A618C4C767D"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_moose"
 				id: "4E0086FDAE69D78B"
@@ -3515,15 +4802,26 @@
 			disable_toast: true
 			hide: true
 			id: "14208A22EAAB7B22"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_snowy_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "1CBEC821112B37E7"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1CBEC821112B37E7"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_snowy_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0754CC59742A0AEC"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_snow_leopard"
 				id: "38B51E5EA921C534"
@@ -3541,15 +4839,26 @@
 			disable_toast: true
 			hide: true
 			id: "12787381AAC4C789"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_snowy_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "7991F5E4D9BD5487"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7991F5E4D9BD5487"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_snowy_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1BC84B770B838AD4"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:fox_spawn_egg"
 				id: "52C9C7FA2FEC698E"
@@ -3594,15 +4903,26 @@
 			disable_toast: true
 			hide: true
 			id: "6A1848A8536439BC"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_swamp_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "57840BEBD39070D6"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "57840BEBD39070D6"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_swamp_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0906C472A9DED98C"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_shoebill"
 				id: "7B623FB902DAFCDB"
@@ -3620,15 +4940,26 @@
 			disable_toast: true
 			hide: true
 			id: "42FF1F3BC84C2457"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_swamp_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "26E56DFEC262E56F"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "26E56DFEC262E56F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_swamp_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "510B88CFEEBC8CF8"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_catfish"
 				id: "70B1DCFB3AA82E9B"
@@ -3646,15 +4977,26 @@
 			disable_toast: true
 			hide: true
 			id: "33E57DCC44C58530"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_swamp_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "3D72FCC04477FE58"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3D72FCC04477FE58"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_swamp_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "351DE797C3874C5C"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:frog_spawn_egg"
 				id: "39DBCBE480F7A69E"
@@ -3672,15 +5014,26 @@
 			disable_toast: true
 			hide: true
 			id: "40454E861BA5C176"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_swamp_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "6EB975E6EDD49923"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6EB975E6EDD49923"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_swamp_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "43739A0E69363A1F"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:tadpole_spawn_egg"
 				id: "65C8AE6F0BFD8B89"
@@ -3698,15 +5051,26 @@
 			disable_toast: true
 			hide: true
 			id: "1F47223DB5DC0A0D"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_swamp_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "248DC69ADD30E750"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "248DC69ADD30E750"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_swamp_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4289F0EF5F5DCE00"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_caiman"
 				id: "731394C1119D5CD4"
@@ -3724,15 +5088,26 @@
 			disable_toast: true
 			hide: true
 			id: "407AE5422CB9CEC8"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_swamp_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "6C799D338322E765"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6C799D338322E765"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_swamp_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "764B0997A3207938"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_mudskipper"
 				id: "12553A4D2F7CD7A8"
@@ -3750,15 +5125,26 @@
 			disable_toast: true
 			hide: true
 			id: "2209942B4347201A"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_swamp_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "0144840C4229C789"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "0144840C4229C789"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_swamp_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6B4024EB9D6D6629"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "bloomingnature:mossy_sheep_spawn_egg"
 				id: "552912B6CE92A9A2"
@@ -3776,15 +5162,26 @@
 			disable_toast: true
 			hide: true
 			id: "65BE01D86A99F304"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_swamp_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "48505AC74886F404"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "48505AC74886F404"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_swamp_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2334ADDFD719BE1D"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "bloomingnature:muddy_pig_spawn_egg"
 				id: "00948A21BDF6D925"
@@ -3833,15 +5230,26 @@
 			disable_toast: true
 			hide: true
 			id: "2889D44436A5F88A"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_mushroom_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "06F28A5494043254"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "06F28A5494043254"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_mushroom_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "74D9E314042B68AA"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_bunfungus"
 				id: "41F7D23F2BC4AE0F"
@@ -3859,15 +5267,26 @@
 			disable_toast: true
 			hide: true
 			id: "3AB5CE2851C3022E"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_mushroom_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "2540D86608937A72"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2540D86608937A72"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_mushroom_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4965F527D1F7587C"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_mungus"
 				id: "67F40F8EDB116B17"
@@ -3885,15 +5304,26 @@
 			disable_toast: true
 			hide: true
 			id: "4B55365850E6E6C0"
-			rewards: [{
-				auto: "invisible"
-				command: "/['function fc_collection:animal_watching', 'function fc_collection:animal_watching_mushroom_completion']"
-				elevate_perms: true
-				exclude_from_claim_all: true
-				id: "62E56B1854C50FF3"
-				silent: true
-				type: "command"
-			}]
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "62E56B1854C50FF3"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:animal_watching_mushroom_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4B184C7082BFF2FF"
+					silent: true
+					type: "command"
+				}
+			]
 			tasks: [{
 				icon: "minecraft:mooshroom_spawn_egg"
 				id: "38B752794C9EFB30"

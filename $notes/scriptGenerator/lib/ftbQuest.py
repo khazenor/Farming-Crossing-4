@@ -24,10 +24,14 @@ def questFileContent(icon, filename, title, questContent, orderIndex=1, questGro
 	outStr += f'}}\n'
 	return outStr
 
-def observationQuestContent(questId, icon, name, observe, command, dependency, x=0, y=0, seedStr=''):
+def observationQuestContent(questId, icon, name, observe, commands, dependency, x=0, y=0, seedStr=''):
 	if len(seedStr) > 0:
 		random.seed(qConst.rewardSeedStarter + seedStr)
-	rewardContent = commandRewardContent(command)
+	rewardContent = ''
+	if len(seedStr) > 0:
+		random.seed(qConst.rewardSeedStarter + seedStr)
+	for command in commands:
+		rewardContent += commandRewardContent(command)
 	return questContent(
 		questId,
 		rewardContent,
