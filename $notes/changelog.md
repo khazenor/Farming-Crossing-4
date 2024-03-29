@@ -5,6 +5,7 @@
   - Collection quests updated with new animals, saplings and flowers
   - flowers, spawn eggs added to the market
   - flowers duplicable with bonemeal
+  - logs and leaves are duplicable with tickets
 ## Mods Removed:
 - Botany Pots Tiers
 - chisels and bits

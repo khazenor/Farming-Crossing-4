@@ -211,5 +211,26 @@ buildingMaterials = [
     'vinery:apple_log',
     'vinery:cherry_log',
     'minecraft:warped_stem',
-    'minecraft:crimson_stem'
+    'minecraft:crimson_stem',
+
+    # blooming nature:
+    'bloomingnature:aspen_log',
+    'bloomingnature:baobab_log',
+    'bloomingnature:chestnut_log',
+    'bloomingnature:ebony_log',
+    'bloomingnature:fir_log',
+    'bloomingnature:larch_log',
+    'bloomingnature:palm_log',
+    'bloomingnature:swamp_cypress_log',
+    'bloomingnature:swamp_oak_log',
+    'bloomingnature:aspen_leaves',
+    'bloomingnature:baobab_leaves',
+    'bloomingnature:chestnut_leaves',
+    'bloomingnature:ebony_leaves',
+    'bloomingnature:fir_leaves',
+    'bloomingnature:larch_leaves',
+    'bloomingnature:orange_leaves',
+    'bloomingnature:palm_leaves',
+    'bloomingnature:swamp_cypress_leaves',
+    'bloomingnature:swamp_oak_leaves'
 ]

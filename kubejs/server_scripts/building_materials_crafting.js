@@ -590,5 +590,62 @@ ServerEvents.recipes(event => {
   event.shapeless(
     Item.of('minecraft:crimson_stem', 32),
     ['minecraft:crimson_stem', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('bloomingnature:aspen_log', 32),
+    ['bloomingnature:aspen_log', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('bloomingnature:baobab_log', 32),
+    ['bloomingnature:baobab_log', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('bloomingnature:chestnut_log', 32),
+    ['bloomingnature:chestnut_log', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('bloomingnature:ebony_log', 32),
+    ['bloomingnature:ebony_log', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('bloomingnature:fir_log', 32),
+    ['bloomingnature:fir_log', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('bloomingnature:larch_log', 32),
+    ['bloomingnature:larch_log', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('bloomingnature:palm_log', 32),
+    ['bloomingnature:palm_log', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('bloomingnature:swamp_cypress_log', 32),
+    ['bloomingnature:swamp_cypress_log', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('bloomingnature:swamp_oak_log', 32),
+    ['bloomingnature:swamp_oak_log', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('bloomingnature:aspen_leaves', 32),
+    ['bloomingnature:aspen_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('bloomingnature:baobab_leaves', 32),
+    ['bloomingnature:baobab_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('bloomingnature:chestnut_leaves', 32),
+    ['bloomingnature:chestnut_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('bloomingnature:ebony_leaves', 32),
+    ['bloomingnature:ebony_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('bloomingnature:fir_leaves', 32),
+    ['bloomingnature:fir_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('bloomingnature:larch_leaves', 32),
+    ['bloomingnature:larch_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('bloomingnature:orange_leaves', 32),
+    ['bloomingnature:orange_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('bloomingnature:palm_leaves', 32),
+    ['bloomingnature:palm_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('bloomingnature:swamp_cypress_leaves', 32),
+    ['bloomingnature:swamp_cypress_leaves', 'kubejs:miles_ticket'])
+  event.shapeless(
+    Item.of('bloomingnature:swamp_oak_leaves', 32),
+    ['bloomingnature:swamp_oak_leaves', 'kubejs:miles_ticket'])
 
 })
