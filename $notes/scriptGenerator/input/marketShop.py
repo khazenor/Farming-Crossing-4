@@ -1,4 +1,5 @@
 from list import collectionQuests as cqlist
+from src import questCollectionReader
 
 fcCategoryKey = 'fc'
 floraCategoryKey = 'flora'
@@ -579,49 +580,7 @@ categories = {
       { # flowers
         priceKey: 32,
         productNumKey: 4,
-        itemsKey: [
-          "minecraft:allium",
-          "minecraft:azure_bluet",
-          "minecraft:blue_orchid",
-          "minecraft:cornflower",
-          "minecraft:dandelion",
-          "minecraft:lilac",
-          "minecraft:lily_of_the_valley",
-          "minecraft:orange_tulip",
-          "minecraft:oxeye_daisy",
-          "minecraft:peony",
-          "minecraft:pink_tulip",
-          "minecraft:poppy",
-          "minecraft:red_tulip",
-          "minecraft:sunflower",
-          "minecraft:white_tulip",
-          "minecraft:rose_bush",
-          "biomesoplenty:rose",
-          "biomesoplenty:violet",
-          "biomesoplenty:lavender",
-          "biomesoplenty:tall_lavender",
-          "biomesoplenty:blue_hydrangea",
-          "biomesoplenty:wildflower",
-          "biomesoplenty:goldenrod",
-          "biomesoplenty:orange_cosmos",
-          "biomesoplenty:pink_daffodil",
-          "biomesoplenty:pink_hibiscus",
-          "biomesoplenty:waterlily",
-          "biomesoplenty:white_petals",
-          "biomesoplenty:icy_iris",
-          "biomesoplenty:glowflower",
-          "biomesoplenty:wilted_lily",
-          "biomesoplenty:burning_blossom",
-          "biomesoplenty:cattail",
-          "meadow:enzian",
-          "meadow:fire_lily",
-          "meadow:eriophorum",
-          "meadow:eriophorum_tall",
-          "meadow:alpine_poppy",
-          "meadow:delphinium",
-          "meadow:saxifrage"
-
-        ]
+        itemsKey: cqlist.allFlora
       }
     ]
   },
@@ -728,10 +687,14 @@ categories = {
         priceKey: 64,
         itemsKey: cqlist.allFish
       },
+      { # quest spawn eggs
+        priceKey: 64,
+        itemsKey: questCollectionReader.questSpawnEggs()
+      },
       { # spawn eggs
         priceKey: 64,
         productNumKey: 1,
-        itemsKey: [
+        itemsKey: questCollectionReader.nonQuestSpawnEggs([
           "alexsmobs:spawn_egg_alligator_snapping_turtle",
           "alexsmobs:spawn_egg_anaconda",
           "alexsmobs:spawn_egg_anteater",
@@ -760,7 +723,6 @@ categories = {
           "alexsmobs:spawn_egg_emu",
           "alexsmobs:spawn_egg_endergrade",
           "alexsmobs:spawn_egg_enderiophage",
-          "alexsmobs:spawn_egg_farseer",
           "alexsmobs:spawn_egg_flutter",
           "alexsmobs:spawn_egg_fly",
           "alexsmobs:spawn_egg_flying_fish",
@@ -844,8 +806,6 @@ categories = {
           "minecraft:dolphin_spawn_egg",
           "minecraft:donkey_spawn_egg",
           "minecraft:drowned_spawn_egg",
-          "minecraft:elder_guardian_spawn_egg",
-          "minecraft:ender_dragon_spawn_egg",
           "minecraft:enderman_spawn_egg",
           "minecraft:endermite_spawn_egg",
           "minecraft:evoker_spawn_egg",
@@ -953,7 +913,7 @@ categories = {
           'quark:stoneling_spawn_egg',
           'quark:toretoise_spawn_egg',
           'quark:wraith_spawn_egg'
-        ]
+        ])
       }
     ]
   },
