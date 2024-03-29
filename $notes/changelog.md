@@ -1,16 +1,19 @@
 # 4.0:
 ## Mods Added
 - Little Tiles
+- Let's do: Blooming Nature:
+  - Collection quests updated with new animals, saplings and flowers
+  - flowers, spawn eggs added to the market
+  - flowers duplicable with bonemeal
 ## Mods Removed:
 - Botany Pots Tiers
 - chisels and bits
 - Easy Mob Farm
 - Cuisine Delight
 ## Mods Updated
-- Lets do bakery, beach party, blooming nature
-  - Collection quests updated with new foods, animals, saplings, and flowers
-  - flowers, spawn eggs added to the market
-  - flowers duplicable with bonemeal
+- Let's do:  bakery
+  - Collection quests updated with new foods
+- Let's do: beach party
 # 3.18:
 - as always, remember to backup your world before updating!
 - remove excessive server logging from the lasso crash warning script.
