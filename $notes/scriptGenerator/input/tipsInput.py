@@ -30,7 +30,6 @@ tips = [
   "You can search for key binds by name, key, or category using the search bar in the key binds screen",
   "Holding a builders wand and pressing the key bind [wand menu] allow you to customize the wand.",
   "You can make a condense crop farm using botany bots. Hopper pots also collects crops for you!",
-  "You can upgrade your botany pots for better efficiency. Search '@botanypotstiers' in JEI for more information",
   "In this pack, villagers choose their trades based on previous player interactions. For instance, a librarian you've bought many Looting books from is more likely to offer sword enchantments and luck related enchantments in the future.",
   "In this pack, villagers change their trades every time they restock/every day. This makes it so that you won't have to get rid of villagers with bad trades after having spent resources on them, and it won't be necessary to breed a large number of them either.",
   "Sneak right-click a camera to get more options including photo filters and the ability to upload your own images!",
