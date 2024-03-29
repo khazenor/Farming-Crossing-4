@@ -72,7 +72,9 @@ ItemEvents.tooltip(event => {
       'meadow:eriophorum_tall', 
       'meadow:eriophorum', 
       'meadow:fire_lily', 
-      'meadow:saxifrage'
+      'meadow:saxifrage', 
+      'herbalbrews:hibiscus', 
+      'herbalbrews:lavender'
     ],
     [
       'You can craft more of this flower', 

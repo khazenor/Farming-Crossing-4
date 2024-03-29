@@ -6,16 +6,22 @@
   - flowers, spawn eggs added to the market
   - flowers duplicable with bonemeal
   - logs and leaves are duplicable with tickets
+- Let's do: Brewery:
+  - Brewing stations added to main cooking quest
+  - Beers and Whisky added to the cooking collection questline
+  - Prezels and gingerbread converted to oven recipes
+- Let's do: Herbal Brews
+  - Cauldron and tea kettle added to main cooking quest
+  - potions and teas added to teh cooking collection questline
+  - crops and flowers added to the market
+  - flowers duplicable with bonemeal
 ## Mods Removed:
 - Botany Pots Tiers
 - chisels and bits
 - Easy Mob Farm
 - Cuisine Delight
 ## Mods Updated
-- Let's do:  bakery
-  - Collection quests updated with new foods
-- Let's do: beach party
-- Let's do: candlelight
+- Let's do: bakery, beach party, candlelight, meadow, vinery
 # 3.18:
 - as always, remember to backup your world before updating!
 - remove excessive server logging from the lasso crash warning script.

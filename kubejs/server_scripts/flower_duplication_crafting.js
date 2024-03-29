@@ -215,5 +215,11 @@ ServerEvents.recipes(event => {
   event.shapeless(
     Item.of('meadow:saxifrage', 3),
     ['meadow:saxifrage', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('herbalbrews:hibiscus', 3),
+    ['herbalbrews:hibiscus', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('herbalbrews:lavender', 3),
+    ['herbalbrews:lavender', 'minecraft:bone_meal'])
 
 })

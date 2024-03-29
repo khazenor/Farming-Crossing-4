@@ -4212,6 +4212,72 @@
     },
     {
       "output": {
+        "item": "herbalbrews:tea_blossom",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flora"
+    },
+    {
+      "output": {
+        "item": "herbalbrews:rooibos_leaf",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flora"
+    },
+    {
+      "output": {
+        "item": "herbalbrews:coffee_beans",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flora"
+    },
+    {
+      "output": {
+        "item": "brewery:hops_seeds",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flora"
+    },
+    {
+      "output": {
+        "item": "brewery:barley_seeds",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flora"
+    },
+    {
+      "output": {
+        "item": "brewery:corn_seeds",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flora"
+    },
+    {
+      "output": {
         "item": "minecraft:allium",
         "count": 4
       },
@@ -4994,6 +5060,28 @@
     {
       "output": {
         "item": "meadow:saxifrage",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flora"
+    },
+    {
+      "output": {
+        "item": "herbalbrews:hibiscus",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flora"
+    },
+    {
+      "output": {
+        "item": "herbalbrews:lavender",
         "count": 4
       },
       "payment": {
