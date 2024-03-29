@@ -7,8 +7,10 @@
 - Easy Mob Farm
 - Cuisine Delight
 ## Mods Updated
-- Lets do bakery, beach party
-  - Collection quests updated with new foods
+- Lets do bakery, beach party, blooming nature
+  - Collection quests updated with new foods, animals, and flowers
+  - flowers, spawn eggs added to the market
+  - flowers duplicable with bonemeal
 # 3.18:
 - as always, remember to backup your world before updating!
 - remove excessive server logging from the lasso crash warning script.
