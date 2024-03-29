@@ -123,8 +123,6 @@ possibleWoodFurniture = [
   "candlelight:pasta_bolognese",
   "candlelight:pasta_broccoli",
   "candlelight:pasta_raw",
-  "candlelight:pizza",
-  "candlelight:pizza_slice",
   "candlelight:pork_ribs",
   "candlelight:quartz_counter",
   "candlelight:quartz_kitchen_sink",

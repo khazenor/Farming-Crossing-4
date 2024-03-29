@@ -474,12 +474,6 @@ ItemEvents.tooltip(event => {
       'buys this meal for 5 tickets'
     ])
   event.add(
-		'candlelight:pizza',
-    [
-      'A candlelight customer villager regularly', 
-      'buys this meal for 5 tickets'
-    ])
-  event.add(
 		'candlelight:bolognese',
     [
       'A candlelight customer villager regularly', 

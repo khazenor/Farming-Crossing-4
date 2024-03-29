@@ -168,7 +168,6 @@ pricing = {
     {itemKey: "candlelight:pasta"},
     {itemKey: "candlelight:bolognese"},
     {itemKey: "candlelight:fricasse"},
-    {itemKey: "candlelight:pizza"},
     {itemKey: "meadow:buffalo_cheese_block"},
     {itemKey: "meadow:goat_cheese_block"},
     {itemKey: "meadow:amethyst_cheese_block"}

@@ -4157,67 +4157,67 @@ MoreJSEvents.villagerTrades((event) => {
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 1, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 2, (offer, entity, random) => {
     offer.setFirstInput('2x candlelight:beetroot_salad')
     offer.setOutput('1x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 1, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 2, (offer, entity, random) => {
     offer.setFirstInput('2x candlelight:beetroot_salad')
     offer.setOutput('1x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 1, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 2, (offer, entity, random) => {
     offer.setFirstInput('2x candlelight:beetroot_salad')
     offer.setOutput('1x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 1, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 2, (offer, entity, random) => {
     offer.setFirstInput('2x candlelight:beetroot_salad')
     offer.setOutput('1x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 1, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 2, (offer, entity, random) => {
     offer.setFirstInput('2x candlelight:beetroot_salad')
     offer.setOutput('1x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 1, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 2, (offer, entity, random) => {
     offer.setFirstInput('2x candlelight:beetroot_salad')
     offer.setOutput('1x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 1, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 2, (offer, entity, random) => {
     offer.setFirstInput('2x candlelight:beetroot_salad')
     offer.setOutput('1x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 1, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 2, (offer, entity, random) => {
     offer.setFirstInput('2x candlelight:beetroot_salad')
     offer.setOutput('1x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 1, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 2, (offer, entity, random) => {
     offer.setFirstInput('2x candlelight:beetroot_salad')
     offer.setOutput('1x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 1, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 2, (offer, entity, random) => {
     offer.setFirstInput('2x candlelight:beetroot_salad')
     offer.setOutput('1x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 1, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 2, (offer, entity, random) => {
     offer.setFirstInput('2x candlelight:beetroot_salad')
     offer.setOutput('2x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
@@ -4487,67 +4487,67 @@ MoreJSEvents.villagerTrades((event) => {
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 2, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 3, (offer, entity, random) => {
     offer.setFirstInput('1x candlelight:tomato_soup')
     offer.setOutput('3x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 2, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 3, (offer, entity, random) => {
     offer.setFirstInput('1x candlelight:tomato_soup')
     offer.setOutput('3x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 2, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 3, (offer, entity, random) => {
     offer.setFirstInput('1x candlelight:tomato_soup')
     offer.setOutput('3x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 2, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 3, (offer, entity, random) => {
     offer.setFirstInput('1x candlelight:tomato_soup')
     offer.setOutput('3x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 2, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 3, (offer, entity, random) => {
     offer.setFirstInput('1x candlelight:tomato_soup')
     offer.setOutput('3x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 2, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 3, (offer, entity, random) => {
     offer.setFirstInput('1x candlelight:tomato_soup')
     offer.setOutput('3x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 2, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 3, (offer, entity, random) => {
     offer.setFirstInput('1x candlelight:tomato_soup')
     offer.setOutput('3x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 2, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 3, (offer, entity, random) => {
     offer.setFirstInput('1x candlelight:tomato_soup')
     offer.setOutput('3x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 2, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 3, (offer, entity, random) => {
     offer.setFirstInput('1x candlelight:tomato_soup')
     offer.setOutput('4x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 2, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 3, (offer, entity, random) => {
     offer.setFirstInput('1x candlelight:tomato_soup')
     offer.setOutput('4x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 2, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 3, (offer, entity, random) => {
     offer.setFirstInput('1x candlelight:tomato_soup')
     offer.setOutput('6x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
@@ -4817,67 +4817,67 @@ MoreJSEvents.villagerTrades((event) => {
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 3, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 4, (offer, entity, random) => {
     offer.setFirstInput('1x candlelight:roastbeef_carrots')
     offer.setOutput('3x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 3, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 4, (offer, entity, random) => {
     offer.setFirstInput('1x candlelight:roastbeef_carrots')
     offer.setOutput('3x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 3, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 4, (offer, entity, random) => {
     offer.setFirstInput('1x candlelight:roastbeef_carrots')
     offer.setOutput('3x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 3, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 4, (offer, entity, random) => {
     offer.setFirstInput('1x candlelight:roastbeef_carrots')
     offer.setOutput('3x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 3, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 4, (offer, entity, random) => {
     offer.setFirstInput('1x candlelight:roastbeef_carrots')
     offer.setOutput('3x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 3, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 4, (offer, entity, random) => {
     offer.setFirstInput('1x candlelight:roastbeef_carrots')
     offer.setOutput('3x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 3, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 4, (offer, entity, random) => {
     offer.setFirstInput('1x candlelight:roastbeef_carrots')
     offer.setOutput('3x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 3, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 4, (offer, entity, random) => {
     offer.setFirstInput('1x candlelight:roastbeef_carrots')
     offer.setOutput('3x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 3, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 4, (offer, entity, random) => {
     offer.setFirstInput('1x candlelight:roastbeef_carrots')
     offer.setOutput('4x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 3, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 4, (offer, entity, random) => {
     offer.setFirstInput('1x candlelight:roastbeef_carrots')
     offer.setOutput('4x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 3, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 4, (offer, entity, random) => {
     offer.setFirstInput('1x candlelight:roastbeef_carrots')
     offer.setOutput('6x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
@@ -5147,134 +5147,68 @@ MoreJSEvents.villagerTrades((event) => {
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 4, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 5, (offer, entity, random) => {
     offer.setFirstInput('1x candlelight:fricasse')
     offer.setOutput('5x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 4, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 5, (offer, entity, random) => {
     offer.setFirstInput('1x candlelight:fricasse')
     offer.setOutput('5x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 4, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 5, (offer, entity, random) => {
     offer.setFirstInput('1x candlelight:fricasse')
     offer.setOutput('5x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 4, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 5, (offer, entity, random) => {
     offer.setFirstInput('1x candlelight:fricasse')
     offer.setOutput('5x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 4, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 5, (offer, entity, random) => {
     offer.setFirstInput('1x candlelight:fricasse')
     offer.setOutput('5x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 4, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 5, (offer, entity, random) => {
     offer.setFirstInput('1x candlelight:fricasse')
     offer.setOutput('5x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 4, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 5, (offer, entity, random) => {
     offer.setFirstInput('1x candlelight:fricasse')
     offer.setOutput('5x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 4, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 5, (offer, entity, random) => {
     offer.setFirstInput('1x candlelight:fricasse')
     offer.setOutput('5x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 4, (offer, entity, random) => {
-    offer.setFirstInput('1x candlelight:fricasse')
-    offer.setOutput('6x kubejs:miles_ticket')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 4, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 5, (offer, entity, random) => {
     offer.setFirstInput('1x candlelight:fricasse')
     offer.setOutput('6x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 4, (offer, entity, random) => {
+  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 5, (offer, entity, random) => {
     offer.setFirstInput('1x candlelight:fricasse')
-    offer.setOutput('10x kubejs:miles_ticket')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 5, (offer, entity, random) => {
-    offer.setFirstInput('1x candlelight:pizza')
-    offer.setOutput('5x kubejs:miles_ticket')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 5, (offer, entity, random) => {
-    offer.setFirstInput('1x candlelight:pizza')
-    offer.setOutput('5x kubejs:miles_ticket')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 5, (offer, entity, random) => {
-    offer.setFirstInput('1x candlelight:pizza')
-    offer.setOutput('5x kubejs:miles_ticket')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 5, (offer, entity, random) => {
-    offer.setFirstInput('1x candlelight:pizza')
-    offer.setOutput('5x kubejs:miles_ticket')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 5, (offer, entity, random) => {
-    offer.setFirstInput('1x candlelight:pizza')
-    offer.setOutput('5x kubejs:miles_ticket')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 5, (offer, entity, random) => {
-    offer.setFirstInput('1x candlelight:pizza')
-    offer.setOutput('5x kubejs:miles_ticket')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 5, (offer, entity, random) => {
-    offer.setFirstInput('1x candlelight:pizza')
-    offer.setOutput('5x kubejs:miles_ticket')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 5, (offer, entity, random) => {
-    offer.setFirstInput('1x candlelight:pizza')
-    offer.setOutput('5x kubejs:miles_ticket')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 5, (offer, entity, random) => {
-    offer.setFirstInput('1x candlelight:pizza')
     offer.setOutput('6x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)
   })
   event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 5, (offer, entity, random) => {
-    offer.setFirstInput('1x candlelight:pizza')
-    offer.setOutput('6x kubejs:miles_ticket')
-    offer.setVillagerExperience(25)
-    offer.setPriceMultiplier(0.035)
-  })
-  event.addCustomTrade('spacecatcustomprofessions:candlelight_customer', 5, (offer, entity, random) => {
-    offer.setFirstInput('1x candlelight:pizza')
+    offer.setFirstInput('1x candlelight:fricasse')
     offer.setOutput('10x kubejs:miles_ticket')
     offer.setVillagerExperience(25)
     offer.setPriceMultiplier(0.035)

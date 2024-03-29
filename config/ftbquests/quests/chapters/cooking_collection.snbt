@@ -3531,39 +3531,6 @@
 			dependencies: ["48C7E0AF4C9A3C3E"]
 			disable_toast: true
 			hide: true
-			id: "3566C2114BBBB697"
-			rewards: [
-				{
-					auto: "invisible"
-					command: "/function fc_collection:cooking_collection"
-					elevate_perms: true
-					exclude_from_claim_all: true
-					id: "7085FC3A9F9C3D25"
-					silent: true
-					type: "command"
-				}
-				{
-					auto: "invisible"
-					command: "/function fc_collection:cooking_collection_cooking_pan_recipes_completion"
-					elevate_perms: true
-					exclude_from_claim_all: true
-					id: "68511269C4B5D4A5"
-					silent: true
-					type: "command"
-				}
-			]
-			tasks: [{
-				id: "63C5AD9F6EECD08C"
-				item: "candlelight:pizza"
-				type: "item"
-			}]
-			x: 4.0d
-			y: -13.0d
-		}
-		{
-			dependencies: ["48C7E0AF4C9A3C3E"]
-			disable_toast: true
-			hide: true
 			id: "2C79D805EEE88CDB"
 			rewards: [
 				{
@@ -3590,7 +3557,7 @@
 				item: "candlelight:cooked_beef"
 				type: "item"
 			}]
-			x: 5.0d
+			x: 4.0d
 			y: -13.0d
 		}
 		{
@@ -3623,8 +3590,8 @@
 				item: "candlelight:bolognese"
 				type: "item"
 			}]
-			x: 0.0d
-			y: -12.0d
+			x: 5.0d
+			y: -13.0d
 		}
 		{
 			dependencies: ["48C7E0AF4C9A3C3E"]
@@ -3656,7 +3623,7 @@
 				item: "candlelight:chicken_alfredo"
 				type: "item"
 			}]
-			x: 1.0d
+			x: 0.0d
 			y: -12.0d
 		}
 		{
@@ -3689,7 +3656,7 @@
 				item: "candlelight:lettuce_beef"
 				type: "item"
 			}]
-			x: 2.0d
+			x: 1.0d
 			y: -12.0d
 		}
 		{
@@ -3722,7 +3689,7 @@
 				item: "candlelight:pasta_bolognese"
 				type: "item"
 			}]
-			x: 3.0d
+			x: 2.0d
 			y: -12.0d
 		}
 		{
@@ -3755,7 +3722,7 @@
 				item: "candlelight:pasta_lettuce"
 				type: "item"
 			}]
-			x: 4.0d
+			x: 3.0d
 			y: -12.0d
 		}
 		{
@@ -3764,7 +3731,6 @@
 				"2C5F3F5282699ADC"
 				"5562867C8991E382"
 				"01C5F36EA3F8CFB2"
-				"3566C2114BBBB697"
 				"2C79D805EEE88CDB"
 				"6D098667CB82A202"
 				"5D71A19F24327AE8"
@@ -3782,7 +3748,7 @@
 			id: "5DA563CAFEFACDBB"
 			rewards: [
 				{
-					count: 15
+					count: 14
 					id: "32F77CFC213126BA"
 					item: "kubejs:miles_ticket"
 					type: "item"

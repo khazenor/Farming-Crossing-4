@@ -184,7 +184,6 @@ foodCookingPan = [
   'candlelight:fricasse',
   'candlelight:roastbeef_carrots',
   'candlelight:beef_wellington',
-  'candlelight:pizza',
   'candlelight:cooked_beef',
   'candlelight:bolognese',
   'candlelight:chicken_alfredo',
