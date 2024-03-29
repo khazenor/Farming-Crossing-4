@@ -8,7 +8,7 @@
 - Cuisine Delight
 ## Mods Updated
 - Lets do bakery, beach party, blooming nature
-  - Collection quests updated with new foods, animals, and flowers
+  - Collection quests updated with new foods, animals, saplings, and flowers
   - flowers, spawn eggs added to the market
   - flowers duplicable with bonemeal
 # 3.18:

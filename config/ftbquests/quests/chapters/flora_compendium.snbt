@@ -4845,6 +4845,303 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			disable_toast: true
 			hide: true
+			id: "6C29B4172514CD05"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "295CBAC23D7122BC"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_modded_sapling_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2321F16C732A9203"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "170C5309DC16EEC6"
+				item: "bloomingnature:aspen_sapling"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 28.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "654C32445D8B44A3"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3F10A5A33D95C295"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_modded_sapling_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1AC0D2D7E5B6E526"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "103B6C0F72C9E016"
+				item: "bloomingnature:baobab_sapling"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 28.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "335DD5542AC60DFA"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "55250788E8D3E926"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_modded_sapling_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "20D1AD73BD6DD04C"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "574C52F2140D986B"
+				item: "bloomingnature:chestnut_sapling"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 28.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "2B28CCBDCB181419"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "15149A67EFA480D2"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_modded_sapling_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "760DA0C533887FC3"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "1E3E711D94831810"
+				item: "bloomingnature:ebony_sapling"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 28.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "053FA6BC207FE238"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "09DC2C3D3D3A5EA5"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_modded_sapling_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4E398B57348B59F7"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "7964BB41697298AE"
+				item: "bloomingnature:fir_sapling"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 29.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "6497CEC27A583126"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "39B05CEFD8933CE9"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_modded_sapling_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "790134577F7FC28F"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "41BBBE4BAC4D90F5"
+				item: "bloomingnature:larch_sapling"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 29.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "655F39A86378B8C9"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3430253A777751B8"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_modded_sapling_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1BB4866719821FF9"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "6BD7BBE1A8F4B21D"
+				item: "bloomingnature:palm_sapling"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 29.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "77C233EDE47D9BBE"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6E939393B4F00AB0"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_modded_sapling_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7B0EDA39C47EC41A"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "007D979F73CAE06E"
+				item: "bloomingnature:swamp_cypress_sapling"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 29.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "59A9AB03085599C9"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "751BB8B1462D323F"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_modded_sapling_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "248D3EC9EE3B50E0"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "34B8B9295376780F"
+				item: "bloomingnature:swamp_oak_sapling"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 29.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
 			id: "24ACD63AA34E573E"
 			rewards: [
 				{
@@ -4871,8 +5168,8 @@
 				item: "beachparty:palm_sapling"
 				type: "item"
 			}]
-			x: 2.0d
-			y: 28.5d
+			x: 5.0d
+			y: 29.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4904,8 +5201,8 @@
 				item: "meadow:pine_sapling"
 				type: "item"
 			}]
-			x: 3.0d
-			y: 28.5d
+			x: 0.0d
+			y: 30.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4937,8 +5234,8 @@
 				item: "vinery:cherry_sapling"
 				type: "item"
 			}]
-			x: 4.0d
-			y: 28.5d
+			x: 1.0d
+			y: 30.5d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -4970,8 +5267,8 @@
 				item: "vinery:apple_tree_sapling"
 				type: "item"
 			}]
-			x: 5.0d
-			y: 28.5d
+			x: 2.0d
+			y: 30.5d
 		}
 		{
 			dependencies: [
@@ -4995,6 +5292,15 @@
 				"7C9C9387B8281F47"
 				"6467E93D23D63EFA"
 				"13432ADC63C601B4"
+				"6C29B4172514CD05"
+				"654C32445D8B44A3"
+				"335DD5542AC60DFA"
+				"2B28CCBDCB181419"
+				"053FA6BC207FE238"
+				"6497CEC27A583126"
+				"655F39A86378B8C9"
+				"77C233EDE47D9BBE"
+				"59A9AB03085599C9"
 				"24ACD63AA34E573E"
 				"6551AA8053CCC483"
 				"7FB23B8B23C666BB"
@@ -5003,7 +5309,7 @@
 			icon: "kubejs:miles_ticket"
 			id: "5A9C2CC1DCFC0971"
 			rewards: [{
-				count: 35
+				count: 54
 				id: "68D30EF8CC69D8D0"
 				item: "kubejs:miles_ticket"
 				type: "item"
@@ -5018,7 +5324,7 @@
 			}]
 			title: "Modded Sapling Completion"
 			x: -1.0d
-			y: 27.0d
+			y: 28.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5051,7 +5357,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 30.0d
+			y: 32.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5084,7 +5390,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 30.0d
+			y: 32.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5117,7 +5423,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 30.0d
+			y: 32.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5150,7 +5456,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 30.0d
+			y: 32.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5183,7 +5489,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 30.0d
+			y: 32.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5216,7 +5522,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 30.0d
+			y: 32.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5249,7 +5555,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 31.0d
+			y: 33.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5282,7 +5588,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 31.0d
+			y: 33.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5315,7 +5621,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 31.0d
+			y: 33.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5348,7 +5654,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 31.0d
+			y: 33.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5381,7 +5687,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 31.0d
+			y: 33.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5414,7 +5720,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 31.0d
+			y: 33.0d
 		}
 		{
 			dependencies: ["0EABDA42EA87C46C"]
@@ -5447,7 +5753,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 32.0d
+			y: 34.0d
 		}
 		{
 			dependencies: [
@@ -5483,7 +5789,7 @@
 			}]
 			title: "Misc Flora Completion"
 			x: -1.0d
-			y: 31.0d
+			y: 33.0d
 		}
 	]
 	title: "Flora Compendium"
