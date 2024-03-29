@@ -84,7 +84,7 @@ questlines = [
       },
       { # Beaches
         nameKey: 'Beaches Completion',
-        iconKey: 'beachparty:beach_umbrella',
+        iconKey: 'artifacts:umbrella',
         dependencyIdKey: '2D62FBEF18E6ABF6', # Spotting animals
         tasksKey: [
           {
@@ -131,6 +131,11 @@ questlines = [
             iconKey: "quark:crab_spawn_egg",
             nameKey: "Spot a Crab",
             observeKey: "quark:crab"
+          },
+          {
+            observeKey: 'bloomingnature:pelican',
+            nameKey: 'Spot a pelican',
+            iconKey: 'bloomingnature:pelican_spawn_egg'
           }
         ]
       },
@@ -346,8 +351,32 @@ questlines = [
             iconKey: "exoticbirds:kookaburra_spawn_egg",
             nameKey: "Spot a Kookaburra",
             observeKey: "exoticbirds:kookaburra"
+          },
+          {
+            observeKey: 'bloomingnature:deer',
+            nameKey: 'Spot a deer',
+            iconKey: 'bloomingnature:deer_spawn_egg'
+          },
+          {
+            observeKey: 'bloomingnature:turkey',
+            nameKey: 'Spot a turkey',
+            iconKey: 'bloomingnature:turkey_spawn_egg'
+          },
+          {
+            observeKey: 'bloomingnature:owl',
+            nameKey: 'Spot a owl',
+            iconKey: 'bloomingnature:owl_spawn_egg'
+          },
+          {
+            observeKey: 'bloomingnature:boar',
+            nameKey: 'Spot a boar',
+            iconKey: 'bloomingnature:boar_spawn_egg'
+          },
+          {
+            observeKey: 'bloomingnature:red_wolf',
+            nameKey: 'Spot a red wolf',
+            iconKey: 'bloomingnature:red_wolf_spawn_egg'
           }
-
         ]
       },
       { # Jungle
@@ -525,6 +554,11 @@ questlines = [
             iconKey: "exoticbirds:woodpecker_spawn_egg",
             nameKey: "Spot a Woodpecker",
             observeKey: "exoticbirds:woodpecker"
+          },
+          {
+            observeKey: 'bloomingnature:bison',
+            nameKey: 'Spot a bison',
+            iconKey: 'bloomingnature:bison_spawn_egg'
           }
         ]
       },
@@ -582,6 +616,16 @@ questlines = [
             iconKey: "meadow:water_buffalo_spawn_egg",
             nameKey: "Spot a Water Buffalo",
             observeKey: "meadow:water_buffalo"
+          },
+          {
+            observeKey: 'bloomingnature:raccoon',
+            nameKey: 'Spot a raccoon',
+            iconKey: 'bloomingnature:raccoon_spawn_egg'
+          },
+          {
+            observeKey: 'bloomingnature:squirrel',
+            nameKey: 'Spot a squirrel',
+            iconKey: 'bloomingnature:squirrel_spawn_egg'
           }
         ]
       },
@@ -730,6 +774,16 @@ questlines = [
             iconKey: "alexsmobs:spawn_egg_mudskipper",
             nameKey: "Spot a mudskipper",
             observeKey: "alexsmobs:mudskipper"
+          },
+          {
+            observeKey: 'bloomingnature:mossy_sheep',
+            nameKey: 'Spot a mossy sheep',
+            iconKey: 'bloomingnature:mossy_sheep_spawn_egg'
+          },
+          {
+            observeKey: 'bloomingnature:muddy_pig',
+            nameKey: 'Spot a muddy pig',
+            iconKey: 'bloomingnature:muddy_pig_spawn_egg'
           }
         ]
       },
@@ -954,6 +1008,12 @@ questlines = [
         iconKey: 'kubejs:miles_ticket',
         dependencyIdKey: '0EABDA42EA87C46C',
         tasksKey: cqlist.floraFlowerBiomesoPlenty
+      },
+      { # Blooming Nature Flowers
+        nameKey: 'Blooming Nature Flowers Completion',
+        iconKey: 'kubejs:miles_ticket',
+        dependencyIdKey: '0EABDA42EA87C46C',
+        tasksKey: cqlist.floraFlowerBloomingNature
       },
       { # Misc Flowers
         nameKey: 'Misc Flower Completion',

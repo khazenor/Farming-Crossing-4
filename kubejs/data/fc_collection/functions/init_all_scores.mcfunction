@@ -88,6 +88,8 @@ scoreboard objectives add flora_compendium_vanilla_flower_completion dummy {"tex
 scoreboard players set @p flora_compendium_vanilla_flower_completion 0
 scoreboard objectives add flora_compendium_biomes_o_plenty_flowers_completion dummy {"text":"flora_compendium_biomes_o_plenty_flowers_completion"}
 scoreboard players set @p flora_compendium_biomes_o_plenty_flowers_completion 0
+scoreboard objectives add flora_compendium_blooming_nature_flowers_completion dummy {"text":"flora_compendium_blooming_nature_flowers_completion"}
+scoreboard players set @p flora_compendium_blooming_nature_flowers_completion 0
 scoreboard objectives add flora_compendium_misc_flower_completion dummy {"text":"flora_compendium_misc_flower_completion"}
 scoreboard players set @p flora_compendium_misc_flower_completion 0
 scoreboard objectives add flora_compendium_vanilla_sapling_completion dummy {"text":"flora_compendium_vanilla_sapling_completion"}

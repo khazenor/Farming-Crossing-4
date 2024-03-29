@@ -1,3 +1,3 @@
 scoreboard players add @p animal_watching_plains_completion 1
-tellraw @p ["", {"text":"Plains Completion ("}, {"score":{"name":"@p","objective":"animal_watching_plains_completion"}}, {"text":"/10)"}]
+tellraw @p ["", {"text":"Plains Completion ("}, {"score":{"name":"@p","objective":"animal_watching_plains_completion"}}, {"text":"/12)"}]
 tellraw @p [""]

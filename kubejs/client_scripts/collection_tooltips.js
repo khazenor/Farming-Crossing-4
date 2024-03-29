@@ -476,6 +476,41 @@ ItemEvents.tooltip(event => {
     ])
   event.add(
     [
+      'bloomingnature:reed', 
+      'bloomingnature:cattail', 
+      'bloomingnature:begonie', 
+      'bloomingnature:joe_pye', 
+      'bloomingnature:mountain_laurel', 
+      'bloomingnature:tall_mountain_laurel', 
+      'bloomingnature:hyssop', 
+      'bloomingnature:mountain_snowbell', 
+      'bloomingnature:bottlebrushes', 
+      'bloomingnature:daphne', 
+      'bloomingnature:wild_sunflower', 
+      'bloomingnature:golden_rod', 
+      'bloomingnature:bird_of_paradise', 
+      'bloomingnature:white_orchid', 
+      'bloomingnature:bluebell', 
+      'bloomingnature:goatsbeard', 
+      'bloomingnature:genisteae', 
+      'bloomingnature:foxglove_white', 
+      'bloomingnature:foxglove_pink', 
+      'bloomingnature:freesia_yellow', 
+      'bloomingnature:freesia_pink', 
+      'bloomingnature:lupine_blue', 
+      'bloomingnature:tall_lupine_blue', 
+      'bloomingnature:lupine_purple', 
+      'bloomingnature:tall_lupine_purple', 
+      'bloomingnature:beach_bush', 
+      'bloomingnature:beach_bush_tall', 
+      'bloomingnature:beach_grass'
+    ],
+    [
+      'Flora Compendium', 
+      'Blooming Nature Flowers Completion'
+    ])
+  event.add(
+    [
       'alexsmobs:acacia_blossom', 
       'candlelight:rose', 
       'meadow:alpine_poppy', 

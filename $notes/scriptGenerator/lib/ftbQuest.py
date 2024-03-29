@@ -31,7 +31,7 @@ def observationQuestContent(questId, icon, name, observe, command, dependency, x
 	return questContent(
 		questId,
 		rewardContent,
-		observationTaskContent(icon, name, observe),
+		observationTaskContent(icon, name, observe, seedStr=seedStr),
 		x=x,
 		y=y,
 		dependencies=[dependency],
@@ -44,11 +44,10 @@ def collectionQuestContent(questId, itemId, commands, dependency, x=0, y=0, seed
 		random.seed(qConst.rewardSeedStarter + seedStr)
 	for command in commands:
 		rewardContent += commandRewardContent(command)
-	random.seed(seedStr)
 	return questContent(
 		questId,
 		rewardContent,
-		simpleItemContent(itemId),
+		simpleItemContent(itemId, seedStr=seedStr),
 		x=x,
 		y=y,
 		dependencies=[dependency],
@@ -124,7 +123,9 @@ def questContent(
 
 	return outStr
 
-def simpleItemContent(itemId, count=1):
+def simpleItemContent(itemId, count=1, seedStr=''):
+	if len(seedStr) > 0:
+		random.seed(seedStr+itemId)
 	outStr = ''
 	outStr += f'		{{\n'
 	if count > 1:
@@ -135,7 +136,9 @@ def simpleItemContent(itemId, count=1):
 	outStr += f'		}}\n'
 	return outStr
 
-def observationTaskContent(icon, title, observation):
+def observationTaskContent(icon, title, observation, seedStr=''):
+	if len(seedStr) > 0:
+		random.seed(seedStr+'observation')
 	outStr = ''
 	outStr += '				{\n'
 	outStr += f'					icon: "{icon}"\n'
