@@ -1,0 +1,50 @@
+{
+  "type": "lootbags:loot",
+  "name": "Crowns Clothing Collection Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "cosmeticarmoursmod:crown_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:diamond_crown_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:emerald_crown_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:flower_crown_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:prismarine_plated_crown_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:quartz_crown_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:redstone_crown_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:amethyst_crown_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:amethyst_plated_crown_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:rose_gold_plated_crown_helmet",
+        "weight": 1
+      }
+    ]
+  }
+}

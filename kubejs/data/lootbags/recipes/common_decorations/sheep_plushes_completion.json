@@ -1,0 +1,74 @@
+{
+  "type": "lootbags:loot",
+  "name": "Sheep Plushes Common Decorations Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "moa_decor_toys:ovejablanca",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:ovejagrisclara",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:ovejagris",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:ovejanegra",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:ovejacafe",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:ovejaroja",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:ovejanaranja",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:ovejaamarilla",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:ovejaverdelima",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:ovejaverde",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:ovejacian",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:ovejaazulclara",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:ovejaazul",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:ovejamorada",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:ovejamagenta",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:ovejarosa",
+        "weight": 1
+      }
+    ]
+  }
+}

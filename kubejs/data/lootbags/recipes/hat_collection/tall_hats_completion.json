@@ -1,0 +1,42 @@
+{
+  "type": "lootbags:loot",
+  "name": "Tall Hats Hat Collection Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "simplehats:dimmahat",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:topcathat",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:julydouble",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:popehat",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:rgbtoptophathat",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:tophat",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:toptophathat",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:fishing_hat",
+        "weight": 1
+      }
+    ]
+  }
+}

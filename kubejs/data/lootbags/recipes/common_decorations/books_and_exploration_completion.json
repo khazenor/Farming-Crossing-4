@@ -1,0 +1,50 @@
+{
+  "type": "lootbags:loot",
+  "name": "Books and Exploration Common Decorations Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "moa_decor_science:telescopio",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_science:globoterraqueo",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_science:brujula",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_science:mapadeltesoro",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_science:libro",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_science:libroabierto",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_science:libroytintero",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_science:tintero",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_science:libros",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_science:librosapilados",
+        "weight": 1
+      }
+    ]
+  }
+}

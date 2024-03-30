@@ -1,0 +1,106 @@
+{
+  "type": "lootbags:loot",
+  "name": "Eyewear Hat Collection Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "simplehats:eyepatch",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:doubletake",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:dangeresquejuly",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:dangereqsue",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:cheeseslice",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:bluefireeye",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:bigeyes",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:bandanargb",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:bandana",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:monkeyking",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:monocle",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:redeyes",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:rgbsunglasses",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:rock",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:sunglasses",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:sunglassesbig",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:triangleshades",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:circular_glasses",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:lightning_eyes",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:sleepeyemask",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:sport_sunglasses",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:mistletoe",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:grinchhat",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:goggles",
+        "weight": 1
+      }
+    ]
+  }
+}

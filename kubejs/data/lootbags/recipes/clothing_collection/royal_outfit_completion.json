@@ -1,0 +1,82 @@
+{
+  "type": "lootbags:loot",
+  "name": "Royal Outfit Clothing Collection Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "cosmeticarmoursmod:royal_tunic_black_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:royal_tunic_blue_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:royal_tunic_brown_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:royal_tunic_cyan_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:royal_tunic_green_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:royal_tunic_grey_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:royal_tunic_light_blue_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:royal_tunic_light_grey_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:royal_tunic_lime_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:royal_tunic_magenta_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:royal_tunic_orange_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:royal_tunic_pink_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:royal_tunic_purple_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:royal_tunic_red_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:royal_tunic_white_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:royal_tunic_yellow_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:royal_leggings",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:royal_boots",
+        "weight": 1
+      }
+    ]
+  }
+}

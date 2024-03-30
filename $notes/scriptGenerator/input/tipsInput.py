@@ -8,7 +8,8 @@ tips = [
   "You can convert concrete powder to concrete just by putting it in the crafting table.",
   "There are many things available in the market if you have tickets! Search 'market' in JEI to find out more!",
   "Resource packs and data packs located in the resource folder are auto-included in this modpack. To disable this you can update the config in config\global_data_and_resourcepacks.toml",
-  
+  "Having trouble finding the right decorations or clothing on sale? check out clothing and decoration kits for sell in the market!",
+
   # duplication
   "Many flowers can be duplicated in the crafting table with bone meal",
   "You can duplicate common decorations by crafting it with a miles ticket",

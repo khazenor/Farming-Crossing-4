@@ -1,0 +1,90 @@
+{
+  "type": "lootbags:loot",
+  "name": "Knight Armor Clothing Collection Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "cosmeticarmoursmod:blue_knight_helmet_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:blue_knight_armour_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:blue_knight_armour_leggings",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:blue_knight_armour_boots",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:green_knight_helmet_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:green_knight_armour_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:green_knight_armour_leggings",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:green_knight_armour_boots",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:orange_knight_helmet_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:orange_knight_armour_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:orange_knight_armour_leggings",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:orange_knight_armour_boots",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:pink_knight_helmet_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:pink_knight_armour_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:pink_knight_armour_leggings",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:pink_knight_armour_boots",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:red_knight_helmet_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:red_knight_armour_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:red_knight_armour_leggings",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:red_knight_armour_boots",
+        "weight": 1
+      }
+    ]
+  }
+}

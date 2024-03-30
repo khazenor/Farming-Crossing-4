@@ -1,0 +1,54 @@
+{
+  "type": "lootbags:loot",
+  "name": "Oneul Misc Music Disc Rare Decorations Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "kubejs:oneul_april_daisy",
+        "weight": 1
+      },
+      {
+        "stack": "kubejs:oneul_autumn_breeze",
+        "weight": 1
+      },
+      {
+        "stack": "kubejs:oneul_chocolate_world",
+        "weight": 1
+      },
+      {
+        "stack": "kubejs:oneul_cookie_tree",
+        "weight": 1
+      },
+      {
+        "stack": "kubejs:oneul_full_moon",
+        "weight": 1
+      },
+      {
+        "stack": "kubejs:oneul_miracle_morning",
+        "weight": 1
+      },
+      {
+        "stack": "kubejs:oneul_morning_peppermint",
+        "weight": 1
+      },
+      {
+        "stack": "kubejs:oneul_raindrops",
+        "weight": 1
+      },
+      {
+        "stack": "kubejs:oneul_roommate",
+        "weight": 1
+      },
+      {
+        "stack": "kubejs:oneul_snow_dance",
+        "weight": 1
+      },
+      {
+        "stack": "kubejs:oneul_winter_glow",
+        "weight": 1
+      }
+    ]
+  }
+}

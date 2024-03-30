@@ -1,0 +1,1423 @@
+{
+  "customCategories": {
+    "clothes_and_deco_kits": {
+      "name": "Clothes and Decoration Kits",
+      "icon": {
+        "item": "moa_decor_holidays:olladeoro"
+      }
+    }
+  },
+  "customEntries": [
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/handheld_instruments_completion",
+          "Name": "Handheld Instruments Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/trophies_completion",
+          "Name": "Trophies Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 6
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/snare_completion",
+          "Name": "Snare Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/mariachi_completion",
+          "Name": "Mariachi Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/graveyard_completion",
+          "Name": "Graveyard Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/bathroom_completion",
+          "Name": "Bathroom Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/arts_completion",
+          "Name": "Arts Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/film_completion",
+          "Name": "Film Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/festive_completion",
+          "Name": "Festive Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/books_and_exploration_completion",
+          "Name": "Books and Exploration Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 6
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/lab_completion",
+          "Name": "Lab Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/sheep_plushes_completion",
+          "Name": "Sheep Plushes Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/horse_plushes_completion",
+          "Name": "Horse Plushes Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/home_animal_plushes_completion",
+          "Name": "Home Animal Plushes Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/rabbit_plushes_completion",
+          "Name": "Rabbit Plushes Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/cat_plushes_completion",
+          "Name": "Cat Plushes Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 6
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/parrot_plushes_completion",
+          "Name": "Parrot Plushes Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/frog_plushes_completion",
+          "Name": "Frog Plushes Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 12
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/llama_plushes_completion",
+          "Name": "Llama Plushes Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 12
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/wild_animal_plushes_completion",
+          "Name": "Wild Animal Plushes Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 6
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/axolotl_plushes_completion",
+          "Name": "Axolotl Plushes Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/water_animal_plushes_completion",
+          "Name": "Water Animal Plushes Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 12
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/village_plushes_completion",
+          "Name": "Village Plushes Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 6
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/nether_plushes_completion",
+          "Name": "Nether Plushes Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 6
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/zombie_plushes_completion",
+          "Name": "Zombie Plushes Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/raid_plushes_completion",
+          "Name": "Raid Plushes Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/hostile_plushes_completion",
+          "Name": "Hostile Plushes Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/boss_plushes_completion",
+          "Name": "Boss Plushes Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 12
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/toys_completion",
+          "Name": "Toys Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/flower_shelf_completion",
+          "Name": "Flower Shelf Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/bicycles_completion",
+          "Name": "Bicycles Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/record_players_completion",
+          "Name": "Record Players Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 12
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/fridges_completion",
+          "Name": "Fridges Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 12
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/birdhouse_completion",
+          "Name": "Birdhouse Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 12
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/wall_decorations_completion",
+          "Name": "Wall Decorations Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 6
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/lamps_completion",
+          "Name": "Lamps Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 6
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/zelda_completion",
+          "Name": "Zelda Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/rubiks_cube_completion",
+          "Name": "Rubiks Cube Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 12
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/sims_completion",
+          "Name": "Sims Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 12
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/starbound_completion",
+          "Name": "Starbound Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/animal_crossing_completion",
+          "Name": "Animal Crossing Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/overwatch_completion",
+          "Name": "Overwatch Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 12
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/table_and_desks_completion",
+          "Name": "Table and Desks Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 6
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:common_decorations/cluttered_mod_misc_completion",
+          "Name": "Cluttered Mod Misc Common Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:rare_decorations/statues_completion",
+          "Name": "Statues Rare Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 51
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:rare_decorations/mob_trophies_completion",
+          "Name": "Mob Trophies Rare Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:rare_decorations/paintings_completion",
+          "Name": "Paintings Rare Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:rare_decorations/misc_completion",
+          "Name": "Misc Rare Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:rare_decorations/oneul_food_music_discs_completion",
+          "Name": "Oneul Food Music Discs Rare Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:rare_decorations/oneul_pink_bear_music_disc_completion",
+          "Name": "Oneul Pink Bear Music Disc Rare Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:rare_decorations/oneul_misc_music_disc_completion",
+          "Name": "Oneul Misc Music Disc Rare Decorations Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 51
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:hat_collection/flat_hats_completion",
+          "Name": "Flat Hats Hat Collection Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:hat_collection/medium_hats_completion",
+          "Name": "Medium Hats Hat Collection Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:hat_collection/tall_hats_completion",
+          "Name": "Tall Hats Hat Collection Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:hat_collection/face_overings_completion",
+          "Name": "Face Overings Hat Collection Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:hat_collection/head_toppers_completion",
+          "Name": "Head Toppers Hat Collection Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:hat_collection/disguise_completion",
+          "Name": "Disguise Hat Collection Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:hat_collection/animal_hats_completion",
+          "Name": "Animal Hats Hat Collection Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:hat_collection/eyewear_completion",
+          "Name": "Eyewear Hat Collection Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:hat_collection/around_the_head_completion",
+          "Name": "Around the Head Hat Collection Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:hat_collection/animated_details_completion",
+          "Name": "Animated Details Hat Collection Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:hat_collection/accessories_completion",
+          "Name": "Accessories Hat Collection Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:clothing_collection/royal_outfit_completion",
+          "Name": "Royal Outfit Clothing Collection Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:clothing_collection/steampunkers_completion",
+          "Name": "Steampunkers Clothing Collection Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 6
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:clothing_collection/winter_survivalist_completion",
+          "Name": "Winter Survivalist Clothing Collection Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 6
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:clothing_collection/astronaut_completion",
+          "Name": "Astronaut Clothing Collection Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 12
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:clothing_collection/centurion_completion",
+          "Name": "Centurion Clothing Collection Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 12
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:clothing_collection/farmer_completion",
+          "Name": "Farmer Clothing Collection Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 12
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:clothing_collection/fisherman_completion",
+          "Name": "Fisherman Clothing Collection Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 12
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:clothing_collection/ghillie_suit_completion",
+          "Name": "Ghillie Suit Clothing Collection Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 12
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:clothing_collection/mobster_completion",
+          "Name": "Mobster Clothing Collection Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 12
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:clothing_collection/tops_completion",
+          "Name": "Tops Clothing Collection Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:clothing_collection/skirts_and_boots_completion",
+          "Name": "Skirts and Boots Clothing Collection Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:clothing_collection/thigh_high_socks_completion",
+          "Name": "Thigh High Socks Clothing Collection Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:clothing_collection/knight_armor_completion",
+          "Name": "Knight Armor Clothing Collection Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:clothing_collection/archer_completion",
+          "Name": "Archer Clothing Collection Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 6
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:clothing_collection/christmas_completion",
+          "Name": "Christmas Clothing Collection Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:clothing_collection/christmas_elves_completion",
+          "Name": "Christmas Elves Clothing Collection Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 4
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:clothing_collection/crowns_completion",
+          "Name": "Crowns Clothing Collection Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 6
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:clothing_collection/cat_ears_completion",
+          "Name": "Cat Ears Clothing Collection Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:clothing_collection/masks_completion",
+          "Name": "Masks Clothing Collection Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:clothing_collection/halo_completion",
+          "Name": "Halo Clothing Collection Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:clothing_collection/misc_hats_completion",
+          "Name": "Misc Hats Clothing Collection Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "clothes_and_deco_kits"
+    }
+  ]
+}

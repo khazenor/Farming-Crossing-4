@@ -1,0 +1,22 @@
+{
+  "type": "lootbags:loot",
+  "name": "Frog Plushes Common Decorations Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "moa_decor_toys:ranatemplada",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:ranacalida",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:ranahelada",
+        "weight": 1
+      }
+    ]
+  }
+}

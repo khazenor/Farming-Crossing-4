@@ -1,0 +1,26 @@
+{
+  "type": "lootbags:loot",
+  "name": "Rubiks Cube Common Decorations Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "luphieclutteredmod:rubiks_cube",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:pastel_rubiks_cube",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:scrambled_rubiks_cube",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:scrambled_pastel_rubiks_cube",
+        "weight": 1
+      }
+    ]
+  }
+}

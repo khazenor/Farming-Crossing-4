@@ -1,0 +1,30 @@
+{
+  "type": "lootbags:loot",
+  "name": "Axolotl Plushes Common Decorations Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "moa_decor_toys:ajoloteazul",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:ajolotecafe",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:ajolotecian",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:ajolotedorado",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:ajoloterosa",
+        "weight": 1
+      }
+    ]
+  }
+}

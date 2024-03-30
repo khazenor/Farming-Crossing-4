@@ -1,0 +1,86 @@
+{
+  "type": "lootbags:loot",
+  "name": "Handheld Instruments Common Decorations Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "moa_decor_art:guitarra",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:banyo",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:violin",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:guitarraelectricablanca",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:guitarraelectricagrisclara",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:guitarraelectricagris",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:guitarraelectricanegra",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:guitarraelectricacafe",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:guitarraelectricaroja",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:guitarraelectricanaranja",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:guitarraelectricaamarilla",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:guitarraelectricaverdelima",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:guitarraelectricaverde",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:guitarraelectricacian",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:guitarraelectricaazulclara",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:guitarraelectricaazul",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:guitarraelectricamorada",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:guitarraelectricamagenta",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:guitarraelectricarosa",
+        "weight": 1
+      }
+    ]
+  }
+}

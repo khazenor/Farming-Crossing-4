@@ -1,0 +1,62 @@
+{
+  "type": "lootbags:loot",
+  "name": "Lab Common Decorations Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "moa_decor_science:lupa",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_science:microscopio",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_science:calculadora",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_science:bascula",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_science:veneno",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_science:barriltoxico",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_science:barriltoxicoderramado",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_science:barrilinflamable",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_science:barrilinflamablederramado",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_science:frascodepildoras",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_science:frascodepildorasabierto",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_science:botiquindepared",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_science:lectordesignosvitales",
+        "weight": 1
+      }
+    ]
+  }
+}

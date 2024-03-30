@@ -1,0 +1,82 @@
+{
+  "type": "lootbags:loot",
+  "name": "Animated Details Hat Collection Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "simplehats:holyhead",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:floatingstar",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:floatinghearts",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:flies",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:flagjuly",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:fireworks",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:fakefire",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:fakeblight",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:candleonhead",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:raincloud",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:burning_m_bison",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:stress",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:smokingpipe",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:simsgem",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:worms_mine",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:rainboworbiters",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:propelhat",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:policesiren",
+        "weight": 1
+      }
+    ]
+  }
+}

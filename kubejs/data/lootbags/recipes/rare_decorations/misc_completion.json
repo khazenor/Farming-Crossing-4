@@ -1,0 +1,38 @@
+{
+  "type": "lootbags:loot",
+  "name": "Misc Rare Decorations Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "moa_decor_art:pianodecola",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:fonografo",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:maquinadediscos",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:premiogrammy",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:premiooscar",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_holidays:trineo",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_holidays:olladeoro",
+        "weight": 1
+      }
+    ]
+  }
+}

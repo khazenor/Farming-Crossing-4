@@ -1,0 +1,42 @@
+{
+  "type": "lootbags:loot",
+  "name": "Raid Plushes Common Decorations Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "moa_decor_toys:bruja",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:vindicador",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:invocador",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:vex",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:saqueador",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:devastador",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:allay",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:devastadorysaqueador",
+        "weight": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "type": "lootbags:loot",
+  "name": "Accessories Hat Collection Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "simplehats:sausage",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:rednose",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:moreeyes",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:mohawk",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:fro",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:demoneyes",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:dairyqueen",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:candycane",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:camerabeard",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:scouter",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:chalk_stick",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:villagernose",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:supersandhat",
+        "weight": 1
+      }
+    ]
+  }
+}

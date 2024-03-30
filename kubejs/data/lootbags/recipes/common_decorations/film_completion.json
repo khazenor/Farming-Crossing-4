@@ -1,0 +1,38 @@
+{
+  "type": "lootbags:loot",
+  "name": "Film Common Decorations Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "moa_decor_art:rollodepelicula",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:rollosdepelicula",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:camaradecine",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:claqueta",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:silladedirector",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:reflector",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:gafas_3d",
+        "weight": 1
+      }
+    ]
+  }
+}

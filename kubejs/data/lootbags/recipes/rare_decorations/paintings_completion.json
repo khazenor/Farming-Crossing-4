@@ -1,0 +1,34 @@
+{
+  "type": "lootbags:loot",
+  "name": "Paintings Rare Decorations Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "moa_decor_art:pelgrito",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:pgoticoestadounidense",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:plajovendelaperla",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:planocheestrellada",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:plamonalisa",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:pserenatamexicana",
+        "weight": 1
+      }
+    ]
+  }
+}

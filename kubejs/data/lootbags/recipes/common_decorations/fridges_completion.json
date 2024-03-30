@@ -1,0 +1,26 @@
+{
+  "type": "lootbags:loot",
+  "name": "Fridges Common Decorations Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "luphieclutteredmod:luphie_retro_pink_fridge",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_retro_yellow_fridge",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_retro_green_fridge",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_retro_black_fridge",
+        "weight": 1
+      }
+    ]
+  }
+}

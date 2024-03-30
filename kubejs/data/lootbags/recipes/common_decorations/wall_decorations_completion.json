@@ -1,0 +1,54 @@
+{
+  "type": "lootbags:loot",
+  "name": "Wall Decorations Common Decorations Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "luphieclutteredmod:luphie_bunny_garland",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_black_cat_garland",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_heart_garland",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_sunflower_garland",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_blossom_garland",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_drying_herb_garland",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_polaroid_garland_a",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_polaroid_garland_b",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_polaroids_a",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_polaroids_b",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_polaroids_c",
+        "weight": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "lootbags:loot",
+  "name": "Mobster Clothing Collection Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "cosmeticarmoursmod:mobster_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:mobster_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:mobster_leggings",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:mobster_boots",
+        "weight": 1
+      }
+    ]
+  }
+}

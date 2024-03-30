@@ -1,0 +1,86 @@
+{
+  "type": "lootbags:loot",
+  "name": "Graveyard Common Decorations Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "moa_decor_holidays:lapida",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_holidays:lapida_cruz",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_holidays:fantasma",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_holidays:esqueletoacostado",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_holidays:esqueletosentado",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_holidays:tumba",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_holidays:tumbaabierta",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_holidays:tumbaesqueleto",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_holidays:tumbaesqueletosentado",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_holidays:jaula",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_holidays:esqueleto_enjaulado",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_holidays:bruja_escoba",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_holidays:zombieacostado",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_holidays:zombieenterrado",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_holidays:zombiesaliendotierra",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_holidays:murcielagocerrado",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_holidays:murcielagoabierto",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_holidays:arana_en_telarana",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_holidays:arana_en_telarana_2",
+        "weight": 1
+      }
+    ]
+  }
+}

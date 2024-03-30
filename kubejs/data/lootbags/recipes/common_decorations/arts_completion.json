@@ -1,0 +1,66 @@
+{
+  "type": "lootbags:loot",
+  "name": "Arts Common Decorations Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "moa_decor_art:paletadepintura",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:microfono",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:microfonoenpedestal",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:tecladomusical",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:arpa",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:amplificador",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:mezcladordj",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:tocadiscos",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:acuarelas",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:pincelesenagua",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:martilloycincel",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:maquinadecoser",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:maniqui",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:tijeras",
+        "weight": 1
+      }
+    ]
+  }
+}

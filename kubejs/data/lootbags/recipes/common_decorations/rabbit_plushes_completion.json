@@ -1,0 +1,34 @@
+{
+  "type": "lootbags:loot",
+  "name": "Rabbit Plushes Common Decorations Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "moa_decor_toys:conejoblancoynegro",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:conejoblanco",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:conejocafe",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:conejocastano",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:conejodorado",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:conejonegro",
+        "weight": 1
+      }
+    ]
+  }
+}

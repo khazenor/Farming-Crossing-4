@@ -32,6 +32,16 @@ def writeCategoryStore(categoryKey, name, icon, entryGroups):
 		indent=2
 	)
 
+def writeCategoryStoreWithEntries(categoryKey, name, icon, entries):
+	json.dump(
+		categoryStore(entries, categoryKey, name, icon),
+		open(
+			os.path.join(const.farmingForBlockheads(), f"{categoryKey}.json"),
+			'w'
+		),
+		indent=2
+	)
+
 def categoryStore(entries, category, categoryName, categoryItem):
 	return {
 		"customCategories": {

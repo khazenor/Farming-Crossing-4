@@ -1,4 +1,6 @@
 # 4.0:
+## Additional Features
+- Clothing and decoration kits (loot bags) are now for sale in the market to help you get the clothing or decoration items more reliably 
 ## Mods Added
 - Little Tiles
 - Let's do: Blooming Nature:

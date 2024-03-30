@@ -1,0 +1,50 @@
+{
+  "type": "lootbags:loot",
+  "name": "Statues Rare Decorations Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "moa_decor_art:esculturaeldavid",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:esculturaelpensador",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:esculturaeldiscobolo",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:esculturavenusdemilo",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:esculturalavictoriodesamotracia",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:esculturamujerconjarra",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:esculturadragonchino",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:esculturachacmool",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:esculturabuda",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:esculturajesuscrucificado",
+        "weight": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "lootbags:loot",
+  "name": "Water Animal Plushes Common Decorations Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "moa_decor_toys:tortugamarina",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:calamar",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:calamarbrillante",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:delfin",
+        "weight": 1
+      }
+    ]
+  }
+}

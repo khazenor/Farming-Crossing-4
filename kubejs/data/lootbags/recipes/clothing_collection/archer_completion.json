@@ -1,0 +1,58 @@
+{
+  "type": "lootbags:loot",
+  "name": "Archer Clothing Collection Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "cosmeticarmoursmod:blue_archers_attire_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:blue_archers_attire_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:green_archers_attire_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:green_archers_attire_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:orange_archers_attire_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:orange_archers_attire_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:pink_archers_attire_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:pink_archers_attire_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:red_archers_attire_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:red_archers_attire_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:archers_attire_leggings",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:archers_attire_boots",
+        "weight": 1
+      }
+    ]
+  }
+}

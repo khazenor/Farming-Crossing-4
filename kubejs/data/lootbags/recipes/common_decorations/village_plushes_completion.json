@@ -1,0 +1,50 @@
+{
+  "type": "lootbags:loot",
+  "name": "Village Plushes Common Decorations Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "moa_decor_toys:aldeano",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:aldeanodesierto",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:aldeanosabana",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:aldeanoinvierno",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:aldeanotaiga",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:aldeanopantano",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:vendedorambulante",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:golemdehierro",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:steve",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:alex",
+        "weight": 1
+      }
+    ]
+  }
+}

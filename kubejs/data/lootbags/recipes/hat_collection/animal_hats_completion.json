@@ -1,0 +1,90 @@
+{
+  "type": "lootbags:loot",
+  "name": "Animal Hats Hat Collection Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "simplehats:greenbirb",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:foxhat",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:digger",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:crabonhead",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:bunnyhat",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:chickenonhead",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:chickenhead",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:beehat",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:babyturtle",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:penguinhat",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:pighead",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:rabbitears",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:rabbitonhead",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:ranahat",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:sheep",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:babydolphin",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:teddy_bear",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:penguinbaby",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:icedragonskull",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:horsemask",
+        "weight": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "type": "lootbags:loot",
+  "name": "Medium Hats Hat Collection Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "simplehats:floweronhead",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:drinkinhat",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:elfhat",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:crown",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:chefshat",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:bowler",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:bigcrown",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:bigbrain",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:bicorne",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:rgbpartyhat",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:rgbushanka",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:rubbernipple",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:shroomcap",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:swimmer",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:tricorne",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:ushanka",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:zigzagwitchhat",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:azumanga_hat",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:dejiko",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:puchiko",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:policebucket",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:partyhat",
+        "weight": 1
+      },
+      {
+        "stack": "simplehats:jesterhat",
+        "weight": 1
+      }
+    ]
+  }
+}

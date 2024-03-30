@@ -1,0 +1,42 @@
+{
+  "type": "lootbags:loot",
+  "name": "Halo Clothing Collection Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "cosmeticarmoursmod:gold_halo_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:winged_gold_halo_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:angel_halo_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:winged_angel_halo_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:fallen_angel_halo_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:winged_fallen_angel_halo_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:rose_gold_halo_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:winged_rose_gold_halo_helmet",
+        "weight": 1
+      }
+    ]
+  }
+}

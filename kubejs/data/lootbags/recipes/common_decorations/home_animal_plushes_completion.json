@@ -1,0 +1,30 @@
+{
+  "type": "lootbags:loot",
+  "name": "Home Animal Plushes Common Decorations Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "moa_decor_toys:lobo",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:vaca",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:gallina",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:cerdo",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:abeja",
+        "weight": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "type": "lootbags:loot",
+  "name": "Bicycles Common Decorations Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "luphieclutteredmod:pink_bicycle",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:blue_bicycle",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:purple_bicycle",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:yellow_bicycle",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:cute_pink_bicycle",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:cute_blue_bicycle",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:cute_purple_bicycle",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:cute_yellow_bicycle",
+        "weight": 1
+      }
+    ]
+  }
+}

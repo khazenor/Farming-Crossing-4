@@ -1,0 +1,86 @@
+{
+  "type": "lootbags:loot",
+  "name": "Festive Common Decorations Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "moa_decor_holidays:clabaza_creeper_nav",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_holidays:corona_navidena",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_holidays:santa_claus",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_holidays:duende_navideno",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_holidays:duende_navidena",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_holidays:creeper_nieve",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_holidays:base_pino_navideno",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_holidays:pino_navideno",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_holidays:estrella_navidena",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_holidays:p_oso_polar_n",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_holidays:p_galleta_jengibre",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_holidays:p_galleta_jengibre_n",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_holidays:leprechaun",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_holidays:leprechaunolladeoro",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_holidays:c_pblanco",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_holidays:c_pcafe",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_holidays:c_pdorado",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_holidays:c_pnegro",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_holidays:conejo_chocolate",
+        "weight": 1
+      }
+    ]
+  }
+}

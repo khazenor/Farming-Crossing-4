@@ -1,0 +1,38 @@
+{
+  "type": "lootbags:loot",
+  "name": "Oneul Food Music Discs Rare Decorations Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "kubejs:oneul_brunch",
+        "weight": 1
+      },
+      {
+        "stack": "kubejs:oneul_vanilla_milkshake",
+        "weight": 1
+      },
+      {
+        "stack": "kubejs:oneul_canele",
+        "weight": 1
+      },
+      {
+        "stack": "kubejs:oneul_tiramisu",
+        "weight": 1
+      },
+      {
+        "stack": "kubejs:oneul_sandwich",
+        "weight": 1
+      },
+      {
+        "stack": "kubejs:oneul_melon_bread",
+        "weight": 1
+      },
+      {
+        "stack": "kubejs:oneul_strawberry_dance",
+        "weight": 1
+      }
+    ]
+  }
+}

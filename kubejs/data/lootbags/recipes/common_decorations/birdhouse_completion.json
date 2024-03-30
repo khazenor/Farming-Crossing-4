@@ -1,0 +1,22 @@
+{
+  "type": "lootbags:loot",
+  "name": "Birdhouse Common Decorations Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "luphieclutteredmod:blue_birdhouse",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:red_birdhouse",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:unpainted_birdhouse",
+        "weight": 1
+      }
+    ]
+  }
+}

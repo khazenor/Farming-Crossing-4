@@ -1,0 +1,74 @@
+{
+  "type": "lootbags:loot",
+  "name": "Snare Common Decorations Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "moa_decor_art:tamborblanco",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:tamborgrisclaro",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:tamborgris",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:tambornegro",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:tamborcafe",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:tamborrojo",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:tambornaranja",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:tamboramarillo",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:tamborverdelima",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:tamborverde",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:tamborcian",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:tamborazulclaro",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:tamborazul",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:tambormorado",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:tambormagenta",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_art:tamborrosa",
+        "weight": 1
+      }
+    ]
+  }
+}

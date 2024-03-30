@@ -1,0 +1,42 @@
+{
+  "type": "lootbags:loot",
+  "name": "Misc Hats Clothing Collection Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "cosmeticarmoursmod:antlers_black_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:antlers_brown_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:antlers_white_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:christmas_pudding_beanie_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:frankenstein_bolts_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:witches_hat_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:yorkshire_cap_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:saw_accident_helmet",
+        "weight": 1
+      }
+    ]
+  }
+}

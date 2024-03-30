@@ -1,0 +1,70 @@
+{
+  "type": "lootbags:loot",
+  "name": "Toys Common Decorations Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "playdate:toy_bench",
+        "weight": 1
+      },
+      {
+        "stack": "playdate:dino",
+        "weight": 1
+      },
+      {
+        "stack": "playdate:teddy_bear",
+        "weight": 1
+      },
+      {
+        "stack": "playdate:ring_tower",
+        "weight": 1
+      },
+      {
+        "stack": "playdate:rocking_horse",
+        "weight": 1
+      },
+      {
+        "stack": "playdate:toy_boat",
+        "weight": 1
+      },
+      {
+        "stack": "playdate:toy_train",
+        "weight": 1
+      },
+      {
+        "stack": "playdate:piggy_bank",
+        "weight": 1
+      },
+      {
+        "stack": "playdate:music_box",
+        "weight": 1
+      },
+      {
+        "stack": "playdate:sock_monkey",
+        "weight": 1
+      },
+      {
+        "stack": "playdate:toy_clock",
+        "weight": 1
+      },
+      {
+        "stack": "playdate:toy_robot",
+        "weight": 1
+      },
+      {
+        "stack": "playdate:wooden_duck",
+        "weight": 1
+      },
+      {
+        "stack": "playdate:wooden_soldier",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_science:pizarra",
+        "weight": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "lootbags:loot",
+  "name": "Masks Clothing Collection Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "cosmeticarmoursmod:axolotl_mask_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:creeper_mask_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:guardian_mask_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:herobrine_mask_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:plain_mask_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:pumpkin_mask_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:warden_mask_helmet",
+        "weight": 1
+      }
+    ]
+  }
+}

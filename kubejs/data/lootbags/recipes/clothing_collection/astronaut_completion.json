@@ -1,0 +1,26 @@
+{
+  "type": "lootbags:loot",
+  "name": "Astronaut Clothing Collection Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "cosmeticarmoursmod:astronaut_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:astronaut_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:astronaut_leggings",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:astronaut_boots",
+        "weight": 1
+      }
+    ]
+  }
+}

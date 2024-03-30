@@ -1,0 +1,74 @@
+{
+  "type": "lootbags:loot",
+  "name": "Tops Clothing Collection Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "cosmeticarmoursmod:black_skirt_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:blue_skirt_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:brown_skirt_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:cyan_skirt_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:green_skirt_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:grey_skirt_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:light_blue_skirt_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:light_grey_skirt_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:lime_skirt_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:magenta_skirt_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:orange_skirt_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:pink_skirt_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:purple_skirt_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:red_skirt_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:white_skirt_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:yellow_skirt_chestplate",
+        "weight": 1
+      }
+    ]
+  }
+}

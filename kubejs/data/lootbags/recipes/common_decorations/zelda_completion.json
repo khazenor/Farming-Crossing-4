@@ -1,0 +1,34 @@
+{
+  "type": "lootbags:loot",
+  "name": "Zelda Common Decorations Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "luphieclutteredmod:rito_village_books",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:blue_sand_seal_plush",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:red_sand_seal_plush",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:green_sand_seal_plush",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:tarrey_town_stove",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:cluttered_tarrey_town_wood_stove",
+        "weight": 1
+      }
+    ]
+  }
+}

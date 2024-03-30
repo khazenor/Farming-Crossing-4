@@ -1,0 +1,46 @@
+{
+  "type": "lootbags:loot",
+  "name": "Steampunkers Clothing Collection Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "cosmeticarmoursmod:steampunkers_goggles_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:steampunkers_tophat_f_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:steampunkers_attire_f_boots",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:steampunkers_attire_f_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:steampunkers_attire_f_leggings",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:steampunkers_tophat_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:steampunkers_attire_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:steampunkers_attire_leggings",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:steampunkers_attire_boots",
+        "weight": 1
+      }
+    ]
+  }
+}

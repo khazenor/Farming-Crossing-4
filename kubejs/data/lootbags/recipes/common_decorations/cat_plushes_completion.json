@@ -1,0 +1,58 @@
+{
+  "type": "lootbags:loot",
+  "name": "Cat Plushes Common Decorations Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "moa_decor_toys:ocelote",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:gatoatigrado",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:gatoblanco",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:gatobritanico",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:gatocalico",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:gatojellie",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:gatonegro",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:gatopersa",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:gatoragdoll",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:gatosiames",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:gatotabby",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:gatotuxedo",
+        "weight": 1
+      }
+    ]
+  }
+}

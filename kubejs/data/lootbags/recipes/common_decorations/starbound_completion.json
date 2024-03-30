@@ -1,0 +1,66 @@
+{
+  "type": "lootbags:loot",
+  "name": "Starbound Common Decorations Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "luphieclutteredmod:luphie_ancient_codex",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_card_index",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_china_cabinet",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_classic_radio",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_mushroom_chest",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_mushroom_lamp",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_mushroom_table",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_mushroom_wardrobe",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_pastel_chair",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphiebunny_plushie",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_pastel_table",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_safe",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_steampunk_globe",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_pastel_wardrobe",
+        "weight": 1
+      }
+    ]
+  }
+}

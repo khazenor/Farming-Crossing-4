@@ -1,0 +1,58 @@
+{
+  "type": "lootbags:loot",
+  "name": "Nether Plushes Common Decorations Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "moa_decor_toys:lavagante",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:piglin",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:piglinbruto",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:piglinzombie",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:esqueletowither",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:blaze",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:ghast",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:hoglin",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:zoglin",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:lavaganteypiglinzombie",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:gallinaypiglinzombie",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:cubodemagma",
+        "weight": 1
+      }
+    ]
+  }
+}

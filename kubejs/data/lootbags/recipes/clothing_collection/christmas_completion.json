@@ -1,0 +1,38 @@
+{
+  "type": "lootbags:loot",
+  "name": "Christmas Clothing Collection Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "cosmeticarmoursmod:santa_hat_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:female_claus_attire_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:female_claus_attire_leggings",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:female_claus_attire_boots",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:male_claus_attire_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:male_claus_attire_leggings",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:male_claus_attire_boots",
+        "weight": 1
+      }
+    ]
+  }
+}

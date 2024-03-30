@@ -1,0 +1,54 @@
+{
+  "type": "lootbags:loot",
+  "name": "Lamps Common Decorations Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "luphieclutteredmod:luphie_honeycomb_lamp",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_lemon_table",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_hoppin_park_lantern",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_handheld_sea_gem_lantern",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_antique_lamp",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_steampunk_lamp",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_caged_bulb",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_flower_desk_lamp",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_bee_lamp",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_angry_bee_lamp",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:stainedglasslamp",
+        "weight": 1
+      }
+    ]
+  }
+}

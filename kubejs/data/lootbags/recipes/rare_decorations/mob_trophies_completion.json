@@ -1,0 +1,38 @@
+{
+  "type": "lootbags:loot",
+  "name": "Mob Trophies Rare Decorations Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "handcrafted:phantom_trophy",
+        "weight": 1
+      },
+      {
+        "stack": "handcrafted:creeper_trophy",
+        "weight": 1
+      },
+      {
+        "stack": "handcrafted:skeleton_trophy",
+        "weight": 1
+      },
+      {
+        "stack": "handcrafted:evoker_trophy",
+        "weight": 1
+      },
+      {
+        "stack": "handcrafted:pillager_trophy",
+        "weight": 1
+      },
+      {
+        "stack": "handcrafted:vindicator_trophy",
+        "weight": 1
+      },
+      {
+        "stack": "handcrafted:witch_trophy",
+        "weight": 1
+      }
+    ]
+  }
+}

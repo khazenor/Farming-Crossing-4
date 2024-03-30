@@ -1,0 +1,42 @@
+{
+  "type": "lootbags:loot",
+  "name": "Zombie Plushes Common Decorations Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "moa_decor_toys:zombie",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:zombiemomificado",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:zombieahogado",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:aleanozombie",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:gallinayzombie",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:gallinayzombiemomificado",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:gallinayahogado",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:gallinayjinetealdeanozombie",
+        "weight": 1
+      }
+    ]
+  }
+}

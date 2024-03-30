@@ -1,0 +1,110 @@
+{
+  "type": "lootbags:loot",
+  "name": "Bathroom Common Decorations Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "moa_decor_bath:inodoro",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_bath:mingitorio",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_bath:regadera",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_bath:llavesderegadera",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_bath:llavesdebanera",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_bath:banera",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_bath:lavabo",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_bath:lavaboconpedestal",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_bath:esponjadebano",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_bath:jabon",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_bath:soporteparajabon",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_bath:jabonera",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_bath:jaboneradepared",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_bath:tabladeplanchar",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_bath:tendederoconropamasculina",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_bath:tendederoconropafemenina",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_bath:tendederoconsabanas",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_bath:vasocepillosdedientes",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_bath:cubetadeagua",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_bath:secadormanos",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_bath:destapador",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_bath:esco",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_bath:trap",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_bath:planch",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_bath:letreropisomojado",
+        "weight": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "type": "lootbags:loot",
+  "name": "Cat Ears Clothing Collection Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "cosmeticarmoursmod:cat_ears_black_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:cat_ears_brown_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:cat_ears_grey_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:cat_ears_orange_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:cat_ears_pink_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:cat_ears_white_helmet",
+        "weight": 1
+      }
+    ]
+  }
+}

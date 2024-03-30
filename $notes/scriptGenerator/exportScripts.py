@@ -12,8 +12,10 @@ from src import hatVillagerSell
 from src import foodProfessionTrades
 from src import botanyPotSeedSupport
 from src import tips
+from src import clothesAndDecoLootBags
 
 if __name__ == "__main__":
+	clothesAndDecoLootBags.genClothesAndDecoLootBagSupport()
 	tips.genTips()
 	botanyPotSeedSupport.genBotanySeedSupport()
 	foodProfessionTrades.genFoodProfessionTrades()

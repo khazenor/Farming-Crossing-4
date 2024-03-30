@@ -1,0 +1,58 @@
+{
+  "type": "lootbags:loot",
+  "name": "Winter Survivalist Clothing Collection Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "cosmeticarmoursmod:blue_ushanka_hat_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:winter_survivalist_blue_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:winter_survivalist_blue_leggings",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:winter_survivalist_blue_boots",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:brown_ushanka_hat_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:winter_survivalist_brown_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:winter_survivalist_brown_leggings",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:winter_survivalist_brown_boots",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:grey_ushanka_hat_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:winter_survivalist_grey_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:winter_survivalist_grey_leggings",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:winter_survivalist_grey_boots",
+        "weight": 1
+      }
+    ]
+  }
+}

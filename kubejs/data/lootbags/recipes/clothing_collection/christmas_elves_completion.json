@@ -1,0 +1,66 @@
+{
+  "type": "lootbags:loot",
+  "name": "Christmas Elves Clothing Collection Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "cosmeticarmoursmod:christmas_elf_hat_green_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:christmas_elf_attire_green_female_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:christmas_elf_attire_green_female_leggings",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:christmas_elf_attire_green_female_boots",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:christmas_elf_attire_male_green_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:christmas_elf_attire_male_green_leggings",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:christmas_elf_attire_male_green_boots",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:christmas_elf_hat_red_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:christmas_elf_attire_red_female_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:christmas_elf_attire_red_female_leggings",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:christmas_elf_attire_red_female_boots",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:christmas_elf_attire_red_male_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:christmas_elf_attire_red_male_leggings",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:christmas_elf_attire_red_male_boots",
+        "weight": 1
+      }
+    ]
+  }
+}

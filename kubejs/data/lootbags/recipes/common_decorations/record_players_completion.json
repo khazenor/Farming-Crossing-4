@@ -1,0 +1,26 @@
+{
+  "type": "lootbags:loot",
+  "name": "Record Players Common Decorations Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "luphieclutteredmod:luphie_blue_record_player",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_yellow_record_player",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_pink_record_player",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_brown_record_player",
+        "weight": 1
+      }
+    ]
+  }
+}

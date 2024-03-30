@@ -1,0 +1,26 @@
+{
+  "type": "lootbags:loot",
+  "name": "Llama Plushes Common Decorations Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "moa_decor_toys:llamablanca",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:llamacrema",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:llamagris",
+        "weight": 1
+      },
+      {
+        "stack": "moa_decor_toys:llamacafe",
+        "weight": 1
+      }
+    ]
+  }
+}

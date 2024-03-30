@@ -1,0 +1,26 @@
+{
+  "type": "lootbags:loot",
+  "name": "Ghillie Suit Clothing Collection Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "cosmeticarmoursmod:ghillie_suit_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:ghillie_suit_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:ghillie_suit_leggings",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:ghillie_suit_boots",
+        "weight": 1
+      }
+    ]
+  }
+}

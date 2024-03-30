@@ -1,0 +1,50 @@
+{
+  "type": "lootbags:loot",
+  "name": "Table and Desks Common Decorations Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "luphieclutteredmod:luphie_nightstand",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_rose_endtable",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_gothic_rose_endtable",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_table_with_cloth",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_greener_nightstand",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_cluttered_green_desk",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_green_desk",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_cluttered_desk",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_brown_desk",
+        "weight": 1
+      },
+      {
+        "stack": "luphieclutteredmod:luphie_imperial_table",
+        "weight": 1
+      }
+    ]
+  }
+}
