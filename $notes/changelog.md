@@ -5,6 +5,7 @@
 - all tea leaves should be useable to make matcha related goods
 ## Mods Added
 - Little Tiles
+- No Mob Farms to disincentivize mob farming
 - Let's do: Blooming Nature:
   - Collection quests updated with new animals, saplings and flowers
   - flowers, spawn eggs added to the market

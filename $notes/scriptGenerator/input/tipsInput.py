@@ -35,6 +35,8 @@ tips = [
   "In this pack, villagers change their trades every time they restock/every day. This makes it so that you won't have to get rid of villagers with bad trades after having spent resources on them, and it won't be necessary to breed a large number of them either.",
   "Sneak right-click a camera to get more options including photo filters and the ability to upload your own images!",
   "Swords, Pickaxes, Axes, Shovels, Hoes, Bows, and Enchanted Books can all be upgraded by applying a jeweled ring to them. To upgrade use a ring on a smithing table while holding the tool in your off-hand you will increase the Luck and Armor of the tool by +2.",
+  "In this pack, the more mod farming you do in an area, the fewer mobs will spawn.  Go adventuring to get loot and mob drops!",
+  "Villagers do now spawn iron golems in the pack as they usually do not need their protection. You can change this in config\LibertyVillagers.json",
   
   # Tickets
   "Complete the quests to find out how to get customer villagers.  They will give you miles tickets in exchange for dishes.",
