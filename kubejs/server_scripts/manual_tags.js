@@ -80,4 +80,9 @@ ServerEvents.tags('item', event => {
     'neighborly:sparkle_spawn_egg',
     'neighborly:thompson_frog_spawn_egg'
   ])
+
+  event.add('forge:tea_leaves/green', [
+    'herbalbrews:green_tea_leaf',
+    'pamhc2crops:tealeafitem'
+  ])
 })

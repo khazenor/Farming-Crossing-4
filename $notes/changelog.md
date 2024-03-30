@@ -2,6 +2,7 @@
 ## Additional Features
 - Clothing and decoration kits (loot bags) are now for sale in the market to help you get the clothing or decoration items more reliably
 - Let's do villagers now take miles ticket are currency instead of emeralds
+- all tea leaves should be useable to make matcha related goods
 ## Mods Added
 - Little Tiles
 - Let's do: Blooming Nature:
