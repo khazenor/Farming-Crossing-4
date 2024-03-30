@@ -4,6 +4,7 @@
 - Let's do villagers now take miles ticket are currency instead of emeralds
 - all tea leaves should be useable to make matcha related goods
 - Elna now moves in after you purchase 10 hats instead of 20.
+- Nether gem ores are now rarer.
 ## Mods Added
 - Little Tiles
 - No Mob Farms to disincentivize mob farming
