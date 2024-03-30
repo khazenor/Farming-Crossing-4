@@ -442,6 +442,24 @@ floraFlowerBloomingNature = [
   "bloomingnature:beach_bush_tall",
   "bloomingnature:beach_grass"
 ]
+floraFlowerBotania = [
+  "botania:white_mystical_flower",
+  "botania:orange_mystical_flower",
+  "botania:magenta_mystical_flower",
+  "botania:light_blue_mystical_flower",
+  "botania:yellow_mystical_flower",
+  "botania:lime_mystical_flower",
+  "botania:pink_mystical_flower",
+  "botania:gray_mystical_flower",
+  "botania:light_gray_mystical_flower",
+  "botania:cyan_mystical_flower",
+  "botania:purple_mystical_flower",
+  "botania:blue_mystical_flower",
+  "botania:brown_mystical_flower",
+  "botania:green_mystical_flower",
+  "botania:red_mystical_flower",
+  "botania:black_mystical_flower"
+]
 floraFlowerMisc = [
   "alexsmobs:acacia_blossom",
   "candlelight:rose",
@@ -457,7 +475,7 @@ floraFlowerMisc = [
 ]
 floraAllFlowers = (
   floraFlowerVanilla + floraFlowerBiomesoPlenty +
-  floraFlowerBloomingNature + floraFlowerMisc
+  floraFlowerBloomingNature + floraFlowerBotania + floraFlowerMisc
 )
 floraSaplingVanilla = [
   "minecraft:acacia_sapling",
@@ -521,7 +539,7 @@ floraMisc = [
 ]
 allFlora = (
   floraFoodVanilla + floraMiscFood + floraFlowerVanilla + floraFlowerBiomesoPlenty
-  + floraFlowerBloomingNature
+  + floraFlowerBloomingNature + floraFlowerBotania 
   + floraFlowerMisc + floraSaplingVanilla + floraSaplingModded + floraMisc
 )
 mineralVanilla = [

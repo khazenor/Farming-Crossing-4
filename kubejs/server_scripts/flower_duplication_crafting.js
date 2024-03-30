@@ -189,6 +189,54 @@ ServerEvents.recipes(event => {
     Item.of('bloomingnature:beach_grass', 3),
     ['bloomingnature:beach_grass', 'minecraft:bone_meal'])
   event.shapeless(
+    Item.of('botania:white_mystical_flower', 3),
+    ['botania:white_mystical_flower', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('botania:orange_mystical_flower', 3),
+    ['botania:orange_mystical_flower', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('botania:magenta_mystical_flower', 3),
+    ['botania:magenta_mystical_flower', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('botania:light_blue_mystical_flower', 3),
+    ['botania:light_blue_mystical_flower', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('botania:yellow_mystical_flower', 3),
+    ['botania:yellow_mystical_flower', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('botania:lime_mystical_flower', 3),
+    ['botania:lime_mystical_flower', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('botania:pink_mystical_flower', 3),
+    ['botania:pink_mystical_flower', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('botania:gray_mystical_flower', 3),
+    ['botania:gray_mystical_flower', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('botania:light_gray_mystical_flower', 3),
+    ['botania:light_gray_mystical_flower', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('botania:cyan_mystical_flower', 3),
+    ['botania:cyan_mystical_flower', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('botania:purple_mystical_flower', 3),
+    ['botania:purple_mystical_flower', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('botania:blue_mystical_flower', 3),
+    ['botania:blue_mystical_flower', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('botania:brown_mystical_flower', 3),
+    ['botania:brown_mystical_flower', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('botania:green_mystical_flower', 3),
+    ['botania:green_mystical_flower', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('botania:red_mystical_flower', 3),
+    ['botania:red_mystical_flower', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('botania:black_mystical_flower', 3),
+    ['botania:black_mystical_flower', 'minecraft:bone_meal'])
+  event.shapeless(
     Item.of('alexsmobs:acacia_blossom', 3),
     ['alexsmobs:acacia_blossom', 'minecraft:bone_meal'])
   event.shapeless(
