@@ -3,6 +3,7 @@
 - Clothing and decoration kits (loot bags) are now for sale in the market to help you get the clothing or decoration items more reliably
 - Let's do villagers now take miles ticket are currency instead of emeralds
 - all tea leaves should be useable to make matcha related goods
+- Elna now moves in after you purchase 10 hats instead of 20.
 ## Mods Added
 - Little Tiles
 - No Mob Farms to disincentivize mob farming

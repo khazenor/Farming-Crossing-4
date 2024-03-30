@@ -1043,11 +1043,11 @@
 			y: 7.0d
 		}
 		{
-			dependencies: ["41A76FF5B0823642"]
+			dependencies: ["021947706B3E1BEA"]
 			description: [
 				"Hey there! I'm Elna the Shrew. My older sis, Berni, told me about you. Said you were into the fashion scene. I'm actually starting my own fashion brand, and would totally be down to open a shop near you, if you're the real deal."
 				""
-				"If you get 25 hats, then I'll think about moving over, k?"
+				"If you get 10 hats, then I'll think about moving over, k?"
 			]
 			disable_toast: true
 			hide: true
@@ -1074,8 +1074,8 @@
 			y: 8.0d
 		}
 		{
-			dependencies: ["7A541B9B0899FD02"]
-			description: ["So you got 20 hats? Nice, nice. I guess you're the real deal. You mind helping me set up shop?"]
+			dependencies: ["41A76FF5B0823642"]
+			description: ["So you got 10 hats? Nice, nice. I guess you're the real deal. You mind helping me set up shop?"]
 			disable_toast: true
 			hide: true
 			icon: "minecraft:flower_banner_pattern"

@@ -240,17 +240,17 @@ dialogs = [
   }, {
     nameKey: "Elna Introduces Herself",
     speakerKey: elna,
-    questIdKey: "41A76FF5B0823642", # player collects 10 hats,
+    questIdKey: "021947706B3E1BEA", # player collects 5 hats,
     textsKey: [
       "Hey there! I'm Elna the Shrew. My older sis, Berni, told me about you. Said you were into the fashion scene. I'm actually starting my own fashion brand, and would totally be down to open a shop near you, if you're the real deal.",
-      "If you get 25 hats, then I'll think about moving over, k?"
+      "If you get 10 hats, then I'll think about moving over, k?"
     ]
   }, {
     nameKey: "Elna Agrees to Move In",
     speakerKey: elna,
-    questIdKey: "7A541B9B0899FD02", # player collects 20 hats
+    questIdKey: "41A76FF5B0823642", # player collects 10 hats,
     textsKey: [
-      "So you got 20 hats? Nice, nice. I guess you're the real deal. You mind helping me set up shop?"
+      "So you got 10 hats? Nice, nice. I guess you're the real deal. You mind helping me set up shop?"
     ]
   }, {
     nameKey: "Elna Moves In",
