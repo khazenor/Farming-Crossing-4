@@ -28,6 +28,7 @@
 - Cuisine Delight
 ## Mods Updated
 - Let's do: bakery, beach party, candlelight, meadow, vinery
+- Many other mods
 # 3.18:
 - as always, remember to backup your world before updating!
 - remove excessive server logging from the lasso crash warning script.
