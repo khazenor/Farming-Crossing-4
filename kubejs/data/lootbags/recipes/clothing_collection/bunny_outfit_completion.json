@@ -1,0 +1,58 @@
+{
+  "type": "lootbags:loot",
+  "name": "Bunny Outfit Clothing Collection Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "cosmeticarmoursmod:bunny_ears_pink_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:bunny_tail_pink_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:bunny_ears_orange_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:bunny_tail_orange_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:bunny_ears_brown_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:bunny_tail_brown_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:bunny_ears_black_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:bunny_tail_black_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:bunny_ears_grey_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:bunny_tail_grey_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:bunny_ears_white_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "cosmeticarmoursmod:bunny_tail_white_chestplate",
+        "weight": 1
+      }
+    ]
+  }
+}

@@ -1408,6 +1408,23 @@
         "count": 1,
         "nbt": {
           "Color": 13882323,
+          "Loot": "lootbags:clothing_collection/bunny_outfit_completion",
+          "Name": "Bunny Outfit Clothing Collection Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 6
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
           "Loot": "lootbags:clothing_collection/misc_hats_completion",
           "Name": "Misc Hats Clothing Collection Kit",
           "Type": "UNCOMMON"

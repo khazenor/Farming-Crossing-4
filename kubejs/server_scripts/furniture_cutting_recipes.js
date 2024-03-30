@@ -6089,398 +6089,6 @@ ServerEvents.recipes(event => {
     result:"mcwfurnitures:warped_wardrobe",
     count:1
   })
-  event.stonecutting('biomesoplenty:fir_log', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"biomesoplenty:fir_log",
-    count:1
-  })
-  event.stonecutting('vinery:wood_fired_oven', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"vinery:wood_fired_oven",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_bookshelf', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_bookshelf",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_bookshelf_cupboard', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_bookshelf_cupboard",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_bookshelf_drawer', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_bookshelf_drawer",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_chair', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_chair",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_coffee_table', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_coffee_table",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_counter', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_counter",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_covered_desk', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_covered_desk",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_cupboard_counter', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_cupboard_counter",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_desk', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_desk",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_double_drawer', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_double_drawer",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_double_drawer_counter', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_double_drawer_counter",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_double_wardrobe', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_double_wardrobe",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_drawer', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_drawer",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_drawer_counter', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_drawer_counter",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_end_table', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_end_table",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_glass_table', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_glass_table",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_large_drawer', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_large_drawer",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_lower_bookshelf_drawer', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_lower_bookshelf_drawer",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_lower_triple_drawer', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_lower_triple_drawer",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_modern_chair', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_modern_chair",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_modern_desk', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_modern_desk",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_modern_wardrobe', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_modern_wardrobe",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_stool_chair', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_stool_chair",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_striped_chair', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_striped_chair",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_table', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_table",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_triple_drawer', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_triple_drawer",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_wardrobe', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_wardrobe",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_bookshelf', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_bookshelf",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_bookshelf_cupboard', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_bookshelf_cupboard",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_bookshelf_drawer', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_bookshelf_drawer",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_chair', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_chair",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_coffee_table', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_coffee_table",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_counter', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_counter",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_covered_desk', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_covered_desk",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_cupboard_counter', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_cupboard_counter",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_desk', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_desk",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_double_drawer', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_double_drawer",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_double_drawer_counter', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_double_drawer_counter",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_double_wardrobe', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_double_wardrobe",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_drawer', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_drawer",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_drawer_counter', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_drawer_counter",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_end_table', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_end_table",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_glass_table', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_glass_table",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_large_drawer', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_large_drawer",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_lower_bookshelf_drawer', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_lower_bookshelf_drawer",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_lower_triple_drawer', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_lower_triple_drawer",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_modern_chair', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_modern_chair",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_modern_desk', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_modern_desk",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_modern_wardrobe', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_modern_wardrobe",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_stool_chair', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_stool_chair",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_striped_chair', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_striped_chair",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_table', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_table",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_triple_drawer', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_triple_drawer",
-    count:1
-  })
-  event.stonecutting('mcwfurnituresbop:fir_wardrobe', '#forge:furniture_fir_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_fir_log"},
-    result:"mcwfurnituresbop:fir_wardrobe",
-    count:1
-  })
   event.stonecutting('biomesoplenty:dead_log', '#forge:furniture_dead_log')
   event.custom({
     type: "corail_woodcutter:woodcutting",
@@ -6864,6 +6472,391 @@ ServerEvents.recipes(event => {
     type: "corail_woodcutter:woodcutting",
     ingredient:{"tag":"forge:furniture_dead_log"},
     result:"mcwfurnituresbop:dead_wardrobe",
+    count:1
+  })
+  event.stonecutting('biomesoplenty:fir_log', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"biomesoplenty:fir_log",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_bookshelf', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_bookshelf",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_bookshelf_cupboard', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_bookshelf_cupboard",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_bookshelf_drawer', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_bookshelf_drawer",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_chair', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_chair",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_coffee_table', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_coffee_table",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_counter', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_counter",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_covered_desk', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_covered_desk",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_cupboard_counter', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_cupboard_counter",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_desk', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_desk",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_double_drawer', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_double_drawer",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_double_drawer_counter', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_double_drawer_counter",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_double_wardrobe', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_double_wardrobe",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_drawer', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_drawer",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_drawer_counter', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_drawer_counter",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_end_table', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_end_table",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_glass_table', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_glass_table",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_large_drawer', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_large_drawer",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_lower_bookshelf_drawer', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_lower_bookshelf_drawer",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_lower_triple_drawer', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_lower_triple_drawer",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_modern_chair', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_modern_chair",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_modern_desk', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_modern_desk",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_modern_wardrobe', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_modern_wardrobe",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_stool_chair', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_stool_chair",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_striped_chair', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_striped_chair",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_table', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_table",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_triple_drawer', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_triple_drawer",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_wardrobe', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_wardrobe",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_bookshelf', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_bookshelf",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_bookshelf_cupboard', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_bookshelf_cupboard",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_bookshelf_drawer', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_bookshelf_drawer",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_chair', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_chair",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_coffee_table', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_coffee_table",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_counter', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_counter",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_covered_desk', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_covered_desk",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_cupboard_counter', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_cupboard_counter",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_desk', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_desk",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_double_drawer', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_double_drawer",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_double_drawer_counter', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_double_drawer_counter",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_double_wardrobe', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_double_wardrobe",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_drawer', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_drawer",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_drawer_counter', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_drawer_counter",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_end_table', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_end_table",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_glass_table', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_glass_table",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_large_drawer', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_large_drawer",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_lower_bookshelf_drawer', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_lower_bookshelf_drawer",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_lower_triple_drawer', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_lower_triple_drawer",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_modern_chair', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_modern_chair",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_modern_desk', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_modern_desk",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_modern_wardrobe', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_modern_wardrobe",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_stool_chair', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_stool_chair",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_striped_chair', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_striped_chair",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_table', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_table",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_triple_drawer', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_triple_drawer",
+    count:1
+  })
+  event.stonecutting('mcwfurnituresbop:fir_wardrobe', '#forge:furniture_fir_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_fir_log"},
+    result:"mcwfurnituresbop:fir_wardrobe",
     count:1
   })
   event.stonecutting('biomesoplenty:hellbark_log', '#forge:furniture_hellbark_log')

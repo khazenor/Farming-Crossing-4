@@ -236,7 +236,19 @@ ServerEvents.tags('item', event => {
       'cosmeticarmoursmod:frankenstein_bolts_helmet', 
       'cosmeticarmoursmod:witches_hat_helmet', 
       'cosmeticarmoursmod:yorkshire_cap_helmet', 
-      'cosmeticarmoursmod:saw_accident_helmet'
+      'cosmeticarmoursmod:saw_accident_helmet', 
+      'cosmeticarmoursmod:bunny_ears_pink_helmet', 
+      'cosmeticarmoursmod:bunny_tail_pink_chestplate', 
+      'cosmeticarmoursmod:bunny_ears_orange_helmet', 
+      'cosmeticarmoursmod:bunny_tail_orange_chestplate', 
+      'cosmeticarmoursmod:bunny_ears_brown_helmet', 
+      'cosmeticarmoursmod:bunny_tail_brown_chestplate', 
+      'cosmeticarmoursmod:bunny_ears_black_helmet', 
+      'cosmeticarmoursmod:bunny_tail_black_chestplate', 
+      'cosmeticarmoursmod:bunny_ears_grey_helmet', 
+      'cosmeticarmoursmod:bunny_tail_grey_chestplate', 
+      'cosmeticarmoursmod:bunny_ears_white_helmet', 
+      'cosmeticarmoursmod:bunny_tail_white_chestplate'
     ])
 
 })

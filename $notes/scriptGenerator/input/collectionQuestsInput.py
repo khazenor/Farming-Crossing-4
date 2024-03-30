@@ -1647,6 +1647,12 @@ questlines = [
         dependencyIdKey: '3EEF31508FB57A05', # Buy a cloths
         tasksKey: cqlist.cosmHalos
       },
+      { # Bunny Outfit
+        nameKey: 'Bunny Outfit Completion',
+        iconKey: 'cosmeticarmoursmod:bunny_ears_white_helmet',
+        dependencyIdKey: '3EEF31508FB57A05', # Buy a cloths
+        tasksKey: cqlist.cosmBunny
+      },
       { # Misc Hats
         nameKey: 'Misc Hats Completion',
         iconKey: 'cosmeticarmoursmod:frankenstein_bolts_helmet',

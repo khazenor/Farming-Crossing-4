@@ -221,7 +221,6 @@ ServerEvents.tags('item', event => {
       'aquaculture:jungle_fish_mount', 
       'aquaculture:oak_fish_mount', 
       'aquaculture:spruce_fish_mount', 
-      'vinery:wood_fired_oven', 
       'moa_decor_bath:babedul', 
       'moa_decor_bath:babedulsc', 
       'moa_decor_bath:babeto', 

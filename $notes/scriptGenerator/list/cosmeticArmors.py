@@ -154,6 +154,18 @@ armor2 = [
   'cosmeticarmoursmod:light_grey_plaid_skirt_leggings',
   'cosmeticarmoursmod:white_skirt_leggings',
   'cosmeticarmoursmod:white_plaid_skirt_leggings'
+  'cosmeticarmoursmod:bunny_ears_black_helmet',
+  'cosmeticarmoursmod:bunny_ears_brown_helmet',
+  'cosmeticarmoursmod:bunny_ears_grey_helmet',
+  'cosmeticarmoursmod:bunny_ears_orange_helmet',
+  'cosmeticarmoursmod:bunny_ears_pink_helmet',
+  'cosmeticarmoursmod:bunny_ears_white_helmet',
+  'cosmeticarmoursmod:bunny_tail_black_chestplate',
+  'cosmeticarmoursmod:bunny_tail_brown_chestplate',
+  'cosmeticarmoursmod:bunny_tail_grey_chestplate',
+  'cosmeticarmoursmod:bunny_tail_orange_chestplate',
+  'cosmeticarmoursmod:bunny_tail_pink_chestplate',
+  'cosmeticarmoursmod:bunny_tail_white_chestplate'
 ]
 armor3 = [
   'cosmeticarmoursmod:astronaut_leggings',
@@ -293,7 +305,13 @@ helmet = [
   'cosmeticarmoursmod:steampunkers_tophat_helmet',
   'cosmeticarmoursmod:straw_hat_helmet',
   'cosmeticarmoursmod:witches_hat_helmet',
-  'cosmeticarmoursmod:yorkshire_cap_helmet'
+  'cosmeticarmoursmod:yorkshire_cap_helmet',
+  'cosmeticarmoursmod:bunny_ears_black_helmet',
+  'cosmeticarmoursmod:bunny_ears_brown_helmet',
+  'cosmeticarmoursmod:bunny_ears_grey_helmet',
+  'cosmeticarmoursmod:bunny_ears_orange_helmet',
+  'cosmeticarmoursmod:bunny_ears_pink_helmet',
+  'cosmeticarmoursmod:bunny_ears_white_helmet'
 ]
 chestplate = [
   'cosmeticarmoursmod:astronaut_chestplate',
@@ -354,7 +372,13 @@ chestplate = [
   'cosmeticarmoursmod:winter_survivalist_blue_chestplate',
   'cosmeticarmoursmod:winter_survivalist_brown_chestplate',
   'cosmeticarmoursmod:winter_survivalist_grey_chestplate',
-  'cosmeticarmoursmod:yellow_skirt_chestplate'
+  'cosmeticarmoursmod:yellow_skirt_chestplate',
+  'cosmeticarmoursmod:bunny_tail_black_chestplate',
+  'cosmeticarmoursmod:bunny_tail_brown_chestplate',
+  'cosmeticarmoursmod:bunny_tail_grey_chestplate',
+  'cosmeticarmoursmod:bunny_tail_orange_chestplate',
+  'cosmeticarmoursmod:bunny_tail_pink_chestplate',
+  'cosmeticarmoursmod:bunny_tail_white_chestplate'
 ]
 leggings = [
   'cosmeticarmoursmod:archers_attire_leggings',

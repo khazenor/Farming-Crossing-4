@@ -19,6 +19,8 @@
   - crops and flowers added to the market
   - flowers duplicable with bonemeal
   - Crops plantable in botany pots
+- Cosmetic Armors
+  - Added the bunny outfit into collection quests and Elna's shop
 ## Mods Removed:
 - Botany Pots Tiers
 - chisels and bits

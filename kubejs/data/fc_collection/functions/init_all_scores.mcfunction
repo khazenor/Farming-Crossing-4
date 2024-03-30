@@ -282,5 +282,7 @@ scoreboard objectives add clothing_collection_masks_completion dummy {"text":"cl
 scoreboard players set @p clothing_collection_masks_completion 0
 scoreboard objectives add clothing_collection_halo_completion dummy {"text":"clothing_collection_halo_completion"}
 scoreboard players set @p clothing_collection_halo_completion 0
+scoreboard objectives add clothing_collection_bunny_outfit_completion dummy {"text":"clothing_collection_bunny_outfit_completion"}
+scoreboard players set @p clothing_collection_bunny_outfit_completion 0
 scoreboard objectives add clothing_collection_misc_hats_completion dummy {"text":"clothing_collection_misc_hats_completion"}
 scoreboard players set @p clothing_collection_misc_hats_completion 0

@@ -9678,6 +9678,515 @@
 			dependencies: ["3EEF31508FB57A05"]
 			disable_toast: true
 			hide: true
+			id: "6B88740FB926DF24"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:clothing_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "42E1E3DAAD6F70EB"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:clothing_collection_bunny_outfit_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7546488C9518A4A9"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "13FC58D130DAF3A5"
+				item: {
+					Count: 1b
+					id: "cosmeticarmoursmod:bunny_ears_pink_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 56.0d
+		}
+		{
+			dependencies: ["3EEF31508FB57A05"]
+			disable_toast: true
+			hide: true
+			id: "7C52E0FD08EB6F82"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:clothing_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "357B282D8D70E0CE"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:clothing_collection_bunny_outfit_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "19433264A1E42FE2"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "6F82F8C2308B8333"
+				item: {
+					Count: 1b
+					id: "cosmeticarmoursmod:bunny_tail_pink_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 56.0d
+		}
+		{
+			dependencies: ["3EEF31508FB57A05"]
+			disable_toast: true
+			hide: true
+			id: "7931B4C643CF9E3D"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:clothing_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "5121079F9C01D54A"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:clothing_collection_bunny_outfit_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3777B3C9EBBA89B3"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "0C0D91003108C3FA"
+				item: {
+					Count: 1b
+					id: "cosmeticarmoursmod:bunny_ears_orange_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 56.0d
+		}
+		{
+			dependencies: ["3EEF31508FB57A05"]
+			disable_toast: true
+			hide: true
+			id: "0C0B4F1992515AC1"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:clothing_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4094DACBBF984180"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:clothing_collection_bunny_outfit_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4EA6AA24A7D1BC9B"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "419C83C9D59E6FDA"
+				item: {
+					Count: 1b
+					id: "cosmeticarmoursmod:bunny_tail_orange_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 56.0d
+		}
+		{
+			dependencies: ["3EEF31508FB57A05"]
+			disable_toast: true
+			hide: true
+			id: "73ABA22D376C8A01"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:clothing_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3A77AFBEB74C8CCD"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:clothing_collection_bunny_outfit_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "518E7FBA51FE0340"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "148B551059B330D3"
+				item: {
+					Count: 1b
+					id: "cosmeticarmoursmod:bunny_ears_brown_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 56.0d
+		}
+		{
+			dependencies: ["3EEF31508FB57A05"]
+			disable_toast: true
+			hide: true
+			id: "5E801ACF8ACE8C63"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:clothing_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7AFC7B251C219D54"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:clothing_collection_bunny_outfit_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "30BADA4267ED0B8F"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "01505C76427AEEF5"
+				item: {
+					Count: 1b
+					id: "cosmeticarmoursmod:bunny_tail_brown_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 56.0d
+		}
+		{
+			dependencies: ["3EEF31508FB57A05"]
+			disable_toast: true
+			hide: true
+			id: "5D5D0872CE4B533A"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:clothing_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "1200A17455CBD634"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:clothing_collection_bunny_outfit_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "66B07865E62DC5A4"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "2129BA52DD2F6D95"
+				item: {
+					Count: 1b
+					id: "cosmeticarmoursmod:bunny_ears_black_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 57.0d
+		}
+		{
+			dependencies: ["3EEF31508FB57A05"]
+			disable_toast: true
+			hide: true
+			id: "09A0DD92CF2459FB"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:clothing_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "626D6A9AE7A4F9CC"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:clothing_collection_bunny_outfit_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "7F289F71BB2AB55B"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "7477C4D795CC3C09"
+				item: {
+					Count: 1b
+					id: "cosmeticarmoursmod:bunny_tail_black_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 57.0d
+		}
+		{
+			dependencies: ["3EEF31508FB57A05"]
+			disable_toast: true
+			hide: true
+			id: "7D5032ED6587121C"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:clothing_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6D2F0EC05327AD11"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:clothing_collection_bunny_outfit_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "69DE8B99EEE37B49"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "1372FF5CE05645A8"
+				item: {
+					Count: 1b
+					id: "cosmeticarmoursmod:bunny_ears_grey_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 57.0d
+		}
+		{
+			dependencies: ["3EEF31508FB57A05"]
+			disable_toast: true
+			hide: true
+			id: "149FB4D03F640FD0"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:clothing_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "154ABBC02C6C0AAD"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:clothing_collection_bunny_outfit_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "747D198F5C46BF95"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "03305823D3ECD133"
+				item: {
+					Count: 1b
+					id: "cosmeticarmoursmod:bunny_tail_grey_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 57.0d
+		}
+		{
+			dependencies: ["3EEF31508FB57A05"]
+			disable_toast: true
+			hide: true
+			id: "1EBAFA99C1A2AC26"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:clothing_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "2961509B695B8E6E"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:clothing_collection_bunny_outfit_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "6978C430F09D80A1"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "03A9A9012DB7A2E7"
+				item: {
+					Count: 1b
+					id: "cosmeticarmoursmod:bunny_ears_white_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 57.0d
+		}
+		{
+			dependencies: ["3EEF31508FB57A05"]
+			disable_toast: true
+			hide: true
+			id: "1B584F95513194FD"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:clothing_collection"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "3496F28B16DDE9C6"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:clothing_collection_bunny_outfit_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "4DA7FA22CE6D0C01"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "4842B3D16F4C8C20"
+				item: {
+					Count: 1b
+					id: "cosmeticarmoursmod:bunny_tail_white_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 57.0d
+		}
+		{
+			dependencies: [
+				"6B88740FB926DF24"
+				"7C52E0FD08EB6F82"
+				"7931B4C643CF9E3D"
+				"0C0B4F1992515AC1"
+				"73ABA22D376C8A01"
+				"5E801ACF8ACE8C63"
+				"5D5D0872CE4B533A"
+				"09A0DD92CF2459FB"
+				"7D5032ED6587121C"
+				"149FB4D03F640FD0"
+				"1EBAFA99C1A2AC26"
+				"1B584F95513194FD"
+			]
+			icon: {
+				Count: 1b
+				id: "cosmeticarmoursmod:bunny_ears_white_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "69EA71C831BB6C10"
+			rewards: [{
+				count: 20
+				id: "4379A3BD3FECF2CC"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "09147D1D99A7E419"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Bunny Outfit Completion"
+			x: -1.0d
+			y: 56.5d
+		}
+		{
+			dependencies: ["3EEF31508FB57A05"]
+			disable_toast: true
+			hide: true
 			id: "20B0BB2F0610DE80"
 			rewards: [
 				{
@@ -9711,7 +10220,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 56.0d
+			y: 58.5d
 		}
 		{
 			dependencies: ["3EEF31508FB57A05"]
@@ -9750,7 +10259,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 56.0d
+			y: 58.5d
 		}
 		{
 			dependencies: ["3EEF31508FB57A05"]
@@ -9789,7 +10298,7 @@
 				type: "item"
 			}]
 			x: 2.0d
-			y: 56.0d
+			y: 58.5d
 		}
 		{
 			dependencies: ["3EEF31508FB57A05"]
@@ -9828,7 +10337,7 @@
 				type: "item"
 			}]
 			x: 3.0d
-			y: 56.0d
+			y: 58.5d
 		}
 		{
 			dependencies: ["3EEF31508FB57A05"]
@@ -9867,7 +10376,7 @@
 				type: "item"
 			}]
 			x: 4.0d
-			y: 56.0d
+			y: 58.5d
 		}
 		{
 			dependencies: ["3EEF31508FB57A05"]
@@ -9906,7 +10415,7 @@
 				type: "item"
 			}]
 			x: 5.0d
-			y: 56.0d
+			y: 58.5d
 		}
 		{
 			dependencies: ["3EEF31508FB57A05"]
@@ -9945,7 +10454,7 @@
 				type: "item"
 			}]
 			x: 0.0d
-			y: 57.0d
+			y: 59.5d
 		}
 		{
 			dependencies: ["3EEF31508FB57A05"]
@@ -9984,7 +10493,7 @@
 				type: "item"
 			}]
 			x: 1.0d
-			y: 57.0d
+			y: 59.5d
 		}
 		{
 			dependencies: [
@@ -10021,7 +10530,7 @@
 			}]
 			title: "Misc Hats Completion"
 			x: -1.0d
-			y: 56.5d
+			y: 59.0d
 		}
 	]
 	title: "Clothing Collection"
