@@ -28,6 +28,7 @@
   - Added the bunny outfit into collection quests and Elna's shop
 - Botania:
   - world gen flowers are added to flora collection
+- Fairy lights
 ## Mods Removed:
 - Botany Pots Tiers
 - chisels and bits
