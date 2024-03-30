@@ -1,6 +1,7 @@
 # 4.0:
 ## Additional Features
-- Clothing and decoration kits (loot bags) are now for sale in the market to help you get the clothing or decoration items more reliably 
+- Clothing and decoration kits (loot bags) are now for sale in the market to help you get the clothing or decoration items more reliably
+- Let's do villagers now take miles ticket are currency instead of emeralds
 ## Mods Added
 - Little Tiles
 - Let's do: Blooming Nature:

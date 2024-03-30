@@ -105,6 +105,13 @@ def villagerTradeWCallback(item, paymentItem, profession, level, experince, pric
 	outStr += "  })\n"
 	return outStr
 
+def removeTradesForProfession(profession):
+	outStr = ""
+	for i in range(5):
+		outStr += f'  event.removeModdedTrades(["{profession}"], {i + 1})\n'
+		outStr += f'  event.removeVanillaTrades(["{profession}"], {i + 1})\n'
+	return outStr
+
 def createSimple(objectId):
 	return f'  event.create("{objectId}")\n'
 
