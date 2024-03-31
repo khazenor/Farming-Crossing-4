@@ -12,6 +12,7 @@
 - all tea leaves should be useable to make matcha related goods
 - Elna now moves in after you purchase 10 hats instead of 20.
 - Nether gem ores are now rarer.
+- Move lets do outfits to Elna's clothes shop
 ## Mods Added
 - Little Tiles
 - No Mob Farms to disincentivize mob farming
