@@ -1,0 +1,26 @@
+{
+  "type": "lootbags:loot",
+  "name": "Chef Outfit Clothing Collection Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "candlelight:cooking_hat",
+        "weight": 1
+      },
+      {
+        "stack": "candlelight:chefs_jacket",
+        "weight": 1
+      },
+      {
+        "stack": "candlelight:chefs_pants",
+        "weight": 1
+      },
+      {
+        "stack": "candlelight:chefs_boots",
+        "weight": 1
+      }
+    ]
+  }
+}

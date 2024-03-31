@@ -1,0 +1,42 @@
+{
+  "type": "lootbags:loot",
+  "name": "Brewfest Outfit Clothing Collection Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "brewery:brewfest_hat",
+        "weight": 1
+      },
+      {
+        "stack": "brewery:brewfest_regalia",
+        "weight": 1
+      },
+      {
+        "stack": "brewery:brewfest_trousers",
+        "weight": 1
+      },
+      {
+        "stack": "brewery:brewfest_boots",
+        "weight": 1
+      },
+      {
+        "stack": "brewery:brewfest_hat_red",
+        "weight": 1
+      },
+      {
+        "stack": "brewery:brewfest_dress",
+        "weight": 1
+      },
+      {
+        "stack": "brewery:brewfest_blouse",
+        "weight": 1
+      },
+      {
+        "stack": "brewery:brewfest_shoes",
+        "weight": 1
+      }
+    ]
+  }
+}

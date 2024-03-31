@@ -1,0 +1,26 @@
+{
+  "type": "lootbags:loot",
+  "name": "Vinemaker's Outfit Clothing Collection Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "vinery:straw_hat",
+        "weight": 1
+      },
+      {
+        "stack": "vinery:winemaker_apron",
+        "weight": 1
+      },
+      {
+        "stack": "vinery:winemaker_leggings",
+        "weight": 1
+      },
+      {
+        "stack": "vinery:winemaker_boots",
+        "weight": 1
+      }
+    ]
+  }
+}

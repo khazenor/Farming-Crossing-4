@@ -907,14 +907,12 @@ questlines = [
       { # Aging Barrel
         nameKey: 'Aging Barrel Recipes Completion',
         iconKey: 'vinery:fermentation_barrel',
-        additionalRewardsKey: cqlist.outfitVinemaker,
         dependencyIdKey: '45CAACDFDC15E734', # cake
         tasksKey: cqlist.foodAgingBarrel
       },
       { # Cheese Press
         nameKey: 'Cheese Press Recipes Completion',
         iconKey: 'meadow:cheese_form',
-        additionalRewardsKey: cqlist.outfitFur,
         dependencyIdKey: '65B28F78A7DDBD06', # wine
         tasksKey: cqlist.foodCheesePress
       },
@@ -927,7 +925,6 @@ questlines = [
       { # Cooking Pan
         nameKey: 'Cooking Pan Recipes Completion',
         iconKey: 'candlelight:cooking_pan',
-        additionalRewardsKey: cqlist.outfitChef,
         dependencyIdKey: '48C7E0AF4C9A3C3E', # mushroom soup
         tasksKey: cqlist.foodCookingPan
       },
@@ -946,7 +943,6 @@ questlines = [
       { # Tiki Bar
         nameKey: 'Tiki Bar Recipes Completion',
         iconKey: 'beachparty:tiki_bar',
-        additionalRewardsKey: cqlist.outfitBeach,
         dependencyIdKey: '2D0063702FDE9B52', # ice cream coconut
         tasksKey: cqlist.foodTikiBar
       },
@@ -1586,6 +1582,36 @@ questlines = [
         iconKey: 'cosmeticarmoursmod:mobster_chestplate',
         dependencyIdKey: '3EEF31508FB57A05', # Buy a cloths
         tasksKey: cqlist.cosmMobster
+      },
+      { # Beach Outfit
+        nameKey: 'Beach Outfit Completion',
+        iconKey: 'beachparty:beach_hat',
+        dependencyIdKey: '3EEF31508FB57A05', # Buy a cloths
+        tasksKey: cqlist.outfitBeach
+      },
+      { # Chef Outfit
+        nameKey: 'Chef Outfit Completion',
+        iconKey: 'candlelight:cooking_hat',
+        dependencyIdKey: '3EEF31508FB57A05', # Buy a cloths
+        tasksKey: cqlist.outfitChef
+      },
+      { # Fur Outfit
+        nameKey: 'Fur Outfit Completion',
+        iconKey: 'meadow:fur_helmet',
+        dependencyIdKey: '3EEF31508FB57A05', # Buy a cloths
+        tasksKey: cqlist.outfitFur
+      },
+      { # Vinemaker's Outfit
+        nameKey: "Vinemaker's Outfit Completion",
+        iconKey: 'vinery:straw_hat',
+        dependencyIdKey: '3EEF31508FB57A05', # Buy a cloths
+        tasksKey: cqlist.outfitVinemaker
+      },
+      { # Brewfest Outfit
+        nameKey: 'Brewfest Outfit Completion',
+        iconKey: 'brewery:brewfest_hat',
+        dependencyIdKey: '3EEF31508FB57A05', # Buy a cloths
+        tasksKey: cqlist.outfitBrewfest
       },
       { # Tops
         nameKey: 'Tops Completion',

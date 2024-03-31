@@ -1,0 +1,26 @@
+{
+  "type": "lootbags:loot",
+  "name": "Fur Outfit Clothing Collection Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "meadow:fur_helmet",
+        "weight": 1
+      },
+      {
+        "stack": "meadow:fur_chestplate",
+        "weight": 1
+      },
+      {
+        "stack": "meadow:fur_leggings",
+        "weight": 1
+      },
+      {
+        "stack": "meadow:fur_boots",
+        "weight": 1
+      }
+    ]
+  }
+}

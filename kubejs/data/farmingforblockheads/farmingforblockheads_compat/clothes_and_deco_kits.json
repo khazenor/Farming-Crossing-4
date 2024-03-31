@@ -1221,6 +1221,91 @@
         "count": 1,
         "nbt": {
           "Color": 13882323,
+          "Loot": "lootbags:clothing_collection/beach_outfit_completion",
+          "Name": "Beach Outfit Clothing Collection Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 12
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:clothing_collection/chef_outfit_completion",
+          "Name": "Chef Outfit Clothing Collection Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 12
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:clothing_collection/fur_outfit_completion",
+          "Name": "Fur Outfit Clothing Collection Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 12
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:clothing_collection/vinemakers_outfit_completion",
+          "Name": "Vinemaker's Outfit Clothing Collection Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 12
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
+          "Loot": "lootbags:clothing_collection/brewfest_outfit_completion",
+          "Name": "Brewfest Outfit Clothing Collection Kit",
+          "Type": "UNCOMMON"
+        }
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 8
+      },
+      "category": "clothes_and_deco_kits"
+    },
+    {
+      "output": {
+        "item": "lootbags:loot_bag",
+        "count": 1,
+        "nbt": {
+          "Color": 13882323,
           "Loot": "lootbags:clothing_collection/tops_completion",
           "Name": "Tops Clothing Collection Kit",
           "Type": "UNCOMMON"

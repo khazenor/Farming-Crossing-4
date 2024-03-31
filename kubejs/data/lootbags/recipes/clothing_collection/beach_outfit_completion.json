@@ -1,0 +1,26 @@
+{
+  "type": "lootbags:loot",
+  "name": "Beach Outfit Clothing Collection Kit",
+  "rarity": "UNCOMMON",
+  "output": {
+    "rolls": 1,
+    "entries": [
+      {
+        "stack": "beachparty:beach_hat",
+        "weight": 1
+      },
+      {
+        "stack": "beachparty:swim_wings",
+        "weight": 1
+      },
+      {
+        "stack": "beachparty:trunks",
+        "weight": 1
+      },
+      {
+        "stack": "beachparty:crocs",
+        "weight": 1
+      }
+    ]
+  }
+}

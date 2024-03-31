@@ -30,12 +30,15 @@ ItemEvents.tooltip(event => {
       'cosmeticarmoursmod:bunny_ears_orange_helmet', 
       'cosmeticarmoursmod:bunny_ears_pink_helmet', 
       'cosmeticarmoursmod:bunny_ears_white_helmet', 
+      'meadow:fur_helmet', 
       'cosmeticarmoursmod:bunny_tail_black_chestplate', 
       'cosmeticarmoursmod:bunny_tail_brown_chestplate', 
       'cosmeticarmoursmod:bunny_tail_grey_chestplate', 
       'cosmeticarmoursmod:bunny_tail_orange_chestplate', 
       'cosmeticarmoursmod:bunny_tail_pink_chestplate', 
       'cosmeticarmoursmod:bunny_tail_white_chestplate', 
+      'brewery:brewfest_dress', 
+      'brewery:brewfest_blouse', 
       'cosmeticarmoursmod:archers_attire_leggings', 
       'cosmeticarmoursmod:black_plaid_skirt_leggings', 
       'cosmeticarmoursmod:black_skirt_leggings', 
@@ -83,6 +86,8 @@ ItemEvents.tooltip(event => {
       'cosmeticarmoursmod:winter_survivalist_grey_leggings', 
       'cosmeticarmoursmod:yellow_plaid_skirt_leggings', 
       'cosmeticarmoursmod:yellow_skirt_leggings', 
+      'vinery:winemaker_leggings', 
+      'brewery:brewfest_trousers', 
       'cosmeticarmoursmod:blue_knight_armour_boots', 
       'cosmeticarmoursmod:centurion_uniform_boots', 
       'cosmeticarmoursmod:farmer_attire_boots', 
@@ -146,8 +151,19 @@ ItemEvents.tooltip(event => {
       'cosmeticarmoursmod:steampunkers_tophat_helmet', 
       'cosmeticarmoursmod:straw_hat_helmet', 
       'cosmeticarmoursmod:witches_hat_helmet', 
+      'candlelight:cooking_hat', 
+      'vinery:straw_hat', 
+      'beachparty:beach_hat', 
+      'beachparty:sunglasses', 
+      'brewery:brewfest_hat', 
+      'brewery:brewfest_hat_red', 
       'cosmeticarmoursmod:ghillie_suit_chestplate', 
+      'candlelight:chefs_jacket', 
+      'beachparty:swim_wings', 
       'cosmeticarmoursmod:ghillie_suit_leggings', 
+      'beachparty:bikini', 
+      'beachparty:trunks', 
+      'candlelight:chefs_pants', 
       'cosmeticarmoursmod:archers_attire_boots', 
       'cosmeticarmoursmod:astronaut_boots', 
       'cosmeticarmoursmod:black_plaid_skirt_boots', 
@@ -195,7 +211,13 @@ ItemEvents.tooltip(event => {
       'cosmeticarmoursmod:winter_survivalist_brown_boots', 
       'cosmeticarmoursmod:winter_survivalist_grey_boots', 
       'cosmeticarmoursmod:yellow_plaid_skirt_boots', 
-      'cosmeticarmoursmod:yellow_skirt_boots'
+      'cosmeticarmoursmod:yellow_skirt_boots', 
+      'vinery:winemaker_boots', 
+      'beachparty:crocs', 
+      'brewery:brewfest_shoes', 
+      'candlelight:chefs_boots', 
+      'brewery:brewfest_boots', 
+      'meadow:fur_boots'
     ],
     [
       'Can be purchased from Elna\'s fashion shop', 
@@ -255,6 +277,8 @@ ItemEvents.tooltip(event => {
       'cosmeticarmoursmod:winter_survivalist_brown_chestplate', 
       'cosmeticarmoursmod:winter_survivalist_grey_chestplate', 
       'cosmeticarmoursmod:yellow_skirt_chestplate', 
+      'vinery:winemaker_apron', 
+      'brewery:brewfest_regalia', 
       'cosmeticarmoursmod:astronaut_leggings'
     ],
     [
@@ -269,7 +293,8 @@ ItemEvents.tooltip(event => {
       'cosmeticarmoursmod:green_knight_armour_leggings', 
       'cosmeticarmoursmod:orange_knight_armour_leggings', 
       'cosmeticarmoursmod:pink_knight_armour_leggings', 
-      'cosmeticarmoursmod:red_knight_armour_leggings'
+      'cosmeticarmoursmod:red_knight_armour_leggings', 
+      'meadow:fur_leggings'
     ],
     [
       'Can be purchased from Elna\'s fashion shop', 
@@ -282,7 +307,8 @@ ItemEvents.tooltip(event => {
       'cosmeticarmoursmod:green_knight_armour_chestplate', 
       'cosmeticarmoursmod:orange_knight_armour_chestplate', 
       'cosmeticarmoursmod:pink_knight_armour_chestplate', 
-      'cosmeticarmoursmod:red_knight_armour_chestplate'
+      'cosmeticarmoursmod:red_knight_armour_chestplate', 
+      'meadow:fur_chestplate'
     ],
     [
       'Can be purchased from Elna\'s fashion shop', 

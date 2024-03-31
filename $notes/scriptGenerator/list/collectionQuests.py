@@ -110,12 +110,6 @@ foodGrapevinePot = [
   'vinery:savanna_red_grapejuice_bottle',
   'vinery:savanna_white_grapejuice_bottle'
 ]
-outfitVinemaker = [
-  'vinery:straw_hat',
-  'vinery:winemaker_apron',
-  'vinery:winemaker_leggings',
-  'vinery:winemaker_boots'
-]
 foodAgingBarrel = [
   'vinery:apple_juice',
   'vinery:apple_wine',
@@ -146,12 +140,6 @@ foodAgingBarrel = [
   'vinery:bottle_mojang_noir',
   'vinery:eiswein'
 ]
-outfitFur = [
-  'meadow:fur_helmet',
-  'meadow:fur_chestplate',
-  'meadow:fur_leggings',
-  'meadow:fur_boots'
-]
 foodCheesePress = [
   'meadow:cheese_block',
   'meadow:sheep_cheese_block',
@@ -174,12 +162,6 @@ foodCookingPot = [
   'candlelight:chicken',
   'candlelight:pork_ribs',
   'candlelight:salmon_wine'
-]
-outfitChef = [
-  'candlelight:cooking_hat',
-  'candlelight:chefs_jacket',
-  'candlelight:chefs_pants',
-  'candlelight:chefs_boots'
 ]
 foodCookingPan = [
   'candlelight:pancake',
@@ -217,12 +199,6 @@ foodMiniFridge = [
   'beachparty:icecream_cactus',
   'beachparty:icecream_melon',
   'beachparty:icecream_sweetberries',
-]
-outfitBeach = [
-  'beachparty:beach_hat',
-  'beachparty:swim_wings',
-  'beachparty:trunks',
-  'beachparty:crocs'
 ]
 foodTikiBar = [
   'beachparty:chocolate_milkshake',
@@ -1853,8 +1829,43 @@ cosmBunny = [
   'cosmeticarmoursmod:bunny_ears_white_helmet',
   'cosmeticarmoursmod:bunny_tail_white_chestplate'
 ]
+outfitBeach = [
+  'beachparty:beach_hat',
+  'beachparty:swim_wings',
+  'beachparty:trunks',
+  'beachparty:crocs'
+]
+outfitChef = [
+  'candlelight:cooking_hat',
+  'candlelight:chefs_jacket',
+  'candlelight:chefs_pants',
+  'candlelight:chefs_boots'
+]
+outfitFur = [
+  'meadow:fur_helmet',
+  'meadow:fur_chestplate',
+  'meadow:fur_leggings',
+  'meadow:fur_boots'
+]
+outfitVinemaker = [
+  'vinery:straw_hat',
+  'vinery:winemaker_apron',
+  'vinery:winemaker_leggings',
+  'vinery:winemaker_boots'
+]
+outfitBrewfest = [
+  'brewery:brewfest_hat',
+  'brewery:brewfest_regalia',
+  'brewery:brewfest_trousers',
+  'brewery:brewfest_boots',
+  'brewery:brewfest_hat_red',
+  'brewery:brewfest_dress',
+  'brewery:brewfest_blouse',
+  'brewery:brewfest_shoes'
+]
 allCosm = (cosmRoyalOutfit + cosmSteampunkers + cosmWinterSurvivalist
   + cosmAstronaut + cosmCenturion + cosmFarmer + cosmFisherman + cosmGhillieSuit
   + cosmMobster + cosmTops + cosmSkirtBoots + cosmThighHighSocks + cosmKnightArmors
   + cosmArchersAttire + cosmChristmas + cosmElves + cosmCrowns + cosmCatEars + cosmMasks
-  + cosmHalos + cosmMiscHats + cosmBunny)
+  + cosmHalos + cosmMiscHats + cosmBunny + outfitBeach + outfitChef + outfitFur
+  + outfitVinemaker + outfitBrewfest)
