@@ -1,4 +1,6 @@
 # 4.0:
+## Release Notes:
+- I strongly suggest starting a new world for this update.  If you want to play in an existing world there are no guarantees on the collection quest working properly.
 ## Serene Seasons and Real Seasons are Added and fc villagers now have seasonal trades!
 - Andre now sells seasonal animal plushes
 - Laly now buys different gems based on the season
