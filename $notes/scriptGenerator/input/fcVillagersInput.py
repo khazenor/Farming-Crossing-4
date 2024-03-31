@@ -449,7 +449,7 @@ villagers = [
           "vinery:wine_bottle",
           "bakery:tray"
         ],
-        villagerNum: 16
+        villagerNum: 64
 			},
       {
         villagerItems: [
