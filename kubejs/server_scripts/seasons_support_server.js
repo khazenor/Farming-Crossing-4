@@ -21,8 +21,23 @@ const seasonName = (seasonObj) => {
 } 
 let season
 
+const getSeasonFromLevel = (level) => {
+  return seasonName(SeasonHelper.getSeasonState(level).getSeason())
+}
+
 LevelEvents.loaded(event => {
-  season = seasonName(SeasonHelper.getSeasonState(event.level).getSeason())
+  season = getSeasonFromLevel(event.level)
+})
+
+ServerEvents.tick(event => {
+  const level = event.getServer().getLevel()
+  const curSeason = getSeasonFromLevel(level)
+  if (season !== curSeason) {
+    for (const player of level.players) {
+      player.tell(`The season is now ${season}`)
+      updateVillagerAroundPlayer(player)
+    }
+  }
 })
 
 ItemEvents.rightClicked('sereneseasons:calendar', event => {
