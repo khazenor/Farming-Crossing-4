@@ -3,6 +3,7 @@ ItemEvents.tooltip(event => {
     [
       'framedblocks:framed_cube', 
       'wands:diamond_wand', 
+      'constructionwand:diamond_wand', 
       'chipped:botanist_workbench', 
       'chipped:glassblower', 
       'chipped:carpenters_table', 
@@ -38,6 +39,67 @@ ItemEvents.tooltip(event => {
     ],
     [
       'You can buy this item from Ren'
+    ])
+  event.add(
+    [
+      'luphieclutteredmod:luphie_general_store_cabinet', 
+      'luphieclutteredmod:luphie_mermaid_dresser', 
+      'luphieclutteredmod:luphie_bunny_book_ends', 
+      'luphieclutteredmod:luphie_pastel_chair', 
+      'luphieclutteredmod:luphie_pastel_table', 
+      'luphieclutteredmod:luphie_rose_endtable', 
+      'luphieclutteredmod:luphie_pastel_block_bookshelf', 
+      'luphieclutteredmod:luphie_hoppin_park_lantern', 
+      'luphieclutteredmod:luphie_pastel_traditional_table', 
+      'luphieclutteredmod:luphie_pastel_wardrobe'
+    ],
+    [
+      'You can buy this item from Ren during Spring'
+    ])
+  event.add(
+    [
+      'luphieclutteredmod:luphie_lunar_observatory_small_table', 
+      'luphieclutteredmod:luphie_nightstand', 
+      'luphieclutteredmod:luphie_greener_nightstand', 
+      'luphieclutteredmod:luphie_cluttered_green_desk', 
+      'luphieclutteredmod:luphie_green_desk', 
+      'luphieclutteredmod:luphie_imperial_table', 
+      'luphieclutteredmod:luphie_wedding_arch', 
+      'luphieclutteredmod:luphie_retro_cafe_shelf', 
+      'luphieclutteredmod:luphie_retro_cafe_shelf_stained_glass', 
+      'luphieclutteredmod:luphie_rovers_stool', 
+      'luphieclutteredmod:luphie_apple_chair'
+    ],
+    [
+      'You can buy this item from Ren during Summer'
+    ])
+  event.add(
+    [
+      'luphieclutteredmod:luphie_lunar_observatory_table', 
+      'luphieclutteredmod:luphie_steampunk_globe', 
+      'luphieclutteredmod:luphie_unliving_chair', 
+      'luphieclutteredmod:luphie_brown_desk', 
+      'luphieclutteredmod:luphie_button_stool', 
+      'luphieclutteredmod:blue_birdhouse', 
+      'luphieclutteredmod:red_birdhouse', 
+      'luphieclutteredmod:unpainted_birdhouse'
+    ],
+    [
+      'You can buy this item from Ren during Fall'
+    ])
+  event.add(
+    [
+      'luphieclutteredmod:luphie_card_index', 
+      'luphieclutteredmod:luphie_china_cabinet', 
+      'luphieclutteredmod:luphie_gothic_rose_endtable', 
+      'luphieclutteredmod:luphie_table_with_cloth', 
+      'luphieclutteredmod:luphie_vial_stand', 
+      'luphieclutteredmod:luphie_cluttered_desk', 
+      'luphieclutteredmod:luphie_havana_cabinet', 
+      'luphieclutteredmod:luphie_cluttered_havana_cabinet'
+    ],
+    [
+      'You can buy this item from Ren during Winter'
     ])
 
 })

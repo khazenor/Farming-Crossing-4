@@ -20,5 +20,50 @@ ItemEvents.tooltip(event => {
     [
       'You can buy this item from Andre'
     ])
+  event.add(
+    [
+      'moa_decor_toys:vaca', 
+      'moa_decor_toys:gatobritanico', 
+      'moa_decor_toys:gatosiames', 
+      'moa_decor_toys:lorocian', 
+      'moa_decor_toys:loroverde'
+    ],
+    [
+      'You can buy this item from Andre during Spring'
+    ])
+  event.add(
+    [
+      'moa_decor_toys:gallina', 
+      'moa_decor_toys:gatojellie', 
+      'moa_decor_toys:gatonegro', 
+      'moa_decor_toys:gatotuxedo', 
+      'moa_decor_toys:loroazul', 
+      'moa_decor_toys:lororojo'
+    ],
+    [
+      'You can buy this item from Andre during Summer'
+    ])
+  event.add(
+    [
+      'moa_decor_toys:gatoatigrado', 
+      'moa_decor_toys:gatocalico', 
+      'moa_decor_toys:gatopersa', 
+      'moa_decor_toys:gatotabby', 
+      'moa_decor_toys:lorogris'
+    ],
+    [
+      'You can buy this item from Andre during Fall'
+    ])
+  event.add(
+    [
+      'moa_decor_toys:zorroblanco', 
+      'moa_decor_toys:lobo', 
+      'moa_decor_toys:osopolar', 
+      'moa_decor_toys:gatoblanco', 
+      'moa_decor_toys:gatoragdoll'
+    ],
+    [
+      'You can buy this item from Andre during Winter'
+    ])
 
 })

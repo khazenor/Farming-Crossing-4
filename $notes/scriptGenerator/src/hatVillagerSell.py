@@ -16,10 +16,10 @@ hatPrice = 8
 
 def genHatVillagerTrades():
 	tradeContent = ''
-	for level, villagerItems in enumerate(villagerLevels):
-		for villagerItem in villagerItems:
+	for level, villagerItemss in enumerate(villagerLevels):
+		for villagerItems in villagerItemss:
 			tradeContent += kubejs.villagerTradeWithDefaultSales(
-				villagerItem,
+				villagerItems,
 				1,
 				const.priceItem,
 				hatPrice,

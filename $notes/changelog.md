@@ -1,4 +1,11 @@
 # 4.0:
+## Serene Seasons and Real Seasons are Added and fc villagers now have seasonal trades!
+- Andre now sells seasonal animal plushes
+- Laly now buys different gems based on the season
+- Sam now buys different fishes based on the season
+- Pamela serves food made with season produce
+- Ren sells furniture with seasonal style
+- Yukkie buys select seasonal fruits in bulk
 ## Additional Features
 - Clothing and decoration kits (loot bags) are now for sale in the market to help you get the clothing or decoration items more reliably
 - Let's do villagers now take miles ticket are currency instead of emeralds

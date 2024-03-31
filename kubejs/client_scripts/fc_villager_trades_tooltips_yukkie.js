@@ -59,5 +59,40 @@ ItemEvents.tooltip(event => {
     [
       'You can sell this item to Yukkie'
     ])
+  event.add(
+    [
+      'bakery:strawberry'
+    ],
+    [
+      'You can sell this item to Yukkie during Spring'
+    ])
+  event.add(
+    [
+      'vinery:cherry'
+    ],
+    [
+      'You can sell this item to Yukkie during Summer'
+    ])
+  event.add(
+    [
+      'vinery:red_grape', 
+      'vinery:white_grape', 
+      'vinery:savanna_grapes_red', 
+      'vinery:savanna_grapes_white', 
+      'vinery:taiga_grapes_red', 
+      'vinery:taiga_grapes_white', 
+      'vinery:jungle_grapes_red', 
+      'vinery:jungle_grapes_white'
+    ],
+    [
+      'You can sell this item to Yukkie during Fall'
+    ])
+  event.add(
+    [
+      'pamhc2trees:orangeitem'
+    ],
+    [
+      'You can sell this item to Yukkie during Winter'
+    ])
 
 })

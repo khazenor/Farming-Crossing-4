@@ -44,9 +44,9 @@ def woodcutting(tagInput, outputItem, outputNumber):
 	return outstr
 
 def villagerTradeWithDefaultSales(
-	villagerItem,
+	villagerItems,
 	villagerNum,
-	playerItem,
+	playerItems,
 	playerNum,
 	profession,
 	level,
@@ -73,21 +73,21 @@ def villagerTradeWithDefaultSales(
 				updatedPlayerNum = playerNum
 
 			tradeContent += villagerTradeWithDefaults(
-				villagerItem,
+				villagerItems,
 				updatedVillagerNum,
-				playerItem,
+				playerItems,
 				updatedPlayerNum,
 				profession,
 				level
 			)
 	return tradeContent
 
-def villagerTradeWithDefaults(villagerItem, villagerNum, playerItem, playerNum, profession, level):
+def villagerTradeWithDefaults(villagerItems, villagerNum, playerItems, playerNum, profession, level):
 	tradeExperience = 25
 	priceMultiplier = 0.035
 	return villagerTradeWCallback(
-		f'{playerNum}x {playerItem}',
-		f'{villagerNum}x {villagerItem}',
+		f'{playerNum}x {playerItems}',
+		f'{villagerNum}x {villagerItems}',
 		profession,
 		level,
 		tradeExperience,

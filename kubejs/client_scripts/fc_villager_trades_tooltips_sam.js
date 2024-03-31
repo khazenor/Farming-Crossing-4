@@ -21,14 +21,56 @@ ItemEvents.tooltip(event => {
     ])
   event.add(
     [
-      'aquaculture:catfish', 
-      'aquaculture:capitaine', 
-      'aquaculture:tuna', 
-      'aquaculture:arrau_turtle', 
-      'aquaculture:starshell_turtle'
+      'aquaculture:bluegill', 
+      'aquaculture:perch', 
+      'aquaculture:minnow', 
+      'aquaculture:smallmouth_bass', 
+      'aquaculture:brown_trout', 
+      'aquaculture:carp', 
+      'aquaculture:gar', 
+      'aquaculture:muskellunge', 
+      'aquaculture:catfish'
     ],
     [
-      'You can sell this item to Sam'
+      'You can sell this item to Sam during Spring'
+    ])
+  event.add(
+    [
+      'aquaculture:piranha', 
+      'aquaculture:tambaqui', 
+      'aquaculture:capitaine', 
+      'aquaculture:arapaima'
+    ],
+    [
+      'You can sell this item to Sam during Summer'
+    ])
+  event.add(
+    [
+      'aquaculture:brown_shrooma', 
+      'aquaculture:red_shrooma', 
+      'aquaculture:synodontis', 
+      'aquaculture:boulti', 
+      'aquaculture:bayad', 
+      'aquaculture:arrau_turtle'
+    ],
+    [
+      'You can sell this item to Sam during Fall'
+    ])
+  event.add(
+    [
+      'aquaculture:atlantic_herring', 
+      'aquaculture:blackfish', 
+      'aquaculture:pollock', 
+      'aquaculture:atlantic_cod', 
+      'aquaculture:pacific_halibut', 
+      'aquaculture:atlantic_halibut', 
+      'aquaculture:pink_salmon', 
+      'aquaculture:rainbow_trout', 
+      'aquaculture:red_grouper', 
+      'aquaculture:tuna'
+    ],
+    [
+      'You can sell this item to Sam during Winter'
     ])
 
 })

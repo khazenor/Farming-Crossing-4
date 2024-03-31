@@ -2,7 +2,7 @@ from lib import commands
 
 nitwitVillagerData = '{ profession: "minecraft:nitwit", level: 5, type: "minecraft:plains" }'
 
-villagerItemKey = 'villagerItemKey'
+villagerItemsKey = 'villagerItemsKey'
 villagerQtyKey = 'villagerQtyKey'
 playerGiveKey = 'playerGiveKey'
 playerQtyKey = 'playerQtyKey'
@@ -36,13 +36,13 @@ def nameSelector(name):
 def offerString(offers):
 	return f"{{Recipes: [{offerRecipeString(offers)}]}}"
 
-# offer: {villagerItem, villagerQty, playerGive, playerQty}
+# offer: {villagerItems, villagerQty, playerGive, playerQty}
 def offerRecipeString(offers):
 	offerRecipeStringOut = ""
 	for i, offer in enumerate(offers):
 		offerRecipeStringOut += '{'
 		offerRecipeStringOut += f'buy: {{id: "{offer[playerGiveKey]}", Count: {offer[playerQtyKey]}}}'
-		offerRecipeStringOut += f',sell: {{id: "{offer[villagerItemKey]}", Count: {offer[villagerQtyKey]}}}'
+		offerRecipeStringOut += f',sell: {{id: "{offer[villagerItemsKey]}", Count: {offer[villagerQtyKey]}}}'
 		offerRecipeStringOut += ',maxUses: 2147483647, xp: 0, uses: 0, priceMultiplier: 0.0, specialPrice: 0'
 		offerRecipeStringOut += ', demand: 0, rewardExp: 0'
 		offerRecipeStringOut += '}'

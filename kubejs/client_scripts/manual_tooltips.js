@@ -56,4 +56,9 @@ ItemEvents.tooltip(event => {
   event.add('brewery:mashed_potatoes', [
     'Created by throwing a baked potato on top of a stonecutter'
   ])
+
+  event.add('sereneseasons:calendar', [
+    "Right click this item in the air to update",
+    "farming crossing npc's trades for this season."
+  ])
 })

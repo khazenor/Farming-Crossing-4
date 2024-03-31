@@ -28,12 +28,12 @@ priceReference = {
 def genClotheVillagerTrades():
 	tradeContent = ''
 	itemsByPrice = {}
-	for level, villagerItems in enumerate(itemsForSell):
-		for villagerItem in villagerItems:
-			price = priceLookup(villagerItem)
-			util.addToDictList(itemsByPrice, price, villagerItem)
+	for level, villagerItemss in enumerate(itemsForSell):
+		for villagerItems in villagerItemss:
+			price = priceLookup(villagerItems)
+			util.addToDictList(itemsByPrice, price, villagerItems)
 			tradeContent += kubejs.villagerTradeWithDefaultSales(
-				villagerItem,
+				villagerItems,
 				1,
 				'kubejs:miles_ticket',
 				price,

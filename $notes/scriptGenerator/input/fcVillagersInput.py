@@ -4,10 +4,14 @@ nameKey = 'nameKey'
 textureKey = 'textureKey'
 
 tradesKey = 'tradesKey'
-villagerGiveItemsKey = 'villagerGiveItemsKey'
-villagerGiveNumKey = 'villagerGiveNumKey'
-playerGiveItemsKey = 'playerGiveItemsKey'
-playerGiveNumKey = 'playerGiveNumKey'
+springTradesKey = 'spring'
+summerTradesKey = 'summer'
+fallTradesKey = 'fall'
+winterTradesKey = 'winter'
+villagerItems = 'villagerItems'
+villagerNum = 'villagerNum'
+playerItems = 'playerItems'
+playerNum = 'playerNum'
 
 villagers = [
 	{ # Ren
@@ -15,15 +19,15 @@ villagers = [
 		textureKey: "woodpecker",
 		tradesKey: [
 			{
-				villagerGiveItemsKey: ["framedblocks:framed_cube"],
-				villagerGiveNumKey: 64
+				villagerItems: ["framedblocks:framed_cube"],
+				villagerNum: 64
 			},
       {
-        villagerGiveItemsKey: ["wands:diamond_wand"],
-        playerGiveNumKey: 64
+        villagerItems: ["wands:diamond_wand", "constructionwand:diamond_wand"],
+        playerNum: 64
 			},
       { # tools
-        villagerGiveItemsKey: [
+        villagerItems: [
           "chipped:botanist_workbench",
           "chipped:glassblower",
           "chipped:carpenters_table",
@@ -37,10 +41,10 @@ villagers = [
           "meadow:woodcutter",
           "meadow:wooden_cauldron"
 				],
-        playerGiveNumKey: 6
+        playerNum: 6
 			},
       { # decorations
-        villagerGiveItemsKey: [
+        villagerItems: [
           "beautify:hanging_pot",
           "vinery:storage_pot",
           "vinery:flower_box",
@@ -63,24 +67,79 @@ villagers = [
           "meadow:wooden_bucket"
 				]
 			}
-		]
+		],
+    springTradesKey: [
+      {
+        villagerItems: [
+          'luphieclutteredmod:luphie_general_store_cabinet',
+          'luphieclutteredmod:luphie_mermaid_dresser',
+          'luphieclutteredmod:luphie_bunny_book_ends',
+          'luphieclutteredmod:luphie_pastel_chair',
+          'luphieclutteredmod:luphie_pastel_table',
+          'luphieclutteredmod:luphie_rose_endtable',
+          'luphieclutteredmod:luphie_pastel_block_bookshelf',
+          'luphieclutteredmod:luphie_hoppin_park_lantern',
+          'luphieclutteredmod:luphie_pastel_traditional_table',
+          'luphieclutteredmod:luphie_pastel_wardrobe'
+        ],
+        playerNum: 6
+      }
+    ],
+    summerTradesKey: [
+      {
+        villagerItems: [
+          'luphieclutteredmod:luphie_lunar_observatory_small_table',
+          'luphieclutteredmod:luphie_nightstand',
+          'luphieclutteredmod:luphie_greener_nightstand',
+          'luphieclutteredmod:luphie_cluttered_green_desk',
+          'luphieclutteredmod:luphie_green_desk',
+          'luphieclutteredmod:luphie_imperial_table',
+          'luphieclutteredmod:luphie_wedding_arch',
+          'luphieclutteredmod:luphie_retro_cafe_shelf',
+          'luphieclutteredmod:luphie_retro_cafe_shelf_stained_glass',
+          'luphieclutteredmod:luphie_rovers_stool',
+          'luphieclutteredmod:luphie_apple_chair'
+        ],
+        playerNum: 6
+      }
+    ],
+    fallTradesKey: [
+      {
+        villagerItems: [
+          'luphieclutteredmod:luphie_lunar_observatory_table',
+          'luphieclutteredmod:luphie_steampunk_globe',
+          'luphieclutteredmod:luphie_unliving_chair',
+          'luphieclutteredmod:luphie_brown_desk',
+          'luphieclutteredmod:luphie_button_stool',
+          'luphieclutteredmod:blue_birdhouse',
+          'luphieclutteredmod:red_birdhouse',
+          'luphieclutteredmod:unpainted_birdhouse'
+        ],
+        playerNum: 6
+      }
+    ],
+    winterTradesKey: [
+      {
+        villagerItems: [
+          'luphieclutteredmod:luphie_card_index',
+          'luphieclutteredmod:luphie_china_cabinet',
+          'luphieclutteredmod:luphie_gothic_rose_endtable',
+          'luphieclutteredmod:luphie_table_with_cloth',
+          'luphieclutteredmod:luphie_vial_stand',
+          'luphieclutteredmod:luphie_cluttered_desk',
+          'luphieclutteredmod:luphie_havana_cabinet',
+          'luphieclutteredmod:luphie_cluttered_havana_cabinet'
+        ],
+        playerNum: 6
+      }
+    ]
 	},
   { # Sam
     nameKey: "Sam",
     textureKey: "eagle",
     tradesKey: [
-      { # rare fish sells
-        playerGiveItemsKey: [
-          "aquaculture:catfish",
-          "aquaculture:capitaine",
-          "aquaculture:tuna",
-          "aquaculture:arrau_turtle",
-          "aquaculture:starshell_turtle"
-				],
-        villagerGiveNumKey: 20
-			},
       { # sushi
-        villagerGiveItemsKey: [
+        villagerItems: [
           "pamhc2foodextended:sushiitem",
           "aquaculture:sushi",
           "pamhc2foodextended:californiarollitem",
@@ -88,151 +147,391 @@ villagers = [
           "farmersdelight:cod_roll",
           "farmersdelight:kelp_roll_slice",
           "aquaculturedelight:raw_fish_fillet_roll"
-				]
+				],
+        playerNum: 2
 			},
       {
-				villagerGiveItemsKey: ['moa_decor_cookery:sushi'],
-        playerGiveNumKey: 4
+				villagerItems: ['moa_decor_cookery:sushi'],
+        playerNum: 8
 			},
       {
-				villagerGiveItemsKey: ['farmersdelight:rice_roll_medley_block'],
-        playerGiveNumKey: 6
+				villagerItems: ['farmersdelight:rice_roll_medley_block'],
+        playerNum: 6
 			},
-			{ villagerGiveItemsKey: ['aquaculture:algae'] },
+			{ villagerItems: ['aquaculture:algae'] },
       {
-        villagerGiveItemsKey: ['aquaculture:lockbox'],
-        playerGiveNumKey: 4
-			},
-      {
-        villagerGiveItemsKey: ['aquaculture:treasure_chest'],
-        playerGiveNumKey: 8
+        villagerItems: ['aquaculture:lockbox'],
+        playerNum: 4
 			},
       {
-        villagerGiveItemsKey: ['minecraft:trident'],
-        playerGiveNumKey: 6
+        villagerItems: ['aquaculture:treasure_chest'],
+        playerNum: 8
 			},
       {
-        villagerGiveItemsKey: ['aquaculture:neptunium_ingot'],
-        playerGiveNumKey: 64
+        villagerItems: ['minecraft:trident'],
+        playerNum: 6
+			},
+      {
+        villagerItems: ['aquaculture:neptunium_ingot'],
+        playerNum: 64
 			}
-		]
+		],
+    springTradesKey: [
+      { playerItems: ['aquaculture:bluegill'], villagerNum: 2},
+      { # 3
+        playerItems: [
+          'aquaculture:perch',
+          'aquaculture:minnow'
+        ],
+        villagerNum: 3
+      },
+      { # 4
+        playerItems: [
+          'aquaculture:smallmouth_bass',
+          'aquaculture:brown_trout',
+          'aquaculture:carp'
+        ],
+        villagerNum: 4
+      },
+      {
+        playerItems: [
+          'aquaculture:gar',
+          'aquaculture:muskellunge'
+        ],
+        villagerNum: 5
+      },
+      { playerItems: ['aquaculture:catfish'], villagerNum: 12 }
+    ],
+    summerTradesKey: [
+      { playerItems: ['aquaculture:piranha'], villagerNum: 2 },
+      { playerItems: ['aquaculture:tambaqui'], villagerNum: 5},
+      {
+        playerItems: [
+          'aquaculture:capitaine',
+          'aquaculture:arapaima'
+        ],
+        villagerNum: 12
+      }
+    ],
+    fallTradesKey: [
+      {
+        playerItems: [
+          'aquaculture:brown_shrooma',
+          'aquaculture:red_shrooma'
+        ]
+      },
+      { playerItems: ['aquaculture:synodontis'], villagerNum: 2 },
+      { playerItems: ['aquaculture:boulti'], villagerNum: 4 },
+      { playerItems: ['aquaculture:bayad'], villagerNum: 5 },
+      { playerItems: ['aquaculture:arrau_turtle'], villagerNum: 12}
+    ],
+    winterTradesKey: [
+      { playerItems: ['aquaculture:atlantic_herring'], villagerNum: 2 },
+      { playerItems: ['aquaculture:blackfish'], villagerNum: 3 },
+      { playerItems: ['aquaculture:pollock'], villagerNum: 4 },
+      {
+        playerItems: [
+          'aquaculture:atlantic_cod',
+          'aquaculture:pacific_halibut',
+          'aquaculture:atlantic_halibut',
+          'aquaculture:pink_salmon',
+          'aquaculture:rainbow_trout',
+          'aquaculture:red_grouper'
+        ],
+        villagerNum: 5
+      },
+      { playerItems: ['aquaculture:tuna'], villagerNum: 12}
+    ]
 	},
   { # Andre
 		nameKey: "Andre",
     textureKey: "dog",
     tradesKey: [
       {
-        villagerGiveItemsKey: [
+        villagerItems: [
           'minecraft:saddle',
           "minecraft:spyglass"
         ],
-        playerGiveNumKey: 4
+        playerNum: 4
 			},
       {
-        villagerGiveItemsKey: [
+        villagerItems: [
           'farmingforblockheads:chicken_nest',
           'farmingforblockheads:feeding_trough'
         ],
-        playerGiveNumKey: 2
+        playerNum: 2
 			},
       {
-        villagerGiveItemsKey: [
+        villagerItems: [
           'waystones:waystone',
           "waystones:sandy_waystone",
           "waystones:mossy_waystone",
           "waystones:warp_stone"
         ],
-        playerGiveNumKey: 16
+        playerNum: 16
 			},
       {
-        villagerGiveItemsKey: ["mobcapturingtool:mob_capturing_tool"],
-        playerGiveNumKey: 32
+        villagerItems: ["mobcapturingtool:mob_capturing_tool"],
+        playerNum: 32
 			},
-      { villagerGiveItemsKey: ["naturescompass:naturescompass"] },
+      { villagerItems: ["naturescompass:naturescompass"] },
       {
-        villagerGiveItemsKey: [
+        villagerItems: [
           "exoticbirds:bird_book",
           "exoticbirds:egg_identifier",
           "exoticbirds:egg_incubator",
           "exoticbirds:roost_box",
           "exoticbirds:pigeon_backpack",
         ],
-        playerGiveNumKey: 4
+        playerNum: 4
 			}
-		]
+		],
+    springTradesKey: [
+      {
+        villagerItems: [
+          'moa_decor_toys:vaca',
+          'moa_decor_toys:gatobritanico',
+          'moa_decor_toys:gatosiames',
+          'moa_decor_toys:lorocian',
+          'moa_decor_toys:loroverde'
+        ],
+        playerNum: 6
+      }
+    ],
+    summerTradesKey: [
+      {
+        villagerItems: [
+          'moa_decor_toys:gallina',
+          'moa_decor_toys:gatojellie',
+          'moa_decor_toys:gatonegro',
+          'moa_decor_toys:gatotuxedo',
+          'moa_decor_toys:loroazul',
+          'moa_decor_toys:lororojo'
+        ],
+        playerNum: 6
+      }
+    ],
+    fallTradesKey: [
+      {
+        villagerItems: [
+          'moa_decor_toys:gatoatigrado',
+          'moa_decor_toys:gatocalico',
+          'moa_decor_toys:gatopersa',
+          'moa_decor_toys:gatotabby',
+          'moa_decor_toys:lorogris'
+        ],
+        playerNum: 6
+      }
+    ],
+    winterTradesKey: [
+      {
+        villagerItems: [
+          'moa_decor_toys:zorroblanco',
+          'moa_decor_toys:lobo',
+          'moa_decor_toys:osopolar',
+          'moa_decor_toys:gatoblanco',
+          'moa_decor_toys:gatoragdoll'
+        ],
+        playerNum: 6
+      }
+    ]
 	},
   { # Laly
 		nameKey: "Laly",
     textureKey: "merekat",
     tradesKey: [
-      { # Gem sells
-        playerGiveItemsKey: [
-          "gemsnjewels:dusk_emerald",
-          "gemsnjewels:opal",
-          "gemsnjewels:pale_diamond",
-          "gemsnjewels:ruby",
-          "gemsnjewels:sable_amethyst",
-          "gemsnjewels:sapphire"
-				],
-        villagerGiveNumKey: 10
-			},
-      { villagerGiveItemsKey: ["minecraft:iron_ingot"] },
+      { villagerItems: ["minecraft:iron_ingot"] },
       {
-        villagerGiveItemsKey: ["minecraft:netherite_scrap"],
-        playerGiveNumKey: 64
+        villagerItems: ["minecraft:netherite_scrap"],
+        playerNum: 64
 			},
       {
-        playerGiveItemsKey: [
+        playerItems: [
           "minecraft:redstone",
           "minecraft:raw_copper",
           "create:raw_zinc"
         ],
-        playerGiveNumKey: 64
+        playerNum: 64
 			}
-		]
+		],
+    springTradesKey: [
+      { # 3
+        playerItems: [
+          'gemsnjewels:tourmaline',
+          'gemsnjewels:spinel',
+          'gemsnjewels:morganite',
+          'gemsnjewels:kunzite'
+        ],
+        villagerNum: 3
+      },
+      { # 6
+        playerItems: [
+          'gemsnjewels:sable_amethyst',
+          'gemsnjewels:opal'
+        ],
+        villagerNum: 6
+      }
+    ],
+    summerTradesKey: [
+      { # 3
+        playerItems: [
+          'gemsnjewels:garnet',
+          'gemsnjewels:peridot',
+          'gemsnjewels:black_opal',
+          'gemsnjewels:jade'
+        ],
+        villagerNum: 3
+      },
+      { # 6
+        playerItems: [
+          'gemsnjewels:dusk_emerald',
+          'gemsnjewels:opal'
+        ],
+        villagerNum: 6
+      }
+    ],
+    fallTradesKey: [
+      { # 3
+        playerItems: [
+          'gemsnjewels:topaz',
+          'gemsnjewels:citrine',
+          'gemsnjewels:ametrine',
+          'gemsnjewels:iolite'
+        ],
+        villagerNum: 3
+      },
+      { # 6
+        playerItems: [
+          'gemsnjewels:pale_diamond',
+          'gemsnjewels:ruby'
+        ],
+        villagerNum: 6
+      }
+    ],
+    winterTradesKey: [
+      { # 3
+        playerItems: [
+          'gemsnjewels:aquamarine',
+          'gemsnjewels:zircon',
+          'gemsnjewels:alexandrite',
+          'gemsnjewels:tanzanite'
+        ],
+        villagerNum: 3
+      },
+      { # 6
+        playerItems: [
+          'gemsnjewels:pale_diamond',
+          'gemsnjewels:sapphire'
+        ],
+        villagerNum: 6
+      }
+    ]
 	},
   { # Pamela
 		nameKey: "Pamela",
     textureKey: "rabbit",
 		tradesKey: [
       {
-        villagerGiveItemsKey: ["minecraft:egg"],
-        villagerGiveNumKey: 16
+        villagerItems: ["minecraft:egg"],
+        villagerNum: 16
 			},
       {
-        villagerGiveItemsKey: ["bakery:yeast"],
-        villagerGiveNumKey: 8
+        villagerItems: ["bakery:yeast"],
+        villagerNum: 8
 			},
       {
-        villagerGiveItemsKey: ["minecraft:honey_bottle"],
-        playerGiveNumKey: 2
+        villagerItems: ["minecraft:honey_bottle"],
+        playerNum: 2
 			},
       { # containers
-        villagerGiveItemsKey: [
+        villagerItems: [
           "bakery:jar",
           "vinery:wine_bottle",
           "bakery:tray"
         ],
-        villagerGiveNumKey: 16
+        villagerNum: 16
 			},
       {
-        villagerGiveItemsKey: [
+        villagerItems: [
           "farmingforblockheads:green_fertilizer",
           "farmingforblockheads:red_fertilizer",
           "farmingforblockheads:yellow_fertilizer"
 				]
 			}
-		]
+		],
+    springTradesKey: [
+      {
+        villagerItems: [
+          'pamhc2foodcore:carrotmuffinitem',
+          'pamhc2foodextended:hamandpineapplepizzaitem',
+          'pamhc2foodextended:apricotglazedporkitem',
+          'pamhc2foodextended:avocadoburritoitem',
+          'pamhc2foodextended:lemondrizzlecakeitem',
+          'pamhc2foodextended:mangochutneyitem',
+          'pamhc2foodextended:strawberryrhubarbpieitem',
+          'pamhc2foodextended:grapefruitpieitem'
+        ],
+        playerNum: 4
+      }
+    ],
+    summerTradesKey: [
+      {
+        villagerItems: [
+          'pamhc2foodcore:glowberrymuffinitem',
+          'pamhc2foodcore:sweetberryyogurtitem',
+          'pamhc2foodcore:melonpopsicleitem',
+          'pamhc2foodextended:cherryicecreamitem',
+          'pamhc2foodextended:cornonthecobitem',
+          'pamhc2foodextended:friedpecanokraitem',
+          'pamhc2foodextended:summersquashwithradishitem',
+          'pamhc2foodextended:tomatoherbchickenitem',
+          'pamhc2foodextended:cantaloupejellysandwichitem'
+        ],
+        playerNum: 4
+      }
+    ],
+    fallTradesKey: [
+      {
+        villagerItems: [
+          'pamhc2foodcore:pumpkinbreaditem',
+          'pamhc2foodcore:applesauceitem',
+          'pamhc2foodextended:cranberrysauceitem',
+          'pamhc2foodextended:baconwrappeddatesitem',
+          'pamhc2foodextended:figbaritem',
+          'pamhc2foodextended:poachedpearitem',
+          'pamhc2foodextended:pumpkinoatsconesitem',
+          'pamhc2foodextended:stuffedpepperitem',
+          'pamhc2foodextended:grapepieitem'
+        ],
+        playerNum: 4
+      }
+    ],
+    winterTradesKey: [
+      {
+        villagerItems: [
+          'pamhc2foodcore:pickledbeetsitem',
+          'pamhc2foodextended:banananutbreaditem',
+          'pamhc2foodextended:beetburgeritem',
+          'pamhc2foodextended:creamedbroccolisoupitem',
+          'pamhc2foodextended:ovenroastedcaulifloweritem',
+          'pamhc2foodextended:spinachpieitem',
+          'pamhc2foodextended:sunflowerbroccolisaladitem',
+          'pamhc2foodextended:orangegingerbeefitem',
+          'pamhc2foodextended:cornedbeefandcabbageitem'
+        ],
+        playerNum: 4
+      }
+    ]
 	},
 	{ # Yukkie
     nameKey: "Yukkie",
     textureKey: "bat",
     tradesKey: [
       {
-        playerGiveItemsKey: ["minecraft:enchanted_golden_apple"],
-        villagerGiveNumKey: 64
+        playerItems: ["minecraft:enchanted_golden_apple"],
+        villagerNum: 64
 			}, {
-        playerGiveItemsKey: [
+        playerItems: [
 					"bakery:sweetberry_cupcake",
 					"vinery:cherry_wine",
 					"beachparty:sweetberries_cocktail",
@@ -242,10 +541,10 @@ villagers = [
 					"delightful:salmonberry_ice_cream",
 					"delightful:cantaloupe_popsicle"
 				],
-        villagerGiveNumKey: 2
+        villagerNum: 2
 			},
       { # Juices and Jellies
-        playerGiveItemsKey: [
+        playerItems: [
           "pamhc2foodextended:blackberryjuiceitem",
           "pamhc2foodextended:blueberryjuiceitem",
           "pamhc2foodextended:cactusfruitjuiceitem",
@@ -259,10 +558,10 @@ villagers = [
           "pamhc2foodextended:strawberryjellyitem",
           "pamhc2foodextended:cantaloupejellyitem"
 				],
-        playerGiveNumKey: 3
+        playerNum: 3
 			},
       { # Smoothies
-        playerGiveItemsKey: [
+        playerItems: [
           "pamhc2foodextended:grapesmoothieitem",
           "pamhc2foodextended:greengrapesmoothieitem",
           "pamhc2foodextended:kiwismoothieitem",
@@ -270,10 +569,10 @@ villagers = [
           "pamhc2foodextended:cherrysmoothieitem",
           "pamhc2foodextended:orangesmoothieitem"
 				],
-        playerGiveNumKey: 2
+        playerNum: 2
 			},
       { # Pies and Jellied Toast
-        playerGiveItemsKey: [
+        playerItems: [
           "pamhc2foodextended:peachpieitem",
           "pamhc2foodextended:pearpieitem",
           "pamhc2foodextended:plumpieitem",
@@ -289,7 +588,7 @@ villagers = [
 				]
 			},
       { # Jelly Sandwich
-        playerGiveItemsKey: [
+        playerItems: [
           "pamhc2foodextended:papayayogurtitem",
           "pamhc2foodextended:persimmonyogurtitem",
           "pamhc2foodextended:pomegranateyogurtitem",
@@ -306,9 +605,33 @@ villagers = [
           "pamhc2foodextended:lemonjellysandwichitem",
           "pamhc2foodextended:limejellysandwichitem",
 				],
-        villagerGiveNumKey: 2
+        villagerNum: 2
 			}
-		]
+		],
+    springTradesKey: [
+      { playerItems: ['bakery:strawberry'], playerNum: 64 }
+    ],
+    summerTradesKey: [
+      { playerItems: ['vinery:cherry'], playerNum: 64 }
+    ],
+    fallTradesKey: [
+      {
+        playerItems: [
+          'vinery:red_grape',
+          'vinery:white_grape',
+          'vinery:savanna_grapes_red',
+          'vinery:savanna_grapes_white',
+          'vinery:taiga_grapes_red',
+          'vinery:taiga_grapes_white',
+          'vinery:jungle_grapes_red',
+          'vinery:jungle_grapes_white'
+        ],
+        playerNum: 64
+      }
+    ],
+    winterTradesKey: [
+      { playerItems: ['pamhc2trees:orangeitem'], playerNum: 64 }
+    ]
 	},
 	{ # Jess
 		nameKey: "Jess",

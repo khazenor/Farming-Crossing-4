@@ -592,21 +592,17 @@
 		{
 			can_repeat: true
 			dependencies: ["0DF5D0F9221BE1A8"]
-			description: [
-				"Use this checkpoint quest to help locate Andre!"
-				""
-				"This also updates Andre's trades to the latest version of the modpack."
-			]
+			description: ["Use this checkpoint quest to help locate Andre!"]
 			hide: true
 			icon: "moa_decor_science:lupa"
 			id: "512BADF33A088EBA"
 			rewards: [{
-				command: "/function fc_villagers:andre_highlight_and_update_trades"
+				command: "/function fc_villagers:andre_highlight"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "0EDEB814B1EE2B5C"
 				silent: true
-				title: "Highlight Andre for 30 seconds and update their trades"
+				title: "Highlight Andre for 30 seconds"
 				type: "command"
 			}]
 			tasks: [{
@@ -620,21 +616,17 @@
 		{
 			can_repeat: true
 			dependencies: ["25D1522C49398031"]
-			description: [
-				"Use this checkpoint quest to help locate Laly!"
-				""
-				"This also updates Laly's trades to the latest version of the modpack."
-			]
+			description: ["Use this checkpoint quest to help locate Laly!"]
 			hide: true
 			icon: "moa_decor_science:lupa"
 			id: "411A015BA96920ED"
 			rewards: [{
-				command: "/function fc_villagers:laly_highlight_and_update_trades"
+				command: "/function fc_villagers:laly_highlight"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "6EF660D9CBDFE771"
 				silent: true
-				title: "Highlight Laly for 30 seconds and update their trades"
+				title: "Highlight Laly for 30 seconds"
 				type: "command"
 			}]
 			tasks: [{
@@ -648,21 +640,17 @@
 		{
 			can_repeat: true
 			dependencies: ["3AB5ADA435969636"]
-			description: [
-				"Use this checkpoint quest to help locate Pamela!"
-				""
-				"This also updates Pamela's trades to the latest version of the modpack."
-			]
+			description: ["Use this checkpoint quest to help locate Pamela!"]
 			hide: true
 			icon: "moa_decor_science:lupa"
 			id: "0AC907ED825810E1"
 			rewards: [{
-				command: "/function fc_villagers:pamela_highlight_and_update_trades"
+				command: "/function fc_villagers:pamela_highlight"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "2B45C52637D9F49E"
 				silent: true
-				title: "Highlight Pamela for 30 seconds and update their trades"
+				title: "Highlight Pamela for 30 seconds"
 				type: "command"
 			}]
 			tasks: [{
@@ -676,21 +664,17 @@
 		{
 			can_repeat: true
 			dependencies: ["7CE7B5249150EEC7"]
-			description: [
-				"Use this checkpoint quest to help locate Ren!"
-				""
-				"This also updates Ren's trades to the latest version of the modpack."
-			]
+			description: ["Use this checkpoint quest to help locate Ren!"]
 			hide: true
 			icon: "moa_decor_science:lupa"
 			id: "767DD13CDF3F90D1"
 			rewards: [{
-				command: "/function fc_villagers:ren_highlight_and_update_trades"
+				command: "/function fc_villagers:ren_highlight"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "525C1E20E25B3B56"
 				silent: true
-				title: "Highlight Ren for 30 seconds and update their trades"
+				title: "Highlight Ren for 30 seconds"
 				type: "command"
 			}]
 			tasks: [{
@@ -704,21 +688,17 @@
 		{
 			can_repeat: true
 			dependencies: ["0261908781297A1E"]
-			description: [
-				"Use this checkpoint quest to help locate Sam!"
-				""
-				"This also updates Sam's trades to the latest version of the modpack."
-			]
+			description: ["Use this checkpoint quest to help locate Sam!"]
 			hide: true
 			icon: "moa_decor_science:lupa"
 			id: "3FC799C7A2A8C9ED"
 			rewards: [{
-				command: "/function fc_villagers:sam_highlight_and_update_trades"
+				command: "/function fc_villagers:sam_highlight"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "5F367A1FF3C0B858"
 				silent: true
-				title: "Highlight Sam for 30 seconds and update their trades"
+				title: "Highlight Sam for 30 seconds"
 				type: "command"
 			}]
 			tasks: [{
@@ -732,21 +712,17 @@
 		{
 			can_repeat: true
 			dependencies: ["5A43CA6B86349E67"]
-			description: [
-				"Use this checkpoint quest to help locate Yukkie!"
-				""
-				"This also updates Yukkie's trades to the latest version of the modpack."
-			]
+			description: ["Use this checkpoint quest to help locate Yukkie!"]
 			hide: true
 			icon: "moa_decor_science:lupa"
 			id: "642BFEA807DA5610"
 			rewards: [{
-				command: "/function fc_villagers:yukkie_highlight_and_update_trades"
+				command: "/function fc_villagers:yukkie_highlight"
 				elevate_perms: true
 				exclude_from_claim_all: true
 				id: "7597F07ED15F2F0F"
 				silent: true
-				title: "Highlight Yukkie for 30 seconds and update their trades"
+				title: "Highlight Yukkie for 30 seconds"
 				type: "command"
 			}]
 			tasks: [{
@@ -978,6 +954,45 @@
 			}]
 			x: -2.0d
 			y: 4.5d
+		}
+		{
+			dependencies: [
+				"78BB8E151802329C"
+				"29DA88DDFAC79F20"
+				"1B8E82ADB3063C94"
+				"32315F192BEB4876"
+				"08BD5EF1DC4E8167"
+				"468E43123E8DB4F9"
+				"24D59BF6E757524F"
+				"756B6CAC42F98D92"
+				"0D03125982F6A791"
+			]
+			dependency_requirement: "one_completed"
+			description: [
+				"When Farming Crossing villagers are first summoned in they do not have their seasonal trades yet."
+				""
+				"So for the first time, you can right click on a serene season calendar to set the villager's seasonal trades."
+				""
+				"After that, their trades will be updated everytime you log in and everytime the season changes."
+			]
+			icon: "sereneseasons:calendar"
+			id: "502AD3CA26C03C4C"
+			rewards: [{
+				id: "7C9F01467C366C5B"
+				item: "sereneseasons:calendar"
+				type: "item"
+			}]
+			tasks: [{
+				icon: "minecraft:glass"
+				id: "434869CDA5A3DDFF"
+				stat: "minecraft:walk_one_cm"
+				title: "Free Task"
+				type: "stat"
+				value: 1
+			}]
+			title: "Update Villager Trades"
+			x: -4.0d
+			y: 1.0d
 		}
 	]
 	title: "Inviting Villagers"
