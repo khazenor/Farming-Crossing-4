@@ -26,12 +26,14 @@
   - Beers and Whisky added to the cooking collection questline
   - Prezels and gingerbread converted to oven recipes
   - Crops plantable in botany pots
+  - Customer villager will buy meals from this mod
 - Let's do: Herbal Brews
   - Cauldron and tea kettle added to main cooking quest
   - potions and teas added to teh cooking collection questline
   - crops and flowers added to the market
   - flowers duplicable with bonemeal
   - Crops plantable in botany pots
+  - Customer villager will buy meals from this mod
 - Cosmetic Armors
   - Added the bunny outfit into collection quests and Elna's shop
 - Botania:

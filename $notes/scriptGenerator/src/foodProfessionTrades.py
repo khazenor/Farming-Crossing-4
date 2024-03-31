@@ -12,10 +12,10 @@ playerNumberKey = 'playerNumber'
 itemKey = 'item'
 
 professionTradeItems = {
-	'bakery': cqlist.foodOven + cqlist.foodSmallCookingPot + cqlist.foodBakerStation + cqlist.foodCheesePress,
-	'beach': cqlist.foodMiniFridge + cqlist.foodTikiBar,
+	'bakery': cqlist.foodOven + cqlist.foodSmallCookingPot + cqlist.foodBakerStation,
+	'beach': cqlist.foodMiniFridge + cqlist.foodTikiBar + cqlist.foodTeaKettle + cqlist.foodCauldron,
 	'candlelight': cqlist.foodCookingPot + cqlist.foodCookingPan + cqlist.foodCraftingTable,
-	'drink': cqlist.foodGrapevinePot + cqlist.foodAgingBarrel,
+	'drink': cqlist.foodGrapevinePot + cqlist.foodAgingBarrel + cqlist.foodBrewingCopper + cqlist.foodBrewingWood,
 	'farmers_delight': cqlist.foodDelightful + cqlist.foodAlex + cqlist.foodAquaculture + cqlist.foodFarmersDelight
 }
 
@@ -106,5 +106,8 @@ def priceAndNumberToSell(itemId):
 	for price in pricing:
 		for itemDict in pricing[price]:
 			if itemDict[fcInput.itemKey] == itemId:
-				return price, util.defaultDict(itemDict, fcInput.countKey, 1)
+				if price == 1:
+					return price * 2, util.defaultDict(itemDict, fcInput.countKey, 1) * 2
+				else:
+					return price, util.defaultDict(itemDict, fcInput.countKey, 1)
 	return -1, -1

@@ -49,7 +49,16 @@ pricing = {
     {itemKey: "bakery:glowberry_tart"},
     {itemKey: "bakery:jam_roll", countKey: 4},
     {itemKey: "bakery:waffle", countKey: 6},
-    {itemKey: "bakery:chocolate_truffle", countKey: 4}
+    {itemKey: "bakery:chocolate_truffle", countKey: 4},
+    {itemKey: "bakery:misslilitu_biscuit", countKey: 4},
+    {itemKey: "beachparty:refreshing_drink"},
+    {itemKey: "brewery:pork_knuckle"},
+    {itemKey: "brewery:fried_chicken"},
+    {itemKey: "brewery:sausage"},
+    {itemKey: "brewery:mashed_potatoes"},
+    {itemKey: "brewery:potato_salad", countKey: 4},
+    {itemKey: "brewery:pretzel", countKey: 6},
+    {itemKey: "brewery:gingerbread", countKey: 2}
   ],
   2: [
     {itemKey: "aquaculturedelight:jellyfish_jelly"},
@@ -81,24 +90,14 @@ pricing = {
     {itemKey: "vinery:red_wine"},
     {itemKey: "vinery:praetorian_wine"},
     {itemKey: "vinery:creepers_crush"},
-    {itemKey: "vinery:glowing_wine"},
     {itemKey: "vinery:bottle_mojang_noir"},
     {itemKey: "candlelight:chicken_teriyaki", countKey: 4},
     {itemKey: "candlelight:lettuce_salad", countKey: 3},
     {itemKey: "candlelight:pasta_lettuce"},
     {itemKey: "candlelight:chocolate", countKey: 4},
     {itemKey: "bakery:chocolate_jam"},
-    {itemKey: "bakery:strawberry_cake"},
-    {itemKey: "bakery:sweetberry_cake"},
-    {itemKey: "bakery:chocolate_cake"},
     {itemKey: "bakery:pudding"},
     {itemKey: "bakery:chocolate_tart"},
-    {itemKey: "bakery:strawberry_glazed_cookie"},
-    {itemKey: "bakery:sweetberry_glazed_cookie"},
-    {itemKey: "bakery:chocolate_glazed_cookie"},
-    {itemKey: "bakery:strawberry_cupcake"},
-    {itemKey: "bakery:sweetberry_cupcake"},
-    {itemKey: "bakery:apple_cupcake"},
     {itemKey: "beachparty:coconut_cocktail"},
     {itemKey: "beachparty:sweetberries_cocktail"},
     {itemKey: "beachparty:cocoa_cocktail"},
@@ -117,7 +116,21 @@ pricing = {
     {itemKey: "meadow:cheesecake", countKey: 4},
     {itemKey: "meadow:cheese_tart", countKey: 3},
     {itemKey: "meadow:cheese_sandwich", countKey: 6},
-    {itemKey: "meadow:cheese_roll", countKey: 8}
+    {itemKey: "meadow:cheese_roll", countKey: 8},
+    {itemKey: "herbalbrews:green_tea"},
+    {itemKey: "herbalbrews:black_tea"},
+    {itemKey: "herbalbrews:hibiscus_tea"},
+    {itemKey: "herbalbrews:oolong_tea"},
+    {itemKey: "herbalbrews:rooibos_tea"},
+    {itemKey: "herbalbrews:yerba_mate_tea"},
+    {itemKey: "herbalbrews:lavender_tea"},
+    {itemKey: "herbalbrews:coffee"},
+    {itemKey: "herbalbrews:damage_flask"},
+    {itemKey: "bakery:strawberry_cake"},
+    {itemKey: "bakery:chocolate_gateau"},
+    {itemKey: "bakery:sweetberry_cake"},
+    {itemKey: "bakery:cornet", countKey: 4},
+    {itemKey: "brewery:dumplings"}
   ],
   3: [
     {itemKey: "aquaculturedelight:bass_stew"},
@@ -128,7 +141,6 @@ pricing = {
     {itemKey: "vinery:mellohi_wine"},
     {itemKey: "vinery:stal_wine"},
     {itemKey: "vinery:strad_wine"},
-    {itemKey: "vinery:aegis_wine"},
     {itemKey: "vinery:clark_wine"},
     {itemKey: "vinery:kelp_cider"},
     {itemKey: "vinery:villagers_fright"},
@@ -142,7 +154,17 @@ pricing = {
     {itemKey: "candlelight:pork_ribs", countKey: 4},
     {itemKey: "candlelight:chicken"},
     {itemKey: "candlelight:roastbeef_carrots"},
-    {itemKey: "bakery:bread_crate"}
+    {itemKey: "bakery:bread_crate"},
+    {itemKey: "vinery:noir_wine" },
+    {itemKey: "vinery:knulp_wine" },
+    {itemKey: "vinery:glowing_wine" },
+    {itemKey: "herbalbrews:milk_coffee"},
+    {itemKey: "candlelight:tropical_fish_supreme"},
+    {itemKey: "bakery:chocolate_box"},
+    {itemKey: "bakery:chocolate_cake"},
+    {itemKey: "bakery:strawberry_cupcake", countKey: 4},
+    {itemKey: "bakery:sweetberry_cupcake", countKey: 4},
+    {itemKey: "bakery:apple_cupcake", countKey: 4}
   ],
   4: [
     {itemKey: "vinery:jo_special_mixture"},
@@ -162,7 +184,13 @@ pricing = {
     {itemKey: "aquaculturedelight:baked_pollock_with_carrots"},
     {itemKey: "delightful:rock_candy"},
     {itemKey: "delightful:sinigang"},
-    {itemKey: "delightful:ender_nectar"}
+    {itemKey: "delightful:ender_nectar"},
+    {itemKey: "herbalbrews:damage_flask_big"},
+    {itemKey: "vinery:aegis_wine" },
+    {itemKey: "vinery:lilitu_wine" },
+    {itemKey: "herbalbrews:armor_flask"},
+    {itemKey: "bakery:strawberry_glazed_cookie", countKey: 4},
+    {itemKey: "bakery:sweetberry_glazed_cookie", countKey: 4},
   ],
   5: [
     {itemKey: "candlelight:pasta"},
@@ -170,18 +198,36 @@ pricing = {
     {itemKey: "candlelight:fricasse"},
     {itemKey: "meadow:buffalo_cheese_block"},
     {itemKey: "meadow:goat_cheese_block"},
-    {itemKey: "meadow:amethyst_cheese_block"}
+    {itemKey: "meadow:amethyst_cheese_block"},
+    {itemKey: "bakery:chocolate_glazed_cookie", countKey: 4}
   ],
   6: [
     {itemKey: "candlelight:lasagne", countKey: 6},
     {itemKey: "candlelight:pasta_bolognese"},
     {itemKey: "aquaculturedelight:halibut_with_tartar_sauce"},
-    {itemKey: "aquaculturedelight:poor_fisher_chowder"}
+    {itemKey: "aquaculturedelight:poor_fisher_chowder"},
+    {itemKey: "vinery:mellohi_wine" }
+  ],
+  8: [
+    {itemKey: "brewery:beer_hops", countKey: 4},
+    {itemKey: "herbalbrews:armor_flask_big" },
+    {itemKey: "herbalbrews:feral_flask" },
   ],
   9: [
     {itemKey: "candlelight:beef_wellington"}
   ],
-  15: [
+  10: [
+    {itemKey: "brewery:beer_wheat", countKey: 4 },
+    {itemKey: "brewery:whiskey_lilitusinglemalt", countKey: 4 },
+    {itemKey: "brewery:whiskey_cristelwalker", countKey: 4 },
+    {itemKey: "brewery:whiskey_maggoallan", countKey: 4 },
+    {itemKey: "brewery:whiskey_carrasconlabel", countKey: 4 }
+  ],
+  12: [
+    {itemKey: "herbalbrews:feral_flask_big"},
+    {itemKey: "brewery:beer_haley", countKey: 4}
+  ],
+  20: [
     {itemKey: "vinery:jellie_wine"}
   ],
   25: [
