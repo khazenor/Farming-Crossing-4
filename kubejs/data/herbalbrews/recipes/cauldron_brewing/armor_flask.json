@@ -1,0 +1,17 @@
+{
+  "type": "herbalbrews:cauldron_brewing",
+  "ingredients": [
+    {
+      "tag": "forge:water"
+    },
+    {
+      "item": "minecraft:glistering_melon_slice"
+    },
+    {
+      "item": "herbalbrews:hibiscus"
+    }
+  ],
+  "result": {
+    "item": "herbalbrews:armor_flask"
+  }
+}

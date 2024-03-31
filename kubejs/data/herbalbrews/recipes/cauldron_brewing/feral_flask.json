@@ -1,0 +1,17 @@
+{
+  "type": "herbalbrews:cauldron_brewing",
+  "ingredients": [
+    {
+      "item": "herbalbrews:armor_flask"
+    },
+    {
+      "item": "herbalbrews:damage_flask"
+    },
+    {
+      "item": "minecraft:glistering_melon_slice"
+    }
+  ],
+  "result": {
+    "item": "herbalbrews:feral_flask"
+  }
+}

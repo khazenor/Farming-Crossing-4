@@ -1,0 +1,17 @@
+{
+  "type": "herbalbrews:cauldron_brewing",
+  "ingredients": [
+    {
+      "tag": "forge:water"
+    },
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "herbalbrews:lavender_blossom"
+    }
+  ],
+  "result": {
+    "item": "herbalbrews:damage_flask"
+  }
+}

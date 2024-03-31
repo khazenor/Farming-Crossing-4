@@ -1,0 +1,15 @@
+{
+  "type": "herbalbrews:kettle_brewing",
+  "experience": 0.8,
+  "ingredients": [
+    {
+      "item": "herbalbrews:dried_green_tea"
+    },
+    {
+      "tag": "forge:water"
+    }
+  ],
+  "result": {
+    "item": "herbalbrews:green_tea"
+  }
+}
