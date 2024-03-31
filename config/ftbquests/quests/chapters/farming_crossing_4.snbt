@@ -2346,11 +2346,18 @@
 			hide: true
 			icon: "herbalbrews:green_tea_leaf"
 			id: "524F06C306C3B675"
-			rewards: [{
-				id: "164094CE59BD7EB9"
-				item: "herbalbrews:tea_kettle"
-				type: "item"
-			}]
+			rewards: [
+				{
+					id: "164094CE59BD7EB9"
+					item: "herbalbrews:tea_kettle"
+					type: "item"
+				}
+				{
+					id: "2F0F49D740DAB5E1"
+					item: "candlelight:stone_bricks_stove"
+					type: "item"
+				}
+			]
 			tasks: [
 				{
 					id: "55041E4A962E9748"
