@@ -35,4 +35,5 @@ ServerEvents.recipes(event => {
   })
 
   event.remove({output: 'non_wandering_trader:travellers_table'})
+  event.remove({id: 'constructionwand:core_destruction'})
 })
