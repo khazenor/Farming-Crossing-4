@@ -1,3 +1,5 @@
+# 4.0.2:
+- Removed little tiles and added back chisel and bits (little tiles was causing a client crash when shaders on turned on, and if I update oculus/embeddium the modpack crashes on launch)
 # 4.0.1:
 - Fix error in season server script. 
 # 4.0.0:
