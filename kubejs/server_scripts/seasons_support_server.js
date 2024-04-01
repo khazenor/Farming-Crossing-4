@@ -25,27 +25,14 @@ const getSeasonFromLevel = (level) => {
   return seasonName(SeasonHelper.getSeasonState(level).getSeason())
 }
 
-LevelEvents.loaded(event => {
-  season = getSeasonFromLevel(event.level)
-})
-
-ServerEvents.tick(event => {
-  const level = event.getServer().getLevel()
-  const curSeason = getSeasonFromLevel(level)
-  if (season !== curSeason) {
-    for (const player of level.players) {
-      player.tell(`The season is now ${season}`)
-      updateVillagerAroundPlayer(player)
-    }
-  }
-})
-
 ItemEvents.rightClicked('sereneseasons:calendar', event => {
   event.player.tell(`Trades for nearby farming crossing villagers are now updated for ${season}`)
   updateVillagerAroundPlayer(event.player)
 })
 
 PlayerEvents.loggedIn(event => {
+  const level = event.player.level
+  season = getSeasonFromLevel(level)
   event.player.tell(`The season is now ${season}`)
   updateVillagerAroundPlayer(event.player)
 })

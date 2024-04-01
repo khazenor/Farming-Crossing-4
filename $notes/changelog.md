@@ -1,11 +1,14 @@
-# 4.0:
+# 4.0.1:
+- Fix error in season server script. 
+# 4.0.0:
 ## Release Notes:
 - I strongly suggest starting a new world for this update.  If you want to play in an existing world there are no guarantees on the collection quest working properly.
 ## Serene Seasons and Real Seasons are Added and fc villagers now have seasonal trades!
+- Real Seasons allows syncing of Serene Season with real life time.  By default, each seasons are set up to last a real life day.
 - Andre now sells seasonal animal plushes
 - Laly now buys different gems based on the season
 - Sam now buys different fishes based on the season
-- Pamela serves food made with season produce
+- Pamela serves food made with seasonal produce
 - Ren sells furniture with seasonal style
 - Yukkie buys select seasonal fruits in bulk
 ## Additional Features
