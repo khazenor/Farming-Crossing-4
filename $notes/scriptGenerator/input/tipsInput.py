@@ -36,7 +36,7 @@ tips = [
   "Sneak right-click a camera to get more options including photo filters and the ability to upload your own images!",
   "Swords, Pickaxes, Axes, Shovels, Hoes, Bows, and Enchanted Books can all be upgraded by applying a jeweled ring to them. To upgrade use a ring on a smithing table while holding the tool in your off-hand you will increase the Luck and Armor of the tool by +2.",
   "In this pack, the more mod farming you do in an area, the fewer mobs will spawn.  Go adventuring to get loot and mob drops!",
-  "Villagers do now spawn iron golems in the pack as they usually do not need their protection. You can change this in config\LibertyVillagers.json",
+  "Villagers do not spawn iron golems in the pack as they usually do not need their protection. You can change this in config\LibertyVillagers.json",
   "The default time for a season is 1 real life day, you can change this in the serverconfig/realseasons-server.toml of our server/save folder",
   
   # Tickets
