@@ -1,4 +1,4 @@
-$ 4.0.4:
+# 4.0.4:
 - Add botania mushrooms into flora collection quests
 - Remove stonelings and add heart of diamond into the market
 # 4.0.3:
