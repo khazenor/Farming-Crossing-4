@@ -600,6 +600,29 @@ ItemEvents.tooltip(event => {
     ])
   event.add(
     [
+      'botania:black_mushroom', 
+      'botania:blue_mushroom', 
+      'botania:brown_mushroom', 
+      'botania:cyan_mushroom', 
+      'botania:gray_mushroom', 
+      'botania:green_mushroom', 
+      'botania:light_blue_mushroom', 
+      'botania:light_gray_mushroom', 
+      'botania:lime_mushroom', 
+      'botania:magenta_mushroom', 
+      'botania:orange_mushroom', 
+      'botania:pink_mushroom', 
+      'botania:purple_mushroom', 
+      'botania:red_mushroom', 
+      'botania:white_mushroom', 
+      'botania:yellow_mushroom'
+    ],
+    [
+      'Flora Compendium', 
+      'Botania Mushrooms Completion'
+    ])
+  event.add(
+    [
       'alexsmobs:acacia_blossom', 
       'candlelight:rose', 
       'meadow:alpine_poppy', 

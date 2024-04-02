@@ -108,6 +108,8 @@ scoreboard objectives add flora_compendium_blooming_nature_flowers_completion du
 scoreboard players set @p flora_compendium_blooming_nature_flowers_completion 0
 scoreboard objectives add flora_compendium_botania_flowers_completion dummy {"text":"flora_compendium_botania_flowers_completion"}
 scoreboard players set @p flora_compendium_botania_flowers_completion 0
+scoreboard objectives add flora_compendium_botania_mushrooms_completion dummy {"text":"flora_compendium_botania_mushrooms_completion"}
+scoreboard players set @p flora_compendium_botania_mushrooms_completion 0
 scoreboard objectives add flora_compendium_misc_flower_completion dummy {"text":"flora_compendium_misc_flower_completion"}
 scoreboard players set @p flora_compendium_misc_flower_completion 0
 scoreboard objectives add flora_compendium_vanilla_sapling_completion dummy {"text":"flora_compendium_vanilla_sapling_completion"}

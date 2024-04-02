@@ -1041,6 +1041,12 @@ questlines = [
         dependencyIdKey: '0EABDA42EA87C46C',
         tasksKey: cqlist.floraFlowerBotania
       },
+      { # Botania Shrooms
+        nameKey: 'Botania Mushrooms Completion',
+        iconKey: 'kubejs:miles_ticket',
+        dependencyIdKey: '0EABDA42EA87C46C',
+        tasksKey: cqlist.floraShroomBotania
+      },
       { # Misc Flowers
         nameKey: 'Misc Flower Completion',
         iconKey: 'kubejs:miles_ticket',

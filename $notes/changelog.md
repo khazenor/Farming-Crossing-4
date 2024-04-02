@@ -1,3 +1,5 @@
+$ 4.0.4:
+- Add botania mushrooms into flora collection quests
 # 4.0.3:
 - Fixed chat notification of quests
 - moved let's do outfits into Elna's shop
