@@ -1,4 +1,4 @@
-tellraw @p ["", {"text":"Animal Watching ("}, {"score":{"name":"@p","objective":"animal_watching"}}, {"text":"/130)"}]
+tellraw @p ["", {"text":"Animal Watching ("}, {"score":{"name":"@p","objective":"animal_watching"}}, {"text":"/129)"}]
 tellraw @p ["", {"text":"Aquarium ("}, {"score":{"name":"@p","objective":"aquarium"}}, {"text":"/37)"}]
 tellraw @p ["", {"text":"Cooking Collection ("}, {"score":{"name":"@p","objective":"cooking_collection"}}, {"text":"/208)"}]
 tellraw @p ["", {"text":"Flora Compendium ("}, {"score":{"name":"@p","objective":"flora_compendium"}}, {"text":"/204)"}]

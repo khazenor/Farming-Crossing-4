@@ -54,6 +54,17 @@
     },
     {
       "output": {
+        "item": "quark:diamond_heart",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 64
+      },
+      "category": "mining"
+    },
+    {
+      "output": {
         "item": "minecraft:ice",
         "count": 1
       },

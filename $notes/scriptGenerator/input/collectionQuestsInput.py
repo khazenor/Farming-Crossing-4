@@ -702,11 +702,6 @@ questlines = [
             observeKey: "minecraft:axolotl"
           },
           {
-            iconKey: "quark:stoneling_spawn_egg",
-            nameKey: "Spot a Stoneling",
-            observeKey: "quark:stoneling"
-          },
-          {
             iconKey: "quark:toretoise_spawn_egg",
             nameKey: "Spot a Toretoise",
             observeKey: "quark:toretoise"

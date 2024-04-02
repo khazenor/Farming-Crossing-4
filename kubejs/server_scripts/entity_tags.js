@@ -130,7 +130,6 @@ ServerEvents.tags('entity_type', event => {
       'minecraft:wolf', 
       'quark:crab', 
       'quark:shiba', 
-      'quark:stoneling', 
       'quark:toretoise'
     ])
 

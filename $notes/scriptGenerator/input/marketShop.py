@@ -862,6 +862,10 @@ categories = {
         priceKey: 6,
         itemsKey: ["minecraft:glowstone_dust"]
       },
+      {
+        priceKey: 64,
+        itemsKey: ["quark:diamond_heart"]
+      },
       { # blocks
         priceKey: 32,
         itemsKey: [
