@@ -1,3 +1,6 @@
+# 4.0.3:
+- Fixed chat notification of quests
+- moved let's do outfits into Elna's shop
 # 4.0.2:
 - Removed little tiles and added back chisel and bits (little tiles was causing a client crash when shaders on turned on, and if I update oculus/embeddium the modpack crashes on launch)
 # 4.0.1:

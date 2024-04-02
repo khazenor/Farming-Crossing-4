@@ -248,7 +248,31 @@ ServerEvents.tags('item', event => {
       'cosmeticarmoursmod:bunny_ears_grey_helmet', 
       'cosmeticarmoursmod:bunny_tail_grey_chestplate', 
       'cosmeticarmoursmod:bunny_ears_white_helmet', 
-      'cosmeticarmoursmod:bunny_tail_white_chestplate'
+      'cosmeticarmoursmod:bunny_tail_white_chestplate', 
+      'beachparty:beach_hat', 
+      'beachparty:swim_wings', 
+      'beachparty:trunks', 
+      'beachparty:crocs', 
+      'candlelight:cooking_hat', 
+      'candlelight:chefs_jacket', 
+      'candlelight:chefs_pants', 
+      'candlelight:chefs_boots', 
+      'meadow:fur_helmet', 
+      'meadow:fur_chestplate', 
+      'meadow:fur_leggings', 
+      'meadow:fur_boots', 
+      'vinery:straw_hat', 
+      'vinery:winemaker_apron', 
+      'vinery:winemaker_leggings', 
+      'vinery:winemaker_boots', 
+      'brewery:brewfest_hat', 
+      'brewery:brewfest_regalia', 
+      'brewery:brewfest_trousers', 
+      'brewery:brewfest_boots', 
+      'brewery:brewfest_hat_red', 
+      'brewery:brewfest_dress', 
+      'brewery:brewfest_blouse', 
+      'brewery:brewfest_shoes'
     ])
 
 })

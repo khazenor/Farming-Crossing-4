@@ -1,3 +1,5 @@
+scoreboard objectives add animal_watching dummy {"text":"Animal Watching"}
+scoreboard players set @p animal_watching 0
 scoreboard objectives add animal_watching_general_water_completion dummy {"text":"animal_watching_general_water_completion"}
 scoreboard players set @p animal_watching_general_water_completion 0
 scoreboard objectives add animal_watching_warm_oceans_completion dummy {"text":"animal_watching_warm_oceans_completion"}
@@ -34,6 +36,8 @@ scoreboard objectives add animal_watching_swamp_completion dummy {"text":"animal
 scoreboard players set @p animal_watching_swamp_completion 0
 scoreboard objectives add animal_watching_mushroom_completion dummy {"text":"animal_watching_mushroom_completion"}
 scoreboard players set @p animal_watching_mushroom_completion 0
+scoreboard objectives add aquarium dummy {"text":"Aquarium"}
+scoreboard players set @p aquarium 0
 scoreboard objectives add aquarium_vanilla_completion dummy {"text":"aquarium_vanilla_completion"}
 scoreboard players set @p aquarium_vanilla_completion 0
 scoreboard objectives add aquarium_freshwater_completion dummy {"text":"aquarium_freshwater_completion"}
@@ -50,6 +54,8 @@ scoreboard objectives add aquarium_mushroom_completion dummy {"text":"aquarium_m
 scoreboard players set @p aquarium_mushroom_completion 0
 scoreboard objectives add aquarium_jungle_completion dummy {"text":"aquarium_jungle_completion"}
 scoreboard players set @p aquarium_jungle_completion 0
+scoreboard objectives add cooking_collection dummy {"text":"Cooking Collection"}
+scoreboard players set @p cooking_collection 0
 scoreboard objectives add cooking_collection_oven_recipes_completion dummy {"text":"cooking_collection_oven_recipes_completion"}
 scoreboard players set @p cooking_collection_oven_recipes_completion 0
 scoreboard objectives add cooking_collection_small_cooking_pot_recipes_completion dummy {"text":"cooking_collection_small_cooking_pot_recipes_completion"}
@@ -88,6 +94,8 @@ scoreboard objectives add cooking_collection_aquaculture_delight_cooking_pot_rec
 scoreboard players set @p cooking_collection_aquaculture_delight_cooking_pot_recipes_completion 0
 scoreboard objectives add cooking_collection_farmers_delight_cooking_pot_recipes_completion dummy {"text":"cooking_collection_farmers_delight_cooking_pot_recipes_completion"}
 scoreboard players set @p cooking_collection_farmers_delight_cooking_pot_recipes_completion 0
+scoreboard objectives add flora_compendium dummy {"text":"Flora Compendium"}
+scoreboard players set @p flora_compendium 0
 scoreboard objectives add flora_compendium_vanilla_foods_completion dummy {"text":"flora_compendium_vanilla_foods_completion"}
 scoreboard players set @p flora_compendium_vanilla_foods_completion 0
 scoreboard objectives add flora_compendium_moded_foods_completion dummy {"text":"flora_compendium_moded_foods_completion"}
@@ -108,6 +116,8 @@ scoreboard objectives add flora_compendium_modded_sapling_completion dummy {"tex
 scoreboard players set @p flora_compendium_modded_sapling_completion 0
 scoreboard objectives add flora_compendium_misc_flora_completion dummy {"text":"flora_compendium_misc_flora_completion"}
 scoreboard players set @p flora_compendium_misc_flora_completion 0
+scoreboard objectives add mineral_museum dummy {"text":"Mineral Museum"}
+scoreboard players set @p mineral_museum 0
 scoreboard objectives add mineral_museum_vanilla_blocks_completion dummy {"text":"mineral_museum_vanilla_blocks_completion"}
 scoreboard players set @p mineral_museum_vanilla_blocks_completion 0
 scoreboard objectives add mineral_museum_modded_blocks_completion dummy {"text":"mineral_museum_modded_blocks_completion"}
@@ -120,6 +130,8 @@ scoreboard objectives add mineral_museum_rare_gems_completion dummy {"text":"min
 scoreboard players set @p mineral_museum_rare_gems_completion 0
 scoreboard objectives add mineral_museum_common_gems_completion dummy {"text":"mineral_museum_common_gems_completion"}
 scoreboard players set @p mineral_museum_common_gems_completion 0
+scoreboard objectives add common_decorations dummy {"text":"Common Decorations"}
+scoreboard players set @p common_decorations 0
 scoreboard objectives add common_decorations_handheld_instruments_completion dummy {"text":"common_decorations_handheld_instruments_completion"}
 scoreboard players set @p common_decorations_handheld_instruments_completion 0
 scoreboard objectives add common_decorations_trophies_completion dummy {"text":"common_decorations_trophies_completion"}
@@ -208,6 +220,8 @@ scoreboard objectives add common_decorations_table_and_desks_completion dummy {"
 scoreboard players set @p common_decorations_table_and_desks_completion 0
 scoreboard objectives add common_decorations_cluttered_mod_misc_completion dummy {"text":"common_decorations_cluttered_mod_misc_completion"}
 scoreboard players set @p common_decorations_cluttered_mod_misc_completion 0
+scoreboard objectives add rare_decorations dummy {"text":"Rare Decorations"}
+scoreboard players set @p rare_decorations 0
 scoreboard objectives add rare_decorations_statues_completion dummy {"text":"rare_decorations_statues_completion"}
 scoreboard players set @p rare_decorations_statues_completion 0
 scoreboard objectives add rare_decorations_mob_trophies_completion dummy {"text":"rare_decorations_mob_trophies_completion"}
@@ -222,6 +236,8 @@ scoreboard objectives add rare_decorations_oneul_pink_bear_music_disc_completion
 scoreboard players set @p rare_decorations_oneul_pink_bear_music_disc_completion 0
 scoreboard objectives add rare_decorations_oneul_misc_music_disc_completion dummy {"text":"rare_decorations_oneul_misc_music_disc_completion"}
 scoreboard players set @p rare_decorations_oneul_misc_music_disc_completion 0
+scoreboard objectives add hat_collection dummy {"text":"Hat Collection"}
+scoreboard players set @p hat_collection 0
 scoreboard objectives add hat_collection_flat_hats_completion dummy {"text":"hat_collection_flat_hats_completion"}
 scoreboard players set @p hat_collection_flat_hats_completion 0
 scoreboard objectives add hat_collection_medium_hats_completion dummy {"text":"hat_collection_medium_hats_completion"}
@@ -244,6 +260,8 @@ scoreboard objectives add hat_collection_animated_details_completion dummy {"tex
 scoreboard players set @p hat_collection_animated_details_completion 0
 scoreboard objectives add hat_collection_accessories_completion dummy {"text":"hat_collection_accessories_completion"}
 scoreboard players set @p hat_collection_accessories_completion 0
+scoreboard objectives add clothing_collection dummy {"text":"Clothing Collection"}
+scoreboard players set @p clothing_collection 0
 scoreboard objectives add clothing_collection_royal_outfit_completion dummy {"text":"clothing_collection_royal_outfit_completion"}
 scoreboard players set @p clothing_collection_royal_outfit_completion 0
 scoreboard objectives add clothing_collection_steampunkers_completion dummy {"text":"clothing_collection_steampunkers_completion"}
@@ -262,6 +280,16 @@ scoreboard objectives add clothing_collection_ghillie_suit_completion dummy {"te
 scoreboard players set @p clothing_collection_ghillie_suit_completion 0
 scoreboard objectives add clothing_collection_mobster_completion dummy {"text":"clothing_collection_mobster_completion"}
 scoreboard players set @p clothing_collection_mobster_completion 0
+scoreboard objectives add clothing_collection_beach_outfit_completion dummy {"text":"clothing_collection_beach_outfit_completion"}
+scoreboard players set @p clothing_collection_beach_outfit_completion 0
+scoreboard objectives add clothing_collection_chef_outfit_completion dummy {"text":"clothing_collection_chef_outfit_completion"}
+scoreboard players set @p clothing_collection_chef_outfit_completion 0
+scoreboard objectives add clothing_collection_fur_outfit_completion dummy {"text":"clothing_collection_fur_outfit_completion"}
+scoreboard players set @p clothing_collection_fur_outfit_completion 0
+scoreboard objectives add clothing_collection_vinemakers_outfit_completion dummy {"text":"clothing_collection_vinemakers_outfit_completion"}
+scoreboard players set @p clothing_collection_vinemakers_outfit_completion 0
+scoreboard objectives add clothing_collection_brewfest_outfit_completion dummy {"text":"clothing_collection_brewfest_outfit_completion"}
+scoreboard players set @p clothing_collection_brewfest_outfit_completion 0
 scoreboard objectives add clothing_collection_tops_completion dummy {"text":"clothing_collection_tops_completion"}
 scoreboard players set @p clothing_collection_tops_completion 0
 scoreboard objectives add clothing_collection_skirts_and_boots_completion dummy {"text":"clothing_collection_skirts_and_boots_completion"}

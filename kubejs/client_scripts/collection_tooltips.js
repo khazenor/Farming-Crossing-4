@@ -2150,6 +2150,65 @@ ItemEvents.tooltip(event => {
     ])
   event.add(
     [
+      'beachparty:beach_hat', 
+      'beachparty:swim_wings', 
+      'beachparty:trunks', 
+      'beachparty:crocs'
+    ],
+    [
+      'Clothing Collection', 
+      'Beach Outfit Completion'
+    ])
+  event.add(
+    [
+      'candlelight:cooking_hat', 
+      'candlelight:chefs_jacket', 
+      'candlelight:chefs_pants', 
+      'candlelight:chefs_boots'
+    ],
+    [
+      'Clothing Collection', 
+      'Chef Outfit Completion'
+    ])
+  event.add(
+    [
+      'meadow:fur_helmet', 
+      'meadow:fur_chestplate', 
+      'meadow:fur_leggings', 
+      'meadow:fur_boots'
+    ],
+    [
+      'Clothing Collection', 
+      'Fur Outfit Completion'
+    ])
+  event.add(
+    [
+      'vinery:straw_hat', 
+      'vinery:winemaker_apron', 
+      'vinery:winemaker_leggings', 
+      'vinery:winemaker_boots'
+    ],
+    [
+      'Clothing Collection', 
+      'Vinemaker\'s Outfit Completion'
+    ])
+  event.add(
+    [
+      'brewery:brewfest_hat', 
+      'brewery:brewfest_regalia', 
+      'brewery:brewfest_trousers', 
+      'brewery:brewfest_boots', 
+      'brewery:brewfest_hat_red', 
+      'brewery:brewfest_dress', 
+      'brewery:brewfest_blouse', 
+      'brewery:brewfest_shoes'
+    ],
+    [
+      'Clothing Collection', 
+      'Brewfest Outfit Completion'
+    ])
+  event.add(
+    [
       'cosmeticarmoursmod:black_skirt_chestplate', 
       'cosmeticarmoursmod:blue_skirt_chestplate', 
       'cosmeticarmoursmod:brown_skirt_chestplate', 

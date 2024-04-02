@@ -17,6 +17,7 @@ def genQuestFunctions():
 		totalCollectibles = totalTasksForQuestline(questline)
 		questlineObjName = stringCleaning.cleanedNameStr(questline[collectionQuestsInput.nameKey])
 		questlineName = questline[collectionQuestsInput.nameKey]
+		initFunctionContent += commands.initScoreBoard(questlineName)
 
 		checkScoreContent += commands.collectionNotification(
 			questlineName,
