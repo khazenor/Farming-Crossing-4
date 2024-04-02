@@ -9,6 +9,7 @@ tips = [
   "There are many things available in the market if you have tickets! Search 'market' in JEI to find out more!",
   "Resource packs and data packs located in the resource folder are auto-included in this modpack. To disable this you can update the config in config\global_data_and_resourcepacks.toml",
   "Having trouble finding the right decorations or clothing on sale? check out clothing and decoration kits for sell in the market!",
+  "Farming Crossing NPC's have different trades based on the season. The seasonal trade items also have tooltips indicating which season and to whom you can trade them with.",
 
   # duplication
   "Many flowers can be duplicated in the crafting table with bone meal",
