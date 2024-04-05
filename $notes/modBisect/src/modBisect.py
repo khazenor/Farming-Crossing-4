@@ -42,7 +42,7 @@ def test(goodGroups, mysteryGroups):
 				test(goodGroups, mysteryGroups)
 
 		if firstHalfResponse == 'yes':
-			goodGroups += group1
+			# goodGroups += group1
 			# test group 2
 			print("Group2:")
 			disableAndEnableMods(group1, goodGroups, group2)
@@ -69,7 +69,8 @@ def disableAndEnableMods(disable, good, testing):
 	print(f"Disable({len(disable)}): {disable}")
 	disableGroups(disable)
 	print(f"Good({len(good)}): {good}")
-	enableGroups(good)
+	# enableGroups(good)
+	disableGroups(good)
 	print(f"Testing({len(testing)}): {testing}")
 	enableGroups(testing)
 def askIfFeatureIsWorking():
