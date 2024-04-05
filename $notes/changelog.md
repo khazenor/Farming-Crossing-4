@@ -1,6 +1,7 @@
 # 4.0.5:
 - remove right click harvest (it was conflicting with quark)
 - revert utilitiX version back to 0.8.11 (it was breaking double doors with quark, ironically it was an update to bring back an double door compatibility work for quark)
+- remove easy mob farm tutorial quest
 # 4.0.4:
 - Add botania mushrooms into flora collection quests
 - Remove stonelings and add heart of diamond into the market
