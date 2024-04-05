@@ -1,3 +1,5 @@
+# 4.0.5:
+- remove right click harvest (it was conflicting with quark)
 # 4.0.4:
 - Add botania mushrooms into flora collection quests
 - Remove stonelings and add heart of diamond into the market
