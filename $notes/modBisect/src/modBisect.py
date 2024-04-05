@@ -1,10 +1,13 @@
 from src import fileGroupings
 from src import config
 import random
+import json
 import os
 
 disabledStr = '.disabled'
 fileGroupingCacheFilename = 'fileGroupings.json'
+badGroupOnesCacheFilename = 'badGroupOnes.json'
+
 def modBisect(excludeModIdList=[]):
 	allFileGroups = fileGroupings.getFileGroupings()
 
@@ -15,7 +18,12 @@ def modBisect(excludeModIdList=[]):
 
 def test(goodGroups, mysteryGroups):
 	if len(mysteryGroups) > 1:
+		badGroupOnes = []
+		if os.path.exists(badGroupOnesCacheFilename):
+			badGroupOnes = json.load(open(badGroupOnesCacheFilename, 'r'))
 		group1, group2 = splitListRandom(mysteryGroups)
+		while group1 in badGroupOnes:
+			group1, group2 = splitListRandom(mysteryGroups)
 		# test group 1
 		print(f"Group1: ")
 		disableAndEnableMods(group2, goodGroups, group1)
@@ -25,6 +33,11 @@ def test(goodGroups, mysteryGroups):
 			firstHalfResponse = askIfFeatureIsWorking()
 			if firstHalfResponse == 'quit':
 				return
+			if firstHalfResponse == 'bad':
+				badGroupOnes.append(group1)
+				json.dump(badGroupOnes, open(badGroupOnesCacheFilename, 'w'), indent=2)
+				test(goodGroups, mysteryGroups)
+
 			if firstHalfResponse == 'reroll':
 				test(goodGroups, mysteryGroups)
 
@@ -65,6 +78,8 @@ def askIfFeatureIsWorking():
 		return 'quit'
 	elif haveSubstrings(['reroll', 'roll'], response):
 		return 'reroll'
+	elif haveSubstrings(['bad'], response):
+		return 'bad'
 	elif haveSubstrings(['yes'], response):
 		return 'yes'
 	elif haveSubstrings(['no'], response):
