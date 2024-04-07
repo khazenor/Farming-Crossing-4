@@ -6,7 +6,7 @@ from lib import stringCleaning
 exportFolder = os.path.join(const.kubejs(), 'data', 'botanypots', 'recipes', 'farming_crossing', 'crop')
 
 def writeSeedJson(seedId, cropId, blockId):
-	filename = stringCleaning.cleanedNameStr(cropId)
+	filename = stringCleaning.cleanedNameStr(seedId)
 	if not os.path.exists(exportFolder):
 		os.makedirs(exportFolder)
 	json.dump(

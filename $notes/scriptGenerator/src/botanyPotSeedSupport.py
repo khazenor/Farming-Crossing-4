@@ -347,6 +347,11 @@ otherCrops = [
 		blockKey: "vinery:apple_tree_sapling"
   },
 	{
+		seedKey: "pamhc2trees:apple_sapling",
+		cropKey: "minecraft:apple",
+		blockKey: "pamhc2trees:apple_sapling"
+  },
+	{
 		seedKey: "beachparty:palm_sapling",
 		cropKey: "beachparty:coconut",
 		blockKey: "beachparty:palm_sapling"
