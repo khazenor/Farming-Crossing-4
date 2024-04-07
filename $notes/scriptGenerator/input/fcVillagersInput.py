@@ -262,6 +262,11 @@ villagers = [
         playerNum: 2
 			},
       {
+        villagerItems: ['waystones:warp_plate'],
+        villagerNum: 2,
+        playerNum: 8
+      },
+      {
         villagerItems: [
           'waystones:waystone',
           "waystones:sandy_waystone",
@@ -272,7 +277,7 @@ villagers = [
 			},
       {
         villagerItems: ["mobcapturingtool:mob_capturing_tool"],
-        playerNum: 32
+        playerNum: 16
 			},
       { villagerItems: ["naturescompass:naturescompass"] },
       {
