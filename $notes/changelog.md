@@ -1,4 +1,5 @@
 # 4.1.0:
+## Updates since v4.0.5
 - Yukkie now sells mob drops for fruits.  The mob drops available changes with the seasons.
 - Blooming nature logs now smelts to charcoal and can be stripped using the Create mechanical saw.
 - Disable saplings planting themselves when they despawn
@@ -6,6 +7,56 @@
 - Added l2library for a separate curio inventory tab
 - Andre now also sells warp plates and added an alternative recipes for warp plates.
 - Lowered Andre's price on mod capturing devices.
+# 4.1 changelog since v3.18:
+- I strongly suggest starting a new world for this update if you are coming from version 3.18 or lower.  If you want to play in an existing world there are no guarantees on the collection quest working properly.
+## Serene Seasons and Real Seasons are Added and fc villagers now have seasonal trades!
+- Real Seasons allows syncing of Serene Season with real life time.  By default, each seasons are set up to last a real life day.
+- Andre now sells seasonal animal plushes
+- Laly now buys different gems based on the season
+- Sam now buys different fishes based on the season
+- Pamela serves food made with seasonal produce
+- Ren sells furniture with seasonal style
+- Yukkie sells mob drops for fruits with stocks varying depending on season
+## Additional Features
+- Clothing and decoration kits (loot bags) are now for sale in the market to help you get the clothing or decoration items more reliably
+- Let's do villagers now take miles ticket are currency instead of emeralds
+- all tea leaves should be useable to make matcha related goods
+- Elna now moves in after you purchase 10 hats instead of 20.
+- Nether gem ores are now rarer.
+- Move lets do outfits to Elna's clothes shop
+- Remove stonelings and add heart of diamond into the market
+## Mods Added
+- No Mob Farms to disincentivize mob farming
+- Let's do: Blooming Nature:
+  - Collection quests updated with new animals, saplings and flowers
+  - flowers, spawn eggs added to the market
+  - flowers duplicable with bonemeal
+  - logs and leaves are duplicable with tickets
+- Let's do: Brewery:
+  - Brewing stations added to main cooking quest
+  - Beers and Whisky added to the cooking collection questline
+  - Prezels and gingerbread converted to oven recipes
+  - Crops plantable in botany pots
+  - Customer villager will buy meals from this mod
+- Let's do: Herbal Brews
+  - Cauldron and tea kettle added to main cooking quest
+  - potions and teas added to teh cooking collection questline
+  - crops and flowers added to the market
+  - flowers duplicable with bonemeal
+  - Crops plantable in botany pots
+  - Customer villager will buy meals from this mod
+- Cosmetic Armors
+  - Added the bunny outfit into collection quests and Elna's shop
+- Botania:
+  - world gen flowers and mushrooms are added to flora collection
+- Fairy lights
+## Mods Removed:
+- Botany Pots Tiers
+- Easy Mob Farm
+- Cuisine Delight
+## Mods Updated
+- Let's do: bakery, beach party, candlelight, meadow, vinery
+- Many other mods
 # 4.0.5:
 - remove right click harvest (it was conflicting with quark)
 - revert utilitiX version back to 0.8.11 (it was breaking double doors with quark, ironically it was an update to bring back an double door compatibility work for quark)
