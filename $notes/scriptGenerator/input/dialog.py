@@ -177,7 +177,7 @@ dialogs = [
   }, {
     nameKey: 'Yukkie moves in',
     speakerKey: yukkie,
-    textsKey: ['I’M HERE!  Please sell me your FRUIT DISHES!  I LOVE FRUIT!'],
+    textsKey: ['I’M HERE!  Please sell me your FRUIT!  I LOVE FRUIT!'],
     questIdKey: "78BB8E151802329C"
   }, {
     nameKey: 'Laly Museum Completion',
