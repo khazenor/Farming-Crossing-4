@@ -1,3 +1,5 @@
+# 4.1.0:
+- Blooming nature logs now smelts to charcoal and can be stripped using the Create mechanical saw.
 # 4.0.5:
 - remove right click harvest (it was conflicting with quark)
 - revert utilitiX version back to 0.8.11 (it was breaking double doors with quark, ironically it was an update to bring back an double door compatibility work for quark)
