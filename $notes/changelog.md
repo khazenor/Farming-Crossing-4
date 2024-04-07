@@ -1,4 +1,5 @@
 # 4.1.0:
+- Yukkie now sells mob drops for fruits.  The mob drops available changes with the seasons.
 - Blooming nature logs now smelts to charcoal and can be stripped using the Create mechanical saw.
 - Disable saplings planting themselves when they despawn
 - Pam's harvest craft apple sapling now works insides botany pots

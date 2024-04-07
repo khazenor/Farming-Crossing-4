@@ -1,98 +1,69 @@
 ItemEvents.tooltip(event => {
   event.add(
     [
-      'minecraft:enchanted_golden_apple', 
-      'bakery:sweetberry_cupcake', 
-      'vinery:cherry_wine', 
-      'beachparty:sweetberries_cocktail', 
-      'beachparty:icecream_melon', 
-      'farmersdelight:glow_berry_custard', 
-      'farmersdelight:apple_pie', 
-      'delightful:salmonberry_ice_cream', 
-      'delightful:cantaloupe_popsicle', 
-      'pamhc2foodextended:blackberryjuiceitem', 
-      'pamhc2foodextended:blueberryjuiceitem', 
-      'pamhc2foodextended:cactusfruitjuiceitem', 
-      'pamhc2foodextended:candleberryjuiceitem', 
-      'pamhc2foodextended:cranberryjuiceitem', 
-      'pamhc2foodextended:elderberryjuiceitem', 
-      'pamhc2foodextended:huckleberryjellyitem', 
-      'pamhc2foodextended:juniperberryjellyitem', 
-      'pamhc2foodextended:mulberryjellyitem', 
-      'pamhc2foodextended:raspberryjellyitem', 
-      'pamhc2foodextended:strawberryjellyitem', 
-      'pamhc2foodextended:cantaloupejellyitem', 
-      'pamhc2foodextended:grapesmoothieitem', 
-      'pamhc2foodextended:greengrapesmoothieitem', 
-      'pamhc2foodextended:kiwismoothieitem', 
-      'pamhc2foodextended:pineapplesmoothieitem', 
-      'pamhc2foodextended:cherrysmoothieitem', 
-      'pamhc2foodextended:orangesmoothieitem', 
-      'pamhc2foodextended:peachpieitem', 
-      'pamhc2foodextended:pearpieitem', 
-      'pamhc2foodextended:plumpieitem', 
-      'pamhc2foodextended:pawpawpieitem', 
-      'pamhc2foodextended:soursoppieitem', 
-      'pamhc2foodextended:apricotpieitem', 
-      'pamhc2foodextended:bananajellytoastitem', 
-      'pamhc2foodextended:datejellytoastitem', 
-      'pamhc2foodextended:dragonfruitjellytoastitem', 
-      'pamhc2foodextended:figjellytoastitem', 
-      'pamhc2foodextended:grapefruitjellytoastitem', 
-      'pamhc2foodextended:mangojellytoastitem', 
-      'pamhc2foodextended:papayayogurtitem', 
-      'pamhc2foodextended:persimmonyogurtitem', 
-      'pamhc2foodextended:pomegranateyogurtitem', 
-      'pamhc2foodextended:starfruityogurtitem', 
-      'pamhc2foodextended:breadfruityogurtitem', 
-      'pamhc2foodextended:jackfruityogurtitem', 
-      'pamhc2foodextended:guavajellysandwichitem', 
-      'pamhc2foodextended:lycheejellysandwichitem', 
-      'pamhc2foodextended:passionfruitjellysandwichitem', 
-      'pamhc2foodextended:rambutanjellysandwichitem', 
-      'pamhc2foodextended:tamarindjellysandwichitem', 
-      'pamhc2foodextended:gooseberryjellysandwichitem', 
-      'pamhc2foodextended:durianjellysandwichitem', 
-      'pamhc2foodextended:lemonjellysandwichitem', 
-      'pamhc2foodextended:limejellysandwichitem'
+      'minecraft:glow_ink_sac', 
+      'minecraft:glowstone_dust', 
+      'minecraft:gunpowder', 
+      'minecraft:ghast_tear', 
+      'minecraft:slime_ball', 
+      'minecraft:ender_pearl', 
+      'minecraft:quartz', 
+      'minecraft:blaze_rod', 
+      'minecraft:shulker_shell', 
+      'minecraft:wither_skeleton_skull'
     ],
     [
-      'You can sell this item to Yukkie'
+      'You can get this item from Yukkie'
     ])
   event.add(
     [
-      'bakery:strawberry'
+      'minecraft:arrow', 
+      'minecraft:spectral_arrow', 
+      'minecraft:rotten_flesh', 
+      'minecraft:spider_eye', 
+      'minecraft:bone', 
+      'minecraft:leather', 
+      'minecraft:string'
     ],
     [
-      'You can sell this item to Yukkie during Spring'
+      'You can get this item from Yukkie during Spring'
     ])
   event.add(
     [
-      'vinery:cherry'
+      'minecraft:ochre_froglight', 
+      'minecraft:pearlescent_froglight', 
+      'minecraft:verdant_froglight', 
+      'minecraft:soul_sand', 
+      'minecraft:fire_charge', 
+      'minecraft:magma_cream'
     ],
     [
-      'You can sell this item to Yukkie during Summer'
+      'You can get this item from Yukkie during Summer'
     ])
   event.add(
     [
-      'vinery:red_grape', 
-      'vinery:white_grape', 
-      'vinery:savanna_grapes_red', 
-      'vinery:savanna_grapes_white', 
-      'vinery:taiga_grapes_red', 
-      'vinery:taiga_grapes_white', 
-      'vinery:jungle_grapes_red', 
-      'vinery:jungle_grapes_white'
+      'minecraft:prismarine_crystals', 
+      'minecraft:prismarine_shard', 
+      'minecraft:phantom_membrane', 
+      'minecraft:tide_armor_trim_smithing_template', 
+      'minecraft:redstone', 
+      'minecraft:totem_of_undying'
     ],
     [
-      'You can sell this item to Yukkie during Fall'
+      'You can get this item from Yukkie during Fall'
     ])
   event.add(
     [
-      'pamhc2trees:orangeitem'
+      'minecraft:sculk_catalyst', 
+      'minecraft:sponge', 
+      'minecraft:obsidian', 
+      'minecraft:crying_obsidian', 
+      'minecraft:blackstone', 
+      'minecraft:zombie_head', 
+      'minecraft:creeper_head'
     ],
     [
-      'You can sell this item to Yukkie during Winter'
+      'You can get this item from Yukkie during Winter'
     ])
 
 })

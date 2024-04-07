@@ -533,109 +533,190 @@ villagers = [
     textureKey: "bat",
     tradesKey: [
       {
-        playerItems: ["minecraft:enchanted_golden_apple"],
-        villagerNum: 64
-			}, {
-        playerItems: [
-					"bakery:sweetberry_cupcake",
-					"vinery:cherry_wine",
-					"beachparty:sweetberries_cocktail",
-					"beachparty:icecream_melon",
-					"farmersdelight:glow_berry_custard",
-          "farmersdelight:apple_pie",
-					"delightful:salmonberry_ice_cream",
-					"delightful:cantaloupe_popsicle"
-				],
-        villagerNum: 2
-			},
-      { # Juices and Jellies
-        playerItems: [
-          "pamhc2foodextended:blackberryjuiceitem",
-          "pamhc2foodextended:blueberryjuiceitem",
-          "pamhc2foodextended:cactusfruitjuiceitem",
-          "pamhc2foodextended:candleberryjuiceitem",
-          "pamhc2foodextended:cranberryjuiceitem",
-          "pamhc2foodextended:elderberryjuiceitem",
-          "pamhc2foodextended:huckleberryjellyitem",
-          "pamhc2foodextended:juniperberryjellyitem",
-          "pamhc2foodextended:mulberryjellyitem",
-          "pamhc2foodextended:raspberryjellyitem",
-          "pamhc2foodextended:strawberryjellyitem",
-          "pamhc2foodextended:cantaloupejellyitem"
-				],
-        playerNum: 3
-			},
-      { # Smoothies
-        playerItems: [
-          "pamhc2foodextended:grapesmoothieitem",
-          "pamhc2foodextended:greengrapesmoothieitem",
-          "pamhc2foodextended:kiwismoothieitem",
-          "pamhc2foodextended:pineapplesmoothieitem",
-          "pamhc2foodextended:cherrysmoothieitem",
-          "pamhc2foodextended:orangesmoothieitem"
-				],
+        villagerItems: ["minecraft:glow_ink_sac"],
+        playerItems: ["minecraft:glow_berries"],
         playerNum: 2
-			},
-      { # Pies and Jellied Toast
-        playerItems: [
-          "pamhc2foodextended:peachpieitem",
-          "pamhc2foodextended:pearpieitem",
-          "pamhc2foodextended:plumpieitem",
-          "pamhc2foodextended:pawpawpieitem",
-          "pamhc2foodextended:soursoppieitem",
-          "pamhc2foodextended:apricotpieitem",
-          "pamhc2foodextended:bananajellytoastitem",
-          "pamhc2foodextended:datejellytoastitem",
-          "pamhc2foodextended:dragonfruitjellytoastitem",
-          "pamhc2foodextended:figjellytoastitem",
-          "pamhc2foodextended:grapefruitjellytoastitem",
-          "pamhc2foodextended:mangojellytoastitem"
-				]
-			},
-      { # Jelly Sandwich
-        playerItems: [
-          "pamhc2foodextended:papayayogurtitem",
-          "pamhc2foodextended:persimmonyogurtitem",
-          "pamhc2foodextended:pomegranateyogurtitem",
-          "pamhc2foodextended:starfruityogurtitem",
-          "pamhc2foodextended:breadfruityogurtitem",
-          "pamhc2foodextended:jackfruityogurtitem",
-          "pamhc2foodextended:guavajellysandwichitem",
-          "pamhc2foodextended:lycheejellysandwichitem",
-          "pamhc2foodextended:passionfruitjellysandwichitem",
-          "pamhc2foodextended:rambutanjellysandwichitem",
-          "pamhc2foodextended:tamarindjellysandwichitem",
-          "pamhc2foodextended:gooseberryjellysandwichitem",
-          "pamhc2foodextended:durianjellysandwichitem",
-          "pamhc2foodextended:lemonjellysandwichitem",
-          "pamhc2foodextended:limejellysandwichitem",
-				],
-        villagerNum: 2
-			}
+      },
+      {
+        villagerItems: ["minecraft:glowstone_dust"],
+        playerItems: ["minecraft:apple"],
+        playerNum: 8
+      },
+      {
+        villagerItems: ["minecraft:gunpowder"],
+        playerItems: ["delightful:salmonberries"],
+        playerNum: 8
+      },
+      {
+        villagerItems: ["minecraft:ghast_tear"],
+        playerItems: ["minecraft:pumpkin"],
+        playerNum: 10
+      },
+      {
+        villagerItems: ["minecraft:slime_ball"],
+        playerItems: ["vinery:cherry"],
+        playerNum: 12
+      },
+      {
+        villagerItems: ["minecraft:ender_pearl"],
+        playerItems: ["minecraft:glow_berries"],
+        playerNum: 16
+      },
+      {
+        villagerItems: ["minecraft:quartz"],
+        playerItems: ["minecraft:sweet_berries"],
+        playerNum: 16
+      },
+      {
+        villagerItems: ["minecraft:blaze_rod"],
+        playerItems: ["minecraft:melon_slice"],
+        playerNum: 48
+      },
+      {
+        villagerItems: ["minecraft:shulker_shell"],
+        playerItems: ["minecraft:golden_apple"],
+        playerNum: 2
+      },
+      {
+        villagerItems: ["minecraft:wither_skeleton_skull"],
+        playerItems: ["minecraft:enchanted_golden_apple"]
+      }
 		],
     springTradesKey: [
-      { playerItems: ['bakery:strawberry'], playerNum: 64 }
+      {
+        villagerItems: ["minecraft:arrow"],
+        playerItems: ["pamhc2trees:lycheeitem"]
+      },
+      {
+        villagerItems: ["minecraft:spectral_arrow"],
+        playerItems: ["pamhc2trees:dragonfruititem"],
+        playerNum: 6
+      },
+      {
+        villagerItems: ["minecraft:rotten_flesh"],
+        playerItems: ["vinery:savanna_grapes_red"],
+        playerNum: 8
+      },
+      {
+        villagerItems: ["minecraft:spider_eye"],
+        playerItems: ["vinery:red_grape"],
+        playerNum: 8
+      },
+      {
+        villagerItems: ["minecraft:bone"],
+        playerItems: ["vinery:taiga_grape_seeds_red"],
+        playerNum: 8
+      },
+      {
+        villagerItems: ["minecraft:leather"],
+        playerItems: ["vinery:jungle_grapes_red"],
+        playerNum: 8
+      },
+      {
+        villagerItems: ["minecraft:string"],
+        villagerNum: 3,
+        playerItems: ["pamhc2trees:plumitem"]
+      }
     ],
     summerTradesKey: [
-      { playerItems: ['vinery:cherry'], playerNum: 64 }
+      {
+        villagerItems: ["minecraft:ochre_froglight"],
+        playerItems: ["vinery:savanna_grapes_white"],
+        playerNum: 64
+      },
+      {
+        villagerItems: ["minecraft:pearlescent_froglight"],
+        playerItems: ["vinery:taiga_grapes_white"],
+        playerNum: 64
+      },
+      {
+        villagerItems: ["minecraft:verdant_froglight"],
+        playerItems: ["vinery:jungle_grapes_white"],
+        playerNum: 64
+      },
+      {
+        villagerItems: ["minecraft:soul_sand"],
+        playerItems: ["vinery:white_grape"],
+        playerNum: 64
+      },
+      {
+        villagerItems: ["minecraft:fire_charge"],
+        playerItems: ["pamhc2crops:kiwiitem"],
+        playerNum: 16
+      },
+      {
+        villagerItems: ["minecraft:magma_cream"],
+        playerItems: ["pamhc2trees:starfruititem"],
+        playerNum: 16
+      }
     ],
     fallTradesKey: [
       {
-        playerItems: [
-          'vinery:red_grape',
-          'vinery:white_grape',
-          'vinery:savanna_grapes_red',
-          'vinery:savanna_grapes_white',
-          'vinery:taiga_grapes_red',
-          'vinery:taiga_grapes_white',
-          'vinery:jungle_grapes_red',
-          'vinery:jungle_grapes_white'
-        ],
-        playerNum: 64
+        villagerItems: ["minecraft:prismarine_crystals"],
+        playerItems: ["pamhc2trees:lemonitem"],
+        playerNum: 12
+      },
+      {
+        villagerItems: ["minecraft:prismarine_shard"],
+        playerItems: ["pamhc2trees:orangeitem"],
+        playerNum: 16
+      },
+      {
+        villagerItems: ["minecraft:phantom_membrane"],
+        playerItems: ["pamhc2trees:gooseberryitem"],
+        playerNum: 16
+      },
+      {
+        villagerItems: ["minecraft:tide_armor_trim_smithing_template"],
+        playerItems: ["pamhc2trees:papayaitem"],
+        playerNum: 8
+      },
+      {
+        villagerItems: ["minecraft:redstone"],
+        playerItems: ["pamhc2trees:persimmonitem"],
+        playerNum: 4
+      },
+      {
+        villagerItems: ["minecraft:totem_of_undying"],
+        playerItems: ["minecraft:enchanted_golden_apple"]
       }
     ],
     winterTradesKey: [
-      { playerItems: ['pamhc2trees:orangeitem'], playerNum: 64 }
+      {
+        villagerItems: ["minecraft:sculk_catalyst"],
+        playerItems: ["pamhc2trees:durianitem"],
+        playerNum: 16
+      },
+      {
+        villagerItems: ["minecraft:sponge"],
+        playerItems: ["pamhc2trees:avocadoitem"],
+        playerNum: 32
+      },
+      {
+        villagerItems: ["minecraft:obsidian"],
+        playerItems: ["pamhc2crops:juniperberryitem"],
+        playerNum: 32
+      },
+      {
+        villagerItems: ["minecraft:crying_obsidian"],
+        playerItems: ["pamhc2crops:mulberryitem"],
+        playerNum: 32
+      },
+      {
+        villagerItems: ["minecraft:blackstone"],
+        playerItems: ["pamhc2crops:huckleberryitem"],
+        playerNum: 64
+      },
+      {
+        villagerItems: ["minecraft:zombie_head"],
+        playerItems: ["pamhc2trees:mangoitem"],
+        playerNum: 64
+      },
+      {
+        villagerItems: ["minecraft:creeper_head"],
+        playerItems: ["pamhc2trees:guavaitem"],
+        playerNum: 64
+      }
     ]
 	},
 	{ # Jess
