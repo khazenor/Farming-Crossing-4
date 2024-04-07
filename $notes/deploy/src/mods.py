@@ -34,7 +34,8 @@ clientSideModNames = [
 	'XaerosWorldMap',
 	'Xaeros_Minimap',
 	'realcamera',
-	'Tips'
+	'Tips',
+	'l2library'
 ]
 
 modsFolder = 'mods'
