@@ -54,19 +54,30 @@ def villagerTradeWithDefaultSales(
 	increaseVillagerNum=False
 ):
 	# number of price: price ratio
+	villagerKey = 'vilalgerKey'
+	playerKey = 'playerKey'
 	priceRatio = {
-		8: 1,
-		2: 0.75,
-		1: 0.5
+		8: {
+			villagerKey: 1,
+			playerKey: 1
+		},
+		2: {
+			villagerKey: 1.5,
+			playerKey: 0.75
+		},
+		1: {
+			villagerKey: 2.0,
+			playerKey: 0.5
+		}
 	}
 	tradeContent = ''
 	for priceOccur in priceRatio:
 		for i in range(priceOccur):
 			if decreasePlayerNum:
 				updatedVillagerNum = villagerNum
-				updatedPlayerNum = int(playerNum * priceRatio[priceOccur])
+				updatedPlayerNum = int(playerNum * priceRatio[priceOccur][playerKey])
 			elif increaseVillagerNum:
-				updatedVillagerNum = int(villagerNum * (1 / priceRatio[priceOccur]))
+				updatedVillagerNum = int(villagerNum * priceRatio[priceOccur][villagerKey])
 				updatedPlayerNum = playerNum
 			else:
 				updatedVillagerNum = villagerNum
