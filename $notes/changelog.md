@@ -1,5 +1,7 @@
+# 4.1.1:
+- Turn off spawning of stonelings, again
 # 4.1.0:
-## Updates since v4.0.5
+# Updates since v4.0.5
 - Yukkie now sells mob drops for fruits.  The mob drops available changes with the seasons.
 - Blooming nature logs now smelts to charcoal and can be stripped using the Create mechanical saw.
 - Disable saplings planting themselves when they despawn
