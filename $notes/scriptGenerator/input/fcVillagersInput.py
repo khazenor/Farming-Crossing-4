@@ -262,6 +262,10 @@ villagers = [
         playerNum: 2
 			},
       {
+        villagerItems: ['minecraft:name_tag'],
+        playerNum: 6
+      },
+      {
         villagerItems: ['waystones:warp_plate'],
         villagerNum: 2,
         playerNum: 8

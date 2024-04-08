@@ -5,6 +5,7 @@ ItemEvents.tooltip(event => {
       'minecraft:spyglass', 
       'farmingforblockheads:chicken_nest', 
       'farmingforblockheads:feeding_trough', 
+      'minecraft:name_tag', 
       'waystones:warp_plate', 
       'waystones:waystone', 
       'waystones:sandy_waystone', 

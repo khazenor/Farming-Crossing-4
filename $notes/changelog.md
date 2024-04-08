@@ -1,5 +1,6 @@
 # 4.1.1:
 - Turn off spawning of stonelings, again
+- Andre now sells name tags
 # 4.1.0:
 # Updates since v4.0.5
 - Yukkie now sells mob drops for fruits.  The mob drops available changes with the seasons.
