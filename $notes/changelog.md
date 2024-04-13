@@ -1,11 +1,12 @@
 # 4.1.2:
 - Yukkie now trades for wither skulls for 64 bags of apples all seasons and nether stars for 4 golden enchanted apples in winter.
 - Added the ability to craft egg shells from eggs
+- Snow max number of accumulating layers is lowered to two layers
 - Increased the snow melting speed in the serene seasons default server config
   - to update the config for your world, go into the serverconfig folder in your server world folder or your single player save folder and delete the file sereneseasons-server.toml before starting your game
 - Vinery cherry planks now makes a mangrove boat because the vinery cherry boat was crashing the client when players enters it.
 - Slow down growth rate of a few crops in the botany pots that were missing in a previous update.
-- Vines now purchaseable in the market and growable in botanty pots
+- Vines now purchaseable in the market and growable in botany pots
 # 4.1.1:
 - Turn off spawning of stonelings, again
 - Andre now sells name tags
