@@ -1,0 +1,37 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "biomesoplenty:willow_vine"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "biomesoplenty:willow_vine"
+  },
+  "categories": [
+    "dirt",
+    "farmland"
+  ],
+  "growthTicks": 20000,
+  "display": {
+    "type": "botanypots:aging",
+    "block": "biomesoplenty:willow_vine"
+  },
+  "drops": [
+    {
+      "chance": 1.0,
+      "output": {
+        "item": "biomesoplenty:willow_vine"
+      }
+    },
+    {
+      "chance": 0.01,
+      "output": {
+        "item": "biomesoplenty:willow_vine"
+      }
+    }
+  ]
+}

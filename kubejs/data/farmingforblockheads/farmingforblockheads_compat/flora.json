@@ -3794,6 +3794,50 @@
     },
     {
       "output": {
+        "item": "minecraft:vine",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flora"
+    },
+    {
+      "output": {
+        "item": "minecraft:weeping_vines",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flora"
+    },
+    {
+      "output": {
+        "item": "minecraft:twisting_vines",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flora"
+    },
+    {
+      "output": {
+        "item": "biomesoplenty:willow_vine",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flora"
+    },
+    {
+      "output": {
         "item": "minecraft:apple",
         "count": 4
       },

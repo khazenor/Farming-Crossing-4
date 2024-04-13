@@ -1,0 +1,37 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "minecraft:weeping_vines"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "minecraft:weeping_vines"
+  },
+  "categories": [
+    "dirt",
+    "farmland"
+  ],
+  "growthTicks": 20000,
+  "display": {
+    "type": "botanypots:aging",
+    "block": "minecraft:weeping_vines_plant"
+  },
+  "drops": [
+    {
+      "chance": 1.0,
+      "output": {
+        "item": "minecraft:weeping_vines"
+      }
+    },
+    {
+      "chance": 0.01,
+      "output": {
+        "item": "minecraft:weeping_vines"
+      }
+    }
+  ]
+}

@@ -390,6 +390,26 @@ otherCrops = [
 		seedKey: "herbalbrews:coffee_beans",
 		cropKey: "herbalbrews:coffee_beans",
 		blockKey: "herbalbrews:coffee_plant"
+  },
+	{
+		seedKey: 'minecraft:vine',
+		cropKey: 'minecraft:vine',
+		blockKey: 'minecraft:vine'
+  },
+	{
+		seedKey: 'minecraft:weeping_vines',
+		cropKey: 'minecraft:weeping_vines',
+		blockKey: 'minecraft:weeping_vines_plant'
+  },
+	{
+		seedKey: 'minecraft:twisting_vines',
+		cropKey: 'minecraft:twisting_vines',
+		blockKey: 'minecraft:twisting_vines_plant'
+  },
+	{
+		seedKey: 'biomesoplenty:willow_vine',
+		cropKey: 'biomesoplenty:willow_vine',
+		blockKey: 'biomesoplenty:willow_vine'
   }
 ]
 

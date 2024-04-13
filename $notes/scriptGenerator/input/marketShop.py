@@ -503,6 +503,16 @@ categories = {
           "pamhc2trees:walnutitem"
         ]
       },
+      { # not in collection
+        priceKey: 32,
+        productNumKey: 4,
+        itemsKey: [
+          'minecraft:vine',
+          'minecraft:weeping_vines',
+          'minecraft:twisting_vines',
+          'biomesoplenty:willow_vine'
+        ]
+      },
       { # flora quests
         priceKey: 32,
         productNumKey: 4,
