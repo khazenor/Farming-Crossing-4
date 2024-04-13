@@ -1,5 +1,7 @@
 # 4.1.2:
 - Added the ability to craft egg shells from eggs
+- Increased the snow melting speed in the serene seasons default server config
+  - to update the config for your world, go into the serverconfig folder in your server world folder or your single player save folder and delete the file sereneseasons-server.toml before starting your game
 # 4.1.1:
 - Turn off spawning of stonelings, again
 - Andre now sells name tags
