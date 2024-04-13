@@ -13,6 +13,8 @@
 ## Mods Added:
 - Domestication innovation
 - Create steam n rails
+## Mods Updated:
+- Open Parties and Claims
 # 4.1.1:
 - Turn off spawning of stonelings, again
 - Andre now sells name tags
