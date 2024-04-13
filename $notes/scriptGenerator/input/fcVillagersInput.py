@@ -578,12 +578,13 @@ villagers = [
       },
       {
         villagerItems: ["minecraft:shulker_shell"],
-        playerItems: ["minecraft:golden_apple"],
-        playerNum: 2
+        playerItems: ["vinery:apple_crate"],
+        playerNum: 16
       },
       {
         villagerItems: ["minecraft:wither_skeleton_skull"],
-        playerItems: ["minecraft:enchanted_golden_apple"]
+        playerItems: ["vinery:apple_crate"],
+        playerNum: 64
       }
 		],
     springTradesKey: [
@@ -720,6 +721,11 @@ villagers = [
         villagerItems: ["minecraft:creeper_head"],
         playerItems: ["pamhc2trees:guavaitem"],
         playerNum: 64
+      },
+      {
+        villagerItems: ["minecraft:nether_star"],
+        playerItems: ["minecraft:enchanted_golden_apple"],
+        playerNum: 4
       }
     ]
 	},

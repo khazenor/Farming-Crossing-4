@@ -60,7 +60,8 @@ ItemEvents.tooltip(event => {
       'minecraft:crying_obsidian', 
       'minecraft:blackstone', 
       'minecraft:zombie_head', 
-      'minecraft:creeper_head'
+      'minecraft:creeper_head', 
+      'minecraft:nether_star'
     ],
     [
       'You can get this item from Yukkie during Winter'

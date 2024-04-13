@@ -1,4 +1,5 @@
 # 4.1.2:
+- Yukkie now trades for wither skulls for 64 bags of apples all seasons and nether stars for 4 golden enchanted apples in winter.
 - Added the ability to craft egg shells from eggs
 - Increased the snow melting speed in the serene seasons default server config
   - to update the config for your world, go into the serverconfig folder in your server world folder or your single player save folder and delete the file sereneseasons-server.toml before starting your game
