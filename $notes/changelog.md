@@ -7,6 +7,7 @@
 - Vinery cherry planks now makes a mangrove boat because the vinery cherry boat was crashing the client when players enters it.
 - Slow down growth rate of a few crops in the botany pots that were missing in a previous update.
 - Vines now purchaseable in the market and growable in botany pots
+- Botania Orechid should prioritize minecraft, meadow, and create ores
 # 4.1.1:
 - Turn off spawning of stonelings, again
 - Andre now sells name tags
