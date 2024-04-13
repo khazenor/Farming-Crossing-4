@@ -1,3 +1,5 @@
+# 4.1.2:
+- Added the ability to craft egg shells from eggs
 # 4.1.1:
 - Turn off spawning of stonelings, again
 - Andre now sells name tags
