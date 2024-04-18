@@ -881,13 +881,6 @@ ServerEvents.recipes(event => {
     result:"beautify:lamp_bamboo",
     count:1
   })
-  event.stonecutting('mcwtrpdoors:print_bamboo', '#forge:furniture_bamboo_log')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_bamboo_log"},
-    result:"mcwtrpdoors:print_bamboo",
-    count:1
-  })
   event.stonecutting('minecraft:birch_log', '#forge:furniture_birch_log')
   event.custom({
     type: "corail_woodcutter:woodcutting",
@@ -10338,6 +10331,195 @@ ServerEvents.recipes(event => {
     result:"mcwwindows:stripped_acacia_pane_window",
     count:1
   })
+  event.stonecutting('mcwbridges:acacia_bridge_pier', '#forge:furniture_acacia_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_acacia_planks"},
+    result:"mcwbridges:acacia_bridge_pier",
+    count:1
+  })
+  event.stonecutting('mcwbridges:acacia_log_bridge_middle', '#forge:furniture_acacia_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_acacia_planks"},
+    result:"mcwbridges:acacia_log_bridge_middle",
+    count:1
+  })
+  event.stonecutting('mcwbridges:acacia_log_bridge_stair', '#forge:furniture_acacia_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_acacia_planks"},
+    result:"mcwbridges:acacia_log_bridge_stair",
+    count:1
+  })
+  event.stonecutting('mcwbridges:acacia_rail_bridge', '#forge:furniture_acacia_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_acacia_planks"},
+    result:"mcwbridges:acacia_rail_bridge",
+    count:1
+  })
+  event.stonecutting('mcwbridges:acacia_rope_bridge_stair', '#forge:furniture_acacia_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_acacia_planks"},
+    result:"mcwbridges:acacia_rope_bridge_stair",
+    count:1
+  })
+  event.stonecutting('mcwbridges:rope_acacia_bridge', '#forge:furniture_acacia_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_acacia_planks"},
+    result:"mcwbridges:rope_acacia_bridge",
+    count:1
+  })
+  event.stonecutting('mcwdoors:acacia_bamboo_door', '#forge:furniture_acacia_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_acacia_planks"},
+    result:"mcwdoors:acacia_bamboo_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:acacia_bark_glass_door', '#forge:furniture_acacia_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_acacia_planks"},
+    result:"mcwdoors:acacia_bark_glass_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:acacia_barn_door', '#forge:furniture_acacia_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_acacia_planks"},
+    result:"mcwdoors:acacia_barn_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:acacia_barn_glass_door', '#forge:furniture_acacia_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_acacia_planks"},
+    result:"mcwdoors:acacia_barn_glass_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:acacia_beach_door', '#forge:furniture_acacia_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_acacia_planks"},
+    result:"mcwdoors:acacia_beach_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:acacia_classic_door', '#forge:furniture_acacia_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_acacia_planks"},
+    result:"mcwdoors:acacia_classic_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:acacia_cottage_door', '#forge:furniture_acacia_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_acacia_planks"},
+    result:"mcwdoors:acacia_cottage_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:acacia_four_panel_door', '#forge:furniture_acacia_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_acacia_planks"},
+    result:"mcwdoors:acacia_four_panel_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:acacia_glass_door', '#forge:furniture_acacia_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_acacia_planks"},
+    result:"mcwdoors:acacia_glass_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:acacia_japanese_door', '#forge:furniture_acacia_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_acacia_planks"},
+    result:"mcwdoors:acacia_japanese_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:acacia_japanese2_door', '#forge:furniture_acacia_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_acacia_planks"},
+    result:"mcwdoors:acacia_japanese2_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:acacia_modern_door', '#forge:furniture_acacia_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_acacia_planks"},
+    result:"mcwdoors:acacia_modern_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:acacia_mystic_door', '#forge:furniture_acacia_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_acacia_planks"},
+    result:"mcwdoors:acacia_mystic_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:acacia_nether_door', '#forge:furniture_acacia_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_acacia_planks"},
+    result:"mcwdoors:acacia_nether_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:acacia_paper_door', '#forge:furniture_acacia_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_acacia_planks"},
+    result:"mcwdoors:acacia_paper_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:acacia_stable_door', '#forge:furniture_acacia_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_acacia_planks"},
+    result:"mcwdoors:acacia_stable_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:acacia_stable_head_door', '#forge:furniture_acacia_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_acacia_planks"},
+    result:"mcwdoors:acacia_stable_head_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:acacia_swamp_door', '#forge:furniture_acacia_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_acacia_planks"},
+    result:"mcwdoors:acacia_swamp_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:acacia_waffle_door', '#forge:furniture_acacia_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_acacia_planks"},
+    result:"mcwdoors:acacia_waffle_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:acacia_western_door', '#forge:furniture_acacia_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_acacia_planks"},
+    result:"mcwdoors:acacia_western_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:print_acacia', '#forge:furniture_acacia_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_acacia_planks"},
+    result:"mcwdoors:print_acacia",
+    count:1
+  })
   event.stonecutting('minecraft:bamboo_planks', '#forge:furniture_bamboo_planks')
   event.custom({
     type: "corail_woodcutter:woodcutting",
@@ -10667,6 +10849,13 @@ ServerEvents.recipes(event => {
     result:"mcwtrpdoors:crimson_bamboo_trapdoor",
     count:1
   })
+  event.stonecutting('mcwtrpdoors:print_bamboo', '#forge:furniture_bamboo_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_bamboo_planks"},
+    result:"mcwtrpdoors:print_bamboo",
+    count:1
+  })
   event.stonecutting('mcwtrpdoors:warped_bamboo_trapdoor', '#forge:furniture_bamboo_planks')
   event.custom({
     type: "corail_woodcutter:woodcutting",
@@ -10679,6 +10868,216 @@ ServerEvents.recipes(event => {
     type: "corail_woodcutter:woodcutting",
     ingredient:{"tag":"forge:furniture_bamboo_planks"},
     result:"mcwwindows:bamboo_shutter",
+    count:1
+  })
+  event.stonecutting('mcwbridges:bamboo_bridge', '#forge:furniture_bamboo_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_bamboo_planks"},
+    result:"mcwbridges:bamboo_bridge",
+    count:1
+  })
+  event.stonecutting('mcwbridges:bamboo_bridge_pier', '#forge:furniture_bamboo_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_bamboo_planks"},
+    result:"mcwbridges:bamboo_bridge_pier",
+    count:1
+  })
+  event.stonecutting('mcwbridges:bamboo_bridge_stair', '#forge:furniture_bamboo_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_bamboo_planks"},
+    result:"mcwbridges:bamboo_bridge_stair",
+    count:1
+  })
+  event.stonecutting('mcwbridges:dry_bamboo_bridge', '#forge:furniture_bamboo_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_bamboo_planks"},
+    result:"mcwbridges:dry_bamboo_bridge",
+    count:1
+  })
+  event.stonecutting('mcwbridges:dry_bamboo_bridge_pier', '#forge:furniture_bamboo_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_bamboo_planks"},
+    result:"mcwbridges:dry_bamboo_bridge_pier",
+    count:1
+  })
+  event.stonecutting('mcwbridges:dry_bamboo_bridge_stair', '#forge:furniture_bamboo_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_bamboo_planks"},
+    result:"mcwbridges:dry_bamboo_bridge_stair",
+    count:1
+  })
+  event.stonecutting('mcwdoors:bamboo_bark_glass_door', '#forge:furniture_bamboo_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_bamboo_planks"},
+    result:"mcwdoors:bamboo_bark_glass_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:bamboo_barn_door', '#forge:furniture_bamboo_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_bamboo_planks"},
+    result:"mcwdoors:bamboo_barn_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:bamboo_barn_glass_door', '#forge:furniture_bamboo_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_bamboo_planks"},
+    result:"mcwdoors:bamboo_barn_glass_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:bamboo_beach_door', '#forge:furniture_bamboo_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_bamboo_planks"},
+    result:"mcwdoors:bamboo_beach_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:bamboo_classic_door', '#forge:furniture_bamboo_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_bamboo_planks"},
+    result:"mcwdoors:bamboo_classic_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:bamboo_cottage_door', '#forge:furniture_bamboo_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_bamboo_planks"},
+    result:"mcwdoors:bamboo_cottage_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:bamboo_four_panel_door', '#forge:furniture_bamboo_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_bamboo_planks"},
+    result:"mcwdoors:bamboo_four_panel_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:bamboo_glass_door', '#forge:furniture_bamboo_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_bamboo_planks"},
+    result:"mcwdoors:bamboo_glass_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:bamboo_japanese_door', '#forge:furniture_bamboo_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_bamboo_planks"},
+    result:"mcwdoors:bamboo_japanese_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:bamboo_japanese2_door', '#forge:furniture_bamboo_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_bamboo_planks"},
+    result:"mcwdoors:bamboo_japanese2_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:bamboo_modern_door', '#forge:furniture_bamboo_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_bamboo_planks"},
+    result:"mcwdoors:bamboo_modern_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:bamboo_mystic_door', '#forge:furniture_bamboo_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_bamboo_planks"},
+    result:"mcwdoors:bamboo_mystic_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:bamboo_nether_door', '#forge:furniture_bamboo_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_bamboo_planks"},
+    result:"mcwdoors:bamboo_nether_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:bamboo_paper_door', '#forge:furniture_bamboo_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_bamboo_planks"},
+    result:"mcwdoors:bamboo_paper_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:bamboo_stable_door', '#forge:furniture_bamboo_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_bamboo_planks"},
+    result:"mcwdoors:bamboo_stable_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:bamboo_stable_head_door', '#forge:furniture_bamboo_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_bamboo_planks"},
+    result:"mcwdoors:bamboo_stable_head_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:bamboo_swamp_door', '#forge:furniture_bamboo_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_bamboo_planks"},
+    result:"mcwdoors:bamboo_swamp_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:bamboo_tropical_door', '#forge:furniture_bamboo_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_bamboo_planks"},
+    result:"mcwdoors:bamboo_tropical_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:bamboo_waffle_door', '#forge:furniture_bamboo_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_bamboo_planks"},
+    result:"mcwdoors:bamboo_waffle_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:bamboo_western_door', '#forge:furniture_bamboo_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_bamboo_planks"},
+    result:"mcwdoors:bamboo_western_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:cherry_bamboo_door', '#forge:furniture_bamboo_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_bamboo_planks"},
+    result:"mcwdoors:cherry_bamboo_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:crimson_bamboo_door', '#forge:furniture_bamboo_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_bamboo_planks"},
+    result:"mcwdoors:crimson_bamboo_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:print_bamboo', '#forge:furniture_bamboo_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_bamboo_planks"},
+    result:"mcwdoors:print_bamboo",
+    count:1
+  })
+  event.stonecutting('mcwdoors:warped_bamboo_door', '#forge:furniture_bamboo_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_bamboo_planks"},
+    result:"mcwdoors:warped_bamboo_door",
     count:1
   })
   event.stonecutting('minecraft:birch_planks', '#forge:furniture_birch_planks')
@@ -11073,6 +11472,195 @@ ServerEvents.recipes(event => {
     result:"mcwwindows:stripped_birch_pane_window",
     count:1
   })
+  event.stonecutting('mcwbridges:birch_bridge_pier', '#forge:furniture_birch_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_birch_planks"},
+    result:"mcwbridges:birch_bridge_pier",
+    count:1
+  })
+  event.stonecutting('mcwbridges:birch_log_bridge_middle', '#forge:furniture_birch_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_birch_planks"},
+    result:"mcwbridges:birch_log_bridge_middle",
+    count:1
+  })
+  event.stonecutting('mcwbridges:birch_log_bridge_stair', '#forge:furniture_birch_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_birch_planks"},
+    result:"mcwbridges:birch_log_bridge_stair",
+    count:1
+  })
+  event.stonecutting('mcwbridges:birch_rail_bridge', '#forge:furniture_birch_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_birch_planks"},
+    result:"mcwbridges:birch_rail_bridge",
+    count:1
+  })
+  event.stonecutting('mcwbridges:birch_rope_bridge_stair', '#forge:furniture_birch_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_birch_planks"},
+    result:"mcwbridges:birch_rope_bridge_stair",
+    count:1
+  })
+  event.stonecutting('mcwbridges:rope_birch_bridge', '#forge:furniture_birch_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_birch_planks"},
+    result:"mcwbridges:rope_birch_bridge",
+    count:1
+  })
+  event.stonecutting('mcwdoors:birch_bamboo_door', '#forge:furniture_birch_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_birch_planks"},
+    result:"mcwdoors:birch_bamboo_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:birch_bark_glass_door', '#forge:furniture_birch_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_birch_planks"},
+    result:"mcwdoors:birch_bark_glass_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:birch_barn_door', '#forge:furniture_birch_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_birch_planks"},
+    result:"mcwdoors:birch_barn_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:birch_barn_glass_door', '#forge:furniture_birch_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_birch_planks"},
+    result:"mcwdoors:birch_barn_glass_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:birch_beach_door', '#forge:furniture_birch_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_birch_planks"},
+    result:"mcwdoors:birch_beach_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:birch_classic_door', '#forge:furniture_birch_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_birch_planks"},
+    result:"mcwdoors:birch_classic_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:birch_cottage_door', '#forge:furniture_birch_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_birch_planks"},
+    result:"mcwdoors:birch_cottage_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:birch_four_panel_door', '#forge:furniture_birch_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_birch_planks"},
+    result:"mcwdoors:birch_four_panel_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:birch_glass_door', '#forge:furniture_birch_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_birch_planks"},
+    result:"mcwdoors:birch_glass_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:birch_japanese_door', '#forge:furniture_birch_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_birch_planks"},
+    result:"mcwdoors:birch_japanese_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:birch_japanese2_door', '#forge:furniture_birch_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_birch_planks"},
+    result:"mcwdoors:birch_japanese2_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:birch_modern_door', '#forge:furniture_birch_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_birch_planks"},
+    result:"mcwdoors:birch_modern_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:birch_mystic_door', '#forge:furniture_birch_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_birch_planks"},
+    result:"mcwdoors:birch_mystic_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:birch_nether_door', '#forge:furniture_birch_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_birch_planks"},
+    result:"mcwdoors:birch_nether_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:birch_stable_door', '#forge:furniture_birch_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_birch_planks"},
+    result:"mcwdoors:birch_stable_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:birch_stable_head_door', '#forge:furniture_birch_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_birch_planks"},
+    result:"mcwdoors:birch_stable_head_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:birch_swamp_door', '#forge:furniture_birch_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_birch_planks"},
+    result:"mcwdoors:birch_swamp_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:birch_tropical_door', '#forge:furniture_birch_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_birch_planks"},
+    result:"mcwdoors:birch_tropical_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:birch_waffle_door', '#forge:furniture_birch_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_birch_planks"},
+    result:"mcwdoors:birch_waffle_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:birch_western_door', '#forge:furniture_birch_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_birch_planks"},
+    result:"mcwdoors:birch_western_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:print_birch', '#forge:furniture_birch_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_birch_planks"},
+    result:"mcwdoors:print_birch",
+    count:1
+  })
   event.stonecutting('minecraft:crimson_planks', '#forge:furniture_crimson_planks')
   event.custom({
     type: "corail_woodcutter:woodcutting",
@@ -11449,6 +12037,181 @@ ServerEvents.recipes(event => {
     type: "corail_woodcutter:woodcutting",
     ingredient:{"tag":"forge:furniture_crimson_planks"},
     result:"mcwwindows:stripped_crimson_stem_window2",
+    count:1
+  })
+  event.stonecutting('mcwbridges:crimson_bridge_pier', '#forge:furniture_crimson_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_crimson_planks"},
+    result:"mcwbridges:crimson_bridge_pier",
+    count:1
+  })
+  event.stonecutting('mcwbridges:crimson_log_bridge_middle', '#forge:furniture_crimson_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_crimson_planks"},
+    result:"mcwbridges:crimson_log_bridge_middle",
+    count:1
+  })
+  event.stonecutting('mcwbridges:crimson_log_bridge_stair', '#forge:furniture_crimson_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_crimson_planks"},
+    result:"mcwbridges:crimson_log_bridge_stair",
+    count:1
+  })
+  event.stonecutting('mcwbridges:crimson_rail_bridge', '#forge:furniture_crimson_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_crimson_planks"},
+    result:"mcwbridges:crimson_rail_bridge",
+    count:1
+  })
+  event.stonecutting('mcwbridges:crimson_rope_bridge_stair', '#forge:furniture_crimson_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_crimson_planks"},
+    result:"mcwbridges:crimson_rope_bridge_stair",
+    count:1
+  })
+  event.stonecutting('mcwbridges:rope_crimson_bridge', '#forge:furniture_crimson_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_crimson_planks"},
+    result:"mcwbridges:rope_crimson_bridge",
+    count:1
+  })
+  event.stonecutting('mcwdoors:crimson_barn_door', '#forge:furniture_crimson_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_crimson_planks"},
+    result:"mcwdoors:crimson_barn_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:crimson_barn_glass_door', '#forge:furniture_crimson_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_crimson_planks"},
+    result:"mcwdoors:crimson_barn_glass_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:crimson_beach_door', '#forge:furniture_crimson_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_crimson_planks"},
+    result:"mcwdoors:crimson_beach_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:crimson_classic_door', '#forge:furniture_crimson_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_crimson_planks"},
+    result:"mcwdoors:crimson_classic_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:crimson_cottage_door', '#forge:furniture_crimson_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_crimson_planks"},
+    result:"mcwdoors:crimson_cottage_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:crimson_four_panel_door', '#forge:furniture_crimson_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_crimson_planks"},
+    result:"mcwdoors:crimson_four_panel_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:crimson_glass_door', '#forge:furniture_crimson_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_crimson_planks"},
+    result:"mcwdoors:crimson_glass_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:crimson_japanese_door', '#forge:furniture_crimson_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_crimson_planks"},
+    result:"mcwdoors:crimson_japanese_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:crimson_japanese2_door', '#forge:furniture_crimson_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_crimson_planks"},
+    result:"mcwdoors:crimson_japanese2_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:crimson_modern_door', '#forge:furniture_crimson_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_crimson_planks"},
+    result:"mcwdoors:crimson_modern_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:crimson_mystic_door', '#forge:furniture_crimson_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_crimson_planks"},
+    result:"mcwdoors:crimson_mystic_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:crimson_paper_door', '#forge:furniture_crimson_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_crimson_planks"},
+    result:"mcwdoors:crimson_paper_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:crimson_stable_door', '#forge:furniture_crimson_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_crimson_planks"},
+    result:"mcwdoors:crimson_stable_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:crimson_stable_head_door', '#forge:furniture_crimson_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_crimson_planks"},
+    result:"mcwdoors:crimson_stable_head_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:crimson_stem_glass_door', '#forge:furniture_crimson_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_crimson_planks"},
+    result:"mcwdoors:crimson_stem_glass_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:crimson_swamp_door', '#forge:furniture_crimson_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_crimson_planks"},
+    result:"mcwdoors:crimson_swamp_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:crimson_tropical_door', '#forge:furniture_crimson_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_crimson_planks"},
+    result:"mcwdoors:crimson_tropical_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:crimson_waffle_door', '#forge:furniture_crimson_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_crimson_planks"},
+    result:"mcwdoors:crimson_waffle_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:crimson_western_door', '#forge:furniture_crimson_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_crimson_planks"},
+    result:"mcwdoors:crimson_western_door",
     count:1
   })
   event.stonecutting('minecraft:dark_oak_planks', '#forge:furniture_dark_oak_planks')
@@ -11843,6 +12606,195 @@ ServerEvents.recipes(event => {
     result:"mcwwindows:stripped_dark_oak_pane_window",
     count:1
   })
+  event.stonecutting('mcwbridges:dark_oak_bridge_pier', '#forge:furniture_dark_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_dark_oak_planks"},
+    result:"mcwbridges:dark_oak_bridge_pier",
+    count:1
+  })
+  event.stonecutting('mcwbridges:dark_oak_log_bridge_middle', '#forge:furniture_dark_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_dark_oak_planks"},
+    result:"mcwbridges:dark_oak_log_bridge_middle",
+    count:1
+  })
+  event.stonecutting('mcwbridges:dark_oak_log_bridge_stair', '#forge:furniture_dark_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_dark_oak_planks"},
+    result:"mcwbridges:dark_oak_log_bridge_stair",
+    count:1
+  })
+  event.stonecutting('mcwbridges:dark_oak_rail_bridge', '#forge:furniture_dark_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_dark_oak_planks"},
+    result:"mcwbridges:dark_oak_rail_bridge",
+    count:1
+  })
+  event.stonecutting('mcwbridges:dark_oak_rope_bridge_stair', '#forge:furniture_dark_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_dark_oak_planks"},
+    result:"mcwbridges:dark_oak_rope_bridge_stair",
+    count:1
+  })
+  event.stonecutting('mcwbridges:rope_dark_oak_bridge', '#forge:furniture_dark_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_dark_oak_planks"},
+    result:"mcwbridges:rope_dark_oak_bridge",
+    count:1
+  })
+  event.stonecutting('mcwdoors:dark_oak_bamboo_door', '#forge:furniture_dark_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_dark_oak_planks"},
+    result:"mcwdoors:dark_oak_bamboo_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:dark_oak_bark_glass_door', '#forge:furniture_dark_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_dark_oak_planks"},
+    result:"mcwdoors:dark_oak_bark_glass_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:dark_oak_barn_door', '#forge:furniture_dark_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_dark_oak_planks"},
+    result:"mcwdoors:dark_oak_barn_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:dark_oak_barn_glass_door', '#forge:furniture_dark_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_dark_oak_planks"},
+    result:"mcwdoors:dark_oak_barn_glass_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:dark_oak_beach_door', '#forge:furniture_dark_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_dark_oak_planks"},
+    result:"mcwdoors:dark_oak_beach_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:dark_oak_classic_door', '#forge:furniture_dark_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_dark_oak_planks"},
+    result:"mcwdoors:dark_oak_classic_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:dark_oak_cottage_door', '#forge:furniture_dark_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_dark_oak_planks"},
+    result:"mcwdoors:dark_oak_cottage_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:dark_oak_glass_door', '#forge:furniture_dark_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_dark_oak_planks"},
+    result:"mcwdoors:dark_oak_glass_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:dark_oak_japanese_door', '#forge:furniture_dark_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_dark_oak_planks"},
+    result:"mcwdoors:dark_oak_japanese_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:dark_oak_japanese2_door', '#forge:furniture_dark_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_dark_oak_planks"},
+    result:"mcwdoors:dark_oak_japanese2_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:dark_oak_modern_door', '#forge:furniture_dark_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_dark_oak_planks"},
+    result:"mcwdoors:dark_oak_modern_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:dark_oak_mystic_door', '#forge:furniture_dark_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_dark_oak_planks"},
+    result:"mcwdoors:dark_oak_mystic_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:dark_oak_nether_door', '#forge:furniture_dark_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_dark_oak_planks"},
+    result:"mcwdoors:dark_oak_nether_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:dark_oak_paper_door', '#forge:furniture_dark_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_dark_oak_planks"},
+    result:"mcwdoors:dark_oak_paper_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:dark_oak_stable_door', '#forge:furniture_dark_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_dark_oak_planks"},
+    result:"mcwdoors:dark_oak_stable_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:dark_oak_stable_head_door', '#forge:furniture_dark_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_dark_oak_planks"},
+    result:"mcwdoors:dark_oak_stable_head_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:dark_oak_swamp_door', '#forge:furniture_dark_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_dark_oak_planks"},
+    result:"mcwdoors:dark_oak_swamp_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:dark_oak_tropical_door', '#forge:furniture_dark_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_dark_oak_planks"},
+    result:"mcwdoors:dark_oak_tropical_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:dark_oak_waffle_door', '#forge:furniture_dark_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_dark_oak_planks"},
+    result:"mcwdoors:dark_oak_waffle_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:dark_oak_western_door', '#forge:furniture_dark_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_dark_oak_planks"},
+    result:"mcwdoors:dark_oak_western_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:print_dark_oak', '#forge:furniture_dark_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_dark_oak_planks"},
+    result:"mcwdoors:print_dark_oak",
+    count:1
+  })
   event.stonecutting('minecraft:jungle_planks', '#forge:furniture_jungle_planks')
   event.custom({
     type: "corail_woodcutter:woodcutting",
@@ -12233,6 +13185,195 @@ ServerEvents.recipes(event => {
     type: "corail_woodcutter:woodcutting",
     ingredient:{"tag":"forge:furniture_jungle_planks"},
     result:"mcwwindows:stripped_jungle_pane_window",
+    count:1
+  })
+  event.stonecutting('mcwbridges:jungle_bridge_pier', '#forge:furniture_jungle_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_jungle_planks"},
+    result:"mcwbridges:jungle_bridge_pier",
+    count:1
+  })
+  event.stonecutting('mcwbridges:jungle_log_bridge_middle', '#forge:furniture_jungle_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_jungle_planks"},
+    result:"mcwbridges:jungle_log_bridge_middle",
+    count:1
+  })
+  event.stonecutting('mcwbridges:jungle_log_bridge_stair', '#forge:furniture_jungle_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_jungle_planks"},
+    result:"mcwbridges:jungle_log_bridge_stair",
+    count:1
+  })
+  event.stonecutting('mcwbridges:jungle_rail_bridge', '#forge:furniture_jungle_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_jungle_planks"},
+    result:"mcwbridges:jungle_rail_bridge",
+    count:1
+  })
+  event.stonecutting('mcwbridges:jungle_rope_bridge_stair', '#forge:furniture_jungle_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_jungle_planks"},
+    result:"mcwbridges:jungle_rope_bridge_stair",
+    count:1
+  })
+  event.stonecutting('mcwbridges:rope_jungle_bridge', '#forge:furniture_jungle_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_jungle_planks"},
+    result:"mcwbridges:rope_jungle_bridge",
+    count:1
+  })
+  event.stonecutting('mcwdoors:jungle_bamboo_door', '#forge:furniture_jungle_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_jungle_planks"},
+    result:"mcwdoors:jungle_bamboo_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:jungle_bark_glass_door', '#forge:furniture_jungle_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_jungle_planks"},
+    result:"mcwdoors:jungle_bark_glass_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:jungle_barn_door', '#forge:furniture_jungle_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_jungle_planks"},
+    result:"mcwdoors:jungle_barn_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:jungle_barn_glass_door', '#forge:furniture_jungle_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_jungle_planks"},
+    result:"mcwdoors:jungle_barn_glass_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:jungle_classic_door', '#forge:furniture_jungle_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_jungle_planks"},
+    result:"mcwdoors:jungle_classic_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:jungle_cottage_door', '#forge:furniture_jungle_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_jungle_planks"},
+    result:"mcwdoors:jungle_cottage_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:jungle_four_panel_door', '#forge:furniture_jungle_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_jungle_planks"},
+    result:"mcwdoors:jungle_four_panel_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:jungle_glass_door', '#forge:furniture_jungle_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_jungle_planks"},
+    result:"mcwdoors:jungle_glass_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:jungle_japanese_door', '#forge:furniture_jungle_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_jungle_planks"},
+    result:"mcwdoors:jungle_japanese_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:jungle_japanese2_door', '#forge:furniture_jungle_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_jungle_planks"},
+    result:"mcwdoors:jungle_japanese2_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:jungle_modern_door', '#forge:furniture_jungle_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_jungle_planks"},
+    result:"mcwdoors:jungle_modern_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:jungle_mystic_door', '#forge:furniture_jungle_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_jungle_planks"},
+    result:"mcwdoors:jungle_mystic_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:jungle_nether_door', '#forge:furniture_jungle_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_jungle_planks"},
+    result:"mcwdoors:jungle_nether_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:jungle_paper_door', '#forge:furniture_jungle_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_jungle_planks"},
+    result:"mcwdoors:jungle_paper_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:jungle_stable_door', '#forge:furniture_jungle_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_jungle_planks"},
+    result:"mcwdoors:jungle_stable_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:jungle_stable_head_door', '#forge:furniture_jungle_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_jungle_planks"},
+    result:"mcwdoors:jungle_stable_head_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:jungle_swamp_door', '#forge:furniture_jungle_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_jungle_planks"},
+    result:"mcwdoors:jungle_swamp_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:jungle_tropical_door', '#forge:furniture_jungle_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_jungle_planks"},
+    result:"mcwdoors:jungle_tropical_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:jungle_waffle_door', '#forge:furniture_jungle_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_jungle_planks"},
+    result:"mcwdoors:jungle_waffle_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:jungle_western_door', '#forge:furniture_jungle_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_jungle_planks"},
+    result:"mcwdoors:jungle_western_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:print_jungle', '#forge:furniture_jungle_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_jungle_planks"},
+    result:"mcwdoors:print_jungle",
     count:1
   })
   event.stonecutting('minecraft:mangrove_planks', '#forge:furniture_mangrove_planks')
@@ -12627,6 +13768,188 @@ ServerEvents.recipes(event => {
     result:"mcwwindows:stripped_mangrove_pane_window",
     count:1
   })
+  event.stonecutting('mcwbridges:mangrove_bridge_pier', '#forge:furniture_mangrove_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_mangrove_planks"},
+    result:"mcwbridges:mangrove_bridge_pier",
+    count:1
+  })
+  event.stonecutting('mcwbridges:mangrove_log_bridge_middle', '#forge:furniture_mangrove_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_mangrove_planks"},
+    result:"mcwbridges:mangrove_log_bridge_middle",
+    count:1
+  })
+  event.stonecutting('mcwbridges:mangrove_log_bridge_stair', '#forge:furniture_mangrove_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_mangrove_planks"},
+    result:"mcwbridges:mangrove_log_bridge_stair",
+    count:1
+  })
+  event.stonecutting('mcwbridges:mangrove_rail_bridge', '#forge:furniture_mangrove_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_mangrove_planks"},
+    result:"mcwbridges:mangrove_rail_bridge",
+    count:1
+  })
+  event.stonecutting('mcwbridges:mangrove_rope_bridge_stair', '#forge:furniture_mangrove_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_mangrove_planks"},
+    result:"mcwbridges:mangrove_rope_bridge_stair",
+    count:1
+  })
+  event.stonecutting('mcwbridges:rope_mangrove_bridge', '#forge:furniture_mangrove_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_mangrove_planks"},
+    result:"mcwbridges:rope_mangrove_bridge",
+    count:1
+  })
+  event.stonecutting('mcwdoors:mangrove_bamboo_door', '#forge:furniture_mangrove_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_mangrove_planks"},
+    result:"mcwdoors:mangrove_bamboo_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:mangrove_bark_glass_door', '#forge:furniture_mangrove_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_mangrove_planks"},
+    result:"mcwdoors:mangrove_bark_glass_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:mangrove_barn_door', '#forge:furniture_mangrove_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_mangrove_planks"},
+    result:"mcwdoors:mangrove_barn_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:mangrove_barn_glass_door', '#forge:furniture_mangrove_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_mangrove_planks"},
+    result:"mcwdoors:mangrove_barn_glass_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:mangrove_beach_door', '#forge:furniture_mangrove_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_mangrove_planks"},
+    result:"mcwdoors:mangrove_beach_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:mangrove_classic_door', '#forge:furniture_mangrove_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_mangrove_planks"},
+    result:"mcwdoors:mangrove_classic_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:mangrove_cottage_door', '#forge:furniture_mangrove_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_mangrove_planks"},
+    result:"mcwdoors:mangrove_cottage_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:mangrove_four_panel_door', '#forge:furniture_mangrove_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_mangrove_planks"},
+    result:"mcwdoors:mangrove_four_panel_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:mangrove_glass_door', '#forge:furniture_mangrove_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_mangrove_planks"},
+    result:"mcwdoors:mangrove_glass_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:mangrove_japanese_door', '#forge:furniture_mangrove_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_mangrove_planks"},
+    result:"mcwdoors:mangrove_japanese_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:mangrove_japanese2_door', '#forge:furniture_mangrove_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_mangrove_planks"},
+    result:"mcwdoors:mangrove_japanese2_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:mangrove_modern_door', '#forge:furniture_mangrove_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_mangrove_planks"},
+    result:"mcwdoors:mangrove_modern_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:mangrove_mystic_door', '#forge:furniture_mangrove_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_mangrove_planks"},
+    result:"mcwdoors:mangrove_mystic_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:mangrove_nether_door', '#forge:furniture_mangrove_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_mangrove_planks"},
+    result:"mcwdoors:mangrove_nether_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:mangrove_paper_door', '#forge:furniture_mangrove_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_mangrove_planks"},
+    result:"mcwdoors:mangrove_paper_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:mangrove_stable_door', '#forge:furniture_mangrove_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_mangrove_planks"},
+    result:"mcwdoors:mangrove_stable_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:mangrove_stable_head_door', '#forge:furniture_mangrove_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_mangrove_planks"},
+    result:"mcwdoors:mangrove_stable_head_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:mangrove_tropical_door', '#forge:furniture_mangrove_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_mangrove_planks"},
+    result:"mcwdoors:mangrove_tropical_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:mangrove_waffle_door', '#forge:furniture_mangrove_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_mangrove_planks"},
+    result:"mcwdoors:mangrove_waffle_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:mangrove_western_door', '#forge:furniture_mangrove_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_mangrove_planks"},
+    result:"mcwdoors:mangrove_western_door",
+    count:1
+  })
   event.stonecutting('minecraft:oak_planks', '#forge:furniture_oak_planks')
   event.custom({
     type: "corail_woodcutter:woodcutting",
@@ -13017,6 +14340,195 @@ ServerEvents.recipes(event => {
     type: "corail_woodcutter:woodcutting",
     ingredient:{"tag":"forge:furniture_oak_planks"},
     result:"mcwwindows:stripped_oak_pane_window",
+    count:1
+  })
+  event.stonecutting('mcwbridges:oak_bridge_pier', '#forge:furniture_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_oak_planks"},
+    result:"mcwbridges:oak_bridge_pier",
+    count:1
+  })
+  event.stonecutting('mcwbridges:oak_log_bridge_middle', '#forge:furniture_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_oak_planks"},
+    result:"mcwbridges:oak_log_bridge_middle",
+    count:1
+  })
+  event.stonecutting('mcwbridges:oak_log_bridge_stair', '#forge:furniture_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_oak_planks"},
+    result:"mcwbridges:oak_log_bridge_stair",
+    count:1
+  })
+  event.stonecutting('mcwbridges:oak_rail_bridge', '#forge:furniture_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_oak_planks"},
+    result:"mcwbridges:oak_rail_bridge",
+    count:1
+  })
+  event.stonecutting('mcwbridges:oak_rope_bridge_stair', '#forge:furniture_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_oak_planks"},
+    result:"mcwbridges:oak_rope_bridge_stair",
+    count:1
+  })
+  event.stonecutting('mcwbridges:rope_oak_bridge', '#forge:furniture_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_oak_planks"},
+    result:"mcwbridges:rope_oak_bridge",
+    count:1
+  })
+  event.stonecutting('mcwdoors:oak_bamboo_door', '#forge:furniture_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_oak_planks"},
+    result:"mcwdoors:oak_bamboo_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:oak_bark_glass_door', '#forge:furniture_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_oak_planks"},
+    result:"mcwdoors:oak_bark_glass_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:oak_barn_door', '#forge:furniture_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_oak_planks"},
+    result:"mcwdoors:oak_barn_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:oak_barn_glass_door', '#forge:furniture_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_oak_planks"},
+    result:"mcwdoors:oak_barn_glass_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:oak_beach_door', '#forge:furniture_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_oak_planks"},
+    result:"mcwdoors:oak_beach_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:oak_cottage_door', '#forge:furniture_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_oak_planks"},
+    result:"mcwdoors:oak_cottage_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:oak_four_panel_door', '#forge:furniture_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_oak_planks"},
+    result:"mcwdoors:oak_four_panel_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:oak_glass_door', '#forge:furniture_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_oak_planks"},
+    result:"mcwdoors:oak_glass_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:oak_japanese_door', '#forge:furniture_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_oak_planks"},
+    result:"mcwdoors:oak_japanese_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:oak_japanese2_door', '#forge:furniture_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_oak_planks"},
+    result:"mcwdoors:oak_japanese2_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:oak_modern_door', '#forge:furniture_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_oak_planks"},
+    result:"mcwdoors:oak_modern_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:oak_mystic_door', '#forge:furniture_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_oak_planks"},
+    result:"mcwdoors:oak_mystic_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:oak_nether_door', '#forge:furniture_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_oak_planks"},
+    result:"mcwdoors:oak_nether_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:oak_paper_door', '#forge:furniture_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_oak_planks"},
+    result:"mcwdoors:oak_paper_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:oak_stable_door', '#forge:furniture_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_oak_planks"},
+    result:"mcwdoors:oak_stable_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:oak_stable_head_door', '#forge:furniture_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_oak_planks"},
+    result:"mcwdoors:oak_stable_head_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:oak_swamp_door', '#forge:furniture_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_oak_planks"},
+    result:"mcwdoors:oak_swamp_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:oak_tropical_door', '#forge:furniture_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_oak_planks"},
+    result:"mcwdoors:oak_tropical_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:oak_waffle_door', '#forge:furniture_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_oak_planks"},
+    result:"mcwdoors:oak_waffle_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:oak_western_door', '#forge:furniture_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_oak_planks"},
+    result:"mcwdoors:oak_western_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:print_oak', '#forge:furniture_oak_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_oak_planks"},
+    result:"mcwdoors:print_oak",
     count:1
   })
   event.stonecutting('minecraft:spruce_planks', '#forge:furniture_spruce_planks')
@@ -13411,6 +14923,195 @@ ServerEvents.recipes(event => {
     result:"mcwwindows:stripped_spruce_pane_window",
     count:1
   })
+  event.stonecutting('mcwbridges:rope_spruce_bridge', '#forge:furniture_spruce_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_spruce_planks"},
+    result:"mcwbridges:rope_spruce_bridge",
+    count:1
+  })
+  event.stonecutting('mcwbridges:spruce_bridge_pier', '#forge:furniture_spruce_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_spruce_planks"},
+    result:"mcwbridges:spruce_bridge_pier",
+    count:1
+  })
+  event.stonecutting('mcwbridges:spruce_log_bridge_middle', '#forge:furniture_spruce_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_spruce_planks"},
+    result:"mcwbridges:spruce_log_bridge_middle",
+    count:1
+  })
+  event.stonecutting('mcwbridges:spruce_log_bridge_stair', '#forge:furniture_spruce_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_spruce_planks"},
+    result:"mcwbridges:spruce_log_bridge_stair",
+    count:1
+  })
+  event.stonecutting('mcwbridges:spruce_rail_bridge', '#forge:furniture_spruce_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_spruce_planks"},
+    result:"mcwbridges:spruce_rail_bridge",
+    count:1
+  })
+  event.stonecutting('mcwbridges:spruce_rope_bridge_stair', '#forge:furniture_spruce_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_spruce_planks"},
+    result:"mcwbridges:spruce_rope_bridge_stair",
+    count:1
+  })
+  event.stonecutting('mcwdoors:print_spruce', '#forge:furniture_spruce_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_spruce_planks"},
+    result:"mcwdoors:print_spruce",
+    count:1
+  })
+  event.stonecutting('mcwdoors:spruce_bamboo_door', '#forge:furniture_spruce_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_spruce_planks"},
+    result:"mcwdoors:spruce_bamboo_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:spruce_bark_glass_door', '#forge:furniture_spruce_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_spruce_planks"},
+    result:"mcwdoors:spruce_bark_glass_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:spruce_barn_door', '#forge:furniture_spruce_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_spruce_planks"},
+    result:"mcwdoors:spruce_barn_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:spruce_barn_glass_door', '#forge:furniture_spruce_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_spruce_planks"},
+    result:"mcwdoors:spruce_barn_glass_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:spruce_beach_door', '#forge:furniture_spruce_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_spruce_planks"},
+    result:"mcwdoors:spruce_beach_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:spruce_classic_door', '#forge:furniture_spruce_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_spruce_planks"},
+    result:"mcwdoors:spruce_classic_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:spruce_four_panel_door', '#forge:furniture_spruce_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_spruce_planks"},
+    result:"mcwdoors:spruce_four_panel_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:spruce_glass_door', '#forge:furniture_spruce_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_spruce_planks"},
+    result:"mcwdoors:spruce_glass_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:spruce_japanese_door', '#forge:furniture_spruce_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_spruce_planks"},
+    result:"mcwdoors:spruce_japanese_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:spruce_japanese2_door', '#forge:furniture_spruce_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_spruce_planks"},
+    result:"mcwdoors:spruce_japanese2_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:spruce_modern_door', '#forge:furniture_spruce_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_spruce_planks"},
+    result:"mcwdoors:spruce_modern_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:spruce_mystic_door', '#forge:furniture_spruce_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_spruce_planks"},
+    result:"mcwdoors:spruce_mystic_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:spruce_nether_door', '#forge:furniture_spruce_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_spruce_planks"},
+    result:"mcwdoors:spruce_nether_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:spruce_paper_door', '#forge:furniture_spruce_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_spruce_planks"},
+    result:"mcwdoors:spruce_paper_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:spruce_stable_door', '#forge:furniture_spruce_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_spruce_planks"},
+    result:"mcwdoors:spruce_stable_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:spruce_stable_head_door', '#forge:furniture_spruce_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_spruce_planks"},
+    result:"mcwdoors:spruce_stable_head_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:spruce_swamp_door', '#forge:furniture_spruce_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_spruce_planks"},
+    result:"mcwdoors:spruce_swamp_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:spruce_tropical_door', '#forge:furniture_spruce_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_spruce_planks"},
+    result:"mcwdoors:spruce_tropical_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:spruce_waffle_door', '#forge:furniture_spruce_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_spruce_planks"},
+    result:"mcwdoors:spruce_waffle_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:spruce_western_door', '#forge:furniture_spruce_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_spruce_planks"},
+    result:"mcwdoors:spruce_western_door",
+    count:1
+  })
   event.stonecutting('minecraft:warped_planks', '#forge:furniture_warped_planks')
   event.custom({
     type: "corail_woodcutter:woodcutting",
@@ -13787,6 +15488,181 @@ ServerEvents.recipes(event => {
     type: "corail_woodcutter:woodcutting",
     ingredient:{"tag":"forge:furniture_warped_planks"},
     result:"mcwwindows:warped_stem_window2",
+    count:1
+  })
+  event.stonecutting('mcwbridges:rope_warped_bridge', '#forge:furniture_warped_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_warped_planks"},
+    result:"mcwbridges:rope_warped_bridge",
+    count:1
+  })
+  event.stonecutting('mcwbridges:warped_bridge_pier', '#forge:furniture_warped_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_warped_planks"},
+    result:"mcwbridges:warped_bridge_pier",
+    count:1
+  })
+  event.stonecutting('mcwbridges:warped_log_bridge_middle', '#forge:furniture_warped_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_warped_planks"},
+    result:"mcwbridges:warped_log_bridge_middle",
+    count:1
+  })
+  event.stonecutting('mcwbridges:warped_log_bridge_stair', '#forge:furniture_warped_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_warped_planks"},
+    result:"mcwbridges:warped_log_bridge_stair",
+    count:1
+  })
+  event.stonecutting('mcwbridges:warped_rail_bridge', '#forge:furniture_warped_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_warped_planks"},
+    result:"mcwbridges:warped_rail_bridge",
+    count:1
+  })
+  event.stonecutting('mcwbridges:warped_rope_bridge_stair', '#forge:furniture_warped_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_warped_planks"},
+    result:"mcwbridges:warped_rope_bridge_stair",
+    count:1
+  })
+  event.stonecutting('mcwdoors:warped_barn_door', '#forge:furniture_warped_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_warped_planks"},
+    result:"mcwdoors:warped_barn_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:warped_barn_glass_door', '#forge:furniture_warped_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_warped_planks"},
+    result:"mcwdoors:warped_barn_glass_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:warped_beach_door', '#forge:furniture_warped_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_warped_planks"},
+    result:"mcwdoors:warped_beach_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:warped_classic_door', '#forge:furniture_warped_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_warped_planks"},
+    result:"mcwdoors:warped_classic_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:warped_cottage_door', '#forge:furniture_warped_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_warped_planks"},
+    result:"mcwdoors:warped_cottage_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:warped_four_panel_door', '#forge:furniture_warped_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_warped_planks"},
+    result:"mcwdoors:warped_four_panel_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:warped_glass_door', '#forge:furniture_warped_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_warped_planks"},
+    result:"mcwdoors:warped_glass_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:warped_japanese_door', '#forge:furniture_warped_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_warped_planks"},
+    result:"mcwdoors:warped_japanese_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:warped_japanese2_door', '#forge:furniture_warped_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_warped_planks"},
+    result:"mcwdoors:warped_japanese2_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:warped_modern_door', '#forge:furniture_warped_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_warped_planks"},
+    result:"mcwdoors:warped_modern_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:warped_nether_door', '#forge:furniture_warped_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_warped_planks"},
+    result:"mcwdoors:warped_nether_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:warped_paper_door', '#forge:furniture_warped_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_warped_planks"},
+    result:"mcwdoors:warped_paper_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:warped_stable_door', '#forge:furniture_warped_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_warped_planks"},
+    result:"mcwdoors:warped_stable_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:warped_stable_head_door', '#forge:furniture_warped_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_warped_planks"},
+    result:"mcwdoors:warped_stable_head_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:warped_stem_glass_door', '#forge:furniture_warped_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_warped_planks"},
+    result:"mcwdoors:warped_stem_glass_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:warped_swamp_door', '#forge:furniture_warped_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_warped_planks"},
+    result:"mcwdoors:warped_swamp_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:warped_tropical_door', '#forge:furniture_warped_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_warped_planks"},
+    result:"mcwdoors:warped_tropical_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:warped_waffle_door', '#forge:furniture_warped_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_warped_planks"},
+    result:"mcwdoors:warped_waffle_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:warped_western_door', '#forge:furniture_warped_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_warped_planks"},
+    result:"mcwdoors:warped_western_door",
     count:1
   })
 

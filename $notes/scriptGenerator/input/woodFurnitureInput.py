@@ -10,7 +10,9 @@ planksKeys = [
   'gate',
   'torch',
   'roof',
-  'window'
+  'window',
+  'door',
+  'bridge'
 ]
 woodTypesInfo = [
   {
