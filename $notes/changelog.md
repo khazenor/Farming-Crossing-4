@@ -1,6 +1,5 @@
 # 4.1.3:
 ## Mods Added:
-- ImmediatelyFast
 - mcw-bridges
 - mcw-doors
 ## Mods Removed:
