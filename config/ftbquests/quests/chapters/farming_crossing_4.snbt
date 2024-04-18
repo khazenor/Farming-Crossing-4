@@ -2413,12 +2413,20 @@
 			description: ["You can get lavender blossom by breaking a lavender plant with a regular minecraft shear."]
 			hide: true
 			id: "5CC639A6833863A1"
-			rewards: [{
-				count: 8
-				id: "69F78E01EDCDFB29"
-				item: "brewery:silo_wood"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 8
+					id: "69F78E01EDCDFB29"
+					item: "brewery:silo_wood"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "25C155D741B5FB57"
+					item: "brewery:barley_seeds"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "657AD422FBBABCCE"
 				item: "herbalbrews:damage_flask"
