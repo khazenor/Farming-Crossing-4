@@ -9,6 +9,7 @@
 - Macaws bridges and doors are obtainable from the sawmill and stonecutter with planks
 - Candlelight mushroom soups now can also be made with fresh milk
 - Added a barley seeds as a quest reward to make it easier to complete the dried barley quest.
+- You can now blast any logs to get ash
 # 4.1.2:
 - Yukkie now trades for wither skulls for 64 bags of apples all seasons and nether stars for 4 golden enchanted apples in winter.
 - Added the ability to craft egg shells from eggs

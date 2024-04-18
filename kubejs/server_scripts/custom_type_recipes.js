@@ -84,4 +84,18 @@ ServerEvents.recipes(event => {
     }
   }
   )
+
+  event.custom({
+    "type": "minecraft:blasting",
+    "category": "misc",
+    "cookingtime": 100,
+    "experience": 0.1,
+    "ingredient": {
+      "tag": "minecraft:logs"
+    },
+    "result": {
+      "item": "supplementaries:ash",
+      "count": 4
+    }
+  })
 })
