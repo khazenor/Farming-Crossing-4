@@ -124,7 +124,7 @@ questlines = [
           },
           {
             iconKey: "exoticbirds:pelican_spawn_egg",
-            nameKey: "Spot a Pelican",
+            nameKey: "Spot an ExoticBirds Pelican",
             observeKey: "exoticbirds:pelican"
           },
           {
@@ -134,7 +134,7 @@ questlines = [
           },
           {
             observeKey: 'bloomingnature:pelican',
-            nameKey: 'Spot a pelican',
+            nameKey: 'Spot a BloomingNature Pelican',
             iconKey: 'bloomingnature:pelican_spawn_egg'
           }
         ]
@@ -247,12 +247,12 @@ questlines = [
           },
           {
             iconKey: "alexsmobs:spawn_egg_roadrunner",
-            nameKey: "Spot a roadrunner",
+            nameKey: "Spot an AlexsMobs Roadrunner",
             observeKey: "alexsmobs:roadrunner"
           },
           {
             iconKey: "exoticbirds:roadrunner_spawn_egg",
-            nameKey: "Spot a Roadrunner",
+            nameKey: "Spot an ExoticBirds Roadrunner",
             observeKey: "exoticbirds:roadrunner"
           },
           {
@@ -289,12 +289,12 @@ questlines = [
           },
           {
             iconKey: "exoticbirds:bluejay_spawn_egg",
-            nameKey: "Spot a Blue Jay",
+            nameKey: "Spot an ExoticBirds Blue Jay",
             observeKey: "exoticbirds:bluejay"
           },
           {
             iconKey: "alexsmobs:spawn_egg_blue_jay",
-            nameKey: "Spot a blue jay",
+            nameKey: "Spot an AlexsMobs Blue Jay",
             observeKey: "alexsmobs:blue_jay"
           },
           {
@@ -406,7 +406,7 @@ questlines = [
           },
           {
             iconKey: "alexsmobs:spawn_egg_toucan",
-            nameKey: "Spot a toucan",
+            nameKey: "Spot an AlexMobs Toucan",
             observeKey: "alexsmobs:toucan"
           },
           {
@@ -426,12 +426,12 @@ questlines = [
           },
           {
             iconKey: "exoticbirds:hummingbird_spawn_egg",
-            nameKey: "Spot a Hummingbird",
+            nameKey: "Spot an ExoticBirds Hummingbird",
             observeKey: "exoticbirds:hummingbird"
           },
           {
             iconKey: "alexsmobs:spawn_egg_hummingbird",
-            nameKey: "Spot a hummingbird",
+            nameKey: "Spot an AlexsMobs hummingbird",
             observeKey: "alexsmobs:hummingbird"
           },
           {
@@ -441,7 +441,7 @@ questlines = [
           },
           {
             iconKey: "exoticbirds:toucan_spawn_egg",
-            nameKey: "Spot a Toucan",
+            nameKey: "Spot an ExoticBirds Toucan",
             observeKey: "exoticbirds:toucan"
           }
         ]
@@ -557,7 +557,7 @@ questlines = [
           },
           {
             observeKey: 'bloomingnature:bison',
-            nameKey: 'Spot a bison',
+            nameKey: 'Spot a BloomingNature Bison',
             iconKey: 'bloomingnature:bison_spawn_egg'
           }
         ]
@@ -579,7 +579,7 @@ questlines = [
           },
           {
             iconKey: "alexsmobs:spawn_egg_bison",
-            nameKey: "Spot a bison",
+            nameKey: "Spot an AlexsMobs bison",
             observeKey: "alexsmobs:bison"
           },
           {
@@ -589,7 +589,7 @@ questlines = [
           },
           {
             iconKey: "alexsmobs:spawn_egg_raccoon",
-            nameKey: "Spot a raccoon",
+            nameKey: "Spot an AlexsMobs Raccoon",
             observeKey: "alexsmobs:raccoon"
           },
           {
@@ -619,7 +619,7 @@ questlines = [
           },
           {
             observeKey: 'bloomingnature:raccoon',
-            nameKey: 'Spot a raccoon',
+            nameKey: 'Spot a BloomingNature Raccoon',
             iconKey: 'bloomingnature:raccoon_spawn_egg'
           },
           {
