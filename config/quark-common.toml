@@ -1362,7 +1362,7 @@
 
 		[mobs.toretoise.spawn_config]
 			#Allowed values: (0,)
-			"Spawn Weight" = 120
+			"Spawn Weight" = 50
 			#Allowed values: [1,)
 			"Min Group Size" = 2
 			#Allowed values: [1,)
