@@ -1,11 +1,14 @@
-# 4.1.4:
-- reduce toretoise spawn rates
+
 # 4.1.3:
 ## Mods Added:
 - mcw-bridges
 - mcw-doors
 ## Mods Removed:
 - XaeroPlus
+## Added Ability to Summon Your Own Lootr Loot Chests!
+- You can purchase a spawn dungeon chest item in the market for 64 tickets and a spawn villager chest item for 32 tickets.
+- Right clicking the item will spawn a lootr chest around you.  After that, you can use the packing tape and paper to move it to where ever you like.
+- Keep in mind that if there is already a lootr chest located where the next lootr chest supposed to spawn, your item will be used up without spawning another chest.  So move it using packing tape before spawning another one!
 ## Other Changes:
 - Macaws bridges and doors are obtainable from the sawmill and stonecutter with planks
 - Candlelight mushroom soups now can also be made with fresh milk
@@ -13,6 +16,7 @@
 - You can now blast any logs to get ash
 - Updated some quest titles for animal collection quests to make it clearer that animals with the same species name from different mods are considered separate observations
 - You should now be able to strip all wood logs with the Farmer's Delight cutting board
+- reduced toretoise spawn rates
 # 4.1.2:
 - Yukkie now trades for wither skulls for 64 bags of apples all seasons and nether stars for 4 golden enchanted apples in winter.
 - Added the ability to craft egg shells from eggs

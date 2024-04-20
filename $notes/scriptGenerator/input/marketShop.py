@@ -36,6 +36,14 @@ categories = {
         priceKey: 4,
         itemsKey: ["minecraft:white_bed"]
       },
+      {
+        priceKey: 32,
+        itemsKey: ["kubejs:spawn_lootr_village_chest"]
+      },
+      {
+        priceKey: 64,
+        itemsKey: ["kubejs:spawn_lootr_dungeon_chest"]
+      },
       { # furniture
         priceKey: 8,
         itemsKey: ["lootbags:loot_bag"],
