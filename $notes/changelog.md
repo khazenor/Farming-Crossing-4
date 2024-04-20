@@ -1,13 +1,10 @@
-
+# 4.1.4:
+- reduce toretoise spawn rates
 # 4.1.3:
 ## Mods Added:
 - mcw-bridges
 - mcw-doors
 - Copycats
-## Added Ability to Summon Your Own Lootr Loot Chests!
-- You can purchase a spawn dungeon chest item in the market for 64 tickets and a spawn villager chest item for 32 tickets.
-- Right clicking the item will spawn a lootr chest around you.  After that, you can use the packing tape and paper to move it to where ever you like.
-- Keep in mind that if there is already a lootr chest located where the next lootr chest supposed to spawn, your item will be used up without spawning another chest.  So move it using packing tape before spawning another one!
 ## Other Changes:
 - Macaws bridges and doors are obtainable from the sawmill and stonecutter with planks
 - Candlelight mushroom soups now can also be made with fresh milk

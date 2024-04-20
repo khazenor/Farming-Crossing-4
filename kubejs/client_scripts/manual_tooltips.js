@@ -61,14 +61,4 @@ ItemEvents.tooltip(event => {
     "Right click this item in the air to update",
     "farming crossing npc's trades for this season."
   ])
-  
-  event.add('kubejs:spawn_lootr_dungeon_chest', tooltipMsg('Dungeon'))
-  event.add('kubejs:spawn_lootr_village_chest', tooltipMsg('Village'))
 })
-
-const tooltipMsg = (lootName) => ([
-  'Right click this item to spawn a',
-  `${lootName} Lootr loot chest.`,
-  'You can move Lootr chest using a',
-  'packing tape and paper'
-])

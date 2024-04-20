@@ -54,28 +54,6 @@
     },
     {
       "output": {
-        "item": "kubejs:spawn_lootr_village_chest",
-        "count": 1
-      },
-      "payment": {
-        "item": "kubejs:miles_ticket",
-        "count": 32
-      },
-      "category": "fc"
-    },
-    {
-      "output": {
-        "item": "kubejs:spawn_lootr_dungeon_chest",
-        "count": 1
-      },
-      "payment": {
-        "item": "kubejs:miles_ticket",
-        "count": 64
-      },
-      "category": "fc"
-    },
-    {
-      "output": {
         "item": "lootbags:loot_bag",
         "count": 1,
         "nbt": {
