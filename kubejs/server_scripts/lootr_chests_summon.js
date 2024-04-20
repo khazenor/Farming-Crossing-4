@@ -57,11 +57,15 @@ ItemEvents.rightClicked(summonVillageItemId, event => {
   spawnChest(event, villageChestLoots)
 })
 
-const spawnChest = (itemEvent, lootTable) => {
+const spawnChest = (itemEvent, lootTables) => {
+  let lootTable = randomElm(lootTables)
   itemEvent.server.runCommand(
-    `execute at @p run lootr chest ${randomElm(lootTable)}`
+    `execute at @p run lootr chest ${lootTable}`
   )
   itemEvent.item.count--
+  itemEvent.player.tell(
+    `Summoned Lootr loot chest with the loot table: ${lootTable}`
+  )
 }
 
 const randomElm = (arr) => (arr[Math.floor(Math.random() * arr.length)])
