@@ -16,6 +16,7 @@
 - Updated some quest titles for animal collection quests to make it clearer that animals with the same species name from different mods are considered separate observations
 - You should now be able to strip all wood logs with the Farmer's Delight cutting board
 - reduced toretoise spawn rates
+- set config\snowrealmagic-common.yaml:snowAndIceMeltInWarmBiomes to true to help ice melt
 # 4.1.2:
 - Yukkie now trades for wither skulls for 64 bags of apples all seasons and nether stars for 4 golden enchanted apples in winter.
 - Added the ability to craft egg shells from eggs
