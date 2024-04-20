@@ -3,8 +3,7 @@
 ## Mods Added:
 - mcw-bridges
 - mcw-doors
-## Mods Removed:
-- XaeroPlus
+- Copycats
 ## Added Ability to Summon Your Own Lootr Loot Chests!
 - You can purchase a spawn dungeon chest item in the market for 64 tickets and a spawn villager chest item for 32 tickets.
 - Right clicking the item will spawn a lootr chest around you.  After that, you can use the packing tape and paper to move it to where ever you like.
@@ -12,7 +11,7 @@
 ## Other Changes:
 - Macaws bridges and doors are obtainable from the sawmill and stonecutter with planks
 - Candlelight mushroom soups now can also be made with fresh milk
-- Added a barley seeds as a quest reward to make it easier to complete the dried barley quest.
+- Added barley seeds as a quest reward to make it easier to complete the dried barley quest.
 - You can now blast any logs to get ash
 - Updated some quest titles for animal collection quests to make it clearer that animals with the same species name from different mods are considered separate observations
 - You should now be able to strip all wood logs with the Farmer's Delight cutting board
