@@ -1,6 +1,4 @@
 # 4.1.4:
-## Mods Added:
-- ProbeJS
 # 4.1.3:
 ## Mods Added:
 - mcw-bridges
