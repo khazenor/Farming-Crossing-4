@@ -415,6 +415,11 @@
 					silent: true
 					type: "command"
 				}
+				{
+					id: "2FC891C29F6A040E"
+					item: "kubejs:check_food_cravings"
+					type: "item"
+				}
 			]
 			tasks: [{
 				id: "3A6B90DF5E7B6794"
