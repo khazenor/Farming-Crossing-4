@@ -12,8 +12,8 @@
   - Hot/Cold
 - If you eat more than 2 of one kind of food, you would start craving of the opposite kind of food
   - e.g. if you eaten two cake slices (sweet), then you would start craving something savory
-- Cravings can stack! You can eat 2 sweet, heavy and hot foods to get cravings for savory, light, and cold foods.
-- When you eat a food that you are craving for, you get a random potion effect for each craving to satisfy.  The potion effect lasts 20 mins.
+- Cravings can stack! You can eat 2 sweet, heavy, and hot foods to get cravings for savory, light, and cold foods.
+- When you eat a food that you are craving for, you get a random potion effect for each craving you satisfy.  The potion effect lasts 20 mins.  After that, your cravings will reset.
 - You can check your food stats and cravings using the newly added item "Check Food Cravings"
   - You should get a free copy from the starting "Welcome to Farming Crossing 4!" quest
   - You can buy extra copies of this item from the market for 1 ticket
