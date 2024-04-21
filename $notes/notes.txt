@@ -1,3 +1,6 @@
+event.server.persistentData
+e.player.potionEffects.add('minecraft:regeneration', 200, 0, false, false)
+
 Mods folder for the server pack. Had to upload these as separate files because curseforge uploader keep crashing with large server packs.
 Had to upload the mods folder as separate file because curseforge uploader keep crashing with large server packs.
 
