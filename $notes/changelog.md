@@ -1,6 +1,24 @@
 # 4.1.4:
 ## Mods Added:
 - ProbeJS
+## Mods Removed:
+- Diet
+## New Diet Mechanic Added!
+- Instead of balancing the nutrition of your diet, now you get rewarded for satisfying your food cravings!
+- This mechanic only ever provides you with buffs, so you don't have to worry about it unless you want to.
+- Every food will now be classified on 3 axes:
+  - Sweet/Savory
+  - Heavy/Light
+  - Hot/Cold
+- If you eat more than 2 of one kind of food, you would start craving of the opposite kind of food
+  - e.g. if you eaten two cake slices (sweet), then you would start craving something savory
+- Cravings can stack! You can eat 2 sweet, heavy and hot foods to get cravings for savory, light, and cold foods.
+- When you eat a food that you are craving for, you get a random potion effect for each craving to satisfy.  The potion effect lasts 20 mins.
+- You can check your food stats and cravings using the newly added item "Check Food Cravings"
+  - You should get a free copy from the starting "Welcome to Farming Crossing 4!" quest
+  - You can buy extra copies of this item from the market for 1 ticket
+- If you have cravings, you will be notified via chat message when your hunger drops below full or when you ate a food and are still not full
+
 # 4.1.3:
 ## Mods Added:
 - mcw-bridges
