@@ -1,6 +1,6 @@
 const playerFullFoodLevel = 20
 const cravingThreshold = 2
-const potionEffectTime = 2000
+const potionEffectTime = 24000 // 20*20*60
 
 const potionEffects = [
   {
