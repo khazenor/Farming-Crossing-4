@@ -45,6 +45,7 @@ def deployMods():
 	log.log('## Deploying Mods...')
 	deployToClients()
 	deployToServers()
+	deployDevMods()
 	writeModlists()
 
 def deployToClients():
@@ -70,6 +71,10 @@ def deployToServers():
 			serverInst,
 			denySubStrList=clientSideModNames
 		)
+
+def deployDevMods():
+	devModsFolder = os.path.join(paths.configSrc, 'mods_dev', modsFolder)
+	util.copyFolder(devModsFolder, paths.configSrc, deleteExtraFiles=False)
 
 def writeModlists():
 	if len(paths.servers) > 0:

@@ -1,6 +1,4 @@
 # 4.1.4:
-## Mods Added:
-- ProbeJS
 ## Mods Removed:
 - Diet
 ## New Diet Mechanic Added!
