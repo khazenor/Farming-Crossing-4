@@ -461,27 +461,7 @@ ItemEvents.tooltip(event => {
     ])
   event.add(
     [
-      'kubejs:4k_storage_disk_ticket'
-    ],
-    [
-      'Obtainable for 72 tickets in the market'
-    ])
-  event.add(
-    [
-      'kubejs:16k_storage_disk_ticket'
-    ],
-    [
-      'Obtainable for 297 tickets in the market'
-    ])
-  event.add(
-    [
-      'kubejs:64k_storage_disk_ticket'
-    ],
-    [
-      'Obtainable for 1215 tickets in the market'
-    ])
-  event.add(
-    [
+      'kubejs:check_food_cravings', 
       'handcrafted:black_sheet', 
       'handcrafted:blue_sheet', 
       'handcrafted:brown_sheet', 
@@ -672,6 +652,27 @@ ItemEvents.tooltip(event => {
     ],
     [
       'Obtainable for 1 ticket in the market'
+    ])
+  event.add(
+    [
+      'kubejs:4k_storage_disk_ticket'
+    ],
+    [
+      'Obtainable for 72 tickets in the market'
+    ])
+  event.add(
+    [
+      'kubejs:16k_storage_disk_ticket'
+    ],
+    [
+      'Obtainable for 297 tickets in the market'
+    ])
+  event.add(
+    [
+      'kubejs:64k_storage_disk_ticket'
+    ],
+    [
+      'Obtainable for 1215 tickets in the market'
     ])
   event.add(
     [

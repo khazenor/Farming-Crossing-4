@@ -61,4 +61,9 @@ ItemEvents.tooltip(event => {
     "Right click this item in the air to update",
     "farming crossing npc's trades for this season."
   ])
+
+  event.add('kubejs:check_food_cravings', [
+    "Right click this item in the air to",
+    "see your diet craving information."
+  ])
 })

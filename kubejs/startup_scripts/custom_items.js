@@ -17,4 +17,5 @@ StartupEvents.registry('item', event => {
 	event.create('kubejs:cert_flora_diamond').displayName('Flora Compendium Certificate')
 	event.create('kubejs:cert_mining_diamond').displayName('Mineral Museum Certificate')
 	event.create('kubejs:cert_clothes_diamond').displayName('Clothing Collection Certificate')
+	event.create('kubejs:check_food_cravings').displayName('Check Food Cravings')
 })

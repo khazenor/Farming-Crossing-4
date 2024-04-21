@@ -55,6 +55,18 @@ PlayerEvents.tick(event => {
   }
 })
 
+ItemEvents.rightClicked('kubejs:check_food_cravings', event => {
+  const player = event.player
+  player.tell('')
+  displayFoodTallies(player)
+  const cravings = playerFoodCravings(player)
+  if (cravings.length > 0) {
+    notifyPlayerOfCravings(player, cravings)
+  } else {
+    player.tell('You are currently not craving any types of food.')
+  }
+})
+
 const getCravingScore = (itemId, cravings) => {
   let cravingScore = 0
   for (let craving of cravings) {
@@ -162,12 +174,26 @@ const updatePlayerFoodTallies = (item, player) => {
 }
 
 const displayFoodTallies = (player) => {
-  for (let foodCategory in global.foodClassifications) {
-    player.tell(
-      `${global.foodClassificationNames[foodCategory]}: ${playerData[foodCategory]}`
-    )
-  }
-  player.tell('')
+  const sweet = playerTally('sweet', player)
+  const savory = playerTally('savory', player)
+  const light = playerTally('light', player)
+  const heavy = playerTally('heavy', player)
+  const hot = playerTally('hot', player)
+  const cold = playerTally('cold', player)
+  player.tell('==== RECENT FOODS EATEN ====')
+  player.tell(`  Sweet: ${sweet},   Savory: ${savory}`)
+  player.tell(`  Light: ${light},   Heavy: ${heavy}`)
+  player.tell(`  Hot: ${hot},   Cold: ${cold}`)
+  player.tell('============================')
+}
+
+const playerTally = (tallySortName, player) => {
+  const playerData = player.persistentData
+  return defaultToZero(playerData[global[tallySortName]])
+}
+
+const defaultToZero = (value) => {
+  return value ? value : 0
 }
 
 const updateTalliesBasedOnCategories = (itemId, playerData) => {

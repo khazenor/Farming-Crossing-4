@@ -36,6 +36,9 @@ categories = {
         priceKey: 4,
         itemsKey: ["minecraft:white_bed"]
       },
+      {
+        itemsKey: ['kubejs:check_food_cravings']
+      },
       { # furniture
         priceKey: 8,
         itemsKey: ["lootbags:loot_bag"],
