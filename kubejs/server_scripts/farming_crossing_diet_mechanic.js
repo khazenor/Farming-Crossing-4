@@ -1,6 +1,7 @@
 const playerFullFoodLevel = 20
 const cravingThreshold = 2
 const potionEffectTime = 24000 // 20*20*60
+const hasEatenFirstFoodKey = 'hasEatenFirstFoodKey'
 
 const potionEffects = [
   {
@@ -32,6 +33,7 @@ const potionEffects = [
 
 ItemEvents.foodEaten(event => {
   updatePlayerFoodTallies(event.item, event.player)
+  givePlayerCheckItemIfFirstTimeEating(event.player)
   
   const cravings = playerFoodCravings(event.player)
   const cravingScore = getCravingScore(event.item.id, cravings)
@@ -66,6 +68,14 @@ ItemEvents.rightClicked('kubejs:check_food_cravings', event => {
     player.tell('You are currently not craving any types of food.')
   }
 })
+
+const givePlayerCheckItemIfFirstTimeEating = (player) => {
+  const playerData = player.persistentData
+  if (!playerData[hasEatenFirstFoodKey]) {
+    player.give('kubejs:check_food_cravings')
+    playerData[hasEatenFirstFoodKey] = true
+  }
+}
 
 const getCravingScore = (itemId, cravings) => {
   let cravingScore = 0

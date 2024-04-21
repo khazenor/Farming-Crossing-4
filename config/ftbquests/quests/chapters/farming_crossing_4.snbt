@@ -415,11 +415,6 @@
 					silent: true
 					type: "command"
 				}
-				{
-					id: "2FC891C29F6A040E"
-					item: "kubejs:check_food_cravings"
-					type: "item"
-				}
 			]
 			tasks: [{
 				id: "3A6B90DF5E7B6794"
@@ -576,8 +571,8 @@
 				type: "item"
 			}]
 			title: "Cutting Cakes"
-			x: 3.5d
-			y: -2.5d
+			x: 4.5d
+			y: -3.5d
 		}
 		{
 			dependencies: ["13B67DDBCF1019AB"]
@@ -2439,6 +2434,48 @@
 			}]
 			x: 5.5d
 			y: -6.5d
+		}
+		{
+			dependencies: ["7CF35DAE02E4B6C0"]
+			description: [
+				"After eating your first food you should get a 'Check Food Cravings' item.  This item is part of a modpack specific diet mechanic."
+				""
+				"## Farming Crossing Diet Mechanic:"
+				"- Instead of balancing the nutrition of your diet, now you get rewarded for satisfying your food cravings!"
+				""
+				"- This mechanic only ever provides you with buffs, so you don't have to worry about it unless you want to."
+				""
+				"- Every food will now be classified on 3 axes:"
+				"  - Sweet/Savory"
+				"  - Heavy/Light"
+				"  - Hot/Cold"
+				""
+				"- If you eat more than 2 of one kind of food, you would start craving of the opposite kind of food"
+				"  - e.g. if you eaten two cake slices (sweet), then you would start craving something savory"
+				""
+				"- Cravings can stack! You can eat 2 sweet, heavy, and hot foods to get cravings for savory, light, and cold foods."
+				""
+				"- When you eat a food that you are craving for, you get a random potion effect for each craving you satisfy.  The potion effect lasts 20 mins.  After that, your cravings will reset."
+				""
+				"- You can check your food stats and cravings using the newly added item \"Check Food Cravings\""
+				"  - You can buy extra copies of this item from the market for 1 ticket"
+				""
+				"- If you have cravings, you will be notified via chat message when your hunger drops below full or when you ate a food and are still not full"
+			]
+			id: "7A56756EC54FA48D"
+			rewards: [{
+				id: "51718007C9CDAE6D"
+				item: "kubejs:miles_ticket"
+				type: "item"
+			}]
+			tasks: [{
+				id: "62C8BBD12ACA9B47"
+				item: "kubejs:check_food_cravings"
+				type: "item"
+			}]
+			title: "Farming Crossing Diet Mechanic!"
+			x: 3.5d
+			y: -2.5d
 		}
 	]
 	title: "Farming Crossing 4"
