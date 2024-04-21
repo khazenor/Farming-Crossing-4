@@ -22,7 +22,7 @@ PlayerEvents.loggedIn(event => {
 
 const updateVillagerAroundPlayer = (noticeMsg, player) => {
   const level = player.level
-  const season = getSeasonFromLevel(level)
+  const season = global.getSeasonFromLevel(level)
   player.tell(`${noticeMsg} ${season}`)
   for (const villager of villagers) {
     player.getServer().runCommandSilent(
@@ -30,19 +30,3 @@ const updateVillagerAroundPlayer = (noticeMsg, player) => {
     )
   }
 } 
-
-const getSeasonFromLevel = (level) => {
-  return seasonName(SeasonHelper.getSeasonState(level).getSeason())
-}
-
-const seasonName = (seasonObj) => {
-  if (seasonObj == Season.SPRING) {
-    return 'spring'
-  } else if (seasonObj == Season.SUMMER) {
-    return 'summer'
-  } else if (seasonObj == Season.AUTUMN) {
-    return 'fall'
-  } else {
-    return 'winter'
-  }
-}
