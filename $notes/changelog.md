@@ -1,4 +1,5 @@
 # 4.1.4:
+- Updated character description for Yukkie
 # 4.1.3:
 ## Mods Added:
 - mcw-bridges

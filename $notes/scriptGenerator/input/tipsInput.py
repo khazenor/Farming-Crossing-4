@@ -51,7 +51,7 @@ tips = [
   "Andre the Dog is a retired farmhand who loves to raise and train animals. He’s happy to supply you with a variety of tools to help on your quest to find and take care of animals.",
   "Sam the Osprey is an elite sushi chef and obsessive fisherman. He will buy fish from you and sell expertly prepared sushi",
   "Pamela the Rabbit is a hobbyist gardener and head chef of the Carrot Place, an award winning restaurant. She’s excited to help you cook the finest dishes for your fellow villagers.",
-  "Yukkie the Bat is a free-spirited adventurer who loves fruits. She will happily buy fruits from you.",
+  "Yukkie the Bat is a free-spirited adventurer who loves fruits. She will happily trade mob drops for fruits.",
   "Laly the Meerkat is a geologist who loves caving, and a curator of a local museum’s gems and minerals exhibit. She will buy gems and ores for her museum’s collection.",
   "Bernina the Shrew is a talented seamstress and hat maker who loves designing new fashion accessories to share with the world.  She will sell you a variety of hats and accessories you can wear on your head.",
   "Elna the Shrew is an up and coming fashion designer starting her own clothing brand. Her older sister, Bernina, helps Elna source only the highest quality fabrics and materials to make the tasteful clothes that Elna envisions.  Elna will sell you a variety of clothing items and decorative armor for your wardrobe."
