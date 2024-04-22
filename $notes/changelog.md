@@ -17,7 +17,8 @@
   - You should get a free copy from eating your first food. (It will also help you unlock an info quest in the main questline with this information)
   - You can buy extra copies of this item from the market for 1 ticket
 - If you have cravings, you will be notified via chat message when your hunger drops below full or when you ate a food and are still not full
-
+## Other Changes
+- Updated character description for Yukkie
 # 4.1.3:
 ## Mods Added:
 - mcw-bridges
