@@ -1007,7 +1007,6 @@ global.foodClassifications = {
     'farmersdelight:stuffed_potato',
     'minecraft:baked_potato',
     'minecraft:poisonous_potato',
-    'minecraft:potato',
     'pamhc2crops:bakedsweetpotatoitem',
     'pamhc2crops:sweetpotatoitem',
     'pamhc2crops:sweetpotatoseeditem',
