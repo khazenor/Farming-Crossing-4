@@ -14,7 +14,7 @@
 - Cravings can stack! You can eat 2 sweet, heavy, and hot foods to get cravings for savory, light, and cold foods.
 - When you eat a food that you are craving for, it will clear all existing potion effects you currently have and give you a random potion effect for each craving you satisfy.  The potion effect lasts 20 mins.  After that, your cravings will reset.
 - You can check your food stats and cravings using the newly added item "Check Food Cravings"
-  - You should get a free copy from the starting "Welcome to Farming Crossing 4!" quest
+  - You should get a free copy from eating your first food. (It will also help you unlock an info quest in the main questline with this information)
   - You can buy extra copies of this item from the market for 1 ticket
 - If you have cravings, you will be notified via chat message when your hunger drops below full or when you ate a food and are still not full
 
