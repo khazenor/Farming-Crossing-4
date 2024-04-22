@@ -1,6 +1,7 @@
 const playerFullFoodLevel = 20
 const cravingThreshold = 2
 const potionEffectTime = 24000 // 20*20*60
+const potionAmplifier = 2
 const hasEatenFirstFoodKey = 'hasEatenFirstFoodKey'
 
 const potionEffects = [
@@ -13,9 +14,6 @@ const potionEffects = [
   }, {
     id: 'minecraft:strength',
     name: 'Strength'
-  }, {
-    id: 'minecraft:jump_boost',
-    name: 'Jump Boost'
   }, {
     id: 'minecraft:regeneration',
     name: 'Regeneration'
@@ -99,10 +97,16 @@ const rewardPlayerWithPotionEffects = (player, cravingScore) => {
 
   let message = 'The food has given you '
 
+  player.potionEffects.clear()
   for (let i = 0; i<effects.length; i++) {
     let effect = effects[i]
-    
-    player.potionEffects.add(effect.id, potionEffectTime, 0, false, false)
+    player.potionEffects.add(
+      effect.id,
+      potionEffectTime,
+      potionAmplifier,
+      false,
+      false
+    )
 
     if (i > 0 && effects.length > 2) {
       message += ","
