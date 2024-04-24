@@ -6,7 +6,7 @@
 ## New Diet Mechanic Added!
 - Instead of balancing the nutrition of your diet, now you get rewarded for satisfying your food cravings!
 - This mechanic only ever provides you with buffs, so you don't have to worry about it unless you want to.
-- Every food will now be classified on 3 axes:
+- Every food will now be classified on 4 axes:
   - Sweet/Savory
   - Heavy/Light
   - Hot/Cold
