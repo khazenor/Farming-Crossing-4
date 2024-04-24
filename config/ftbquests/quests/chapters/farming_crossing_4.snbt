@@ -5,6 +5,19 @@
 	group: ""
 	icon: "minecraft:peony"
 	id: "4362A64FA38E4BCF"
+	images: [{
+		click: "https://forms.gle/zuuGPAcGz1w56ASg8"
+		corner: false
+		dependency: "7A56756EC54FA48D"
+		dev: false
+		height: 1.0d
+		hover: ["Submit Food Mechanic Classification Suggestion"]
+		image: "minecraft:item/luck_of_the_sea2"
+		rotation: 0.0d
+		width: 1.0d
+		x: 4.5d
+		y: -2.5d
+	}]
 	order_index: 0
 	quest_links: [ ]
 	quests: [
@@ -2451,8 +2464,7 @@
 				"  - Hot/Cold"
 				"  - Dry/Wet"
 				""
-				"- If you notice foods that are missing classifications or are mis-classified. Feel free to submit a suggestion with this form!"
-				"https://forms.gle/UeJHcFtpSg13fHCk6"
+				"- If you noticed foods that are missing classifications or are mis-classified. Feel free to submit a suggestion by clicking on the book icon next to this quest!"
 				""
 				"- If you eat more than 2 of one kind of food, you would start craving food of the opposite kind"
 				"  - e.g. if you eaten two cake slices (sweet), then you would start craving something savory"
