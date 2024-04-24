@@ -1,6 +1,8 @@
 # 4.1.4:
 ## Mods Removed:
 - Diet
+## Mods Updated:
+- SnowRealMagic
 ## New Diet Mechanic Added!
 - Instead of balancing the nutrition of your diet, now you get rewarded for satisfying your food cravings!
 - This mechanic only ever provides you with buffs, so you don't have to worry about it unless you want to.
