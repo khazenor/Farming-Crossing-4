@@ -168,6 +168,7 @@ const playerFoodCravings = (player) => {
   addCraving(global.sweet, global.savory, playerData, cravings)
   addCraving(global.light, global.heavy, playerData, cravings)
   addCraving(global.hot, global.cold, playerData, cravings)
+  addCraving(global.wet, global.dry, playerData, cravings)
   return cravings
 }
 
@@ -194,10 +195,13 @@ const displayFoodTallies = (player) => {
   const heavy = playerTally('heavy', player)
   const hot = playerTally('hot', player)
   const cold = playerTally('cold', player)
+  const wet = playerTally('wet', player)
+  const dry = playerTally('dry', player)
   player.tell('==== RECENT FOODS EATEN ====')
   player.tell(`  Sweet: ${sweet},   Savory: ${savory}`)
   player.tell(`  Light: ${light},   Heavy: ${heavy}`)
   player.tell(`  Hot: ${hot},   Cold: ${cold}`)
+  player.tell(`  Wet: ${wet},   Dry: ${dry}`)
   player.tell('============================')
 }
 

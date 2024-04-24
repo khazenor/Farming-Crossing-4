@@ -8,7 +8,10 @@
   - Sweet/Savory
   - Heavy/Light
   - Hot/Cold
-- If you eat more than 2 of one kind of food, you would start craving of the opposite kind of food
+  - Dry/Wet
+- If you notice foods that are missing classifications or are mis-classified. Feel free to submit a suggestion with this form!
+  - https://forms.gle/UeJHcFtpSg13fHCk6
+- If you eat more than 2 of one kind of food, you would start craving food of the opposite kind 
   - e.g. if you eaten two cake slices (sweet), then you would start craving something savory
 - In winter/summer, your cravings for hot/cold foods would increase every time you eat a food.
 - Cravings can stack! You can eat 2 sweet, heavy, and hot foods to get cravings for savory, light, and cold foods.
