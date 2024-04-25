@@ -197,7 +197,7 @@ const displayFoodTallies = (player) => {
   const cold = playerTally('cold', player)
   const wet = playerTally('wet', player)
   const dry = playerTally('dry', player)
-  player.tell('==== RECENT FOODS EATEN ====')
+  player.tell('====== CRAVING SCORES ======')
   player.tell(`  Sweet: ${sweet},   Savory: ${savory}`)
   player.tell(`  Light: ${light},   Heavy: ${heavy}`)
   player.tell(`  Hot: ${hot},   Cold: ${cold}`)
@@ -225,9 +225,9 @@ const updateTalliesBasedOnCategories = (itemId, playerData) => {
 const updateTalliesBasedOnSeason = (player, playerData) => {
   const season = global.getSeasonFromLevel(player.level)
   if (season === 'summer') {
-    incrementPlayerData(global.cold, playerData)
-  } else if (season === 'winter') {
     incrementPlayerData(global.hot, playerData)
+  } else if (season === 'winter') {
+    incrementPlayerData(global.cold, playerData)
   }
 }
 
