@@ -11,6 +11,7 @@
   - Heavy/Light
   - Hot/Cold
   - Dry/Wet
+- You can look up foods of a category by typing the category name into JEI!
 - If you notice foods that are missing classifications or are mis-classified. Feel free to submit a suggestion with this form!
   - https://forms.gle/UeJHcFtpSg13fHCk6
 - If you eat more than 2 of one kind of food, you would start craving food of the opposite kind 
