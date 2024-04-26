@@ -836,15 +836,6 @@ categories = {
           "exoticbirds:swan_spawn_egg",
           "exoticbirds:toucan_spawn_egg",
           "exoticbirds:woodpecker_spawn_egg",
-          "exoticbirds:cloud_phoenix_spawn_egg",
-          "exoticbirds:desert_phoenix_spawn_egg",
-          "exoticbirds:ender_phoenix_spawn_egg",
-          "exoticbirds:fire_phoenix_spawn_egg",
-          "exoticbirds:nether_phoenix_spawn_egg",
-          "exoticbirds:skeleton_phoenix_spawn_egg",
-          "exoticbirds:snowy_phoenix_spawn_egg",
-          "exoticbirds:twilight_phoenix_spawn_egg",
-          "exoticbirds:water_phoenix_spawn_egg",
           'quark:crab_spawn_egg',
           'quark:forgotten_spawn_egg',
           'quark:foxhound_spawn_egg',
@@ -853,6 +844,20 @@ categories = {
           'quark:toretoise_spawn_egg',
           'quark:wraith_spawn_egg'
         ])
+      },
+      { # phoenix eggs
+        priceKey: 500,
+        itemsKey: [
+          "exoticbirds:cloud_phoenix_spawn_egg",
+          "exoticbirds:desert_phoenix_spawn_egg",
+          "exoticbirds:ender_phoenix_spawn_egg",
+          "exoticbirds:fire_phoenix_spawn_egg",
+          "exoticbirds:nether_phoenix_spawn_egg",
+          "exoticbirds:skeleton_phoenix_spawn_egg",
+          "exoticbirds:snowy_phoenix_spawn_egg",
+          "exoticbirds:twilight_phoenix_spawn_egg",
+          "exoticbirds:water_phoenix_spawn_egg"
+        ]
       }
     ]
   },

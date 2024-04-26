@@ -967,15 +967,6 @@ ItemEvents.tooltip(event => {
       'supplementaries:red_merchant_spawn_egg', 
       'vinery:mule_spawn_egg', 
       'vinery:wandering_winemaker_spawn_egg', 
-      'exoticbirds:cloud_phoenix_spawn_egg', 
-      'exoticbirds:desert_phoenix_spawn_egg', 
-      'exoticbirds:ender_phoenix_spawn_egg', 
-      'exoticbirds:fire_phoenix_spawn_egg', 
-      'exoticbirds:nether_phoenix_spawn_egg', 
-      'exoticbirds:skeleton_phoenix_spawn_egg', 
-      'exoticbirds:snowy_phoenix_spawn_egg', 
-      'exoticbirds:twilight_phoenix_spawn_egg', 
-      'exoticbirds:water_phoenix_spawn_egg', 
       'quark:forgotten_spawn_egg', 
       'quark:foxhound_spawn_egg', 
       'quark:stoneling_spawn_egg', 
@@ -1002,6 +993,21 @@ ItemEvents.tooltip(event => {
     ],
     [
       'Obtainable for 64 tickets in the market'
+    ])
+  event.add(
+    [
+      'exoticbirds:cloud_phoenix_spawn_egg', 
+      'exoticbirds:desert_phoenix_spawn_egg', 
+      'exoticbirds:ender_phoenix_spawn_egg', 
+      'exoticbirds:fire_phoenix_spawn_egg', 
+      'exoticbirds:nether_phoenix_spawn_egg', 
+      'exoticbirds:skeleton_phoenix_spawn_egg', 
+      'exoticbirds:snowy_phoenix_spawn_egg', 
+      'exoticbirds:twilight_phoenix_spawn_egg', 
+      'exoticbirds:water_phoenix_spawn_egg'
+    ],
+    [
+      'Obtainable for 500 tickets in the market'
     ])
   event.add(
     [

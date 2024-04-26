@@ -3354,105 +3354,6 @@
     },
     {
       "output": {
-        "item": "exoticbirds:cloud_phoenix_spawn_egg",
-        "count": 1
-      },
-      "payment": {
-        "item": "kubejs:miles_ticket",
-        "count": 64
-      },
-      "category": "farm"
-    },
-    {
-      "output": {
-        "item": "exoticbirds:desert_phoenix_spawn_egg",
-        "count": 1
-      },
-      "payment": {
-        "item": "kubejs:miles_ticket",
-        "count": 64
-      },
-      "category": "farm"
-    },
-    {
-      "output": {
-        "item": "exoticbirds:ender_phoenix_spawn_egg",
-        "count": 1
-      },
-      "payment": {
-        "item": "kubejs:miles_ticket",
-        "count": 64
-      },
-      "category": "farm"
-    },
-    {
-      "output": {
-        "item": "exoticbirds:fire_phoenix_spawn_egg",
-        "count": 1
-      },
-      "payment": {
-        "item": "kubejs:miles_ticket",
-        "count": 64
-      },
-      "category": "farm"
-    },
-    {
-      "output": {
-        "item": "exoticbirds:nether_phoenix_spawn_egg",
-        "count": 1
-      },
-      "payment": {
-        "item": "kubejs:miles_ticket",
-        "count": 64
-      },
-      "category": "farm"
-    },
-    {
-      "output": {
-        "item": "exoticbirds:skeleton_phoenix_spawn_egg",
-        "count": 1
-      },
-      "payment": {
-        "item": "kubejs:miles_ticket",
-        "count": 64
-      },
-      "category": "farm"
-    },
-    {
-      "output": {
-        "item": "exoticbirds:snowy_phoenix_spawn_egg",
-        "count": 1
-      },
-      "payment": {
-        "item": "kubejs:miles_ticket",
-        "count": 64
-      },
-      "category": "farm"
-    },
-    {
-      "output": {
-        "item": "exoticbirds:twilight_phoenix_spawn_egg",
-        "count": 1
-      },
-      "payment": {
-        "item": "kubejs:miles_ticket",
-        "count": 64
-      },
-      "category": "farm"
-    },
-    {
-      "output": {
-        "item": "exoticbirds:water_phoenix_spawn_egg",
-        "count": 1
-      },
-      "payment": {
-        "item": "kubejs:miles_ticket",
-        "count": 64
-      },
-      "category": "farm"
-    },
-    {
-      "output": {
         "item": "quark:forgotten_spawn_egg",
         "count": 1
       },
@@ -3492,6 +3393,105 @@
       "payment": {
         "item": "kubejs:miles_ticket",
         "count": 64
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:cloud_phoenix_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 500
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:desert_phoenix_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 500
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:ender_phoenix_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 500
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:fire_phoenix_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 500
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:nether_phoenix_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 500
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:skeleton_phoenix_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 500
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:snowy_phoenix_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 500
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:twilight_phoenix_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 500
+      },
+      "category": "farm"
+    },
+    {
+      "output": {
+        "item": "exoticbirds:water_phoenix_spawn_egg",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 500
       },
       "category": "farm"
     }
