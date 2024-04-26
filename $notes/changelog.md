@@ -26,6 +26,7 @@
 ## Other Changes
 - Updated character description for Yukkie
 - Raise phoenix spawn eggs price to 500 tix in the market (they were never intended to be 64 tix)
+- You can now haunt carrots to get sinister carrots (create fan with soul campfire)
 # 4.1.3:
 ## Mods Added:
 - mcw-bridges

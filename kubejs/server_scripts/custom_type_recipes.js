@@ -98,4 +98,18 @@ ServerEvents.recipes(event => {
       "count": 4
     }
   })
+
+  event.custom({
+    "type": "create:haunting",
+    "ingredients": [
+      {
+        "item": "minecraft:carrot"
+      }
+    ],
+    "results": [
+      {
+        "item": "domesticationinnovation:sinister_carrot"
+      }
+    ]
+  })
 })
