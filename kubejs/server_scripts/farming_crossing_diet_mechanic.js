@@ -3,6 +3,7 @@ const cravingThreshold = 2
 const potionEffectTime = 24000 // 20*20*60
 const potionAmplifier = 2
 const hasEatenFirstFoodKey = 'hasEatenFirstFoodKey'
+const foodCravingCacheKey = 'foodCravingCacheKey'
 
 const potionEffects = [
   {
@@ -128,6 +129,7 @@ const resetTallies = (player) => {
   for (let foodCategory in global.foodClassifications) {
     player.persistentData[foodCategory] = 0
   }
+  player.persistentData[foodCravingCacheKey] = ""
 }
 
 const randomSelectFromArr = (arr, numSelect) => {
@@ -144,21 +146,27 @@ const randomSelectFromArr = (arr, numSelect) => {
 
 const notifyPlayerOfCravings = (player, cravings) => {
   if (cravings.length > 0) {
-    let message = "You are currently craving something that is "
-    for (let i = 0; i<cravings.length; i++) {
-      let craving = cravings[i]
-      if (i > 0 && cravings.length > 2) {
-        message += ","
+    cravings.sort()
+    const cravingKey = concatArrVals(cravings)
+    if (player.persistentData[foodCravingCacheKey] !== cravingKey) {
+      player.persistentData[foodCravingCacheKey] = cravingKey
+
+      let message = "You are currently craving something that is "
+      for (let i = 0; i<cravings.length; i++) {
+        let craving = cravings[i]
+        if (i > 0 && cravings.length > 2) {
+          message += ","
+        }
+        if (i > 0) {
+          message += " "
+        }
+        if (i > 0 && i === cravings.length - 1) {
+          message += "or "
+        }
+        message += global.foodClassificationNames[craving]
       }
-      if (i > 0) {
-        message += " "
-      }
-      if (i > 0 && i === cravings.length - 1) {
-        message += "or "
-      }
-      message += global.foodClassificationNames[craving]
+      player.tell(message)
     }
-    player.tell(message)
   }
 }
 
@@ -212,6 +220,14 @@ const playerTally = (tallySortName, player) => {
 
 const defaultToZero = (value) => {
   return value ? value : 0
+}
+
+const concatArrVals = (array) => {
+  let strVals = ""
+  for (let val of array) {
+    strVals += val
+  }
+  return strVals
 }
 
 const updateTalliesBasedOnCategories = (itemId, playerData) => {

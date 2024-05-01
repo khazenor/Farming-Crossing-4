@@ -4,6 +4,8 @@
 - refined polymorph
 - music maker mod
 - joy of painting
+## Other Changes:
+- The diet craving mechanic will now only notify you of your cravings if they have not notified you of that particular craving combination before.
 # 4.1.4:
 ## Mods Removed:
 - Diet
