@@ -4,6 +4,7 @@ const potionEffectTime = 24000 // 20*20*60
 const potionAmplifier = 2
 const hasEatenFirstFoodKey = 'hasEatenFirstFoodKey'
 const foodCravingCacheKey = 'foodCravingCacheKey'
+const disableFoodCravingNotificationKey = 'disableFoodCravingNotificationKey'
 
 const potionEffects = [
   {
@@ -37,7 +38,7 @@ ItemEvents.foodEaten(event => {
   const cravings = playerFoodCravings(event.player)
   const cravingScore = getCravingScore(event.item.id, cravings)
   if (cravingScore === 0 && event.player.foodLevel < playerFullFoodLevel) {
-    notifyPlayerOfCravings(event.player, cravings)
+    autoNotifyPlayerCravings(event.player, cravings)
   }
   if (cravingScore > 0) {
     rewardPlayerWithPotionEffects(event.player, cravingScore)
@@ -52,19 +53,35 @@ PlayerEvents.tick(event => {
   } else if (foodLevel < playerFullFoodLevel && playerData.wasFull) {
     playerData.wasFull = false
     const cravings = playerFoodCravings(event.player)
-    notifyPlayerOfCravings(event.player, cravings)
+    autoNotifyPlayerCravings(event.player, cravings)
   }
 })
 
 ItemEvents.rightClicked('kubejs:check_food_cravings', event => {
   const player = event.player
-  player.tell('')
-  displayFoodTallies(player)
-  const cravings = playerFoodCravings(player)
-  if (cravings.length > 0) {
-    notifyPlayerOfCravings(player, cravings)
+  if (player.shiftKeyDown) {
+    let newDoDisable
+    if (player.persistentData[disableFoodCravingNotificationKey]) {
+      newDoDisable = !player.persistentData[disableFoodCravingNotificationKey]
+    } else {
+      newDoDisable = true
+    }
+    player.persistentData[disableFoodCravingNotificationKey] = newDoDisable
+    const onOff = newDoDisable ? 'off': 'on'
+    player.tell(`Craving notification is now turned ${onOff}`)
   } else {
-    player.tell('You are currently not craving any types of food.')
+    player.tell('')
+    displayFoodTallies(player)
+    const cravings = playerFoodCravings(player)
+    if (cravings.length > 0) {
+      notifyPlayerOfCravings(player, cravings)
+    } else {
+      player.tell('You are currently not craving any types of food.')
+    }
+
+    if (player.persistentData[disableFoodCravingNotificationKey]) {
+      player.tell('You currently have craving notifications turned off')
+    }
   }
 })
 
@@ -144,30 +161,33 @@ const randomSelectFromArr = (arr, numSelect) => {
   return randomElms
 }
 
-const notifyPlayerOfCravings = (player, cravings) => {
-  if (cravings.length > 0) {
+const autoNotifyPlayerCravings = (player, cravings) => {
+  if (!player.persistentData[disableFoodCravingNotificationKey] && cravings.length > 0) {
     cravings.sort()
     const cravingKey = concatArrVals(cravings)
     if (player.persistentData[foodCravingCacheKey] !== cravingKey) {
       player.persistentData[foodCravingCacheKey] = cravingKey
-
-      let message = "You are currently craving something that is "
-      for (let i = 0; i<cravings.length; i++) {
-        let craving = cravings[i]
-        if (i > 0 && cravings.length > 2) {
-          message += ","
-        }
-        if (i > 0) {
-          message += " "
-        }
-        if (i > 0 && i === cravings.length - 1) {
-          message += "or "
-        }
-        message += global.foodClassificationNames[craving]
-      }
-      player.tell(message)
+      notifyPlayerOfCravings(player, cravings)
     }
   }
+}
+
+const notifyPlayerOfCravings = (player, cravings) => {
+  let message = "You are currently craving something that is "
+  for (let i = 0; i<cravings.length; i++) {
+    let craving = cravings[i]
+    if (i > 0 && cravings.length > 2) {
+      message += ","
+    }
+    if (i > 0) {
+      message += " "
+    }
+    if (i > 0 && i === cravings.length - 1) {
+      message += "or "
+    }
+    message += global.foodClassificationNames[craving]
+  }
+  player.tell(message)
 }
 
 const playerFoodCravings = (player) => {

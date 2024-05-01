@@ -64,6 +64,8 @@ ItemEvents.tooltip(event => {
 
   event.add('kubejs:check_food_cravings', [
     "Right click this item in the air to",
-    "see your diet craving information."
+    "see your diet craving information.",
+    "",
+    "Shift right click to toggle craving notifications."
   ])
 })
