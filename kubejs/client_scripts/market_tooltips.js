@@ -162,6 +162,7 @@ ItemEvents.tooltip(event => {
       'minecraft:jungle_sapling', 
       'minecraft:oak_sapling', 
       'minecraft:spruce_sapling', 
+      'minecraft:mangrove_propagule', 
       'biomesoplenty:dead_sapling', 
       'biomesoplenty:fir_sapling', 
       'biomesoplenty:flowering_oak_sapling', 

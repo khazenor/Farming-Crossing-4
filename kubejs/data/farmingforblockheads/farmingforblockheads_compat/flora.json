@@ -5400,6 +5400,17 @@
     },
     {
       "output": {
+        "item": "minecraft:mangrove_propagule",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flora"
+    },
+    {
+      "output": {
         "item": "biomesoplenty:dead_sapling",
         "count": 4
       },

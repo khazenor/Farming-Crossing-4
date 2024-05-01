@@ -5557,6 +5557,39 @@
 			y: 32.0d
 		}
 		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
+			id: "6499120D3A1B1416"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "01B78184B3014EA6"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_vanilla_sapling_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "172C5E9E9883D9CD"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "30577BD3066D506B"
+				item: "minecraft:mangrove_propagule"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 32.0d
+		}
+		{
 			dependencies: [
 				"269D8DA724BCB02B"
 				"14EF2B2A71B95F71"
@@ -5566,11 +5599,12 @@
 				"51AE4122ED04F217"
 				"14FBC3A3A1F48313"
 				"75BDFC398F019C85"
+				"6499120D3A1B1416"
 			]
 			icon: "kubejs:miles_ticket"
 			id: "363CC5FDB568A27D"
 			rewards: [{
-				count: 9
+				count: 10
 				id: "75737A40F900752B"
 				item: "kubejs:miles_ticket"
 				type: "item"

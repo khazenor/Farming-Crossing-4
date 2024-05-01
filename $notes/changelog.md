@@ -7,6 +7,8 @@
 ## Diet Mechanic Changes:
 - The diet craving mechanic will now only notify you of your cravings if they have not notified you of that particular craving combination before.
 - You can now toggle craving notifications by shift right clicking the Check Food Cravings item
+## Other Changes:
+- Mangrove propagules are added to flora collection quests and the market
 # 4.1.4:
 ## Mods Removed:
 - Diet

@@ -479,7 +479,8 @@ floraSaplingVanilla = [
   "minecraft:dark_oak_sapling",
   "minecraft:jungle_sapling",
   "minecraft:oak_sapling",
-  "minecraft:spruce_sapling"
+  "minecraft:spruce_sapling",
+  "minecraft:mangrove_propagule"
 ]
 floraSaplingModded = [
   "biomesoplenty:dead_sapling",
