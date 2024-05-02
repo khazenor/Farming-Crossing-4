@@ -44,6 +44,7 @@ ItemEvents.tooltip(event => {
       'biomesoplenty:black_sandstone', 
       'biomesoplenty:black_sand', 
       'biomesoplenty:brimstone', 
+      'biomesoplenty:dried_salt', 
       'minecraft:black_terracotta', 
       'minecraft:blue_terracotta', 
       'minecraft:brown_terracotta', 
