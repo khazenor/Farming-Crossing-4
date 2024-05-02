@@ -1,3 +1,6 @@
+# 4.1.6:
+## Other Changes
+- Add QoL recipe for chest from non-vanilla wood logs
 # 4.1.5:
 ## Mods Added:
 - fish on the line

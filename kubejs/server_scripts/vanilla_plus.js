@@ -43,4 +43,12 @@ ServerEvents.recipes(event => {
     event.shapeless('4x minecraft:nether_wart', ['minecraft:nether_wart_block'])
     
     event.shapeless('minecraft:cobblestone', ['minecraft:cobbled_deepslate'])
+
+    event.shaped('4x minecraft:chest', [
+        'AAA',
+        'A A',
+        'AAA'
+    ], {
+        A: '#minecraft:logs'
+    })
 })
