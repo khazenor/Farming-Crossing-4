@@ -32,9 +32,6 @@ const potionEffects = [
 ]
 
 ItemEvents.foodEaten(event => {
-  updatePlayerFoodTallies(event.item, event.player)
-  givePlayerCheckItemIfFirstTimeEating(event.player)
-  
   const cravings = playerFoodCravings(event.player)
   const cravingScore = getCravingScore(event.item.id, cravings)
   if (cravingScore === 0 && event.player.foodLevel < playerFullFoodLevel) {
@@ -42,6 +39,9 @@ ItemEvents.foodEaten(event => {
   }
   if (cravingScore > 0) {
     rewardPlayerWithPotionEffects(event.player, cravingScore)
+  } else {
+    updatePlayerFoodTallies(event.item, event.player)
+    givePlayerCheckItemIfFirstTimeEating(event.player)
   }
 })
 
