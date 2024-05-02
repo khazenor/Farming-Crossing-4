@@ -1,8 +1,9 @@
 # 4.1.6:
-## Other Changes
-- Add QoL recipe for chest from non-vanilla wood logs
 ## Blocks now duplicable with tickets:
 - biomesoplenty:dried_salt
+## Other Changes
+- Add QoL recipe for chest from non-vanilla wood logs
+- initial cooking quest now gives cooking for blockheads sink
 # 4.1.5:
 ## Mods Added:
 - fish on the line

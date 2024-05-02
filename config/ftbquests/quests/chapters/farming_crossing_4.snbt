@@ -65,11 +65,6 @@
 			id: "57BAA8B414FF1F4F"
 			rewards: [
 				{
-					id: "77801FAC91F7EEE9"
-					item: "bakery:kitchen_sink"
-					type: "item"
-				}
-				{
 					id: "2CE73FEA7A081DBA"
 					item: "bakery:brick_stove"
 					type: "item"
@@ -83,6 +78,11 @@
 					count: 16
 					id: "79707C591C03C8B7"
 					item: "minecraft:sugar_cane"
+					type: "item"
+				}
+				{
+					id: "6268711265E34812"
+					item: "cookingforblockheads:sink"
 					type: "item"
 				}
 			]
@@ -1909,11 +1909,6 @@
 				{
 					id: "3F69F20935BB694D"
 					item: "pamhc2foodcore:skilletitem"
-					type: "item"
-				}
-				{
-					id: "075FF9B10772A9FC"
-					item: "cookingforblockheads:sink"
 					type: "item"
 				}
 				{
