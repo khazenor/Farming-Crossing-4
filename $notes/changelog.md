@@ -1,8 +1,10 @@
 # 4.1.6:
 ## Blocks now duplicable with tickets:
 - biomesoplenty:dried_salt
+## New QoL recipes
+- chest from non-vanilla wood logs
+- 2 warp plates from 1 waystone
 ## Other Changes
-- Add QoL recipe for chest from non-vanilla wood logs
 - initial cooking quest now gives cooking for blockheads sink
 # 4.1.5:
 ## Mods Added:

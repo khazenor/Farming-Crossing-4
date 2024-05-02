@@ -65,27 +65,6 @@ ServerEvents.recipes(event => {
   })
 
   event.custom({
-    "result": {
-      "item": "waystones:warp_plate"
-    },
-    "type": "minecraft:crafting_shaped",
-    "pattern": [
-      "SOS",
-      "OOO",
-      "SOS"
-    ],
-    "key": {
-      "O": {
-        "item": "minecraft:obsidian"
-      },
-      "S": {
-        "item": "minecraft:stone_bricks"
-      }
-    }
-  }
-  )
-
-  event.custom({
     "type": "minecraft:blasting",
     "category": "misc",
     "cookingtime": 100,
