@@ -8,14 +8,13 @@
 - Fix a bug when sometimes eating craving foods doesn't give you the correct number of buffs
 - The diet craving mechanic will now only notify you of your cravings if they have not notified you of that particular craving combination before.
 - You can now toggle craving notifications by shift right clicking the Check Food Cravings item
-## Blocks now duplicable with tickets:
-- biomesoplenty:dried_salt
 ## New QoL recipes
 - chest from non-vanilla wood logs
 - 2 warp plates from 1 waystone
 ## Other Changes:
 - Mangrove propagules are added to flora collection quests and the market
 - initial cooking quest now gives cooking for blockheads sink
+- biomesoplenty:dried_salt now duplicable with tickets
 # 4.1.4:
 ## Mods Removed:
 - Diet
