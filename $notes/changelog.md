@@ -4,6 +4,7 @@
 ## Mods Updated:
 - Artifacts
 - Curio
+- Steam and Rails
 ## Other changes:
 - Added a resource pack to make the music maker mod's instrument gui slightly translucent to allow you to see around you while you play the instrument
 # 4.1.5:
