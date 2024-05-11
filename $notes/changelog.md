@@ -7,6 +7,7 @@
 - Steam and Rails
 ## Other changes:
 - Added a resource pack to make the music maker mod's instrument gui slightly translucent to allow you to see around you while you play the instrument
+- Fix Farming Crossing Diet Mechanic Quest not hiding in the beginning of the quest line.
 # 4.1.5:
 ## Mods Added:
 - fish on the line
