@@ -1,4 +1,6 @@
 # 4.1.6:
+## Mods Added:
+- Create Encased
 ## Mods Updated:
 - Artifacts
 - Curio
