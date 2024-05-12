@@ -199,6 +199,7 @@ ItemEvents.tooltip(event => {
       'vinery:cherry_log', 
       'minecraft:warped_stem', 
       'minecraft:crimson_stem', 
+      'bloomingnature:laterit', 
       'bloomingnature:aspen_log', 
       'bloomingnature:baobab_log', 
       'bloomingnature:chestnut_log', 

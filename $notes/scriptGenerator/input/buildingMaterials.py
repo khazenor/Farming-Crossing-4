@@ -215,6 +215,7 @@ buildingMaterials = [
     'minecraft:crimson_stem',
 
     # blooming nature:
+    'bloomingnature:laterit',
     'bloomingnature:aspen_log',
     'bloomingnature:baobab_log',
     'bloomingnature:chestnut_log',

@@ -594,6 +594,9 @@ ServerEvents.recipes(event => {
     Item.of('minecraft:crimson_stem', 32),
     ['minecraft:crimson_stem', 'kubejs:miles_ticket'])
   event.shapeless(
+    Item.of('bloomingnature:laterit', 32),
+    ['bloomingnature:laterit', 'kubejs:miles_ticket'])
+  event.shapeless(
     Item.of('bloomingnature:aspen_log', 32),
     ['bloomingnature:aspen_log', 'kubejs:miles_ticket'])
   event.shapeless(

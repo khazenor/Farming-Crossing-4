@@ -1,6 +1,8 @@
 # 4.1.7:
 ## Mods Updated:
 - Simple Hats
+## Other changes:
+- Laterit now duplicable with tickets
 # 4.1.6:
 ## Mods Added:
 - Create Encased
