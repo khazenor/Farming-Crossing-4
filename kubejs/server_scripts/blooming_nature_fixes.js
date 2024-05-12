@@ -36,5 +36,6 @@ for (const log of logs) {
   ServerEvents.tags('item', event => {
     event.add('minecraft:logs_that_burn', logId)
     event.add('minecraft:logs_that_burn', strippedLogId)
+    event.add('forge:stripped_logs', strippedLogId)
   })
 }

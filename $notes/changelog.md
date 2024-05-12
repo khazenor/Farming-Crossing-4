@@ -2,6 +2,7 @@
 ## Mods Updated:
 - Simple Hats
 ## Other changes:
+- You can now make create casings out of stripped blooming nature logs
 - Laterit now duplicable with tickets
 # 4.1.6:
 ## Mods Added:
