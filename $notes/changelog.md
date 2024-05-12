@@ -1,3 +1,6 @@
+# 4.1.7:
+## Mods Updated:
+- Simple Hats
 # 4.1.6:
 ## Mods Added:
 - Create Encased
