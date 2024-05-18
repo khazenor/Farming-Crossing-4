@@ -10,6 +10,8 @@
   - To update this for existing world delete the sophisticatedbackpacks-server.toml file in the server config folder in your server or single player world and restart the world
 - Tea leaves are no longer classified as hot or wet foods under the diet system.
 - Remove legacy tip for the diet mod that is no longer included in this pack
+## Server Pack Link:
+- https://www.dropbox.com/scl/fi/8bhtp4b1990cahappy78d/Farming-Crossing-4-4.1.8.zip?rlkey=hrfij8vysa3s70t8dqkd3ivm9&dl=0
 # 4.1.7:
 ## Mods Updated:
 - Simple Hats
