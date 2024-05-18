@@ -1,5 +1,9 @@
 # 4.1.8:
-## config changes:
+## Mod Added:
+- effortlessbuilding
+## Mod Updated:
+- l2library
+## Config Changes:
 - Added a few new rewards to early game quests
 - Bells are now craftable
 - Modify default server config for sophisticated backpacks to disable the ability to look into other people's backpacks by right clicking
