@@ -25,7 +25,6 @@ tips = [
   "Crouch + right-click another player with an item in your hand to handover the item without having to drop it on the ground!",
   
 	# Mods
-	"If your sugar level is above .8, you will get an hunger effect",
   "Gems & Jewels rings with special effects constantly consumes durability to give the effect. Once the durability wears off it starts to consume your experience to keep up the effect.",
   "You can customize tree chopping behavior with the [Open Settings Overlay] key bind from HT's TreeChop.",
   "Putting a framed corner strip right on the outer top edge of a door prevents a villager from being able to path find out.  Keep in mind this doesn't prevent it from being nudged out by another entity.",
