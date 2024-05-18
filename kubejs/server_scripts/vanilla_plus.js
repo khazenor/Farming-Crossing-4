@@ -51,4 +51,14 @@ ServerEvents.recipes(event => {
     ], {
         A: '#minecraft:logs'
     })
+
+    event.shaped('minecraft:bell',[
+        'LLL',
+        'FGF',
+        'F F'
+    ], {
+        L: '#minecraft:logs',
+        F: '#minecraft:fences',
+        G: 'minecraft:gold_block'
+    })
 })
