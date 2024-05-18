@@ -8,7 +8,7 @@
 - Bells are now craftable
 - Modify default server config for sophisticated backpacks to disable the ability to look into other people's backpacks by right clicking
   - To update this for existing world delete the sophisticatedbackpacks-server.toml file in the server config folder in your server or single player world and restart the world
-- Tea leaves are no longer classified as hot foods under the diet system.
+- Tea leaves are no longer classified as hot or wet foods under the diet system.
 - Remove legacy tip for the diet mod that is no longer included in this pack
 # 4.1.7:
 ## Mods Updated:
