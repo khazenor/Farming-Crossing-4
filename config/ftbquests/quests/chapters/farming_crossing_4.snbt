@@ -421,7 +421,7 @@
 					type: "item"
 				}
 				{
-					auto: "no_toast"
+					auto: "invisible"
 					command: "/function fc_collection:init_all_scores"
 					elevate_perms: true
 					id: "47517139A54854E0"
@@ -663,15 +663,22 @@
 			hide: true
 			icon: "moa_decor_toys:conejodorado"
 			id: "2D62FBEF18E6ABF6"
-			rewards: [{
-				id: "067F85B892561726"
-				item: {
-					Count: 1b
-					id: "mobcapturingtool:mob_capturing_tool"
-					tag: { }
+			rewards: [
+				{
+					id: "067F85B892561726"
+					item: {
+						Count: 1b
+						id: "mobcapturingtool:mob_capturing_tool"
+						tag: { }
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "0EADEB77CA2E8C09"
+					item: "minecraft:bundle"
+					type: "item"
+				}
+			]
 			tasks: [{
 				icon: "alexsmobs:spawn_egg_mimic_octopus"
 				id: "1AB8B8F4CD9EEDA8"
@@ -886,11 +893,18 @@
 			hide: true
 			icon: "minecraft:cherry_sapling"
 			id: "0EABDA42EA87C46C"
-			rewards: [{
-				id: "5EFF7EE1E4FA051F"
-				item: "paraglider:paraglider"
-				type: "item"
-			}]
+			rewards: [
+				{
+					id: "5EFF7EE1E4FA051F"
+					item: "paraglider:paraglider"
+					type: "item"
+				}
+				{
+					id: "46129DD67CD55B1C"
+					item: "minecraft:bundle"
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "512D2BAECBD98AAE"
 				item: {
@@ -1530,13 +1544,19 @@
 			hide: true
 			icon: "aquaculture:tackle_box"
 			id: "20D49BB4FC20F70F"
-			rewards: [{
-				auto: "invisible"
-				count: 2
-				id: "69BEBA202EC74771"
-				item: "kubejs:miles_ticket"
-				type: "item"
-			}]
+			rewards: [
+				{
+					count: 2
+					id: "69BEBA202EC74771"
+					item: "kubejs:miles_ticket"
+					type: "item"
+				}
+				{
+					id: "607D07051948618E"
+					item: "minecraft:bell"
+					type: "item"
+				}
+			]
 			tasks: [
 				{
 					id: "0DCC160967A2D44D"
