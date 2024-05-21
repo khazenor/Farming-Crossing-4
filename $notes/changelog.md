@@ -1,10 +1,18 @@
-# 4.1.8
+# 4.1.9
 ## Mods Revmoved:
 - oculusparticlefix
 ## Mods Updated:
 - oculus
 - embeddium
 - radiantgear
+## Mods Added:
+- astikorcarts
+- blueprint
+- endersdelight
+- mes
+- passiveendermen
+- phantasm
+- TheOuterEnd
 # 4.1.8:
 ## Mod Added:
 - effortlessbuilding
