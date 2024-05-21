@@ -1,3 +1,9 @@
+# 4.1.8
+## Mods Revmoved:
+- oculusparticlefix
+## Mods Updated:
+- oculus
+- embeddium
 # 4.1.8:
 ## Mod Added:
 - effortlessbuilding
@@ -11,7 +17,7 @@
 - Tea leaves are no longer classified as hot or wet foods under the diet system.
 - Remove legacy tip for the diet mod that is no longer included in this pack
 ## Server Pack Link:
-- https://www.dropbox.com/scl/fi/8bhtp4b1990cahappy78d/Farming-Crossing-4-4.1.8.zip?rlkey=hrfij8vysa3s70t8dqkd3ivm9&dl=0
+- https://www.dropbox.com/scl/fi/0h6ucfynke03oyalg2nt3/Farming-Crossing-4-Server-v4.1.8.zip?rlkey=iihxptlmrqffd7yjttybuzoqs&dl=0
 # 4.1.7:
 ## Mods Updated:
 - Simple Hats

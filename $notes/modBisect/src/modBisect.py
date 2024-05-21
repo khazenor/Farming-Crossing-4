@@ -8,22 +8,24 @@ disabledStr = '.disabled'
 fileGroupingCacheFilename = 'fileGroupings.json'
 badGroupOnesCacheFilename = 'badGroupOnes.json'
 
-def modBisect(excludeModIdList=[]):
+def modBisect(alwaysEnabledModIdList=[]):
 	allFileGroups = fileGroupings.getFileGroupings()
 
-	goodGroups = fileGroupsWithSubstrings(excludeModIdList, allFileGroups)
-	mysteryGroups = listSubtract(allFileGroups, goodGroups)
-	test(goodGroups, mysteryGroups)
+	enabledGroups = fileGroupsWithSubstrings(alwaysEnabledModIdList, allFileGroups)
+	if len(enabledGroups) > 0:
+		print('always enabled groups:', enabledGroups)
+	mysteryGroups = listSubtract(allFileGroups, enabledGroups)
+	test([], mysteryGroups, .5)
 	enableGroups(allFileGroups)
 
-def test(goodGroups, mysteryGroups):
+def test(goodGroups, mysteryGroups, splitRatio):
 	if len(mysteryGroups) > 1:
 		badGroupOnes = []
 		if os.path.exists(badGroupOnesCacheFilename):
 			badGroupOnes = json.load(open(badGroupOnesCacheFilename, 'r'))
-		group1, group2 = splitListRandom(mysteryGroups)
+		group1, group2 = splitListRandom(mysteryGroups, splitRatio)
 		while group1 in badGroupOnes:
-			group1, group2 = splitListRandom(mysteryGroups)
+			group1, group2 = splitListRandom(mysteryGroups, splitRatio)
 		# test group 1
 		print(f"Group1: ")
 		disableAndEnableMods(group2, goodGroups, group1)
@@ -36,10 +38,10 @@ def test(goodGroups, mysteryGroups):
 			if firstHalfResponse == 'bad':
 				badGroupOnes.append(group1)
 				json.dump(badGroupOnes, open(badGroupOnesCacheFilename, 'w'), indent=2)
-				test(goodGroups, mysteryGroups)
+				test(goodGroups, mysteryGroups, .5)
 
 			if firstHalfResponse == 'reroll':
-				test(goodGroups, mysteryGroups)
+				test(goodGroups, mysteryGroups, .5)
 
 		if firstHalfResponse == 'yes':
 			# goodGroups += group1
@@ -57,11 +59,29 @@ def test(goodGroups, mysteryGroups):
 
 			if secondHalfResponse == 'yes':
 				print("Can't find issue, both split parts are issue free, trying again with different split")
-				test(goodGroups, mysteryGroups)
+				test(goodGroups, mysteryGroups, splitRatio + .1)
 			else:
-				test(goodGroups, group2)
+				test(goodGroups, group2, .5)
 		else:
-			test(goodGroups, group1)
+			# first halp response is no
+			# goodGroups += group1
+			# test group 2
+			print("Group2: (first half fail)")
+			disableAndEnableMods(group1, goodGroups, group2)
+			secondHalfResponse = ''
+			while secondHalfResponse != 'yes' and secondHalfResponse != 'no':
+				secondHalfResponse = askIfFeatureIsWorking()
+				if secondHalfResponse == 'quit':
+					return
+				if secondHalfResponse == 'reroll':
+					print('cannot resole on group 2')
+					secondHalfResponse = askIfFeatureIsWorking()
+
+			if secondHalfResponse == 'no':
+				print("Both split parts have issues, trying again with different split")
+				test(goodGroups, mysteryGroups, splitRatio - .1)
+			else:
+				test(goodGroups, group1, .5)
 	else:
 		print(f"Found Problem Mod Group: {mysteryGroups[0]}")
 
@@ -123,7 +143,7 @@ def enableMods(filenames):
 				srcDir = modDir+disabledStr
 			os.rename(srcDir, modDir.replace(disabledStr, ""))
 
-def splitListRandom(targetList):
+def splitListRandom(targetList, splitRatio):
 	group1 = []
 	group2 = []
 
@@ -132,6 +152,12 @@ def splitListRandom(targetList):
 			group1.append(group)
 		else:
 			group2.append(group)
+	targetGroup1Len = int(len(targetList) * splitRatio)
+	while len(group1) > targetGroup1Len:
+		group2.append(group1.pop(0))
+	while len(group1) < targetGroup1Len:
+		group1.append(group2.pop(0))
+
 	if len(group1) == 0 or len(group2) == 0:
 		return splitListRandom(targetList)
 
