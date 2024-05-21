@@ -4,6 +4,7 @@
 ## Mods Updated:
 - oculus
 - embeddium
+- radiantgear
 # 4.1.8:
 ## Mod Added:
 - effortlessbuilding
