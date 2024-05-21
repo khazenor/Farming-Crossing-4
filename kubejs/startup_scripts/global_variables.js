@@ -19,6 +19,7 @@ global.foodClassificationNames = {
 }
 global.foodClassifications = {
   fcSweetFoodsEatenCount: [
+    'bakery:pudding_slice',
     'bakery:apple_pie_slice',
     'bakery:glowberry_pie_slice',
     'create_central_kitchen:cherry_pie_slice',
@@ -1143,7 +1144,6 @@ global.foodClassifications = {
     'aquaculturedelight:small_turtle_meat',
     'aquaculturedelight:tuna_spaghetti',
     'aquaculturedelight:turtle_meat_dish',
-    'bakery:pudding_slice',
     'pamhc2foodextended:ricepuddingitem',
     'pamhc2foodextended:yorkshirepuddingitem',
     'alexsdelight:bunfungus_sandwich',
@@ -3219,7 +3219,6 @@ global.foodClassifications = {
     'bakery:misslilitu_biscuit',
     'bakery:oat',
     'bakery:pudding_slice',
-    'bakery:strawberry',
     'bakery:strawberry_glazed_cookie',
     'bakery:sweetberry_glazed_cookie',
     'bakery:toast',
@@ -3835,7 +3834,6 @@ global.foodClassifications = {
     'bakery:misslilitu_biscuit',
     'bakery:oat',
     'bakery:pudding_slice',
-    'bakery:strawberry',
     'bakery:strawberry_cake_slice',
     'bakery:strawberry_cupcake',
     'bakery:strawberry_glazed_cookie',

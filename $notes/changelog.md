@@ -13,6 +13,8 @@
 - passiveendermen
 - phantasm
 - TheOuterEnd
+## Config changes
+- Diet classification fixes for pudding and strawberries
 # 4.1.8:
 ## Mod Added:
 - effortlessbuilding
