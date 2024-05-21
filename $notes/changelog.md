@@ -15,6 +15,7 @@
 - TheOuterEnd
 ## Config changes
 - Diet classification fixes for pudding and strawberries
+- Coarse dirt now duplicable with tickets
 # 4.1.8:
 ## Mod Added:
 - effortlessbuilding
