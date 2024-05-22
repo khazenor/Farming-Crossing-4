@@ -14,6 +14,7 @@
 - phantasm
 - TheOuterEnd
 ## Config changes
+- Cherry logs and planks can now be converted to other furniture with the stonecutter and the sawmill
 - Diet classification fixes for pudding and strawberries
 - Coarse dirt now duplicable with tickets
 - Exotic bird eggs are now useable for more egg recipes

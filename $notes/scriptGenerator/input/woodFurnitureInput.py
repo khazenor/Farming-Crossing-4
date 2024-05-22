@@ -28,6 +28,12 @@ woodTypesInfo = [
     translationKey: [ "birch", "abedul" ]
   },
   {
+    woodKey: 'cherry',
+    contentKey: ["minecraft:cherry_log"],
+    plankContentKey: ['minecraft:cherry_planks'],
+    translationKey: [ "cherry", "cerezo" ]
+  }, 
+  {
     woodKey: 'dark_oak',
     contentKey: ["minecraft:dark_oak_log"],
     plankContentKey: ['minecraft:dark_oak_planks'],

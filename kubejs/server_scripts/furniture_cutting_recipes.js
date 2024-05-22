@@ -1581,6 +1581,734 @@ ServerEvents.recipes(event => {
     result:"mcwfurnitures:stripped_birch_wardrobe",
     count:1
   })
+  event.stonecutting('minecraft:cherry_log', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"minecraft:cherry_log",
+    count:1
+  })
+  event.stonecutting('candlelight:cherry_big_table', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"candlelight:cherry_big_table",
+    count:1
+  })
+  event.stonecutting('candlelight:cherry_cabinet', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"candlelight:cherry_cabinet",
+    count:1
+  })
+  event.stonecutting('candlelight:cherry_chair', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"candlelight:cherry_chair",
+    count:1
+  })
+  event.stonecutting('candlelight:cherry_drawer', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"candlelight:cherry_drawer",
+    count:1
+  })
+  event.stonecutting('candlelight:cherry_shelf', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"candlelight:cherry_shelf",
+    count:1
+  })
+  event.stonecutting('candlelight:cherry_table', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"candlelight:cherry_table",
+    count:1
+  })
+  event.stonecutting('handcrafted:cherry_bench', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"handcrafted:cherry_bench",
+    count:1
+  })
+  event.stonecutting('handcrafted:cherry_chair', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"handcrafted:cherry_chair",
+    count:1
+  })
+  event.stonecutting('handcrafted:cherry_corner_trim', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"handcrafted:cherry_corner_trim",
+    count:1
+  })
+  event.stonecutting('handcrafted:cherry_couch', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"handcrafted:cherry_couch",
+    count:1
+  })
+  event.stonecutting('handcrafted:cherry_counter', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"handcrafted:cherry_counter",
+    count:1
+  })
+  event.stonecutting('handcrafted:cherry_cupboard', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"handcrafted:cherry_cupboard",
+    count:1
+  })
+  event.stonecutting('handcrafted:cherry_desk', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"handcrafted:cherry_desk",
+    count:1
+  })
+  event.stonecutting('handcrafted:cherry_dining_bench', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"handcrafted:cherry_dining_bench",
+    count:1
+  })
+  event.stonecutting('handcrafted:cherry_drawer', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"handcrafted:cherry_drawer",
+    count:1
+  })
+  event.stonecutting('handcrafted:cherry_fancy_bed', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"handcrafted:cherry_fancy_bed",
+    count:1
+  })
+  event.stonecutting('handcrafted:cherry_nightstand', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"handcrafted:cherry_nightstand",
+    count:1
+  })
+  event.stonecutting('handcrafted:cherry_pillar_trim', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"handcrafted:cherry_pillar_trim",
+    count:1
+  })
+  event.stonecutting('handcrafted:cherry_shelf', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"handcrafted:cherry_shelf",
+    count:1
+  })
+  event.stonecutting('handcrafted:cherry_side_table', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"handcrafted:cherry_side_table",
+    count:1
+  })
+  event.stonecutting('handcrafted:cherry_table', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"handcrafted:cherry_table",
+    count:1
+  })
+  event.stonecutting('vinery:cherry_beam', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"vinery:cherry_beam",
+    count:1
+  })
+  event.stonecutting('vinery:cherry_boat', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"vinery:cherry_boat",
+    count:1
+  })
+  event.stonecutting('vinery:cherry_button', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"vinery:cherry_button",
+    count:1
+  })
+  event.stonecutting('vinery:cherry_chest_boat', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"vinery:cherry_chest_boat",
+    count:1
+  })
+  event.stonecutting('vinery:cherry_slab', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"vinery:cherry_slab",
+    count:1
+  })
+  event.stonecutting('vinery:cherry_stairs', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"vinery:cherry_stairs",
+    count:1
+  })
+  event.stonecutting('vinery:cherry_wood', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"vinery:cherry_wood",
+    count:1
+  })
+  event.stonecutting('vinery:stripped_cherry_log', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"vinery:stripped_cherry_log",
+    count:1
+  })
+  event.stonecutting('vinery:stripped_cherry_wood', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"vinery:stripped_cherry_wood",
+    count:1
+  })
+  event.stonecutting('moa_decor_bath:bcerezo', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"moa_decor_bath:bcerezo",
+    count:1
+  })
+  event.stonecutting('moa_decor_bath:bcerezosc', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"moa_decor_bath:bcerezosc",
+    count:1
+  })
+  event.stonecutting('moa_decor_bath:lcerezo', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"moa_decor_bath:lcerezo",
+    count:1
+  })
+  event.stonecutting('moa_decor_bath:lcerezosc', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"moa_decor_bath:lcerezosc",
+    count:1
+  })
+  event.stonecutting('moa_decor_cookery:acerezo', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"moa_decor_cookery:acerezo",
+    count:1
+  })
+  event.stonecutting('moa_decor_cookery:acerezosc', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"moa_decor_cookery:acerezosc",
+    count:1
+  })
+  event.stonecutting('moa_decor_cookery:ccerezo', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"moa_decor_cookery:ccerezo",
+    count:1
+  })
+  event.stonecutting('moa_decor_cookery:ccerezosc', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"moa_decor_cookery:ccerezosc",
+    count:1
+  })
+  event.stonecutting('moa_decor_cookery:fcerezo', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"moa_decor_cookery:fcerezo",
+    count:1
+  })
+  event.stonecutting('moa_decor_cookery:fcerezosc', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"moa_decor_cookery:fcerezosc",
+    count:1
+  })
+  event.stonecutting('moa_decor_garden_:bancacerezo', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"moa_decor_garden_:bancacerezo",
+    count:1
+  })
+  event.stonecutting('moa_decor_garden_:camastrocerezo', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"moa_decor_garden_:camastrocerezo",
+    count:1
+  })
+  event.stonecutting('moa_decor_garden_:casa_mcerezo', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"moa_decor_garden_:casa_mcerezo",
+    count:1
+  })
+  event.stonecutting('moa_decor_garden_:casa_p_cerezo', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"moa_decor_garden_:casa_p_cerezo",
+    count:1
+  })
+  event.stonecutting('moa_decor_garden_:cerezo', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"moa_decor_garden_:cerezo",
+    count:1
+  })
+  event.stonecutting('moa_decor_garden_:m_pcerezo', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"moa_decor_garden_:m_pcerezo",
+    count:1
+  })
+  event.stonecutting('moa_decor_lights:vt_bcerezo', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"moa_decor_lights:vt_bcerezo",
+    count:1
+  })
+  event.stonecutting('moa_decor_lights:vt_dcerezo', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"moa_decor_lights:vt_dcerezo",
+    count:1
+  })
+  event.stonecutting('moa_decor_lights:vt_ncerezo', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"moa_decor_lights:vt_ncerezo",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:cherry_bookshelf', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:cherry_bookshelf",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:cherry_bookshelf_cupboard', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:cherry_bookshelf_cupboard",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:cherry_bookshelf_drawer', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:cherry_bookshelf_drawer",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:cherry_chair', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:cherry_chair",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:cherry_coffee_table', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:cherry_coffee_table",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:cherry_counter', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:cherry_counter",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:cherry_covered_desk', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:cherry_covered_desk",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:cherry_cupboard_counter', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:cherry_cupboard_counter",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:cherry_desk', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:cherry_desk",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:cherry_double_drawer', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:cherry_double_drawer",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:cherry_double_drawer_counter', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:cherry_double_drawer_counter",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:cherry_double_wardrobe', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:cherry_double_wardrobe",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:cherry_drawer', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:cherry_drawer",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:cherry_drawer_counter', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:cherry_drawer_counter",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:cherry_end_table', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:cherry_end_table",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:cherry_glass_table', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:cherry_glass_table",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:cherry_large_drawer', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:cherry_large_drawer",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:cherry_lower_bookshelf_drawer', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:cherry_lower_bookshelf_drawer",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:cherry_lower_triple_drawer', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:cherry_lower_triple_drawer",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:cherry_modern_chair', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:cherry_modern_chair",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:cherry_modern_desk', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:cherry_modern_desk",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:cherry_modern_wardrobe', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:cherry_modern_wardrobe",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:cherry_stool_chair', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:cherry_stool_chair",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:cherry_striped_chair', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:cherry_striped_chair",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:cherry_table', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:cherry_table",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:cherry_triple_drawer', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:cherry_triple_drawer",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:cherry_wardrobe', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:cherry_wardrobe",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:stripped_cherry_bookshelf', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:stripped_cherry_bookshelf",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:stripped_cherry_bookshelf_cupboard', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:stripped_cherry_bookshelf_cupboard",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:stripped_cherry_bookshelf_drawer', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:stripped_cherry_bookshelf_drawer",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:stripped_cherry_chair', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:stripped_cherry_chair",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:stripped_cherry_coffee_table', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:stripped_cherry_coffee_table",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:stripped_cherry_counter', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:stripped_cherry_counter",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:stripped_cherry_covered_desk', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:stripped_cherry_covered_desk",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:stripped_cherry_cupboard_counter', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:stripped_cherry_cupboard_counter",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:stripped_cherry_desk', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:stripped_cherry_desk",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:stripped_cherry_double_drawer', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:stripped_cherry_double_drawer",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:stripped_cherry_double_drawer_counter', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:stripped_cherry_double_drawer_counter",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:stripped_cherry_double_wardrobe', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:stripped_cherry_double_wardrobe",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:stripped_cherry_drawer', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:stripped_cherry_drawer",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:stripped_cherry_drawer_counter', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:stripped_cherry_drawer_counter",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:stripped_cherry_end_table', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:stripped_cherry_end_table",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:stripped_cherry_glass_table', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:stripped_cherry_glass_table",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:stripped_cherry_large_drawer', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:stripped_cherry_large_drawer",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:stripped_cherry_lower_bookshelf_drawer', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:stripped_cherry_lower_bookshelf_drawer",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:stripped_cherry_lower_triple_drawer', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:stripped_cherry_lower_triple_drawer",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:stripped_cherry_modern_chair', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:stripped_cherry_modern_chair",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:stripped_cherry_modern_desk', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:stripped_cherry_modern_desk",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:stripped_cherry_modern_wardrobe', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:stripped_cherry_modern_wardrobe",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:stripped_cherry_stool_chair', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:stripped_cherry_stool_chair",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:stripped_cherry_striped_chair', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:stripped_cherry_striped_chair",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:stripped_cherry_table', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:stripped_cherry_table",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:stripped_cherry_triple_drawer', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:stripped_cherry_triple_drawer",
+    count:1
+  })
+  event.stonecutting('mcwfurnitures:stripped_cherry_wardrobe', '#forge:furniture_cherry_log')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_log"},
+    result:"mcwfurnitures:stripped_cherry_wardrobe",
+    count:1
+  })
   event.stonecutting('minecraft:crimson_stem', '#forge:furniture_crimson_log')
   event.custom({
     type: "corail_woodcutter:woodcutting",
@@ -6080,6 +6808,594 @@ ServerEvents.recipes(event => {
     type: "corail_woodcutter:woodcutting",
     ingredient:{"tag":"forge:furniture_warped_log"},
     result:"mcwfurnitures:warped_wardrobe",
+    count:1
+  })
+  event.stonecutting('minecraft:cherry_planks', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"minecraft:cherry_planks",
+    count:1
+  })
+  event.stonecutting('vinery:cherry_fence', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"vinery:cherry_fence",
+    count:1
+  })
+  event.stonecutting('vinery:cherry_fence_gate', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"vinery:cherry_fence_gate",
+    count:1
+  })
+  event.stonecutting('mcwfences:cherry_hedge', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwfences:cherry_hedge",
+    count:1
+  })
+  event.stonecutting('mcwfences:cherry_highley_gate', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwfences:cherry_highley_gate",
+    count:1
+  })
+  event.stonecutting('mcwfences:cherry_horse_fence', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwfences:cherry_horse_fence",
+    count:1
+  })
+  event.stonecutting('mcwfences:cherry_picket_fence', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwfences:cherry_picket_fence",
+    count:1
+  })
+  event.stonecutting('mcwfences:cherry_pyramid_gate', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwfences:cherry_pyramid_gate",
+    count:1
+  })
+  event.stonecutting('mcwfences:cherry_stockade_fence', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwfences:cherry_stockade_fence",
+    count:1
+  })
+  event.stonecutting('mcwfences:cherry_wired_fence', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwfences:cherry_wired_fence",
+    count:1
+  })
+  event.stonecutting('mcwlights:cherry_tiki_torch', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwlights:cherry_tiki_torch",
+    count:1
+  })
+  event.stonecutting('mcwlights:soul_cherry_tiki_torch', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwlights:soul_cherry_tiki_torch",
+    count:1
+  })
+  event.stonecutting('mcwroofs:cherry_attic_roof', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwroofs:cherry_attic_roof",
+    count:1
+  })
+  event.stonecutting('mcwroofs:cherry_lower_roof', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwroofs:cherry_lower_roof",
+    count:1
+  })
+  event.stonecutting('mcwroofs:cherry_planks_attic_roof', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwroofs:cherry_planks_attic_roof",
+    count:1
+  })
+  event.stonecutting('mcwroofs:cherry_planks_lower_roof', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwroofs:cherry_planks_lower_roof",
+    count:1
+  })
+  event.stonecutting('mcwroofs:cherry_planks_roof', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwroofs:cherry_planks_roof",
+    count:1
+  })
+  event.stonecutting('mcwroofs:cherry_planks_steep_roof', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwroofs:cherry_planks_steep_roof",
+    count:1
+  })
+  event.stonecutting('mcwroofs:cherry_planks_top_roof', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwroofs:cherry_planks_top_roof",
+    count:1
+  })
+  event.stonecutting('mcwroofs:cherry_planks_upper_lower_roof', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwroofs:cherry_planks_upper_lower_roof",
+    count:1
+  })
+  event.stonecutting('mcwroofs:cherry_planks_upper_steep_roof', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwroofs:cherry_planks_upper_steep_roof",
+    count:1
+  })
+  event.stonecutting('mcwroofs:cherry_roof', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwroofs:cherry_roof",
+    count:1
+  })
+  event.stonecutting('mcwroofs:cherry_steep_roof', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwroofs:cherry_steep_roof",
+    count:1
+  })
+  event.stonecutting('mcwroofs:cherry_top_roof', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwroofs:cherry_top_roof",
+    count:1
+  })
+  event.stonecutting('mcwroofs:cherry_upper_lower_roof', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwroofs:cherry_upper_lower_roof",
+    count:1
+  })
+  event.stonecutting('mcwroofs:cherry_upper_steep_roof', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwroofs:cherry_upper_steep_roof",
+    count:1
+  })
+  event.stonecutting('mcwtrpdoors:cherry_bamboo_trapdoor', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwtrpdoors:cherry_bamboo_trapdoor",
+    count:1
+  })
+  event.stonecutting('mcwtrpdoors:cherry_bark_trapdoor', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwtrpdoors:cherry_bark_trapdoor",
+    count:1
+  })
+  event.stonecutting('mcwtrpdoors:cherry_barn_trapdoor', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwtrpdoors:cherry_barn_trapdoor",
+    count:1
+  })
+  event.stonecutting('mcwtrpdoors:cherry_barred_trapdoor', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwtrpdoors:cherry_barred_trapdoor",
+    count:1
+  })
+  event.stonecutting('mcwtrpdoors:cherry_barrel_trapdoor', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwtrpdoors:cherry_barrel_trapdoor",
+    count:1
+  })
+  event.stonecutting('mcwtrpdoors:cherry_beach_trapdoor', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwtrpdoors:cherry_beach_trapdoor",
+    count:1
+  })
+  event.stonecutting('mcwtrpdoors:cherry_classic_trapdoor', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwtrpdoors:cherry_classic_trapdoor",
+    count:1
+  })
+  event.stonecutting('mcwtrpdoors:cherry_cottage_trapdoor', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwtrpdoors:cherry_cottage_trapdoor",
+    count:1
+  })
+  event.stonecutting('mcwtrpdoors:cherry_four_panel_trapdoor', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwtrpdoors:cherry_four_panel_trapdoor",
+    count:1
+  })
+  event.stonecutting('mcwtrpdoors:cherry_glass_trapdoor', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwtrpdoors:cherry_glass_trapdoor",
+    count:1
+  })
+  event.stonecutting('mcwtrpdoors:cherry_mystic_trapdoor', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwtrpdoors:cherry_mystic_trapdoor",
+    count:1
+  })
+  event.stonecutting('mcwtrpdoors:cherry_paper_trapdoor', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwtrpdoors:cherry_paper_trapdoor",
+    count:1
+  })
+  event.stonecutting('mcwtrpdoors:cherry_ranch_trapdoor', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwtrpdoors:cherry_ranch_trapdoor",
+    count:1
+  })
+  event.stonecutting('mcwtrpdoors:cherry_swamp_trapdoor', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwtrpdoors:cherry_swamp_trapdoor",
+    count:1
+  })
+  event.stonecutting('mcwtrpdoors:cherry_tropical_trapdoor', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwtrpdoors:cherry_tropical_trapdoor",
+    count:1
+  })
+  event.stonecutting('mcwwindows:cherry_blinds', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwwindows:cherry_blinds",
+    count:1
+  })
+  event.stonecutting('mcwwindows:cherry_four_window', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwwindows:cherry_four_window",
+    count:1
+  })
+  event.stonecutting('mcwwindows:cherry_log_parapet', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwwindows:cherry_log_parapet",
+    count:1
+  })
+  event.stonecutting('mcwwindows:cherry_louvered_shutter', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwwindows:cherry_louvered_shutter",
+    count:1
+  })
+  event.stonecutting('mcwwindows:cherry_pane_window', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwwindows:cherry_pane_window",
+    count:1
+  })
+  event.stonecutting('mcwwindows:cherry_plank_four_window', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwwindows:cherry_plank_four_window",
+    count:1
+  })
+  event.stonecutting('mcwwindows:cherry_plank_pane_window', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwwindows:cherry_plank_pane_window",
+    count:1
+  })
+  event.stonecutting('mcwwindows:cherry_plank_parapet', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwwindows:cherry_plank_parapet",
+    count:1
+  })
+  event.stonecutting('mcwwindows:cherry_plank_window', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwwindows:cherry_plank_window",
+    count:1
+  })
+  event.stonecutting('mcwwindows:cherry_plank_window2', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwwindows:cherry_plank_window2",
+    count:1
+  })
+  event.stonecutting('mcwwindows:cherry_shutter', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwwindows:cherry_shutter",
+    count:1
+  })
+  event.stonecutting('mcwwindows:cherry_window', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwwindows:cherry_window",
+    count:1
+  })
+  event.stonecutting('mcwwindows:cherry_window2', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwwindows:cherry_window2",
+    count:1
+  })
+  event.stonecutting('mcwwindows:stripped_cherry_log_four_window', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwwindows:stripped_cherry_log_four_window",
+    count:1
+  })
+  event.stonecutting('mcwwindows:stripped_cherry_log_window', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwwindows:stripped_cherry_log_window",
+    count:1
+  })
+  event.stonecutting('mcwwindows:stripped_cherry_log_window2', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwwindows:stripped_cherry_log_window2",
+    count:1
+  })
+  event.stonecutting('mcwwindows:stripped_cherry_pane_window', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwwindows:stripped_cherry_pane_window",
+    count:1
+  })
+  event.stonecutting('mcwbridges:cherry_bridge_pier', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwbridges:cherry_bridge_pier",
+    count:1
+  })
+  event.stonecutting('mcwbridges:cherry_log_bridge_middle', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwbridges:cherry_log_bridge_middle",
+    count:1
+  })
+  event.stonecutting('mcwbridges:cherry_log_bridge_stair', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwbridges:cherry_log_bridge_stair",
+    count:1
+  })
+  event.stonecutting('mcwbridges:cherry_rail_bridge', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwbridges:cherry_rail_bridge",
+    count:1
+  })
+  event.stonecutting('mcwbridges:cherry_rope_bridge_stair', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwbridges:cherry_rope_bridge_stair",
+    count:1
+  })
+  event.stonecutting('mcwbridges:rope_cherry_bridge', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwbridges:rope_cherry_bridge",
+    count:1
+  })
+  event.stonecutting('mcwdoors:cherry_bamboo_door', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwdoors:cherry_bamboo_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:cherry_bark_glass_door', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwdoors:cherry_bark_glass_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:cherry_barn_door', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwdoors:cherry_barn_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:cherry_barn_glass_door', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwdoors:cherry_barn_glass_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:cherry_beach_door', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwdoors:cherry_beach_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:cherry_classic_door', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwdoors:cherry_classic_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:cherry_cottage_door', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwdoors:cherry_cottage_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:cherry_four_panel_door', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwdoors:cherry_four_panel_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:cherry_glass_door', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwdoors:cherry_glass_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:cherry_japanese_door', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwdoors:cherry_japanese_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:cherry_japanese2_door', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwdoors:cherry_japanese2_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:cherry_modern_door', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwdoors:cherry_modern_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:cherry_mystic_door', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwdoors:cherry_mystic_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:cherry_nether_door', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwdoors:cherry_nether_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:cherry_paper_door', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwdoors:cherry_paper_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:cherry_stable_door', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwdoors:cherry_stable_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:cherry_stable_head_door', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwdoors:cherry_stable_head_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:cherry_swamp_door', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwdoors:cherry_swamp_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:cherry_tropical_door', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwdoors:cherry_tropical_door",
+    count:1
+  })
+  event.stonecutting('mcwdoors:cherry_western_door', '#forge:furniture_cherry_planks')
+  event.custom({
+    type: "corail_woodcutter:woodcutting",
+    ingredient:{"tag":"forge:furniture_cherry_planks"},
+    result:"mcwdoors:cherry_western_door",
     count:1
   })
   event.stonecutting('biomesoplenty:dead_log', '#forge:furniture_dead_log')
@@ -10835,13 +12151,6 @@ ServerEvents.recipes(event => {
     result:"mcwtrpdoors:bamboo_tropical_trapdoor",
     count:1
   })
-  event.stonecutting('mcwtrpdoors:cherry_bamboo_trapdoor', '#forge:furniture_bamboo_planks')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_bamboo_planks"},
-    result:"mcwtrpdoors:cherry_bamboo_trapdoor",
-    count:1
-  })
   event.stonecutting('mcwtrpdoors:crimson_bamboo_trapdoor', '#forge:furniture_bamboo_planks')
   event.custom({
     type: "corail_woodcutter:woodcutting",
@@ -11050,13 +12359,6 @@ ServerEvents.recipes(event => {
     type: "corail_woodcutter:woodcutting",
     ingredient:{"tag":"forge:furniture_bamboo_planks"},
     result:"mcwdoors:bamboo_western_door",
-    count:1
-  })
-  event.stonecutting('mcwdoors:cherry_bamboo_door', '#forge:furniture_bamboo_planks')
-  event.custom({
-    type: "corail_woodcutter:woodcutting",
-    ingredient:{"tag":"forge:furniture_bamboo_planks"},
-    result:"mcwdoors:cherry_bamboo_door",
     count:1
   })
   event.stonecutting('mcwdoors:crimson_bamboo_door', '#forge:furniture_bamboo_planks')
