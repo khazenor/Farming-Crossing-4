@@ -1,0 +1,37 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "minecraft:torchflower"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "minecraft:torchflower"
+  },
+  "categories": [
+    "dirt",
+    "farmland"
+  ],
+  "growthTicks": 2000,
+  "display": {
+    "type": "botanypots:aging",
+    "block": "minecraft:torchflower"
+  },
+  "drops": [
+    {
+      "chance": 1.0,
+      "output": {
+        "item": "minecraft:torchflower"
+      }
+    },
+    {
+      "chance": 0.01,
+      "output": {
+        "item": "minecraft:torchflower"
+      }
+    }
+  ]
+}

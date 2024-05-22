@@ -1,0 +1,37 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "biomesoplenty:waterlily"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "biomesoplenty:waterlily"
+  },
+  "categories": [
+    "dirt",
+    "farmland"
+  ],
+  "growthTicks": 2000,
+  "display": {
+    "type": "botanypots:aging",
+    "block": "biomesoplenty:waterlily"
+  },
+  "drops": [
+    {
+      "chance": 1.0,
+      "output": {
+        "item": "biomesoplenty:waterlily"
+      }
+    },
+    {
+      "chance": 0.01,
+      "output": {
+        "item": "biomesoplenty:waterlily"
+      }
+    }
+  ]
+}

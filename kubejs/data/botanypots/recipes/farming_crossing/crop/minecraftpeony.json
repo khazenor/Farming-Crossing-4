@@ -1,0 +1,37 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "minecraft:peony"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "minecraft:peony"
+  },
+  "categories": [
+    "dirt",
+    "farmland"
+  ],
+  "growthTicks": 2000,
+  "display": {
+    "type": "botanypots:aging",
+    "block": "minecraft:peony"
+  },
+  "drops": [
+    {
+      "chance": 1.0,
+      "output": {
+        "item": "minecraft:peony"
+      }
+    },
+    {
+      "chance": 0.01,
+      "output": {
+        "item": "minecraft:peony"
+      }
+    }
+  ]
+}

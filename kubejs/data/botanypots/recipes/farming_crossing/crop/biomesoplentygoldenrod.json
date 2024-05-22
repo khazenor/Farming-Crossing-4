@@ -1,0 +1,37 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "biomesoplenty:goldenrod"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "biomesoplenty:goldenrod"
+  },
+  "categories": [
+    "dirt",
+    "farmland"
+  ],
+  "growthTicks": 2000,
+  "display": {
+    "type": "botanypots:aging",
+    "block": "biomesoplenty:goldenrod"
+  },
+  "drops": [
+    {
+      "chance": 1.0,
+      "output": {
+        "item": "biomesoplenty:goldenrod"
+      }
+    },
+    {
+      "chance": 0.01,
+      "output": {
+        "item": "biomesoplenty:goldenrod"
+      }
+    }
+  ]
+}

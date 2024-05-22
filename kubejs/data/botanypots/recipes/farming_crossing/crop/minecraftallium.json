@@ -1,0 +1,37 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "minecraft:allium"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "minecraft:allium"
+  },
+  "categories": [
+    "dirt",
+    "farmland"
+  ],
+  "growthTicks": 2000,
+  "display": {
+    "type": "botanypots:aging",
+    "block": "minecraft:allium"
+  },
+  "drops": [
+    {
+      "chance": 1.0,
+      "output": {
+        "item": "minecraft:allium"
+      }
+    },
+    {
+      "chance": 0.01,
+      "output": {
+        "item": "minecraft:allium"
+      }
+    }
+  ]
+}

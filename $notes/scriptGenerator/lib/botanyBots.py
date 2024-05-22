@@ -5,17 +5,17 @@ from lib import stringCleaning
 
 exportFolder = os.path.join(const.kubejs(), 'data', 'botanypots', 'recipes', 'farming_crossing', 'crop')
 
-def writeSeedJson(seedId, cropId, blockId):
+def writeSeedJson(seedId, cropId, blockId, growthTicks = 20000):
 	filename = stringCleaning.cleanedNameStr(seedId)
 	if not os.path.exists(exportFolder):
 		os.makedirs(exportFolder)
 	json.dump(
-		defaultSeedDict(seedId, cropId, blockId),
+		defaultSeedDict(seedId, cropId, blockId, growthTicks),
 		open(os.path.join(exportFolder, filename + ".json"), 'w'),
 		indent=2
 	)
 
-def defaultSeedDict(seedId, cropId, blockId):
+def defaultSeedDict(seedId, cropId, blockId, growthTicks = 20000):
 	return {
 		"bookshelf:load_conditions": [
 			{
@@ -33,7 +33,7 @@ def defaultSeedDict(seedId, cropId, blockId):
 			"dirt",
 			"farmland"
 		],
-		"growthTicks": 20000,
+		"growthTicks": growthTicks,
 		"display": {
 			"type": "botanypots:aging",
 			"block": blockId

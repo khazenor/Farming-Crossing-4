@@ -413,6 +413,53 @@ otherCrops = [
   }
 ]
 
+flowers = [
+	'minecraft:allium',
+	'minecraft:azure_bluet',
+	'biomesoplenty:blue_hydrangea',
+	'minecraft:blue_orchid',
+	'biomesoplenty:burning_blossom',
+	'minecraft:cherry_leaves',
+	'minecraft:cornflower',
+	'minecraft:dandelion',
+	'minecraft:flowering_azalea',
+	'minecraft:flowering_azalea_leaves',
+	'biomesoplenty:flowering_oak_leaves',
+	'biomesoplenty:glowflower',
+	'biomesoplenty:goldenrod',
+	'biomesoplenty:icy_iris',
+	'biomesoplenty:jacaranda_leaves',
+	'biomesoplenty:lavender',
+	'minecraft:lilac',
+	'minecraft:lily_of_the_valley',
+	'minecraft:mangrove_propagule',
+	'biomesoplenty:orange_cosmos',
+	'minecraft:orange_tulip',
+	'minecraft:oxeye_daisy',
+	'minecraft:peony',
+	'biomesoplenty:pink_daffodil',
+	'biomesoplenty:pink_hibiscus',
+	'minecraft:pink_petals',
+	'minecraft:pink_tulip',
+	'minecraft:pitcher_plant',
+	'minecraft:poppy',
+	'minecraft:red_tulip',
+	'biomesoplenty:rose',
+	'candlelight:rose',
+	'minecraft:rose_bush',
+	'biomesoplenty:snowblossom_leaves',
+	'minecraft:sunflower',
+	'biomesoplenty:tall_lavender',
+	'minecraft:torchflower',
+	'biomesoplenty:violet',
+	'biomesoplenty:waterlily',
+	'biomesoplenty:white_petals',
+	'minecraft:white_tulip',
+	'supplementaries:wild_flax',
+	'biomesoplenty:wildflower',
+	'biomesoplenty:wilted_lily'
+]
+
 def genBotanySeedSupport():
 	for seedList in [seedSupports, hcFruits, otherCrops]:
 		for seedSupport in seedList:
@@ -421,3 +468,7 @@ def genBotanySeedSupport():
 				seedSupport[cropKey],
 				seedSupport[blockKey]
 			)
+	for flower in flowers:
+		botanyBots.writeSeedJson(
+			flower, flower, flower, growthTicks=2000
+    )

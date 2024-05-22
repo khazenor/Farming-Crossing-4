@@ -1,0 +1,37 @@
+{
+  "bookshelf:load_conditions": [
+    {
+      "type": "bookshelf:item_exists",
+      "values": [
+        "biomesoplenty:burning_blossom"
+      ]
+    }
+  ],
+  "type": "botanypots:crop",
+  "seed": {
+    "item": "biomesoplenty:burning_blossom"
+  },
+  "categories": [
+    "dirt",
+    "farmland"
+  ],
+  "growthTicks": 2000,
+  "display": {
+    "type": "botanypots:aging",
+    "block": "biomesoplenty:burning_blossom"
+  },
+  "drops": [
+    {
+      "chance": 1.0,
+      "output": {
+        "item": "biomesoplenty:burning_blossom"
+      }
+    },
+    {
+      "chance": 0.01,
+      "output": {
+        "item": "biomesoplenty:burning_blossom"
+      }
+    }
+  ]
+}
