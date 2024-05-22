@@ -16,6 +16,7 @@
 ## Config changes
 - Diet classification fixes for pudding and strawberries
 - Coarse dirt now duplicable with tickets
+- Exotic bird eggs are now useable for more egg recipes
 # 4.1.8:
 ## Mod Added:
 - effortlessbuilding
