@@ -13,12 +13,13 @@
 - passiveendermen
 - phantasm
 - TheOuterEnd
+- extendedgears
 ## Config changes
+- Minecraft flowers now grow faster in botany pots and many modded flowers are now growable in botany
 - Cherry logs and planks can now be converted to other furniture with the stonecutter and the sawmill
 - Diet classification fixes for pudding and strawberries
 - Coarse dirt now duplicable with tickets
-- Exotic bird eggs are now useable for more egg recipes
-- Minecraft flowers now grow faster in botany pots and many modded flowers are now growable in botany pots
+- Exotic bird eggs are now useable for more egg recipes pots
 # 4.1.8:
 ## Mod Added:
 - effortlessbuilding
