@@ -1,5 +1,15 @@
+# 4.1.10:
+## Mods Updated:
+- betterfpsdist
+## Mods Downgraded:
+- embeddium
+- oculus
+## Mods Added:
+- oculusparticlefix
+## Notes:
+- This should fix the piglins being invisible issue
 # 4.1.9
-## Mods Revmoved:
+## Mods Removed:
 - oculusparticlefix
 ## Mods Updated:
 - oculus
