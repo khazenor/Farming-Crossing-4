@@ -1,3 +1,6 @@
+update all villagers of a name:
+/execute at @e[type=ssls_npc_maker_mod:npc, name=testing4] run data modify entity @e[sort=nearest, limit=1] CustomName set value "{\"text\":\"newname\"}"
+
 event.server.persistentData
 e.player.potionEffects.add('minecraft:regeneration', 200, 0, false, false)
 

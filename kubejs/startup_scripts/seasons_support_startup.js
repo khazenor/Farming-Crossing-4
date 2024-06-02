@@ -1,12 +1,13 @@
 const SeasonHelper = Java.loadClass("sereneseasons.api.season.SeasonHelper")
 const Season = Java.loadClass("sereneseasons.api.season.Season")
-const villagers = [
-  'andre',
-  'laly',
-  'pamela',
-  'ren',
-  'sam',
-  'yukkie'
+
+global.fc4Villagers = [
+  { id: 'andre', name: 'Andre' },
+  { id: 'laly', name: 'Laly' },
+  { id: 'pamela', name: 'Pamela' },
+  { id: 'ren', name: 'Ren' },
+  { id: 'sam', name: 'Sam' },
+  { id: 'yukkie', name: 'Yukkie' }
 ]
 const seasonName = (seasonObj) => {
   if (seasonObj == Season.SPRING) {
@@ -33,23 +34,31 @@ const isDryWet = (seasonObj) => {
     return false
   }
 }
-let season
 
 ForgeEvents.onEvent('sereneseasons.api.season.SeasonChangedEvent', event => {
-  const seasonObj = event.getNewSeason()
-  if (!isDryWet(seasonObj)) {
-    season = seasonName(seasonObj.getSeason())
-    event.getLevel().tell(`The season is now ${season}`)
-    for (const player of event.getLevel().players) {
-      updateVillagerAroundPlayer(player)
-    }
-  }
+  let seasonObj = event.getNewSeason()
+  let server = event.getLevel().server
+  updateAllVillagerTrades(server, seasonObj)
 })
 
-const updateVillagerAroundPlayer = (player) => {
-  for (const villager of villagers) {
-    player.getServer().runCommandSilent(
-      `execute at @p run function fc_villagers:${villager}_update_trades_${season}`
-    )
+const updateAllVillagerTrades = (server, seasonObj) => {
+  if (!isDryWet(seasonObj)) {
+    let season = seasonName(seasonObj.getSeason())
+    for (let villager of global.fc4Villagers) {
+      server.runCommandSilent(
+        global.updateVillagerCommand('e', villager.name, villager, season)
+      )
+    }
+    for (let player of server.players) {
+      player.tell(`The season is now ${season}`)
+    }
   }
-} 
+}
+
+global.updateVillagerCommand = (targetSelector, name, villager, season) => {
+  return `execute at @${targetSelector}[name=${name}] run function fc_villagers:${villager.id}_update_trades_${season}`
+}
+
+global.getSeasonFromLevel = (level) => {
+  return seasonName(SeasonHelper.getSeasonState(level).getSeason())
+}

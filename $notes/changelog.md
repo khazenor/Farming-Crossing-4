@@ -1,3 +1,6 @@
+# 4.1.11:
+## Config changes
+- Reworked how Farming Crossing 4 npc's trades are updated with the seasons.  Hopefully this would address the issue with the npc's trades not updating properly for the seaons.
 # 4.1.10:
 ## Mods Updated:
 - betterfpsdist
@@ -6,7 +9,7 @@
 - oculus
 ## Mods Added:
 - oculusparticlefix
-## Notes:
+## Note:
 - This should fix the piglins being invisible issue
 # 4.1.9
 ## Mods Removed:

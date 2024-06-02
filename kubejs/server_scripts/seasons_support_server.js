@@ -1,14 +1,3 @@
-const SeasonHelper = Java.loadClass("sereneseasons.api.season.SeasonHelper")
-const Season = Java.loadClass("sereneseasons.api.season.Season")
-const villagers = [
-  'andre',
-  'laly',
-  'pamela',
-  'ren',
-  'sam',
-  'yukkie'
-]
-
 ItemEvents.rightClicked('sereneseasons:calendar', event => {
   updateVillagerAroundPlayer(
     'Trades for nearby farming crossing villagers are now updated for',
@@ -22,11 +11,11 @@ PlayerEvents.loggedIn(event => {
 
 const updateVillagerAroundPlayer = (noticeMsg, player) => {
   const level = player.level
-  const season = global.getSeasonFromLevel(level)
+  let season = global.getSeasonFromLevel(level)
   player.tell(`${noticeMsg} ${season}`)
-  for (const villager of villagers) {
+  for (const villager of global.fc4Villagers) {
     player.getServer().runCommandSilent(
-      `execute at @p run function fc_villagers:${villager}_update_trades_${season}`
+      global.updateVillagerCommand('p', player.username, villager, season)
     )
   }
 } 

@@ -4302,20 +4302,3 @@ global.foodClassifications = {
     'pamhc2foodextended:eggnogitem'
   ]
 }
-
-
-global.getSeasonFromLevel = (level) => {
-  return seasonName(SeasonHelper.getSeasonState(level).getSeason())
-}
-
-global.seasonName = (seasonObj) => {
-  if (seasonObj == Season.SPRING) {
-    return 'spring'
-  } else if (seasonObj == Season.SUMMER) {
-    return 'summer'
-  } else if (seasonObj == Season.AUTUMN) {
-    return 'fall'
-  } else {
-    return 'winter'
-  }
-}
