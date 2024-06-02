@@ -5,5 +5,5 @@ tellraw @p ["", {"text":"Flora Compendium ("}, {"score":{"name":"@p","objective"
 tellraw @p ["", {"text":"Mineral Museum ("}, {"score":{"name":"@p","objective":"mineral_museum"}}, {"text":"/79)"}]
 tellraw @p ["", {"text":"Common Decorations ("}, {"score":{"name":"@p","objective":"common_decorations"}}, {"text":"/468)"}]
 tellraw @p ["", {"text":"Rare Decorations ("}, {"score":{"name":"@p","objective":"rare_decorations"}}, {"text":"/74)"}]
-tellraw @p ["", {"text":"Hat Collection ("}, {"score":{"name":"@p","objective":"hat_collection"}}, {"text":"/234)"}]
+tellraw @p ["", {"text":"Hat Collection ("}, {"score":{"name":"@p","objective":"hat_collection"}}, {"text":"/238)"}]
 tellraw @p ["", {"text":"Clothing Collection ("}, {"score":{"name":"@p","objective":"clothing_collection"}}, {"text":"/271)"}]

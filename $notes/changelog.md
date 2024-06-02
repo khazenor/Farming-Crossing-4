@@ -2,6 +2,7 @@
 ## Config changes
 - Reworked how Farming Crossing 4 npc's trades are updated with the seasons.  Hopefully this would address the issue with the npc's trades not updating properly for the seasons.
 - Sam now also buys jellyfish, blob fish, flying fish, box turtle, and leeches with miles tickets
+- Added some missing hats to Bernina's shop, collection quests, and collection bundles in the market
 # 4.1.10:
 ## Mods Updated:
 - betterfpsdist

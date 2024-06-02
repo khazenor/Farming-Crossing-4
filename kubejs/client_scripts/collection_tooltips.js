@@ -1844,7 +1844,8 @@ ItemEvents.tooltip(event => {
       'simplehats:spiderweb', 
       'simplehats:festiveantlers', 
       'simplehats:dwarfminerbeard', 
-      'simplehats:dumhat'
+      'simplehats:dumhat', 
+      'simplehats:pog'
     ],
     [
       'Hat Collection', 
@@ -1970,6 +1971,7 @@ ItemEvents.tooltip(event => {
       'simplehats:circular_glasses', 
       'simplehats:lightning_eyes', 
       'simplehats:sleepeyemask', 
+      'simplehats:cucumbereyemask', 
       'simplehats:sport_sunglasses', 
       'simplehats:mistletoe', 
       'simplehats:grinchhat', 
@@ -1986,6 +1988,7 @@ ItemEvents.tooltip(event => {
       'simplehats:headbolts', 
       'simplehats:halo', 
       'simplehats:flowercrown', 
+      'simplehats:largehorns', 
       'simplehats:demonhorns', 
       'simplehats:cuphead', 
       'simplehats:carrotonstick', 
@@ -1995,7 +1998,8 @@ ItemEvents.tooltip(event => {
       'simplehats:rabi_en_rose', 
       'simplehats:antlers', 
       'simplehats:winghat', 
-      'simplehats:nekoears'
+      'simplehats:nekoears', 
+      'simplehats:shrekears'
     ],
     [
       'Hat Collection', 
