@@ -186,6 +186,10 @@
 				"-----"
 				""
 				"(This is a repeatable quest. In the event that this villager goes missing, you can resummon this villager by completing this quest again)"
+				""
+				"-----"
+				""
+				"The tetapot can be made with a water bottle or any kind of potion"
 			]
 			hide: true
 			icon: "minecraft:amethyst_block"
@@ -243,6 +247,7 @@
 					id: "0CAAF9056F623305"
 					replace: false
 					replaced: "minecraft:air"
+					title: "Place a Tetapot (Can be crafted with a water bottle or any potions)"
 					type: "questsadditions:place"
 					value: 1L
 				}
