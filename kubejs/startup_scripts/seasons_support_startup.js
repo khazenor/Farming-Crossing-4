@@ -46,7 +46,7 @@ const updateAllVillagerTrades = (server, seasonObj) => {
     let season = seasonName(seasonObj.getSeason())
     for (let villager of global.fc4Villagers) {
       server.runCommandSilent(
-        global.updateVillagerCommand('e', villager.name, villager, season)
+        global.updateVillagerCommand(`@e[name=${villager.name}, type=ssls_npc_maker_mod:npc]`, villager, season)
       )
     }
     for (let player of server.players) {
@@ -55,8 +55,8 @@ const updateAllVillagerTrades = (server, seasonObj) => {
   }
 }
 
-global.updateVillagerCommand = (targetSelector, name, villager, season) => {
-  return `execute at @${targetSelector}[name=${name}] run function fc_villagers:${villager.id}_update_trades_${season}`
+global.updateVillagerCommand = (targetSelector, villager, season) => {
+  return `execute at ${targetSelector} run function fc_villagers:${villager.id}_update_trades_${season}`
 }
 
 global.getSeasonFromLevel = (level) => {

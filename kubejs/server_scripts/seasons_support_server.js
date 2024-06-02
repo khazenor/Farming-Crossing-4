@@ -15,7 +15,7 @@ const updateVillagerAroundPlayer = (noticeMsg, player) => {
   player.tell(`${noticeMsg} ${season}`)
   for (const villager of global.fc4Villagers) {
     player.getServer().runCommandSilent(
-      global.updateVillagerCommand('p', player.username, villager, season)
+      global.updateVillagerCommand(`@p[name=${player.username}]`, villager, season)
     )
   }
 } 
