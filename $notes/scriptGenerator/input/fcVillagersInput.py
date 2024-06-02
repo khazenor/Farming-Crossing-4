@@ -204,7 +204,9 @@ villagers = [
     ],
     summerTradesKey: [
       { playerItems: ['aquaculture:piranha'], villagerNum: 2 },
+      { playerItems: ['aquaculture:leech'], villagerNum: 4},
       { playerItems: ['aquaculture:tambaqui'], villagerNum: 5},
+      { playerItems: ['aquaculture:box_turtle'], villagerNum: 6},
       {
         playerItems: [
           'aquaculture:capitaine',
@@ -227,8 +229,21 @@ villagers = [
     ],
     winterTradesKey: [
       { playerItems: ['aquaculture:atlantic_herring'], villagerNum: 2 },
-      { playerItems: ['aquaculture:blackfish'], villagerNum: 3 },
-      { playerItems: ['aquaculture:pollock'], villagerNum: 4 },
+      {
+        playerItems: [
+          'aquaculture:blackfish',
+          'alexsmobs:flying_fish',
+          'alexsmobs:blobfish'
+        ],
+        villagerNum: 3
+      },
+      {
+        playerItems: [
+          'aquaculture:pollock',
+          'aquaculture:jellyfish'
+        ],
+        villagerNum: 4
+      },
       {
         playerItems: [
           'aquaculture:atlantic_cod',

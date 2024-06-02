@@ -37,7 +37,9 @@ ItemEvents.tooltip(event => {
   event.add(
     [
       'aquaculture:piranha', 
+      'aquaculture:leech', 
       'aquaculture:tambaqui', 
+      'aquaculture:box_turtle', 
       'aquaculture:capitaine', 
       'aquaculture:arapaima'
     ],
@@ -60,7 +62,10 @@ ItemEvents.tooltip(event => {
     [
       'aquaculture:atlantic_herring', 
       'aquaculture:blackfish', 
+      'alexsmobs:flying_fish', 
+      'alexsmobs:blobfish', 
       'aquaculture:pollock', 
+      'aquaculture:jellyfish', 
       'aquaculture:atlantic_cod', 
       'aquaculture:pacific_halibut', 
       'aquaculture:atlantic_halibut', 
