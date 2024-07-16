@@ -15,28 +15,4 @@ ItemEvents.tooltip(event => {
   event.add('minecraft:green_candle', ["Enchant Influences: Thorns, Piercing"])
   event.add('minecraft:red_candle', ["Enchant Influences: Fire Aspect, Flame"])
   event.add('minecraft:black_candle', ["Enchant Influences: Smite, Projectile Protection"])
-
-  event.add([
-    "quark:black_corundum",
-    "quark:blue_corundum",
-    "quark:green_corundum",
-    "quark:indigo_corundum",
-    "quark:orange_corundum",
-    "quark:red_corundum",
-    "quark:violet_corundum",
-    "quark:white_corundum",
-    "quark:yellow_corundum",
-    "quark:black_corundum_cluster",
-    "quark:blue_corundum_cluster",
-    "quark:green_corundum_cluster",
-    "quark:indigo_corundum_cluster",
-    "quark:orange_corundum_cluster",
-    "quark:red_corundum_cluster",
-    "quark:violet_corundum_cluster",
-    "quark:white_corundum_cluster",
-    "quark:yellow_corundum_cluster"
-  ], [
-    "4 of any corundum can be crafted",
-    'to 1 Miles Ticket'
-  ])
 })

@@ -3,6 +3,7 @@
 - melon slices are now considered wet food
 - Yerba matte leaves now availabe in the Market and are now part of the collection quests
 - Animal tamer trades no longer allow for ticket exploit through trading cod
+- corundum and corundum clusters are now converted to dyes and quartz instead of miles tickets
 # 4.1.11:
 ## Config changes
 - Reworked how Farming Crossing 4 npc's trades are updated with the seasons.  Hopefully this would address the issue with the npc's trades not updating properly for the seasons.
