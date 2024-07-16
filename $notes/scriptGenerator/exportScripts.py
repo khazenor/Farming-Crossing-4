@@ -14,8 +14,10 @@ from src import botanyPotSeedSupport
 from src import tips
 from src import clothesAndDecoLootBags
 from src import letsDoVillagerTradeToTickets
+from src import villagerTradeOverride
 
 if __name__ == "__main__":
+	villagerTradeOverride.genVillagerTrades()
 	letsDoVillagerTradeToTickets.genVillagerTrades()
 	clothesAndDecoLootBags.genClothesAndDecoLootBagSupport()
 	tips.genTips()

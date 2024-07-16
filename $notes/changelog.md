@@ -2,6 +2,7 @@
 - Added a creative upgrade for 1000 tickets in the Market that allows you to upgrade some refined storage items to their creative counterparts.
 - melon slices are now considered wet food
 - Yerba matte leaves now availabe in the Market and are now part of the collection quests
+- Animal tamer trades no longer allow for ticket exploit through trading cod
 # 4.1.11:
 ## Config changes
 - Reworked how Farming Crossing 4 npc's trades are updated with the seasons.  Hopefully this would address the issue with the npc's trades not updating properly for the seasons.
