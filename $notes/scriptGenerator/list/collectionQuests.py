@@ -345,6 +345,7 @@ floraMiscFood = [
   "herbalbrews:tea_blossom",
   "herbalbrews:rooibos_leaf",
   "herbalbrews:coffee_beans",
+  'herbalbrews:yerba_mate_leaf',
   "brewery:hops_seeds",
   "brewery:barley_seeds",
   "brewery:corn_seeds"

@@ -1405,6 +1405,39 @@
 			dependencies: ["0EABDA42EA87C46C"]
 			disable_toast: true
 			hide: true
+			id: "1238E9B221B30FA1"
+			rewards: [
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "49AF7E7516385216"
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/function fc_collection:flora_compendium_moded_foods_completion"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "58F3EDE50975A201"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				id: "355F17F6A242BA42"
+				item: "herbalbrews:yerba_mate_leaf"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["0EABDA42EA87C46C"]
+			disable_toast: true
+			hide: true
 			id: "12EA69FC84ADB559"
 			rewards: [
 				{
@@ -1431,7 +1464,7 @@
 				item: "brewery:hops_seeds"
 				type: "item"
 			}]
-			x: 0.0d
+			x: 1.0d
 			y: 7.5d
 		}
 		{
@@ -1464,7 +1497,7 @@
 				item: "brewery:barley_seeds"
 				type: "item"
 			}]
-			x: 1.0d
+			x: 2.0d
 			y: 7.5d
 		}
 		{
@@ -1497,7 +1530,7 @@
 				item: "brewery:corn_seeds"
 				type: "item"
 			}]
-			x: 2.0d
+			x: 3.0d
 			y: 7.5d
 		}
 		{
@@ -1526,6 +1559,7 @@
 				"0DA89AE698C81D2D"
 				"37182AAF7E2890D3"
 				"4A286A2192E6E23A"
+				"1238E9B221B30FA1"
 				"12EA69FC84ADB559"
 				"1A458974EC21C3A5"
 				"2EEABF1E16EC61FE"
@@ -1533,7 +1567,7 @@
 			icon: "kubejs:miles_ticket"
 			id: "579E859E39D82F0B"
 			rewards: [{
-				count: 41
+				count: 43
 				id: "00C5010E975B315C"
 				item: "kubejs:miles_ticket"
 				type: "item"

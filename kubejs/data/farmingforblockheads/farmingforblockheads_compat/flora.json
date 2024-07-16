@@ -4289,6 +4289,17 @@
     },
     {
       "output": {
+        "item": "herbalbrews:yerba_mate_leaf",
+        "count": 4
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 32
+      },
+      "category": "flora"
+    },
+    {
+      "output": {
         "item": "brewery:hops_seeds",
         "count": 4
       },
