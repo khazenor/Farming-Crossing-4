@@ -88,6 +88,10 @@ categories = {
           "createaddition:alternator"
         ]
       },
+      { # Storage upgrade
+        priceKey: 1000,
+        itemsKey: ['kubejs:creative_upgrade']
+      },
       { # handcrafted
         productNumKey: 2,
         itemsKey: [

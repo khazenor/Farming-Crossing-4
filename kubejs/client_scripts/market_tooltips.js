@@ -677,6 +677,13 @@ ItemEvents.tooltip(event => {
     ])
   event.add(
     [
+      'kubejs:creative_upgrade'
+    ],
+    [
+      'Obtainable for 1000 tickets in the market'
+    ])
+  event.add(
+    [
       'minecraft:beef', 
       'minecraft:chicken', 
       'minecraft:mutton', 

@@ -187,6 +187,17 @@
     },
     {
       "output": {
+        "item": "kubejs:creative_upgrade",
+        "count": 1
+      },
+      "payment": {
+        "item": "kubejs:miles_ticket",
+        "count": 1000
+      },
+      "category": "fc"
+    },
+    {
+      "output": {
         "item": "handcrafted:black_sheet",
         "count": 2
       },
