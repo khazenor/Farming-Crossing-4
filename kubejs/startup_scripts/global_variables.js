@@ -3979,6 +3979,7 @@ global.foodClassifications = {
     'pamhc2foodextended:kalechipsitem'
   ],
   fcWetFoodsEatenCount: [
+    'minecraft:melon_slice',
     'candlelight:salmon_wine',
     'nethervinery:blazewine_pinot',
     'vinery:aegis_wine',
