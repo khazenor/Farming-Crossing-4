@@ -225,7 +225,7 @@ const displayFoodTallies = (player) => {
   const cold = playerTally('cold', player)
   const wet = playerTally('wet', player)
   const dry = playerTally('dry', player)
-  player.tell('====== CRAVING SCORES ======')
+  player.tell('==== RECENT FOODS EATEN ====')
   player.tell(`  Sweet: ${sweet},   Savory: ${savory}`)
   player.tell(`  Light: ${light},   Heavy: ${heavy}`)
   player.tell(`  Hot: ${hot},   Cold: ${cold}`)
