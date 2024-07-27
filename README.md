@@ -1,4 +1,4 @@
-# FC4 NPC's
+# FC4 NPC bio's and move in information
 ## Jess
 - Jess the Beaver is the entrepreneurial beaver who sold you the Adventurer's Settlement package and invited you to this new land.  She’s offering to sell you a wide range of furniture, hats, and decorations if you can find a place for her to set up shop.
 ### Requirement for move in
